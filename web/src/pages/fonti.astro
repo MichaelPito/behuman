@@ -1,0 +1,34 @@
+---
+import Base from "../layouts/Base.astro";
+import { meta } from "../lib/data";
+const m = meta();
+---
+<Base title="Fonti" description="Fonti dei dati, licenze e stato dell'ultimo aggiornamento.">
+  <h1>Fonti e licenze</h1>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Fonte</th><th>Cosa usiamo</th><th>Licenza</th></tr></thead>
+      <tbody>
+        {m.fonti.map((f: any) => (
+          <tr>
+            <td><a href={f.url} rel="noopener" target="_blank">{f.nome}</a></td>
+            <td class="small">{f.uso}</td>
+            <td class="small">{f.licenza}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Stato dell'ultimo aggiornamento</h2>
+  <p class="small">Eseguito il {m.aggiornato_il ? new Date(m.aggiornato_il).toLocaleString("it-IT", { timeZone: "Europe/Rome" }) : "—"}.</p>
+  <ul class="small">
+    {Object.entries(m.fonti_ok).map(([k, v]) => <li>{k}: ok ({new Date(v).toLocaleString("it-IT", { timeZone: "Europe/Rome" })})</li>)}
+  </ul>
+  {m.errori.length > 0 && (
+    <>
+      <p class="avviso">Alcune fonti non hanno risposto: per questi soggetti sono mostrati i dati dell'aggiornamento precedente.</p>
+      <ul class="small">{m.errori.map((e: any) => <li>{e.soggetto} · {e.fonte}: {e.errore}</li>)}</ul>
+    </>
+  )}
+</Base>

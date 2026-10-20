@@ -1,0 +1,25 @@
+---
+import type { PoliticoBreve } from "../lib/data";
+import { pct } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props { p: PoliticoBreve }
+const { p } = Astro.props;
+const iniziali = p.nome.split(" ").map((s) => s[0]).slice(0, 2).join("");
+const ind = Object.entries(p.indicatori || {});
+---
+<a class="card" href={u(`/politici/${p.slug}/`)} data-cerca={`${p.nome} ${p.partito.nome} ${p.partito.sigla} ${p.ruolo}`.toLowerCase()}>
+  <div class="persona">
+    {p.foto ? <img src={p.foto} alt="" loading="lazy" /> : <span class="ph" aria-hidden="true">{iniziali}</span>}
+    <div>
+      <h3>{p.nome}</h3>
+      <div class="small muted">{p.ruolo}</div>
+      <div class="small">{p.partito.sigla}{!p.attivo && <span class="pill" style="margin-left:6px">non più attivo</span>}</div>
+    </div>
+  </div>
+  <div class="small muted" style="margin-top:10px; display:flex; gap:14px; flex-wrap:wrap">
+    {ind.map(([camera, i]) => <span>{camera}: presenza {pct(i.presenza.percentuale)}</span>)}
+    {ind.length === 0 && <span>Non parlamentare</span>}
+    <span>{p.coerenza.cambi_totali} cambi di posizione documentati</span>
+  </div>
+</a>

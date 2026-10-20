@@ -1,0 +1,19 @@
+---
+import Base from "../../layouts/Base.astro";
+import { partiti } from "../../lib/data";
+import { u } from "../../lib/url";
+const lista = partiti().sort((a, b) => a.nome.localeCompare(b.nome, "it"));
+---
+<Base title="Partiti" description="Partiti monitorati: coalizioni, voti dei gruppi parlamentari e cambi di posizione documentati.">
+  <h1>Partiti</h1>
+  <p class="muted">Per i partiti usiamo il voto prevalente del loro gruppo parlamentare nelle votazioni chiave, più le posizioni ufficiali verificate.</p>
+  <div class="grid cards">
+    {lista.map((p) => (
+      <a class="card" href={u(`/partiti/${p.slug}/`)}>
+        <h3>{p.nome}</h3>
+        <div class="small muted">{p.sigla} · {p.schieramento === "governo" ? "Maggioranza" : p.schieramento === "opposizione" ? "Opposizione" : "Altro"}</div>
+        <div class="small" style="margin-top:8px">{p.coerenza.cambi_totali} cambi di posizione su {p.coerenza.proposizioni_confrontabili} temi confrontabili</div>
+      </a>
+    ))}
+  </div>
+</Base>

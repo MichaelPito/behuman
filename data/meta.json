@@ -1,0 +1,57 @@
+{
+ "aggiornato_il": "2026-10-20T13:48:07+00:00",
+ "finestra": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20",
+  "anni": 5
+ },
+ "fonti": [
+  {
+   "nome": "Camera dei Deputati – dati.camera.it",
+   "url": "https://dati.camera.it/",
+   "uso": "Votazioni nominali, presenze, gruppi parlamentari, atti, incarichi di governo (SPARQL)",
+   "licenza": "CC BY-SA 4.0 (per questo i dati derivati del sito sono rilasciati CC BY-SA 4.0)"
+  },
+  {
+   "nome": "Senato della Repubblica – dati.senato.it",
+   "url": "https://dati.senato.it/",
+   "uso": "Votazioni nominali, presenze, gruppi parlamentari, disegni di legge (SPARQL)",
+   "licenza": "CC BY 3.0 IT"
+  },
+  {
+   "nome": "Governo italiano – governo.it",
+   "url": "https://www.governo.it/",
+   "uso": "Comunicati e atti del Consiglio dei ministri (RSS)",
+   "licenza": "CC BY 3.0 IT (salvo diversa indicazione)"
+  },
+  {
+   "nome": "Wikidata",
+   "url": "https://www.wikidata.org/",
+   "uso": "Anagrafica, cariche, appartenenza ai partiti, foto (da Wikimedia Commons)",
+   "licenza": "CC0 (dati) · licenze varie per le foto, indicate su Commons"
+  },
+  {
+   "nome": "Ministero dell'Interno – Elezioni trasparenti (DAIT)",
+   "url": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022",
+   "uso": "Programmi elettorali 2022 depositati dalle liste (legge 165/2017)",
+   "licenza": "Documenti pubblici per legge; si linka il documento originale"
+  },
+  {
+   "nome": "Chapel Hill Expert Survey (CHES)",
+   "url": "https://www.chesdata.eu/",
+   "uso": "Posizionamento destra/sinistra e su UE dei partiti (misura accademica indipendente)",
+   "licenza": "Uso con citazione degli autori"
+  }
+ ],
+ "fonti_ok": {
+  "wikidata": "2026-10-20T13:47:53+00:00",
+  "camera": "2026-10-20T13:48:06+00:00",
+  "senato": "2026-10-20T13:48:04+00:00",
+  "commons": "2026-10-20T13:48:00+00:00",
+  "ches": "2026-10-20T13:48:05+00:00",
+  "programmi": "2026-10-20T13:48:06+00:00",
+  "feed:governo": "2026-10-20T13:48:07+00:00"
+ },
+ "errori": [],
+ "offline": false
+}

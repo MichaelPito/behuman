@@ -1,0 +1,19 @@
+---
+import type { Cambio } from "../lib/data";
+import { proposizioniIndice } from "../lib/data";
+import { u } from "../lib/url";
+import PosizioneRiga from "./PosizioneRiga.astro";
+
+interface Props { c: Cambio }
+const { c } = Astro.props;
+const prop = proposizioniIndice()[c.proposizione];
+---
+<article class="card">
+  <div class="small muted">{prop ? <a href={u(`/temi/${prop.tema}/`)}>{prop.temaNome}</a> : null}</div>
+  <h3>«{prop?.testo ?? c.proposizione}»</h3>
+  <div class="cambio" style="margin-top:10px">
+    <div class="card" style="background:transparent"><div class="tiny muted">PRIMA</div><PosizioneRiga p={c.prima} /></div>
+    <div class="freccia" aria-hidden="true">→</div>
+    <div class="card" style="background:transparent"><div class="tiny muted">DOPO</div><PosizioneRiga p={c.dopo} /></div>
+  </div>
+</article>

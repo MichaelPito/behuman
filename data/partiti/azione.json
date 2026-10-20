@@ -1,0 +1,258 @@
+{
+ "slug": "azione",
+ "nome": "Azione",
+ "sigla": "Azione",
+ "schieramento": "opposizione",
+ "sito": null,
+ "wikidata": "https://www.wikidata.org/wiki/Q63926676",
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "attivo": true,
+ "gruppi_parlamentari": {
+  "Camera": [
+   "AIV-RE",
+   "APERRE"
+  ],
+  "Senato": [
+   "91@2022-10-13..2023-11-08"
+  ]
+ },
+ "membri_monitorati": [
+  {
+   "slug": "carlo-calenda",
+   "nome": "Carlo Calenda",
+   "ruolo": "Segretario di Azione"
+  },
+  {
+   "slug": "matteo-richetti",
+   "nome": "Matteo Richetti",
+   "ruolo": "Capogruppo di Azione alla Camera"
+  }
+ ],
+ "coalizioni": [
+  {
+   "governo": "Governo Draghi",
+   "inizio": "2021-02-12",
+   "fine": "2022-10-21",
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g182",
+   "partito": "azione",
+   "ruolo": "maggioranza"
+  },
+  {
+   "governo": "Governo Meloni",
+   "inizio": "2022-10-21",
+   "fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "partito": "azione",
+   "ruolo": "opposizione"
+  }
+ ],
+ "ideologia": {
+  "misure": [
+   {
+    "anno": 2024,
+    "sigla_ches": "A",
+    "id_ches": "849",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 6.79,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "A",
+    "id_ches": "849",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 3.46,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "A",
+    "id_ches": "849",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 4.43,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   }
+  ],
+  "programma_2022": {
+   "lista": "AZIONE - ITALIA VIVA - CALENDA",
+   "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/7/%287_progr_2_%29-programma_azione-italia_viva-calenda.pdf",
+   "elezione": "Elezioni politiche 25 settembre 2022",
+   "fonte": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022"
+  }
+ },
+ "posizioni": [
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2026-02-11",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_613_016",
+    "conteggi": {
+     "Non ha votato": 4,
+     "Favorevole": 6
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-09-18",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_531_001",
+    "conteggi": {
+     "Favorevole": 8,
+     "Non ha votato": 2
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "Camera, seconda deliberazione (settembre 2025)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2025-01-28",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_418_015",
+    "conteggi": {
+     "Non ha votato": 3,
+     "Favorevole": 7
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-01-16",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_410_031",
+    "conteggi": {
+     "Non ha votato": 6,
+     "Favorevole": 4
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "Camera, prima deliberazione (gennaio 2025)"
+   }
+  },
+  {
+   "proposizione": "autonomia-differenziata-legge-calderoli",
+   "data": "2024-06-19",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_309_246",
+    "conteggi": {
+     "Contrario": 3,
+     "Non ha votato": 9
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2024-02-08",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_241_001",
+    "conteggi": {
+     "Favorevole": 10,
+     "Non ha votato": 3
+    },
+    "gruppi": [
+     "APERRE"
+    ],
+    "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2023-01-24",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AIV-RE – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_042_011",
+    "conteggi": {
+     "Favorevole": 15,
+     "Non ha votato": 6
+    },
+    "gruppi": [
+     "AIV-RE"
+    ],
+    "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2023-01-11",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo Az-IV-RE – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+   "dettagli": {
+    "votazione": "19-27-4",
+    "conteggi": {
+     "Favorevole": 8,
+     "In congedo o missione": 1
+    },
+    "gruppi": [
+     "Az-IV-RE"
+    ],
+    "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+   }
+  }
+ ],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 3,
+  "proposizioni_confrontabili": 2,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": "Nel 2022 si è presentata in lista comune con Italia Viva; i gruppi parlamentari comuni si sono separati nel novembre 2023. Fino ad allora il voto del gruppo congiunto è attribuito a entrambi.",
+ "aggiornato_il": "2026-10-20"
+}

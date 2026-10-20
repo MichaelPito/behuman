@@ -1,0 +1,75 @@
+---
+import Base from "../../layouts/Base.astro";
+import { dataIt, ETICHETTA_POSIZIONE, SIMBOLO_POSIZIONE, temi } from "../../lib/data";
+import { u } from "../../lib/url";
+
+export function getStaticPaths() {
+  return temi().map((t) => ({ params: { id: t.id } }));
+}
+const t = temi().find((x) => x.id === Astro.params.id)!;
+---
+<Base title={t.nome} description={t.descrizione}>
+  <h1>{t.nome}</h1>
+  {t.descrizione && <p class="muted">{t.descrizione}</p>}
+  {t.proposizioni.map((p) => {
+    const partiti = p.soggetti.filter((s) => s.tipo === "partito");
+    const politici = p.soggetti.filter((s) => s.tipo === "politico");
+    const colonne = p.voti.map((v) => v.id);
+    const cella = (s: (typeof p.soggetti)[number], vid: string) => s.posizioni.find((x) => x.dettagli?.votazione === vid);
+    return (
+      <section>
+        <h2>«{p.testo}»</h2>
+        {p.contesto && <p class="small muted">{p.contesto}</p>}
+        <h3>Votazioni collegate</h3>
+        <ol class="small">
+          {p.voti.map((v) => (
+            <li>
+              {dataIt(v.data)} · {v.camera} · {v.titolo} {v.url && <a href={v.url} rel="noopener" target="_blank">↗</a>}
+              {v.polarita === "inversa" && <span class="pill">votare sì = contro la proposizione</span>}
+              {v.nota && <div class="tiny muted">{v.nota}</div>}
+            </li>
+          ))}
+        </ol>
+        {partiti.length > 0 && (
+          <>
+            <h3>Voto prevalente dei gruppi parlamentari</h3>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Partito</th>{p.voti.map((v, i) => <th title={v.titolo ?? ""}>{i + 1}. {dataIt(v.data)}</th>)}<th>Cambi</th></tr></thead>
+                <tbody>
+                  {partiti.map((s) => (
+                    <tr>
+                      <td><a href={u(`/partiti/${s.slug}/`)}>{s.nome}</a></td>
+                      {colonne.map((vid) => {
+                        const x = cella(s, vid);
+                        return <td>{x ? <span class={`pos ${x.posizione}`}>{SIMBOLO_POSIZIONE[x.posizione]} {ETICHETTA_POSIZIONE[x.posizione]}</span> : <span class="muted">—</span>}</td>;
+                      })}
+                      <td>{s.cambi}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+            <p class="tiny muted">«—» = gruppo non presente in quella legislatura o voto non espresso. Passa sulle intestazioni per il titolo dell'atto.</p>
+          </>
+        )}
+        {politici.length > 0 && (
+          <>
+            <h3>Politici monitorati</h3>
+            <ul>
+              {politici.map((s) => (
+                <li>
+                  <a href={u(`/politici/${s.slug}/`)}>{s.nome}</a>:{" "}
+                  <span style="display:inline-flex; flex-wrap:wrap; gap:2px 10px">
+                    {s.posizioni.map((x) => <span class={`pos ${x.posizione}`} title={x.descrizione}>{SIMBOLO_POSIZIONE[x.posizione]} {dataIt(x.data)}</span>)}
+                  </span>
+                  {s.cambi > 0 && <span class="pill">{s.cambi} cambi</span>}
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+      </section>
+    );
+  })}
+</Base>

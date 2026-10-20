@@ -1,0 +1,61 @@
+---
+import Base from "../layouts/Base.astro";
+import PersonaCard from "../components/PersonaCard.astro";
+import { politici, partiti, aggiornamenti, dataIt, meta, perCognome } from "../lib/data";
+import { u } from "../lib/url";
+
+const tutti = politici().sort(perCognome);
+const governo = tutti.filter((p) => p.schieramento === "governo");
+const opposizione = tutti.filter((p) => p.schieramento === "opposizione");
+const ultimi = aggiornamenti().slice(0, 6);
+const m = meta();
+---
+<Base title="Memoria Politica">
+  <section class="hero">
+    <h1>Chi stai votando, e quanto è stato coerente?</h1>
+    <p class="muted">
+      Voti in Parlamento, presenze, cambi di gruppo e posizioni prese negli ultimi {m.finestra.anni} anni dai principali
+      esponenti di governo e opposizione. Ogni dato ha una fonte ufficiale cliccabile. Noi non diamo giudizi: mettiamo
+      in fila i fatti, tu tiri le conclusioni.
+    </p>
+    <input class="search" type="search" placeholder="Cerca un politico o un partito…" aria-label="Cerca" id="cerca" />
+  </section>
+
+  <div class="grid two" style="margin-top:24px">
+    <section>
+      <h2>Maggioranza di governo</h2>
+      <div class="grid" id="lista-governo">{governo.map((p) => <PersonaCard p={p} />)}</div>
+    </section>
+    <section>
+      <h2>Opposizione</h2>
+      <div class="grid" id="lista-opposizione">{opposizione.map((p) => <PersonaCard p={p} />)}</div>
+    </section>
+  </div>
+
+  <h2>Partiti</h2>
+  <div class="grid cards">
+    {partiti().sort((a, b) => a.nome.localeCompare(b.nome, "it")).map((p) => (
+      <a class="card" href={u(`/partiti/${p.slug}/`)} data-cerca={`${p.nome} ${p.sigla}`.toLowerCase()}>
+        <h3>{p.nome}</h3>
+        <div class="small muted">{p.schieramento === "governo" ? "Maggioranza di governo" : p.schieramento === "opposizione" ? "Opposizione" : "Altro"} · {p.coerenza.cambi_totali} cambi documentati</div>
+      </a>
+    ))}
+  </div>
+
+  <h2>Ultimi atti e annunci ufficiali</h2>
+  {ultimi.length === 0 && <p class="muted">Nessun aggiornamento ancora raccolto.</p>}
+  <ul>
+    {ultimi.map((a) => <li><span class="small muted">{dataIt(a.data)} · {a.fonte}</span> — <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a></li>)}
+  </ul>
+  <p><a href={u("/aggiornamenti/")}>Tutti gli aggiornamenti →</a></p>
+
+  <script>
+    const input = document.getElementById("cerca") as HTMLInputElement | null;
+    input?.addEventListener("input", () => {
+      const q = input.value.trim().toLowerCase();
+      document.querySelectorAll<HTMLElement>("[data-cerca]").forEach((el) => {
+        el.style.display = !q || (el.dataset.cerca || "").includes(q) ? "" : "none";
+      });
+    });
+  </script>
+</Base>

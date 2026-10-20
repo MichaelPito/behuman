@@ -1,0 +1,14 @@
+name: Proponi un tema o una votazione
+description: Una nuova proposizione da monitorare o una votazione da collegare a una proposizione esistente.
+title: "[Tema] "
+labels: ["tema", "da-verificare"]
+body:
+  - type: textarea
+    id: proposizione
+    attributes:
+      label: Proposizione
+      description: "Frase neutra e verificabile su cui si può essere a favore o contro. Deve poter riguardare sia la maggioranza sia l'opposizione."
+    validations: { required: true }
+  - type: textarea
+    id: votazioni
+    attributes: { label: Votazioni collegate, description: "ID (es. vs19_042_011) o link alle votazioni, e perché l'oggetto coincide con la proposizione" }

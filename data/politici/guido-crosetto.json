@@ -1,0 +1,73 @@
+{
+ "slug": "guido-crosetto",
+ "nome": "Guido Crosetto",
+ "ruolo": "Ministro della difesa",
+ "schieramento": "governo",
+ "partito": {
+  "slug": "fdi",
+  "nome": "Fratelli d'Italia",
+  "sigla": "FdI"
+ },
+ "attivo": true,
+ "attivo_fino": null,
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "anagrafica": {
+  "nascita": "1963-09-19",
+  "morte": null,
+  "descrizione": "politico italiano (1963-)",
+  "sito": "http://www.guidocrosetto.it/",
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg/500px-Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "foto_fonte": "https://commons.wikimedia.org/wiki/File:Guido_Crosetto_foto_ufficiale_(cropped).jpg",
+  "foto_autore": "Ministero della Difesa",
+  "foto_licenza": "CC BY 4.0",
+  "wikidata": "https://www.wikidata.org/wiki/Q3119423"
+ },
+ "cariche": [
+  {
+   "carica": "Ministro della Difesa",
+   "di": "Ministro",
+   "inizio": "2022-10-23",
+   "fine": null,
+   "motivo_fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "fonte_nome": "Camera dei Deputati"
+  }
+ ],
+ "partiti_storico": [
+  {
+   "partito": "Fratelli d'Italia",
+   "wikidata": "Q1757843",
+   "inizio": "2012-01-01",
+   "fine": null
+  }
+ ],
+ "parlamento": {},
+ "indicatori": {},
+ "posizioni": [],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 0,
+  "proposizioni_confrontabili": 0,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": null,
+ "aggiornato_il": "2026-10-20",
+ "_foto": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg/500px-Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Guido_Crosetto_foto_ufficiale_(cropped).jpg",
+  "autore": "Ministero della Difesa",
+  "licenza": "CC BY 4.0"
+ },
+ "_anagrafica_wd": {
+  "wikidata": "Q3119423",
+  "nome": "Guido Crosetto",
+  "descr": "politico italiano (1963-)",
+  "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Crosetto%20foto%20ufficiale%20%28cropped%29.jpg",
+  "sito": "http://www.guidocrosetto.it/",
+  "nascita": "1963-09-19"
+ }
+}

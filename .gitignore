@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# cache delle query (si rigenera; in CI è salvata con actions/cache)
+.cache/
+# Sito
+web/node_modules/
+web/dist/
+web/.astro/
+# Sistema
+.DS_Store

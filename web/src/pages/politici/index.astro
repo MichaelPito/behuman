@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import { politici, pct, perCognome } from "../../lib/data";
+import { u } from "../../lib/url";
+
+const lista = politici().sort(perCognome);
+---
+<Base title="Politici" description="Elenco dei politici monitorati con presenze, fedeltà al gruppo e cambi di posizione documentati.">
+  <h1>Politici monitorati</h1>
+  <p class="muted">Ordine alfabetico per cognome. I numeri sono conteggi da fonti ufficiali: clicca un nome per vedere ogni dato con la sua fonte.</p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Nome</th><th>Ruolo</th><th>Partito</th><th>Presenza al voto</th><th>Voti in linea col gruppo</th><th>Cambi di posizione</th></tr></thead>
+      <tbody>
+        {lista.map((p) => {
+          const ind = Object.entries(p.indicatori || {});
+          return (
+            <tr>
+              <td><a href={u(`/politici/${p.slug}/`)}>{p.nome}</a></td>
+              <td class="small">{p.ruolo}</td>
+              <td>{p.partito.sigla}</td>
+              <td class="small">{ind.length ? ind.map(([c, i]) => <div>{c}: {pct(i.presenza.percentuale)}</div>) : <span class="muted">non parlamentare</span>}</td>
+              <td class="small">{ind.length ? ind.map(([c, i]) => <div>{c}: {pct(i.fedelta_gruppo.percentuale_allineati)}</div>) : "—"}</td>
+              <td>{p.coerenza.cambi_totali} <span class="tiny muted">su {p.coerenza.proposizioni_confrontabili} temi confrontabili</span></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</Base>

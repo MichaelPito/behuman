@@ -1,0 +1,73 @@
+{
+ "slug": "matteo-piantedosi",
+ "nome": "Matteo Piantedosi",
+ "ruolo": "Ministro dell'interno (indipendente)",
+ "schieramento": "governo",
+ "partito": {
+  "slug": null,
+  "nome": "Indipendente",
+  "sigla": "Ind."
+ },
+ "attivo": true,
+ "attivo_fino": null,
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "anagrafica": {
+  "nascita": "1963-04-20",
+  "morte": null,
+  "descrizione": "prefetto e politico italiano (1963-)",
+  "sito": null,
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matteo_Piantedosi.png/500px-Matteo_Piantedosi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "foto_fonte": "https://commons.wikimedia.org/wiki/File:Matteo_Piantedosi.png",
+  "foto_autore": "Ministero dell’Interno",
+  "foto_licenza": "CC BY 3.0 it",
+  "wikidata": "https://www.wikidata.org/wiki/Q114796723"
+ },
+ "cariche": [
+  {
+   "carica": "prefetto di Roma",
+   "di": null,
+   "inizio": "2020-08-17",
+   "fine": "2022-10-22",
+   "fonte": "https://www.wikidata.org/wiki/Q114796723",
+   "fonte_nome": "Wikidata"
+  },
+  {
+   "carica": "Ministro dell'Interno",
+   "di": "Ministro",
+   "inizio": "2022-10-23",
+   "fine": null,
+   "motivo_fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "fonte_nome": "Camera dei Deputati"
+  }
+ ],
+ "partiti_storico": [],
+ "parlamento": {},
+ "indicatori": {},
+ "posizioni": [],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 0,
+  "proposizioni_confrontabili": 0,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": null,
+ "aggiornato_il": "2026-10-20",
+ "_foto": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matteo_Piantedosi.png/500px-Matteo_Piantedosi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Piantedosi.png",
+  "autore": "Ministero dell’Interno",
+  "licenza": "CC BY 3.0 it"
+ },
+ "_anagrafica_wd": {
+  "wikidata": "Q114796723",
+  "nome": "Matteo Piantedosi",
+  "descr": "prefetto e politico italiano (1963-)",
+  "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Matteo%20Piantedosi.png",
+  "nascita": "1963-04-20"
+ }
+}

@@ -1,0 +1,420 @@
+{
+ "slug": "pd",
+ "nome": "Partito Democratico",
+ "sigla": "PD",
+ "schieramento": "opposizione",
+ "sito": "https://partitodemocratico.it/",
+ "wikidata": "https://www.wikidata.org/wiki/Q47729",
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "attivo": true,
+ "gruppi_parlamentari": {
+  "Camera": [
+   "PD",
+   "PD-IDP"
+  ],
+  "Senato": [
+   "49"
+  ]
+ },
+ "membri_monitorati": [
+  {
+   "slug": "elly-schlein",
+   "nome": "Elly Schlein",
+   "ruolo": "Segretaria del Partito Democratico"
+  },
+  {
+   "slug": "chiara-braga",
+   "nome": "Chiara Braga",
+   "ruolo": "Capogruppo del PD alla Camera"
+  },
+  {
+   "slug": "francesco-boccia",
+   "nome": "Francesco Boccia",
+   "ruolo": "Capogruppo del PD al Senato"
+  }
+ ],
+ "coalizioni": [
+  {
+   "governo": "Governo Draghi",
+   "inizio": "2021-02-12",
+   "fine": "2022-10-21",
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g182",
+   "partito": "pd",
+   "ruolo": "maggioranza"
+  },
+  {
+   "governo": "Governo Meloni",
+   "inizio": "2022-10-21",
+   "fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "partito": "pd",
+   "ruolo": "opposizione"
+  }
+ ],
+ "ideologia": {
+  "misure": [
+   {
+    "anno": 2019,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 6.79,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 6.8,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2019,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 2.26,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 2.33,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2019,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 3.21,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "PD",
+    "id_ches": "837",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 2.93,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   }
+  ],
+  "programma_2022": {
+   "lista": "PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA",
+   "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/75/%2875_progr_2_%29-programma_politiche_2022.pdf",
+   "elezione": "Elezioni politiche 25 settembre 2022",
+   "fonte": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022"
+  }
+ },
+ "posizioni": [
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2026-02-11",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_613_016",
+    "conteggi": {
+     "Non ha votato": 13,
+     "Favorevole": 57
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-10-30",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+   "dettagli": {
+    "votazione": "19-361-2",
+    "conteggi": {
+     "Contrario": 32,
+     "In congedo o missione": 4
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-09-18",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_531_001",
+    "conteggi": {
+     "Non ha votato": 8,
+     "Contrario": 62
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Camera, seconda deliberazione (settembre 2025)"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-07-22",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+   "dettagli": {
+    "votazione": "19-331-1",
+    "conteggi": {
+     "Contrario": 31,
+     "Presidente di turno": 1,
+     "In congedo o missione": 3,
+     "Presente non votante": 1
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2025-01-28",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_418_015",
+    "conteggi": {
+     "Non ha votato": 22,
+     "Favorevole": 48
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2025-01-22",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+   "dettagli": {
+    "votazione": "19-265-2",
+    "conteggi": {
+     "Favorevole": 30,
+     "Astensione": 1,
+     "In congedo o missione": 2,
+     "Presente non votante": 4
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-01-16",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_410_031",
+    "conteggi": {
+     "Contrario": 50,
+     "Non ha votato": 20
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Camera, prima deliberazione (gennaio 2025)"
+   }
+  },
+  {
+   "proposizione": "autonomia-differenziata-legge-calderoli",
+   "data": "2024-06-19",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_309_246",
+    "conteggi": {
+     "Non ha votato": 21,
+     "Contrario": 49
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2024-02-08",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_241_001",
+    "conteggi": {
+     "Non ha votato": 16,
+     "Favorevole": 53
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2024-01-24",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+   "dettagli": {
+    "votazione": "19-149-8",
+    "conteggi": {
+     "Favorevole": 23,
+     "In congedo o missione": 6,
+     "Presente non votante": 6
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+   }
+  },
+  {
+   "proposizione": "autonomia-differenziata-legge-calderoli",
+   "data": "2024-01-23",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+   "dettagli": {
+    "votazione": "19-148-1",
+    "conteggi": {
+     "Contrario": 32,
+     "In congedo o missione": 5
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2023-01-24",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_042_011",
+    "conteggi": {
+     "Non ha votato": 17,
+     "Favorevole": 51,
+     "Contrario": 1
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2023-01-11",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+   "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+   "dettagli": {
+    "votazione": "19-27-4",
+    "conteggi": {
+     "Favorevole": 27,
+     "Contrario": 2,
+     "Astensione": 2,
+     "In congedo o missione": 3,
+     "Presente non votante": 1
+    },
+    "gruppi": [
+     "PD-IDP"
+    ],
+    "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2022-03-17",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo PD – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs18_659_001",
+    "conteggi": {
+     "Favorevole": 68,
+     "Non ha votato": 28,
+     "Astensione": 1
+    },
+    "gruppi": [
+     "PD"
+    ],
+    "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+   }
+  }
+ ],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 3,
+  "proposizioni_confrontabili": 3,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": null,
+ "aggiornato_il": "2026-10-20"
+}

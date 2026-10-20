@@ -1,0 +1,36 @@
+---
+// Barre mensili del tasso di partecipazione al voto. SVG statico, nessuna libreria.
+interface Props {
+  mesi: { mese: string; presenti: number; totale: number }[];
+  mediana?: number | null;
+}
+const { mesi, mediana } = Astro.props;
+const W = 720, H = 180, P = { t: 10, r: 8, b: 26, l: 30 };
+const n = Math.max(mesi.length, 1);
+const bw = (W - P.l - P.r) / n;
+const y = (v: number) => P.t + (H - P.t - P.b) * (1 - v / 100);
+const MESI = ["gen", "feb", "mar", "apr", "mag", "giu", "lug", "ago", "set", "ott", "nov", "dic"];
+---
+<svg class="chart" viewBox={`0 0 ${W} ${H}`} role="img" aria-label="Partecipazione mensile alle votazioni in percentuale">
+  {[0, 50, 100].map((v) => (
+    <g>
+      <line x1={P.l} x2={W - P.r} y1={y(v)} y2={y(v)} stroke="var(--line)" />
+      <text x={P.l - 4} y={y(v) + 3} text-anchor="end">{v}%</text>
+    </g>
+  ))}
+  {mesi.map((m, i) => {
+    const v = m.totale ? (100 * m.presenti) / m.totale : 0;
+    return (
+      <rect x={P.l + i * bw + 1} width={Math.max(bw - 2, 1)} y={y(v)} height={y(0) - y(v)} fill="var(--accent)" opacity="0.85" rx="1">
+        <title>{`${m.mese}: ${v.toFixed(1)}% (${m.presenti} su ${m.totale} votazioni)`}</title>
+      </rect>
+    );
+  })}
+  {mesi.map((m, i) => (m.mese.endsWith("-01") || i === 0 ? <text x={P.l + i * bw} y={H - 8}>{`${MESI[Number(m.mese.slice(5)) - 1]} ${m.mese.slice(0, 4)}`}</text> : null))}
+  {mediana != null && (
+    <g>
+      <line x1={P.l} x2={W - P.r} y1={y(mediana)} y2={y(mediana)} stroke="var(--ink)" stroke-dasharray="4 3" />
+      <text x={W - P.r} y={y(mediana) - 4} text-anchor="end">mediana dell'Aula {mediana}%</text>
+    </g>
+  )}
+</svg>

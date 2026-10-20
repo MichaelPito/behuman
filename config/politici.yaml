@@ -1,0 +1,210 @@
+# Politici monitorati (fase 1): principali esponenti della maggioranza di governo e dell'opposizione.
+# Stesso numero per schieramento (12 + 12), come da regola di equilibrio (docs/02-metodologia.md).
+#
+# camera: ID persona su dati.camera.it (persona.rdf/p<ID>): serve anche per gli incarichi di governo,
+#         che la Camera registra pure per i ministri non parlamentari.
+# senato: ID senatore su dati.senato.it (senatore/<ID>).
+# attivo_fino: da compilare se la persona lascia la politica (ritiro o decesso): i dati si fermano lì.
+# partito: null = indipendente.
+
+# ------------------------------------------------------------------ maggioranza di governo
+- slug: giorgia-meloni
+  nome: Giorgia Meloni
+  wikidata: Q451791
+  partito: fdi
+  schieramento: governo
+  ruolo: Presidente del Consiglio dei ministri
+  camera: "302103"
+
+- slug: matteo-salvini
+  nome: Matteo Salvini
+  wikidata: Q1055449
+  partito: lega
+  schieramento: governo
+  ruolo: Vicepresidente del Consiglio, Ministro delle infrastrutture e dei trasporti
+  camera: "302741"
+  senato: "25407"
+
+- slug: antonio-tajani
+  nome: Antonio Tajani
+  wikidata: Q440710
+  partito: fi
+  schieramento: governo
+  ruolo: Vicepresidente del Consiglio, Ministro degli affari esteri
+  camera: "308838"
+  note: Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.
+
+- slug: giancarlo-giorgetti
+  nome: Giancarlo Giorgetti
+  wikidata: Q659163
+  partito: lega
+  schieramento: governo
+  ruolo: Ministro dell'economia e delle finanze
+  camera: "50115"
+
+- slug: guido-crosetto
+  nome: Guido Crosetto
+  wikidata: Q3119423
+  partito: fdi
+  schieramento: governo
+  ruolo: Ministro della difesa
+  camera: "300356"
+
+- slug: matteo-piantedosi
+  nome: Matteo Piantedosi
+  wikidata: Q114796723
+  partito: null
+  schieramento: governo
+  ruolo: Ministro dell'interno (indipendente)
+  camera: "309042"
+
+- slug: carlo-nordio
+  nome: Carlo Nordio
+  wikidata: Q19357364
+  partito: fdi
+  schieramento: governo
+  ruolo: Ministro della giustizia
+  camera: "308798"
+
+- slug: adolfo-urso
+  nome: Adolfo Urso
+  wikidata: Q2824733
+  partito: fdi
+  schieramento: governo
+  ruolo: Ministro delle imprese e del made in Italy
+  camera: "39200"
+  senato: "2444"
+
+- slug: francesco-lollobrigida
+  nome: Francesco Lollobrigida
+  wikidata: Q56433809
+  partito: fdi
+  schieramento: governo
+  ruolo: Ministro dell'agricoltura, della sovranità alimentare e delle foreste
+  camera: "307463"
+
+- slug: roberto-calderoli
+  nome: Roberto Calderoli
+  wikidata: Q530825
+  partito: lega
+  schieramento: governo
+  ruolo: Ministro per gli affari regionali e le autonomie
+  camera: "32530"
+  senato: "422"
+
+- slug: gilberto-pichetto-fratin
+  nome: Gilberto Pichetto Fratin
+  wikidata: Q3764245
+  partito: fi
+  schieramento: governo
+  ruolo: Ministro dell'ambiente e della sicurezza energetica
+  camera: "303089"
+
+- slug: maurizio-lupi
+  nome: Maurizio Lupi
+  wikidata: Q3852636
+  partito: nm
+  schieramento: governo
+  ruolo: Capogruppo di Noi Moderati alla Camera
+  camera: "300447"
+
+# ------------------------------------------------------------------ opposizione
+- slug: elly-schlein
+  nome: Elly Schlein
+  wikidata: Q16975892
+  partito: pd
+  schieramento: opposizione
+  ruolo: Segretaria del Partito Democratico
+  camera: "308930"
+
+- slug: giuseppe-conte
+  nome: Giuseppe Conte
+  wikidata: Q53844829
+  partito: m5s
+  schieramento: opposizione
+  ruolo: Presidente del Movimento 5 Stelle
+  camera: "307926"
+
+- slug: nicola-fratoianni
+  nome: Nicola Fratoianni
+  wikidata: Q16582388
+  partito: avs
+  schieramento: opposizione
+  ruolo: Segretario di Sinistra Italiana (Alleanza Verdi e Sinistra)
+  camera: "305880"
+
+- slug: angelo-bonelli
+  nome: Angelo Bonelli
+  wikidata: Q3616895
+  partito: avs
+  schieramento: opposizione
+  ruolo: Co-portavoce di Europa Verde (Alleanza Verdi e Sinistra)
+  camera: "302080"
+
+- slug: carlo-calenda
+  nome: Carlo Calenda
+  wikidata: Q12467437
+  partito: azione
+  schieramento: opposizione
+  ruolo: Segretario di Azione
+  camera: "306550"
+  senato: "30110"
+  note: Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.
+
+- slug: matteo-renzi
+  nome: Matteo Renzi
+  wikidata: Q47563
+  partito: iv
+  schieramento: opposizione
+  ruolo: Leader di Italia Viva
+  camera: "306640"
+  senato: "30742"
+
+- slug: riccardo-magi
+  nome: Riccardo Magi
+  wikidata: Q24239732
+  partito: piu-europa
+  schieramento: opposizione
+  ruolo: Segretario di +Europa
+  camera: "307436"
+
+- slug: chiara-braga
+  nome: Chiara Braga
+  wikidata: Q3667470
+  partito: pd
+  schieramento: opposizione
+  ruolo: Capogruppo del PD alla Camera
+  camera: "302754"
+
+- slug: francesco-boccia
+  nome: Francesco Boccia
+  wikidata: Q3749638
+  partito: pd
+  schieramento: opposizione
+  ruolo: Capogruppo del PD al Senato
+  camera: "302892"
+  senato: "25555"
+
+- slug: maria-elena-boschi
+  nome: Maria Elena Boschi
+  wikidata: Q15143059
+  partito: iv
+  schieramento: opposizione
+  ruolo: Capogruppo di Italia Viva alla Camera
+  camera: "306160"
+
+- slug: matteo-richetti
+  nome: Matteo Richetti
+  wikidata: Q8218823
+  partito: azione
+  schieramento: opposizione
+  ruolo: Capogruppo di Azione alla Camera
+  camera: "305708"
+
+- slug: riccardo-ricciardi
+  nome: Riccardo Ricciardi
+  wikidata: Q60839977
+  partito: m5s
+  schieramento: opposizione
+  ruolo: Capogruppo del Movimento 5 Stelle alla Camera
+  camera: "307250"

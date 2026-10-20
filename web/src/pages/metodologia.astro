@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Metodo" description="Come raccogliamo e presentiamo i dati: regole di oggettività, definizioni, limiti.">
+  <h1>Come lavoriamo</h1>
+  <p class="muted">Regole scritte prima di guardare i dati, uguali per tutti, verificabili da chiunque. Il codice e i dati sono pubblici.</p>
+
+  <h2>1. Solo fatti con fonte</h2>
+  <p>Ogni dato mostrato porta a una fonte primaria: un voto registrato da Camera o Senato, un resoconto stenografico, un comunicato ufficiale, un video o un post dall'account ufficiale. Se un dato non ha fonte, non viene pubblicato.</p>
+
+  <h2>2. Nessun giudizio, nessun punteggio composito</h2>
+  <p>Non assegniamo voti in pagella né un «indice di affidabilità» unico: qualunque peso daremmo a presenze, coerenza o fedeltà sarebbe una scelta soggettiva. Mostriamo indicatori separati, ognuno definito come rapporto tra conteggi ufficiali.</p>
+
+  <h2>3. Definizioni</h2>
+  <dl>
+    <dt><strong>Partecipazione al voto</strong></dt>
+    <dd>Votazioni elettroniche in cui il parlamentare ha votato (favorevole, contrario, astenuto o voto segreto) diviso tutte le votazioni del periodo. Confronto: mediana dei membri della stessa Aula nello stesso periodo. I registri non separano l'assenza dalla missione istituzionale: lo segnaliamo sempre.</dd>
+    <dt><strong>Voti in linea con il gruppo</strong></dt>
+    <dd>Nei voti finali sulle leggi e nei voti di fiducia: quante volte il voto espresso coincide con il voto più frequente tra i colleghi dello stesso gruppo.</dd>
+    <dt><strong>Proposizione</strong></dt>
+    <dd>Una frase neutra e verificabile su cui si può essere a favore o contro (es. «Autorizzare la cessione di mezzi militari all'Ucraina»). Le proposizioni sono pubbliche e chiunque può proporne la correzione.</dd>
+    <dt><strong>Cambio di posizione</strong></dt>
+    <dd>Due prese di posizione consecutive dello stesso soggetto sulla stessa proposizione, una a favore e una contro. È una regola meccanica: non diciamo se il cambio sia giusto o sbagliato, né perché sia avvenuto.</dd>
+    <dt><strong>Posizione di un partito</strong></dt>
+    <dd>Il voto prevalente del suo gruppo parlamentare nella votazione collegata, con i conteggi completi visibili. Più le dichiarazioni ufficiali verificate.</dd>
+  </dl>
+
+  <h2>4. Dichiarazioni: doppia verifica</h2>
+  <p>Una dichiarazione entra nel sito solo se: (a) la citazione è testuale; (b) la fonte è primaria o un'agenzia di stampa con data; (c) ne esiste una copia d'archivio; (d) due revisori diversi, indipendentemente, la collegano alla stessa proposizione con la stessa posizione. Le dichiarazioni proposte da strumenti automatici restano in una coda di revisione e non vengono mai pubblicate senza questo passaggio.</p>
+
+  <h2>5. Equilibrio</h2>
+  <p>Monitoriamo con le stesse regole maggioranza e opposizione. Ogni nuova proposizione deve poter riguardare soggetti di entrambi gli schieramenti. Pubblichiamo ogni trimestre un rapporto sulla distribuzione dei cambi registrati per schieramento e sulle correzioni fatte.</p>
+
+  <h2>6. Periodo</h2>
+  <p>Ultimi 5 anni. Per chi ha lasciato la politica (ritiro o decesso), i dati si fermano alla data di fine attività.</p>
+
+  <h2>7. Errori e diritto di replica</h2>
+  <p>Chiunque, compresi i diretti interessati, può segnalare un errore con la fonte. Rispondiamo pubblicamente, correggiamo entro 72 ore e teniamo un registro delle correzioni. La storia di ogni dato è consultabile nella cronologia del repository.</p>
+
+  <h2>8. Limiti noti</h2>
+  <ul>
+    <li>I voti con procedimento non elettronico (alzata di mano) non sono registrati nominalmente.</li>
+    <li>I voti segreti mostrano solo la partecipazione, non il voto.</li>
+    <li>Chi non è parlamentare (alcuni ministri) non ha voti in Aula: per loro contano atti e dichiarazioni.</li>
+    <li>I dati della Camera e del Senato arrivano con qualche giorno di ritardo rispetto alla seduta.</li>
+  </ul>
+</Base>
