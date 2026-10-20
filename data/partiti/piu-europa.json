@@ -1,0 +1,155 @@
+{
+ "slug": "piu-europa",
+ "nome": "+Europa",
+ "sigla": "+E",
+ "schieramento": "opposizione",
+ "sito": null,
+ "wikidata": "https://www.wikidata.org/wiki/Q47090559",
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "attivo": true,
+ "gruppi_parlamentari": {
+  "Camera": [
+   "M-+EUR"
+  ],
+  "Senato": []
+ },
+ "membri_monitorati": [
+  {
+   "slug": "riccardo-magi",
+   "nome": "Riccardo Magi",
+   "ruolo": "Segretario di +Europa"
+  }
+ ],
+ "coalizioni": [
+  {
+   "governo": "Governo Draghi",
+   "inizio": "2021-02-12",
+   "fine": "2022-10-21",
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g182",
+   "partito": "piu-europa",
+   "ruolo": "maggioranza"
+  },
+  {
+   "governo": "Governo Meloni",
+   "inizio": "2022-10-21",
+   "fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "partito": "piu-europa",
+   "ruolo": "opposizione"
+  }
+ ],
+ "ideologia": {
+  "misure": [
+   {
+    "anno": 2024,
+    "sigla_ches": "+E",
+    "id_ches": "832",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 6.93,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "+E",
+    "id_ches": "832",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 1.33,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "+E",
+    "id_ches": "832",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 4.33,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   }
+  ],
+  "programma_2022": {
+   "lista": "+EUROPA",
+   "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/92/%2892_progr_2_%29-piu_europa.programma.pdf",
+   "elezione": "Elezioni politiche 25 settembre 2022",
+   "fonte": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022"
+  }
+ },
+ "posizioni": [
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2026-02-11",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo M-+EUR – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_613_016",
+    "conteggi": {
+     "Favorevole": 2,
+     "Non ha votato": 1
+    },
+    "gruppi": [
+     "M-+EUR"
+    ],
+    "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2025-01-28",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo M-+EUR – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_418_015",
+    "conteggi": {
+     "Non ha votato": 2,
+     "Favorevole": 1
+    },
+    "gruppi": [
+     "M-+EUR"
+    ],
+    "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2024-02-08",
+   "posizione": "a_favore",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo M-+EUR – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_241_001",
+    "conteggi": {
+     "Favorevole": 1,
+     "Non ha votato": 2
+    },
+    "gruppi": [
+     "M-+EUR"
+    ],
+    "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+   }
+  }
+ ],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 1,
+  "proposizioni_confrontabili": 1,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": "Alla Camera è una componente del gruppo Misto.",
+ "aggiornato_il": "2026-10-20"
+}

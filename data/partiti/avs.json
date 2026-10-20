@@ -1,0 +1,302 @@
+{
+ "slug": "avs",
+ "nome": "Alleanza Verdi e Sinistra",
+ "sigla": "AVS",
+ "schieramento": "opposizione",
+ "sito": "https://www.verdisinistra.it/",
+ "wikidata": "https://www.wikidata.org/wiki/Q113168799",
+ "periodo": {
+  "dal": "2021-10-20",
+  "al": "2026-10-20"
+ },
+ "attivo": true,
+ "gruppi_parlamentari": {
+  "Camera": [
+   "AVS"
+  ],
+  "Senato": []
+ },
+ "membri_monitorati": [
+  {
+   "slug": "nicola-fratoianni",
+   "nome": "Nicola Fratoianni",
+   "ruolo": "Segretario di Sinistra Italiana (Alleanza Verdi e Sinistra)"
+  },
+  {
+   "slug": "angelo-bonelli",
+   "nome": "Angelo Bonelli",
+   "ruolo": "Co-portavoce di Europa Verde (Alleanza Verdi e Sinistra)"
+  }
+ ],
+ "coalizioni": [
+  {
+   "governo": "Governo Draghi",
+   "inizio": "2021-02-12",
+   "fine": "2022-10-21",
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g182",
+   "partito": "avs",
+   "ruolo": "non ancora costituita",
+   "nota": "AVS nasce nel 2022. Sinistra Italiana (Fratoianni) aveva votato contro la fiducia al governo Draghi nel febbraio 2021."
+  },
+  {
+   "governo": "Governo Meloni",
+   "inizio": "2022-10-21",
+   "fine": null,
+   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202",
+   "partito": "avs",
+   "ruolo": "opposizione"
+  }
+ ],
+ "ideologia": {
+  "misure": [
+   {
+    "anno": 2019,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 5.27,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 4.85,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "EV",
+    "id_ches": "850",
+    "chiave": "eu_position",
+    "nome": "Posizione sull'integrazione europea",
+    "scala": "1 = fortemente contrari · 7 = fortemente favorevoli",
+    "valore": 5.71,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2019,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 0.69,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 1.69,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "EV",
+    "id_ches": "850",
+    "chiave": "galtan",
+    "nome": "Valori progressisti–tradizionali",
+    "scala": "0 = progressisti/libertari · 10 = tradizionali/autoritari",
+    "valore": 1.71,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2019,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 1.44,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "SI",
+    "id_ches": "838",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 1.23,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   },
+   {
+    "anno": 2024,
+    "sigla_ches": "EV",
+    "id_ches": "850",
+    "chiave": "lrgen",
+    "nome": "Sinistra–destra (generale)",
+    "scala": "0 = estrema sinistra · 10 = estrema destra",
+    "valore": 2.14,
+    "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)",
+    "url": "https://www.chesdata.eu/"
+   }
+  ],
+  "programma_2022": {
+   "lista": "ALLEANZA VERDI E SINISTRA",
+   "url": "https://dait.interno.gov.it/documenti/trasparenza/POLITICHE_20220925/Documenti/65/%2865_progr_2_%29-programma_di_alleanza_verdi_e_sinistra_in_pdfa.pdf",
+   "elezione": "Elezioni politiche 25 settembre 2022",
+   "fonte": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022"
+  }
+ },
+ "posizioni": [
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2026-02-11",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_613_016",
+    "conteggi": {
+     "Contrario": 8,
+     "Non ha votato": 2
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-09-18",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_531_001",
+    "conteggi": {
+     "Contrario": 9,
+     "Non ha votato": 1
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "Camera, seconda deliberazione (settembre 2025)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2025-01-28",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_418_015",
+    "conteggi": {
+     "Contrario": 10
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+   }
+  },
+  {
+   "proposizione": "separazione-carriere",
+   "data": "2025-01-16",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_410_031",
+    "conteggi": {
+     "Contrario": 9,
+     "Non ha votato": 1
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "Camera, prima deliberazione (gennaio 2025)"
+   }
+  },
+  {
+   "proposizione": "autonomia-differenziata-legge-calderoli",
+   "data": "2024-06-19",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_309_246",
+    "conteggi": {
+     "Non ha votato": 2,
+     "Contrario": 8
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2024-02-08",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_241_001",
+    "conteggi": {
+     "Contrario": 10,
+     "Non ha votato": 1
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+   }
+  },
+  {
+   "proposizione": "ucraina-cessione-armi",
+   "data": "2023-01-24",
+   "posizione": "contro",
+   "tipo": "voto_gruppo",
+   "descrizione": "Camera: voto prevalente del gruppo AVS – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+   "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+   "dettagli": {
+    "votazione": "vs19_042_011",
+    "conteggi": {
+     "Contrario": 7,
+     "Non ha votato": 4
+    },
+    "gruppi": [
+     "AVS"
+    ],
+    "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+   }
+  }
+ ],
+ "cambi_posizione": [],
+ "coerenza": {
+  "proposizioni_con_posizioni": 3,
+  "proposizioni_confrontabili": 2,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "note": "Alleanza tra Europa Verde e Sinistra Italiana, nata nel 2022: il CHES misura separatamente le due componenti (SI ed EV). Al Senato i suoi eletti sono nel gruppo Misto, quindi il voto di gruppo non è attribuibile.",
+ "aggiornato_il": "2026-10-20"
+}

@@ -1,0 +1,132 @@
+[
+ {
+  "slug": "fdi",
+  "nome": "Fratelli d'Italia",
+  "sigla": "FdI",
+  "schieramento": "governo",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "lega",
+  "nome": "Lega per Salvini Premier",
+  "sigla": "Lega",
+  "schieramento": "governo",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "fi",
+  "nome": "Forza Italia",
+  "sigla": "FI",
+  "schieramento": "governo",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "nm",
+  "nome": "Noi Moderati",
+  "sigla": "NM",
+  "schieramento": "governo",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "pd",
+  "nome": "Partito Democratico",
+  "sigla": "PD",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "m5s",
+  "nome": "Movimento 5 Stelle",
+  "sigla": "M5S",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 3,
+   "proposizioni_con_cambi": 1,
+   "cambi_totali": 1
+  }
+ },
+ {
+  "slug": "avs",
+  "nome": "Alleanza Verdi e Sinistra",
+  "sigla": "AVS",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "azione",
+  "nome": "Azione",
+  "sigla": "Azione",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "iv",
+  "nome": "Italia Viva",
+  "sigla": "IV",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "piu-europa",
+  "nome": "+Europa",
+  "sigla": "+E",
+  "schieramento": "opposizione",
+  "attivo": true,
+  "coerenza": {
+   "proposizioni_con_posizioni": 1,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ }
+]

@@ -1,0 +1,3856 @@
+[
+ {
+  "id": "ucraina",
+  "nome": "Sostegno militare all'Ucraina",
+  "descrizione": "Autorizzazioni annuali a cedere mezzi e materiali militari alle autorità ucraine (2022–2026).",
+  "proposizioni": [
+   {
+    "id": "ucraina-cessione-armi",
+    "testo": "Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina",
+    "contesto": "Dal 2022 il Parlamento converte ogni anno un decreto-legge che proroga l'autorizzazione. I voti collegati sono i voti finali sulla conversione di questi decreti.",
+    "voti": [
+     {
+      "id": "vs18_659_001",
+      "camera": "Camera",
+      "data": "2022-03-17",
+      "titolo": "Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+     },
+     {
+      "id": "19-27-4",
+      "camera": "Senato",
+      "data": "2023-01-11",
+      "titolo": "Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+      "polarita": "diretta",
+      "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+     },
+     {
+      "id": "vs19_042_011",
+      "camera": "Camera",
+      "data": "2023-01-24",
+      "titolo": "S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+     },
+     {
+      "id": "19-149-8",
+      "camera": "Senato",
+      "data": "2024-01-24",
+      "titolo": "Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+      "polarita": "diretta",
+      "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+     },
+     {
+      "id": "vs19_241_001",
+      "camera": "Camera",
+      "data": "2024-02-08",
+      "titolo": "S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+     },
+     {
+      "id": "19-265-2",
+      "camera": "Senato",
+      "data": "2025-01-22",
+      "titolo": "Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+      "polarita": "diretta",
+      "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+     },
+     {
+      "id": "vs19_418_015",
+      "camera": "Camera",
+      "data": "2025-01-28",
+      "titolo": "S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+     },
+     {
+      "id": "vs19_613_016",
+      "camera": "Camera",
+      "data": "2026-02-11",
+      "titolo": "Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+     }
+    ],
+    "soggetti": [
+     {
+      "slug": "fdi",
+      "nome": "Fratelli d'Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Non ha votato": 12,
+          "Favorevole": 25
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 50,
+          "In congedo o missione": 9
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Favorevole": 74,
+          "Non ha votato": 44
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 46,
+          "Presidente di turno": 1,
+          "In congedo o missione": 11,
+          "Presente non votante": 2
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 78,
+          "Non ha votato": 40
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 50,
+          "In congedo o missione": 10
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 48,
+          "Favorevole": 69
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Favorevole": 84,
+          "Non ha votato": 32
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "lega",
+      "nome": "Lega per Salvini Premier",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Non ha votato": 54,
+          "Favorevole": 79
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 21,
+          "In congedo o missione": 7
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Non ha votato": 27,
+          "Favorevole": 38
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 16,
+          "In congedo o missione": 8,
+          "Presente non votante": 3
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 33,
+          "Non ha votato": 32
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 14,
+          "In congedo o missione": 8,
+          "Presente non votante": 4
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Favorevole": 29,
+          "Non ha votato": 35
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Favorevole": 39,
+          "Non ha votato": 19
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "fi",
+      "nome": "Forza Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Favorevole": 47,
+          "Non ha votato": 31,
+          "Contrario": 2
+         },
+         "gruppi": [
+          "FI"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 10,
+          "In congedo o missione": 6
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Favorevole": 24,
+          "Non ha votato": 20
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 11,
+          "In congedo o missione": 4,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 30,
+          "Non ha votato": 14
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 12,
+          "In congedo o missione": 4,
+          "Presente non votante": 2
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 21,
+          "Favorevole": 27
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Favorevole": 29,
+          "Non ha votato": 25
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nm",
+      "nome": "Noi Moderati",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-NM (UDC-CI-NcI-IaC)-MAIE – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 4,
+          "In congedo o missione": 2
+         },
+         "gruppi": [
+          "Cd'I-NM (UDC-CI-NcI-IaC)-MAIE"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Favorevole": 7,
+          "Non ha votato": 2
+         },
+         "gruppi": [
+          "NM-M"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-NM (UDC-CI-NcI-IaC)-MAIE – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 5,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "Cd'I-NM (UDC-CI-NcI-IaC)-MAIE"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 4,
+          "Non ha votato": 6
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 7
+         },
+         "gruppi": [
+          "Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 8,
+          "Favorevole": 2
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Favorevole": 6,
+          "Non ha votato": 3
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "pd",
+      "nome": "Partito Democratico",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Favorevole": 68,
+          "Non ha votato": 28,
+          "Astensione": 1
+         },
+         "gruppi": [
+          "PD"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 27,
+          "Contrario": 2,
+          "Astensione": 2,
+          "In congedo o missione": 3,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Non ha votato": 17,
+          "Favorevole": 51,
+          "Contrario": 1
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 23,
+          "In congedo o missione": 6,
+          "Presente non votante": 6
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Non ha votato": 16,
+          "Favorevole": 53
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 30,
+          "Astensione": 1,
+          "In congedo o missione": 2,
+          "Presente non votante": 4
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 22,
+          "Favorevole": 48
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Non ha votato": 13,
+          "Favorevole": 57
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "m5s",
+      "nome": "Movimento 5 Stelle",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Non ha votato": 49,
+          "Favorevole": 102,
+          "Contrario": 2,
+          "Astensione": 2
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Contrario": 23,
+          "Presidente di turno": 1,
+          "In congedo o missione": 4
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Contrario": 37,
+          "Non ha votato": 15
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Contrario": 16,
+          "In congedo o missione": 1,
+          "Presente non votante": 3
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Contrario": 31,
+          "Non ha votato": 19,
+          "Favorevole": 1
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Contrario": 21,
+          "Presidente di turno": 1,
+          "In congedo o missione": 1,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Contrario": 30,
+          "Non ha votato": 20
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Non ha votato": 20,
+          "Contrario": 29
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 1
+     },
+     {
+      "slug": "avs",
+      "nome": "Alleanza Verdi e Sinistra",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Contrario": 7,
+          "Non ha votato": 4
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Contrario": 10,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Contrario": 10
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Contrario": 8,
+          "Non ha votato": 2
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "azione",
+      "nome": "Azione",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Az-IV-RE – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 8,
+          "In congedo o missione": 1
+         },
+         "gruppi": [
+          "Az-IV-RE"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AIV-RE – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Favorevole": 15,
+          "Non ha votato": 6
+         },
+         "gruppi": [
+          "AIV-RE"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 10,
+          "Non ha votato": 3
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 3,
+          "Favorevole": 7
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Non ha votato": 4,
+          "Favorevole": 6
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "iv",
+      "nome": "Italia Viva",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IV – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "conteggi": {
+          "Favorevole": 17,
+          "Non ha votato": 11,
+          "Astensione": 1
+         },
+         "gruppi": [
+          "IV"
+         ],
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Az-IV-RE – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "conteggi": {
+          "Favorevole": 8,
+          "In congedo o missione": 1
+         },
+         "gruppi": [
+          "Az-IV-RE"
+         ],
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AIV-RE – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "conteggi": {
+          "Favorevole": 15,
+          "Non ha votato": 6
+         },
+         "gruppi": [
+          "AIV-RE"
+         ],
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo IV-C-RE – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "conteggi": {
+          "Favorevole": 6
+         },
+         "gruppi": [
+          "IV-C-RE"
+         ],
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 5,
+          "Non ha votato": 4
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo IV-C-RE – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "conteggi": {
+          "Favorevole": 5,
+          "In congedo o missione": 1
+         },
+         "gruppi": [
+          "IV-C-RE"
+         ],
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Favorevole": 4,
+          "Non ha votato": 3
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Non ha votato": 4,
+          "Favorevole": 2
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "piu-europa",
+      "nome": "+Europa",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M-+EUR – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "conteggi": {
+          "Favorevole": 1,
+          "Non ha votato": 2
+         },
+         "gruppi": [
+          "M-+EUR"
+         ],
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M-+EUR – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "conteggi": {
+          "Non ha votato": 2,
+          "Favorevole": 1
+         },
+         "gruppi": [
+          "M-+EUR"
+         ],
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M-+EUR – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "conteggi": {
+          "Favorevole": 2,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "M-+EUR"
+         ],
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "antonio-tajani",
+      "nome": "Antonio Tajani",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "carlo-nordio",
+      "nome": "Carlo Nordio",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maurizio-lupi",
+      "nome": "Maurizio Lupi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Favorevole",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Favorevole",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "elly-schlein",
+      "nome": "Elly Schlein",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Favorevole",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Favorevole",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Favorevole",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nicola-fratoianni",
+      "nome": "Nicola Fratoianni",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Contrario",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Contrario",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Contrario",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Contrario",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "angelo-bonelli",
+      "nome": "Angelo Bonelli",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Contrario",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Contrario",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Contrario",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "carlo-calenda",
+      "nome": "Carlo Calenda",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "voto": "Favorevole",
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "riccardo-magi",
+      "nome": "Riccardo Magi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Favorevole",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Favorevole",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "chiara-braga",
+      "nome": "Chiara Braga",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Favorevole",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Favorevole",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Favorevole",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Favorevole",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "francesco-boccia",
+      "nome": "Francesco Boccia",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Favorevole",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=56256&sessionId=27&voteId=4",
+        "dettagli": {
+         "votazione": "19-27-4",
+         "voto": "Favorevole",
+         "nota": "Senato – DL 185/2022, proroga per il 2023 (S.389)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=57822&sessionId=149&voteId=8",
+        "dettagli": {
+         "votazione": "19-149-8",
+         "voto": "Favorevole",
+         "nota": "Senato – DL 200/2023, proroga per il 2024 (S.974)"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-22",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58769&sessionId=265&voteId=2",
+        "dettagli": {
+         "votazione": "19-265-2",
+         "voto": "Favorevole",
+         "nota": "Senato – DL 200/2024, proroga per il 2025 (S.1335)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maria-elena-boschi",
+      "nome": "Maria Elena Boschi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Favorevole",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Favorevole",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "matteo-richetti",
+      "nome": "Matteo Richetti",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Favorevole",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Favorevole",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2025-01-28",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1335. - \"Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=418_15&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_418_015",
+         "voto": "Favorevole",
+         "nota": "DL 27 dicembre 2024, n. 200 – proroga per il 2025"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Favorevole",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "riccardo-ricciardi",
+      "nome": "Riccardo Ricciardi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2022-03-17",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – Conversione in legge del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=659_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs18_659_001",
+         "voto": "Favorevole",
+         "nota": "DL 25 febbraio 2022, n. 14 \"crisi in Ucraina\": il primo decreto, che contiene anche altre misure (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis."
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2023-01-24",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 389. - \"Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=42_11&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_042_011",
+         "voto": "Contrario",
+         "nota": "DL 2 dicembre 2022, n. 185 – proroga per il 2023"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2024-02-08",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 974. - \"Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=241_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_241_001",
+         "voto": "Contrario",
+         "nota": "DL 21 dicembre 2023, n. 200 – proroga per il 2024"
+        }
+       },
+       {
+        "proposizione": "ucraina-cessione-armi",
+        "data": "2026-02-11",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – Conversione in legge del decreto-legge 31 dicembre 2025, n. 201, recante disposizioni urgenti per la proroga dell’autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell’Ucraina, per il rinnovo dei permessi di soggiorno in possesso di cittadini ucraini, nonché per la sicurezza dei giornalisti freelance",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=613_16&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_613_016",
+         "voto": "Contrario",
+         "nota": "DL 31 dicembre 2025, n. 201 – proroga per il 2026"
+        }
+       }
+      ],
+      "cambi": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "autonomia",
+  "nome": "Autonomia differenziata",
+  "descrizione": "Attuazione dell'art. 116, terzo comma, della Costituzione (maggiori competenze alle Regioni che le richiedono).",
+  "proposizioni": [
+   {
+    "id": "autonomia-differenziata-legge-calderoli",
+    "testo": "Approvare la legge di attuazione dell'autonomia differenziata delle Regioni a statuto ordinario",
+    "contesto": null,
+    "voti": [
+     {
+      "id": "19-148-1",
+      "camera": "Senato",
+      "data": "2024-01-23",
+      "titolo": "Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+      "polarita": "diretta",
+      "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+     },
+     {
+      "id": "vs19_309_246",
+      "camera": "Camera",
+      "data": "2024-06-19",
+      "titolo": "S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+     }
+    ],
+    "soggetti": [
+     {
+      "slug": "fdi",
+      "nome": "Fratelli d'Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Favorevole": 59,
+          "In congedo o missione": 3
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Favorevole": 92,
+          "Non ha votato": 26
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "lega",
+      "nome": "Lega per Salvini Premier",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Favorevole": 26,
+          "Presidente di turno": 1,
+          "In congedo o missione": 2
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 14,
+          "Favorevole": 50
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "fi",
+      "nome": "Forza Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Favorevole": 17,
+          "In congedo o missione": 1
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 22,
+          "Favorevole": 23
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nm",
+      "nome": "Noi Moderati",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-NM (UDC-CI-NcI-IaC)-MAIE – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Favorevole": 5
+         },
+         "gruppi": [
+          "Cd'I-NM (UDC-CI-NcI-IaC)-MAIE"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 4,
+          "Favorevole": 5
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "pd",
+      "nome": "Partito Democratico",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Contrario": 32,
+          "In congedo o missione": 5
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 21,
+          "Contrario": 49
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "m5s",
+      "nome": "Movimento 5 Stelle",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Contrario": 25,
+          "In congedo o missione": 1,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Contrario": 34,
+          "Non ha votato": 17
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "avs",
+      "nome": "Alleanza Verdi e Sinistra",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 2,
+          "Contrario": 8
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "azione",
+      "nome": "Azione",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Contrario": 3,
+          "Non ha votato": 9
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "iv",
+      "nome": "Italia Viva",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo IV-C-RE – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "conteggi": {
+          "Contrario": 5
+         },
+         "gruppi": [
+          "IV-C-RE"
+         ],
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       },
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "conteggi": {
+          "Non ha votato": 5,
+          "Contrario": 4
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "matteo-salvini",
+      "nome": "Matteo Salvini",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "voto": "Favorevole",
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "giancarlo-giorgetti",
+      "nome": "Giancarlo Giorgetti",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Favorevole",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "roberto-calderoli",
+      "nome": "Roberto Calderoli",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "voto": "Favorevole",
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maurizio-lupi",
+      "nome": "Maurizio Lupi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Favorevole",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "elly-schlein",
+      "nome": "Elly Schlein",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "giuseppe-conte",
+      "nome": "Giuseppe Conte",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nicola-fratoianni",
+      "nome": "Nicola Fratoianni",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "angelo-bonelli",
+      "nome": "Angelo Bonelli",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "chiara-braga",
+      "nome": "Chiara Braga",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "francesco-boccia",
+      "nome": "Francesco Boccia",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-01-23",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Senato: voto contrario – Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=55934&sessionId=148&voteId=1",
+        "dettagli": {
+         "votazione": "19-148-1",
+         "voto": "Contrario",
+         "nota": "Voto finale al Senato, gennaio 2024 (S.615)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maria-elena-boschi",
+      "nome": "Maria Elena Boschi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "autonomia-differenziata-legge-calderoli",
+        "data": "2024-06-19",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 615. - \"Disposizioni per l’attuazione dell’autonomia differenziata delle Regioni a statuto ordinario ai sensi dell’articolo 116, terzo comma, della Costituzione\" (approvato dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=309_246&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_309_246",
+         "voto": "Contrario",
+         "nota": "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)"
+        }
+       }
+      ],
+      "cambi": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "giustizia",
+  "nome": "Giustizia",
+  "descrizione": "Riforma costituzionale dell'ordinamento giurisdizionale.",
+  "proposizioni": [
+   {
+    "id": "separazione-carriere",
+    "testo": "Separare in Costituzione le carriere di giudici e pubblici ministeri",
+    "contesto": "La riforma costituzionale richiede due deliberazioni per Camera. Il testo è \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\".",
+    "voti": [
+     {
+      "id": "vs19_410_031",
+      "camera": "Camera",
+      "data": "2025-01-16",
+      "titolo": "DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "Camera, prima deliberazione (gennaio 2025)"
+     },
+     {
+      "id": "19-331-1",
+      "camera": "Senato",
+      "data": "2025-07-22",
+      "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+      "polarita": "diretta",
+      "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+     },
+     {
+      "id": "vs19_531_001",
+      "camera": "Camera",
+      "data": "2025-09-18",
+      "titolo": "S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+      "polarita": "diretta",
+      "nota": "Camera, seconda deliberazione (settembre 2025)"
+     },
+     {
+      "id": "19-361-2",
+      "camera": "Senato",
+      "data": "2025-10-30",
+      "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+      "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+      "polarita": "diretta",
+      "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+     }
+    ],
+    "soggetti": [
+     {
+      "slug": "fdi",
+      "nome": "Fratelli d'Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Favorevole": 86,
+          "Non ha votato": 31
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Favorevole": 54,
+          "In congedo o missione": 8
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FDI – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Favorevole": 112,
+          "Non ha votato": 4
+         },
+         "gruppi": [
+          "FDI"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FdI – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Favorevole": 57,
+          "Presidente di turno": 1,
+          "In congedo o missione": 5
+         },
+         "gruppi": [
+          "FdI"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "lega",
+      "nome": "Lega per Salvini Premier",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Favorevole": 44,
+          "Non ha votato": 20
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Favorevole": 25,
+          "In congedo o missione": 3
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo LEGA – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Favorevole": 61,
+          "Non ha votato": 3
+         },
+         "gruppi": [
+          "LEGA"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo LSP-PSd'Az – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Favorevole": 25,
+          "In congedo o missione": 3
+         },
+         "gruppi": [
+          "LSP-PSd'Az"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "fi",
+      "nome": "Forza Italia",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Favorevole": 32,
+          "Non ha votato": 16
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Favorevole": 18,
+          "In congedo o missione": 2
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo FI-PPE – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Favorevole": 47,
+          "Non ha votato": 5
+         },
+         "gruppi": [
+          "FI-PPE"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo FI-BP-PPE – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Favorevole": 20
+         },
+         "gruppi": [
+          "FI-BP-PPE"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nm",
+      "nome": "Noi Moderati",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Non ha votato": 5,
+          "Favorevole": 5
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Favorevole": 8
+         },
+         "gruppi": [
+          "Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo NM-M-C – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Favorevole": 8,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "NM-M-C"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Favorevole": 7,
+          "In congedo o missione": 1
+         },
+         "gruppi": [
+          "Cd'I-UDC-NM (NcI, CI, IaC)-MAIE-CP"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "pd",
+      "nome": "Partito Democratico",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Contrario": 50,
+          "Non ha votato": 20
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Contrario": 31,
+          "Presidente di turno": 1,
+          "In congedo o missione": 3,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo PD-IDP – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Non ha votato": 8,
+          "Contrario": 62
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo PD-IDP – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Contrario": 32,
+          "In congedo o missione": 4
+         },
+         "gruppi": [
+          "PD-IDP"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "m5s",
+      "nome": "Movimento 5 Stelle",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Contrario": 32,
+          "Non ha votato": 18
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Contrario": 26
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo M5S – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Non ha votato": 12,
+          "Contrario": 37
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo M5S – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Contrario": 23,
+          "Presente non votante": 1
+         },
+         "gruppi": [
+          "M5S"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "avs",
+      "nome": "Alleanza Verdi e Sinistra",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Contrario": 9,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo AVS – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Contrario": 9,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "AVS"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "azione",
+      "nome": "Azione",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Non ha votato": 6,
+          "Favorevole": 4
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo APERRE – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Favorevole": 8,
+          "Non ha votato": 2
+         },
+         "gruppi": [
+          "APERRE"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "iv",
+      "nome": "Italia Viva",
+      "tipo": "partito",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "astensione",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "conteggi": {
+          "Astensione": 4,
+          "Non ha votato": 3
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "astensione",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo IV-C-RE – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "conteggi": {
+          "Astensione": 7
+         },
+         "gruppi": [
+          "IV-C-RE"
+         ],
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "astensione",
+        "tipo": "voto_gruppo",
+        "descrizione": "Camera: voto prevalente del gruppo IVICRE – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "conteggi": {
+          "Astensione": 5,
+          "Non ha votato": 1
+         },
+         "gruppi": [
+          "IVICRE"
+         ],
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "astensione",
+        "tipo": "voto_gruppo",
+        "descrizione": "Senato: voto prevalente del gruppo IV-C-RE – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "conteggi": {
+          "Astensione": 7
+         },
+         "gruppi": [
+          "IV-C-RE"
+         ],
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "antonio-tajani",
+      "nome": "Antonio Tajani",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Favorevole",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "giancarlo-giorgetti",
+      "nome": "Giancarlo Giorgetti",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Favorevole",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "carlo-nordio",
+      "nome": "Carlo Nordio",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Favorevole",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Favorevole",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "roberto-calderoli",
+      "nome": "Roberto Calderoli",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "voto": "Favorevole",
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "voto": "Favorevole",
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maurizio-lupi",
+      "nome": "Maurizio Lupi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Favorevole",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Favorevole",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "elly-schlein",
+      "nome": "Elly Schlein",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Contrario",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Contrario",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "nicola-fratoianni",
+      "nome": "Nicola Fratoianni",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Contrario",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Contrario",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "angelo-bonelli",
+      "nome": "Angelo Bonelli",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Contrario",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "carlo-calenda",
+      "nome": "Carlo Calenda",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "voto": "Favorevole",
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Senato: voto favorevole – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "voto": "Favorevole",
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "matteo-renzi",
+      "nome": "Matteo Renzi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "astensione",
+        "tipo": "voto",
+        "descrizione": "Senato: voto astensione – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "voto": "Astensione",
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "chiara-braga",
+      "nome": "Chiara Braga",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Contrario",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Camera: voto contrario – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Contrario",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "francesco-boccia",
+      "nome": "Francesco Boccia",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-07-22",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Senato: voto contrario – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58803&sessionId=331&voteId=1",
+        "dettagli": {
+         "votazione": "19-331-1",
+         "voto": "Contrario",
+         "nota": "Senato, prima deliberazione (luglio 2025, S.1353)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-10-30",
+        "posizione": "contro",
+        "tipo": "voto",
+        "descrizione": "Senato: voto contrario – Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59541&sessionId=361&voteId=2",
+        "dettagli": {
+         "votazione": "19-361-2",
+         "voto": "Contrario",
+         "nota": "Senato, seconda deliberazione (ottobre 2025, S.1353-B)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "maria-elena-boschi",
+      "nome": "Maria Elena Boschi",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "astensione",
+        "tipo": "voto",
+        "descrizione": "Camera: voto astensione – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Astensione",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "astensione",
+        "tipo": "voto",
+        "descrizione": "Camera: voto astensione – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Astensione",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     },
+     {
+      "slug": "matteo-richetti",
+      "nome": "Matteo Richetti",
+      "tipo": "politico",
+      "posizioni": [
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-01-16",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=410_31&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_410_031",
+         "voto": "Favorevole",
+         "nota": "Camera, prima deliberazione (gennaio 2025)"
+        }
+       },
+       {
+        "proposizione": "separazione-carriere",
+        "data": "2025-09-18",
+        "posizione": "a_favore",
+        "tipo": "voto",
+        "descrizione": "Camera: voto favorevole – S. 1353. - DISEGNO DI LEGGE COSTITUZIONALE: \"Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare\" (approvato, in prima deliberazione, dalla Camera e dal Senato)",
+        "fonte_url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio",
+        "dettagli": {
+         "votazione": "vs19_531_001",
+         "voto": "Favorevole",
+         "nota": "Camera, seconda deliberazione (settembre 2025)"
+        }
+       }
+      ],
+      "cambi": 0
+     }
+    ]
+   }
+  ]
+ }
+]

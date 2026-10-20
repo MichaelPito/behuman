@@ -1,0 +1,854 @@
+[
+ {
+  "slug": "giorgia-meloni",
+  "nome": "Giorgia Meloni",
+  "ruolo": "Presidente del Consiglio dei ministri",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fdi",
+   "nome": "Fratelli d'Italia",
+   "sigla": "FdI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 502,
+     "totale": 22018,
+     "percentuale": 2.3
+    },
+    "fedelta_gruppo": {
+     "allineati": 6,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "matteo-salvini",
+  "nome": "Matteo Salvini",
+  "ruolo": "Vicepresidente del Consiglio, Ministro delle infrastrutture e dei trasporti",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "lega",
+   "nome": "Lega per Salvini Premier",
+   "sigla": "Lega"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/500px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Senato": {
+    "presenza": {
+     "presenti": 621,
+     "totale": 9080,
+     "percentuale": 6.8
+    },
+    "fedelta_gruppo": {
+     "allineati": 39,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 355
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 1,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "antonio-tajani",
+  "nome": "Antonio Tajani",
+  "ruolo": "Vicepresidente del Consiglio, Ministro degli affari esteri",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fi",
+   "nome": "Forza Italia",
+   "sigla": "FI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Antonio_Tajani_2025.jpg/500px-Antonio_Tajani_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 375,
+     "totale": 19969,
+     "percentuale": 1.9
+    },
+    "fedelta_gruppo": {
+     "allineati": 24,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 480
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "giancarlo-giorgetti",
+  "nome": "Giancarlo Giorgetti",
+  "ruolo": "Ministro dell'economia e delle finanze",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "lega",
+   "nome": "Lega per Salvini Premier",
+   "sigla": "Lega"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 147,
+     "totale": 22018,
+     "percentuale": 0.7
+    },
+    "fedelta_gruppo": {
+     "allineati": 14,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "guido-crosetto",
+  "nome": "Guido Crosetto",
+  "ruolo": "Ministro della difesa",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fdi",
+   "nome": "Fratelli d'Italia",
+   "sigla": "FdI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg/500px-Guido_Crosetto_foto_ufficiale_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {},
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "matteo-piantedosi",
+  "nome": "Matteo Piantedosi",
+  "ruolo": "Ministro dell'interno (indipendente)",
+  "schieramento": "governo",
+  "partito": {
+   "slug": null,
+   "nome": "Indipendente",
+   "sigla": "Ind."
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matteo_Piantedosi.png/500px-Matteo_Piantedosi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {},
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "carlo-nordio",
+  "nome": "Carlo Nordio",
+  "ruolo": "Ministro della giustizia",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fdi",
+   "nome": "Fratelli d'Italia",
+   "sigla": "FdI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg/500px-Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 522,
+     "totale": 19969,
+     "percentuale": 2.6
+    },
+    "fedelta_gruppo": {
+     "allineati": 46,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 480
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "adolfo-urso",
+  "nome": "Adolfo Urso",
+  "ruolo": "Ministro delle imprese e del made in Italy",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fdi",
+   "nome": "Fratelli d'Italia",
+   "sigla": "FdI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Senato": {
+    "presenza": {
+     "presenti": 154,
+     "totale": 9080,
+     "percentuale": 1.7
+    },
+    "fedelta_gruppo": {
+     "allineati": 19,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 355
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "francesco-lollobrigida",
+  "nome": "Francesco Lollobrigida",
+  "ruolo": "Ministro dell'agricoltura, della sovranità alimentare e delle foreste",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fdi",
+   "nome": "Fratelli d'Italia",
+   "sigla": "FdI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 496,
+     "totale": 22018,
+     "percentuale": 2.3
+    },
+    "fedelta_gruppo": {
+     "allineati": 49,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "roberto-calderoli",
+  "nome": "Roberto Calderoli",
+  "ruolo": "Ministro per gli affari regionali e le autonomie",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "lega",
+   "nome": "Lega per Salvini Premier",
+   "sigla": "Lega"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Senato": {
+    "presenza": {
+     "presenti": 3018,
+     "totale": 9081,
+     "percentuale": 33.2
+    },
+    "fedelta_gruppo": {
+     "allineati": 112,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 355
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "gilberto-pichetto-fratin",
+  "nome": "Gilberto Pichetto Fratin",
+  "ruolo": "Ministro dell'ambiente e della sicurezza energetica",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "fi",
+   "nome": "Forza Italia",
+   "sigla": "FI"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gilberto_Pichetto_Fratin.jpg/500px-Gilberto_Pichetto_Fratin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 631,
+     "totale": 19969,
+     "percentuale": 3.2
+    },
+    "fedelta_gruppo": {
+     "allineati": 32,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 480
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "maurizio-lupi",
+  "nome": "Maurizio Lupi",
+  "ruolo": "Capogruppo di Noi Moderati alla Camera",
+  "schieramento": "governo",
+  "partito": {
+   "slug": "nm",
+   "nome": "Noi Moderati",
+   "sigla": "NM"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 3748,
+     "totale": 22018,
+     "percentuale": 17.0
+    },
+    "fedelta_gruppo": {
+     "allineati": 139,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "elly-schlein",
+  "nome": "Elly Schlein",
+  "ruolo": "Segretaria del Partito Democratico",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "pd",
+   "nome": "Partito Democratico",
+   "sigla": "PD"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elly_Schlein_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 3660,
+     "totale": 19969,
+     "percentuale": 18.3
+    },
+    "fedelta_gruppo": {
+     "allineati": 116,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 481
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "giuseppe-conte",
+  "nome": "Giuseppe Conte",
+  "ruolo": "Presidente del Movimento 5 Stelle",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "m5s",
+   "nome": "Movimento 5 Stelle",
+   "sigla": "M5S"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 3270,
+     "totale": 19969,
+     "percentuale": 16.4
+    },
+    "fedelta_gruppo": {
+     "allineati": 73,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 484
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 1,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "nicola-fratoianni",
+  "nome": "Nicola Fratoianni",
+  "ruolo": "Segretario di Sinistra Italiana (Alleanza Verdi e Sinistra)",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "avs",
+   "nome": "Alleanza Verdi e Sinistra",
+   "sigla": "AVS"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 12220,
+     "totale": 22018,
+     "percentuale": 55.5
+    },
+    "fedelta_gruppo": {
+     "allineati": 248,
+     "difformi": 20,
+     "percentuale_allineati": 92.5,
+     "voti_difformi": [
+      "vs18_736_014",
+      "vs18_723_001",
+      "vs18_715_012",
+      "vs18_712_045",
+      "vs18_697_001",
+      "vs18_696_047",
+      "vs18_687_040",
+      "vs18_677_030",
+      "vs18_676_001",
+      "vs18_664_032",
+      "vs18_659_001",
+      "vs18_645_035",
+      "vs18_642_001",
+      "vs18_639_001",
+      "vs18_602_001",
+      "vs18_597_046",
+      "vs18_593_017",
+      "vs18_593_028",
+      "vs18_592_017",
+      "vs18_579_001"
+     ]
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "angelo-bonelli",
+  "nome": "Angelo Bonelli",
+  "ruolo": "Co-portavoce di Europa Verde (Alleanza Verdi e Sinistra)",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "avs",
+   "nome": "Alleanza Verdi e Sinistra",
+   "sigla": "AVS"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Festival_di_Open_2024_11.jpg/500px-Festival_di_Open_2024_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 12772,
+     "totale": 19968,
+     "percentuale": 64.0
+    },
+    "fedelta_gruppo": {
+     "allineati": 292,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 480
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "carlo-calenda",
+  "nome": "Carlo Calenda",
+  "ruolo": "Segretario di Azione",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "azione",
+   "nome": "Azione",
+   "sigla": "Azione"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carlo_Calenda_2022_%28cropped%29.jpg/500px-Carlo_Calenda_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Senato": {
+    "presenza": {
+     "presenti": 3192,
+     "totale": 8400,
+     "percentuale": 38.0
+    },
+    "fedelta_gruppo": {
+     "allineati": 29,
+     "difformi": 4,
+     "percentuale_allineati": 87.9,
+     "voti_difformi": [
+      "19-458-11",
+      "19-361-2",
+      "19-331-1",
+      "19-122-112"
+     ]
+    },
+    "voti_finali_e_fiducia": 316
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "matteo-renzi",
+  "nome": "Matteo Renzi",
+  "ruolo": "Leader di Italia Viva",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "iv",
+   "nome": "Italia Viva",
+   "sigla": "IV"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Senato": {
+    "presenza": {
+     "presenti": 3877,
+     "totale": 9080,
+     "percentuale": 42.7
+    },
+    "fedelta_gruppo": {
+     "allineati": 41,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 355
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 0,
+   "proposizioni_confrontabili": 0,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "riccardo-magi",
+  "nome": "Riccardo Magi",
+  "ruolo": "Segretario di +Europa",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "piu-europa",
+   "nome": "+Europa",
+   "sigla": "+E"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 8918,
+     "totale": 22018,
+     "percentuale": 40.5
+    },
+    "fedelta_gruppo": {
+     "allineati": 192,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 1,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "chiara-braga",
+  "nome": "Chiara Braga",
+  "ruolo": "Capogruppo del PD alla Camera",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "pd",
+   "nome": "Partito Democratico",
+   "sigla": "PD"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 11458,
+     "totale": 22017,
+     "percentuale": 52.0
+    },
+    "fedelta_gruppo": {
+     "allineati": 385,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "francesco-boccia",
+  "nome": "Francesco Boccia",
+  "ruolo": "Capogruppo del PD al Senato",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "pd",
+   "nome": "Partito Democratico",
+   "sigla": "PD"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 980,
+     "totale": 2049,
+     "percentuale": 47.8
+    },
+    "fedelta_gruppo": {
+     "allineati": 36,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 85
+   },
+   "Senato": {
+    "presenza": {
+     "presenti": 6348,
+     "totale": 8400,
+     "percentuale": 75.6
+    },
+    "fedelta_gruppo": {
+     "allineati": 235,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 316
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 3,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "maria-elena-boschi",
+  "nome": "Maria Elena Boschi",
+  "ruolo": "Capogruppo di Italia Viva alla Camera",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "iv",
+   "nome": "Italia Viva",
+   "sigla": "IV"
+  },
+  "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 7864,
+     "totale": 22017,
+     "percentuale": 35.7
+    },
+    "fedelta_gruppo": {
+     "allineati": 160,
+     "difformi": 1,
+     "percentuale_allineati": 99.4,
+     "voti_difformi": [
+      "vs19_197_061"
+     ]
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "matteo-richetti",
+  "nome": "Matteo Richetti",
+  "ruolo": "Capogruppo di Azione alla Camera",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "azione",
+   "nome": "Azione",
+   "sigla": "Azione"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/4/49/Matteo_Richetti_datisenato_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 9000,
+     "totale": 19969,
+     "percentuale": 45.1
+    },
+    "fedelta_gruppo": {
+     "allineati": 181,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 480
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 2,
+   "proposizioni_confrontabili": 2,
+   "proposizioni_con_cambi": 0,
+   "cambi_totali": 0
+  }
+ },
+ {
+  "slug": "riccardo-ricciardi",
+  "nome": "Riccardo Ricciardi",
+  "ruolo": "Capogruppo del Movimento 5 Stelle alla Camera",
+  "schieramento": "opposizione",
+  "partito": {
+   "slug": "m5s",
+   "nome": "Movimento 5 Stelle",
+   "sigla": "M5S"
+  },
+  "foto": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "attivo": true,
+  "indicatori": {
+   "Camera": {
+    "presenza": {
+     "presenti": 8336,
+     "totale": 22018,
+     "percentuale": 37.9
+    },
+    "fedelta_gruppo": {
+     "allineati": 208,
+     "difformi": 0,
+     "percentuale_allineati": 100.0,
+     "voti_difformi": []
+    },
+    "voti_finali_e_fiducia": 565
+   }
+  },
+  "coerenza": {
+   "proposizioni_con_posizioni": 1,
+   "proposizioni_confrontabili": 1,
+   "proposizioni_con_cambi": 1,
+   "cambi_totali": 1
+  }
+ }
+]
