@@ -1,0 +1,79 @@
+# Ogni giorno: scarica i dati ufficiali, aggiorna /data, salva le modifiche nel repository
+# (la cronologia git diventa il registro pubblico di ogni variazione) e ripubblica il sito.
+name: Aggiornamento quotidiano
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # 06:17 ora italiana (estate), 05:17 (inverno)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: aggiornamento
+  cancel-in-progress: false
+
+jobs:
+  dati:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - name: Cache delle query (i periodi chiusi non cambiano)
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: sparql-${{ github.run_id }}
+          restore-keys: sparql-
+      - run: pip install -r pipeline/requirements.txt
+      - name: Test
+        run: cd pipeline && python -m pytest -q
+      - name: Aggiorna dati
+        run: cd pipeline && python -m memoria.build
+      - name: Proponi dichiarazioni da verificare (opzionale)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: cd pipeline && python -m memoria.revisione.estrai --max 20
+      - name: Salva i dati aggiornati
+        run: |
+          git config user.name "memoria-bot"
+          git config user.email "memoria-bot@users.noreply.github.com"
+          git add data contenuti/coda_revisione || true
+          if git diff --cached --quiet; then echo "Nessuna variazione"; else
+            git commit -m "dati: aggiornamento del $(date -u +%F)"
+            git push
+          fi
+
+  sito:
+    needs: dati
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - run: git pull --ff-only
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: cd web && npm ci && npm run build
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io
+          BASE_PATH: /${{ github.event.repository.name }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,34 @@
+# Governi nel periodo monitorato e partiti che ne hanno votato la fiducia.
+# "ruolo" è descrittivo e deriva dai voti di fiducia registrati in Parlamento.
+# Date secondo la Camera dei Deputati (dati.camera.it, risorse governo.rdf/g182 e g202).
+- id: draghi
+  nome: Governo Draghi
+  inizio: 2021-02-12
+  fine: 2022-10-21
+  fonte: http://dati.camera.it/ocd/governo.rdf/g182
+  sostegno:
+    - { partito: lega, ruolo: maggioranza, nota: "non partecipa al voto di fiducia del 20 luglio 2022 al Senato" }
+    - { partito: fi, ruolo: maggioranza, nota: "non partecipa al voto di fiducia del 20 luglio 2022 al Senato" }
+    - { partito: m5s, ruolo: maggioranza, nota: "non partecipa ai voti di fiducia del 14 e 20 luglio 2022 al Senato" }
+    - { partito: pd, ruolo: maggioranza }
+    - { partito: iv, ruolo: maggioranza }
+    - { partito: azione, ruolo: maggioranza }
+    - { partito: piu-europa, ruolo: maggioranza }
+    - { partito: fdi, ruolo: opposizione }
+    - { partito: avs, ruolo: "non ancora costituita", nota: "AVS nasce nel 2022. Sinistra Italiana (Fratoianni) aveva votato contro la fiducia al governo Draghi nel febbraio 2021." }
+- id: meloni
+  nome: Governo Meloni
+  inizio: 2022-10-21
+  fine: null
+  fonte: http://dati.camera.it/ocd/governo.rdf/g202
+  sostegno:
+    - { partito: fdi, ruolo: maggioranza }
+    - { partito: lega, ruolo: maggioranza }
+    - { partito: fi, ruolo: maggioranza }
+    - { partito: nm, ruolo: maggioranza }
+    - { partito: pd, ruolo: opposizione }
+    - { partito: m5s, ruolo: opposizione }
+    - { partito: avs, ruolo: opposizione }
+    - { partito: azione, ruolo: opposizione }
+    - { partito: iv, ruolo: opposizione }
+    - { partito: piu-europa, ruolo: opposizione }

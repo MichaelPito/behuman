@@ -1,0 +1,63 @@
+---
+import "../styles/global.css";
+import { meta } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "Storico verificabile di voti, presenze e posizioni dei politici italiani. Solo fatti con fonte." } = Astro.props;
+const NOME = "Memoria Politica";
+const m = meta();
+const path = Astro.url.pathname;
+const nav = [
+  ["/politici/", "Politici"],
+  ["/partiti/", "Partiti"],
+  ["/temi/", "Temi"],
+  ["/aggiornamenti/", "Aggiornamenti"],
+  ["/metodologia/", "Metodo"],
+  ["/fonti/", "Fonti"],
+];
+const pageTitle = title === NOME ? NOME : `${title} · ${NOME}`;
+---
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href={u("/favicon.svg")} type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="logo" href={u("/")}>{NOME}</a>
+        <nav aria-label="Principale">
+          {nav.map(([href, label]) => (
+            <a href={u(href)} aria-current={path.startsWith(u(href)) ? "page" : undefined}>{label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site">
+      <div class="wrap">
+        <p>
+          Solo dati pubblici con fonte: Camera dei Deputati, Senato della Repubblica, Governo, Wikidata.
+          Nessun giudizio, nessun punteggio inventato. <a href={u("/metodologia/")}>Come lavoriamo</a> ·
+          <a href="https://github.com/MichaelPito/behuman">Codice e dati aperti</a> ·
+          <a href="https://github.com/MichaelPito/behuman/issues/new/choose">Segnala un errore</a>
+        </p>
+        {m.aggiornato_il && <p class="tiny">Ultimo aggiornamento dati: {new Date(m.aggiornato_il).toLocaleString("it-IT", { timeZone: "Europe/Rome" })} · Periodo coperto: ultimi {m.finestra.anni} anni (dal {m.finestra.dal}).</p>}
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+# Temi e proposizioni monitorati.
+#
+# Regole (vedi docs/02-metodologia.md):
+# - una proposizione è una frase neutra, verificabile, su cui si può essere a favore o contro;
+# - si collegano solo votazioni il cui oggetto principale coincide con la proposizione;
+# - si collegano solo VOTI FINALI, mai voti di fiducia: la fiducia esprime sostegno al governo
+#   oltre che al contenuto (chi è favorevole a una misura può votare contro la fiducia);
+# - polarita: "diretta" se votare Favorevole all'atto = essere a favore della proposizione,
+#             "inversa" se votare Favorevole all'atto = essere contro;
+# - ogni collegamento va proposto con una pull request e approvato da due revisori.
+#
+# Per trovare gli ID delle votazioni:  python scripts/cerca_votazioni.py "testo nel titolo" --leg 19
+
+- id: ucraina
+  nome: Sostegno militare all'Ucraina
+  descrizione: Autorizzazioni annuali a cedere mezzi e materiali militari alle autorità ucraine (2022–2026).
+  proposizioni:
+    - id: ucraina-cessione-armi
+      testo: Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina
+      contesto: >-
+        Dal 2022 il Parlamento converte ogni anno un decreto-legge che proroga l'autorizzazione.
+        I voti collegati sono i voti finali sulla conversione di questi decreti.
+      voti:
+        - camera: Camera
+          id: vs18_659_001
+          nota: >-
+            DL 25 febbraio 2022, n. 14 "crisi in Ucraina": il primo decreto, che contiene anche altre misure
+            (personale militare NATO, accoglienza). L'autorizzazione alla cessione è nell'art. 2-bis.
+        - { camera: Camera, id: vs19_042_011, nota: "DL 2 dicembre 2022, n. 185 – proroga per il 2023" }
+        - { camera: Camera, id: vs19_241_001, nota: "DL 21 dicembre 2023, n. 200 – proroga per il 2024" }
+        - { camera: Camera, id: vs19_418_015, nota: "DL 27 dicembre 2024, n. 200 – proroga per il 2025" }
+        - { camera: Camera, id: vs19_613_016, nota: "DL 31 dicembre 2025, n. 201 – proroga per il 2026" }
+        - { camera: Senato, id: 19-27-4, nota: "Senato – DL 185/2022, proroga per il 2023 (S.389)" }
+        - { camera: Senato, id: 19-149-8, nota: "Senato – DL 200/2023, proroga per il 2024 (S.974)" }
+        - { camera: Senato, id: 19-265-2, nota: "Senato – DL 200/2024, proroga per il 2025 (S.1335)" }
+        # DL 201/2025 al Senato (S.1793) è stato approvato con voto di fiducia: escluso per la regola sopra.
+
+- id: autonomia
+  nome: Autonomia differenziata
+  descrizione: Attuazione dell'art. 116, terzo comma, della Costituzione (maggiori competenze alle Regioni che le richiedono).
+  proposizioni:
+    - id: autonomia-differenziata-legge-calderoli
+      testo: Approvare la legge di attuazione dell'autonomia differenziata delle Regioni a statuto ordinario
+      voti:
+        - { camera: Senato, id: 19-148-1, nota: "Voto finale al Senato, gennaio 2024 (S.615)" }
+        - { camera: Camera, id: vs19_309_246, nota: "Voto finale alla Camera, giugno 2024 (A.C. 1665, già approvato dal Senato)" }
+
+- id: giustizia
+  nome: Giustizia
+  descrizione: Riforma costituzionale dell'ordinamento giurisdizionale.
+  proposizioni:
+    - id: separazione-carriere
+      testo: Separare in Costituzione le carriere di giudici e pubblici ministeri
+      contesto: >-
+        La riforma costituzionale richiede due deliberazioni per Camera. Il testo è
+        "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare".
+      voti:
+        - { camera: Camera, id: vs19_410_031, nota: "Camera, prima deliberazione (gennaio 2025)" }
+        - { camera: Senato, id: 19-331-1, nota: "Senato, prima deliberazione (luglio 2025, S.1353)" }
+        - { camera: Camera, id: vs19_531_001, nota: "Camera, seconda deliberazione (settembre 2025)" }
+        - { camera: Senato, id: 19-361-2, nota: "Senato, seconda deliberazione (ottobre 2025, S.1353-B)" }

@@ -1,0 +1,26 @@
+# A ogni pull request: test della pipeline, validazione dei contenuti editoriali, build del sito.
+name: Verifica
+
+on:
+  pull_request:
+  push:
+    branches-ignore: [main]
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements.txt
+      - name: Test pipeline
+        run: cd pipeline && python -m pytest -q
+      - name: Valida configurazione e dichiarazioni
+        run: cd pipeline && python -c "from memoria import config; config.carica(); print('configurazione valida')"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build del sito
+        run: cd web && npm ci && npm run build

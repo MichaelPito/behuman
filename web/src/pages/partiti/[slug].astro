@@ -1,0 +1,98 @@
+---
+import Base from "../../layouts/Base.astro";
+import Cambio from "../../components/Cambio.astro";
+import PosizioneRiga from "../../components/PosizioneRiga.astro";
+import { dataIt, partiti, partito, proposizioniIndice } from "../../lib/data";
+import { u } from "../../lib/url";
+
+export function getStaticPaths() {
+  return partiti().map((p) => ({ params: { slug: p.slug } }));
+}
+const p = partito(Astro.params.slug!);
+const props = proposizioniIndice();
+const perProp = Object.entries(
+  p.posizioni.reduce<Record<string, typeof p.posizioni>>((acc, x) => ((acc[x.proposizione] ||= []).push(x), acc), {}),
+);
+const ideo = p.ideologia || {};
+const misure: any[] = ideo.misure || [];
+const anni = [...new Set(misure.map((m) => m.anno))].sort();
+const chiavi = [...new Set(misure.map((m) => m.chiave))];
+---
+<Base title={p.nome} description={`${p.nome}: coalizioni, voti del gruppo parlamentare e cambi di posizione documentati dal ${p.periodo.dal}.`}>
+  <section class="hero">
+    <h1>{p.nome} <span class="muted" style="font-weight:400">({p.sigla})</span></h1>
+    <div class="small muted">
+      {p.schieramento === "governo" ? "Oggi nella maggioranza di governo" : p.schieramento === "opposizione" ? "Oggi all'opposizione" : ""}
+      · <a href={p.wikidata} rel="noopener" target="_blank">Wikidata ↗</a>
+      {p.sito && <> · <a href={p.sito} rel="noopener" target="_blank">Sito ufficiale ↗</a></>}
+    </div>
+    {!p.attivo && <p class="avviso">Partito non più attivo: i dati si fermano al {dataIt(p.periodo.al)}.</p>}
+    {p.note && <p class="small muted">{p.note}</p>}
+  </section>
+
+  <div class="stats">
+    <div class="stat"><div class="v">{p.coerenza.cambi_totali}</div><div class="l">Cambi di posizione documentati</div></div>
+    <div class="stat"><div class="v">{p.coerenza.proposizioni_confrontabili}</div><div class="l">Temi con almeno due prese di posizione</div></div>
+    <div class="stat"><div class="v">{p.membri_monitorati.length}</div><div class="l">Esponenti monitorati</div></div>
+  </div>
+
+  <h2>Al governo o all'opposizione</h2>
+  <ul class="timeline">
+    {p.coalizioni.map((c) => (
+      <li>
+        <div><strong>{c.governo}</strong>: {c.ruolo}</div>
+        <div class="small muted">{dataIt(c.inizio)} – {c.fine ? dataIt(c.fine) : "in corso"}{c.nota ? ` · ${c.nota}` : ""}</div>
+        {c.fonte && <div class="tiny"><a href={c.fonte} rel="noopener" target="_blank">Fonte ↗</a></div>}
+      </li>
+    ))}
+  </ul>
+
+  <h2>Orientamento (misure accademiche indipendenti)</h2>
+  {misure.length === 0 && <p class="muted">Il partito non è presente nel Chapel Hill Expert Survey per il periodo.</p>}
+  {misure.length > 0 && (
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Misura</th><th>Scala</th>{anni.map((a) => <th>{a}</th>)}</tr></thead>
+        <tbody>
+          {chiavi.map((k) => {
+            const righe = misure.filter((m) => m.chiave === k);
+            // il codice numerico è stabile, la sigla CHES cambia tra un'ondata e l'altra (es. LN → Lega)
+            const ids = [...new Set(righe.map((m) => m.id_ches))];
+            return ids.map((id) => (
+              <tr>
+                <td>{righe[0].nome}{ids.length > 1 && <span class="tiny muted"> ({righe.filter((x) => x.id_ches === id).slice(-1)[0].sigla_ches})</span>}</td>
+                <td class="small muted">{righe[0].scala}</td>
+                {anni.map((a) => {
+                  const m = righe.find((x) => x.anno === a && x.id_ches === id);
+                  return <td>{m ? m.valore.toLocaleString("it-IT") : "—"}</td>;
+                })}
+              </tr>
+            ));
+          })}
+        </tbody>
+      </table>
+    </div>
+  )}
+  {misure.length > 0 && <p class="tiny muted">Fonte: {misure[0].fonte}. Valori medi delle valutazioni di esperti; il {anni[0]} è la rilevazione precedente più vicina all'inizio del periodo. <a href="https://www.chesdata.eu/" rel="noopener" target="_blank">chesdata.eu ↗</a></p>}
+
+  <h2>Programma elettorale</h2>
+  {ideo.programma_2022 ? (
+    <p><a href={ideo.programma_2022.url} rel="noopener" target="_blank">Programma depositato per le {ideo.programma_2022.elezione} ↗</a><br /><span class="small muted">Lista: {ideo.programma_2022.lista} · Fonte: Ministero dell'Interno, Elezioni trasparenti</span></p>
+  ) : <p class="muted">Non disponibile.</p>}
+
+  <h2>Cambi di posizione documentati</h2>
+  {p.cambi_posizione.length === 0 && <p class="muted">Nessun cambio rilevato sui temi monitorati finora.</p>}
+  <div class="grid">{p.cambi_posizione.map((c) => <Cambio c={c} />)}</div>
+
+  <h2>Tutte le posizioni registrate</h2>
+  {perProp.map(([pid, lista]) => (
+    <details class="card" style="margin-bottom:10px">
+      <summary><strong>«{props[pid]?.testo ?? pid}»</strong> <span class="small muted">· {lista.length}</span></summary>
+      <div class="grid" style="margin-top:10px">{lista.map((x) => <PosizioneRiga p={x} />)}</div>
+    </details>
+  ))}
+
+  <h2>Esponenti monitorati</h2>
+  <ul>{p.membri_monitorati.map((m) => <li><a href={u(`/politici/${m.slug}/`)}>{m.nome}</a> <span class="small muted">· {m.ruolo}</span></li>)}</ul>
+  <p class="small muted">Gruppi parlamentari considerati: Camera {p.gruppi_parlamentari.Camera.join(", ") || "—"}; Senato {p.gruppi_parlamentari.Senato.join(", ") || "—"}.</p>
+</Base>

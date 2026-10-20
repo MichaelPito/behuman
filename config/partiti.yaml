@@ -1,0 +1,124 @@
+# Partiti monitorati.
+#
+# sigle_camera: sigle dei gruppi alla Camera (come registrate nei voti, campo ocd:siglaGruppo).
+# sigle_senato: numero del gruppo al Senato (dati.senato.it/gruppo/<N>); il nome cambia nel tempo, il numero no.
+# Un elemento può avere un intervallo di validità:  "91@2022-10-13..2023-11-08"
+#   (serve per i gruppi congiunti, es. Azione–Italia Viva fino alla separazione del novembre 2023).
+# ches: codici del partito nel Chapel Hill Expert Survey (misura accademica dell'orientamento).
+# programma_2022: numero d'ordine del contrassegno depositato al Ministero dell'Interno (politiche 2022).
+
+- slug: fdi
+  nome: Fratelli d'Italia
+  sigla: FdI
+  wikidata: Q1757843
+  schieramento: governo
+  sigle_camera: [FDI]
+  sigle_senato: ["85"]
+  ches: ["844"]
+  programma_2022: 68
+  sito: https://www.fratelli-italia.it/
+
+- slug: lega
+  nome: Lega per Salvini Premier
+  sigla: Lega
+  wikidata: Q85776185
+  schieramento: governo
+  sigle_camera: [LEGA]
+  sigle_senato: ["33"]
+  ches: ["811"]
+  programma_2022: 9
+  sito: https://www.legaonline.it/
+
+- slug: fi
+  nome: Forza Italia
+  sigla: FI
+  wikidata: Q14924303
+  schieramento: governo
+  sigle_camera: [FI, FI-PPE]
+  sigle_senato: ["56"]
+  ches: ["815"]
+  programma_2022: 43
+  sito: https://www.forzaitalia.it/
+
+- slug: nm
+  nome: Noi Moderati
+  sigla: NM
+  wikidata: Q113563752
+  schieramento: governo
+  sigle_camera: [NM-M, NM-M-C]
+  sigle_senato: ["92"]
+  programma_2022: 48
+  note: >-
+    Nato nel 2022. Al Senato è parte del gruppo "Civici d'Italia – Noi Moderati – MAIE".
+    Non presente nel Chapel Hill Expert Survey 2024.
+
+- slug: pd
+  nome: Partito Democratico
+  sigla: PD
+  wikidata: Q47729
+  schieramento: opposizione
+  sigle_camera: [PD, PD-IDP]
+  sigle_senato: ["49"]
+  ches: ["837"]
+  programma_2022: 75
+  sito: https://partitodemocratico.it/
+
+- slug: m5s
+  nome: Movimento 5 Stelle
+  sigla: M5S
+  wikidata: Q47817
+  schieramento: opposizione
+  sigle_camera: [M5S]
+  sigle_senato: ["71"]
+  ches: ["845"]
+  programma_2022: 74
+  sito: https://www.movimento5stelle.eu/
+
+- slug: avs
+  nome: Alleanza Verdi e Sinistra
+  sigla: AVS
+  wikidata: Q113168799
+  schieramento: opposizione
+  sigle_camera: [AVS]
+  sigle_senato: []
+  ches: ["838", "850"]
+  programma_2022: 65
+  sito: https://www.verdisinistra.it/
+  note: >-
+    Alleanza tra Europa Verde e Sinistra Italiana, nata nel 2022: il CHES misura separatamente
+    le due componenti (SI ed EV). Al Senato i suoi eletti sono nel gruppo Misto, quindi il voto
+    di gruppo non è attribuibile.
+
+- slug: azione
+  nome: Azione
+  sigla: Azione
+  wikidata: Q63926676
+  schieramento: opposizione
+  sigle_camera: [AIV-RE, APERRE]
+  sigle_senato: ["91@2022-10-13..2023-11-08"]
+  ches: ["849"]
+  programma_2022: 7
+  note: >-
+    Nel 2022 si è presentata in lista comune con Italia Viva; i gruppi parlamentari comuni si sono
+    separati nel novembre 2023. Fino ad allora il voto del gruppo congiunto è attribuito a entrambi.
+
+- slug: iv
+  nome: Italia Viva
+  sigla: IV
+  wikidata: Q67785862
+  schieramento: opposizione
+  sigle_camera: [IV, IV-ICE, AIV-RE, IVICRE, IV-CR]
+  sigle_senato: ["86", "91"]
+  programma_2022: 7
+  note: Non presente nel Chapel Hill Expert Survey 2024. Programma 2022 comune con Azione.
+
+- slug: piu-europa
+  nome: +Europa
+  sigla: +E
+  wikidata: Q47090559
+  schieramento: opposizione
+  sigle_camera: [M-+EUR]
+  sigle_senato: []
+  ches: ["832"]
+  programma_2022: 92
+  note: Alla Camera è una componente del gruppo Misto.

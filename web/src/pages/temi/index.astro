@@ -1,0 +1,22 @@
+---
+import Base from "../../layouts/Base.astro";
+import { temi } from "../../lib/data";
+import { u } from "../../lib/url";
+const lista = temi();
+---
+<Base title="Temi" description="Le proposizioni monitorate e come hanno votato o si sono espressi partiti e politici nel tempo.">
+  <h1>Temi</h1>
+  <p class="muted">
+    Ogni tema è diviso in proposizioni scritte in modo neutro e verificabile. Per ognuna mostriamo i voti in Aula
+    collegati e le dichiarazioni verificate, in ordine di tempo.
+  </p>
+  <div class="grid cards">
+    {lista.map((t) => (
+      <a class="card" href={u(`/temi/${t.id}/`)}>
+        <h3>{t.nome}</h3>
+        <div class="small muted">{t.descrizione}</div>
+        <div class="small" style="margin-top:6px">{t.proposizioni.length} proposizioni · {t.proposizioni.reduce((n, p) => n + p.voti.length, 0)} votazioni collegate</div>
+      </a>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,32 @@
+name: Proponi una dichiarazione
+description: Una dichiarazione pubblica di un politico monitorato su uno dei temi.
+title: "[Dichiarazione] "
+labels: ["dichiarazione", "da-verificare"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Pubblichiamo solo citazioni testuali con fonte primaria e copia d'archivio (es. web.archive.org),
+        verificate da due revisori. Non inserire commenti o interpretazioni.
+  - type: input
+    id: politico
+    attributes: { label: Politico o partito }
+    validations: { required: true }
+  - type: input
+    id: data
+    attributes: { label: Data della dichiarazione (AAAA-MM-GG) }
+    validations: { required: true }
+  - type: textarea
+    id: citazione
+    attributes: { label: Citazione testuale, description: "Copiata parola per parola" }
+    validations: { required: true }
+  - type: input
+    id: fonte
+    attributes: { label: Link alla fonte primaria }
+    validations: { required: true }
+  - type: input
+    id: archivio
+    attributes: { label: Link alla copia d'archivio }
+  - type: input
+    id: tema
+    attributes: { label: Tema / proposizione a cui si riferisce }

@@ -1,0 +1,23 @@
+name: Segnala un errore
+description: Un dato è sbagliato, incompleto o fuori contesto (anche per i diretti interessati – diritto di replica).
+title: "[Errore] "
+labels: ["errore", "da-verificare"]
+body:
+  - type: input
+    id: pagina
+    attributes: { label: Pagina del sito, description: "Link alla pagina con il dato da correggere" }
+    validations: { required: true }
+  - type: textarea
+    id: errore
+    attributes: { label: Cosa è sbagliato }
+    validations: { required: true }
+  - type: input
+    id: fonte
+    attributes: { label: Fonte che lo dimostra, description: "Link a una fonte primaria (resoconto, voto, comunicato, video ufficiale)" }
+    validations: { required: true }
+  - type: checkboxes
+    id: interessato
+    attributes:
+      label: Chi segnala
+      options:
+        - label: Sono la persona interessata o il suo staff (diritto di replica)

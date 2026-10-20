@@ -1,0 +1,157 @@
+---
+import Base from "../../layouts/Base.astro";
+import Cambio from "../../components/Cambio.astro";
+import PosizioneRiga from "../../components/PosizioneRiga.astro";
+import PresenzeChart from "../../components/PresenzeChart.astro";
+import { aggiornamenti, dataIt, mediane, pct, politici, politico, proposizioniIndice } from "../../lib/data";
+import { u } from "../../lib/url";
+
+export function getStaticPaths() {
+  return politici().map((p) => ({ params: { slug: p.slug } }));
+}
+
+const p = politico(Astro.params.slug!);
+const med = mediane();
+const props = proposizioniIndice();
+const news = aggiornamenti().filter((a) => a.politici.includes(p.slug)).slice(0, 15);
+const posizioniPerProp = Object.entries(
+  p.posizioni.reduce<Record<string, typeof p.posizioni>>((acc, x) => ((acc[x.proposizione] ||= []).push(x), acc), {}),
+);
+const iniziali = p.nome.split(" ").map((s) => s[0]).slice(0, 2).join("");
+const VOTI_MOSTRATI = 40;
+const missione = (camera: string) => (p.parlamento[camera]?.presenze_mensili || []).reduce((n, m: any) => n + (m.missione || 0), 0);
+---
+<Base title={p.nome} description={`${p.nome}: voti, presenze, cambi di gruppo e posizioni documentate dal ${p.periodo.dal}. Solo dati con fonte ufficiale.`}>
+  <section class="hero">
+    <div class="persona">
+      {p.anagrafica.foto ? <img src={p.anagrafica.foto} alt={`Foto di ${p.nome}`} style="width:96px;height:96px" /> : <span class="ph" style="width:96px;height:96px">{iniziali}</span>}
+      <div>
+        <h1>{p.nome}</h1>
+        <div>{p.ruolo} · {p.partito.slug ? <a href={u(`/partiti/${p.partito.slug}/`)}>{p.partito.nome}</a> : p.partito.nome}</div>
+        <div class="small muted">
+          {p.schieramento === "governo" ? "Maggioranza di governo" : p.schieramento === "opposizione" ? "Opposizione" : ""}
+          {p.anagrafica.nascita && <> · data di nascita: {dataIt(p.anagrafica.nascita)}</>}
+          {p.anagrafica.morte && <> · data di morte: {dataIt(p.anagrafica.morte)}</>}
+        </div>
+      </div>
+    </div>
+    {p.anagrafica.foto && (
+      <p class="tiny muted" style="margin:6px 0 0">
+        Foto: {p.anagrafica.foto_autore ? `${p.anagrafica.foto_autore}, ` : ""}{p.anagrafica.foto_licenza ?? "licenza indicata su"}{" "}
+        {p.anagrafica.foto_fonte && <a href={p.anagrafica.foto_fonte} rel="noopener" target="_blank">Wikimedia Commons</a>}
+      </p>
+    )}
+    {!p.attivo && <p class="avviso">Non più attivo/a in politica: i dati si fermano al {dataIt(p.attivo_fino)}.</p>}
+    <p class="small muted">Periodo analizzato: {dataIt(p.periodo.dal)} – {dataIt(p.periodo.al)}. Aggiornato il {dataIt(p.aggiornato_il)}.</p>
+  </section>
+
+  <div class="stats">
+    {Object.entries(p.indicatori).map(([camera, i]) => (
+      <>
+        <div class="stat">
+          <div class="v">{pct(i.presenza.percentuale)}</div>
+          <div class="l">Partecipazione alle votazioni ({camera}) · {i.presenza.presenti.toLocaleString("it-IT")} su {i.presenza.totale.toLocaleString("it-IT")}.{med[camera] != null && ` Mediana dell'Aula: ${pct(med[camera])}.`}{missione(camera) > 0 && ` In congedo o missione: ${missione(camera).toLocaleString("it-IT")}.`}</div>
+        </div>
+        <div class="stat">
+          <div class="v">{pct(i.fedelta_gruppo.percentuale_allineati)}</div>
+          <div class="l">Voti finali e di fiducia in linea con il proprio gruppo ({i.fedelta_gruppo.allineati} sì, {i.fedelta_gruppo.difformi} no)</div>
+        </div>
+      </>
+    ))}
+    <div class="stat">
+      <div class="v">{p.coerenza.cambi_totali}</div>
+      <div class="l">Cambi di posizione documentati, su {p.coerenza.proposizioni_confrontabili} temi con almeno due prese di posizione</div>
+    </div>
+  </div>
+  {Object.keys(p.indicatori).length > 0 && (
+    <p class="small muted">
+      Come leggere la partecipazione: alla Camera i registri ufficiali non distinguono l'assenza dalla "missione" per incarichi
+      istituzionali; il Senato invece le conta a parte.
+      Chi ha ruoli di governo o guida un partito vota tipicamente meno spesso. Confronta sempre con il ruolo ricoperto.
+    </p>
+  )}
+  {Object.keys(p.indicatori).length === 0 && <p class="avviso">Non è membro del Parlamento nel periodo analizzato: non ci sono voti o presenze in Aula da mostrare.</p>}
+
+  <h2>Cambi di posizione documentati</h2>
+  <p class="small muted">Un cambio è registrato quando, sullo stesso tema, una posizione «a favore» è seguita da una «contro» (o viceversa). Entrambe le prese di posizione sono mostrate con la fonte.</p>
+  {p.cambi_posizione.length === 0 && <p class="muted">Nessun cambio rilevato sui temi monitorati finora.</p>}
+  <div class="grid">{p.cambi_posizione.map((c) => <Cambio c={c} />)}</div>
+
+  <h2>Tutte le posizioni registrate</h2>
+  {posizioniPerProp.length === 0 && <p class="muted">Nessuna posizione registrata sui temi monitorati.</p>}
+  {posizioniPerProp.map(([pid, lista]) => (
+    <details class="card" style="margin-bottom:10px">
+      <summary><strong>«{props[pid]?.testo ?? pid}»</strong> <span class="small muted">· {lista.length} {lista.length === 1 ? "presa" : "prese"} di posizione</span></summary>
+      <div class="grid" style="margin-top:10px">{lista.map((x) => <PosizioneRiga p={x} />)}</div>
+    </details>
+  ))}
+
+  <h2>Percorso politico</h2>
+  <div class="grid two">
+    <div class="card">
+      <h3>Cariche</h3>
+      <ul class="timeline">
+        {p.cariche.map((c) => (
+          <li>
+            <div>{c.carica}{c.di ? ` – ${c.di}` : ""}</div>
+            <div class="small muted">{dataIt(c.inizio)} – {c.fine ? dataIt(c.fine) : "in corso"}{c.motivo_fine ? ` (${c.motivo_fine.toLowerCase()})` : ""} · <a href={c.fonte} rel="noopener" target="_blank">{c.fonte_nome ?? "fonte"}</a></div>
+          </li>
+        ))}
+      </ul>
+      {p.cariche.length === 0 && <p class="muted small">Nessuna carica registrata nel periodo.</p>}
+    </div>
+    <div class="card">
+      <h3>Gruppi parlamentari</h3>
+      <ul class="timeline">
+        {Object.entries(p.parlamento).flatMap(([camera, a]) =>
+          (a.gruppi || []).map((g) => (
+            <li>
+              <div>{g.gruppo}</div>
+              <div class="small muted">{camera}, {g.legislatura}ª legislatura · {dataIt(g.inizio)} – {g.fine ? dataIt(g.fine) : "in corso"}</div>
+            </li>
+          )),
+        )}
+      </ul>
+      <h3>Partiti</h3>
+      <ul class="timeline">
+        {p.partiti_storico.map((x) => (
+          <li><div>{x.partito}</div><div class="small muted">{x.inizio ? dataIt(x.inizio) : "data di inizio non registrata"} – {x.fine ? dataIt(x.fine) : "in corso"}</div></li>
+        ))}
+      </ul>
+      <p class="tiny muted">Fonte: <a href={p.anagrafica.wikidata ?? "#"} rel="noopener" target="_blank">Wikidata</a> (dati collaborativi, a volte incompleti: le date mancanti o errate si correggono direttamente su Wikidata).</p>
+    </div>
+  </div>
+
+  {Object.entries(p.parlamento).map(([camera, a]) => (
+    <>
+      <h2>Partecipazione mensile al voto · {camera}</h2>
+      {a.presenze_mensili?.length ? <div class="card"><PresenzeChart mesi={a.presenze_mensili} mediana={med[camera]} /></div> : <p class="muted">Nessun dato.</p>}
+      <h2>Voti finali sulle leggi e voti di fiducia · {camera}</h2>
+      <p class="small muted">Ultimi {Math.min(VOTI_MOSTRATI, a.voti_finali?.length ?? 0)} di {a.voti_finali?.length ?? 0}. «Linea del gruppo» = voto più frequente tra i colleghi di gruppo nella stessa votazione.</p>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Data</th><th>Atto</th><th>Voto</th><th>Linea del gruppo</th><th>Esito</th></tr></thead>
+          <tbody>
+            {(a.voti_finali || []).slice(0, VOTI_MOSTRATI).map((v) => (
+              <tr>
+                <td class="small" style="white-space:nowrap">{dataIt(v.data)}</td>
+                <td class="small">{v.fiducia && <span class="pill">fiducia</span>} {v.atto} {v.titolo ?? v.descrizione}{v.url && <> <a href={v.url} rel="noopener" target="_blank">↗</a></>}</td>
+                <td class="small">{v.voto}{v.linea_gruppo && ["Favorevole", "Contrario", "Astensione"].includes(v.voto) && v.voto !== v.linea_gruppo && <span class="pill" style="margin-left:4px">difforme</span>}</td>
+                <td class="small">{v.linea_gruppo ?? "—"}</td>
+                <td class="small">{v.approvato ? "Approvato" : "Respinto"}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      {a.scheda_ufficiale && <p class="small"><a href={a.scheda_ufficiale} rel="noopener" target="_blank">Scheda ufficiale ({camera}) ↗</a></p>}
+    </>
+  ))}
+
+  <h2>Atti e annunci ufficiali che lo/la citano</h2>
+  {news.length === 0 && <p class="muted">Nessuno nel periodo raccolto.</p>}
+  <ul>{news.map((a) => <li><span class="small muted">{dataIt(a.data)} · {a.fonte}</span> — <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a></li>)}</ul>
+
+  {p.note && <p class="avviso">{p.note}</p>}
+  <p class="small muted">Hai trovato un errore o una dichiarazione mancante? <a href="https://github.com/MichaelPito/behuman/issues/new/choose">Segnalalo</a> con il link alla fonte. Rispondiamo pubblicamente e correggiamo entro 72 ore.</p>
+</Base>

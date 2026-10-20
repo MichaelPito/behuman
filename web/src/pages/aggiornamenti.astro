@@ -1,0 +1,20 @@
+---
+import Base from "../layouts/Base.astro";
+import { aggiornamenti, dataIt, politici } from "../lib/data";
+import { u } from "../lib/url";
+const lista = aggiornamenti().slice(0, 300);
+const nomi = Object.fromEntries(politici().map((p) => [p.slug, p.nome]));
+---
+<Base title="Aggiornamenti" description="Atti e comunicati ufficiali raccolti ogni giorno da Governo, Camera e Senato.">
+  <h1>Atti e annunci ufficiali</h1>
+  <p class="muted">Raccolti ogni giorno dai canali istituzionali. Sono fatti («è stato pubblicato X»): diventano posizioni su un tema solo dopo la verifica descritta nel <a href={u("/metodologia/")}>metodo</a>.</p>
+  <ul>
+    {lista.map((a) => (
+      <li style="margin-bottom:8px">
+        <span class="small muted">{dataIt(a.data)} · {a.fonte}</span><br />
+        <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a>
+        {a.politici.length > 0 && <div class="tiny">Cita: {a.politici.map((s) => <a href={u(`/politici/${s}/`)} style="margin-right:6px">{nomi[s] ?? s}</a>)}</div>}
+      </li>
+    ))}
+  </ul>
+</Base>

@@ -1,0 +1,8 @@
+# Feed ufficiali letti ogni giorno. Gli elementi diventano "aggiornamenti" (fatti),
+# non posizioni: per diventare posizione serve la revisione umana.
+# cognomi: true -> un elemento è associato a un politico anche se cita solo il cognome
+#                 (utile per i comunicati del Governo, che usano "il Presidente Meloni").
+- id: governo
+  nome: Governo – notizie e comunicati
+  url: https://www.governo.it/it/feed/rss
+  cognomi: true
