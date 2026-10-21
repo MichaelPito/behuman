@@ -6,8 +6,8 @@
  "sito": "https://www.movimento5stelle.eu/",
  "wikidata": "https://www.wikidata.org/wiki/Q47817",
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "attivo": true,
  "gruppi_parlamentari": {
@@ -453,5 +453,5 @@
   "cambi_totali": 1
  },
  "note": null,
- "aggiornato_il": "2026-10-20"
+ "aggiornato_il": "2026-10-21"
 }

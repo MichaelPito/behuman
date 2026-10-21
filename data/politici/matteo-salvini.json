@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1973-03-09",
@@ -88,9 +88,9 @@
      "camera": "Senato",
      "legislatura": 18,
      "presenti": 85,
-     "assenti": 42,
+     "assenti": 40,
      "missione": 0,
-     "totale": 127
+     "totale": 125
     },
     {
      "mese": "2021-11",
@@ -9460,7 +9460,7 @@
   "Senato": {
    "presenza": {
     "presenti": 621,
-    "totale": 9080,
+    "totale": 9078,
     "percentuale": 6.8
    },
    "fedelta_gruppo": {
@@ -9495,7 +9495,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/500px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini,_2025.12.04_(cropped).jpg",

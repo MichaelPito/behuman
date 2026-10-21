@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -42,8 +42,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 37,
-     "assenti": 60,
-     "totale": 97
+     "assenti": 7,
+     "totale": 44
     },
     {
      "mese": "2021-11",
@@ -10521,8 +10521,8 @@
   "Camera": {
    "presenza": {
     "presenti": 980,
-    "totale": 2049,
-    "percentuale": 47.8
+    "totale": 1996,
+    "percentuale": 49.1
    },
    "fedelta_gruppo": {
     "allineati": 36,
@@ -10648,7 +10648,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",

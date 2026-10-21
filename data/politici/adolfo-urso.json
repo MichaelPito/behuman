@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -60,10 +60,10 @@
      "mese": "2021-10",
      "camera": "Senato",
      "legislatura": 18,
-     "presenti": 2,
+     "presenti": 0,
      "assenti": 1,
      "missione": 124,
-     "totale": 127
+     "totale": 125
     },
     {
      "mese": "2021-11",
@@ -9404,8 +9404,8 @@
  "indicatori": {
   "Senato": {
    "presenza": {
-    "presenti": 154,
-    "totale": 9080,
+    "presenti": 152,
+    "totale": 9078,
     "percentuale": 1.7
    },
    "fedelta_gruppo": {
@@ -9426,7 +9426,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",

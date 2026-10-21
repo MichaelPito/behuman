@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1975-01-11",
@@ -42,9 +42,9 @@
      "camera": "Senato",
      "legislatura": 18,
      "presenti": 47,
-     "assenti": 24,
+     "assenti": 22,
      "missione": 56,
-     "totale": 127
+     "totale": 125
     },
     {
      "mese": "2021-11",
@@ -9125,7 +9125,7 @@
   "Senato": {
    "presenza": {
     "presenti": 3877,
-    "totale": 9080,
+    "totale": 9078,
     "percentuale": 42.7
    },
    "fedelta_gruppo": {
@@ -9160,7 +9160,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",

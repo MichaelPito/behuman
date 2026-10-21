@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1979-09-02",
@@ -41,9 +41,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 32,
-     "assenti": 65,
-     "totale": 97
+     "presenti": 24,
+     "assenti": 20,
+     "totale": 44
     },
     {
      "mese": "2021-11",
@@ -14122,9 +14122,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 11458,
-    "totale": 22017,
-    "percentuale": 52.0
+    "presenti": 11450,
+    "totale": 21964,
+    "percentuale": 52.1
    },
    "fedelta_gruppo": {
     "allineati": 385,
@@ -14249,7 +14249,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Chiara_Braga_daticamera_2018.jpg",

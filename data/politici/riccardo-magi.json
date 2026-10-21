@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -42,8 +42,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 19,
-     "assenti": 78,
-     "totale": 97
+     "assenti": 25,
+     "totale": 44
     },
     {
      "mese": "2021-11",
@@ -13922,8 +13922,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8918,
-    "totale": 22018,
-    "percentuale": 40.5
+    "totale": 21965,
+    "percentuale": 40.6
    },
    "fedelta_gruppo": {
     "allineati": 192,
@@ -13970,7 +13970,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",

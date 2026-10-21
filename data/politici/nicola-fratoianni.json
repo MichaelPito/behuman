@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -50,9 +50,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 69,
-     "assenti": 28,
-     "totale": 97
+     "presenti": 18,
+     "assenti": 26,
+     "totale": 44
     },
     {
      "mese": "2021-11",
@@ -14103,9 +14103,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 12220,
-    "totale": 22018,
-    "percentuale": 55.5
+    "presenti": 12169,
+    "totale": 21965,
+    "percentuale": 55.4
    },
    "fedelta_gruppo": {
     "allineati": 248,
@@ -14238,7 +14238,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-21",
+  "al": "2026-10-21"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -53,9 +53,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 45,
-     "assenti": 52,
-     "totale": 97
+     "presenti": 0,
+     "assenti": 44,
+     "totale": 44
     },
     {
      "mese": "2021-11",
@@ -14089,9 +14089,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 3748,
-    "totale": 22018,
-    "percentuale": 17.0
+    "presenti": 3703,
+    "totale": 21965,
+    "percentuale": 16.9
    },
    "fedelta_gruppo": {
     "allineati": 139,
@@ -14177,7 +14177,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-21",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
