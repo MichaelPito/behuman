@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-21",
-  "al": "2026-10-21"
+  "dal": "2021-10-22",
+  "al": "2026-10-22"
  },
  "anagrafica": {
   "nascita": "1975-01-11",
@@ -9160,7 +9160,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-21",
+ "aggiornato_il": "2026-10-22",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",

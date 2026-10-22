@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-21",
-  "al": "2026-10-21"
+  "dal": "2021-10-22",
+  "al": "2026-10-22"
  },
  "anagrafica": {
   "nascita": "1966-12-16",
@@ -61,8 +61,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 0,
-     "assenti": 44,
-     "totale": 44
+     "assenti": 35,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2553,30 +2553,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEGA",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 93,
-      "Non ha votato": 40
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     },
     {
      "id": "vs19_727_034",
@@ -14143,7 +14119,7 @@
   "Camera": {
    "presenza": {
     "presenti": 147,
-    "totale": 21965,
+    "totale": 21956,
     "percentuale": 0.7
    },
    "fedelta_gruppo": {
@@ -14152,7 +14128,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [
@@ -14191,7 +14167,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-21",
+ "aggiornato_il": "2026-10-22",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_(01)_(cropped).jpg",

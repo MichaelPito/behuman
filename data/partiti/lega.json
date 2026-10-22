@@ -6,8 +6,8 @@
  "sito": "https://www.legaonline.it/",
  "wikidata": "https://www.wikidata.org/wiki/Q85776185",
  "periodo": {
-  "dal": "2021-10-21",
-  "al": "2026-10-21"
+  "dal": "2021-10-22",
+  "al": "2026-10-22"
  },
  "attivo": true,
  "gruppi_parlamentari": {
@@ -409,5 +409,5 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-21"
+ "aggiornato_il": "2026-10-22"
 }

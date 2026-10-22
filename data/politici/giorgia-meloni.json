@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-21",
-  "al": "2026-10-21"
+  "dal": "2021-10-22",
+  "al": "2026-10-22"
  },
  "anagrafica": {
   "nascita": "1977-01-15",
@@ -60,9 +60,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 8,
-     "assenti": 36,
-     "totale": 44
+     "presenti": 1,
+     "assenti": 34,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2549,30 +2549,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 25,
-      "Non ha votato": 12
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     },
     {
      "id": "vs19_727_034",
@@ -14128,9 +14104,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 456,
-    "totale": 21965,
-    "percentuale": 2.1
+    "presenti": 449,
+    "totale": 21956,
+    "percentuale": 2.0
    },
    "fedelta_gruppo": {
     "allineati": 6,
@@ -14138,7 +14114,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [],
@@ -14150,7 +14126,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-21",
+ "aggiornato_il": "2026-10-22",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
