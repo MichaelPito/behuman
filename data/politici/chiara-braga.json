@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-22",
-  "al": "2026-10-22"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1979-09-02",
@@ -4047,30 +4047,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_005",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
-     "atto": "C.2429",
-     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 61,
-      "Non ha votato": 9
-     },
-     "esito": {
-      "favorevoli": 156,
-      "contrari": 0,
-      "astenuti": 112
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -4093,30 +4069,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_026",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
-     "atto": "C.2759",
-     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 60,
-      "Non ha votato": 10
-     },
-     "esito": {
-      "favorevoli": 264,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
     },
     {
      "id": "vs19_634_015",
@@ -4143,30 +4095,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 10,
-      "Favorevole": 60
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_033",
      "camera": "Camera",
      "legislatura": 19,
@@ -4189,6 +4117,78 @@
       "astenuti": 105
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_005",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
+     "atto": "C.2429",
+     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Astensione",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 61,
+      "Non ha votato": 9
+     },
+     "esito": {
+      "favorevoli": 156,
+      "contrari": 0,
+      "astenuti": 112
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_026",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
+     "atto": "C.2759",
+     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 60,
+      "Non ha votato": 10
+     },
+     "esito": {
+      "favorevoli": 264,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 10,
+      "Favorevole": 60
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -14225,7 +14225,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-22",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Chiara_Braga_daticamera_2018.jpg",

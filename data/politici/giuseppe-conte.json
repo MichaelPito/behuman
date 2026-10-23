@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-22",
-  "al": "2026-10-22"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1964-08-08",
@@ -3891,30 +3891,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_081",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
-     "atto": "C.2537",
-     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 23,
-      "Contrario": 26
-     },
-     "esito": {
-      "favorevoli": 116,
-      "contrari": 65,
-      "astenuti": 6
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_074",
      "camera": "Camera",
      "legislatura": 19,
@@ -3937,6 +3913,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_74&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_081",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
+     "atto": "C.2537",
+     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 23,
+      "Contrario": 26
+     },
+     "esito": {
+      "favorevoli": 116,
+      "contrari": 65,
+      "astenuti": 6
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
     },
     {
      "id": "vs19_535_065",
@@ -12107,7 +12107,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-22",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte,_2018.06.29_(06)_(cropped).jpg",
