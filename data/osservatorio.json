@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-23T14:38:56+00:00",
+ "aggiornato_il": "2026-10-23T15:11:06+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -6654,12 +6654,11 @@
       "HuffPost Italia",
       "Il Fatto Quotidiano",
       "Il Messaggero",
+      "LaPresse",
       "Orizzonte Scuola Notizie",
-      "PressReader",
-      "Secolo d'Italia",
-      "il Giornale"
+      "Secolo d'Italia"
      ],
-     "n_testate": 10,
+     "n_testate": 9,
      "articoli": [
       {
        "titolo": "Nordio: 'Ampliare le carceri minorili'. In 4 anni +40% ragazzi in cella",
@@ -6717,7 +6716,7 @@
       "Ampliare le carceri minorili",
       "Vogliamo ampliare la capienza delle carceri giovanili",
       "Più carceri minorili",
-      "Ampliare le carceri"
+      "Ampliare carceri per minori"
      ],
      "verifiche": [],
      "confronti": []
@@ -6728,12 +6727,12 @@
      "titolo": "Nordio: \"Valutiamo di destinare carceri per adulti ai minori\"",
      "testate": [
       "ANSA",
+      "Avvenire",
       "HuffPost Italia",
       "Il Dubbio",
       "Il Fatto Quotidiano",
       "L'Unione Sarda.it",
       "La Stampa",
-      "LaPresse",
       "Quotidiano Nazionale",
       "RaiNews"
      ],
@@ -6795,8 +6794,7 @@
       "Valutiamo di destinare carceri per adulti ai minori",
       "Massicci arresti di minori, vogliamo ampliare le carceri giovanili",
       "Arresti di minori, amplieremo le carceri",
-      "Arresti massicci di minori, amplieremo le carceri",
-      "Ampliare carceri per minori"
+      "Arresti massicci di minori, amplieremo le carceri"
      ],
      "verifiche": [],
      "confronti": []
@@ -7566,7 +7564,7 @@
     "polemiche": 5,
     "polemiche_social": 0,
     "virali": 8,
-    "citazioni": 19,
+    "citazioni": 18,
     "giorni": 45
    }
   },
@@ -15996,12 +15994,11 @@
     "HuffPost Italia",
     "Il Fatto Quotidiano",
     "Il Messaggero",
+    "LaPresse",
     "Orizzonte Scuola Notizie",
-    "PressReader",
-    "Secolo d'Italia",
-    "il Giornale"
+    "Secolo d'Italia"
    ],
-   "n_testate": 10,
+   "n_testate": 9,
    "articoli": [
     {
      "titolo": "Nordio: 'Ampliare le carceri minorili'. In 4 anni +40% ragazzi in cella",
@@ -16059,7 +16056,7 @@
     "Ampliare le carceri minorili",
     "Vogliamo ampliare la capienza delle carceri giovanili",
     "Più carceri minorili",
-    "Ampliare le carceri"
+    "Ampliare carceri per minori"
    ],
    "verifiche": [],
    "confronti": [],
@@ -16072,12 +16069,12 @@
    "titolo": "Nordio: \"Valutiamo di destinare carceri per adulti ai minori\"",
    "testate": [
     "ANSA",
+    "Avvenire",
     "HuffPost Italia",
     "Il Dubbio",
     "Il Fatto Quotidiano",
     "L'Unione Sarda.it",
     "La Stampa",
-    "LaPresse",
     "Quotidiano Nazionale",
     "RaiNews"
    ],
@@ -16139,8 +16136,7 @@
     "Valutiamo di destinare carceri per adulti ai minori",
     "Massicci arresti di minori, vogliamo ampliare le carceri giovanili",
     "Arresti di minori, amplieremo le carceri",
-    "Arresti massicci di minori, amplieremo le carceri",
-    "Ampliare carceri per minori"
+    "Arresti massicci di minori, amplieremo le carceri"
    ],
    "verifiche": [],
    "confronti": [],
