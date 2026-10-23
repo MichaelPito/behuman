@@ -89,6 +89,27 @@ ogni citazione che non compare parola per parola nel testo della fonte. Le propo
 `contenuti/coda_revisione/` e seguono la stessa doppia revisione: **lo strumento accelera la ricerca,
 non decide nulla**.
 
+### Raccolta completa delle dichiarazioni ufficiali (sezione «Dichiarazioni»)
+Diversa dalle dichiarazioni usate per le posizioni: è l'archivio di **tutto** ciò che i politici
+monitorati hanno detto in sedi ufficiali negli ultimi 5 anni, senza selezione e senza collegamento ai temi.
+- Camera: ogni intervento nei resoconti stenografici (escluso chi presiede), con estratto e link.
+- Senato: elenco degli interventi (data, seduta, ddl), senza testo.
+- Palazzo Chigi: interventi della Presidente del Consiglio su governo.it.
+- «Le più discusse»: frasi che Pagella Politica ha scelto di verificare. La scelta di un fact-checker
+  indipendente è l'unico segnale di diffusione pubblico e controllabile che abbiamo; non usiamo «mi piace»
+  o visualizzazioni. Pubblichiamo la frase, la data e i link, **mai il giudizio** del fact-checker.
+- Recap: solo conteggi (quanti, dove, quando, in che occasione). Coerenza: la stessa valutazione
+  della scheda del politico, calcolata sulle posizioni documentate.
+
+## 3-bis. Regole per la pagina «Governo»
+- Elenco completo delle leggi della legislatura dagli open data di Senato e Camera; filtro predefinito
+  sulle leggi di iniziativa del Governo in carica (decreti-legge adottati dopo l'insediamento).
+- Riforme costituzionali del Governo mostrate anche se non in vigore (in esame, respinte al referendum).
+- «In pratica»: testo a modello fisso per tipo di atto, con date e voti; nessun aggettivo valutativo.
+- «Come lo descrive il Governo»: estratto del comunicato del Consiglio dei ministri, sempre etichettato.
+- Opinione pubblica: solo atti ufficiali (referendum, raccolte firme online, pronunce della Corte
+  costituzionale). Niente sondaggi né social.
+
 ## 4. Regole di equilibrio
 - Stesso numero di politici monitorati per maggioranza e opposizione (oggi 12 + 12).
 - Ogni nuova proposizione deve poter riguardare soggetti di entrambi gli schieramenti; si applica a

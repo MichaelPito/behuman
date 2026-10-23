@@ -232,3 +232,70 @@ export function totaliVotazione(v?: VotazioneTema) {
   }
   return t;
 }
+
+// ----------------------------------------------------------------- governo
+export type Voto = { camera: string; fase: string; data: string; tipo: "finale" | "fiducia"; favorevoli: number; contrari: number; astenuti: number; fonte: string };
+export type Fase = { fase: string; ramo: string; presentato: string; stato: string; data_stato: string; url: string | null };
+export type Pronuncia = { numero: number; anno: number; tipo: string; data_deposito: string | null; ecli: string | null; esito: string; dispositivo: string; url: string };
+export type Raccolta = { id: string; titolo: string; quesito: string; firme_online: number | null; soglia: number | null; inizio: string | null; fine: string | null; url: string };
+export type Referendum = {
+  id: string; nome: string; tipo: string; data: string; giorni?: string; id_ddl?: string; legge?: string; fonte?: string;
+  risultato: { si: number; no: number; votanti: number; elettori: number; perc_si: number; perc_no: number; affluenza: number | null } | null;
+};
+export type Legge = {
+  id: string; numero: number; data: string; tipo: string; titolo: string; titolo_breve: string | null; iniziativa: string | null;
+  presentata_da: string[]; del_governo: boolean; decreto_legge_del: string | null; gazzetta: string | null; normattiva: string | null;
+  iter: Fase[]; voti: Voto[]; scheda_senato: string;
+  in_pratica: { argomento: string; cosa_e: string; fatti: string[] };
+  descrizione_governo: { testo: string; titolo: string; data: string | null; url: string; somiglianza?: number } | null;
+  reazioni: { corte: Pronuncia[]; firme: Raccolta[]; referendum: Referendum[] };
+};
+export type Riforma = {
+  id_ddl: string; titolo: string; iter: Fase[]; voti: Voto[]; stato: string; data_stato: string; esito: string;
+  approvata_definitivamente: boolean; pubblicata_come_legge: boolean; scheda_senato: string | null; referendum: Referendum[];
+};
+export type Governo = {
+  governo: { nome: string | null; inizio: string; fonte: string | null };
+  statistiche: {
+    leggi: number; del_governo: number; decreti_convertiti: number; con_fiducia: number; voti_fiducia: number; con_descrizione_governo: number; con_pronunce_corte: number;
+    per_anno: { anno: string; leggi: number; del_governo: number; decreti: number; con_fiducia: number }[];
+    per_tipo: { tipo: string; n: number }[];
+  };
+  riforme: Riforma[];
+  referendum: Referendum[];
+  leggi: Legge[];
+};
+export const governo = () => leggi<Governo | null>("governo.json", null);
+export const slugLegge = (l: { id: string }) => l.id.toLowerCase();
+export const numeroLegge = (l: Legge) => `${l.tipo === "legge costituzionale" ? "Legge costituzionale" : "Legge"} ${dataIt(l.data)}, n. ${l.numero}`;
+
+// ----------------------------------------------------------------- dichiarazioni
+export type InterventoCamera = {
+  data: string; leg: number; seduta: number; argomento: string; fase: string | null; categoria: string; ruolo: string | null; gruppo: string | null;
+  estratto: string; parole: number; url: string; verificata?: string;
+};
+export type InterventoGoverno = { data: string; titolo: string; estratto: string; parole: number; url: string; fonte: string };
+export type InterventoSenato = { id: string; data: string; seduta: number; interventi: number; ddl: { fase: string; titolo: string; url: string }[] };
+export type Verificata = {
+  data: string | null; data_verifica: string; frase: string; url: string; fonte_originale: string | null; fonte_tipo: string;
+  testo_ufficiale?: { estratto: string; url: string };
+};
+export type RiepilogoDichiarazioni = {
+  totale: number; camera: number; parole_camera: number; governo: number; senato: number; verificate: number; prima: string | null; ultima: string | null;
+  per_anno: { anno: string; camera: number; governo: number; senato: number; verificate: number }[];
+  categorie: { categoria: string; n: number }[];
+  argomenti_frequenti: { argomento: string; n: number; dal: string; al: string }[];
+  fonti_verificate: { fonte: string; n: number }[];
+};
+export type Dichiarazioni = {
+  slug: string; nome: string; partito: { slug: string | null; nome: string; sigla: string }; schieramento: string; dal: string; al: string;
+  riepilogo: RiepilogoDichiarazioni; recap: string; valutazione_coerenza?: ValutazioneCoerenza; coerenza?: Coerenza;
+  verificate: Verificata[]; camera: InterventoCamera[]; governo: InterventoGoverno[]; senato: InterventoSenato[];
+};
+export type IndiceDichiarazioni = {
+  politici: { slug: string; nome: string; partito: Dichiarazioni["partito"]; schieramento: string; riepilogo: Pick<RiepilogoDichiarazioni, "totale" | "camera" | "senato" | "governo" | "verificate" | "prima" | "ultima">; recap: string; valutazione_coerenza?: ValutazioneCoerenza }[];
+  discusse: (Verificata & { slug: string; nome: string; partito: Dichiarazioni["partito"]; schieramento: string })[];
+  recenti: { slug: string; nome: string; partito: Dichiarazioni["partito"]; schieramento: string; fonte: string; data: string; testo: string; contesto: string; url: string }[];
+};
+export const dichiarazioni = (slug: string) => leggi<Dichiarazioni | null>(`dichiarazioni/${slug}.json`, null);
+export const indiceDichiarazioni = () => leggi<IndiceDichiarazioni>("dichiarazioni.json", { politici: [], discusse: [], recenti: [] });

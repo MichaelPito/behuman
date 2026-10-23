@@ -1,4 +1,4 @@
-"""Camera dei Deputati – dati.camera.it (SPARQL, licenza CC BY 4.0).
+"""Camera dei Deputati – dati.camera.it (SPARQL, licenza CC BY-SA 4.0).
 
 Ontologia OCD: http://dati.camera.it/ocd/
 - ocd:deputato           una persona in una legislatura (URI d{ID}_{LEG})

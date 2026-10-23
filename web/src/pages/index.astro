@@ -2,7 +2,8 @@
 import Base from "../layouts/Base.astro";
 import Emiciclo from "../components/Emiciclo.astro";
 import Icon from "../components/Icon.astro";
-import { aggiornamenti, dataIt, ETICHETTA_POSIZIONE, iniziali, meta, partiti, perCognome, politici, proposizioniIndice, tuttiICambi, ultimoVotoFinale } from "../lib/data";
+import Discussa from "../components/Discussa.astro";
+import { aggiornamenti, dataIt, ETICHETTA_POSIZIONE, governo as datiGoverno, indiceDichiarazioni, slugLegge, iniziali, meta, partiti, perCognome, politici, proposizioniIndice, tuttiICambi, ultimoVotoFinale } from "../lib/data";
 import { u } from "../lib/url";
 
 const tutti = politici().sort(perCognome);
@@ -13,6 +14,9 @@ const voto = ultimoVotoFinale("Camera");
 const cambi = tuttiICambi().slice(0, 4);
 const props = proposizioniIndice();
 const m = meta();
+const gov = datiGoverno();
+const ultimeLeggi = [...(gov?.leggi ?? [])].filter((l) => l.del_governo).sort((a, b) => b.data.localeCompare(a.data)).slice(0, 4);
+const discusse = indiceDichiarazioni().discusse.slice(0, 3);
 const scorciatoie: [string, string][] = [
   ["?orientamento=sinistra", "Sinistra"],
   ["?orientamento=centro", "Centro"],
@@ -101,6 +105,31 @@ const scorciatoie: [string, string][] = [
     </div>
   </section>
 
+  {gov && (
+    <section class="section">
+      <div class="section-head"><h2>Cosa ha cambiato il Governo</h2><a href={u("/governo/")} class="small">Tutte le leggi e le riforme →</a></div>
+      <div class="grid due">
+        <div class="stats">
+          <div class="stat"><span class="v">{gov.statistiche.del_governo}</span><span class="l">leggi proposte dal Governo in carica</span></div>
+          <div class="stat"><span class="v">{gov.statistiche.decreti_convertiti}</span><span class="l">decreti-legge convertiti</span></div>
+          <div class="stat"><span class="v">{gov.statistiche.voti_fiducia}</span><span class="l">voti di fiducia sulle leggi del Governo</span></div>
+        </div>
+        <ul class="news">
+          {ultimeLeggi.map((l) => (
+            <li><span class="mono tiny muted">{dataIt(l.data)}</span><a href={u(`/governo/${slugLegge(l)}/`)}>{l.in_pratica.argomento}</a><span class="tiny muted">{l.tipo}</span></li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  {discusse.length > 0 && (
+    <section class="section">
+      <div class="section-head"><h2>Le dichiarazioni più discusse</h2><a href={u("/dichiarazioni/")} class="small">Tutte le dichiarazioni →</a></div>
+      <div class="grid three">{discusse.map((d) => <Discussa v={d} nome={d.nome} slug={d.slug} />)}</div>
+    </section>
+  )}
+
   <section class="section">
     <div class="section-head"><h2>Partiti</h2><a href={u("/partiti/")} class="small">Tutti i partiti →</a></div>
     <div class="grid three">
@@ -132,6 +161,7 @@ const scorciatoie: [string, string][] = [
 </Base>
 
 <style>
+  .grid.due { grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); align-items: start; }
   .volti { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: 10px; }
   .volti a { display: grid; justify-items: center; gap: 6px; text-decoration: none; color: var(--ink); font-size: 0.82rem; font-weight: 600; text-align: center; }
   .volti .avatar { width: 56px; height: 56px; border-radius: 16px; transition: transform 0.35s var(--spring), border-radius 0.35s var(--ease), box-shadow 0.3s; }

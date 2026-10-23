@@ -2,10 +2,11 @@
 import Base from "../../layouts/Base.astro";
 import Cambio from "../../components/Cambio.astro";
 import Coerenza from "../../components/Coerenza.astro";
+import Discussa from "../../components/Discussa.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import PresenzeChart from "../../components/PresenzeChart.astro";
-import { aggiornamenti, dataIt, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
+import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -21,7 +22,9 @@ const news = ordinaPerData(aggiornamenti().filter((a) => a.politici.includes(p.s
 const perProp = Object.entries(
   ordinaPerData(p.posizioni).reduce<Record<string, typeof p.posizioni>>((acc, x) => ((acc[x.proposizione] ||= []).push(x), acc), {}),
 );
-const interventi: any[] = ordinaPerData(((p as any).interventi ?? []) as any[]);
+const dich = datiDichiarazioni(p.slug);
+// le tre più recenti tra le più discusse, mostrate in ordine cronologico
+const discusse = (dich?.verificate ?? []).filter((v) => v.data).slice(-3);
 const dichiarazioni = ordinaPerData(p.posizioni.filter((x) => x.tipo === "dichiarazione"));
 
 // Percorso unico: incarichi, gruppi parlamentari, partiti.
@@ -199,22 +202,22 @@ const sezioni: [string, string][] = [
   </section>
 
   <section class="section" id="dichiarazioni">
-    <div class="section-head"><h2>Dichiarazioni e interventi</h2><a class="small" href={u(`/dichiarazioni/?politico=${p.slug}`)}>Tutte le dichiarazioni →</a></div>
-    {dichiarazioni.length === 0 && interventi.length === 0 && (
-      <p class="callout neutral">Nessuna dichiarazione verificata ancora pubblicata per {p.nome}. Pubblichiamo solo citazioni testuali con fonte e doppia verifica. <a href={u("/faq/#dichiarazioni")}>Perché</a></p>
+    <div class="section-head"><h2>Dichiarazioni</h2>{dich && <a class="small" href={u(`/dichiarazioni/${p.slug}/`)}>Tutte le dichiarazioni ({dich.riepilogo.totale.toLocaleString("it-IT")}) →</a>}</div>
+    {dich && <p class="prose">{dich.recap}</p>}
+    {discusse.length > 0 && (
+      <>
+        <h3 class="sotto">Le più discusse, le ultime</h3>
+        <div class="grid discusse">{discusse.map((v) => <Discussa v={v} />)}</div>
+      </>
     )}
-    {dichiarazioni.length > 0 && <ol class="timeline">{dichiarazioni.map((x) => <li><PosizioneRiga p={x} /></li>)}</ol>}
-    {interventi.length > 0 && (
-      <details class="disc">
-        <summary><span>Interventi in Aula <span class="muted small">· {interventi.length}</span></span><Icon name="chev" class="chev" /></summary>
-        <div class="body">
-          <ol class="timeline">
-            {interventi.map((x) => (
-              <li><div class="when">{dataIt(x.data)}</div><div class="what">{x.titolo}</div>{x.url && <a class="tiny" href={x.url} rel="noopener" target="_blank">Resoconto stenografico ↗</a>}</li>
-            ))}
-          </ol>
-        </div>
-      </details>
+    {dichiarazioni.length > 0 && (
+      <>
+        <h3 class="sotto">Dichiarazioni usate per le posizioni sui temi</h3>
+        <ol class="timeline">{dichiarazioni.map((x) => <li><PosizioneRiga p={x} /></li>)}</ol>
+      </>
+    )}
+    {!dich && dichiarazioni.length === 0 && (
+      <p class="callout neutral">Nessuna dichiarazione raccolta ancora per {p.nome}. <a href={u("/faq/#dichiarazioni")}>Quali fonti usiamo</a></p>
     )}
   </section>
 
@@ -233,6 +236,8 @@ const sezioni: [string, string][] = [
 </Base>
 
 <style>
+  .sotto { margin: 18px 0 10px; }
+  .discusse { grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); align-items: start; }
   .testa { display: grid; grid-template-columns: auto 1fr; gap: 24px; align-items: center; padding-block: 36px 20px; }
   .avatar.big { width: 132px; height: 132px; border-radius: 36px; }
   .lede { font-size: 1.15rem; color: var(--ink-2); }

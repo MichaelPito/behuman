@@ -1,0 +1,140 @@
+---
+import Base from "../../layouts/Base.astro";
+import Coerenza from "../../components/Coerenza.astro";
+import Discussa from "../../components/Discussa.astro";
+import FiltroLista from "../../components/FiltroLista.astro";
+import Icon from "../../components/Icon.astro";
+import { dataIt, dichiarazioni, politici } from "../../lib/data";
+import { u } from "../../lib/url";
+
+export function getStaticPaths() {
+  return politici().filter((p) => dichiarazioni(p.slug)).map((p) => ({ params: { slug: p.slug } }));
+}
+const d = dichiarazioni(Astro.params.slug!)!;
+const r = d.riepilogo;
+
+// Un'unica cronologia, dalla più vecchia alla più recente.
+type Voce = { data: string; fonte: "camera" | "senato" | "governo" | "discussa"; titolo: string; testo?: string; url?: string; extra?: string; categoria?: string; verificata?: string };
+const voci: Voce[] = [
+  ...d.camera.map((c) => ({ data: c.data, fonte: "camera" as const, titolo: c.argomento || "Intervento in Aula", testo: c.estratto, url: c.url, extra: [c.fase, c.ruolo, `${c.parole.toLocaleString("it-IT")} parole`].filter(Boolean).join(" · "), categoria: c.categoria, verificata: c.verificata })),
+  ...d.senato.map((s) => ({ data: s.data, fonte: "senato" as const, titolo: s.ddl.length ? s.ddl.map((x) => `${x.fase} — ${x.titolo}`).join("; ") : "Intervento in Aula", extra: `Seduta n. ${s.seduta} · ${s.interventi} ${s.interventi === 1 ? "intervento" : "interventi"}`, url: s.ddl[0]?.url })),
+  ...d.governo.map((g) => ({ data: g.data, fonte: "governo" as const, titolo: g.titolo, testo: g.estratto, url: g.url, extra: `${g.parole.toLocaleString("it-IT")} parole` })),
+  ...d.verificate.filter((v) => v.data).map((v) => ({ data: v.data!, fonte: "discussa" as const, titolo: `«${v.frase}»`, url: v.url, extra: `Fonte: ${v.fonte_tipo}` })),
+].sort((a, b) => a.data.localeCompare(b.data));
+const ETICHETTA = { camera: "Aula della Camera", senato: "Aula del Senato", governo: "Palazzo Chigi", discussa: "Più discussa" };
+const anni = [...new Set(voci.map((v) => v.data.slice(0, 4)))].sort();
+const conta = (f: (v: Voce) => boolean) => voci.filter(f).length;
+const categorie = [...new Set(voci.map((v) => v.categoria).filter(Boolean))] as string[];
+const gruppi = [
+  { chiave: "fonte", titolo: "Fonte", opzioni: (Object.keys(ETICHETTA) as Voce["fonte"][]).map((k) => [k, ETICHETTA[k], conta((v) => v.fonte === k)] as [string, string, number]).filter((x) => x[2] > 0) },
+  { chiave: "anno", titolo: "Anno", opzioni: anni.map((a) => [a, a, conta((v) => v.data.startsWith(a))] as [string, string, number]) },
+  { chiave: "occasione", titolo: "Occasione (Camera)", opzioni: categorie.map((c) => [c.replace(/\W+/g, "-"), c, conta((v) => v.categoria === c)] as [string, string, number]).sort((a, b) => b[2] - a[2]) },
+];
+const maxAnno = Math.max(1, ...r.per_anno.map((a) => a.camera + a.senato + a.governo + a.verificate));
+const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data.startsWith(a))]));
+---
+<Base title={`Dichiarazioni di ${d.nome}`} description={`${d.nome}: tutte le dichiarazioni ufficiali dal ${dataIt(d.dal)}, le più discusse, recap e coerenza.`}>
+  <nav class="small muted briciole" aria-label="Percorso"><a href={u("/dichiarazioni/")}>Dichiarazioni</a> / <a href={u(`/politici/${d.slug}/`)}>{d.nome}</a></nav>
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Dichiarazioni · {dataIt(d.dal)} – {dataIt(d.al)}</span>
+      <h1>{d.nome}</h1>
+      <p class="lede prose">{d.recap}</p>
+    </div>
+    <div class="duo">
+      <div class="card stack anni">
+        <span class="eyebrow">Per anno</span>
+        <ul class="barre">
+          {r.per_anno.map((a) => {
+            const t = a.camera + a.senato + a.governo + a.verificate;
+            return (
+              <li>
+                <span class="mono small">{a.anno}</span>
+                <span class="barra" style={`--t:${(t / maxAnno) * 100}%`} title={`Camera ${a.camera}, Senato ${a.senato}, Palazzo Chigi ${a.governo}, più discusse ${a.verificate}`}>
+                  <i style={`flex:${a.camera}; background:var(--accent)`}></i><i style={`flex:${a.senato}; background:var(--neutral)`}></i><i style={`flex:${a.governo}; background:var(--plum)`}></i><i style={`flex:${a.verificate}; background:var(--ink-2)`}></i>
+                </span>
+                <span class="mono small">{t}</span>
+              </li>
+            );
+          })}
+        </ul>
+        <span class="legend small"><span><i style="background:var(--accent)"></i>Camera</span><span><i style="background:var(--neutral)"></i>Senato</span><span><i style="background:var(--plum)"></i>Palazzo Chigi</span><span><i style="background:var(--ink-2)"></i>Più discusse</span></span>
+      </div>
+      <div class="stack">
+        <Coerenza v={d.valutazione_coerenza} />
+        <a class="small" href={u(`/politici/${d.slug}/#cambi`)}>Vedi i cambi di posizione e le fonti <Icon name="arrow" class="tiny" /></a>
+        {r.argomenti_frequenti.length > 0 && (
+          <div class="card stack">
+            <span class="eyebrow">Argomenti con più interventi alla Camera</span>
+            <ol class="frequenti">{r.argomenti_frequenti.map((a) => <li><span class="mono small">{a.n}×</span> {a.argomento}</li>)}</ol>
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  {d.verificate.length > 0 && (
+    <section class="section" id="discusse">
+      <div class="section-head"><h2>Le più discusse</h2><span class="small muted">{d.verificate.length} · in ordine cronologico</span></div>
+      <p class="muted small prose">Frasi scelte da Pagella Politica perché molto circolate. Non riportiamo il loro giudizio: apri la verifica per leggerlo. <a href={u("/faq/#virali")}>Perché questo criterio</a></p>
+      <div class="grid discusse">{d.verificate.map((v) => <Discussa v={v} />)}</div>
+    </section>
+  )}
+
+  <section class="section" id="tutte">
+    <div class="section-head"><h2>Tutte le dichiarazioni</h2><span class="small muted">dalla più vecchia alla più recente</span></div>
+    {voci.length === 0 ? <p class="callout neutral">Nessuna dichiarazione nelle fonti consultate per questo periodo.</p> : (
+      <>
+        <FiltroLista id="voci" gruppi={gruppi} placeholder="Cerca nel testo: pensioni, Ucraina, PNRR…" nome={["dichiarazione", "dichiarazioni"]} />
+        <nav class="row salti small" aria-label="Vai all'anno">{anni.map((a) => <a href={`#anno-${a}`}>{a}</a>)}</nav>
+        <div data-lista="voci">
+          {anni.map((a) => (
+            <div data-gruppo id={`anno-${a}`} class="anno">
+              <h3 class="mono">{a}</h3>
+              <ol class="timeline">
+                {perAnno[a].map((v) => (
+                  <li data-item data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
+                    data-f-fonte={v.fonte} data-f-anno={a} data-f-occasione={v.categoria?.replace(/\W+/g, "-") ?? ""}>
+                    <span class="when">{dataIt(v.data)} · {ETICHETTA[v.fonte]}</span>
+                    <div class="what">{v.titolo}</div>
+                    {v.testo && <p class="small estratto">{v.testo}</p>}
+                    <div class="tiny muted">
+                      {v.extra}
+                      {v.url && <> · <a href={v.url} target="_blank" rel="noopener">{v.fonte === "discussa" ? "Verifica" : v.fonte === "senato" ? "Scheda del ddl" : "Testo completo"} <Icon name="ext" class="tiny" /></a></>}
+                      {v.verificata && <> · <a href={v.verificata} target="_blank" rel="noopener">verificata da Pagella Politica</a></>}
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))}
+        </div>
+        <p class="callout neutral" data-vuoto="voci" hidden>Nessuna dichiarazione corrisponde a questi filtri.</p>
+      </>
+    )}
+    <p class="tiny muted" style="margin-top:16px">
+      Camera: resoconti stenografici (camera.it), estratto dell'inizio di ogni intervento. Senato: elenco degli interventi da dati.senato.it, senza testo
+      (il sito non ne consente il download automatico). Palazzo Chigi: interventi pubblicati su governo.it (CC BY 3.0 IT).
+    </p>
+  </section>
+</Base>
+
+<style>
+  .briciole { padding-top: 20px; }
+  .briciole a { color: inherit; }
+  .duo { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr)); margin-top: 8px; align-items: start; }
+  .anni { padding: 18px; }
+  .barre { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .barre li { display: grid; grid-template-columns: 3rem 1fr 3rem; gap: 10px; align-items: center; }
+  .barra { display: flex; height: 14px; width: var(--t); min-width: 4px; border-radius: 999px; overflow: hidden; transform-origin: left; animation: cresci 0.9s var(--ease) both; }
+  .barra i { display: block; height: 100%; }
+  @keyframes cresci { from { transform: scaleX(0); } }
+  .frequenti { margin: 0; padding-left: 0; list-style: none; display: grid; gap: 8px; font-size: 0.92rem; }
+  .discusse { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); align-items: start; }
+  .salti { gap: 6px; margin: 16px 0 4px; }
+  .salti a { padding: 4px 10px; border-radius: 999px; background: var(--surface-2); text-decoration: none; color: var(--ink-2); font-weight: 600; }
+  .salti a:hover { background: var(--accent-wash); color: var(--accent-ink); }
+  .anno { margin-top: 18px; scroll-margin-top: 90px; }
+  .anno h3 { font-size: 1rem; color: var(--ink-2); margin-bottom: 10px; }
+  .estratto { margin: 4px 0; color: var(--ink-2); max-width: 75ch; }
+</style>

@@ -1,0 +1,124 @@
+---
+// Filtri predefiniti + ricerca per qualsiasi elenco della pagina.
+// Gli elementi dell'elenco [data-lista=id] hanno [data-item], data-testo e un attributo
+// data-f-<chiave> per ogni gruppo (più valori separati da spazio).
+// Dentro un gruppo vale «o», tra gruppi «e». Lo stato finisce nell'URL.
+import Icon from "./Icon.astro";
+
+type Gruppo = { chiave: string; titolo: string; opzioni: [string, string, number][] };
+interface Props { id: string; gruppi: Gruppo[]; placeholder: string; nome: [string, string]; limite?: number; nota?: string; predefiniti?: Record<string, string[]> }
+const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = Astro.props;
+---
+<section class="filtri card" data-filtro-lista={id} data-predefiniti={JSON.stringify(predefiniti)} data-limite={limite} data-nome1={nome[0]} data-nome2={nome[1]} aria-label="Filtri">
+  <div class="cerca">
+    <Icon name="search" />
+    <label for={`cerca-${id}`} class="sr-only">{placeholder}</label>
+    <input id={`cerca-${id}`} type="search" placeholder={placeholder} data-testo autocomplete="off" />
+  </div>
+  <div class="gruppi">
+    {gruppi.filter((g) => g.opzioni.length > 1).map((g) => (
+      <div class="gruppo" role="group" aria-label={g.titolo}>
+        <span class="eyebrow">{g.titolo}</span>
+        <div class="row">
+          {g.opzioni.map(([v, l, n]) => (
+            <button type="button" class="chip" aria-pressed="false" data-chiave={g.chiave} data-valore={v}>
+              <span class="tick"><Icon name="check" /></span>{l}<span class="count">{n}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+  <div class="row piede">
+    <span class="small muted" data-esito aria-live="polite"></span>
+    <button type="button" class="btn ghost" data-azzera hidden>Azzera filtri</button>
+  </div>
+  {nota && <p class="tiny muted" set:html={nota} />}
+</section>
+
+<style>
+  .filtri { display: grid; gap: 16px; padding: 18px; }
+  .cerca { display: flex; align-items: center; gap: 10px; border: 1px solid var(--line); border-radius: 12px; padding: 0 12px; background: var(--paper); transition: border-color 0.2s, box-shadow 0.2s; }
+  .cerca:focus-within { border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-wash); }
+  .cerca :global(svg) { width: 18px; height: 18px; color: var(--ink-2); flex: none; }
+  .cerca input { flex: 1; min-width: 0; height: 46px; border: 0; outline: 0; background: transparent; color: var(--ink); font: 500 1.05rem var(--f-body); }
+  .gruppi { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); }
+  .gruppo { display: grid; gap: 8px; align-content: start; }
+  .gruppo .row { gap: 6px; }
+  .chip :global(svg) { width: 14px; height: 14px; }
+  .piede { gap: 12px; }
+</style>
+
+<script>
+  function init() {
+    document.querySelectorAll<HTMLElement>("[data-filtro-lista]").forEach((box) => {
+      const id = box.dataset.filtroLista!;
+      const lista = document.querySelector<HTMLElement>(`[data-lista="${id}"]`);
+      if (!lista) return;
+      const limite = Number(box.dataset.limite || 0);
+      const [n1, n2] = [box.dataset.nome1!, box.dataset.nome2!];
+      const testo = box.querySelector<HTMLInputElement>("[data-testo]")!;
+      const esito = box.querySelector<HTMLElement>("[data-esito]")!;
+      const azzera = box.querySelector<HTMLButtonElement>("[data-azzera]")!;
+      const chips = [...box.querySelectorAll<HTMLButtonElement>(".chip")];
+      const items = [...lista.querySelectorAll<HTMLElement>("[data-item]")];
+      const vuoto = document.querySelector<HTMLElement>(`[data-vuoto="${id}"]`);
+      const altri = document.querySelector<HTMLButtonElement>(`[data-altri="${id}"]`);
+      const gruppiVuoti = [...lista.querySelectorAll<HTMLElement>("[data-gruppo]")];
+      const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+      const testi = items.map((el) => norm(el.dataset.testo || el.textContent || ""));
+      let mostra = limite;
+
+      const qs = new URLSearchParams(location.search);
+      // senza parametri nell'URL valgono i filtri predefiniti della pagina
+      const pred: Record<string, string[]> = location.search ? {} : JSON.parse(box.dataset.predefiniti || "{}");
+      chips.forEach((c) => {
+        const vals = pred[c.dataset.chiave!] ?? (qs.get(c.dataset.chiave!) || "").split(",");
+        c.setAttribute("aria-pressed", String(vals.includes(c.dataset.valore!)));
+      });
+      testo.value = qs.get("q") || "";
+
+      const applica = (anima: boolean) => {
+        const scelti: Record<string, string[]> = {};
+        chips.filter((c) => c.getAttribute("aria-pressed") === "true").forEach((c) => (scelti[c.dataset.chiave!] ||= []).push(c.dataset.valore!));
+        const q = norm(testo.value.trim());
+        const aggiorna = () => {
+          let n = 0, visibili = 0;
+          items.forEach((el, i) => {
+            const ok =
+              (!q || testi[i].includes(q)) &&
+              Object.entries(scelti).every(([k, vs]) => {
+                const have = (el.getAttribute(`data-f-${k}`) || "").split(" ");
+                return vs.some((v) => have.includes(v));
+              });
+            if (ok) n++;
+            const vedi = ok && (!limite || visibili < mostra);
+            if (vedi) visibili++;
+            el.hidden = !vedi;
+          });
+          // titoli di gruppo (es. anno) senza elementi visibili
+          gruppiVuoti.forEach((g) => (g.hidden = !g.querySelector("[data-item]:not([hidden])")));
+          esito.textContent = n === items.length ? `${n} ${n === 1 ? n1 : n2}` : `${n} di ${items.length} ${n2}`;
+          if (vuoto) vuoto.hidden = n > 0;
+          if (altri) { altri.hidden = visibili >= n; altri.textContent = `Mostra altri ${Math.min(limite, n - visibili)} (${n - visibili} rimanenti)`; }
+          azzera.hidden = !q && Object.keys(scelti).length === 0;
+        };
+        const d = document as Document & { startViewTransition?: (cb: () => void) => unknown };
+        if (anima && d.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) d.startViewTransition(aggiorna);
+        else aggiorna();
+        const p = new URLSearchParams();
+        Object.entries(scelti).forEach(([k, vs]) => p.set(k, vs.join(",")));
+        if (q) p.set("q", testo.value.trim());
+        if (!p.toString() && Object.keys(JSON.parse(box.dataset.predefiniti || "{}")).length) p.set("tutte", "1");
+        history.replaceState(history.state, "", `${location.pathname}${p.toString() ? "?" + p : ""}${location.hash}`);
+      };
+
+      chips.forEach((c) => (c.onclick = () => { c.setAttribute("aria-pressed", String(c.getAttribute("aria-pressed") !== "true")); mostra = limite; applica(true); }));
+      testo.oninput = () => { mostra = limite; applica(false); };
+      azzera.onclick = () => { chips.forEach((c) => c.setAttribute("aria-pressed", "false")); testo.value = ""; mostra = limite; applica(true); };
+      if (altri) altri.onclick = () => { mostra += limite; applica(false); };
+      applica(false);
+    });
+  }
+  document.addEventListener("astro:page-load", init);
+</script>

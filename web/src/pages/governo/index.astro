@@ -1,0 +1,214 @@
+---
+import Base from "../../layouts/Base.astro";
+import FiltroLista from "../../components/FiltroLista.astro";
+import Icon from "../../components/Icon.astro";
+import { dataIt, governo, slugLegge } from "../../lib/data";
+import { u } from "../../lib/url";
+
+const g = governo();
+const leggi = [...(g?.leggi ?? [])].sort((a, b) => b.data.localeCompare(a.data) || b.numero - a.numero);
+const s = g?.statistiche;
+const conta = (f: (l: (typeof leggi)[number]) => boolean) => leggi.filter(f).length;
+const conFiducia = (l: (typeof leggi)[number]) => l.voti.some((v) => v.tipo === "fiducia");
+const reazione = (l: (typeof leggi)[number]) =>
+  [l.reazioni.referendum.length && "referendum", l.reazioni.firme.length && "firme", l.reazioni.corte.length && "corte"].filter(Boolean) as string[];
+const TIPI_BREVI: Record<string, string> = {
+  "conversione di decreto-legge": "Decreto-legge convertito",
+  "legge con delega al Governo": "Legge delega",
+  "ratifica di un accordo internazionale": "Ratifica di accordo",
+  "bilancio o rendiconto": "Bilancio e conti",
+  "legge costituzionale": "Legge costituzionale",
+  "legge ordinaria": "Legge ordinaria",
+};
+const tipi = [...new Set(leggi.map((l) => l.tipo))];
+const anni = [...new Set(leggi.map((l) => l.data.slice(0, 4)))].sort().reverse();
+const gruppi = [
+  {
+    chiave: "iniziativa",
+    titolo: "Chi l'ha proposta",
+    opzioni: [
+      ["governo", "Governo in carica", conta((l) => l.del_governo)],
+      ["parlamento", "Parlamentari", conta((l) => l.iniziativa === "Parlamentare")],
+      ["altro", "Altro (governo precedente, regioni, cittadini…)", conta((l) => !l.del_governo && l.iniziativa !== "Parlamentare")],
+    ] as [string, string, number][],
+  },
+  { chiave: "tipo", titolo: "Tipo di atto", opzioni: tipi.map((t) => [t.replace(/\W+/g, "-"), TIPI_BREVI[t] ?? t, conta((l) => l.tipo === t)] as [string, string, number]) },
+  { chiave: "anno", titolo: "Anno", opzioni: anni.map((a) => [a, a, conta((l) => l.data.startsWith(a))] as [string, string, number]) },
+  {
+    chiave: "segnali",
+    titolo: "Voti e reazioni",
+    opzioni: [
+      ["fiducia", "Con voto di fiducia", conta(conFiducia)],
+      ["corte", "Esaminata dalla Corte costituzionale", conta((l) => l.reazioni.corte.length > 0)],
+      ["firme", "Con raccolta firme", conta((l) => l.reazioni.firme.length > 0)],
+      ["referendum", "Sottoposta a referendum", conta((l) => l.reazioni.referendum.length > 0)],
+    ].filter((x) => (x[2] as number) > 0) as [string, string, number][],
+  },
+];
+const maxAnno = Math.max(1, ...(s?.per_anno ?? []).map((a) => a.leggi));
+const ESITO_CLASSE: Record<string, string> = {
+  "in vigore": "accent",
+  "respinta dal referendum": "plum",
+  "confermata dal referendum": "accent",
+};
+---
+<Base title="Governo" description="Leggi e riforme del Governo in carica: testo ufficiale, spiegazione pratica, voti in Parlamento, referendum, firme e Corte costituzionale.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">{g?.governo.nome ?? "Governo"} · in carica dal {dataIt(g?.governo.inizio)}</span>
+      <h1>Cosa ha cambiato il Governo</h1>
+      <p class="muted prose">
+        Tutte le leggi approvate in questa legislatura, con il testo ufficiale e una spiegazione pratica scritta solo a partire dai dati:
+        che tipo di atto è, chi l'ha proposto, come è stato votato. Per ognuna mostriamo cosa hanno fatto cittadini e istituzioni dopo
+        (referendum, raccolte firme, sentenze della Corte costituzionale). Niente sondaggi e nessun giudizio nostro.
+        <a href={u("/faq/#governo")}>Come lo facciamo</a>
+      </p>
+    </div>
+
+    {!g && <p class="callout neutral">I dati sulle leggi non sono ancora disponibili: arriveranno con il prossimo aggiornamento quotidiano.</p>}
+
+    {s && (
+      <div class="stats rise">
+        <div class="stat"><span class="v">{s.del_governo}</span><span class="l">leggi proposte dal Governo in carica, su {s.leggi} approvate nella legislatura</span></div>
+        <div class="stat"><span class="v">{s.decreti_convertiti}</span><span class="l">decreti-legge convertiti: regole già in vigore prima del voto del Parlamento</span></div>
+        <div class="stat"><span class="v">{s.con_fiducia}</span><span class="l">leggi del Governo approvate con almeno un voto di fiducia ({s.voti_fiducia} voti di fiducia in tutto)</span></div>
+        <div class="stat"><span class="v">{s.con_pronunce_corte}</span><span class="l">leggi della legislatura citate in una pronuncia della Corte costituzionale</span></div>
+      </div>
+    )}
+
+    {s && (
+      <div class="card anni">
+        <div class="section-head"><h3>Leggi approvate per anno</h3><span class="legend"><span><i style="background:var(--accent)"></i>proposte dal Governo</span><span><i style="background:var(--line)"></i>altre</span></span></div>
+        <ul class="barre">
+          {s.per_anno.map((a) => (
+            <li>
+              <span class="mono small">{a.anno}</span>
+              <span class="barra" style={`--t:${(a.leggi / maxAnno) * 100}%; --g:${a.leggi ? (a.del_governo / a.leggi) * 100 : 0}%`}><i></i></span>
+              <span class="mono small">{a.del_governo}<span class="muted"> / {a.leggi}</span></span>
+            </li>
+          ))}
+        </ul>
+        <p class="tiny muted">Fonte: Senato della Repubblica e Camera dei Deputati, open data. L'anno parziale in corso arriva fino all'ultimo aggiornamento.</p>
+      </div>
+    )}
+  </section>
+
+  {g && g.riforme.length > 0 && (
+    <section class="section" id="riforme">
+      <div class="section-head"><h2>Riforme della Costituzione proposte dal Governo</h2></div>
+      <p class="muted prose">Comprese quelle non entrate in vigore: ancora in esame, o approvate dal Parlamento e poi respinte dagli elettori.</p>
+      <div class="grid riforme">
+        {g.riforme.map((r) => {
+          const ref = r.referendum[0];
+          const ris = ref?.risultato;
+          return (
+            <article class="card riforma">
+              <div class="row" style="justify-content:space-between;gap:8px">
+                <span class={`pill ${ESITO_CLASSE[r.esito] ?? ""}`}>{r.esito[0].toUpperCase() + r.esito.slice(1)}</span>
+                <span class="tiny muted mono">{r.iter.map((f) => f.fase).join(" → ")}</span>
+              </div>
+              <h3>{r.titolo}</h3>
+              <ol class="timeline compatta">
+                {r.iter.map((f) => {
+                  const v = r.voti.find((x) => x.fase === f.fase && x.tipo === "finale");
+                  return (
+                    <li data-tipo={f.ramo === "Senato" ? "partito" : undefined}>
+                      <span class="when">{dataIt(f.presentato)} → {dataIt(f.data_stato)}</span>
+                      <div class="what">{f.ramo} · {f.fase} {f.url ? <a href={f.url} target="_blank" rel="noopener" class="tiny">scheda</a> : null}</div>
+                      <div class="small muted">{f.stato}{v && <> · {v.favorevoli} sì, {v.contrari} no, {v.astenuti} astenuti</>}</div>
+                    </li>
+                  );
+                })}
+              </ol>
+              {ref && ris && (
+                <div class="ref">
+                  <div class="row" style="justify-content:space-between"><strong>{ref.nome}</strong><span class="tiny muted">{ref.giorni ?? dataIt(ref.data)}</span></div>
+                  <div class="sino" style={`--si:${ris.perc_si}%`} role="img" aria-label={`Sì ${ris.perc_si}%, No ${ris.perc_no}%`}><span>Sì {ris.perc_si.toLocaleString("it-IT")}%</span><span>No {ris.perc_no.toLocaleString("it-IT")}%</span></div>
+                  <p class="tiny muted">{ris.si.toLocaleString("it-IT")} sì e {ris.no.toLocaleString("it-IT")} no (voti validi). Affluenza {ris.affluenza?.toLocaleString("it-IT")}% ({ris.votanti.toLocaleString("it-IT")} votanti su {ris.elettori.toLocaleString("it-IT")} elettori, Italia ed estero). Fonte: Ministero dell'Interno, Eligendo.</p>
+                </div>
+              )}
+              {r.scheda_senato && <a class="small" href={r.scheda_senato} target="_blank" rel="noopener">Scheda ufficiale al Senato <Icon name="ext" class="tiny" /></a>}
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  )}
+
+  {g && (
+    <section class="section" id="leggi">
+      <div class="section-head"><h2>Tutte le leggi</h2><span class="small muted">dalla più recente</span></div>
+      <FiltroLista
+        id="leggi"
+        gruppi={gruppi}
+        predefiniti={{ iniziativa: ["governo"] }}
+        placeholder="Cerca nel titolo: pensioni, sicurezza, superbonus…"
+        nome={["legge", "leggi"]}
+        limite={40}
+        nota="All'apertura vedi le leggi proposte dal Governo in carica: togli il filtro per vederle tutte."
+      />
+      <ul class="leggi" data-lista="leggi">
+        {leggi.map((l) => (
+          <li
+            data-item
+            data-testo={`${l.titolo} ${l.titolo_breve ?? ""} ${l.numero}/${l.data.slice(0, 4)}`}
+            data-f-iniziativa={l.del_governo ? "governo" : l.iniziativa === "Parlamentare" ? "parlamento" : "altro"}
+            data-f-tipo={l.tipo.replace(/\W+/g, "-")}
+            data-f-anno={l.data.slice(0, 4)}
+            data-f-segnali={[conFiducia(l) && "fiducia", ...reazione(l)].filter(Boolean).join(" ")}
+          >
+            <a class="card legge" href={u(`/governo/${slugLegge(l)}/`)}>
+              <div class="quando">
+                <span class="mono small">{dataIt(l.data)}</span>
+                <span class="tiny muted">n. {l.numero}</span>
+              </div>
+              <div class="corpo">
+                <h3>{l.in_pratica.argomento}</h3>
+                <div class="row" style="gap:6px">
+                  <span class="pill">{TIPI_BREVI[l.tipo] ?? l.tipo}</span>
+                  {l.del_governo && <span class="pill accent">Proposta dal Governo</span>}
+                  {conFiducia(l) && <span class="pill plum">Fiducia</span>}
+                  {l.reazioni.corte.length > 0 && <span class="pill">Corte costituzionale · {l.reazioni.corte.length}</span>}
+                  {l.reazioni.firme.length > 0 && <span class="pill">Raccolta firme</span>}
+                  {l.reazioni.referendum.length > 0 && <span class="pill">Referendum</span>}
+                </div>
+              </div>
+              <Icon name="arrow" class="freccia" />
+            </a>
+          </li>
+        ))}
+      </ul>
+      <button type="button" class="btn ghost altri" data-altri="leggi" hidden>Mostra altre</button>
+      <p class="callout neutral" data-vuoto="leggi" hidden>Nessuna legge corrisponde a questi filtri.</p>
+    </section>
+  )}
+</Base>
+
+<style>
+  .anni { display: grid; gap: 12px; margin-top: 8px; }
+  .barre { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .barre li { display: grid; grid-template-columns: 3.2rem 1fr 4.5rem; gap: 12px; align-items: center; }
+  .barra { height: 14px; border-radius: 999px; background: var(--surface-2); overflow: hidden; }
+  .barra i { display: block; height: 100%; width: var(--t); border-radius: 999px; background: linear-gradient(90deg, var(--accent) var(--g), var(--line) var(--g)); transform-origin: left; animation: cresci 0.9s var(--ease) both; }
+  @keyframes cresci { from { transform: scaleX(0); } }
+  .riforme { grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)); }
+  .riforma { display: grid; gap: 14px; align-content: start; padding: 20px; }
+  .riforma h3 { font-family: var(--f-display); font-weight: 600; font-size: 1.12rem; line-height: 1.35; }
+  .timeline.compatta > li { padding-bottom: 12px; }
+  .ref { display: grid; gap: 8px; border-top: 1px solid var(--line); padding-top: 12px; }
+  .sino { display: flex; justify-content: space-between; height: 30px; border-radius: 10px; overflow: hidden; font: 600 0.82rem var(--f-mono); color: var(--ink);
+    background: linear-gradient(90deg, var(--accent-wash) var(--si), var(--plum-wash) var(--si)); align-items: center; padding: 0 10px; }
+  .leggi { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 10px; }
+  .legge { display: grid !important; grid-template-columns: 7.5rem 1fr auto; gap: 16px; align-items: center; padding: 16px 18px; }
+  .legge h3 { font-size: 1.02rem; font-weight: 600; line-height: 1.35; margin: 0 0 8px; }
+  .quando { display: grid; gap: 2px; }
+  .corpo { min-width: 0; }
+  .legge :global(.freccia) { width: 18px; height: 18px; color: var(--ink-2); transition: transform 0.25s var(--spring); }
+  .legge:hover :global(.freccia) { transform: translateX(4px); color: var(--accent); }
+  .altri { margin-top: 14px; }
+  @media (max-width: 640px) {
+    .legge { grid-template-columns: 1fr; gap: 8px; }
+    .quando { display: flex; gap: 8px; align-items: baseline; }
+    .legge :global(.freccia) { display: none; }
+  }
+</style>

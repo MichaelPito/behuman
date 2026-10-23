@@ -38,6 +38,8 @@ from .fonti import commons as commonsmod
 from .fonti.camera import Camera
 from .fonti.camera import scheda_url as camera_scheda
 from .fonti.wikidata import Wikidata, commons_thumb
+from .sezioni import dichiarazioni as dichiarazionimod
+from .sezioni import governo as governomod
 
 log = logging.getLogger("memoria")
 
@@ -603,6 +605,17 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
     )
     scrivi(out / "partiti.json", [{k: p.get(k) for k in ("slug", "nome", "sigla", "schieramento", "attivo", "coerenza", "orientamento")} for p in partiti])
     scrivi(out / "temi.json", costruisci_temi(ctx, politici, partiti))
+    if not solo:
+        try:
+            dichiarazionimod.costruisci(ctx, politici)
+        except Exception as e:  # noqa: BLE001 - restano i dati del giorno prima
+            ctx.errore("dichiarazioni", "build", e)
+            traceback.print_exc()
+        try:
+            governomod.costruisci(ctx)
+        except Exception as e:  # noqa: BLE001
+            ctx.errore("governo", "build", e)
+            traceback.print_exc()
     scrivi(out / "governi.json", cfg.governi)
     scrivi(out / "aggiornamenti.json", costruisci_aggiornamenti(ctx))
     scrivi(

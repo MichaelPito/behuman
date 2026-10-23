@@ -11,7 +11,7 @@ const fmt = (n: number | null | undefined) => (n == null ? "n.d." : `${String(n)
 const BREVE: Record<string, string> = {
   presenza: "Presenza al voto", mediana: "Mediana dell'Aula", fedelta: "Voti come il gruppo", cambi: "Cambi di posizione",
   coerenza: "Coerenza", partito: "Posizione dei partiti", orientamento: "Orientamento", sesso: "Sesso", sintesi: "Sintesi",
-  dichiarazioni: "Dichiarazioni", virali: "Più diffuse", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
+  dichiarazioni: "Dichiarazioni", virali: "Più discusse", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
 };
 type Q = { id: string; q: string; a: string[]; formula?: string; esempio?: string };
 const gruppi: { titolo: string; voci: Q[] }[] = [
@@ -113,28 +113,34 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
     voci: [
       {
         id: "dichiarazioni",
-        q: "Perché ci sono poche dichiarazioni?",
+        q: "Da dove vengono le dichiarazioni?",
         a: [
-          "Pubblichiamo solo citazioni testuali con fonte primaria (resoconto, comunicato, video o post dall'account ufficiale) e una copia d'archivio, verificate da due persone diverse.",
-          "Un sistema automatico propone ogni giorno citazioni prese dai comunicati ufficiali e scarta quelle che non compaiono parola per parola nella fonte, ma nessuna viene pubblicata senza la doppia verifica umana.",
-          "Gli interventi in Aula sono resoconti ufficiali: li elenchiamo con il link allo stenografico.",
+          "Interventi nell'Aula della Camera: dai resoconti stenografici ufficiali, parola per parola. Mostriamo l'inizio di ogni intervento (circa 400 caratteri) con il link al punto esatto del resoconto. Chi presiede la seduta non è contato.",
+          "Interventi nell'Aula del Senato: data, seduta e disegni di legge discussi, da dati.senato.it. Il testo non c'è perché il sito del Senato non ne permette il download automatico.",
+          "Palazzo Chigi: interventi della Presidente del Consiglio pubblicati su governo.it (licenza CC BY 3.0 IT), dall'inizio del Governo in carica.",
+          "Le dichiarazioni che usiamo per le posizioni sui temi sono diverse: citazioni testuali con fonte primaria e copia d'archivio, verificate da due persone prima della pubblicazione.",
+          "Il recap di ogni politico è fatto solo di conteggi (quanti interventi, dove, in quali anni, in quali occasioni). L'«occasione» alla Camera è il tipo di dibattito scritto nel resoconto: question time, mozioni, leggi in esame, informative del Governo e così via.",
         ],
       },
       {
         id: "virali",
-        q: "Come misurate quali dichiarazioni sono «più diffuse»?",
+        q: "Come scegliete le dichiarazioni «più discusse»?",
         a: [
-          "I numeri di visualizzazioni e condivisioni dei social non sono accessibili in modo libero e verificabile. Per questo non usiamo «like» o «visualizzazioni».",
-          "Quando una dichiarazione verificata ha una misura di diffusione con fonte (per esempio il numero di articoli di stampa che la riportano), la mostriamo con la fonte e la usiamo per l'ordinamento. Senza una misura con fonte, la dichiarazione non entra nella classifica.",
+          "Visualizzazioni e condivisioni sui social non sono accessibili in modo libero e verificabile, e premiano chi ha più follower. Per questo non usiamo «mi piace» né visualizzazioni.",
+          "Usiamo un segnale pubblico e controllabile: una dichiarazione è «discussa» quando Pagella Politica, fact-checker indipendente, l'ha scelta per una verifica. Lo fa per le frasi che circolano di più nel dibattito pubblico.",
+          "Riportiamo la frase del politico, la data, dove l'ha detta e i link alla fonte originale e alla verifica. Non riportiamo il giudizio del fact-checker (vero, falso…): resta sul loro sito, a un clic.",
+          "Se la fonte originale è un resoconto della Camera che abbiamo, mostriamo anche il passaggio ufficiale.",
         ],
       },
       {
         id: "governo",
         q: "Come costruite la pagina «Governo»?",
         a: [
-          "L'elenco delle leggi viene dai dati ufficiali di Camera e Senato: numero, data, titolo, iter e voti finali.",
-          "La spiegazione in parole semplici è separata dal testo giuridico e indica sempre la sua fonte. Quando è prodotta automaticamente lo dichiariamo.",
-          "Per l'opinione pubblica usiamo solo misure verificabili: risultati di referendum, sondaggi pubblicati sul sito ufficiale della Presidenza del Consiglio (con istituto, data, campione e domanda), decisioni della Corte costituzionale. Non usiamo commenti sui social, che non rappresentano la popolazione.",
+          "L'elenco delle leggi viene dagli open data di Senato e Camera: numero, data, titolo ufficiale, tipo di atto, chi l'ha proposta, letture tra le Camere, voti finali e voti di fiducia (separati), Gazzetta Ufficiale e collegamento a Normattiva.",
+          "«Proposta dal Governo in carica» vuol dire iniziativa governativa e, per i decreti-legge, adottati dopo l'insediamento del Governo. Le riforme costituzionali sono mostrate anche se non sono entrate in vigore.",
+          "«In pratica» è un testo a modello fisso: spiega che tipo di atto è (decreto-legge, legge delega, ratifica…) e riporta date, durata dell'iter, eventuali fiducie ed esito dell'ultimo voto. Lo genera il programma dai dati, non contiene giudizi.",
+          "«Come lo descrive il Governo» è un estratto del comunicato del Consiglio dei ministri sul testo iniziale, collegato alla legge per somiglianza del titolo e vicinanza delle date. È etichettato come presentazione del Governo.",
+          "Per l'opinione pubblica usiamo solo atti ufficiali e misurabili: risultati dei referendum (Ministero dell'Interno), raccolte firme sulla piattaforma pubblica del Ministero della Giustizia (solo firme online) e pronunce della Corte costituzionale che citano la legge. Non usiamo sondaggi né commenti sui social: i sondaggi cambiano con domanda e campione, i social non rappresentano la popolazione.",
         ],
       },
     ],
