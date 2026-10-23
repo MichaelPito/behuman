@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-23T13:12:58+00:00",
+ "aggiornato_il": "2026-10-23T13:44:02+00:00",
  "finestra": {
   "dal": "2021-10-23",
   "al": "2026-10-23",
@@ -49,6 +49,30 @@
    "licenza": "Dati pubblici"
   },
   {
+   "nome": "Ministero dell'Ambiente e della Sicurezza Energetica – prezzi dei carburanti",
+   "url": "https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti",
+   "uso": "Accise su benzina e gasolio, per misurare le promesse sulle accise",
+   "licenza": "Dati pubblici"
+  },
+  {
+   "nome": "Eurostat",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_taxag/default/table",
+   "uso": "Pressione fiscale (entrate fiscali e contributive in % del PIL)",
+   "licenza": "CC BY 4.0"
+  },
+  {
+   "nome": "UNHCR – arrivi via mare in Italia",
+   "url": "https://data.unhcr.org/en/situations/mediterranean/location/5205",
+   "uso": "Persone sbarcate (dati del Ministero dell'Interno), somma degli ultimi 12 mesi",
+   "licenza": "Riuso con citazione della fonte (termini d'uso UNHCR)"
+  },
+  {
+   "nome": "Programmi elettorali 2022",
+   "url": "https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022",
+   "uso": "Impegni presi prima delle elezioni (PDF depositati, programmi completi pubblicati dai partiti)",
+   "licenza": "Documenti pubblici; si linka l'originale"
+  },
+  {
    "nome": "Pagella Politica",
    "url": "https://pagellapolitica.it/",
    "uso": "Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio",
@@ -74,20 +98,20 @@
   }
  ],
  "fonti_ok": {
-  "wikidata": "2026-10-23T13:09:10+00:00",
-  "camera": "2026-10-23T13:09:15+00:00",
-  "senato": "2026-10-23T13:09:15+00:00",
-  "commons": "2026-10-23T13:09:10+00:00",
-  "ches": "2026-10-23T13:09:11+00:00",
-  "programmi": "2026-10-23T13:09:11+00:00",
-  "camera_stenografici": "2026-10-23T13:11:08+00:00",
-  "pagella_politica": "2026-10-23T13:11:08+00:00",
-  "governo_interventi": "2026-10-23T13:11:08+00:00",
-  "senato_leggi": "2026-10-23T13:11:08+00:00",
-  "governo_cdm": "2026-10-23T13:11:10+00:00",
-  "corte_costituzionale": "2026-10-23T13:11:11+00:00",
-  "raccolte_firme": "2026-10-23T13:11:23+00:00",
-  "feed:governo": "2026-10-23T13:12:58+00:00"
+  "wikidata": "2026-10-23T13:40:30+00:00",
+  "camera": "2026-10-23T13:40:34+00:00",
+  "senato": "2026-10-23T13:40:34+00:00",
+  "commons": "2026-10-23T13:40:30+00:00",
+  "ches": "2026-10-23T13:40:31+00:00",
+  "programmi": "2026-10-23T13:40:32+00:00",
+  "camera_stenografici": "2026-10-23T13:42:16+00:00",
+  "pagella_politica": "2026-10-23T13:42:16+00:00",
+  "governo_interventi": "2026-10-23T13:42:16+00:00",
+  "senato_leggi": "2026-10-23T13:42:16+00:00",
+  "governo_cdm": "2026-10-23T13:42:18+00:00",
+  "corte_costituzionale": "2026-10-23T13:42:19+00:00",
+  "raccolte_firme": "2026-10-23T13:42:30+00:00",
+  "feed:governo": "2026-10-23T13:44:02+00:00"
  },
  "errori": [],
  "offline": false
