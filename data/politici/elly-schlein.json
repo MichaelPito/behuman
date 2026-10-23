@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1985-05-04",
   "morte": null,
+  "sesso": "F",
   "descrizione": "politica italiana (1985-)",
   "sito": "https://www.ellyschlein.it",
   "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elly_Schlein_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12138,6 +12139,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 2.93,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12152,6 +12167,12 @@
   "descr": "politica italiana (1985-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Elly%20Schlein%202023%20%28cropped%29.jpg",
   "sito": "https://www.ellyschlein.it",
-  "nascita": "1985-05-04"
- }
+  "nascita": "1985-05-04",
+  "sesso": "F"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 18,3% delle votazioni del periodo (3.660 su 19.969); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 116 volte su 116 (100,0%).",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

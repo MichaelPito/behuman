@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1959-10-03",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano",
   "sito": "http://www.mauriziolupi.it",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14153,6 +14154,17 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": null,
+  "nota": "Partito non misurato dal Chapel Hill Expert Survey"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14167,6 +14179,13 @@
   "descr": "politico italiano",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Maurizio%20Lupi%20Official.jpeg",
   "sito": "http://www.mauriziolupi.it",
-  "nascita": "1959-10-03"
- }
+  "nascita": "1959-10-03",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 16,9% delle votazioni del periodo (3.703 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

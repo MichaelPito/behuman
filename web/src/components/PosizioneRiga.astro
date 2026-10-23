@@ -1,24 +1,28 @@
 ---
+import Icon from "./Icon.astro";
 import type { Posizione } from "../lib/data";
-import { dataIt, ETICHETTA_POSIZIONE, ETICHETTA_TIPO, SIMBOLO_POSIZIONE } from "../lib/data";
+import { dataIt, ETICHETTA_POSIZIONE, ETICHETTA_TIPO } from "../lib/data";
 
 interface Props { p: Posizione }
 const { p } = Astro.props;
 const c = p.dettagli?.conteggi as Record<string, number> | undefined;
 ---
-<div>
-  <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:baseline">
-    <span class={`pos ${p.posizione}`}>{SIMBOLO_POSIZIONE[p.posizione]} {ETICHETTA_POSIZIONE[p.posizione]}</span>
-    <span class="small">{dataIt(p.data)}</span>
+<div class="pr stack">
+  <div class="row" style="gap:8px">
+    <span class={`pos ${p.posizione}`}>{ETICHETTA_POSIZIONE[p.posizione]}</span>
+    <span class="mono tiny muted">{dataIt(p.data)}</span>
     <span class="pill">{ETICHETTA_TIPO[p.tipo] ?? p.tipo}</span>
   </div>
-  {p.citazione && <blockquote>«{p.citazione}»</blockquote>}
-  <div class="small muted">{p.descrizione}</div>
-  {c && (
-    <div class="tiny muted">
-      Voti del gruppo: {Object.entries(c).map(([k, v]) => `${k} ${v}`).join(" · ")}
-    </div>
+  {p.citazione && <blockquote class="quote">«{p.citazione}»</blockquote>}
+  <p class="small muted">{p.descrizione}</p>
+  {c && <p class="tiny muted mono">{Object.entries(c).map(([k, v]) => `${k} ${v}`).join(" · ")}</p>}
+  {p.dettagli?.nota && <p class="tiny muted">{p.dettagli.nota}</p>}
+  {p.fonte_url && (
+    <a class="tiny fonte" href={p.fonte_url} rel="noopener" target="_blank">Fonte ufficiale <Icon name="ext" /></a>
   )}
-  {p.dettagli?.nota && <div class="tiny muted">Nota: {p.dettagli.nota}</div>}
-  {p.fonte_url && <div class="tiny"><a href={p.fonte_url} rel="noopener" target="_blank">Fonte ufficiale ↗</a>{p.dettagli?.archivio_url && <> · <a href={p.dettagli.archivio_url} rel="noopener" target="_blank">copia d'archivio ↗</a></>}</div>}
 </div>
+<style>
+  .pr { gap: 6px; }
+  .fonte { display: inline-flex; gap: 4px; align-items: center; width: fit-content; }
+  .fonte :global(svg) { width: 12px; height: 12px; }
+</style>

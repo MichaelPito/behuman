@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1968-03-18",
   "morte": null,
+  "sesso": "M",
   "descrizione": "economista e politico italiano (1968-)",
   "sito": "http://www.francescoboccia.com",
   "foto": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -10623,6 +10624,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 2.93,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -10637,6 +10652,15 @@
   "descr": "economista e politico italiano (1968-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Boccia%20daticamera%202018.jpg",
   "sito": "http://www.francescoboccia.com",
-  "nascita": "1968-03-18"
- }
+  "nascita": "1968-03-18",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 48,9% delle votazioni del periodo (971 su 1.987); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 35 volte su 35 (100,0%).",
+  "Al Senato ha partecipato al 75,6% delle votazioni del periodo (6.348 su 8.400); 447 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

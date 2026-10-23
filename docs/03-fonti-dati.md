@@ -11,6 +11,14 @@ collaborative o di terzi.
 | **Camera dei Deputati** – `dati.camera.it/sparql` | Voti nominali, presenze, gruppi, atti, incarichi di governo (anche dei ministri non parlamentari), interventi | SPARQL (POST/GET), JSON | **CC BY-SA 4.0** | ✅ integrato |
 | **Senato** – `dati.senato.it/sparql` | Voti nominali (con congedo/missione), presenze, gruppi, ddl | SPARQL **solo GET**, formato nell'URL | CC BY 3.0 IT | ✅ integrato |
 | **Governo** – `governo.it/it/feed/rss` | Notizie e comunicati (10 elementi, raccolti ogni giorno) | RSS | CC BY 3.0 IT | ✅ integrato |
+| **Camera – resoconti stenografici** – `camera.it/leg{N}/410?idSeduta=…&tipo=stenografico` | Testo degli interventi in Aula (estratto + link al punto esatto) | HTML | CC BY-SA 4.0 | ✅ integrato |
+| **Governo – interventi e Consiglio dei ministri** – `governo.it/it/interventi`, `/it/archivio-consiglio-dei-ministri` | Discorsi della Presidente del Consiglio; comunicati del CdM per «Come lo descrive il Governo» | HTML | CC BY 3.0 IT | ✅ integrato |
+| **Senato – leggi** – `dati.senato.it/sparql` | Leggi approvate, iter, iniziativa, voti finali e di fiducia, riforme costituzionali | SPARQL | CC BY 3.0 IT | ✅ integrato |
+| **Camera – leggi** – `dati.camera.it/sparql` (`ocd:legge`) | Gazzetta Ufficiale, collegamento Normattiva, voti finali alla Camera | SPARQL | CC BY-SA 4.0 | ✅ integrato |
+| **Corte costituzionale** – `dati.cortecostituzionale.it` | Pronunce che citano una legge (epigrafe e dispositivo) | ZIP JSON per anno | CC BY-SA 3.0 | ✅ integrato |
+| **Ministero della Giustizia – raccolta firme** – `firmereferendum.giustizia.it` | Firme online per referendum e leggi di iniziativa popolare | REST JSON | dati pubblici | ✅ integrato |
+| **Ministero dell'Interno – Eligendo** – `eleapi.interno.gov.it` | Risultati dei referendum (Italia + estero) | REST JSON (serve intestazione da browser) | dati pubblici | ✅ integrato |
+| **Pagella Politica** – API WordPress | Quali dichiarazioni sono state scelte per una verifica (segnale di diffusione) | REST JSON | contenuti © Pagella Politica: usiamo frase, data e link, non i testi né i giudizi | ✅ integrato (solo link) |
 | **Wikidata** – `query.wikidata.org` (+ QLever) | Anagrafica, foto (Commons), partiti, altre cariche | SPARQL | CC0 | ✅ integrato, con ripiego |
 | **Ministero dell'Interno – DAIT** | Programmi elettorali 2022 depositati | JSON statico + PDF | documenti pubblici per legge | ✅ integrato (link) |
 | **Chapel Hill Expert Survey** | Posizionamento dei partiti (2019, 2024) | CSV (GitHub release) | citazione richiesta, licenza non dichiarata | ✅ integrato (poche misure con citazione) |
@@ -46,7 +54,8 @@ collaborative o di terzi.
 
 ## Governo
 - `https://www.governo.it/it/feed/rss` (italiano, 10 elementi): raccolto ogni giorno e accumulato.
-- I comunicati del Consiglio dei ministri non hanno un feed dedicato (pagina `/it/archivio-consiglio-dei-ministri`): da aggiungere con un lettore della pagina (fase 2).
+- Comunicati del Consiglio dei ministri: archivio per trimestre (`/it/archivio-consiglio-dei-ministri?dataInizio=…&dataFine=…`) → pagina della riunione → comunicato stampa, diviso in sezioni «titolo (decreto-legge | disegno di legge | decreto legislativo)». Ogni sezione è collegata alla legge per somiglianza del titolo (≥ 0,6) in una finestra da 3 giorni dopo a 75 giorni prima della presentazione. Le pagine passate non cambiano: cache di un anno.
+- Interventi della Presidente del Consiglio: `/it/interventi?page=N` → pagina dell'articolo (`article:published_time`, `div.body_intervista`).
 - Composizione del governo: si usa la Camera (`ocd:membroGoverno`), più strutturata della pagina web.
 
 ## Wikidata
@@ -71,4 +80,10 @@ collaborative o di terzi.
 - **Parlamento europeo**: `/api/v2/meps/show-current?country-of-representation=IT`, `/api/v2/meetings/{id}/decisions` (voti per eurodeputato).
 - **OpenParlamento**: `memberships/?search=...` fornisce `n_present`, `n_absent`, **`n_mission`**, ribellioni e il collegamento all'URI Camera/Senato. Da usare solo dopo aver confermato la licenza con Openpolis.
 - **Camera RSS**: progetti di legge annunciati, resoconti dell'Assemblea, comunicati stampa.
-- **Gazzetta Ufficiale / Normattiva**: per verificare se una promessa è diventata legge (non raggiungibili da questo ambiente: da testare dal server di produzione).
+- **Gazzetta Ufficiale / Normattiva**: il collegamento a Normattiva arriva dalla Camera (`ocd:lex`); i siti non sono interrogati direttamente.
+- **Sondaggi**: esclusi per metodo (cambiano con domanda, campione e istituto). L'opinione pubblica è misurata solo con atti ufficiali: referendum, firme, pronunce.
+
+## Resoconti stenografici della Camera
+- Una pagina HTML per seduta. Un intervento inizia con `<p class="intervento" id="…">` (link alla scheda con `idPersona`, anche per i ministri non deputati) e continua nei `<p class="interventoVirtuale">`. Chi presiede è escluso.
+- La pipeline scarica ogni seduta una volta (cache compressa con tutti gli oratori, così aggiungere un politico non richiede di riscaricare), rilegge quelle degli ultimi 30 giorni, e tiene in `data/dichiarazioni/_sedute.json` l'elenco delle sedute già lette: se la cache va persa non le riscarica (al massimo 200 sedute nuove per esecuzione).
+- Pubblichiamo un estratto di circa 400 caratteri dell'inizio di ogni intervento, con il link al punto esatto del resoconto.

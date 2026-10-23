@@ -10,6 +10,13 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "destra",
+   "valore": 8.47,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -23,6 +30,13 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "destra",
+   "valore": 8.67,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -36,6 +50,13 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "destra",
+   "valore": 6.73,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -49,6 +70,10 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": null,
+   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
   }
  },
  {
@@ -62,6 +87,13 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "sinistra",
+   "valore": 2.93,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -75,6 +107,13 @@
    "proposizioni_confrontabili": 3,
    "proposizioni_con_cambi": 1,
    "cambi_totali": 1
+  },
+  "orientamento": {
+   "etichetta": "sinistra",
+   "valore": 3.33,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -88,6 +127,13 @@
    "proposizioni_confrontabili": 2,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "sinistra",
+   "valore": 1.69,
+   "anno": 2024,
+   "componenti": 2,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -101,6 +147,13 @@
    "proposizioni_confrontabili": 2,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "centro",
+   "valore": 4.43,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  },
  {
@@ -114,6 +167,10 @@
    "proposizioni_confrontabili": 2,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": null,
+   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
   }
  },
  {
@@ -127,6 +184,13 @@
    "proposizioni_confrontabili": 1,
    "proposizioni_con_cambi": 0,
    "cambi_totali": 0
+  },
+  "orientamento": {
+   "etichetta": "centro",
+   "valore": 4.33,
+   "anno": 2024,
+   "componenti": 1,
+   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
   }
  }
 ]

@@ -1,5 +1,8 @@
 ---
 import "../styles/global.css";
+import { ClientRouter } from "astro:transitions";
+import Header from "../components/Header.astro";
+import SearchPalette from "../components/SearchPalette.astro";
 import { meta } from "../lib/data";
 import { u } from "../lib/url";
 
@@ -10,54 +13,99 @@ interface Props {
 const { title, description = "Storico verificabile di voti, presenze e posizioni dei politici italiani. Solo fatti con fonte." } = Astro.props;
 const NOME = "Memoria Politica";
 const m = meta();
-const path = Astro.url.pathname;
-const nav = [
-  ["/politici/", "Politici"],
-  ["/partiti/", "Partiti"],
-  ["/temi/", "Temi"],
-  ["/aggiornamenti/", "Aggiornamenti"],
-  ["/metodologia/", "Metodo"],
-  ["/fonti/", "Fonti"],
-];
 const pageTitle = title === NOME ? NOME : `${title} · ${NOME}`;
 ---
 <!doctype html>
 <html lang="it">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
+    <meta name="theme-color" content="#0a6a6f" />
     <link rel="icon" href={u("/favicon.svg")} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=Roboto+Mono:wght@500&family=Titillium+Web:wght@400;600;700&display=swap"
+    />
+    <script is:inline>
+      // tema scelto dall'utente (chiaro/scuro), applicato prima del disegno e dopo ogni navigazione
+      (function () {
+        function applica() {
+          try { var t = localStorage.getItem("tema"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+        }
+        applica();
+        document.addEventListener("astro:after-swap", applica);
+      })();
+      // se una foto non si carica, al suo posto compaiono le iniziali
+      document.addEventListener("error", function (e) {
+        var img = e.target;
+        if (!img || img.tagName !== "IMG" || !img.classList.contains("avatar")) return;
+        var alt = img.getAttribute("data-nome") || "";
+        var span = document.createElement("span");
+        span.className = img.className + " ph";
+        span.setAttribute("aria-hidden", "true");
+        span.textContent = alt.split(" ").map(function (s) { return s[0]; }).slice(0, 2).join("");
+        if (img.style.viewTransitionName) span.style.viewTransitionName = img.style.viewTransitionName;
+        img.replaceWith(span);
+      }, true);
+    </script>
+    <ClientRouter fallback="swap" />
   </head>
   <body>
-    <header class="site">
-      <div class="wrap">
-        <a class="logo" href={u("/")}>{NOME}</a>
-        <nav aria-label="Principale">
-          {nav.map(([href, label]) => (
-            <a href={u(href)} aria-current={path.startsWith(u(href)) ? "page" : undefined}>{label}</a>
-          ))}
-        </nav>
-      </div>
-    </header>
-    <main class="wrap">
+    <a class="sr-only" href="#contenuto">Vai al contenuto</a>
+    <Header />
+    <main class="wrap" id="contenuto">
       <slot />
     </main>
-    <footer class="site">
-      <div class="wrap">
-        <p>
-          Solo dati pubblici con fonte: Camera dei Deputati, Senato della Repubblica, Governo, Wikidata.
-          Nessun giudizio, nessun punteggio inventato. <a href={u("/metodologia/")}>Come lavoriamo</a> ·
-          <a href="https://github.com/MichaelPito/behuman">Codice e dati aperti</a> ·
-          <a href="https://github.com/MichaelPito/behuman/issues/new/choose">Segnala un errore</a>
-        </p>
-        {m.aggiornato_il && <p class="tiny">Ultimo aggiornamento dati: {new Date(m.aggiornato_il).toLocaleString("it-IT", { timeZone: "Europe/Rome" })} · Periodo coperto: ultimi {m.finestra.anni} anni (dal {m.finestra.dal}).</p>}
+    <footer class="site-footer">
+      <div class="wrap cols">
+        <div class="stack">
+          <strong>Memoria Politica</strong>
+          <p class="small muted">
+            Voti, presenze e posizioni dei politici italiani negli ultimi {m.finestra.anni} anni. Solo dati pubblici con fonte:
+            Camera, Senato, Governo, Wikidata. Nessun giudizio, nessun punteggio inventato.
+          </p>
+          {m.aggiornato_il && (
+            <p class="tiny muted">
+              Dati aggiornati il {new Date(m.aggiornato_il).toLocaleString("it-IT", { timeZone: "Europe/Rome", dateStyle: "long", timeStyle: "short" })}
+            </p>
+          )}
+        </div>
+        <div>
+          <h4>Esplora</h4>
+          <ul>
+            <li><a href={u("/politici/")}>Politici</a></li>
+            <li><a href={u("/partiti/")}>Partiti</a></li>
+            <li><a href={u("/governo/")}>Governo</a></li>
+            <li><a href={u("/temi/")}>Temi</a></li>
+            <li><a href={u("/dichiarazioni/")}>Dichiarazioni</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Capire i dati</h4>
+          <ul>
+            <li><a href={u("/faq/")}>FAQ e calcoli</a></li>
+            <li><a href={u("/metodologia/")}>Metodo</a></li>
+            <li><a href={u("/fonti/")}>Fonti e licenze</a></li>
+            <li><a href={u("/aggiornamenti/")}>Aggiornamenti</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Partecipa</h4>
+          <ul>
+            <li><a href="https://github.com/MichaelPito/behuman/issues/new/choose">Segnala un errore</a></li>
+            <li><a href="https://github.com/MichaelPito/behuman">Codice e dati aperti</a></li>
+          </ul>
+        </div>
       </div>
     </footer>
+    <SearchPalette />
   </body>
 </html>

@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1982-05-08",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano",
   "sito": null,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -14193,6 +14194,20 @@
   "proposizioni_con_cambi": 1,
   "cambi_totali": 1
  },
+ "valutazione_coerenza": {
+  "stato": "con_cambi",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 0,
+  "temi_con_cambi": 1,
+  "testo": "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 3.33,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14206,6 +14221,13 @@
   "nome": "Riccardo Ricciardi",
   "descr": "politico italiano",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Riccardo%20Ricciardi%20daticamera%202018.jpg",
-  "nascita": "1982-05-08"
- }
+  "nascita": "1982-05-08",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 37,9% delle votazioni del periodo (8.327 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 207 volte su 207 (100,0%).",
+  "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
+  "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."
+ ]
 }

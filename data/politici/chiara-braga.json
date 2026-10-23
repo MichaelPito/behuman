@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1979-09-02",
   "morte": null,
+  "sesso": "F",
   "descrizione": "politica italiana",
   "sito": "http://chiarabraga.it",
   "foto": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -14224,6 +14225,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 2.93,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14238,6 +14253,13 @@
   "descr": "politica italiana",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Chiara%20Braga%20daticamera%202018.jpg",
   "sito": "http://chiarabraga.it",
-  "nascita": "1979-09-02"
- }
+  "nascita": "1979-09-02",
+  "sesso": "F"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 52,1% delle votazioni del periodo (11.441 su 21.955); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 384 volte su 384 (100,0%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

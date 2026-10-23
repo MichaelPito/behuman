@@ -150,6 +150,26 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "centro",
+  "valore": 4.33,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": "Alla Camera è una componente del gruppo Misto.",
- "aggiornato_il": "2026-10-23"
+ "aggiornato_il": "2026-10-23",
+ "sintesi": [
+  "Governo Draghi: maggioranza.",
+  "Governo Meloni: opposizione.",
+  "Secondo il Chapel Hill Expert Survey 2024 si colloca a centro (4,33 su una scala da 0 a 10).",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

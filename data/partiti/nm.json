@@ -297,6 +297,21 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 3,
+  "temi_senza_cambi": 3,
+  "temi_con_cambi": 0,
+  "testo": "Su 3 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": null,
+  "nota": "Partito non misurato dal Chapel Hill Expert Survey"
+ },
  "note": "Nato nel 2022. Al Senato è parte del gruppo \"Civici d'Italia – Noi Moderati – MAIE\". Non presente nel Chapel Hill Expert Survey 2024.",
- "aggiornato_il": "2026-10-23"
+ "aggiornato_il": "2026-10-23",
+ "sintesi": [
+  "Governo Meloni: maggioranza.",
+  "Su 3 temi confrontabili: nessun cambio di posizione."
+ ]
 }

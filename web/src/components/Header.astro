@@ -1,0 +1,125 @@
+---
+import Icon from "./Icon.astro";
+import { u } from "../lib/url";
+
+export const NAV: [string, string][] = [
+  ["/politici/", "Politici"],
+  ["/partiti/", "Partiti"],
+  ["/governo/", "Governo"],
+  ["/temi/", "Temi"],
+  ["/dichiarazioni/", "Dichiarazioni"],
+  ["/faq/", "FAQ"],
+];
+const path = Astro.url.pathname;
+const attivo = (href: string) => path.startsWith(u(href));
+---
+<header class="site-header" transition:persist="header">
+  <div class="wrap bar">
+    <a class="brand" href={u("/")} aria-label="Memoria Politica, home">
+      <svg viewBox="0 0 34 20" aria-hidden="true">
+        {Array.from({ length: 9 }, (_, i) => {
+          const a = Math.PI - (i * Math.PI) / 8;
+          return <circle cx={17 + 14 * Math.cos(a)} cy={18 - 14 * Math.sin(a)} r="2.3" fill={i < 5 ? "var(--accent)" : "var(--plum)"} />;
+        })}
+        {Array.from({ length: 5 }, (_, i) => {
+          const a = Math.PI - (i * Math.PI) / 4;
+          return <circle cx={17 + 7.5 * Math.cos(a)} cy={18 - 7.5 * Math.sin(a)} r="2.1" fill={i < 3 ? "var(--accent)" : "var(--neutral)"} />;
+        })}
+      </svg>
+      Memoria Politica
+    </a>
+    <nav class="nav" aria-label="Principale" data-nav>
+      <span class="nav-ind" data-ind></span>
+      {NAV.map(([href, label]) => <a href={u(href)} aria-current={attivo(href) ? "page" : undefined}>{label}</a>)}
+    </nav>
+    <div class="header-actions">
+      <button class="search-btn" type="button" data-open-search aria-label="Cerca">
+        <Icon name="search" /><span class="label">Cerca</span><kbd>/</kbd>
+      </button>
+      <button class="icon-btn" type="button" data-theme-toggle aria-label="Cambia tema chiaro/scuro">
+        <Icon name="sun" class="i-sun" /><Icon name="moon" class="i-moon" />
+      </button>
+      <button class="icon-btn menu-btn" type="button" data-menu aria-expanded="false" aria-controls="mobile-nav" aria-label="Apri menu">
+        <Icon name="menu" />
+      </button>
+    </div>
+  </div>
+  <div class="mobile-nav" id="mobile-nav" data-mobile>
+    <div class="wrap">
+      <ul>
+        {NAV.map(([href, label]) => (
+          <li><a href={u(href)} aria-current={attivo(href) ? "page" : undefined}>{label}<Icon name="arrow" class="tiny" /></a></li>
+        ))}
+        <li><a href={u("/aggiornamenti/")}>Aggiornamenti<Icon name="arrow" /></a></li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<style>
+  .mobile-nav :global(svg) { width: 18px; height: 18px; color: var(--ink-2); }
+</style>
+
+<script>
+  function aggiornaIndicatore() {
+    const nav = document.querySelector<HTMLElement>("[data-nav]");
+    const ind = nav?.querySelector<HTMLElement>("[data-ind]");
+    if (!nav || !ind) return;
+    const links = [...nav.querySelectorAll<HTMLAnchorElement>("a")];
+    const corrente = links.find((a) => a.getAttribute("aria-current") === "page");
+    const mostra = (a?: HTMLElement) => {
+      if (!a) { ind.style.opacity = "0"; return; }
+      ind.style.left = `${a.offsetLeft}px`;
+      ind.style.width = `${a.offsetWidth}px`;
+      ind.style.opacity = "1";
+    };
+    mostra(corrente);
+    links.forEach((a) => {
+      a.onmouseenter = () => mostra(a);
+      a.onfocus = () => mostra(a);
+    });
+    nav.onmouseleave = () => mostra(corrente);
+  }
+
+  function aggiornaCorrente() {
+    // l'header resta montato tra una pagina e l'altra: aggiorno il link attivo a mano
+    const path = location.pathname;
+    document.querySelectorAll<HTMLAnchorElement>("[data-nav] a, [data-mobile] a").forEach((a) => {
+      const href = new URL(a.href).pathname;
+      if (path.startsWith(href) && href !== "/") a.setAttribute("aria-current", "page");
+      else a.removeAttribute("aria-current");
+    });
+  }
+
+  function init() {
+    aggiornaCorrente();
+    aggiornaIndicatore();
+    const btn = document.querySelector<HTMLButtonElement>("[data-menu]");
+    const panel = document.querySelector<HTMLElement>("[data-mobile]");
+    if (btn && panel) {
+      panel.classList.remove("open");
+      btn.setAttribute("aria-expanded", "false");
+      btn.onclick = () => {
+        const open = !panel.classList.contains("open");
+        panel.classList.toggle("open", open);
+        btn.setAttribute("aria-expanded", String(open));
+      };
+    }
+    const t = document.querySelector<HTMLButtonElement>("[data-theme-toggle]");
+    if (t) {
+      t.onclick = () => {
+        const root = document.documentElement;
+        const scuro = root.dataset.theme
+          ? root.dataset.theme === "dark"
+          : matchMedia("(prefers-color-scheme: dark)").matches;
+        const nuovo = scuro ? "light" : "dark";
+        const applica = () => { root.dataset.theme = nuovo; try { localStorage.setItem("tema", nuovo); } catch {} };
+        const d = document as Document & { startViewTransition?: (cb: () => void) => unknown };
+        if (d.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) d.startViewTransition(applica);
+        else applica();
+      };
+    }
+  }
+  document.addEventListener("astro:page-load", init);
+  addEventListener("resize", aggiornaIndicatore);
+</script>

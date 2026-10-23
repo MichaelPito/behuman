@@ -1,0 +1,168 @@
+---
+// Filtri predefiniti + ricerca testuale per le schede dei politici.
+// Lo stato finisce nell'URL (?partito=pd&sesso=F), così una vista filtrata si può condividere.
+import Icon from "./Icon.astro";
+import type { PoliticoBreve } from "../lib/data";
+import { partiti } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props { lista: PoliticoBreve[] }
+const { lista } = Astro.props;
+const conta = (f: (p: PoliticoBreve) => boolean) => lista.filter(f).length;
+const gruppi: { chiave: string; titolo: string; opzioni: [string, string, number][] }[] = [
+  {
+    chiave: "schieramento",
+    titolo: "Schieramento",
+    opzioni: [
+      ["governo", "Maggioranza", conta((p) => p.schieramento === "governo")],
+      ["opposizione", "Opposizione", conta((p) => p.schieramento === "opposizione")],
+    ],
+  },
+  {
+    chiave: "orientamento",
+    titolo: "Orientamento",
+    opzioni: [
+      ["sinistra", "Sinistra", conta((p) => p.orientamento === "sinistra")],
+      ["centro", "Centro", conta((p) => p.orientamento === "centro")],
+      ["destra", "Destra", conta((p) => p.orientamento === "destra")],
+      ["nd", "Non misurato", conta((p) => !p.orientamento)],
+    ],
+  },
+  {
+    chiave: "sesso",
+    titolo: "Sesso",
+    opzioni: [
+      ["F", "Donne", conta((p) => p.sesso === "F")],
+      ["M", "Uomini", conta((p) => p.sesso === "M")],
+    ],
+  },
+  {
+    chiave: "partito",
+    titolo: "Partito",
+    opzioni: [
+      ...partiti()
+        .map((x) => [x.slug, x.sigla, conta((p) => p.partito.slug === x.slug)] as [string, string, number])
+        .filter((x) => x[2] > 0)
+        .sort((a, b) => a[1].localeCompare(b[1], "it")),
+      ...(conta((p) => !p.partito.slug) ? [["ind", "Indipendenti", conta((p) => !p.partito.slug)] as [string, string, number]] : []),
+    ],
+  },
+];
+---
+<section class="filtri card" data-filtri aria-label="Filtri">
+  <div class="cerca">
+    <Icon name="search" />
+    <label for="filtro-testo" class="sr-only">Cerca per nome, ruolo o partito</label>
+    <input id="filtro-testo" type="search" placeholder="Cerca per nome, ruolo o partito…" data-testo autocomplete="off" />
+  </div>
+  <div class="gruppi">
+    {gruppi.map((g) => (
+      <div class="gruppo" role="group" aria-label={g.titolo}>
+        <span class="eyebrow">{g.titolo}</span>
+        <div class="row">
+          {g.opzioni.map(([v, l, n]) => (
+            <button type="button" class="chip" aria-pressed="false" data-chiave={g.chiave} data-valore={v}>
+              <span class="tick"><Icon name="check" /></span>{l}<span class="count">{n}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+  <div class="row piede">
+    <label for="filtro-ordine" class="small muted">Ordina per</label>
+    <select id="filtro-ordine" data-ordine>
+      <option value="cognome">Cognome</option>
+      <option value="presenza">Presenza al voto</option>
+      <option value="cambi">Cambi di posizione</option>
+    </select>
+    <span class="small muted" data-esito aria-live="polite"></span>
+    <button type="button" class="btn ghost" data-azzera hidden>Azzera filtri</button>
+  </div>
+  <p class="tiny muted">
+    L'orientamento è quello del partito secondo il Chapel Hill Expert Survey 2024 (sinistra sotto 4, centro 4–6, destra sopra 6 su una
+    scala 0–10). <a href={u("/faq/#orientamento")}>Come lo calcoliamo</a>.
+  </p>
+</section>
+
+<style>
+  .filtri { display: grid; gap: 16px; padding: 18px; }
+  .cerca { display: flex; align-items: center; gap: 10px; border: 1px solid var(--line); border-radius: 12px; padding: 0 12px; background: var(--paper); transition: border-color 0.2s, box-shadow 0.2s; }
+  .cerca:focus-within { border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-wash); }
+  .cerca :global(svg) { width: 18px; height: 18px; color: var(--ink-2); flex: none; }
+  .cerca input { flex: 1; min-width: 0; height: 46px; border: 0; outline: 0; background: transparent; color: var(--ink); font: 500 1.05rem var(--f-body); }
+  .gruppi { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); }
+  .gruppo { display: grid; gap: 8px; align-content: start; }
+  .gruppo .row { gap: 6px; }
+  .chip :global(svg) { width: 14px; height: 14px; }
+  .piede { gap: 12px; }
+  select { height: 38px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 0.92rem var(--f-body); padding: 0 10px; }
+</style>
+
+<script>
+  function init() {
+    const box = document.querySelector<HTMLElement>("[data-filtri]");
+    const grid = document.querySelector<HTMLElement>("[data-griglia]");
+    if (!box || !grid) return;
+    const testo = box.querySelector<HTMLInputElement>("[data-testo]")!;
+    const ordine = box.querySelector<HTMLSelectElement>("[data-ordine]")!;
+    const esito = box.querySelector<HTMLElement>("[data-esito]")!;
+    const azzera = box.querySelector<HTMLButtonElement>("[data-azzera]")!;
+    const vuoto = document.querySelector<HTMLElement>("[data-vuoto]");
+    const chips = [...box.querySelectorAll<HTMLButtonElement>(".chip")];
+    const cards = [...grid.querySelectorAll<HTMLElement>("[data-card]")];
+    const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+    // stato iniziale dall'URL
+    const qs = new URLSearchParams(location.search);
+    chips.forEach((c) => {
+      const vals = (qs.get(c.dataset.chiave!) || "").split(",");
+      c.setAttribute("aria-pressed", String(vals.includes(c.dataset.valore!)));
+    });
+    testo.value = qs.get("q") || "";
+    if (qs.get("ordina")) ordine.value = qs.get("ordina")!;
+
+    const applica = (anima: boolean) => {
+      const scelti: Record<string, string[]> = {};
+      chips.filter((c) => c.getAttribute("aria-pressed") === "true").forEach((c) => (scelti[c.dataset.chiave!] ||= []).push(c.dataset.valore!));
+      const q = norm(testo.value.trim());
+      const aggiorna = () => {
+        let n = 0;
+        cards.forEach((el) => {
+          const ok =
+            (!q || norm(el.dataset.nome || "").includes(q)) &&
+            Object.entries(scelti).every(([k, vs]) => vs.includes(el.dataset[k] || ""));
+          el.hidden = !ok;
+          if (ok) n++;
+        });
+        const crit = ordine.value;
+        const ord = [...cards].sort((a, b) =>
+          crit === "presenza" ? Number(b.dataset.presenza) - Number(a.dataset.presenza)
+          : crit === "cambi" ? Number(b.dataset.cambi) - Number(a.dataset.cambi) || a.dataset.cognome!.localeCompare(b.dataset.cognome!, "it")
+          : a.dataset.cognome!.localeCompare(b.dataset.cognome!, "it"),
+        );
+        ord.forEach((el) => grid.append(el));
+        esito.textContent = n === cards.length ? `${n} politici` : `${n} di ${cards.length} politici`;
+        if (vuoto) vuoto.hidden = n > 0;
+        azzera.hidden = !q && Object.keys(scelti).length === 0;
+      };
+      const d = document as Document & { startViewTransition?: (cb: () => void) => unknown };
+      if (anima && d.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) d.startViewTransition(aggiorna);
+      else aggiorna();
+      // URL condivisibile
+      const p = new URLSearchParams();
+      Object.entries(scelti).forEach(([k, vs]) => p.set(k, vs.join(",")));
+      if (q) p.set("q", testo.value.trim());
+      if (ordine.value !== "cognome") p.set("ordina", ordine.value);
+      history.replaceState(history.state, "", `${location.pathname}${p.toString() ? "?" + p : ""}`);
+    };
+
+    chips.forEach((c) => (c.onclick = () => { c.setAttribute("aria-pressed", String(c.getAttribute("aria-pressed") !== "true")); applica(true); }));
+    testo.oninput = () => applica(false);
+    ordine.onchange = () => applica(true);
+    azzera.onclick = () => { chips.forEach((c) => c.setAttribute("aria-pressed", "false")); testo.value = ""; applica(true); };
+    cards.forEach((el) => (el.style.viewTransitionName = `card-${el.getAttribute("href")!.split("/").filter(Boolean).pop()}`));
+    applica(false);
+  }
+  document.addEventListener("astro:page-load", init);
+</script>

@@ -5,18 +5,27 @@ import { u } from "../../lib/url";
 const lista = temi();
 ---
 <Base title="Temi" description="Le proposizioni monitorate e come hanno votato o si sono espressi partiti e politici nel tempo.">
-  <h1>Temi</h1>
-  <p class="muted">
-    Ogni tema è diviso in proposizioni scritte in modo neutro e verificabile. Per ognuna mostriamo i voti in Aula
-    collegati e le dichiarazioni verificate, in ordine di tempo.
-  </p>
-  <div class="grid cards">
-    {lista.map((t) => (
-      <a class="card" href={u(`/temi/${t.id}/`)}>
-        <h3>{t.nome}</h3>
-        <div class="small muted">{t.descrizione}</div>
-        <div class="small" style="margin-top:6px">{t.proposizioni.length} proposizioni · {t.proposizioni.reduce((n, p) => n + p.voti.length, 0)} votazioni collegate</div>
-      </a>
-    ))}
-  </div>
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Temi</span>
+      <h1>Chi ha votato cosa, nel tempo</h1>
+      <p class="muted prose">Ogni tema è diviso in proposizioni neutre e verificabili. Per ognuna colleghiamo i voti finali in Aula e le dichiarazioni verificate, in ordine di tempo.</p>
+    </div>
+    <div class="grid three">
+      {lista.map((t, i) => {
+        const nvoti = t.proposizioni.reduce((n, p) => n + p.voti.length, 0);
+        const cambi = t.proposizioni.reduce((n, p) => n + p.soggetti.filter((s) => s.tipo === "partito").reduce((m, s) => m + s.cambi, 0), 0);
+        return (
+          <a class="card link stack rise" style={`--i:${i}`} href={u(`/temi/${t.id}/`)}>
+            <h3>{t.nome}</h3>
+            <p class="small muted">{t.descrizione}</p>
+            <div class="row" style="gap:6px">
+              <span class="pill">{nvoti} votazioni</span>
+              <span class={`pill ${cambi ? "plum" : ""}`}>{cambi} {cambi === 1 ? "cambio" : "cambi"} tra i partiti</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
 </Base>

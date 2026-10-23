@@ -1,0 +1,55 @@
+---
+// Scala orizzontale con le rilevazioni CHES nel tempo (es. 2019 → 2024) e una freccia dello spostamento.
+interface Props {
+  nome: string;
+  min: number;
+  max: number;
+  estremi: [string, string];
+  punti: { anno: number; valore: number; sigla?: string }[];
+  fasce?: { da: number; a: number; label: string }[];
+}
+const { nome, min, max, estremi, punti, fasce = [] } = Astro.props;
+const W = 600, H = 74, L = 14, R = 14;
+const x = (v: number) => L + ((v - min) / (max - min)) * (W - L - R);
+const ord = [...punti].sort((a, b) => a.anno - b.anno);
+const mid = `fr-${nome.toLowerCase().replace(/[^a-z]+/g, "-")}-${min}-${max}`;
+---
+<figure class="scala stack" style="margin:0">
+  <div class="row" style="justify-content:space-between"><strong class="small">{nome}</strong>
+    <span class="tiny muted mono">{ord.map((p) => `${p.anno}: ${String(p.valore).replace(".", ",")}`).join(" · ")}</span>
+  </div>
+  <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${nome}: ${ord.map((p) => `${p.anno} ${p.valore}`).join(", ")}`}>
+    {fasce.map((f, i) => (
+      <g>
+        <rect x={x(f.da)} y="26" width={x(f.a) - x(f.da)} height="10" fill={i % 2 ? "var(--surface-2)" : "var(--line)"} />
+        <text x={(x(f.da) + x(f.a)) / 2} y="52" text-anchor="middle" class="lab">{f.label}</text>
+      </g>
+    ))}
+    {!fasce.length && <rect x={L} y="26" width={W - L - R} height="10" rx="5" fill="var(--surface-2)" />}
+    {ord.length > 1 && (
+      <line x1={x(ord[0].valore)} x2={x(ord[ord.length - 1].valore)} y1="31" y2="31" stroke="var(--accent)" stroke-width="3" class="tratto" marker-end={`url(#${mid})`} />
+    )}
+    <defs>
+      <marker id={mid} viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+        <path d="M0 0 10 5 0 10z" fill="var(--accent)" />
+      </marker>
+    </defs>
+    {ord.map((p, i) => (
+      <g class="pt" style={`--d:${i * 250}`}>
+        <circle cx={x(p.valore)} cy="31" r={i === ord.length - 1 ? 8 : 6} fill={i === ord.length - 1 ? "var(--accent)" : "var(--surface)"} stroke="var(--accent)" stroke-width="2.5" />
+        <text x={x(p.valore)} y="16" text-anchor="middle" class="anno">{p.anno}</text>
+      </g>
+    ))}
+    <text x={L} y="70" class="lab">{estremi[0]}</text>
+    <text x={W - R} y="70" text-anchor="end" class="lab">{estremi[1]}</text>
+  </svg>
+</figure>
+<style>
+  svg { width: 100%; height: auto; }
+  .lab { fill: var(--ink-2); font: 600 11px var(--f-body); }
+  .anno { fill: var(--ink); font: 500 11px var(--f-mono); }
+  .pt { animation: pop 0.5s var(--spring) both; animation-delay: calc(var(--d) * 1ms); transform-box: fill-box; transform-origin: center; }
+  .tratto { stroke-dasharray: 600; animation: traccia 1s var(--ease) 0.25s both; }
+  @keyframes traccia { from { stroke-dashoffset: 600; } to { stroke-dashoffset: 0; } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.4); } }
+</style>

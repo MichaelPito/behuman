@@ -1,0 +1,1357 @@
+{
+ "slug": "elly-schlein",
+ "nome": "Elly Schlein",
+ "partito": {
+  "slug": "pd",
+  "nome": "Partito Democratico",
+  "sigla": "PD"
+ },
+ "schieramento": "opposizione",
+ "dal": "2021-10-23",
+ "al": "2026-10-23",
+ "riepilogo": {
+  "totale": 106,
+  "camera": 72,
+  "parole_camera": 87040,
+  "governo": 0,
+  "senato": 0,
+  "verificate": 34,
+  "prima": "2022-09-19",
+  "ultima": "2026-10-21",
+  "per_anno": [
+   {
+    "anno": "2022",
+    "camera": 5,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 1
+   },
+   {
+    "anno": "2023",
+    "camera": 14,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 13
+   },
+   {
+    "anno": "2024",
+    "camera": 14,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 10
+   },
+   {
+    "anno": "2025",
+    "camera": 20,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 4
+   },
+   {
+    "anno": "2026",
+    "camera": 19,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 5
+   }
+  ],
+  "categorie": [
+   {
+    "categoria": "Ordine dei lavori e procedura",
+    "n": 32
+   },
+   {
+    "categoria": "Leggi e decreti in esame",
+    "n": 17
+   },
+   {
+    "categoria": "Question time",
+    "n": 10
+   },
+   {
+    "categoria": "Informative e comunicazioni del Governo",
+    "n": 9
+   },
+   {
+    "categoria": "Mozioni",
+    "n": 3
+   },
+   {
+    "categoria": "Documenti di bilancio e programmazione",
+    "n": 1
+   }
+  ],
+  "argomenti_frequenti": [
+   {
+    "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+    "n": 10,
+    "dal": "2023-03-15",
+    "al": "2025-07-30"
+   }
+  ],
+  "fonti_verificate": [
+   {
+    "fonte": "Stampa o altro",
+    "n": 10
+   },
+   {
+    "fonte": "Video",
+    "n": 9
+   },
+   {
+    "fonte": "TV",
+    "n": 8
+   },
+   {
+    "fonte": "Facebook",
+    "n": 4
+   },
+   {
+    "fonte": "Camera",
+    "n": 2
+   },
+   {
+    "fonte": "Instagram",
+    "n": 1
+   }
+  ]
+ },
+ "recap": "Dal 19 settembre 2022 al 21 ottobre 2026: 72 interventi nell'Aula della Camera (87.040 parole), 34 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (32 interventi).",
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "coerenza": {
+  "proposizioni_con_posizioni": 3,
+  "proposizioni_confrontabili": 2,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "verificate": [
+  {
+   "data": null,
+   "data_verifica": "2026-03-25",
+   "frase": "Le oltre 14 milioni di persone che hanno votato no, 5 milioni in più di quelle che avevano scelto PD, M5S e AVS alle Europee, dimostrano che esiste una maggioranza diversa da quella in carica",
+   "url": "https://pagellapolitica.it/fact-checking/le-oltre-14-milioni-di-persone-che-hanno-votato-no-5-milioni-in-piu-di-quelle-che-avevano-scelto-pd-m5s-e-avs-alle-europee-dimostrano-che-esiste-una-maggioranza-diversa-da-quella-in-carica",
+   "fonte_originale": "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-09-19",
+   "data_verifica": "2022-09-19",
+   "frase": "In Italia sette ginecologi su dieci sono obiettori",
+   "url": "https://pagellapolitica.it/fact-checking/aborto-numero-obiettori",
+   "fonte_originale": "https://www.raiplay.it/video/2022/09/Mezzora-in-piu---Puntata-del-18092022-6628ffd8-1511-46e3-9ff7-7f00d2f6a1ee.html",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-01-07",
+   "data_verifica": "2023-01-09",
+   "frase": "L’inflazione in Italia è la più alta a livello europeo",
+   "url": "https://pagellapolitica.it/fact-checking/inflazione-italia-unione-europea",
+   "fonte_originale": "https://www.facebook.com/ellyschlein1/posts/pfbid02yDmKyXaFE82qdViqi2GYETnipP5hgSiJZgKHtNqJsRu3wGTT4h4eVsW1Xd7UKdxgl",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-02-18",
+   "data_verifica": "2023-02-21",
+   "frase": "Le donne si laureano in media con risultati migliori e dopo cinque anni guadagnano in media meno degli uomini",
+   "url": "https://pagellapolitica.it/fact-checking/donne-voto-laurea-stipendio-uomini",
+   "fonte_originale": "https://www.corriere.it/politica/23_febbraio_18/elly-schlein-o-pd-cambia-o-finita-io-non-ho-nulla-perdere-questo-vincero-6d2d0de2-aefa-11ed-b1a1-f70141d8ba43.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-02-26",
+   "data_verifica": "2023-02-28",
+   "frase": "Il governo non mette un euro in più sulla sanità a fronte di un’inflazione così alta",
+   "url": "https://pagellapolitica.it/fact-checking/governo-meloni-soldi-sanita",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1764547490613438",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-03-05",
+   "data_verifica": "2023-03-07",
+   "frase": "Nel mondo sono aperti più di 170 conflitti",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-conflitti-mondo",
+   "fonte_originale": "https://www.raiplay.it/video/2023/02/Che-tempo-che-fa---Puntata-del-05032023-7e879906-54a3-4b78-a013-3bf3e9571c67.html",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-03-15",
+   "data_verifica": "2023-03-16",
+   "frase": "Sono più di 3 milioni le lavoratrici e i lavoratori che sono poveri anche se lavorano",
+   "url": "https://pagellapolitica.it/fact-checking/quanti-lavoratori-poveri-italia",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico",
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signora Presidente, in questo Paese, c'è un dramma di cui non vi sentiamo parlare mai: la precarietà e il lavoro povero, che colpiscono ancora più duramente le donne, i giovani, in particolare al Sud. Sono più di 3 milioni le lavoratrici e i lavoratori che sono poveri, anche se lavorano. A loro è negata ogni possibilità di costruirsi un futuro libero e dignitoso. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00080.int00020"
+   }
+  },
+  {
+   "data": "2023-05-01",
+   "data_verifica": "2023-05-03",
+   "frase": "Il governo ha cancellato i 330 milioni di euro di supporto per gli affitti",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-fondo-supporto-affitti-governo-meloni",
+   "fonte_originale": "https://www.lastampa.it/politica/2023/05/01/news/elly_schlein_intervista_segretaria_pd_lavoro-12781832/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-05-16",
+   "data_verifica": "2023-05-16",
+   "frase": "Il Partito democratico è il primo partito in quasi tutti i capoluoghi dove si è votato",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-voti-pd-capoluoghi-comunali",
+   "fonte_originale": "https://www.facebook.com/partitodemocratico/videos/630382255309410/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-06-06",
+   "data_verifica": "2023-06-07",
+   "frase": "I dati sull’occupazione femminile nelle regioni del Sud del nostro Paese sono i peggiori d’Europa",
+   "url": "https://pagellapolitica.it/fact-checking/regioni-sud-occupazione-femminile-europa",
+   "fonte_originale": "https://www.raiplay.it/video/2023/05/cartabianca---Puntata-del-06062023-4267795e-95fc-4b0c-b5dd-d7ce2f4fc480.html",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-09-14",
+   "data_verifica": "2023-09-15",
+   "frase": "Questo governo ha ridotto il fondo nazionale sui nidi",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-fondo-asili-nido",
+   "fonte_originale": "https://www.la7.it/otto-e-mezzo/rivedila7/otto-e-mezzo-14-09-2023-502856",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-10-10",
+   "data_verifica": "2023-10-12",
+   "frase": "L’Unione europea riconosce già Hamas come un’organizzazione terroristica, quindi non può ricevere in nessun caso fondi per la cooperazione allo sviluppo e aiuti umanitari",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-ue-hamas-terrorista",
+   "fonte_originale": "https://www.raiplay.it/video/2023/10/Porta-a-Porta-a6176aae-6cfd-4085-9ccb-0343981117d3.html",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-10-17",
+   "data_verifica": "2023-10-25",
+   "frase": "Nei Paesi come la Germania, dove si è adottato il salario minimo, anche le altre retribuzioni si sono alzate",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-effetti-salario-minimo",
+   "fonte_originale": "https://www.la7.it/dimartedi/video/lintervista-a-elly-schlein-17-10-2023-508542",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-11-02",
+   "data_verifica": "2023-11-06",
+   "frase": "Nella legge di Bilancio non c’è nulla sui servizi pubblici essenziali come sanità, casa e diritto allo studio",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-legge-bilancio-2024",
+   "fonte_originale": "https://www.lastampa.it/politica/2023/11/02/news/schlein_tutta_lopposizione_in_piazza_contro_il_governo-13825602/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-12-02",
+   "data_verifica": "2023-12-04",
+   "frase": "La maggioranza vuole abbassare l’Iva sugli integratori alimentari e sulla chirurgia estetica",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-taglio-iva-chirurgia-estetica",
+   "fonte_originale": "https://www.ansa.it/sito/videogallery/italia/2023/12/02/sanita-pubblica-schlein-aiutiamo-regioni-con-assunzioni_5b7a73cf-084a-472a-b392-19929fb60595.html",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-03-12",
+   "data_verifica": "2024-03-12",
+   "frase": "Il PD ha raddoppiato i voti rispetto all’11 per cento delle precedenti regionali abruzzesi, recuperando quasi 4 punti sulle politiche di un anno e mezzo fa",
+   "url": "https://pagellapolitica.it/fact-checking/partito-democratico-voti-elezioni-regionali-abruzzo",
+   "fonte_originale": "https://www.repubblica.it/politica/2024/03/12/news/schlein_intervista_elezioni_abruzzo-422292763/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-03-14",
+   "data_verifica": "2024-03-15",
+   "frase": "Nel 2023 sono morte nel Mediterraneo oltre 3 mila persone, quasi 2.300 solo sulla rotta del Mediterraneo centrale, un numero di morti più alto del 60 per cento rispetto al 2022",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-migranti-morti-mediterraneo-2023",
+   "fonte_originale": "https://www.facebook.com/100044181531459/posts/955074419308600",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-03-23",
+   "data_verifica": "2024-03-26",
+   "frase": "L’Erasmus ha riguardato solo 9-10 milioni di studenti e studentesse europee",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-numero-studenti-erasmus",
+   "fonte_originale": "https://www.youtube.com/live/2v7TrX00SxQ?si=7fvCWNWnrhN4xmyO&t=8478",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-04-15",
+   "data_verifica": "2024-04-16",
+   "frase": "Sapete quanto si stima – sono stime, si prendono con le pinze – che possa valere l’elusione fiscale in Europa ogni anno? Alcuni studi, cito il professore Richard Murphy, parlano di 700-800 miliardi di euro all’anno",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-elusione-fiscale-multinazionali-ue",
+   "fonte_originale": "https://www.youtube.com/watch?v=Ras4YRIFJL4&t=5050s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-05-07",
+   "data_verifica": "2024-05-07",
+   "frase": "Il superamento del Jobs Act era un punto fondante del programma con cui mi sono presentata alle primarie per la segreteria, oltre un anno fa, in linea con scelte anche personali fatte in passato. Vorrei ricordare che io ero in piazza con la Cgil nel 2015 contro l’abolizione dell’articolo 18",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-coerente-referendum-contro-jobs-act",
+   "fonte_originale": "https://www.repubblica.it/politica/2024/05/07/news/schlein_intervista_sicurezza_lavoro-422846622/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-06-10",
+   "data_verifica": "2024-06-11",
+   "frase": "Il Partito Democratico è il partito che è cresciuto di più dalle scorse elezioni politiche, con cinque punti in più",
+   "url": "https://pagellapolitica.it/fact-checking/crescita-pd-elezioni-europee-2024",
+   "fonte_originale": "https://www.youtube.com/watch?v=0iKqtKywmuM&t=165s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-06-26",
+   "data_verifica": "2024-06-27",
+   "frase": "Ventunomila medici sono già andati all’estero perché non ci sono più le condizioni, non riescono più a lavorare",
+   "url": "https://pagellapolitica.it/fact-checking/errore-numero-medici-italiani-estero",
+   "fonte_originale": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0314/stenografico.pdf#page=133",
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Grazie, Presidente. Care colleghe e colleghi, è così allora: oggi, definitivamente, state gettando la maschera. Sono mesi che vi diciamo che state smantellando la sanità pubblica; con i vostri tagli, con il definanziamento e, con questo voto, oggi voi lo certificate. Mi rivolgo alla maggioranza, per suo tramite, Presidente, mi rivolgo all'onorevole Foti, che prima ho ascoltato attentamente. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.sub00020.int00020"
+   }
+  },
+  {
+   "data": "2024-07-08",
+   "data_verifica": "2024-07-09",
+   "frase": "2011, referendum sui beni pubblici comuni: l’acqua e contro il nucleare. Attenzione però: il dato che mi interessa è che la partecipazione in quel referendum è stata maggiore a quella delle elezioni politiche",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-errore-affluenza-referendum-2011-acqua-nucleare",
+   "fonte_originale": "https://www.la7.it/in-onda/rivedila7/dalla-francia-allitalia-prove-di-fronte-popolare-in-onda-puntata-872024-09-07-2024-551119",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2024-07-10",
+   "data_verifica": "2024-07-10",
+   "frase": "È stato un voto fondamentale innanzitutto per i francesi che hanno risposto con una partecipazione senza precedenti",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-affluenza-elezioni-francia",
+   "fonte_originale": "https://roma.corriere.it/notizie/politica/24_luglio_10/schlein-intervista-e3094bf2-f8b8-4fe9-a406-9afecf682xlk.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-09-13",
+   "data_verifica": "2024-09-13",
+   "frase": "Con i due anni della Meloni sono aumentati i contratti a termine",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-aumento-contratti-determinato-governo-meloni",
+   "fonte_originale": "https://www.repubblica.it/politica/2024/09/13/news/schelin_stipendio_insegnanti_manovra_governo_intervista-423494322/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2025-02-16",
+   "data_verifica": "2025-02-18",
+   "frase": "Con le altre opposizioni abbiamo persino trovato le coperture: abbiamo suggerito al governo dove prendere 5 miliardi e mezzo in più da mettere subito sulla sanità pubblica per assumere medici e infermieri che mancano",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-pd-coperture-spesa-sanitaria",
+   "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/caffe-domenica/puntata/trasmissione-16-febbraio-2025-083000-2366088484701514",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2025-05-01",
+   "data_verifica": "2025-05-02",
+   "frase": "Cinque milioni di lavoratori stanno ancora aspettando i rinnovi contrattuali",
+   "url": "https://pagellapolitica.it/fact-checking/lavoratori-attesa-rinnovo-contratto-collettivo-nazionale",
+   "fonte_originale": "https://www.youtube.com/watch?v=cfDW9zVNMoM&t=78s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2025-05-21",
+   "data_verifica": "2025-05-23",
+   "frase": "A Gaza c’è l’inferno in terra con più di 50.000 morti, tra cui 15.000 bambini",
+   "url": "https://pagellapolitica.it/fact-checking/numero-morti-gaza-oltre-50-mila",
+   "fonte_originale": "https://youtu.be/L03h7WHJPok?si=zUiSny_6Yy07l2o7",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2025-10-14",
+   "data_verifica": "2025-10-16",
+   "frase": "A parte che su le pensioni erano quelli che dicevano che le avrebbero aumentate a mille euro le minime, le hanno aumentate di 1,50 euro",
+   "url": "https://pagellapolitica.it/fact-checking/schlein-minimizza-aumento-pensioni-minime",
+   "fonte_originale": "https://www.la7.it/dimartedi/rivedila7/dimartedi-15-10-2025-615568",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2026-03-07",
+   "data_verifica": "2026-03-09",
+   "frase": "Vi ricordate quando Giorgia Meloni faceva i video dal benzinaio per promettere di abolire le accise? Sappiamo tutti com’è andata. Le accise non le ha abolite. Anzi, nell’ultima manovra ha addirittura alzato quelle sul diesel.",
+   "url": "https://pagellapolitica.it/fact-checking/vi-ricordate-quando-giorgia-meloni-faceva-i-video-dal-benzinaio-per-promettere-di-abolire-le-accise-sappiamo-tutti-come-andata-le-accise-non-le-ha-abolite-anzi-nellultima-manovra",
+   "fonte_originale": "https://www.instagram.com/reel/DVlUJB2gkT1/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+   "fonte_tipo": "Instagram"
+  },
+  {
+   "data": "2026-07-06",
+   "data_verifica": "2026-07-14",
+   "frase": "In un Paese che ha 4 milioni di lavoratori poveri, anche se hanno un lavoro",
+   "url": "https://pagellapolitica.it/fact-checking/in-un-paese-che-ha-4-milioni-di-lavoratori-poveri-anche-se-hanno-un-lavoro",
+   "fonte_originale": "youtube.com/watch?si=FxOvyWGYlEmHNtia&t=830&v=70aBB7lwOOo&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-09-13",
+   "data_verifica": "2026-09-22",
+   "frase": "Abbiamo la crescita che rasenta allo zero. Siamo ultimi tra i Paesi del G20 nonostante il contributo del PNRR",
+   "url": "https://pagellapolitica.it/fact-checking/abbiamo-la-crescita-che-rasenta-allo-zero-siamo-ultimi-tra-i-paesi-del-g20-nonostante-il-contributo-del-pnrr",
+   "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-09-13",
+   "data_verifica": "2026-09-22",
+   "frase": "I nostri insegnanti sono tra i meno pagati d’Europa",
+   "url": "https://pagellapolitica.it/fact-checking/i-nostri-insegnanti-sono-tra-i-meno-pagati-deuropa",
+   "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-09-13",
+   "data_verifica": "2026-09-22",
+   "frase": "Un altro record è quello di 6 milioni di italiani che rinunciano a curarsi perché le liste d’attesa sono troppo lunghe o perché non se lo possono permettere",
+   "url": "https://pagellapolitica.it/fact-checking/un-altro-record-e-quello-di-6-milioni-di-italiani-che-rinunciano-a-curarsi-perche-le-liste-dattesa-sono-troppo-lunghe-o-perche-non-se-lo-possono-permettere",
+   "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
+   "fonte_tipo": "Video"
+  }
+ ],
+ "camera": [
+  {
+   "data": "2022-11-23",
+   "leg": 19,
+   "seduta": 13,
+   "argomento": "Discussione delle mozioni Ascari ed altri n. 1-00004 , Polidori, Varchi, Bisa, Lupi ed altri n. 1-00005 , Richetti ed altri n. 1-00015 , Zanella ed altri n. 1-00017 e Serracchiani ed altri n. 1-00018 concernenti…",
+   "fase": "Discussione sulle linee generali",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Signor Presidente, signora Ministra, colleghe e colleghi deputati, fra due giorni ricorre la Giornata internazionale contro la violenza di genere e sono onorata che proprio a questa ricorrenza si leghi il mio primo intervento in quest'Aula. […]",
+   "parole": 936,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00030.sub00010.int00240"
+  },
+  {
+   "data": "2022-12-05",
+   "leg": 19,
+   "seduta": 19,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa esame dell'articolo unico - A.C. 547-A ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Colleghe, colleghi, rappresentante del Governo, abbiamo presentato questo emendamento e anche i seguenti per sottolineare come nelle competenze del Ministero dell'Agricoltura ci sia già l'importanza di inserire un riferimento specifico al rispetto della strategia europea Farm to Fork , un riferimento anche all'equa remunerazione dell'intera filiera e alla valorizzazione della catena del valore. […]",
+   "parole": 761,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0019&tipo=stenografico#sed0019.stenografico.tit00060.sub00010.int00780"
+  },
+  {
+   "data": "2022-12-23",
+   "leg": 19,
+   "seduta": 27,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame degli ordini del giorno - A.C. 643-bis-A/R ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. No, rifiuto questa richiesta di riformulazione e vi spiego volentieri perché. Questo è un ordine del giorno, colleghe e colleghi, che tratta di povertà educativa e impegna il Governo a cose molto semplici: impegna il Governo a contrastare le diseguaglianze, ad esempio, investendo nei servizi educativi, culturali e di socialità, per le bambine e per i bambini. […]",
+   "parole": 311,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00080.sub00060.int02880"
+  },
+  {
+   "data": "2022-12-28",
+   "leg": 19,
+   "seduta": 29,
+   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 705.",
+   "fase": "Ripresa esame degli ordini del giorno - A.C. 705 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. La pronuncia corretta, così lo diciamo una volta sola, è “Schlain”, a favore di tutti i colleghi . Volevo fare appello naturalmente al Governo di riuscire a cambiare il parere su questo importante ordine del giorno. Magari se chiedessi invece di non cambiarlo, potrebbe essere forse positiva la sua risposta a quel punto? Le chiedo di cambiarlo.",
+   "parole": 59,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00090.sub00010.int02730"
+  },
+  {
+   "data": "2022-12-28",
+   "leg": 19,
+   "seduta": 29,
+   "argomento": "Si riprende l'esame del disegno di legge di conversione n. 705.",
+   "fase": "Ripresa dichiarazioni di voto finale - A.C. 705 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signor Presidente, onorevoli colleghi e colleghe, questo è un decreto in cui avete messo di tutto: da questo nuovo articolo del codice penale contro i raduni musicali, con una pena da tre a sei anni, alle norme sull'ergastolo ostativo, che vanno ben oltre però le indicazioni della Corte costituzionale, con delle modifiche per noi inaccettabili; ma pure il via libera al rientro dei medici no-vax è un segnale chiaro de […]",
+   "parole": 1728,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00110.sub00010.int01510"
+  },
+  {
+   "data": "2023-02-02",
+   "leg": 19,
+   "seduta": 48,
+   "argomento": "Discussione del disegno di legge: Conversione in legge del decreto-legge 2 gennaio 2023, n. 1, recante disposizioni urgenti per la gestione dei flussi migratori (A.C. 750-A ​).",
+   "fase": "Discussione sulle linee generali - A.C. 750-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Presidente, onorevoli colleghe e colleghi, questo è un decreto che si pone chiaramente in violazione del diritto internazionale, della Convenzione SAR, quella rivolta alla ricerca e soccorso in mare, della Convenzione UNCLOS, della Convenzione SOLAS. […]",
+   "parole": 1559,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0048&tipo=stenografico#sed0048.stenografico.tit00020.sub00010.int00300"
+  },
+  {
+   "data": "2023-03-15",
+   "leg": 19,
+   "seduta": 69,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Posizione del Governo sul salario minimo legale e su ulteriori misure atte a incrementare le garanzie per i lavoratori - n. 3-00247",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signora Presidente, in questo Paese, c'è un dramma di cui non vi sentiamo parlare mai: la precarietà e il lavoro povero, che colpiscono ancora più duramente le donne, i giovani, in particolare al Sud. Sono più di 3 milioni le lavoratrici e i lavoratori che sono poveri, anche se lavorano. A loro è negata ogni possibilità di costruirsi un futuro libero e dignitoso. […]",
+   "parole": 264,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00080.int00020",
+   "verificata": "https://pagellapolitica.it/fact-checking/quanti-lavoratori-poveri-italia"
+  },
+  {
+   "data": "2023-03-15",
+   "leg": 19,
+   "seduta": 69,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Posizione del Governo sul salario minimo legale e su ulteriori misure atte a incrementare le garanzie per i lavoratori - n. 3-00247",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signor Presidente, le sue risposte non ci soddisfano . Anzitutto, perché - lo vorrei ricordare - il Partito Democratico, nella scorsa legislatura, ha provato ad approvare il salario minimo, ma i suoi alleati, che le siedono affianco, erano contrari e il Governo è caduto prima del tempo. […]",
+   "parole": 656,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00080.int00120"
+  },
+  {
+   "data": "2023-04-20",
+   "leg": 19,
+   "seduta": 91,
+   "argomento": "Seguito della discussione del disegno di legge: S. 564 - Conversione in legge, con modificazioni, del decreto-legge 24 febbraio 2023, n. 13, recante disposizioni urgenti per l'attuazione del Piano nazionale di…",
+   "fase": "Dichiarazioni di voto finale - A.C. 1089 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Presidente, signor Ministro, onorevoli colleghe e colleghi, con questo decreto e il modo sbagliato con cui lo stesso affronta una sfida di così grande importanza, è diventato più chiaro che mai, più nitida a chi la voglia vedere, l'enorme difficoltà che ha questo Governo, con la sua maggioranza, a fare le cose che servono realmente al Paese. Purtroppo sta succedendo proprio sulla sfida più importante per il futuro. […]",
+   "parole": 1705,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0091&tipo=stenografico#sed0091.stenografico.tit00060.sub00020.int00250"
+  },
+  {
+   "data": "2023-06-20",
+   "leg": 19,
+   "seduta": 122,
+   "argomento": "Seguito della discussione delle mozioni Braga ed altri n. 1-00143 , Francesco Silvestri ed altri n. 1-00146 , Richetti ed altri n. 1-00154 , Zanella ed altri n. 1-00156 e Foti, Molinari, Barelli, Lupi ed altri n.…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie Presidente. Stiamo parlando oggi di un Piano che si chiama Next Generation EU e che qui chiamiamo, con un acronimo che sembra freddo, PNRR, ma dentro cui c'è una visione di quale futuro vogliamo consegnare alle prossime generazioni in Italia e in Europa. […]",
+   "parole": 1690,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0122&tipo=stenografico#sed0122.stenografico.tit00050.sub00020.int00260"
+  },
+  {
+   "data": "2023-08-03",
+   "leg": 19,
+   "seduta": 153,
+   "argomento": "Esame e votazione della questione sospensiva riferita alla proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari;…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Onorevoli colleghi, quella che oggi ci troviamo a discutere non è una semplice sospensiva, ma è la rappresentazione plastica della fuga della maggioranza, come l'ha descritta il collega Fratoianni. […]",
+   "parole": 1009,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00060"
+  },
+  {
+   "data": "2023-10-10",
+   "leg": 19,
+   "seduta": 175,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Colleghe e colleghi, fatemi iniziare questo intervento anzitutto esprimendo, anche a nome del gruppo del Partito Democratico, cordoglio per le vittime, tutte le vittime, e preoccupazione per gli ostaggi, compresi i due italiani di cui si sono perse le tracce. […]",
+   "parole": 1589,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0175&tipo=stenografico#sed0175.stenografico.tit00070.sub00010.int00190"
+  },
+  {
+   "data": "2023-10-18",
+   "leg": 19,
+   "seduta": 180,
+   "argomento": "Rinvio in Commissione della proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari; Serracchiani ed altri; Laus;…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. La richiesta di un ulteriore rinvio della legge sul salario minimo è semplicemente la cronaca di una fuga annunciata: la vostra fuga dalla realtà di un Paese che reclama giustizia ed equità, mentre voi continuate a regalargli soltanto condoni, mancette corporative e tagli ai diritti universali, come scuola e sanità pubblica . […]",
+   "parole": 860,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00050.int00100"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Signora Presidente, onorevoli colleghi, ci troviamo davanti ad una di quelle anse della storia nella quale nulla è scontato e la posta in gioco è altissima. In queste ore, ciascuno di noi e ciascuna di noi, in base alle proprie responsabilità, è chiamato, siamo tutti chiamati a dare il nostro contributo perché il mondo non si infiammi senza più rimedio né controllo. […]",
+   "parole": 1939,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00470"
+  },
+  {
+   "data": "2023-12-05",
+   "leg": 19,
+   "seduta": 209,
+   "argomento": "Sull'ordine dei lavori e per richiami al Regolamento.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Comunico anch'io la mia volontà di togliere la mia firma da questa proposta di legge. Questa non è più la proposta di salario minimo delle opposizioni, perché la maggioranza, come hanno detto già i miei colleghi, ha svuotato questa proposta di ogni significato e l'ha fatto con la consueta arroganza. Quindi, noi togliamo le nostre firme. […]",
+   "parole": 857,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00350"
+  },
+  {
+   "data": "2023-12-06",
+   "leg": 19,
+   "seduta": 210,
+   "argomento": "Seguito della discussione della proposta di legge: Conte ed altri: “Deleghe al Governo in materia di retribuzione dei lavoratori e di contrattazione collettiva nonché di procedure di controllo e informazione” (A.C.…",
+   "fase": "Dichiarazioni di voto finale - A.C. 1275-A ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signor Presidente, oggi è un giorno triste per la Repubblica, oggi che accartocciate, con una mano, la proposta delle opposizioni sul salario minimo e, con l'altra, date un manrovescio a 3,5 milioni di lavoratrici e lavoratori, che sono poveri anche se lavorano. […]",
+   "parole": 1490,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00030.sub00010.int00240"
+  },
+  {
+   "data": "2023-12-12",
+   "leg": 19,
+   "seduta": 212,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Onorevoli colleghi e membri del Governo, per iniziare il mio intervento vorrei dire una frase semplice che credo appartenga a tutti in questo Parlamento, che rappresenta la precondizione del nostro essere qui insieme come rappresentanti democraticamente eletti di questa nostra Repubblica: viva l'Italia antifascista . Viva l'Italia antifascista. […]",
+   "parole": 1841,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00230"
+  },
+  {
+   "data": "2023-12-28",
+   "leg": 19,
+   "seduta": 219,
+   "argomento": "Seguito della discussione del disegno di legge: S. 926. – “Bilancio di previsione dello Stato per l'anno finanziario 2024 e bilancio pluriennale per il triennio 2024-2026” (Approvato dal Senato) (A.C. 1627 ​); Nota…",
+   "fase": "Esame dell'articolo 1 - A.C. 1627 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Una domanda semplice voglio fare a quest'Aula: c'è qualcuno qui dentro a cui sembra normale e giusto il fatto che il tasso di occupazione femminile italiano sia il più basso in Europa? È più basso soprattutto in alcune regioni del Sud , che sono il fanalino di coda del continente quanto al lavoro delle donne. […]",
+   "parole": 777,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0219&tipo=stenografico#sed0219.stenografico.tit00100.sub00020.int01440"
+  },
+  {
+   "data": "2023-12-29",
+   "leg": 19,
+   "seduta": 220,
+   "argomento": "Si riprende la discussione del disegno di legge n. 1627.",
+   "fase": "Dichiarazioni di voto finale - A.C. 1627 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Onorevoli colleghe e colleghi, un anno fa, di questi tempi, ad accompagnare la prima legge di bilancio del Governo Meloni era stata una lunga litania di alibi, di giustificazioni per il poco tempo a disposizione, per la fretta obbligata, per una situazione in cui non si poteva fare altro. Oggi non avete scuse. […]",
+   "parole": 1760,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0220&tipo=stenografico#sed0220.stenografico.tit00110.sub00010.int00240"
+  },
+  {
+   "data": "2024-01-10",
+   "leg": 19,
+   "seduta": 223,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza in relazione agli eventi accaduti in occasione della recente commemorazione dei fatti di via Acca Larentia – n. 3-00894",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Signor Ministro, le immagini di quanto accaduto in via Acca Larentia il 7 gennaio sono impressionanti e inaccettabili: centinaia di braccia tese, che fanno il saluto romano, mentre viene chiamato il “presente”. Una vera e propria adunata di centinaia di uomini, schierati come una falange, che sembrano uscire da immagini non del 2024, ma del 1924, in pieno regime fascista. […]",
+   "parole": 208,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00010.int00020"
+  },
+  {
+   "data": "2024-01-10",
+   "leg": 19,
+   "seduta": 223,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza in relazione agli eventi accaduti in occasione della recente commemorazione dei fatti di via Acca Larentia – n. 3-00894",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signor Ministro, siamo costretti a dichiararci profondamente insoddisfatti da queste risposte. Non si può parlare di una casistica limitata e ci aspettiamo e continueremo ad insistere che queste organizzazioni neofasciste vengano sciolte, come chiede la Costituzione, perché rappresentano un pericolo per la pubblica sicurezza, e questo le dovrebbe interessare. […]",
+   "parole": 425,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00010.int00060"
+  },
+  {
+   "data": "2024-01-24",
+   "leg": 19,
+   "seduta": 232,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte ad abolire il tetto di spesa per l'assunzione del personale sanitario, nell'ottica della salvaguardia dei principi di universalità, eguaglianza ed equità del Servizio sanitario nazionale – n. 3-00939",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signora Presidente, tempo fa mi ha colpito un messaggio che ho ricevuto da una donna, alla cui madre, malata oncologica e cardiologica, è stato fissato un appuntamento nel 2026. Non sa nemmeno se ci arriverà. Ormai ci sono persone costrette a sperare che la propria malattia corra meno in fretta della lista d'attesa che si allunga, questa è la situazione. […]",
+   "parole": 258,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00100.int00020"
+  },
+  {
+   "data": "2024-01-24",
+   "leg": 19,
+   "seduta": 232,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte ad abolire il tetto di spesa per l'assunzione del personale sanitario, nell'ottica della salvaguardia dei principi di universalità, eguaglianza ed equità del Servizio sanitario nazionale – n. 3-00939",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Presidente, la sua risposta non ci soddisfa, e le farei anche un'altra domanda: ma lei è andata al Governo per risolvere i problemi o per continuare a fare opposizione, scaricandoli sugli altri ? No, mi faccia capire, perché ero stata più delicata di lei, non ho citato l'anno in cui è stato adottato quel tetto alla spesa, che si rifà ai livelli del 2004. […]",
+   "parole": 493,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00100.int00060"
+  },
+  {
+   "data": "2024-02-13",
+   "leg": 19,
+   "seduta": 243,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie Presidente. Il Partito Democratico ha ritenuto necessario presentare questa mozione per la gravità del conflitto in corso in Medio Oriente, perché pensiamo che sia necessario che questo Parlamento si esprima per un immediato cessate il fuoco umanitario, al fine di liberare tutti gli ostaggi, di fermare il massacro di civili, di portare tutti gli aiuti umanitari necessari alla popolazione civile palestinese e d […]",
+   "parole": 1403,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0243&tipo=stenografico#sed0243.stenografico.tit00100.sub00010.int00220"
+  },
+  {
+   "data": "2024-03-20",
+   "leg": 19,
+   "seduta": 266,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Vorrei iniziare leggendo poche righe di un testo che non è mio: “Complimenti a Vladimir Putin per la sua quarta elezione a Presidente della Federazione Russa. La volontà del popolo in queste elezioni russe appare inequivocabile”. Matteo Salvini? No, è stata proprio lei a dirlo, Presidente Meloni, nel 2018, all'indomani del quarto rinnovo del regime russo di Putin. […]",
+   "parole": 1691,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00040.sub00010.int00300"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto finale - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghe e colleghi, oggi si consuma il secondo atto di un vergognoso scambio sulla pelle delle italiane e degli italiani. Ci avete tenuto qui, per tutta la notte, per cosa? Con quale urgenza, se non quella - lo abbiamo capito ascoltando adesso il vostro intervento - di ottenere lo scalpo del Sud appena prima dei ballottaggi, per meri fini elettorali? Il premierato per Fr […]",
+   "parole": 1350,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00120.int00210"
+  },
+  {
+   "data": "2024-06-26",
+   "leg": 19,
+   "seduta": 314,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Siamo alla vigilia di un importante Consiglio europeo, il primo dopo le elezioni del Parlamento europeo, in cui i Capi di Stato e di Governo faranno una discussione cruciale sulla direzione che l'Unione europea deve prendere nei prossimi 5 anni. Trovo positivo che finalmente la Presidente del Consiglio si accodi a chi, come noi, l'Europa vuole cambiarla e non voglia più uscirne. […]",
+   "parole": 1744,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00040.sub00010.int00270"
+  },
+  {
+   "data": "2024-06-26",
+   "leg": 19,
+   "seduta": 314,
+   "argomento": "Seguito della discussione della proposta di legge: Schlein ed altri: “Disposizioni per il sostegno finanziario del Servizio sanitario nazionale in attuazione dei princìpi di universalità, eguaglianza ed equità” (A.C.…",
+   "fase": "Esame dell'articolo 1 - A.C. 1741-A ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Care colleghe e colleghi, è così allora: oggi, definitivamente, state gettando la maschera. Sono mesi che vi diciamo che state smantellando la sanità pubblica; con i vostri tagli, con il definanziamento e, con questo voto, oggi voi lo certificate. Mi rivolgo alla maggioranza, per suo tramite, Presidente, mi rivolgo all'onorevole Foti, che prima ho ascoltato attentamente. […]",
+   "parole": 979,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.sub00020.int00020",
+   "verificata": "https://pagellapolitica.it/fact-checking/errore-numero-medici-italiani-estero"
+  },
+  {
+   "data": "2024-07-24",
+   "leg": 19,
+   "seduta": 332,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1161 - Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2024, n. 73, recante misure urgenti per la riduzione dei tempi delle liste di attesa delle…",
+   "fase": "Dichiarazioni di voto finale - A.C. 1975 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Onorevoli colleghe e colleghi, nel nostro Paese si può attendere un anno e mezzo per una gastroscopia, fino a 645 giorni per una colonscopia e 677 giorni per una visita oculistica. C'è chi deve aspettare un anno e mezzo per un'ecografia programmabile, chi riesce invece a farla in 13 giorni. […]",
+   "parole": 1593,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00030.sub00010.int00200"
+  },
+  {
+   "data": "2024-08-07",
+   "leg": 19,
+   "seduta": 342,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1183 - Conversione in legge, con modificazioni, del decreto-legge 4 luglio 2024, n. 92, recante misure urgenti in materia penitenziaria, di giustizia civile e penale…",
+   "fase": "Ripresa esame degli ordini del giorno - A.C. 2002 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Chiedo di sottoscrivere questo ordine del giorno e di fare una breve dichiarazione di voto, perché, colleghi, da inizio del 2024 - lo sapete, è stato ricordato in molti interventi - vi sono stati già 63 suicidi tra i detenuti e 7 tra gli agenti di Polizia penitenziaria. […]",
+   "parole": 895,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00040.sub00010.int02300"
+  },
+  {
+   "data": "2024-10-09",
+   "leg": 19,
+   "seduta": 362,
+   "argomento": "Seguito della discussione del disegno di legge: Disposizioni in materia di lavoro (Testo risultante dallo stralcio, disposto dal Presidente della Camera, ai sensi dell'articolo 123-bis, comma 1, del Regolamento, e…",
+   "fase": "Dichiarazioni di voto finale - A.C. 1532-bis-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Onorevoli colleghi, chiariamoci subito su una verità amara, ma incontestabile. Ogni provvedimento di questa maggioranza, tutto quello che fate, lo pagano le lavoratrici e i lavoratori sulla propria pelle, e le loro famiglie: nel fisco, con la selva di condoni che avete messo in campo e di cui ormai abbiamo perso il conto, più di venti pacche sulle spalle ai furbi, a scapito dei contribuenti onesti […]",
+   "parole": 1589,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00090.sub00010.int00280"
+  },
+  {
+   "data": "2024-10-15",
+   "leg": 19,
+   "seduta": 365,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Onorevoli colleghe e colleghi, signora Presidente, oggi in quest'Aula, mentre ci confrontiamo in vista del prossimo Consiglio europeo, vorrei che tutti avessimo la consapevolezza che quello che accadrà nei prossimi mesi determinerà l'intero assetto mondiale. […]",
+   "parole": 1598,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0365&tipo=stenografico#sed0365.stenografico.tit00080.sub00020.int00390"
+  },
+  {
+   "data": "2024-12-17",
+   "leg": 19,
+   "seduta": 399,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Presidente Meloni, faccio una premessa: scenda dal ring, perché questo è un luogo serio. Io capisco la necessità di cercare un nemico al giorno per coprire i fallimenti del suo Governo, ma le ricordo che lei è la Presidente del Consiglio di tutti gli italiani e che, se avesse messo un euro sulla sanità pubblica per ogni volta che ci attacca, a quest'ora avrebbe già dimezzato le liste d'attesa . […]",
+   "parole": 1883,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0399&tipo=stenografico#sed0399.stenografico.tit00040.sub00010.int00430"
+  },
+  {
+   "data": "2025-01-21",
+   "leg": 19,
+   "seduta": 413,
+   "argomento": "Informativa urgente del Governo sulla situazione della rete ferroviaria nazionale.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Allora, prima, con tutta calma e poi con somma urgenza, il Ministro Salvini ha chiesto di poter riferire in Aula oggi sul finire della giornata, dopo che, ormai da mesi, le opposizioni chiedevano di avere notizie sulle ragioni di incredibili ritardi e disagi lungo la rete ferroviaria. […]",
+   "parole": 1126,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0413&tipo=stenografico#sed0413.stenografico.tit00100.sub00020.int00080"
+  },
+  {
+   "data": "2025-02-05",
+   "leg": 19,
+   "seduta": 422,
+   "argomento": "Informativa urgente del Governo in merito alla richiesta di arresto della Corte penale internazionale e successiva espulsione del cittadino libico Najeem Osema Almasri Habish.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Questa è una giornata triste per la democrazia. I Ministri Nordio e Piantedosi sono venuti in Aula a coprire le spalle della Presidente del Consiglio. Si sono degnati finalmente, dopo più di due settimane, di riferire in Parlamento ma oggi in quest'Aula doveva esserci Giorgia Meloni . Invece, ancora una volta, manca di rispetto a quest'Aula e manca di rispetto al Paese. […]",
+   "parole": 1453,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00020.int00090"
+  },
+  {
+   "data": "2025-02-25",
+   "leg": 19,
+   "seduta": 434,
+   "argomento": "Seguito della discussione della mozione Francesco Silvestri, Braga, Zanella ed altri n. 1-00392 presentata a norma dell'articolo 115, comma 3, del Regolamento, nei confronti del Ministro del Turismo, Daniela Garnero…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ministra Santanche' - aspetto che finisca di salutare -, Giorgia Meloni l'ha scelta e l'ha voluta alla guida del Ministero del Turismo. Oggi però fa finta di non conoscerla, non la vediamo qua, l'ha scaricata, come lei ha scaricato i suoi dipendenti. […]",
+   "parole": 1323,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0434&tipo=stenografico#sed0434.stenografico.tit00060.sub00020.int00280"
+  },
+  {
+   "data": "2025-03-19",
+   "leg": 19,
+   "seduta": 450,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. La Presidente Meloni è fuggita di nuovo, non c'è che dire, non la vedevamo da dicembre scorso e le volte in cui si è palesata in quest'Aula ... Dicevo che l'ultima apparizione della Presidente Meloni risale allo scorso dicembre e le volte in cui si è palesata in quest'Aula si contano sulle dita delle mani. […]",
+   "parole": 1796,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00470"
+  },
+  {
+   "data": "2025-03-26",
+   "leg": 19,
+   "seduta": 456,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ministro, la sua difesa d'ufficio di un torturatore libico rappresenta una delle pagine più vergognose a cui questo Parlamento è stato sottoposto e devo dire che, quanto a pagine vergognose, il Governo, di cui fa parte, non si è mai risparmiato, purtroppo. I fatti qui sono incontrovertibili. […]",
+   "parole": 1733,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00040.sub00010.int00240"
+  },
+  {
+   "data": "2025-05-14",
+   "leg": 19,
+   "seduta": 480,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative in relazione alla grave situazione del Servizio sanitario nazionale e alla necessità di garantire il diritto alla salute a tutti i cittadini - n. 3-01957",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Presidente, due giorni fa, a Taurianova, alcune fioraie - le ho incontrate - mi hanno detto una cosa, mi hanno detto: bisogna saper scegliere ormai, se mangiare o curarsi. La sanità pubblica è al collasso: liste di attesa infinite, mancano 65.000 infermieri, mancano 30.000 medici, il personale è stremato, con turni massacranti; molti sono già fuggiti verso il privato, 40.000 medici sono già fuggiti all'estero e la mi […]",
+   "parole": 246,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00100.int00020"
+  },
+  {
+   "data": "2025-05-14",
+   "leg": 19,
+   "seduta": 480,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative in relazione alla grave situazione del Servizio sanitario nazionale e alla necessità di garantire il diritto alla salute a tutti i cittadini - n. 3-01957",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Presidente, io non so da quanto tempo lei non lasci il Palazzo per andare davvero in un ospedale , ma le do una notizia: i gettonisti ci sono ancora e, se ci sono, è perché quando lei era al Governo con Berlusconi ed io ero ancora all'università, l'avete messo voi un tetto alle assunzioni del personale che oggi sta svuotando i reparti, per cui la gente non si riesce più a curare ! Si vergogni di s […]",
+   "parole": 539,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00100.int00160"
+  },
+  {
+   "data": "2025-05-21",
+   "leg": 19,
+   "seduta": 483,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. A Gaza c'è l'inferno in terra con più di 50.000 morti, tra cui 15.000 bambini, e bombe sugli ospedali e sulle scuole. Da marzo il Governo israeliano ha rotto la fragile tregua, ricominciando violente operazioni militari su Gaza e impedendo che arrivasse qualunque tipo di aiuto umanitario. […]",
+   "parole": 1581,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00040.sub00010.int00220"
+  },
+  {
+   "data": "2025-05-28",
+   "leg": 19,
+   "seduta": 487,
+   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 2355.",
+   "fase": "Ripresa esame degli ordini del giorno - A.C. 2355 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Sono molto felice di poter intervenire in questa discussione, anche perché, cari colleghi e colleghe, noi useremo ogni minuto a disposizione per bloccare lo sfregio giuridico che state cercando di far passare, per provare a ostacolarvi nell'approvare questo decreto Sicurezza, che è uno sfregio giuridico che ci porta più indietro del codice fascista Rocco approvato nel 1930. […]",
+   "parole": 1027,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00140.sub00010.int01370"
+  },
+  {
+   "data": "2025-05-28",
+   "leg": 19,
+   "seduta": 487,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa dichiarazioni di voto finale - A.C. 2355 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, signor Presidente. Vorrei iniziare riconoscendo un merito - vi sembrerà strano - a questo Governo, perché siete riusciti nell'impresa non facile di mettere d'accordo giuristi, magistrati e avvocati penalisti, tutti nelle critiche a questo provvedimento. Non era semplice. […]",
+   "parole": 1344,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00200.sub00010.int01220"
+  },
+  {
+   "data": "2025-06-23",
+   "leg": 19,
+   "seduta": 497,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Onorevoli colleghi, Presidente, siamo estremamente preoccupati per la situazione in Medio Oriente a seguito degli attacchi israeliani e americani all'Iran e dei crimini in corso a Gaza e in Cisgiordania. Questi ultimi attacchi rappresentano un' escalation che rischia di portare il conflitto su scala globale, con conseguenze devastanti sui civili, sulla regione e sul mondo. […]",
+   "parole": 1821,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0497&tipo=stenografico#sed0497.stenografico.tit00100.sub00010.int00400"
+  },
+  {
+   "data": "2025-07-03",
+   "leg": 19,
+   "seduta": 504,
+   "argomento": "Interventi di fine seduta.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Sono passati trent'anni dalla scomparsa di Alexander Langer, e forse oggi più che mai abbiamo bisogno del suo pensiero lungo, anticipatorio rispetto ai tempi e alle sfide dell'oggi. È impossibile non ricordare la sua grande intuizione, quando scrisse che la conversione ecologica potrà affermarsi soltanto se apparirà socialmente desiderabile; e quindi questa convinzione, che ha sempre tenuto unita la giustizia sociale […]",
+   "parole": 444,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0504&tipo=stenografico#sed0504.stenografico.tit00060.int00040"
+  },
+  {
+   "data": "2025-07-30",
+   "leg": 19,
+   "seduta": 520,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative per il riconoscimento dello Stato di Palestina, nel quadro del principio \"due popoli, due Stati\" - n. 3-02121",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Francia, Malta e Regno Unito hanno annunciato che riconosceranno lo Stato di Palestina, aggiungendosi così alla Spagna, all'Irlanda, alla Norvegia e agli oltre 140 Paesi che già lo riconoscono. La nostra domanda è semplice, Ministro: che cosa aspetta l'Italia? Se non ora, quando? Che cosa state aspettando? Noi vi chiediamo di riconoscere immediatamente lo Stato di Palestina perché è giusto e perché anche i palestines […]",
+   "parole": 184,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00020.int00020"
+  },
+  {
+   "data": "2025-07-30",
+   "leg": 19,
+   "seduta": 520,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative per il riconoscimento dello Stato di Palestina, nel quadro del principio \"due popoli, due Stati\" - n. 3-02121",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Ministro, voi così voltate le spalle ai palestinesi. E devo dire che è insopportabile questa ipocrisia, per cui parlate del fatto che prima dovrebbe esistere uno Stato e fingete di non vedere che lo stanno radendo al suolo , quello Stato, e che è occupato illegalmente, contro il diritto internazionale. […]",
+   "parole": 415,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00020.int00060"
+  },
+  {
+   "data": "2025-09-16",
+   "leg": 19,
+   "seduta": 531,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa dichiarazioni di voto finale - A.C. 1917-B ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Oggi in quest'Aula assistiamo all'ennesima prova di una destra che, non sapendo dare risposte ai problemi concreti dei cittadini, offre qualcosa di più semplice: nemici, capri espiatori su cui addossare tutti i mali possibili e che in qualche modo poi vengono colpiti con insensata durezza. Oggi è il turno dei giudici. È una strategia precisa questa, è chirurgica. […]",
+   "parole": 1445,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00170.sub00010.int00070"
+  },
+  {
+   "data": "2025-09-25",
+   "leg": 19,
+   "seduta": 537,
+   "argomento": "Informativa urgente del Governo in ordine agli attacchi occorsi a danno della Global Sumud Flotilla e all'evoluzione della situazione sul fronte orientale europeo.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ho ascoltato, dopo il Ministro Crosetto, le parole dell'onorevole Chiesa. Sembrate di due partiti diversi . Ministro, ha appena finito di dire che non vi interessa alimentare la contrapposizione politica, ma lo deve dire agli esponenti del suo partito e alla Presidente del Consiglio, Giorgia Meloni , che ieri ha detto: mi sembra si stia esagerando. […]",
+   "parole": 1561,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0537&tipo=stenografico#sed0537.stenografico.tit00020.sub00020.int00080"
+  },
+  {
+   "data": "2025-10-02",
+   "leg": 19,
+   "seduta": 541,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Questa notte l'esercito israeliano ha bloccato e arrestato gli attivisti delle 40 navi della Global Sumud Flotilla in acque internazionali, a 80 miglia nautiche da Gaza, con un atto illegale da ogni punto di vista, del diritto internazionale, del diritto marittimo e anche del diritto umanitario. Questo non glielo abbiamo sentito dire, Ministro. […]",
+   "parole": 1637,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0541&tipo=stenografico#sed0541.stenografico.tit00050.sub00010.int00200"
+  },
+  {
+   "data": "2025-10-22",
+   "leg": 19,
+   "seduta": 552,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 23 e 24 ottobre 2025.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Presidente, so dove mi aspetta, ma non decide lei che cosa dice l'opposizione . Io sono qui a parlarle delle slide che mancavano alle 68 che oggi avete pubblicato. Perché lei oggi festeggia tre anni del suo Governo, ma gli italiani non hanno niente da festeggiare. […]",
+   "parole": 1624,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00150.sub00040.int00270"
+  },
+  {
+   "data": "2025-12-17",
+   "leg": 19,
+   "seduta": 586,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Arrivo subito al Consiglio europeo, ma sento l'esigenza di partire prima dalle persone, che questo Governo pare aver dimenticato. Perché vede, Presidente, gli italiani, mentre lei continua a fare cabaret, anche in quest'Aula, stanno attraversando un momento difficile e fanno i conti con una realtà che è sempre più dura. […]",
+   "parole": 1806,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00050.sub00010.int00290"
+  },
+  {
+   "data": "2025-12-30",
+   "leg": 19,
+   "seduta": 590,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1689 - Bilancio di previsione dello Stato per l'anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028 (Approvato dal Senato) (A.C. 2750 ​). Nota di…",
+   "fase": "Dichiarazioni di voto finale - A.C. 2750 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. La prima preoccupazione degli italiani sono il carovita e le liste d'attesa per la sanità. Non lo dice il PD, lo dicono le ultime rilevazioni che avete letto tutti, ieri. E, se ci pensate, sono le cose che fanno la dignità quotidiana delle persone: mangiare e curarsi. […]",
+   "parole": 1615,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0590&tipo=stenografico#sed0590.stenografico.tit00030.sub00010.int00390"
+  },
+  {
+   "data": "2026-02-04",
+   "leg": 19,
+   "seduta": 608,
+   "argomento": "Informativa urgente del Governo in ordine agli eccezionali eventi meteorologici che hanno colpito il territorio della Sicilia, della Calabria e della Sardegna.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ministro, lei è riuscito a parlare in questa informativa più di se stesso che dei territori colpiti e delle famiglie colpite . Noi vorremmo parlare di loro e ringraziamo anzitutto i volontari, la Protezione civile, i Vigili del fuoco, le Forze dell'ordine, i sindaci, coloro che hanno gestito sul campo e garantito la messa in sicurezza delle persone. […]",
+   "parole": 1054,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0608&tipo=stenografico#sed0608.stenografico.tit00030.sub00020.int00060"
+  },
+  {
+   "data": "2026-02-17",
+   "leg": 19,
+   "seduta": 617,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Signor Ministro, eludere la Costituzione è come violarla. La scelta che siamo chiamati, oggi, a discutere e a votare, non è una scelta tecnica, ma è una scelta politica ed è una scelta istituzionale, la partecipazione dell'Italia e solo dell'Italia, evidentemente, come osservatrice al Board of Peace di Trump. […]",
+   "parole": 1656,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0617&tipo=stenografico#sed0617.stenografico.tit00050.sub00010.int00340"
+  },
+  {
+   "data": "2026-02-24",
+   "leg": 19,
+   "seduta": 621,
+   "argomento": "Seguito della discussione della proposta di legge: Schlein ed altri: “Modifiche al testo unico delle disposizioni legislative in materia di tutela e sostegno della maternità e della paternità, di cui al decreto…",
+   "fase": "Articolo 1 - A.C. 2228 ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Per l'ennesima volta affossate una proposta di tutte le opposizioni unite senza neanche farci discutere di questa proposta nel merito. Affossate una proposta concreta, che potrebbe migliorare la vita di milioni di famiglie italiane: un congedo paritario, 5 mesi pagati al 100 per cento per entrambi i genitori, non trasferibile tra loro; riguarderebbe anche chi non è sposato, riguarderebbe anche le […]",
+   "parole": 890,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0621&tipo=stenografico#sed0621.stenografico.tit00110.sub00020.int00020"
+  },
+  {
+   "data": "2026-03-03",
+   "leg": 19,
+   "seduta": 625,
+   "argomento": "Seguito della discussione della proposta di legge: Fratoianni ed altri: “Disposizioni per favorire la stipulazione di contratti volti alla riduzione dell'orario di lavoro” (A.C. 2067 ​) e delle abbinate proposte di…",
+   "fase": "Esame degli articoli - A.C. 2067 ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ci risiamo, è passata solo una settimana; eppure, siamo di nuovo qui e mi chiedo come mai, ogni volta che le opposizioni fanno una proposta per migliorare le condizioni di chi lavora, voi l'affossiate senza nemmeno volerla discutere, negandoci anche il diritto a discuterne in questo Parlamento. […]",
+   "parole": 1070,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0625&tipo=stenografico#sed0625.stenografico.tit00090.sub00010.int00040"
+  },
+  {
+   "data": "2026-03-05",
+   "leg": 19,
+   "seduta": 627,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Quella che è in atto in Medio Oriente è un' escalation drammatica. Non stiamo parlando di una crisi lontana. Stiamo parlando di uno scenario che può avere dei risvolti veramente imprevedibili sull'intera regione: rischia di allargarsi a livello globale, rischia di far tremare la fragile tregua a Gaza, ma anche di incidere sulla sicurezza energetica europea e sugli interessi nazionali italiani. […]",
+   "parole": 1642,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00040.sub00010.int00480"
+  },
+  {
+   "data": "2026-03-11",
+   "leg": 19,
+   "seduta": 631,
+   "argomento": "Discussione sulle Comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie. Presidente, posi la clava. Guardi, non è il caso, nella situazione in cui siamo e con il mondo che scivola in guerra. Chi ci guarda, chi la guarda, merita uno spettacolo diverso. Non merita di vedere la lotta nel fango, dove ci vuole portare. Il suo appello all'unità, che è arrivato 12 giorni in ritardo, è durato giusto un paio d'ore, poi è tornata in lei. […]",
+   "parole": 1769,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00040.int00210"
+  },
+  {
+   "data": "2026-04-09",
+   "leg": 19,
+   "seduta": 641,
+   "argomento": "Informativa urgente del Presidente del Consiglio dei ministri sull'azione del Governo.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Presidente, il suo è stato un discorso di autoconvincimento. Lei ci sfida ma le do una notizia: l'avete già persa quella sfida, perché avete sfidato la Costituzione e il popolo sovrano vi ha battuto nelle urne. Si vede che avete molta voglia di tornare all'opposizione. Non vi preoccupate, vi accontenteremo . […]",
+   "parole": 1616,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00020.sub00020.int00050"
+  },
+  {
+   "data": "2026-04-14",
+   "leg": 19,
+   "seduta": 643,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori perché è accaduta una cosa gravissima, e voglio esprimere la nostra più ferma condanna, che sono certa sarà unanime in quest'Aula, per l'attacco del Presidente Donald Trump alla Presidente del Consiglio Giorgia Meloni , per avere doverosamente espresso solidarietà a Papa Leone. […]",
+   "parole": 125,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00080.int00020"
+  },
+  {
+   "data": "2026-04-22",
+   "leg": 19,
+   "seduta": 648,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa esame degli ordini del giorno - A.C. 2886",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Vorrei sottoscrivere quest'ordine del giorno dell'onorevole Scotto e poter intervenire brevemente in quest'Aula, non prima di avere segnalato che trovo vergognoso che, ogni volta che il collega che mi ha preceduto, l'onorevole Soumahoro , prende la parola in quest'Aula, dalle parti della maggioranza si sentono rumori, urla, versi, che qualificano voi molto più di quanto qualifichino lui . […]",
+   "parole": 1044,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00100.sub00010.int01000"
+  },
+  {
+   "data": "2026-04-22",
+   "leg": 19,
+   "seduta": 648,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto finale - A.C. 2886",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Noi oggi, in quest'Aula, mentre le tensioni internazionali esplodono e mentre la violenza cieca e brutale delle guerre continua a fare vittime civili, siamo chiamati a discutere di un altro decreto sulla sicurezza, un decreto che appare misero davanti alle notizie che arrivano dal mondo, che appare ingiusto rispetto alla società su cui vuole incidere, appare inutile anche rispetto agli obiettivi d […]",
+   "parole": 1341,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00190.sub00020.int00290"
+  },
+  {
+   "data": "2026-06-11",
+   "leg": 19,
+   "seduta": 673,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Voglio raccogliere l'appello al coraggio della verità che ha fatto oggi la Presidente Meloni in quest'Aula, perché ieri ha parlato del fatto che la produzione industriale continua a crescere. Però, su 43 mesi del vostro Governo, la produzione industriale è calata per 35 mesi quasi consecutivi. […]",
+   "parole": 1648,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0673&tipo=stenografico#sed0673.stenografico.tit00040.sub00010.int00460"
+  },
+  {
+   "data": "2026-07-14",
+   "leg": 19,
+   "seduta": 689,
+   "argomento": "Sull'ordine dei lavori e per richiami al Regolamento.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Questo è stato un voto contro l'arroganza , un voto contro l'arroganza di chi pensa che in un Paese con una crescita a zero, con i salari tra i più bassi d'Europa, il costo dell'energia più caro d'Europa, le liste d'attesa infinite in sanità, le tasse che avete portato a record , la priorità di Giorgia Meloni è la legge elettorale, e alcuni deputati della loro stessa maggioranza evidentemente hanno pensato di dire no […]",
+   "parole": 217,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00080.int00160"
+  },
+  {
+   "data": "2026-07-16",
+   "leg": 19,
+   "seduta": 691,
+   "argomento": "Seguito della discussione della proposta di legge: Bignami ed altri: “Disposizioni in materia di elezioni della Camera dei Deputati e del Senato della Repubblica” (A.C. 2822-A ​) e delle abbinate proposte di legge:…",
+   "fase": "Dichiarazioni di voto finale - A.C. 2822-A ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Quanta ipocrisia oggi, in quest'Aula, dagli stessi che hanno sfiduciato la Presidente del Consiglio Meloni, in un voto segreto, giusto due giorni fa . Quanta ipocrisia! Chi ha tradito? Chi ha tradito? Questa, da un paio di giorni, è l'unica ossessione della Presidente del Consiglio Meloni. Chi ha tradito nella sua compattissima maggioranza? Almeno 40 persone hanno tradito. […]",
+   "parole": 1671,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00030.sub00010.int00350"
+  },
+  {
+   "data": "2026-07-21",
+   "leg": 19,
+   "seduta": 694,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa dichiarazioni di voto - Doc. XVI, n. 6",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Colleghi, credo che questo dibattito sull'autonomia differenziata rappresenti molto plasticamente il vostro modo di agire, lo stesso che avete avuto durante tutta questa legislatura: tanta arroganza, tante forzature, un po' di propaganda e un po' di vittimismo. […]",
+   "parole": 1542,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00080.sub00010.int00200"
+  },
+  {
+   "data": "2026-08-05",
+   "leg": 19,
+   "seduta": 704,
+   "argomento": "Discussione della Relazione della Giunta per le autorizzazioni sulla domanda di autorizzazione al sequestro di corrispondenza nei confronti del deputato Delmastro Delle Vedove ( Doc. IV, n. 4-A ) (ore 16,21) .",
+   "fase": "Dichiarazioni di voto - Doc. IV, n. 4-A",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ci sono delle giornate come questa in cui il Parlamento è chiamato a prendere una decisione che va molto oltre il caso concreto su cui deve pronunciarsi. Il voto che stiamo per dare non è un voto soltanto che dirà molto rispetto alla vicenda che coinvolge l'onorevole Delmastro, ma anche e soprattutto sul rapporto tra Parlamento e magistratura, sul modo in cui si intendono le prerogative previste d […]",
+   "parole": 1205,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00100.sub00020.int00400"
+  },
+  {
+   "data": "2026-09-10",
+   "leg": 19,
+   "seduta": 707,
+   "argomento": "Seguito della discussione del testo unificato delle proposte di legge: Schlein ed altri; Mollicone ed altri; Amato ed altri; Grippo; Latini: Disposizioni in materia di cinema (A.C. 2360 ​- 2578 ​- 2731 ​- 2794 ​-…",
+   "fase": "Dichiarazioni di voto finale - Testo unificato - A.C. 2360-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Arriva oggi in quest'Aula un testo importante, che parte dalla proposta di legge che abbiamo presentato come Partito Democratico a mia prima firma, che istituisce finalmente l'Agenzia per il cinema e per l'audiovisivo. […]",
+   "parole": 1501,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0707&tipo=stenografico#sed0707.stenografico.tit00040.sub00130.int00340"
+  },
+  {
+   "data": "2026-10-08",
+   "leg": 19,
+   "seduta": 723,
+   "argomento": "Seguito della discussione della proposta di legge: Bignami ed altri: Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica (Approvata dalla Camera e modificata dal Senato) (A.C.…",
+   "fase": "Dichiarazioni di voto finale - A.C. 2822-B ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Ho ascoltato gli interventi dei colleghi e posso capire l'imbarazzo, perché oggi vi fanno votare esattamente la norma che avete affossato il 14 luglio e la votate per la paura che avete del giudizio degli elettori . […]",
+   "parole": 1699,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0723&tipo=stenografico#sed0723.stenografico.tit00040.sub00010.int00350"
+  },
+  {
+   "data": "2026-10-14",
+   "leg": 19,
+   "seduta": 727,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 15 e 16 ottobre 2026.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Non sono sorpresa. Anche oggi la Presidente Meloni è venuta a raccontarci che è sempre colpa di qualcun altro ma, con il Governo più longevo, poteva almeno oggi prendersi mezza responsabilità dei fallimenti in cui ha portato il Paese . Se abbiamo gli stipendi più bassi, tra i più bassi d'Europa, e il costo dell'energia più caro d'Europa è sempre colpa di qualcun altro. […]",
+   "parole": 1780,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00380"
+  },
+  {
+   "data": "2026-10-21",
+   "leg": 19,
+   "seduta": 730,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "PD-IDP",
+   "estratto": "Grazie, Presidente. Voglio associarmi anch'io a questa richiesta di informativa urgente del collega, onorevole Conte. Giorgia Meloni deve venire qui, in quest'Aula, davanti al Parlamento, davanti al Paese, a riferire su come questo Governo intenda rispondere al caro carburanti, al carovita, al caro affitti, che stanno bloccando il Paese. Noi abbiamo fatto proposte concrete, guardate. […]",
+   "parole": 950,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00080"
+  }
+ ],
+ "governo": [],
+ "senato": []
+}

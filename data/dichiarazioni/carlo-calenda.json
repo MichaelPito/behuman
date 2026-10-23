@@ -1,0 +1,602 @@
+{
+ "slug": "carlo-calenda",
+ "nome": "Carlo Calenda",
+ "partito": {
+  "slug": "azione",
+  "nome": "Azione",
+  "sigla": "Azione"
+ },
+ "schieramento": "opposizione",
+ "dal": "2021-10-23",
+ "al": "2026-10-23",
+ "riepilogo": {
+  "totale": 49,
+  "camera": 0,
+  "parole_camera": 0,
+  "governo": 0,
+  "senato": 15,
+  "verificate": 34,
+  "prima": "2021-10-27",
+  "ultima": "2026-09-23",
+  "per_anno": [
+   {
+    "anno": "2021",
+    "camera": 0,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 2
+   },
+   {
+    "anno": "2022",
+    "camera": 0,
+    "governo": 0,
+    "senato": 1,
+    "verificate": 15
+   },
+   {
+    "anno": "2023",
+    "camera": 0,
+    "governo": 0,
+    "senato": 2,
+    "verificate": 10
+   },
+   {
+    "anno": "2024",
+    "camera": 0,
+    "governo": 0,
+    "senato": 5,
+    "verificate": 4
+   },
+   {
+    "anno": "2025",
+    "camera": 0,
+    "governo": 0,
+    "senato": 4,
+    "verificate": 1
+   },
+   {
+    "anno": "2026",
+    "camera": 0,
+    "governo": 0,
+    "senato": 3,
+    "verificate": 1
+   }
+  ],
+  "categorie": [],
+  "argomenti_frequenti": [],
+  "fonti_verificate": [
+   {
+    "fonte": "Facebook",
+    "n": 12
+   },
+   {
+    "fonte": "Stampa o altro",
+    "n": 9
+   },
+   {
+    "fonte": "X",
+    "n": 8
+   },
+   {
+    "fonte": "Video",
+    "n": 2
+   },
+   {
+    "fonte": "Instagram",
+    "n": 1
+   },
+   {
+    "fonte": "TV",
+    "n": 1
+   },
+   {
+    "fonte": "Non indicata",
+    "n": 1
+   }
+  ]
+ },
+ "recap": "Dal 27 ottobre 2021 al 23 settembre 2026: 15 interventi nell'Aula del Senato, 34 dichiarazioni scelte e verificate da un fact-checker indipendente.",
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "coerenza": {
+  "proposizioni_con_posizioni": 2,
+  "proposizioni_confrontabili": 1,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "verificate": [
+  {
+   "data": null,
+   "data_verifica": "2022-07-22",
+   "frase": "Pd, FdI, Lega, Sel e M5s erano insieme a Piombino a dimostrare contro il nuovo rigassificatore",
+   "url": "https://pagellapolitica.it/fact-checking/partiti-rigassificatore-piombino",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1549043070255398914",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2021-10-27",
+   "data_verifica": "2021-10-27",
+   "frase": "L’Italia detiene il triste primato in Ue su eventi climatici catastrofici",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-fa-un-po-di-confusione-sul-primato-italiano-negli-eventi-climatici-catastrofici",
+   "fonte_originale": "https://www.facebook.com/watch/?v=1110406213102163",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2021-12-01",
+   "data_verifica": "2021-12-01",
+   "frase": "In Italia due milioni di giovani non studiano, non lavorano e un ragazzo su due non legge un libro",
+   "url": "https://pagellapolitica.it/fact-checking/vero-in-italia-i-neet-sono-due-milioni-e-un-ragazzo-su-due-non-legge-libri",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1466003023885393920",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-02-28",
+   "data_verifica": "2022-03-01",
+   "frase": "Ammettere l’Ucraina nell’Ue mentre è in guerra con la Russia vuol dire andare in guerra con la Russia",
+   "url": "https://pagellapolitica.it/fact-checking/perche-se-lucraina-entra-nellue-lue-entra-in-guerra-con-la-russia",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1498228827310497803?s=20&t=TJJK7pv1e6uAXZ4cH0Qc2g",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-03-14",
+   "data_verifica": "2022-03-16",
+   "frase": "Noi dall’Ucraina e dalla Russia importiamo il 30 per cento del grano",
+   "url": "https://pagellapolitica.it/fact-checking/quanto-grano-importa-italia-russia-ucraina",
+   "fonte_originale": "https://www.facebook.com/watch/?v=667430014523257",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-04-11",
+   "data_verifica": "2022-04-11",
+   "frase": "Giorgia Meloni sostiene che l’embargo sul gas russo sarebbe una follia. Silvio Berlusconi lo ritiene impossibile. I deputati europei di entrambi i partiti hanno votato per il totale e immediato stop al gas russo",
+   "url": "https://pagellapolitica.it/fact-checking/meloni-berlusconi-embargo-gas-russo-calenda",
+   "fonte_originale": "https://www.facebook.com/100044633850227/posts/533190918178699",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-06-14",
+   "data_verifica": "2022-06-14",
+   "frase": "Abbiamo un’affermazione che va dal 10 al 25 per cento, se si considerano L’Aquila, Palermo, Catanzaro e Parma",
+   "url": "https://pagellapolitica.it/fact-checking/risultati-azione-elezioni-comunali",
+   "fonte_originale": "https://www.corriere.it/elezioni/22_giugno_13/elezioni-comunali-2022-calenda-c-un-area-riformista-che-riporta-gente-votare-ef6bce5a-eb4c-11ec-b89b-6b199698064a.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-18",
+   "data_verifica": "2022-08-18",
+   "frase": "La proposta della Lega di “quota 41” costa 65 miliardi di euro",
+   "url": "https://pagellapolitica.it/fact-checking/costo-quota-41-pensioni",
+   "fonte_originale": "https://www.facebook.com/ccalenda/videos/408831824680137/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-08-21",
+   "data_verifica": "2022-08-22",
+   "frase": "A Roma prima delle elezioni comunali ci davano al 5,9 per cento e abbiamo preso il 19,8 per cento",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-sondaggi-roma-elezioni",
+   "fonte_originale": "https://www.corriere.it/elezioni/22_agosto_21/calenda-solo-il-proporzionale-si-puo-fermare-destra-il-voto-italia-caos-53690af2-20b9-11ed-861d-867cc38b54c7.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-23",
+   "data_verifica": "2022-08-24",
+   "frase": "L’Italia è l’unico Paese del G7 a non utilizzare il nucleare",
+   "url": "https://pagellapolitica.it/fact-checking/centrali-nucleari-paesi-g7",
+   "fonte_originale": "https://www.facebook.com/100044633850227/posts/621231856041271",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-08-28",
+   "data_verifica": "2022-08-29",
+   "frase": "Forza Italia, Meloni, Lega erano contro le trivelle. Oggi chiedono più produzione nazionale",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-centrodestra-contro-trivelle",
+   "fonte_originale": "https://www.corriere.it/economia/consumi/22_agosto_28/calenda-si-prepara-tsunami-energia-spread-titoli-sganciare-prezzi-gas-rinnovabili-4641a94c-26f9-11ed-8b26-cee290e763d3.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-09-04",
+   "data_verifica": "2022-09-07",
+   "frase": "Alitalia pubblica è costata 11 miliardi di euro",
+   "url": "https://pagellapolitica.it/fact-checking/alitalia-costo-11-miliardi-stato",
+   "fonte_originale": "https://youtu.be/mIWqMx6p0g8?t=651",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2022-09-14",
+   "data_verifica": "2022-09-15",
+   "frase": "In Italia la spesa pensionistica, tra le più alte d’Europa, vale insieme l’istruzione e la sanità: il doppio",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-spesa-pensioni-sanita-istruzione",
+   "fonte_originale": "https://www.facebook.com/watch/?v=1252514048902655",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-09-26",
+   "data_verifica": "2022-09-27",
+   "frase": "Dopo la discesa in campo di Berlusconi e quasi alla pari con Scelta civica, il risultato del Terzo polo è il migliore per un movimento al debutto elettorale nella storia della seconda Repubblica",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-esagera-risultati-elezioni-terzo-polo",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1574445047063277569",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-09-26",
+   "data_verifica": "2022-09-26",
+   "frase": "Il Paese ha votato al 70 per cento partiti che non hanno votato per niente o parzialmente la fiducia a Draghi",
+   "url": "https://pagellapolitica.it/fact-checking/elezioni-risultati-partiti-fiducia-draghi",
+   "fonte_originale": "https://www.facebook.com/ccalenda/posts/pfbid02hDXguqStzVMT7YvJ914mBYzCq2o5sJmpqt3KMn2wGsyK41J5JMruxVz8UnXUtJYxl",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-10-19",
+   "data_verifica": "2022-10-24",
+   "frase": "È uscita una ricerca che dice che il 25 per cento degli italiani crede nella magia nera",
+   "url": "https://pagellapolitica.it/fact-checking/quanti-italiani-credono-magia-nera",
+   "fonte_originale": "https://www.instagram.com/p/Cj8CnG_oQ3u/",
+   "fonte_tipo": "Instagram"
+  },
+  {
+   "data": "2022-11-08",
+   "data_verifica": "2022-11-08",
+   "frase": "Ci sono 500-600 mila irregolari in Italia",
+   "url": "https://pagellapolitica.it/fact-checking/quanti-immigrati-irregolari-italia",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1589896674977062912",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-11-16",
+   "data_verifica": "2022-11-17",
+   "frase": "Quando Salvini era ministro, la media giornaliera delle espulsioni è stata di 18 migranti al giorno, in linea con le gestioni precedenti e con quelle successive",
+   "url": "https://pagellapolitica.it/fact-checking/salvini-ministro-dati-rimpatri",
+   "fonte_originale": "https://www.azione.it/newsletter_piantedosi_poche_idee_confuse",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-01-19",
+   "data_verifica": "2023-01-24",
+   "frase": "Gli obiettivi sul clima sono stati dati perché il 2050 suonava bene",
+   "url": "https://pagellapolitica.it/fact-checking/2050-obiettivi-clima-ue",
+   "fonte_originale": "https://www.facebook.com/ccalenda/videos/489119513375874/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-02-14",
+   "data_verifica": "2023-02-15",
+   "frase": "Fontana ha cresciuto i suoi voti nei posti in cui il Covid ha colpito di più",
+   "url": "https://pagellapolitica.it/fact-checking/fontana-voti-regionali-covid",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1625466209767673858",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2023-03-16",
+   "data_verifica": "2023-03-17",
+   "frase": "La patrimoniale sui grandi patrimoni ha dato in Francia 400 milioni di euro",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-gettito-patrimoniale-francia",
+   "fonte_originale": "https://www.collettiva.it/speciali/xix-congresso-cgil/2023/03/16/video/xix-congresso-cgil-opposizione-schlein-conte-calenda-fratoianni-landini-2849431/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-03-21",
+   "data_verifica": "2023-03-23",
+   "frase": "Abbiamo 98 milioni di prestazioni sanitarie arretrate",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-prestazioni-sanitarie-arretrate-98-milioni",
+   "fonte_originale": "https://www.la7.it/dimartedi/rivedila7/dimartedi-puntata-del-21032023-22-03-2023-476968",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-03-24",
+   "data_verifica": "2023-03-27",
+   "frase": "L’energia nucleare non ha emissioni, cioè non emette CO2: zero, niente» (min. 42:58)",
+   "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-energia-nucleare",
+   "fonte_originale": "https://mediasetinfinity.mediaset.it/video/mattinocinquenews/venerdi-24-marzo_F312058101014501",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-03-28",
+   "data_verifica": "2023-03-29",
+   "frase": "Oggi abbiamo 4 milioni di italiani che rinunciano a curarsi",
+   "url": "https://pagellapolitica.it/fact-checking/italiani-rinuncia-cure-liste-attesa",
+   "fonte_originale": "https://www.azione.it/proposte-terzo-polo-sanita-industria4-0-salario-minimo/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-04-27",
+   "data_verifica": "2023-04-28",
+   "frase": "Il nuovo ruolo di Di Maio ce lo aveva Tony Blair",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-di-maio-inviato-golfo-blair",
+   "fonte_originale": "https://twitter.com/CarloCalenda/status/1651554126621294592",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2023-07-02",
+   "data_verifica": "2023-07-03",
+   "frase": "Siamo l’unico Paese del G7 che non ha il salario minimo",
+   "url": "https://pagellapolitica.it/fact-checking/italia-g7-salario-minimo",
+   "fonte_originale": "https://www.repubblica.it/politica/2023/07/02/news/calenda_terzo_polo_salario_minimo-406347782/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-07-20",
+   "data_verifica": "2023-07-20",
+   "frase": "Il salario minimo ce l’hanno tutti i Paesi dell’Ocse",
+   "url": "https://pagellapolitica.it/fact-checking/salario-minimo-paesi-ocse",
+   "fonte_originale": "https://www.corriere.it/politica/23_luglio_19/salario-minimo-calenda-ma-quale-misura-urss-ce-l-hanno-francia-usa-4736d41a-2669-11ee-8645-4a254f4192ac.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-10-08",
+   "data_verifica": "2023-10-10",
+   "frase": "Il Superbonus ci è costato 150 miliardi di euro",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-superbonus-costi",
+   "fonte_originale": "https://www.facebook.com/100044633850227/posts/868890677942053",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-03-19",
+   "data_verifica": "2024-03-21",
+   "frase": "La Basilicata produce il 70 per cento del petrolio italiano, il 14 per cento del gas",
+   "url": "https://pagellapolitica.it/fact-checking/basilicata-produzione-gas-petrolio",
+   "fonte_originale": "https://www.facebook.com/ccalenda/videos/255227300994962/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-05-20",
+   "data_verifica": "2024-05-21",
+   "frase": "Nel Parlamento europeo oggi l’Italia è venticinquesima su ventisette Paesi per influenza, eppure siamo il terzo Paese più grande e più potente in termini economici",
+   "url": "https://pagellapolitica.it/fact-checking/classifica-influenza-parlamentari-europei",
+   "fonte_originale": "https://youtu.be/rNUAjxSQKxE?si=jxEVtisKODgmV4DP&t=82",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-08-29",
+   "data_verifica": "2024-08-29",
+   "frase": "Siamo un Paese vecchio, dove in metà delle regioni i pensionati superano i lavoratori",
+   "url": "https://pagellapolitica.it/fact-checking/numero-pensionati-lavoratori-regioni",
+   "fonte_originale": "https://x.com/CarloCalenda/status/1829075277634269567",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2024-10-10",
+   "data_verifica": "2024-10-11",
+   "frase": "Con tutte le coalizioni di centrodestra la pressione fiscale è aumentata",
+   "url": "https://pagellapolitica.it/fact-checking/andamento-pressione-fiscale-governi-centrodestra",
+   "fonte_originale": "https://www.facebook.com/watch/?v=1570434363558417",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2025-02-09",
+   "data_verifica": "2025-02-11",
+   "frase": "Secondo i sondaggi, più della metà della popolazione è favorevole [al nucleare]",
+   "url": "https://pagellapolitica.it/fact-checking/calenda-italiani-favorevoli-nucleare",
+   "fonte_originale": "https://www.facebook.com/photo.php?fbid=1164035535094231&set=pb.100044633850227.-2207520000&type=3",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2026-04-14",
+   "data_verifica": "2026-04-27",
+   "frase": "A eccezione degli Stati Uniti, nei prossimi venticinque anni il numero delle persone in età da lavoro diminuirà in tutte le grandi potenze, con un crollo particolarmente drammatico in Cina (-250 milioni di lavoratori). Da questo scenario si distacca solo l’Africa che nel 2100 arriverà a 3,8 miliardi di persone",
+   "url": "https://pagellapolitica.it/fact-checking/a-eccezione-degli-stati-uniti-nei-prossimi-venticinque-anni-il-numero-delle-persone-in-eta-da-lavoro-diminuira-in-tutte-le-grandi-potenze-con-un-crollo-particolarmente-drammatico-in-cina-250-milio",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  }
+ ],
+ "camera": [],
+ "governo": [],
+ "senato": [
+  {
+   "data": "2022-12-29",
+   "seduta": 24,
+   "ddl": [
+    {
+     "fase": "S.442",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2023 e bilancio pluriennale per il triennio 2023-2025",
+     "url": "https://dati.senato.it/ddl/56372.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-12-29:24"
+  },
+  {
+   "data": "2023-01-11",
+   "seduta": 27,
+   "ddl": [
+    {
+     "fase": "S.389",
+     "titolo": "Conversione in legge del decreto-legge 2 dicembre 2022, n. 185, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle Autorità governative dell'Ucraina",
+     "url": "https://dati.senato.it/ddl/56256.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-01-11:27"
+  },
+  {
+   "data": "2023-04-13",
+   "seduta": 56,
+   "ddl": [
+    {
+     "fase": "S.564",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 24 febbraio 2023, n. 13, recante disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e del Piano nazionale degli investimenti complementari al PNRR (PNC), nonché per l'attuazione delle politiche di coesione e della politica agricola comune. Disposizioni concernenti l'esercizio di deleghe legislative",
+     "url": "https://dati.senato.it/ddl/56683.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-04-13:56"
+  },
+  {
+   "data": "2024-01-24",
+   "seduta": 149,
+   "ddl": [
+    {
+     "fase": "S.974",
+     "titolo": "Conversione in legge del decreto-legge 21 dicembre 2023, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorità governative dell'Ucraina",
+     "url": "https://dati.senato.it/ddl/57822.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-01-24:149"
+  },
+  {
+   "data": "2024-05-16",
+   "seduta": 190,
+   "ddl": [
+    {
+     "fase": "S.1092",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 29 marzo 2024, n. 39, recante misure urgenti in materia di agevolazioni fiscali di cui agli articoli 119 e 119-ter del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, altre misure urgenti in materia fiscale e connesse a eventi eccezionali, nonché relative all'amministrazione finanziaria",
+     "url": "https://dati.senato.it/ddl/58131.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-05-16:190"
+  },
+  {
+   "data": "2024-06-18",
+   "seduta": 199,
+   "ddl": [
+    {
+     "fase": "S.830",
+     "titolo": "Disposizioni per l'introduzione dell'elezione diretta del Presidente del Consiglio dei ministri in Costituzione",
+     "url": "https://dati.senato.it/ddl/57385.html"
+    },
+    {
+     "fase": "S.935",
+     "titolo": "Modifiche alla parte seconda della Costituzione per l'elezione diretta del Presidente del Consiglio dei ministri, il rafforzamento della stabilità del Governo e l'abolizione della nomina dei senatori a vita da parte del Presidente della Repubblica",
+     "url": "https://dati.senato.it/ddl/57694.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-06-18:199"
+  },
+  {
+   "data": "2024-07-17",
+   "seduta": 208,
+   "ddl": [
+    {
+     "fase": "S.1161",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2024, n. 73, recante misure urgenti per la riduzione dei tempi delle liste di attesa delle prestazioni sanitarie",
+     "url": "https://dati.senato.it/ddl/58302.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-07-17:208"
+  },
+  {
+   "data": "2024-12-28",
+   "seduta": 258,
+   "ddl": [
+    {
+     "fase": "S.1330",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027",
+     "url": "https://dati.senato.it/ddl/58757.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-12-28:258"
+  },
+  {
+   "data": "2025-06-04",
+   "seduta": 312,
+   "ddl": [
+    {
+     "fase": "S.1509",
+     "titolo": "Conversione in legge del decreto-legge 11 aprile 2025, n. 48, recante disposizioni urgenti in materia di sicurezza pubblica, di tutela del personale in servizio, nonché di vittime dell'usura e di ordinamento penitenziario",
+     "url": "https://dati.senato.it/ddl/59201.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-06-04:312"
+  },
+  {
+   "data": "2025-07-22",
+   "seduta": 331,
+   "ddl": [
+    {
+     "fase": "S.1353",
+     "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+     "url": "https://dati.senato.it/ddl/58803.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-07-22:331"
+  },
+  {
+   "data": "2025-10-28",
+   "seduta": 359,
+   "ddl": [
+    {
+     "fase": "S.1353-B",
+     "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+     "url": "https://dati.senato.it/ddl/59541.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-10-28:359"
+  },
+  {
+   "data": "2025-12-23",
+   "seduta": 375,
+   "ddl": [
+    {
+     "fase": "S.1689",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028",
+     "url": "https://dati.senato.it/ddl/59654.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-12-23:375"
+  },
+  {
+   "data": "2026-09-15",
+   "seduta": 454,
+   "ddl": [
+    {
+     "fase": "S.61",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+     "url": "https://dati.senato.it/ddl/55212.html"
+    },
+    {
+     "fase": "S.1822",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/59945.html"
+    },
+    {
+     "fase": "S.1971",
+     "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/60317.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2026-09-15:454"
+  },
+  {
+   "data": "2026-09-23",
+   "seduta": 458,
+   "ddl": [
+    {
+     "fase": "S.1924",
+     "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
+     "url": "https://dati.senato.it/ddl/60187.html"
+    },
+    {
+     "fase": "S.1132",
+     "titolo": "Disposizioni per la costruzione di nuovi impianti di produzione di energia nucleare",
+     "url": "https://dati.senato.it/ddl/58214.html"
+    },
+    {
+     "fase": "S.1365",
+     "titolo": "Il nucleare nel mix elettrico nazionale ora",
+     "url": "https://dati.senato.it/ddl/58836.html"
+    },
+    {
+     "fase": "S.2036",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
+     "url": "https://dati.senato.it/ddl/60460.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2026-09-23:458"
+  }
+ ]
+}

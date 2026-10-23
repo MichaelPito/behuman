@@ -14,8 +14,28 @@ fonti:
     licenza: CC BY 3.0 IT
   - nome: Governo italiano – governo.it
     url: https://www.governo.it/
-    uso: Comunicati e atti del Consiglio dei ministri (RSS)
+    uso: Comunicati e atti del Consiglio dei ministri (RSS e archivio), interventi della Presidente del Consiglio
     licenza: CC BY 3.0 IT (salvo diversa indicazione)
+  - nome: Camera dei Deputati – resoconti stenografici dell'Assemblea
+    url: https://www.camera.it/
+    uso: Testo degli interventi in Aula (estratto con link al punto esatto del resoconto)
+    licenza: CC BY-SA 4.0
+  - nome: Corte costituzionale – open data
+    url: https://dati.cortecostituzionale.it/
+    uso: Sentenze e ordinanze che citano le leggi della legislatura
+    licenza: CC BY-SA 3.0
+  - nome: Ministero della Giustizia – piattaforma per la raccolta delle firme
+    url: https://firmereferendum.giustizia.it/
+    uso: Firme online raccolte per referendum e leggi di iniziativa popolare
+    licenza: Dati pubblici
+  - nome: Ministero dell'Interno – Eligendo
+    url: https://elezioni.interno.gov.it/
+    uso: Risultati ufficiali dei referendum
+    licenza: Dati pubblici
+  - nome: Pagella Politica
+    url: https://pagellapolitica.it/
+    uso: Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio
+    licenza: "Contenuti © Pagella Politica, non ne riproduciamo i testi"
   - nome: Wikidata
     url: https://www.wikidata.org/
     uso: Anagrafica, cariche, appartenenza ai partiti, foto (da Wikimedia Commons)

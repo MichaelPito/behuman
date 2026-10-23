@@ -4,6 +4,7 @@ import { meta } from "../lib/data";
 const m = meta();
 ---
 <Base title="Fonti" description="Fonti dei dati, licenze e stato dell'ultimo aggiornamento.">
+  <section class="section prose-page">
   <h1>Fonti e licenze</h1>
   <div class="table-wrap">
     <table>
@@ -27,8 +28,9 @@ const m = meta();
   </ul>
   {m.errori.length > 0 && (
     <>
-      <p class="avviso">Alcune fonti non hanno risposto: per questi soggetti sono mostrati i dati dell'aggiornamento precedente.</p>
+      <p class="callout plum">Alcune fonti non hanno risposto: per questi soggetti sono mostrati i dati dell'aggiornamento precedente.</p>
       <ul class="small">{m.errori.map((e: any) => <li>{e.soggetto} · {e.fonte}: {e.errore}</li>)}</ul>
     </>
   )}
+  </section>
 </Base>

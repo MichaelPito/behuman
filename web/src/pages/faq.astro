@@ -1,0 +1,220 @@
+---
+import Base from "../layouts/Base.astro";
+import Icon from "../components/Icon.astro";
+import { mediane, meta } from "../lib/data";
+import { u } from "../lib/url";
+
+const m = meta();
+const med = mediane();
+const fmt = (n: number | null | undefined) => (n == null ? "n.d." : `${String(n).replace(".", ",")}%`);
+
+const BREVE: Record<string, string> = {
+  presenza: "Presenza al voto", mediana: "Mediana dell'Aula", fedelta: "Voti come il gruppo", cambi: "Cambi di posizione",
+  coerenza: "Coerenza", partito: "Posizione dei partiti", orientamento: "Orientamento", sesso: "Sesso", sintesi: "Sintesi",
+  dichiarazioni: "Dichiarazioni", virali: "Più discusse", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
+};
+type Q = { id: string; q: string; a: string[]; formula?: string; esempio?: string };
+const gruppi: { titolo: string; voci: Q[] }[] = [
+  {
+    titolo: "I numeri delle schede",
+    voci: [
+      {
+        id: "presenza",
+        q: "Come si calcola la «presenza al voto»?",
+        formula: "presenza = votazioni in cui ha votato ÷ votazioni del periodo in cui era in carica × 100",
+        a: [
+          "Contiamo tutte le votazioni elettroniche dell'Aula registrate da Camera e Senato negli ultimi 5 anni, solo per i mesi in cui la persona era in carica.",
+          "«Ha votato» vuol dire: favorevole, contrario, astenuto, oppure ha partecipato a un voto segreto. Al Senato contiamo anche chi presiede la seduta.",
+          "Al Senato le assenze «in congedo o missione» (incarichi istituzionali) sono contate a parte e mostrate in grigio nel grafico. La Camera non pubblica questa distinzione: un ministro in missione risulta semplicemente «non ha votato».",
+        ],
+        esempio: `Se un deputato ha votato in 8.327 votazioni su 21.956, la presenza è 37,9%.`,
+      },
+      {
+        id: "mediana",
+        q: "Cos'è la «mediana dell'Aula» con cui confrontate le presenze?",
+        a: [
+          "È il valore centrale: metà dei membri della stessa Camera, nello stesso periodo, ha una presenza più alta e metà più bassa. Escludiamo chi ha meno di 100 votazioni (per esempio chi è entrato da poco).",
+          `Oggi la mediana della Camera è ${fmt(med.Camera)}. Per il Senato il calcolo non è ancora disponibile: il servizio dati del Senato limita le richieste e stiamo lavorando a un metodo che lo rispetti.`,
+          "Non esiste una soglia «giusta»: chi ha un incarico di governo o guida un partito vota strutturalmente meno spesso. Per questo mostriamo sempre il ruolo accanto al numero.",
+        ],
+      },
+      {
+        id: "fedelta",
+        q: "Come si calcolano i «voti come il gruppo»?",
+        formula: "voti come il gruppo = voti uguali alla linea del gruppo ÷ (voti uguali + voti diversi) × 100",
+        a: [
+          "Guardiamo solo i voti finali sulle leggi e i voti di fiducia, cioè le votazioni più importanti.",
+          "La «linea del gruppo» è il voto più frequente tra i colleghi dello stesso gruppo parlamentare in quella votazione (favorevole, contrario o astenuto). Se c'è parità o nessuno ha votato, la linea non è determinabile e quella votazione non conta.",
+          "Le votazioni in cui la persona non ha votato non entrano nel calcolo. Nella scheda puoi vedere l'elenco dei voti diversi dal gruppo, anno per anno.",
+        ],
+      },
+      {
+        id: "cambi",
+        q: "Quando registrate un «cambio di posizione»?",
+        a: [
+          "Partiamo da una proposizione scritta in modo neutro, su cui si può essere a favore o contro (per esempio «Autorizzare la cessione di mezzi militari all'Ucraina»).",
+          "A ogni proposizione colleghiamo voti finali in Aula il cui oggetto principale coincide con essa, e dichiarazioni testuali verificate.",
+          "Un cambio è registrato in modo automatico quando due prese di posizione consecutive della stessa persona (o dello stesso partito) sono una a favore e una contro. Le astensioni compaiono nella cronologia ma non creano un cambio.",
+          "Non diciamo se il cambio sia giusto o sbagliato, né perché sia avvenuto: cambiare idea può essere legittimo.",
+        ],
+      },
+      {
+        id: "coerenza",
+        q: "Come funziona l'indicatore di coerenza?",
+        formula: "coerenza = temi senza cambi di posizione / temi confrontabili",
+        a: [
+          "Un tema è «confrontabile» quando ci sono almeno due prese di posizione nette (a favore o contro) nel periodo.",
+          "L'arco ha un segmento per tema confrontabile: petrolio se non ci sono stati cambi, prugna se c'è stato almeno un cambio.",
+          "Se i temi confrontabili sono zero mostriamo «dati insufficienti» invece di un numero: con pochi dati un punteggio sarebbe fuorviante.",
+          "Non combiniamo coerenza, presenze e fedeltà in un unico voto: qualunque peso daremmo a ciascuno sarebbe una scelta soggettiva.",
+        ],
+      },
+      {
+        id: "partito",
+        q: "Come si stabilisce la posizione di un partito?",
+        a: [
+          "Per ogni voto collegato a un tema prendiamo il voto più frequente del suo gruppo parlamentare, e mostriamo sempre i conteggi completi (es. «Favorevole 102, Contrario 2, Non ha votato 49»).",
+          "Quando due partiti hanno avuto un gruppo comune (Azione e Italia Viva fino a novembre 2023), il voto del gruppo comune vale per entrambi, e lo segnaliamo.",
+        ],
+      },
+    ],
+  },
+  {
+    titolo: "Orientamento, sesso, sintesi",
+    voci: [
+      {
+        id: "orientamento",
+        q: "Come assegnate l'orientamento sinistra, centro o destra?",
+        formula: "lrgen < 4 → sinistra · 4 ≤ lrgen ≤ 6 → centro · lrgen > 6 → destra",
+        a: [
+          "Non lo decidiamo noi. Usiamo il Chapel Hill Expert Survey (CHES), un'indagine accademica in cui centinaia di esperti valutano i partiti europei su scale fisse. La misura «lrgen» va da 0 (estrema sinistra) a 10 (estrema destra).",
+          "Prendiamo l'ondata più recente (2024) e dividiamo la scala in tre fasce simmetriche attorno al centro (5). Per un partito con più componenti misurate separatamente (AVS: Sinistra Italiana ed Europa Verde) usiamo la media.",
+          "L'orientamento di un politico è quello del suo partito. Italia Viva e Noi Moderati non sono misurati dal CHES 2024: compaiono come «non misurato». Gli indipendenti non hanno orientamento.",
+          "Nella pagina di ogni partito trovi i valori numerici e il confronto con l'ondata precedente (2019).",
+        ],
+      },
+      {
+        id: "sesso",
+        q: "Da dove viene il dato sul sesso?",
+        a: ["Da Wikidata (proprietà «sesso o genere»), una base dati pubblica e collaborativa. Se trovi un errore puoi correggerlo direttamente su Wikidata."],
+      },
+      {
+        id: "sintesi",
+        q: "Chi scrive la «sintesi» in cima alle schede?",
+        a: [
+          "Nessuno la scrive a mano e non la genera un'intelligenza artificiale. È composta da frasi fisse riempite con i numeri della scheda (presenze, fedeltà, cambi, incarichi).",
+          "Così la sintesi è sempre coerente con i dati e non contiene aggettivi o interpretazioni. Ogni frase rimanda a una sezione della pagina dove trovi le fonti.",
+        ],
+      },
+    ],
+  },
+  {
+    titolo: "Dichiarazioni, governo e opinione pubblica",
+    voci: [
+      {
+        id: "dichiarazioni",
+        q: "Da dove vengono le dichiarazioni?",
+        a: [
+          "Interventi nell'Aula della Camera: dai resoconti stenografici ufficiali, parola per parola. Mostriamo l'inizio di ogni intervento (circa 400 caratteri) con il link al punto esatto del resoconto. Chi presiede la seduta non è contato.",
+          "Interventi nell'Aula del Senato: data, seduta e disegni di legge discussi, da dati.senato.it. Il testo non c'è perché il sito del Senato non ne permette il download automatico.",
+          "Palazzo Chigi: interventi della Presidente del Consiglio pubblicati su governo.it (licenza CC BY 3.0 IT), dall'inizio del Governo in carica.",
+          "Le dichiarazioni che usiamo per le posizioni sui temi sono diverse: citazioni testuali con fonte primaria e copia d'archivio, verificate da due persone prima della pubblicazione.",
+          "Il recap di ogni politico è fatto solo di conteggi (quanti interventi, dove, in quali anni, in quali occasioni). L'«occasione» alla Camera è il tipo di dibattito scritto nel resoconto: question time, mozioni, leggi in esame, informative del Governo e così via.",
+        ],
+      },
+      {
+        id: "virali",
+        q: "Come scegliete le dichiarazioni «più discusse»?",
+        a: [
+          "Visualizzazioni e condivisioni sui social non sono accessibili in modo libero e verificabile, e premiano chi ha più follower. Per questo non usiamo «mi piace» né visualizzazioni.",
+          "Usiamo un segnale pubblico e controllabile: una dichiarazione è «discussa» quando Pagella Politica, fact-checker indipendente, l'ha scelta per una verifica. Lo fa per le frasi che circolano di più nel dibattito pubblico.",
+          "Riportiamo la frase del politico, la data, dove l'ha detta e i link alla fonte originale e alla verifica. Non riportiamo il giudizio del fact-checker (vero, falso…): resta sul loro sito, a un clic.",
+          "Se la fonte originale è un resoconto della Camera che abbiamo, mostriamo anche il passaggio ufficiale.",
+        ],
+      },
+      {
+        id: "governo",
+        q: "Come costruite la pagina «Governo»?",
+        a: [
+          "L'elenco delle leggi viene dagli open data di Senato e Camera: numero, data, titolo ufficiale, tipo di atto, chi l'ha proposta, letture tra le Camere, voti finali e voti di fiducia (separati), Gazzetta Ufficiale e collegamento a Normattiva.",
+          "«Proposta dal Governo in carica» vuol dire iniziativa governativa e, per i decreti-legge, adottati dopo l'insediamento del Governo. Le riforme costituzionali sono mostrate anche se non sono entrate in vigore.",
+          "«In pratica» è un testo a modello fisso: spiega che tipo di atto è (decreto-legge, legge delega, ratifica…) e riporta date, durata dell'iter, eventuali fiducie ed esito dell'ultimo voto. Lo genera il programma dai dati, non contiene giudizi.",
+          "«Come lo descrive il Governo» è un estratto del comunicato del Consiglio dei ministri sul testo iniziale, collegato alla legge per somiglianza del titolo e vicinanza delle date. È etichettato come presentazione del Governo.",
+          "Per l'opinione pubblica usiamo solo atti ufficiali e misurabili: risultati dei referendum (Ministero dell'Interno), raccolte firme sulla piattaforma pubblica del Ministero della Giustizia (solo firme online) e pronunce della Corte costituzionale che citano la legge. Non usiamo sondaggi né commenti sui social: i sondaggi cambiano con domanda e campione, i social non rappresentano la popolazione.",
+        ],
+      },
+    ],
+  },
+  {
+    titolo: "Fonti e aggiornamenti",
+    voci: [
+      {
+        id: "aggiornamento",
+        q: "Ogni quanto si aggiornano i dati?",
+        a: [
+          "Ogni giorno alle 6:17 (ora italiana in estate). Camera e Senato pubblicano i voti con qualche giorno di ritardo rispetto alla seduta.",
+          `Il periodo coperto è sempre «gli ultimi ${m.finestra.anni} anni», ricalcolato ogni giorno: oggi dal ${m.finestra.dal}. Per chi lascia la politica (ritiro o decesso) i dati si fermano alla data di fine attività.`,
+          "Se una fonte non risponde, per quel giorno restano i dati precedenti e l'errore compare nella pagina Fonti.",
+        ],
+      },
+      {
+        id: "errori",
+        q: "Ho trovato un errore. Cosa faccio?",
+        a: [
+          "Usa il modulo «Segnala un errore» su GitHub con il link alla fonte che lo dimostra. Rispondiamo in pubblico e correggiamo entro 72 ore. Anche i diretti interessati possono usarlo per il diritto di replica.",
+          "Ogni modifica ai dati resta visibile nella cronologia pubblica del repository.",
+        ],
+      },
+    ],
+  },
+];
+---
+<Base title="FAQ" description="Come sono calcolati tutti i numeri del sito: presenze, mediana, fedeltà al gruppo, cambi di posizione, coerenza, orientamento.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Domande frequenti</span>
+      <h1>Come calcoliamo i numeri</h1>
+      <p class="muted prose">Ogni indicatore è un rapporto tra conteggi presi da fonti ufficiali, con regole scritte prima di guardare i dati e uguali per tutti. Qui trovi formule, eccezioni e limiti.</p>
+    </div>
+    <nav class="row indice" aria-label="Argomenti">
+      {gruppi.flatMap((g) => g.voci).map((v) => <a class="chip" href={`#${v.id}`}>{BREVE[v.id] ?? v.id}</a>)}
+    </nav>
+  </section>
+
+  {gruppi.map((g) => (
+    <section class="section">
+      <h2>{g.titolo}</h2>
+      <div>
+        {g.voci.map((v) => (
+          <details class="disc" id={v.id}>
+            <summary><span>{v.q}</span><Icon name="chev" class="chev" /></summary>
+            <div class="body prose">
+              {v.formula && <p class="formula mono">{v.formula}</p>}
+              {v.a.map((t) => <p>{t}</p>)}
+              {v.esempio && <p class="callout">{v.esempio}</p>}
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <p class="small muted" style="margin-top:28px">Le regole complete sono nel <a href={u("/metodologia/")}>metodo</a>; le licenze delle fonti in <a href={u("/fonti/")}>Fonti</a>.</p>
+</Base>
+
+<style>
+  .indice { gap: 6px; }
+  .indice .chip { height: 32px; font-size: 0.85rem; }
+  .formula { background: var(--surface-2); border-radius: var(--r-s); padding: 10px 12px; font-size: 0.88rem; overflow-x: auto; }
+</style>
+
+<script>
+  // apre la domanda richiamata dall'ancora (es. /faq/#orientamento)
+  function apri() {
+    const id = location.hash.slice(1);
+    const d = id ? document.getElementById(id) : null;
+    if (d instanceof HTMLDetailsElement) { d.open = true; d.scrollIntoView({ block: "start" }); }
+  }
+  document.addEventListener("astro:page-load", apri);
+  addEventListener("hashchange", apri);
+</script>

@@ -1,61 +1,173 @@
 ---
 import Base from "../layouts/Base.astro";
-import PersonaCard from "../components/PersonaCard.astro";
-import { politici, partiti, aggiornamenti, dataIt, meta, perCognome } from "../lib/data";
+import Emiciclo from "../components/Emiciclo.astro";
+import Icon from "../components/Icon.astro";
+import Discussa from "../components/Discussa.astro";
+import { aggiornamenti, dataIt, ETICHETTA_POSIZIONE, governo as datiGoverno, indiceDichiarazioni, slugLegge, iniziali, meta, partiti, perCognome, politici, proposizioniIndice, tuttiICambi, ultimoVotoFinale } from "../lib/data";
 import { u } from "../lib/url";
 
 const tutti = politici().sort(perCognome);
 const governo = tutti.filter((p) => p.schieramento === "governo");
 const opposizione = tutti.filter((p) => p.schieramento === "opposizione");
-const ultimi = aggiornamenti().slice(0, 6);
+const ultimi = aggiornamenti().slice(0, 5);
+const voto = ultimoVotoFinale("Camera");
+const cambi = tuttiICambi().slice(0, 4);
+const props = proposizioniIndice();
 const m = meta();
+const gov = datiGoverno();
+const ultimeLeggi = [...(gov?.leggi ?? [])].filter((l) => l.del_governo).sort((a, b) => b.data.localeCompare(a.data)).slice(0, 4);
+const discusse = indiceDichiarazioni().discusse.slice(0, 3);
+const scorciatoie: [string, string][] = [
+  ["?orientamento=sinistra", "Sinistra"],
+  ["?orientamento=centro", "Centro"],
+  ["?orientamento=destra", "Destra"],
+  ["?sesso=F", "Donne"],
+  ["?schieramento=governo", "Maggioranza"],
+  ["?schieramento=opposizione", "Opposizione"],
+];
 ---
 <Base title="Memoria Politica">
   <section class="hero">
-    <h1>Chi stai votando, e quanto è stato coerente?</h1>
-    <p class="muted">
-      Voti in Parlamento, presenze, cambi di gruppo e posizioni prese negli ultimi {m.finestra.anni} anni dai principali
-      esponenti di governo e opposizione. Ogni dato ha una fonte ufficiale cliccabile. Noi non diamo giudizi: mettiamo
-      in fila i fatti, tu tiri le conclusioni.
-    </p>
-    <input class="search" type="search" placeholder="Cerca un politico o un partito…" aria-label="Cerca" id="cerca" />
+    <div class="stack" style="gap:20px">
+      <span class="eyebrow rise">Archivio aperto · ultimi {m.finestra.anni} anni</span>
+      <h1 class="rise" style="--i:1">Chi stai votando, e quanto è stato coerente?</h1>
+      <p class="lede rise" style="--i:2">
+        Voti in Parlamento, presenze e cambi di posizione dei principali esponenti di maggioranza e opposizione. Ogni numero porta alla
+        sua fonte ufficiale. Non diamo giudizi: mettiamo in fila i fatti.
+      </p>
+      <div class="row rise" style="--i:3">
+        <button class="btn" type="button" data-open-search><Icon name="search" />Cerca un politico</button>
+        <a class="btn ghost" href={u("/politici/")}>Esplora tutti<Icon name="arrow" class="arrow" /></a>
+      </div>
+      <div class="row rise" style="--i:4; gap:6px">
+        <span class="small muted" style="margin-right:4px">Filtri rapidi:</span>
+        {scorciatoie.map(([q, l]) => <a class="chip" href={u(`/politici/${q}`)}>{l}</a>)}
+      </div>
+    </div>
+    {voto && voto.esito && (
+      <a class="card link stack rise" style="--i:2; padding:20px" href={voto.url ?? u("/politici/")} target={voto.url ? "_blank" : undefined} rel="noopener">
+        <span class="eyebrow">Ultimo voto finale alla Camera · {dataIt(voto.data)}</span>
+        <Emiciclo favorevoli={voto.esito.favorevoli} contrari={voto.esito.contrari} astenuti={voto.esito.astenuti} seggi={400} etichetta="Ultimo voto finale alla Camera" />
+        <p class="small"><strong>{voto.atto}</strong> {voto.titolo ?? voto.descrizione}</p>
+        <span class="tiny muted">{voto.approvato ? "Approvato" : "Respinto"} · fonte: Camera dei Deputati <Icon name="ext" class="i-ext" /></span>
+      </a>
+    )}
   </section>
 
-  <div class="grid two" style="margin-top:24px">
-    <section>
-      <h2>Maggioranza di governo</h2>
-      <div class="grid" id="lista-governo">{governo.map((p) => <PersonaCard p={p} />)}</div>
+  {cambi.length > 0 && (
+    <section class="section">
+      <div class="section-head">
+        <h2>Cambi di posizione documentati</h2>
+        <a href={u("/temi/")} class="small">Tutti i temi →</a>
+      </div>
+      <div class="grid two">
+        {cambi.map((x, i) => (
+          <a class="card link stack rise" style={`--i:${i}`} href={u(`/${x.tipo === "politico" ? "politici" : "partiti"}/${x.slug}/`)}>
+            <div class="row" style="justify-content:space-between">
+              <strong>{x.soggetto}</strong>
+              <span class="pill">{props[x.c.proposizione]?.temaNome}</span>
+            </div>
+            <p class="small muted">«{props[x.c.proposizione]?.testo}»</p>
+            <div class="row small">
+              <span class={`pos ${x.c.prima.posizione}`}>{ETICHETTA_POSIZIONE[x.c.prima.posizione]}</span>
+              <span class="muted mono tiny">{dataIt(x.c.prima.data)}</span>
+              <Icon name="arrow" class="i-arrow" />
+              <span class={`pos ${x.c.dopo.posizione}`}>{ETICHETTA_POSIZIONE[x.c.dopo.posizione]}</span>
+              <span class="muted mono tiny">{dataIt(x.c.dopo.data)}</span>
+            </div>
+          </a>
+        ))}
+      </div>
     </section>
-    <section>
-      <h2>Opposizione</h2>
-      <div class="grid" id="lista-opposizione">{opposizione.map((p) => <PersonaCard p={p} />)}</div>
+  )}
+
+  <section class="section">
+    <div class="section-head">
+      <h2>Maggioranza e opposizione</h2>
+      <a href={u("/politici/")} class="small">Confronta con i filtri →</a>
+    </div>
+    <div class="grid two">
+      {[["Maggioranza di governo", governo, "accent"], ["Opposizione", opposizione, "plum"]].map(([titolo, lista, tono]) => (
+        <div class="card stack">
+          <div class="row" style="justify-content:space-between"><h3>{titolo as string}</h3><span class={`pill ${tono}`}>{(lista as any[]).length}</span></div>
+          <ul class="volti">
+            {(lista as typeof tutti).map((p) => (
+              <li>
+                <a href={u(`/politici/${p.slug}/`)} title={`${p.nome} · ${p.ruolo}`}>
+                  {p.foto ? <img class="avatar" src={p.foto} data-nome={p.nome} alt="" loading="lazy" transition:name={`foto-${p.slug}`} /> : <span class="avatar ph">{iniziali(p.nome)}</span>}
+                  <span class="nome">{p.nome.split(" ").slice(-1)[0]}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  {gov && (
+    <section class="section">
+      <div class="section-head"><h2>Cosa ha cambiato il Governo</h2><a href={u("/governo/")} class="small">Tutte le leggi e le riforme →</a></div>
+      <div class="grid due">
+        <div class="stats">
+          <div class="stat"><span class="v">{gov.statistiche.del_governo}</span><span class="l">leggi proposte dal Governo in carica</span></div>
+          <div class="stat"><span class="v">{gov.statistiche.decreti_convertiti}</span><span class="l">decreti-legge convertiti</span></div>
+          <div class="stat"><span class="v">{gov.statistiche.voti_fiducia}</span><span class="l">voti di fiducia sulle leggi del Governo</span></div>
+        </div>
+        <ul class="news">
+          {ultimeLeggi.map((l) => (
+            <li><span class="mono tiny muted">{dataIt(l.data)}</span><a href={u(`/governo/${slugLegge(l)}/`)}>{l.in_pratica.argomento}</a><span class="tiny muted">{l.tipo}</span></li>
+          ))}
+        </ul>
+      </div>
     </section>
-  </div>
+  )}
 
-  <h2>Partiti</h2>
-  <div class="grid cards">
-    {partiti().sort((a, b) => a.nome.localeCompare(b.nome, "it")).map((p) => (
-      <a class="card" href={u(`/partiti/${p.slug}/`)} data-cerca={`${p.nome} ${p.sigla}`.toLowerCase()}>
-        <h3>{p.nome}</h3>
-        <div class="small muted">{p.schieramento === "governo" ? "Maggioranza di governo" : p.schieramento === "opposizione" ? "Opposizione" : "Altro"} · {p.coerenza.cambi_totali} cambi documentati</div>
-      </a>
-    ))}
-  </div>
+  {discusse.length > 0 && (
+    <section class="section">
+      <div class="section-head"><h2>Le dichiarazioni più discusse</h2><a href={u("/dichiarazioni/")} class="small">Tutte le dichiarazioni →</a></div>
+      <div class="grid three">{discusse.map((d) => <Discussa v={d} nome={d.nome} slug={d.slug} />)}</div>
+    </section>
+  )}
 
-  <h2>Ultimi atti e annunci ufficiali</h2>
-  {ultimi.length === 0 && <p class="muted">Nessun aggiornamento ancora raccolto.</p>}
-  <ul>
-    {ultimi.map((a) => <li><span class="small muted">{dataIt(a.data)} · {a.fonte}</span> — <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a></li>)}
-  </ul>
-  <p><a href={u("/aggiornamenti/")}>Tutti gli aggiornamenti →</a></p>
+  <section class="section">
+    <div class="section-head"><h2>Partiti</h2><a href={u("/partiti/")} class="small">Tutti i partiti →</a></div>
+    <div class="grid three">
+      {partiti().sort((a, b) => a.nome.localeCompare(b.nome, "it")).map((p, i) => (
+        <a class="card link rise" style={`--i:${i}`} href={u(`/partiti/${p.slug}/`)}>
+          <div class="row" style="justify-content:space-between"><strong>{p.nome}</strong><span class="pill">{p.sigla}</span></div>
+          <div class="small muted" style="margin-top:6px">
+            {p.schieramento === "governo" ? "Maggioranza" : "Opposizione"}
+            {p.orientamento?.etichetta && <> · {p.orientamento.etichetta}</>}
+            · {p.coerenza.cambi_totali} {p.coerenza.cambi_totali === 1 ? "cambio" : "cambi"} documentati
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
 
-  <script>
-    const input = document.getElementById("cerca") as HTMLInputElement | null;
-    input?.addEventListener("input", () => {
-      const q = input.value.trim().toLowerCase();
-      document.querySelectorAll<HTMLElement>("[data-cerca]").forEach((el) => {
-        el.style.display = !q || (el.dataset.cerca || "").includes(q) ? "" : "none";
-      });
-    });
-  </script>
+  <section class="section">
+    <div class="section-head"><h2>Ultimi atti e comunicati ufficiali</h2><a href={u("/aggiornamenti/")} class="small">Tutti →</a></div>
+    <ul class="news">
+      {ultimi.map((a) => (
+        <li>
+          <span class="mono tiny muted">{dataIt(a.data)}</span>
+          <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a>
+          <span class="tiny muted">{a.fonte}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
 </Base>
+
+<style>
+  .grid.due { grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); align-items: start; }
+  .volti { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: 10px; }
+  .volti a { display: grid; justify-items: center; gap: 6px; text-decoration: none; color: var(--ink); font-size: 0.82rem; font-weight: 600; text-align: center; }
+  .volti .avatar { width: 56px; height: 56px; border-radius: 16px; transition: transform 0.35s var(--spring), border-radius 0.35s var(--ease), box-shadow 0.3s; }
+  .volti a:hover .avatar { transform: translateY(-3px) scale(1.06); border-radius: 50%; box-shadow: var(--shadow-lift); }
+  .volti .nome { line-height: 1.2; }
+  .news { list-style: none; margin: 0; padding: 0; display: grid; }
+  .news li { display: grid; grid-template-columns: 110px 1fr auto; gap: 14px; align-items: baseline; padding: 12px 0; border-bottom: 1px solid var(--line); }
+  @media (max-width: 640px) { .news li { grid-template-columns: 1fr; gap: 2px; } }
+</style>

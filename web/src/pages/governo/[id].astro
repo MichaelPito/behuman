@@ -1,0 +1,194 @@
+---
+import Base from "../../layouts/Base.astro";
+import Icon from "../../components/Icon.astro";
+import { dataIt, governo, numeroLegge, slugLegge, statoIter } from "../../lib/data";
+import { u } from "../../lib/url";
+
+export function getStaticPaths() {
+  return (governo()?.leggi ?? []).map((l) => ({ params: { id: slugLegge(l) } }));
+}
+const g = governo()!;
+const l = g.leggi.find((x) => slugLegge(x) === Astro.params.id)!;
+
+// Percorso unico in ordine cronologico: presentazione, voti, approvazioni.
+type Passo = { data: string; titolo: string; dett?: string; url?: string | null; tipo?: string; voto?: (typeof l.voti)[number] };
+const passi: Passo[] = [
+  ...(l.decreto_legge_del ? [{ data: l.decreto_legge_del, titolo: "Il Governo adotta il decreto-legge", dett: "Le regole si applicano dalla pubblicazione in Gazzetta Ufficiale", tipo: "partito" }] : []),
+  ...l.iter.map((f) => ({ data: f.presentato, titolo: `${f.ramo}: presentato come ${f.fase}`, dett: `Stato: ${statoIter(f.stato)} il ${dataIt(f.data_stato)}`, url: f.url })),
+  ...l.voti.map((v) => ({
+    data: v.data,
+    titolo: `${v.camera}: ${v.tipo === "fiducia" ? "voto di fiducia" : "voto finale"} su ${v.fase}`,
+    voto: v,
+    url: v.fonte.replace("http://", "https://"),
+    tipo: v.tipo === "fiducia" ? "partito" : "gruppo",
+  })),
+  { data: l.data, titolo: `Diventa la ${numeroLegge(l).replace(/^L/, "l")}`, dett: l.gazzetta ?? undefined, url: l.normattiva, tipo: undefined },
+].sort((a, b) => a.data.localeCompare(b.data));
+const r = l.reazioni;
+const nulla = !r.corte.length && !r.firme.length && !r.referendum.length;
+const idx = g.leggi.findIndex((x) => x.id === l.id);
+const prec = g.leggi[idx - 1];
+const succ = g.leggi[idx + 1];
+---
+<Base title={`${numeroLegge(l)}`} description={`${l.in_pratica.argomento}. Testo ufficiale, spiegazione pratica, voti in Parlamento e reazioni di cittadini e istituzioni.`}>
+  <nav class="small muted briciole" aria-label="Percorso"><a href={u("/governo/")}>Governo</a> / <a href={u("/governo/#leggi")}>Leggi</a></nav>
+  <section class="section testa">
+    <div class="stack" style="gap:12px">
+      <div class="row" style="gap:6px">
+        <span class="pill">{l.tipo[0].toUpperCase() + l.tipo.slice(1)}</span>
+        {l.del_governo && <span class="pill accent">Proposta dal Governo in carica</span>}
+        {l.voti.some((v) => v.tipo === "fiducia") && <span class="pill plum">Approvata con voto di fiducia</span>}
+      </div>
+      <h1>{l.in_pratica.argomento}</h1>
+      <p class="lede mono">{numeroLegge(l)}</p>
+    </div>
+  </section>
+
+  <section class="section duo">
+    <article class="card stack pratica">
+      <span class="eyebrow"><Icon name="info" class="tiny" /> In pratica</span>
+      <p>{l.in_pratica.cosa_e}</p>
+      <ul class="fatti">{l.in_pratica.fatti.map((f) => <li>{f}</li>)}</ul>
+      <p class="tiny muted">Spiegazione composta automaticamente dal tipo di atto, dalle date e dai voti ufficiali: nessuna valutazione. <a href={u("/faq/#governo")}>Come funziona</a></p>
+    </article>
+    <article class="card stack gov">
+      <span class="eyebrow"><Icon name="bank" class="tiny" /> Come lo descrive il Governo</span>
+      {l.descrizione_governo ? (
+        <>
+          <blockquote>{l.descrizione_governo.testo}</blockquote>
+          <p class="tiny muted">
+            Comunicato del Consiglio dei ministri{l.descrizione_governo.data && ` del ${dataIt(l.descrizione_governo.data)}`}, sul testo iniziale (prima delle modifiche del Parlamento).
+            È la presentazione del Governo, non un giudizio nostro. <a href={l.descrizione_governo.url} target="_blank" rel="noopener">Comunicato completo <Icon name="ext" class="tiny" /></a>
+          </p>
+        </>
+      ) : (
+        <p class="muted small">{l.del_governo ? "Non abbiamo trovato con certezza il comunicato del Consiglio dei ministri che presenta questo provvedimento." : "Non è un'iniziativa del Governo in carica: nessun comunicato del Consiglio dei ministri."}</p>
+      )}
+    </article>
+  </section>
+
+  <section class="section" id="testo">
+    <h2>Dati ufficiali</h2>
+    <div class="card ufficiale">
+      <span class="eyebrow">Titolo ufficiale</span>
+      <p class="titolo-giuridico">{l.titolo}</p>
+      <dl class="dati">
+        <div><dt>Estremi</dt><dd>{numeroLegge(l)}</dd></div>
+        {l.gazzetta && <div><dt>Pubblicazione</dt><dd>{l.gazzetta}</dd></div>}
+        {l.decreto_legge_del && <div><dt>Decreto-legge originario</dt><dd>{dataIt(l.decreto_legge_del)}</dd></div>}
+        <div><dt>Iniziativa</dt><dd>{l.iniziativa ?? "—"}{l.presentata_da.length > 0 && ` · ${l.presentata_da.join(", ")}`}</dd></div>
+        <div><dt>Letture</dt><dd>{l.iter.map((f) => f.fase).join(" → ")}</dd></div>
+      </dl>
+      <div class="row" style="gap:8px">
+        {l.normattiva && <a class="btn ghost" href={l.normattiva} target="_blank" rel="noopener"><Icon name="doc" /> Testo su Normattiva</a>}
+        <a class="btn ghost" href={l.scheda_senato} target="_blank" rel="noopener"><Icon name="ext" /> Scheda del Senato</a>
+        {l.iter.filter((f) => f.ramo === "Camera" && f.url).slice(-1).map((f) => <a class="btn ghost" href={f.url!} target="_blank" rel="noopener"><Icon name="ext" /> Scheda e dossier della Camera</a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="percorso">
+    <h2>Percorso in Parlamento</h2>
+    <ol class="timeline">
+      {passi.map((p) => (
+        <li data-tipo={p.tipo}>
+          <span class="when">{dataIt(p.data)}</span>
+          <div class="what">{p.titolo}</div>
+          {p.dett && <div class="small muted">{p.dett}</div>}
+          {p.voto && (
+            <div class="voto" role="img" aria-label={`${p.voto.favorevoli} sì, ${p.voto.contrari} no, ${p.voto.astenuti} astenuti`}
+              style={`--a:${p.voto.favorevoli};--b:${p.voto.contrari};--c:${p.voto.astenuti}`}>
+              <span class="seg si"></span><span class="seg no"></span><span class="seg ast"></span>
+            </div>
+          )}
+          {p.voto && <div class="small mono">{p.voto.favorevoli} sì · {p.voto.contrari} no · {p.voto.astenuti} astenuti</div>}
+          {p.url && <a class="tiny" href={p.url} target="_blank" rel="noopener">Fonte ufficiale <Icon name="ext" class="tiny" /></a>}
+        </li>
+      ))}
+    </ol>
+    {l.voti.some((v) => v.tipo === "fiducia") && (
+      <p class="callout plum small">Con la questione di fiducia il Governo lega la propria permanenza al voto: gli emendamenti non si votano e, se la fiducia viene respinta, il Governo si dimette. I voti di fiducia sono mostrati separati dal voto finale.</p>
+    )}
+  </section>
+
+  <section class="section" id="reazioni">
+    <h2>Cosa hanno fatto cittadini e istituzioni</h2>
+    <p class="muted prose">Solo atti ufficiali e misurabili: referendum, raccolte firme e pronunce della Corte costituzionale. Non usiamo sondaggi né reazioni sui social.</p>
+    {nulla && (
+      <p class="callout neutral">
+        Nessun referendum, nessuna raccolta firme sulla piattaforma pubblica del Ministero della Giustizia e nessuna pronuncia della Corte costituzionale
+        che citi questa legge, alla data dell'ultimo aggiornamento.
+      </p>
+    )}
+    <div class="stack">
+      {r.referendum.map((x) => x.risultato && (
+        <article class="card stack">
+          <span class="eyebrow"><Icon name="vote" class="tiny" /> Referendum · {x.giorni ?? dataIt(x.data)}</span>
+          <h3>{x.nome}</h3>
+          <p>Sì {x.risultato.perc_si.toLocaleString("it-IT")}% · No {x.risultato.perc_no.toLocaleString("it-IT")}% · affluenza {x.risultato.affluenza?.toLocaleString("it-IT")}%</p>
+        </article>
+      ))}
+      {r.firme.map((x) => (
+        <article class="card stack">
+          <span class="eyebrow"><Icon name="people" class="tiny" /> Raccolta firme {x.inizio && `· dal ${dataIt(x.inizio)}`} {x.fine && `al ${dataIt(x.fine)}`}</span>
+          <h3>{x.titolo}</h3>
+          {x.firme_online != null && (
+            <>
+              <div class="meter" style={`--w:${x.soglia ? Math.min(100, (x.firme_online / x.soglia) * 100) : 0}%`}><span></span></div>
+              <p class="small">{x.firme_online.toLocaleString("it-IT")} firme online{x.soglia && ` su ${x.soglia.toLocaleString("it-IT")} richieste`}. Le firme raccolte su carta non sono incluse.</p>
+            </>
+          )}
+          <a class="small" href={x.url} target="_blank" rel="noopener">Pagina ufficiale della raccolta <Icon name="ext" class="tiny" /></a>
+        </article>
+      ))}
+      {r.corte.length > 0 && (
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Pronuncia</th><th>Depositata</th><th>Esito</th><th>Dispositivo (estratto)</th></tr></thead>
+            <tbody>
+              {r.corte.map((c) => (
+                <tr>
+                  <td class="mono"><a href={c.url} target="_blank" rel="noopener">{c.tipo} {c.numero}/{c.anno}</a></td>
+                  <td class="mono small">{dataIt(c.data_deposito)}</td>
+                  <td>{c.esito}</td>
+                  <td class="small">{c.dispositivo}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+      {r.corte.length > 0 && <p class="tiny muted">Pronunce della Corte costituzionale che citano questa legge nell'epigrafe o nel dispositivo (open data della Corte, CC BY-SA 3.0). «Esito» è ricavato dalle parole del dispositivo; una pronuncia può riguardare solo alcuni articoli.</p>}
+    </div>
+  </section>
+
+  <nav class="section row vicine" aria-label="Altre leggi">
+    {prec ? <a class="card link" href={u(`/governo/${slugLegge(prec)}/`)}><span class="tiny muted">← Precedente · {dataIt(prec.data)}</span><span>{prec.in_pratica.argomento}</span></a> : <span></span>}
+    {succ ? <a class="card link" href={u(`/governo/${slugLegge(succ)}/`)}><span class="tiny muted">Successiva · {dataIt(succ.data)} →</span><span>{succ.in_pratica.argomento}</span></a> : <span></span>}
+  </nav>
+</Base>
+
+<style>
+  .briciole { padding-top: 20px; }
+  .briciole a { color: inherit; }
+  .testa h1 { font-size: clamp(1.6rem, 3.6vw, 2.5rem); max-width: 30ch; text-wrap: balance; }
+  .lede { color: var(--ink-2); }
+  .duo { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); padding-top: 0; }
+  .pratica, .gov { padding: 22px; align-content: start; }
+  .gov { background: var(--plum-wash); border-color: transparent; }
+  .fatti { margin: 0; padding-left: 1.1rem; display: grid; gap: 8px; }
+  blockquote { margin: 0; font: 400 1.02rem/1.6 var(--f-display); border-left: 3px solid var(--plum); padding-left: 14px; }
+  .ufficiale { display: grid; gap: 14px; padding: 22px; }
+  .titolo-giuridico { font: 400 1.08rem/1.6 var(--f-display); margin: 0; }
+  .dati { display: grid; gap: 10px 24px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); margin: 0; }
+  .dati dt { font-size: 0.78rem; color: var(--ink-2); text-transform: uppercase; letter-spacing: 0.06em; }
+  .dati dd { margin: 0; font-weight: 600; }
+  .voto { display: flex; height: 10px; border-radius: 999px; overflow: hidden; margin: 6px 0 4px; max-width: 420px; background: var(--surface-2); }
+  .voto .seg { display: block; height: 100%; animation: cresci 0.8s var(--ease) both; transform-origin: left; }
+  .voto .si { flex: var(--a) 0 0; background: var(--accent); }
+  .voto .no { flex: var(--b) 0 0; background: var(--plum); }
+  .voto .ast { flex: var(--c) 0 0; background: var(--neutral); }
+  @keyframes cresci { from { transform: scaleX(0); } }
+  .vicine { justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .vicine a { display: grid; gap: 4px; max-width: min(100%, 420px); padding: 14px 16px; font-weight: 600; }
+</style>

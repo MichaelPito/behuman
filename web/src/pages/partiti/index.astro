@@ -1,19 +1,35 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { partiti } from "../../lib/data";
+import { ETICHETTA_ORIENTAMENTO, partiti } from "../../lib/data";
 import { u } from "../../lib/url";
 const lista = partiti().sort((a, b) => a.nome.localeCompare(b.nome, "it"));
+const gruppi = [
+  ["Maggioranza di governo", lista.filter((p) => p.schieramento === "governo")],
+  ["Opposizione", lista.filter((p) => p.schieramento === "opposizione")],
+] as const;
 ---
-<Base title="Partiti" description="Partiti monitorati: coalizioni, voti dei gruppi parlamentari e cambi di posizione documentati.">
-  <h1>Partiti</h1>
-  <p class="muted">Per i partiti usiamo il voto prevalente del loro gruppo parlamentare nelle votazioni chiave, più le posizioni ufficiali verificate.</p>
-  <div class="grid cards">
-    {lista.map((p) => (
-      <a class="card" href={u(`/partiti/${p.slug}/`)}>
-        <h3>{p.nome}</h3>
-        <div class="small muted">{p.sigla} · {p.schieramento === "governo" ? "Maggioranza" : p.schieramento === "opposizione" ? "Opposizione" : "Altro"}</div>
-        <div class="small" style="margin-top:8px">{p.coerenza.cambi_totali} cambi di posizione su {p.coerenza.proposizioni_confrontabili} temi confrontabili</div>
-      </a>
-    ))}
-  </div>
+<Base title="Partiti" description="Partiti monitorati: coalizioni, posizionamento accademico, voti dei gruppi parlamentari e cambi di posizione documentati.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Partiti</span>
+      <h1>Dieci partiti, stesse regole</h1>
+      <p class="muted prose">Per ogni partito: con chi ha governato, dove lo collocano gli esperti del Chapel Hill Expert Survey, come ha votato il suo gruppo sui temi monitorati.</p>
+    </div>
+  </section>
+  {gruppi.map(([titolo, xs]) => (
+    <section class="section">
+      <h2>{titolo}</h2>
+      <div class="grid three">
+        {xs.map((p, i) => (
+          <a class="card link stack rise" style={`--i:${i}`} href={u(`/partiti/${p.slug}/`)}>
+            <div class="row" style="justify-content:space-between"><h3>{p.nome}</h3><span class="pill">{p.sigla}</span></div>
+            <div class="row" style="gap:6px">
+              {p.orientamento?.etichetta ? <span class="pill accent">{ETICHETTA_ORIENTAMENTO[p.orientamento.etichetta]}</span> : <span class="pill">Non misurato</span>}
+              <span class={`pill ${p.coerenza.cambi_totali ? "plum" : ""}`}>{p.coerenza.cambi_totali} {p.coerenza.cambi_totali === 1 ? "cambio" : "cambi"} su {p.coerenza.proposizioni_confrontabili} temi</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
 </Base>

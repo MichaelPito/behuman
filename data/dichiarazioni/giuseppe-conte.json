@@ -1,0 +1,1713 @@
+{
+ "slug": "giuseppe-conte",
+ "nome": "Giuseppe Conte",
+ "partito": {
+  "slug": "m5s",
+  "nome": "Movimento 5 Stelle",
+  "sigla": "M5S"
+ },
+ "schieramento": "opposizione",
+ "dal": "2021-10-23",
+ "al": "2026-10-23",
+ "riepilogo": {
+  "totale": 137,
+  "camera": 85,
+  "parole_camera": 65994,
+  "governo": 0,
+  "senato": 0,
+  "verificate": 52,
+  "prima": "2021-12-09",
+  "ultima": "2026-10-21",
+  "per_anno": [
+   {
+    "anno": "2021",
+    "camera": 0,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 2
+   },
+   {
+    "anno": "2022",
+    "camera": 5,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 22
+   },
+   {
+    "anno": "2023",
+    "camera": 31,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 11
+   },
+   {
+    "anno": "2024",
+    "camera": 17,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 9
+   },
+   {
+    "anno": "2025",
+    "camera": 18,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 0
+   },
+   {
+    "anno": "2026",
+    "camera": 14,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 8
+   }
+  ],
+  "categorie": [
+   {
+    "categoria": "Ordine dei lavori e procedura",
+    "n": 44
+   },
+   {
+    "categoria": "Leggi e decreti in esame",
+    "n": 12
+   },
+   {
+    "categoria": "Informative e comunicazioni del Governo",
+    "n": 11
+   },
+   {
+    "categoria": "Mozioni",
+    "n": 8
+   },
+   {
+    "categoria": "Question time",
+    "n": 7
+   },
+   {
+    "categoria": "Documenti di bilancio e programmazione",
+    "n": 2
+   },
+   {
+    "categoria": "Altri argomenti",
+    "n": 1
+   }
+  ],
+  "argomenti_frequenti": [
+   {
+    "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+    "n": 7,
+    "dal": "2023-03-29",
+    "al": "2025-05-14"
+   },
+   {
+    "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+    "n": 5,
+    "dal": "2023-10-25",
+    "al": "2023-10-25"
+   },
+   {
+    "argomento": "Seguito della discussione della proposta di legge: De Luca e Bonafe': “Ratifica ed esecuzione dell'Accordo recante modifica del Trattato che istituisce il Meccanismo europeo di stabilità, fatto a Bruxelles il 27…",
+    "n": 3,
+    "dal": "2023-12-21",
+    "al": "2023-12-21"
+   },
+   {
+    "argomento": "Esame e votazione della questione sospensiva riferita alla proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari;…",
+    "n": 2,
+    "dal": "2023-08-03",
+    "al": "2023-08-03"
+   },
+   {
+    "argomento": "Seguito della discussione delle mozioni Conte ed altri n. 1-00279 , Braga ed altri n. 1-00286 , Comaroli, Lucaselli, Pella, Romano ed altri n. 1-00288 , Marattin ed altri n. 1-00289 , Grimaldi ed altri n. 1-00290 e…",
+    "n": 2,
+    "dal": "2024-05-29",
+    "al": "2024-05-29"
+   }
+  ],
+  "fonti_verificate": [
+   {
+    "fonte": "Facebook",
+    "n": 16
+   },
+   {
+    "fonte": "Video",
+    "n": 16
+   },
+   {
+    "fonte": "Stampa o altro",
+    "n": 8
+   },
+   {
+    "fonte": "X",
+    "n": 4
+   },
+   {
+    "fonte": "Non indicata",
+    "n": 4
+   },
+   {
+    "fonte": "Camera",
+    "n": 3
+   },
+   {
+    "fonte": "TV",
+    "n": 1
+   }
+  ]
+ },
+ "recap": "Dal 9 dicembre 2021 al 21 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 52 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "coerenza": {
+  "proposizioni_con_posizioni": 1,
+  "proposizioni_confrontabili": 0,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "verificate": [
+  {
+   "data": "2021-12-09",
+   "data_verifica": "2021-12-31",
+   "frase": "Con il reddito di cittadinanza stiamo sostenendo 231 mila famiglie con persone con disabilità, con un impatto su oltre mezzo milione di cittadini",
+   "url": "https://pagellapolitica.it/fact-checking/conte-disabili-reddito-cittadinanza",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/1378900352591926",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2021-12-09",
+   "data_verifica": "2021-12-10",
+   "frase": "Con il reddito di cittadinanza stiamo sostenendo 231 mila famiglie con persone con disabilità, con un impatto su oltre mezzo milione di cittadini",
+   "url": "https://pagellapolitica.it/fact-checking/vero-il-reddito-di-cittadinanza-aiuta-231-mila-famiglie-con-disabili",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/1378900352591926",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-03-22",
+   "data_verifica": "2022-03-24",
+   "frase": "La rete idrica spreca circa il 40 per cento della nostra acqua",
+   "url": "https://pagellapolitica.it/fact-checking/quanta-acqua-spreca-sistema-idrico-italia",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/527763602028158",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-04-28",
+   "data_verifica": "2022-04-29",
+   "frase": "La nostra linea al governo è stata molto chiara: io da presidente del Consiglio ho sempre, ogni sei mesi, rinnovato le sanzioni alla Russia al Consiglio europeo",
+   "url": "https://pagellapolitica.it/fact-checking/conte-rinnovo-sanzioni-russia-contraddizione",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=4984106861704411",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-05-02",
+   "data_verifica": "2022-05-04",
+   "frase": "In Italia c’è un 12-13 per cento di lavoratori poveri, al di sotto della soglia di povertà",
+   "url": "https://pagellapolitica.it/fact-checking/quanti-sono-lavoratori-poveri-italia",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=359562389480640",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-05-08",
+   "data_verifica": "2022-05-09",
+   "frase": "In Italia il 42,6 per cento delle mamme fra i 25 e i 54 anni non lavora",
+   "url": "https://pagellapolitica.it/fact-checking/madri-disoccupate-italia",
+   "fonte_originale": "https://www.facebook.com/100043835694050/posts/558150805656104",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-07-06",
+   "data_verifica": "2022-07-07",
+   "frase": "Abbiamo sfondato quota 10 milioni di indigenti, cioè persone che non hanno di che sopravvivere",
+   "url": "https://pagellapolitica.it/fact-checking/conte-poverta-italia",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1116816509045941",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-07-09",
+   "data_verifica": "2022-07-11",
+   "frase": "Secondo l’Istat, il reddito di cittadinanza e le altre misure erogate dal Conte II nel 2020 hanno salvato dalla povertà assoluta un milione di cittadini, circa 500 mila famiglie",
+   "url": "https://pagellapolitica.it/fact-checking/istat-reddito-cittadinanza",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/pfbid02sSVoA1Z6CaQoFuBhvfeDfW4vcJc1e2iSHTzz2XWRNsjo7GHU5RFHexzqQ1QQyWGBl",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-08-02",
+   "data_verifica": "2022-08-02",
+   "frase": "Al punto nove del contratto di governo del Conte II c’era scritto: “No inceneritori",
+   "url": "https://pagellapolitica.it/fact-checking/pd-m5s-inceneritori",
+   "fonte_originale": "https://www.youtube.com/watch?v=18WpzWAPt6I&t=590s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2022-08-16",
+   "data_verifica": "2022-08-17",
+   "frase": "Tutti i dati che abbiamo avuto dicono che il cashback aveva funzionato molto bene",
+   "url": "https://pagellapolitica.it/fact-checking/conte-benefici-cashback",
+   "fonte_originale": "https://www.lastampa.it/rubriche/30-minuti-al-massimo/2022/08/16/video/30_minuti_al_massimo_lintervista_integrale_a_giuseppe_conte_del_direttore_giannini_dal_programma_elettorale_alle_candid-6610035/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-25",
+   "data_verifica": "2022-08-26",
+   "frase": "Ho lasciato al termine del Conte II lo spread sotto i 100. Adesso con il governo Draghi abbiamo superato i 200, abbiamo toccato punte di 250: un record storico",
+   "url": "https://pagellapolitica.it/fact-checking/conte-draghi-spread-record",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/videos/1834669166868853/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-09-02",
+   "data_verifica": "2022-09-06",
+   "frase": "Il 25 settembre saremo gli unici a proporre il salario minimo legale a 9 euro",
+   "url": "https://pagellapolitica.it/fact-checking/salario-minimo-elezioni-2022",
+   "fonte_originale": "https://twitter.com/GiuseppeConteIT/status/1565638542059094016",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-09-07",
+   "data_verifica": "2022-09-08",
+   "frase": "Giorgia Meloni da anni guadagna 500 euro al giorno pagati dai cittadini. Oggi vuole togliere 500 euro al mese del reddito di cittadinanza a chi non ha di che mangiare",
+   "url": "https://pagellapolitica.it/fact-checking/stipendio-meloni-abolizione-reddito-cittadinanza",
+   "fonte_originale": "https://twitter.com/GiuseppeConteIT/status/1567540660525211649",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-09-08",
+   "data_verifica": "2022-09-09",
+   "frase": "Le forze di centrodestra sono vent’anni, trent’anni, che dicono che vogliono introdurre una flat tax",
+   "url": "https://pagellapolitica.it/fact-checking/centrodestra-promette-flat-tax-trenta-anni",
+   "fonte_originale": "https://www.youtube.com/watch?v=f-pSAoam404&t=2968s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2022-09-16",
+   "data_verifica": "2022-09-16",
+   "frase": "Non abbiamo mai tradito gli impegni con gli elettori",
+   "url": "https://pagellapolitica.it/fact-checking/movimento-5-stelle-tradimenti-elettori",
+   "fonte_originale": "https://www.ilgiornale.it/news/politica/russia-gravi-voci-campagna-elettorale-larghe-intese-senza-5s-2067182.html",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-09-19",
+   "data_verifica": "2022-09-20",
+   "frase": "Il jet privato di Renzi emette 4 milioni e 800 mila tonnellate di CO2 per una tratta soltanto",
+   "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-jet-privato-renzi",
+   "fonte_originale": "https://youtu.be/DKJJ7vfrBQw?t=151",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2022-09-22",
+   "data_verifica": "2022-09-23",
+   "frase": "L’ultima volta che Meloni è stata al governo, prima con Berlusconi e Salvini, e poi come stampella di quello tecnico, le persone in povertà assoluta sono passate da 2,1 a 3,5 milioni",
+   "url": "https://pagellapolitica.it/fact-checking/conte-meloni-poveri-italia",
+   "fonte_originale": "https://www.facebook.com/100043835694050/posts/pfbid0X5DN37Pe6sFjqFtVXX6ox9tNGDsiSVzskj1Qn8KsuDLTcuCryw9qCCJs1m6kuSkvl/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-09-26",
+   "data_verifica": "2022-09-26",
+   "frase": "Siamo la prima forza politica al Sud",
+   "url": "https://pagellapolitica.it/fact-checking/m5s-primo-partito-sud",
+   "fonte_originale": "https://www.youtube.com/watch?t=234&v=AXT-OzbrkGU&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2022-09-29",
+   "data_verifica": "2022-09-29",
+   "frase": "La Commissione Ue si è espressa chiedendo un rafforzamento del reddito di cittadinanza",
+   "url": "https://pagellapolitica.it/fact-checking/ue-rafforzare-reddito-di-cittadinanza",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  },
+  {
+   "data": "2022-10-25",
+   "data_verifica": "2022-10-26",
+   "frase": "L’intera coalizione di centrodestra è stata votata da un elettore su quattro degli aventi diritto",
+   "url": "https://pagellapolitica.it/fact-checking/centrodestra-votato-un-avente-diritto-voto-su-quattro",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico",
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, per me questa è la prima volta che svolgo un intervento da questo lato dell'emiciclo. Presidente Meloni, si invertono i ruoli. Io ho ascoltato con molta attenzione il suo discorso programmatico e dal suo discorso, insieme anche ad altri segnali emersi dalla composizione di questa squadra di Governo, ricaviamo - almeno personalmente lo ricavo - u […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00160"
+   }
+  },
+  {
+   "data": "2022-11-13",
+   "data_verifica": "2022-11-14",
+   "frase": "L’Università di Oxford ha certificato che nel biennio 2020-2022, anche per numeri di decessi da Covid-19, noi siamo al ventiquattresimo posto al mondo",
+   "url": "https://pagellapolitica.it/fact-checking/conte-classifica-morti-covid-19",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/videos/1168224944120555/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-11-20",
+   "data_verifica": "2022-11-21",
+   "frase": "Il 70,8 per cento degli “occupabili” del reddito di cittadinanza ha come titolo di studio al massimo la terza media",
+   "url": "https://pagellapolitica.it/fact-checking/titolo-studio-percettori-reddito-cittadinanza",
+   "fonte_originale": "https://www.repubblica.it/economia/2022/11/20/news/reddito_di_cittadinanza_conte_manovra-375402148/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-12-01",
+   "data_verifica": "2022-12-02",
+   "frase": "Con questa manovra di bilancio il governo Meloni vuole togliere tutto a oltre 600 mila cittadini nel 2023",
+   "url": "https://pagellapolitica.it/fact-checking/percettori-taglio-reddito-cittadinanza",
+   "fonte_originale": "https://www.facebook.com/watch/?v=1205192953679189",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-12-13",
+   "data_verifica": "2022-12-16",
+   "frase": "Il governo Meloni ha tagliato i fondi del Programma per la cooperazione allo sviluppo",
+   "url": "https://pagellapolitica.it/fact-checking/taglio-fondi-cooperazione-sviluppo",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#:~:text=E%20considerato%20che,5%20Stelle)%3F",
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi… Se gentilmente il Presidente vorrà riservare la stessa attenzione che per tre anni ho riservato ai suoi interventi, anche se, qualche volta, con contumelie, senza labiale… Lo scorso 24 febbraio, Vladimir Putin ha promosso una vile e ingiustificata aggressione che sta causando una crisi umanitaria: migliaia di morti, milioni di sfollati, distruzione di infrast […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00180"
+   }
+  },
+  {
+   "data": "2023-02-21",
+   "data_verifica": "2023-02-22",
+   "frase": "Noi spendiamo 30 miliardi per gli incentivi sul fossile, i cosiddetti “ambientalmente dannosi",
+   "url": "https://pagellapolitica.it/fact-checking/italia-sussidi-fonti-fossili",
+   "fonte_originale": "https://www.youtube.com/watch?v=SjVK_P7BVe0&t=275s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-03-16",
+   "data_verifica": "2023-03-20",
+   "frase": "Tutto ciò che ha rappresentato e ha realizzato il Jobs Act è un fallimento. Non lo dico io: Banca d’Italia, novembre 2022",
+   "url": "https://pagellapolitica.it/fact-checking/conte-jobs-act-banca-italia",
+   "fonte_originale": "https://www.youtube.com/watch?v=eGKsQSZLnwk&t=329s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-03-30",
+   "data_verifica": "2023-03-31",
+   "frase": "È stato speso solo il 6 per cento dei fondi del Pnrr, come certificato dalla Corte dei Conti",
+   "url": "https://pagellapolitica.it/fact-checking/spesa-soldi-pnrr-italia",
+   "fonte_originale": "https://www.corriere.it/politica/23_marzo_30/conte-sui-fondi-pnrr-subito-tavolo-tutti-m5s-ci-sara-97ff89d8-cf1a-11ed-9ec0-a4141ee14cb8.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-05-10",
+   "data_verifica": "2023-05-11",
+   "frase": "Gli utili delle banche, con il contributo dell’incremento dei tassi, sono aumentati del 200 per cento",
+   "url": "https://pagellapolitica.it/fact-checking/utili-banche-conte",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/pfbid02zNztKprpE89dHFGHoYKmp52sXhRMWrCayEirhJo2PSwoAdYSgPH1EHAcYaXFqcnCl",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-06-11",
+   "data_verifica": "2023-06-13",
+   "frase": "La Cina detiene il 90 per cento delle terre rare, che sono 17 materiali chimici fondamentali, dal litio in giù",
+   "url": "https://pagellapolitica.it/fact-checking/conte-terre-rare-cina",
+   "fonte_originale": "https://www.youtube.com/live/iDb4PmT9mCM?feature=share&t=988",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-06-17",
+   "data_verifica": "2023-06-19",
+   "frase": "Nel Sud c’è sempre meno occupazione",
+   "url": "https://pagellapolitica.it/fact-checking/conte-occupati-sud-italia",
+   "fonte_originale": "https://www.youtube.com/live/Wu5PhPT4RyY?feature=share&t=275",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-06-29",
+   "data_verifica": "2023-07-05",
+   "frase": "Con questo vostro decreto la platea dei percettori del reddito di cittadinanza verrà dimezzata e anche 100 mila famiglie, con al proprio interno disabili, minori e anziani, perderanno una rete di protezione sociale",
+   "url": "https://pagellapolitica.it/fact-checking/beneficiari-assegno-inclusione-reddito-cittadinanza",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico",
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, onorevoli colleghi, signora Ministra, lo scorso 17 giugno, 20.000 persone hanno sfilato per le strade di Roma e hanno lanciato un messaggio chiaro a questo Governo, che si diletta sadicamente ad ignorare il grido di sofferenza di chi non arriva a fine mese, di chi è costretto a stringere sempre di più la propria cinghia; 20.000 persone hanno gridato: basta vite precarie! E non è uno slogan , è un g […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00200"
+   }
+  },
+  {
+   "data": "2023-07-12",
+   "data_verifica": "2023-07-14",
+   "frase": "Il piano straordinario di Biden di sostegno alle imprese, poderosissimo, si basa sul sistema di cessione e di negoziazione dei crediti d’imposta. Ci stanno copiando",
+   "url": "https://pagellapolitica.it/fact-checking/conte-biden-piano-inflazione-superbonus",
+   "fonte_originale": "https://www.youtube.com/watch?v=nXj7a-yRNNw&t=939s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-08-03",
+   "data_verifica": "2023-08-08",
+   "frase": "Tutti i Paesi che hanno introdotto il salario minimo – tutti, a partire dalla Germania, l’esempio forse più clamoroso – hanno portato complessivamente un aumento degli stipendi e del Pil, e una maggiore occupazione",
+   "url": "https://pagellapolitica.it/fact-checking/salario-minimo-benefici-occupazione",
+   "fonte_originale": "https://youtu.be/XSDNd4LwYeg?t=235",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2023-08-11",
+   "data_verifica": "2023-08-14",
+   "frase": "L’anno prossimo, ce lo dicono tutte le stime delle fonti internazionali più accreditate, cresceremo meno di Francia e Germania",
+   "url": "https://pagellapolitica.it/fact-checking/crescita-italia-francia-germania-2024",
+   "fonte_originale": "https://www.la7.it/in-onda/rivedila7/in-onda-estate-11-08-2023-498283",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-09-08",
+   "data_verifica": "2023-09-11",
+   "frase": "Il Superbonus ha creato un milione di posti di lavoro",
+   "url": "https://pagellapolitica.it/fact-checking/conte-superbonus-milione-posti-lavoro",
+   "fonte_originale": "https://www.corriere.it/politica/23_settembre_08/conte-superbonus-intervista-a509f142-4e7a-11ee-b064-b6ec7165b1a5.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-01-03",
+   "data_verifica": "2024-01-04",
+   "frase": "A Gaza il numero dei morti civili palestinesi, tra cui molte donne e bambini, ha ormai superato i 20 mila",
+   "url": "https://pagellapolitica.it/fact-checking/gaza-persone-morte",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/pfbid0EGT1pSWR2tf63Vew7ckKNRfnH93PWS883PUdgDK3CqP83t9D75daonFmSmmkFcUPl",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-01-10",
+   "data_verifica": "2024-01-11",
+   "frase": "Ancora una volta il Movimento 5 Stelle costituisce un’eccezione: abbiamo votato No all’invio di ulteriori forniture militari per l'Ucraina",
+   "url": "https://pagellapolitica.it/fact-checking/voto-parlamento-contro-invio-armi-ucraina",
+   "fonte_originale": "https://www.facebook.com/GiuseppeConte64/videos/1035184207548189/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-01-22",
+   "data_verifica": "2024-01-24",
+   "frase": "Noi abbiamo una produzione industriale che è calata da dieci mesi",
+   "url": "https://pagellapolitica.it/fact-checking/conte-calo-produzione-industriale",
+   "fonte_originale": "https://www.facebook.com/watch/?v=755942089720899",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2024-03-20",
+   "data_verifica": "2024-03-22",
+   "frase": "Ci sono 2 milioni di famiglie che stanno perdendo casa per la vendita all’asta perché non riescono a pagare il mutuo",
+   "url": "https://pagellapolitica.it/fact-checking/conte-famiglie-perdono-casa-mutuo",
+   "fonte_originale": "https://www.youtube.com/watch?v=RhJnTwEoCEU&t=485s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-04-14",
+   "data_verifica": "2024-04-16",
+   "frase": "Tagliandosi lo stipendio, il Movimento 5 Stelle ha restituito 100 milioni alla comunità",
+   "url": "https://pagellapolitica.it/fact-checking/movimento-5-stelle-restituzioni-100-milioni",
+   "fonte_originale": "https://www.lastampa.it/politica/2024/04/14/news/giuseppe_conte_intervista-14223540/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-04-15",
+   "data_verifica": "2024-04-17",
+   "frase": "Siamo la forza politica italiana più green! Per la Ong francese Bloom la delegazione italiana del M5S all’Europarlamento risulta “ecologicamente esemplare”, classificandosi al primo posto tra le delegazioni italiane che hanno maggiormente sostenuto le politiche ecologiche e il Green Deal",
+   "url": "https://pagellapolitica.it/fact-checking/movimento-5-stelle-partito-piu-green-parlamento-ue",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  },
+  {
+   "data": "2024-05-21",
+   "data_verifica": "2024-05-22",
+   "frase": "Guardando i dati dell’occupazione di cui si vantano, sono aumentati i lavori a termine e i cassintegrati",
+   "url": "https://pagellapolitica.it/fact-checking/conte-sbaglia-aumento-occupati-a-termine-cassa-integrazione",
+   "fonte_originale": "https://www.corriere.it/politica/24_maggio_21/conte-dal-pd-attacchi-proditori-gentiloni-sul-pnrr-non-rispetta-la-verita-8c89a11b-2fd6-45f3-b833-cbbac35e2xlk.shtml",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-08-09",
+   "data_verifica": "2024-08-12",
+   "frase": "Siamo a quasi tre morti sul lavoro al giorno nei primi sei mesi del 2024, in aumento rispetto allo stesso periodo dello scorso anno",
+   "url": "https://pagellapolitica.it/fact-checking/aumento-morti-lavoro-2024",
+   "fonte_originale": "https://x.com/GiuseppeConteIT/status/1821850998903562661",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2024-09-16",
+   "data_verifica": "2024-09-18",
+   "frase": "Con il secondo governo Conte, la prima cosa che abbiamo fatto è stato cambiare i decreti “Sicurezza",
+   "url": "https://pagellapolitica.it/fact-checking/conte-modifica-decreti-sicurezza",
+   "fonte_originale": "https://www.lastampa.it/politica/2024/09/16/news/giuseppe_conte_draghi_guerra_armi_ucraina-14635682/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2026-03-02",
+   "data_verifica": "2026-03-04",
+   "frase": "il 72 per cento della popolazione mondiale vive in autocrazie e regimi illiberali».",
+   "url": "https://pagellapolitica.it/fact-checking/il-72-per-cento-della-popolazione-mondiale-vive-in-autocrazie-e-regimi-illiberali",
+   "fonte_originale": "youtube.com/watch?si=FYAtgVFrz6LriJqN&t=218&v=THz942oJRbU&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-03-10",
+   "data_verifica": "2026-03-11",
+   "frase": "Con la separazione netta delle carriere sarà inevitabile che i pm finiscano sotto il governo",
+   "url": "https://pagellapolitica.it/fact-checking/con-la-separazione-netta-delle-carriere-sara-inevitabile-che-i-pm-finiscano-sotto-il-governo",
+   "fonte_originale": "https://www.youtube.com/watch?v=tLFagvq-dkM&t=183s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-03-10",
+   "data_verifica": "2026-03-11",
+   "frase": "Mentre i magistrati che compongono i due nuovi CSM e l’Alta Corte sono presi a casaccio con il sorteggio puro, i laici che rappresentano la politica sono scelti accuratamente dal Parlamento. Il loro sorteggio è una finzione e vanno lì con un mandato politico ben preciso",
+   "url": "https://pagellapolitica.it/fact-checking/mentre-i-magistrati-che-compongono-i-due-nuovi-csm-e-lalta-corte-sono-presi-a-casaccio-con-il-sorteggio-puro-i-laici-che-rappresentano-la-politica-sono-scelti-accuratamente-dal-parlame",
+   "fonte_originale": "https://www.youtube.com/watch?v=tLFagvq-dkM&t=20s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-03-26",
+   "data_verifica": "2026-04-01",
+   "frase": "Il governo italiano sarà costretto a fare retromarcia sulla cancellazione dell’abuso di ufficio.",
+   "url": "https://pagellapolitica.it/fact-checking/il-governo-italiano-sara-costretto-a-fare-retromarcia-sulla-cancellazione-dellabuso-di-ufficio",
+   "fonte_originale": "https://x.com/GiuseppeConteIT/status/2037129962067579047",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2026-04-14",
+   "data_verifica": "2026-04-27",
+   "frase": "Il decreto-legge che lo introdusse (il reddito di cittadinanza), il 28 gennaio 2019, passò in Parlamento con i voti favorevoli di M5S e Lega, e con il voto contrario di tutti gli altri gruppi parlamentari. Ma la Lega stessa, un attimo dopo avere approvato la riforma, l’ha abiurata, andando a infittire la lunga lista dei nemici del reddito di cittadinanza. Matteo Salvini, durante l’estate del 2021, ha ribadito più volte che la misura andava abolita, arrivando a dichiarare, il 28 agosto a Pinzolo, che «in manovra economica l’emendamento per farlo lo metto io, avrà la mia prima firma. Dobbiamo assolutamente cancellare il reddito di cittadinanza",
+   "url": "https://pagellapolitica.it/fact-checking/il-decreto-legge-che-lo-introdusse-il-reddito-di-cittadinanza-il-28-gennaio-2019-passo-in-parlamento-con-i-voti-favorevoli-di-m5s-e-lega-e-con-il-voto-contrario-di-tutti-gli-altri-gruppi-parlamen",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  },
+  {
+   "data": "2026-04-14",
+   "data_verifica": "2026-04-27",
+   "frase": "La pressione fiscale al 43,1 per cento del PIL, il livello più alto degli ultimi vent’anni, secondo solo al governo tecnico di Mario Monti",
+   "url": "https://pagellapolitica.it/fact-checking/la-pressione-fiscale-al-431-per-cento-del-pil-il-livello-piu-alto-degli-ultimi-ventanni-secondo-solo-al-governo-tecnico-di-mario-monti",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  },
+  {
+   "data": "2026-05-18",
+   "data_verifica": "2026-05-21",
+   "frase": "Sono stati messi 12 miliardi in un anno di spese aggiuntive per la difesa (nel 2025)",
+   "url": "https://pagellapolitica.it/fact-checking/sono-stati-messi-12-miliardi-in-un-anno-di-spese-aggiuntive-per-la-difesa-nel-2025",
+   "fonte_originale": "https://www.youtube.com/watch?v=gyMOi9YB9IQ&t=498s",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-07-06",
+   "data_verifica": "2026-07-14",
+   "frase": "Non hanno messo un euro nel decreto che doveva ridurre le liste d’attesa",
+   "url": "https://pagellapolitica.it/fact-checking/non-hanno-messo-un-euro-nel-decreto-che-doveva-ridurre-le-liste-dattesa",
+   "fonte_originale": "https://www.youtube.com/watch?si=ttsnEmLUnkRozY88&t=541&v=hPu5PabEysE&feature=youtu.be",
+   "fonte_tipo": "Video"
+  }
+ ],
+ "camera": [
+  {
+   "data": "2022-10-25",
+   "leg": 19,
+   "seduta": 4,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, per me questa è la prima volta che svolgo un intervento da questo lato dell'emiciclo. Presidente Meloni, si invertono i ruoli. Io ho ascoltato con molta attenzione il suo discorso programmatico e dal suo discorso, insieme anche ad altri segnali emersi dalla composizione di questa squadra di Governo, ricaviamo - almeno personalmente lo ricavo - u […]",
+   "parole": 1676,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00160",
+   "verificata": "https://pagellapolitica.it/fact-checking/centrodestra-votato-un-avente-diritto-voto-su-quattro"
+  },
+  {
+   "data": "2022-11-10",
+   "leg": 19,
+   "seduta": 9,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame degli ordini del giorno - A.C. 5-A ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, sabato 5 novembre si è svolta a Roma una imponente manifestazione promossa dalla società civile, dall'associazionismo di base, espressione di quella maggioranza silenziosa nel Paese che da nove mesi ormai si è convinta in modo univoco che, per scongiurare una ulteriore escalation militare e il rischio di un conflitto nucleare, si debba porre fine a questo conflitto, e quale unic […]",
+   "parole": 448,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0009&tipo=stenografico#sed0009.stenografico.tit00060.sub00020.int00170"
+  },
+  {
+   "data": "2022-11-30",
+   "leg": 19,
+   "seduta": 16,
+   "argomento": "Seguito della discussione delle mozioni Conte ed altri n. 1-00010 , Zanella ed altri n. 1-00020 , Richetti ed altri n. 1-00022 , Serracchiani ed altri n. 1-00025 e Tremonti, Formentini, Mule', Bicchielli ed altri n.…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, membri del Governo e onorevoli colleghi, pochi giorni fa siamo giunti al nono mese di conflitto in terra ucraina. Sono nove mesi in cui la Russia ha tentato in tutti i modi di soverchiare la sovranità territoriale, politica, dell'Ucraina aprendo un conflitto alle porte dell'Europa e innescando una crisi i cui risvolti stanno sconquassando anche il tessuto produttivo e sociale di altri Paesi e inter […]",
+   "parole": 1175,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00030.sub00020.int00140"
+  },
+  {
+   "data": "2022-12-13",
+   "leg": 19,
+   "seduta": 24,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi… Se gentilmente il Presidente vorrà riservare la stessa attenzione che per tre anni ho riservato ai suoi interventi, anche se, qualche volta, con contumelie, senza labiale… Lo scorso 24 febbraio, Vladimir Putin ha promosso una vile e ingiustificata aggressione che sta causando una crisi umanitaria: migliaia di morti, milioni di sfollati, distruzione di infrast […]",
+   "parole": 1484,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00180",
+   "verificata": "https://pagellapolitica.it/fact-checking/taglio-fondi-cooperazione-sviluppo"
+  },
+  {
+   "data": "2022-12-23",
+   "leg": 19,
+   "seduta": 27,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto sulla questione di fiducia – Articolo 1 - A.C. 643-bis-A/R ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli membri del Governo e onorevoli colleghi, per anni, dai banchi dell'opposizione, l'allora deputata Giorgia Meloni si è interrogata su dove fosse finita la democrazia parlamentare, visto che non veniva consentito al Parlamento di discutere la legge di bilancio. […]",
+   "parole": 1279,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00040.sub00010.int00220"
+  },
+  {
+   "data": "2023-01-19",
+   "leg": 19,
+   "seduta": 39,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, questo Governo, combinando insieme propositi preannunciati e azioni già realizzate, ci restituisce la visione di una giustizia che ci preoccupa, perché ci appare fortemente distorta anche rispetto a fondamentali principi costituzionali, a partire dall'affermazione dell'eguaglianza dei cittadini davanti alla legge, e anche per quanto riguarda i principi del rispetto dell'imparzia […]",
+   "parole": 1526,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00200"
+  },
+  {
+   "data": "2023-01-19",
+   "leg": 19,
+   "seduta": 39,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": null,
+   "estratto": "….che si avvale anche dell'esperienza maturata sul campo da persone che hanno combattuto, per una vita intera, la mafia, a proprio rischio e pericolo di vita (Commenti dei deputati del gruppo Fratelli d'Italia ).",
+   "parole": 34,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00280"
+  },
+  {
+   "data": "2023-01-19",
+   "leg": 19,
+   "seduta": 39,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Per questa ragione, non possiamo davvero esprimere parere favorevole …",
+   "parole": 10,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00310"
+  },
+  {
+   "data": "2023-03-22",
+   "leg": 19,
+   "seduta": 73,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signor Presidente del Consiglio, onorevoli colleghi, scusatemi per il tono di voce basso. Ieri ho perso la voce, dando voce agli esodati del superbonus, che erano a qualche centinaio di metri da qui; erano in preda alla disperazione e alla rabbia per non essere da lei ascoltati . […]",
+   "parole": 1585,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0073&tipo=stenografico#sed0073.stenografico.tit00040.sub00010.int00200"
+  },
+  {
+   "data": "2023-03-29",
+   "leg": 19,
+   "seduta": 78,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Chiarimenti in merito alle politiche del Governo relative al sostegno militare all'Ucraina, con particolare riferimento alla tipologia delle forniture e ai relativi profili economico-finanziari - n. 3-00286",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghi. Signor Ministro, abbiamo seguito la sua risposta. Cerca di rendere conciliabile quello che è inconciliabile. Si sofferma sulla lettera, interpretando il pensiero della Meloni, dicendo che si riferiva solo al decreto. […]",
+   "parole": 405,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00020.int00080"
+  },
+  {
+   "data": "2023-04-20",
+   "leg": 19,
+   "seduta": 91,
+   "argomento": "Seguito della discussione del disegno di legge: S. 564 - Conversione in legge, con modificazioni, del decreto-legge 24 febbraio 2023, n. 13, recante disposizioni urgenti per l'attuazione del Piano nazionale di…",
+   "fase": "Dichiarazioni di voto finale - A.C. 1089 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, lo scorso 31 marzo, di fronte alle prospettive di poter perdere fondi del PNRR, il MoVimento 5 Stelle ha aperto la strada a un dialogo inclusivo e costruttivo su questo tema. Io stesso, di mio pugno, ho firmato un appello sul principale quotidiano italiano, rappresentando la posizione del MoVimento 5 Stelle. […]",
+   "parole": 1210,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0091&tipo=stenografico#sed0091.stenografico.tit00060.sub00020.int00190"
+  },
+  {
+   "data": "2023-06-28",
+   "leg": 19,
+   "seduta": 128,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, mi rivolgo, suo tramite, al Presidente del Consiglio. Onorevoli colleghi, abbiamo ascoltato le comunicazioni della Presidente Meloni in vista del prossimo Consiglio europeo e dobbiamo dire che molti osservatori sono stati sin qui benevoli nei confronti del Governo. Oggi, però, questa benevola condiscendenza non ha più ragione di essere. […]",
+   "parole": 1416,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00040.sub00010.int00230"
+  },
+  {
+   "data": "2023-06-29",
+   "leg": 19,
+   "seduta": 129,
+   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 1238.",
+   "fase": "Dichiarazioni di voto finale - A.C. 1238 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, signora Ministra, lo scorso 17 giugno, 20.000 persone hanno sfilato per le strade di Roma e hanno lanciato un messaggio chiaro a questo Governo, che si diletta sadicamente ad ignorare il grido di sofferenza di chi non arriva a fine mese, di chi è costretto a stringere sempre di più la propria cinghia; 20.000 persone hanno gridato: basta vite precarie! E non è uno slogan , è un g […]",
+   "parole": 1372,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00200",
+   "verificata": "https://pagellapolitica.it/fact-checking/beneficiari-assegno-inclusione-reddito-cittadinanza"
+  },
+  {
+   "data": "2023-06-29",
+   "leg": 19,
+   "seduta": 129,
+   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 1238.",
+   "fase": "Dichiarazioni di voto finale - A.C. 1238 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, si deve rivolgere a lei!",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00450"
+  },
+  {
+   "data": "2023-07-06",
+   "leg": 19,
+   "seduta": 134,
+   "argomento": "Si riprende la discussione del testo unificato n. 384-A.",
+   "fase": "Dichiarazioni di voto finale - Testo unificato - A.C. 384-A ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente e cari colleghi, qualche passo indietro con la memoria: inizio del 2020, ci ritroviamo con l'esplosione della pandemia e la curva del contagio che subito si impenna. Ricordo la prima riunione di notte, notte fonda, ritornando da un Consiglio europeo a Bruxelles: ci ritroviamo in Protezione civile, con tutti i presidenti di regione collegati, con tutte le forze di protezione e tutto il nostro sistema […]",
+   "parole": 1085,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0134&tipo=stenografico#sed0134.stenografico.tit00050.sub00020.int00120"
+  },
+  {
+   "data": "2023-07-06",
+   "leg": 19,
+   "seduta": 134,
+   "argomento": "Si riprende la discussione del testo unificato n. 384-A.",
+   "fase": "Dichiarazioni di voto finale - Testo unificato - A.C. 384-A ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "…vi accuso davanti al popolo italiano, perché questa Commissione è una farsa. Non è un atto di coraggio politico, è un atto di vigliaccheria! È un atto che rivela la vostra scarsa credibilità politica ! Concludo. Avete dalla vostra solo una cosa: la forza dei numeri, però non vi riconosciamo nessuna autorevolezza politica e morale . […]",
+   "parole": 107,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0134&tipo=stenografico#sed0134.stenografico.tit00050.sub00020.int00140"
+  },
+  {
+   "data": "2023-08-02",
+   "leg": 19,
+   "seduta": 152,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte a ripristinare l'erogazione del reddito di cittadinanza, anche in relazione alla situazione delle fasce più deboli dei beneficiari e all'attuale contesto sociale - n. 3-00576",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Abbiamo ascoltato la sua risposta, in linea con lo stile di Palazzo Chigi: freddo burocratese. Siamo passati da Giorgia Meloni, che prometteva 1.000 euro con un clic a tutti, a un sms che cancella tutto per 169.000 famiglie abbandonate a se stesse. Oggi nelle città italiane da Nord al Sud c'è rabbia, confusione e sfiducia. […]",
+   "parole": 269,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00020.int00060"
+  },
+  {
+   "data": "2023-08-03",
+   "leg": 19,
+   "seduta": 153,
+   "argomento": "Esame e votazione della questione sospensiva riferita alla proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari;…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, oggi, siamo qui per ricordarvi che mentre aumentano i mutui, la benzina…",
+   "parole": 16,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00080"
+  },
+  {
+   "data": "2023-08-03",
+   "leg": 19,
+   "seduta": 153,
+   "argomento": "Esame e votazione della questione sospensiva riferita alla proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari;…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "…il prezzo del carrello della spesa, ci sono persone che, lo chiariamo, lavorano da mattina a sera per 3, 4 o 5 euro lordi l'ora. Fuori c'è un ceto medio che si impoverisce, ci sono contratti che ormai sono diventati sempre più precari, sì, come piace a voi, l'avete scritto nel decreto del 1° Maggio . […]",
+   "parole": 709,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00100"
+  },
+  {
+   "data": "2023-10-18",
+   "leg": 19,
+   "seduta": 180,
+   "argomento": "Rinvio in Commissione della proposta di legge: Conte ed altri: “Disposizioni per l'istituzione del salario minimo” (A.C. 1275 ​) e delle abbinate proposte di legge: Fratoianni e Mari; Serracchiani ed altri; Laus;…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, onorevoli colleghi, posso dirlo? Sono rimasto sorpreso da cotanto entusiasmo: vedere tutte le forze di maggioranza unirsi, dopo l'intervento del capogruppo Foti, in un applauso liberatorio. Ma liberatorio per chi ? Lo spirito di corpo, l'ideologia, se debole, soprattutto se debole, fa male, vi fa male, perché ci impedisce di gettare uno sguardo, alle prese con i nostri Regolamenti, su quello che succede f […]",
+   "parole": 721,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00050.int00480"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, il Consiglio europeo in programma domani cade in un momento molto delicato per l'intera comunità internazionale, ancora scossa dall'efferato attacco terroristico di Hamas e dalla dura reazione che ne sta seguendo ad opera dell'esercito israeliano. […]",
+   "parole": 941,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00200"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Ma da un Governo che fa queste scelte cosa possiamo aspettarci in Europa? Da voi ci aspettiamo “un signor sì” ai tagli che vogliono imporci i falchi dell'austerità, “un signor sì” allo scorporo delle spese per armi dai vincoli di bilancio. […]",
+   "parole": 120,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00240"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "In replica, Presidente Meloni, lei ha parlato molto dei flussi migratori, degli sbarchi che qualifica illegali e ha fatto un'equazione, tutta da discutere, ma voglio assecondarla. Lei sta dicendo che, più sbarchi e aumenti illegali ci sono, e più aumenta il rischio di insicurezza per gli italiani. […]",
+   "parole": 148,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00260"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Concludo… se permettete, concludo. Presidente Meloni, vedo che, più che dall'interesse degli italiani, lei è ossessionata dal sottoscritto e dal MoVimento 5 Stelle e, soprattutto, è ossessionata dai buoni rapporti che ho costruito con i leader europei per tutelare l'interesse degli italiani . […]",
+   "parole": 135,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00290"
+  },
+  {
+   "data": "2023-10-25",
+   "leg": 19,
+   "seduta": 184,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 26 e 27 ottobre 2023.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Concludo. Annuncio il voto contrario del MoVimento 5 Stelle alla risoluzione di maggioranza. Uscite dalla propaganda ed entrate nella realtà. La campanella è suonata, la ricreazione è finita, Presidente .",
+   "parole": 30,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00370"
+  },
+  {
+   "data": "2023-11-15",
+   "leg": 19,
+   "seduta": 196,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative urgenti in sede internazionale ed europea per il cessate il fuoco immediato nella Striscia di Gaza – n. 3-00796",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente. Signor Ministro, forse la domanda nostra non è stata chiarissima. Non le abbiamo chiesto degli aiuti umanitari e dei corridoi umanitari, noi volevamo capire cosa state facendo, cosa sta facendo il Governo italiano, realmente e concretamente, per un cessate il fuoco nella Striscia di Gaza. […]",
+   "parole": 357,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00030.int00060"
+  },
+  {
+   "data": "2023-11-15",
+   "leg": 19,
+   "seduta": 196,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, mi permetta di intervenire sull'ordine dei lavori, perché il Ministro Tajani, nel rispondere a degli interroganti, altri che non fanno parte del mio gruppo, è ritornato sul quesito che gli abbiamo posto noi, e si è rivolto a me personalmente, con tono alterato, affermando di non sentirsi correttamente dato sopra di sé l'appellativo di “codardo”. […]",
+   "parole": 132,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00020"
+  },
+  {
+   "data": "2023-11-15",
+   "leg": 19,
+   "seduta": 196,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "…altera completamente non solo le regole della Camera e del Regolamento parlamentare, ma anche la logica di una simmetria e di un contraddittorio. Quindi, lo rende completamente asimmetrico.",
+   "parole": 28,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00040"
+  },
+  {
+   "data": "2023-11-15",
+   "leg": 19,
+   "seduta": 196,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Cioè, mi spiego meglio. Se il Ministro Tajani (Proteste di deputati del gruppo Forza Italia-Berlusconi Presidente-PPE… Scusate, colleghi, questo riguarda anche voi… …a meno che non pensiate di stare sempre nella maggioranza, con Ministri che parlano senza rispettare l'ordine … Scusi, Presidente, non sento. Allora, il tema è questo. […]",
+   "parole": 135,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00060"
+  },
+  {
+   "data": "2023-12-05",
+   "leg": 19,
+   "seduta": 209,
+   "argomento": "Sull'ordine dei lavori e per richiami al Regolamento.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, intervengo sull'ordine dei lavori. Dopo vari balletti, vari teatrini, rinvii, espedienti di varia natura e stratagemmi di vario ordine, il Presidente Meloni e il Governo hanno gettato la maschera. Hanno votato “no” al salario minimo legale, hanno votato “no”, hanno detto “no” alla condizione, che non è dignitosa, in cui versano 3.600.000 lavoratrici e lavoratori. […]",
+   "parole": 93,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00020"
+  },
+  {
+   "data": "2023-12-05",
+   "leg": 19,
+   "seduta": 209,
+   "argomento": "Sull'ordine dei lavori e per richiami al Regolamento.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Lo dico subito . Di fronte a questa votazione, signor Presidente, in cui la maggioranza ha voltato le spalle a 3.600.000 lavoratrici e lavoratori, che peraltro spesso hanno confessato - li abbiamo incontrati - e hanno dichiarato di vergognarsi per la condizione in cui sono, dopo tanti anni, dopo tanti sacrifici, con queste buste paga da fame, noi riteniamo, invece, e lo dico qui, in quest'Aula, che oggi chi si deve v […]",
+   "parole": 186,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00050"
+  },
+  {
+   "data": "2023-12-12",
+   "leg": 19,
+   "seduta": 212,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, il Presidente Meloni, in più occasioni, per quanto riguarda il conflitto russo-ucraino ha detto che scommette sulla vittoria dell'Ucraina. L'abbiamo invitata a considerare che questa scommessa è disastrosa, che non si scommette sulla pelle della popolazione ucraina . Vi abbiamo sempre invitato a considerare come irragionevole questa strategia basata su un' escalation militare. […]",
+   "parole": 1150,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00150"
+  },
+  {
+   "data": "2023-12-12",
+   "leg": 19,
+   "seduta": 212,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Perché vedete - e concludo - qui non è una questione di partito. Le questioni di partito, Presidente Meloni, lei se le regola come vuole. Adesso c'è anche Natale, vi riunite in famiglia, con sua sorella e suo cognato, e decidete, però attenzione, per gli incarichi di partito lei, Presidente Meloni, risponde ai suoi militanti e ai suoi attivisti . […]",
+   "parole": 99,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00170"
+  },
+  {
+   "data": "2023-12-21",
+   "leg": 19,
+   "seduta": 218,
+   "argomento": "Seguito della discussione della proposta di legge: De Luca e Bonafe': “Ratifica ed esecuzione dell'Accordo recante modifica del Trattato che istituisce il Meccanismo europeo di stabilità, fatto a Bruxelles il 27…",
+   "fase": "Esame dell'articolo 1 - A.C. 712 ​ e abbinata",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "C'è sempre un momento, il momento della verità, in cui ci si confronta, la propaganda va via e rimane la realtà delle posizioni e dei fatti ed è arrivato . Giorgia Meloni ha detto che avevamo fatto passare il MES con il sangue degli italiani, senza un dibattito parlamentare, con il favore delle tenebre. […]",
+   "parole": 134,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00610"
+  },
+  {
+   "data": "2023-12-21",
+   "leg": 19,
+   "seduta": 218,
+   "argomento": "Seguito della discussione della proposta di legge: De Luca e Bonafe': “Ratifica ed esecuzione dell'Accordo recante modifica del Trattato che istituisce il Meccanismo europeo di stabilità, fatto a Bruxelles il 27…",
+   "fase": "Esame dell'articolo 1 - A.C. 712 ​ e abbinata",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Nel dicembre del 2020, in questo Parlamento, noi abbiamo chiarito la nostra posizione, abbiamo lavorato finanche per migliorare uno strumento che, nel 2011, molti di voi - eravate anche Ministri - hanno portato qui, in Italia. Voi ! Lo abbiamo anche migliorato con il backstop , ma abbiamo detto che per il nostro Paese non era sufficiente. […]",
+   "parole": 319,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00630"
+  },
+  {
+   "data": "2023-12-21",
+   "leg": 19,
+   "seduta": 218,
+   "argomento": "Seguito della discussione della proposta di legge: De Luca e Bonafe': “Ratifica ed esecuzione dell'Accordo recante modifica del Trattato che istituisce il Meccanismo europeo di stabilità, fatto a Bruxelles il 27…",
+   "fase": "Esame dell'articolo 1 - A.C. 712 ​ e abbinata",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Non vi dovete offendere se vi dico che siete dei leoni nelle vostre feste di partito, come abbiamo visto ad Atreju. Abbiamo visto Giorgia Meloni, ancora una volta, che diventa paonazza, si scompone. Ma perché non si scompone in Europa? Perché non diventa paonazza in Europa, dove fate i docili agnellini ? Non avete raggiunto alcun risultato e quella rivoluzione che abbiamo avviato è stata una restaurazione. […]",
+   "parole": 128,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00700"
+  },
+  {
+   "data": "2024-01-24",
+   "leg": 19,
+   "seduta": 232,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza volte ad apportare, nell'ambito del negoziato tra le istituzioni europee, modifiche all'accordo sulla riforma del Patto di stabilità e crescita raggiunto in sede Ecofin a dicembre 2023 – n. 3-00936",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente Meloni, non siamo affatto soddisfatti della sua risposta, perché lei ha illuso gli italiani, dicendo che sarebbe andata a Bruxelles a far tremare l'Europa. Qui, a tremare, invece, è l'Italia. Lei è tornata, nonostante voglia girare le carte sulla tavola, con un “pacco” di stabilità, che prevede il taglio di 12 miliardi l'anno, che si scaricherà sulla testa degli italiani, e non sono stime del MoVimento 5 S […]",
+   "parole": 280,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00070.int00060"
+  },
+  {
+   "data": "2024-01-24",
+   "leg": 19,
+   "seduta": 232,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza volte ad apportare, nell'ambito del negoziato tra le istituzioni europee, modifiche all'accordo sulla riforma del Patto di stabilità e crescita raggiunto in sede Ecofin a dicembre 2023 – n. 3-00936",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Lei, poi, è ossessionata dal superbonus, perché vuole gettare fumo sugli italiani con questo mezzo di distrazione di massa. La più grande truffa del secolo è quel programma farlocco che lei ha presentato agli elettori. Pensi un po', lei si è presentata, va in Europa e torna con l'Italia in ginocchio. Voleva aiutare i pensionati e stiamo peggio, Meloni, voleva i blocchi navali e siamo al record di sbarchi. […]",
+   "parole": 147,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00070.int00080"
+  },
+  {
+   "data": "2024-02-14",
+   "leg": 19,
+   "seduta": 244,
+   "argomento": "Per fatto personale.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, vedo che i colleghi di maggioranza sono rimasti in pochi.",
+   "parole": 11,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00020"
+  },
+  {
+   "data": "2024-02-14",
+   "leg": 19,
+   "seduta": 244,
+   "argomento": "Per fatto personale.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Molti sono andati via, mi dispiace perché mi avrebbe fatto piacere parlare a tutti i presenti alla votazione. Credo sia legittimo proporre una Commissione d'inchiesta. Vorrei chiarire che non ho alcun timore per quanto riguarda l'indagine che verrà svolta (Applausi dei deputati dei gruppi MoVimento 5 Stelle, Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra). […]",
+   "parole": 178,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00040"
+  },
+  {
+   "data": "2024-02-14",
+   "leg": 19,
+   "seduta": 244,
+   "argomento": "Per fatto personale.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Detto questo, faremo di tutto… Fermi, fermi. Presidente, faremo di tutto per dimostrare, nonostante il perimetro delimitato con cui nasce questa Commissione, nonostante questo vizio d'impostazione, nonostante questa paura che la maggioranza ha dimostrato nel voler restringere il raggio di indagine, chi durante la pandemia si è comportato con onore e chi con disonore e riteniamo, ma lo vedremo poi in Commissione, che […]",
+   "parole": 169,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00060"
+  },
+  {
+   "data": "2024-02-14",
+   "leg": 19,
+   "seduta": 244,
+   "argomento": "Per fatto personale.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Mi faccia finire, Presidente, se mi interrompe pure lei, abbia pazienza. Mi faccia finire poi lei avrà agio di replicare tranquillamente. Più volte all'onorevole che è intervenuta, alla collega, è stato concesso di parlare direttamente addosso, dirigendosi nei nostri confronti e per giunta, vengo al merito, con delle accuse infamanti, perché dire in quest'Aula che siamo stati condannati , è una infamante accusa perch […]",
+   "parole": 183,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00110"
+  },
+  {
+   "data": "2024-03-20",
+   "leg": 19,
+   "seduta": 266,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente della Camera, Presidente Meloni, Governo, onorevoli colleghi. Presidente Meloni, mi rivolgo a lei direttamente. In vista di questo Consiglio europeo io la invito, per il bene dell'Italia, a fare un bagno di realtà e di umiltà. […]",
+   "parole": 1407,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00040.sub00010.int00240"
+  },
+  {
+   "data": "2024-05-07",
+   "leg": 19,
+   "seduta": 288,
+   "argomento": "Rinvio del seguito della discussione della proposta di legge: Conte ed altri: Delega al Governo per la riforma della disciplina in materia di conflitto di interessi per i titolari di cariche di governo statali,…",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie Presidente. Onorevoli colleghi, questa proposta di legge sul conflitto di interessi noi l'abbiamo presentata anche nella scorsa legislatura e stiamo qui rinnovando, con nuovi aggiustamenti, questa proposta di regolamentazione, che riteniamo fondamentale. Purtroppo, anche quando abbiamo avuto responsabilità di Governo, non siamo riusciti a portarla avanti e ad avere numeri sufficienti. […]",
+   "parole": 688,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0288&tipo=stenografico#sed0288.stenografico.tit00140.int00040"
+  },
+  {
+   "data": "2024-05-28",
+   "leg": 19,
+   "seduta": 300,
+   "argomento": "Seguito della discussione della proposta di legge: Conte ed altri: Delega al Governo per la riforma della disciplina in materia di conflitto di interessi per i titolari di cariche di governo statali, regionali e…",
+   "fase": "Esame dell'articolo unico - A.C. 304-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, colleghi, rispetto all'emendamento presentato a mia prima firma, vorrei dire che a noi sembra davvero strano che non sia riconosciuta da quest'Aula l'urgenza di provvedere a una questione così capitale e cruciale per la nostra democrazia. […]",
+   "parole": 618,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0300&tipo=stenografico#sed0300.stenografico.tit00090.sub00010.int00060"
+  },
+  {
+   "data": "2024-05-29",
+   "leg": 19,
+   "seduta": 301,
+   "argomento": "Seguito della discussione delle mozioni Conte ed altri n. 1-00279 , Braga ed altri n. 1-00286 , Comaroli, Lucaselli, Pella, Romano ed altri n. 1-00288 , Marattin ed altri n. 1-00289 , Grimaldi ed altri n. 1-00290 e…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, oggi il MoVimento 5 Stelle vuole denunciare un tradimento compiuto da Giorgia Meloni: ha preso una corda, formato un nodo e questo cappio al collo lo ha messo e lo sta mettendo all'Italia. […]",
+   "parole": 798,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00040.sub00020.int00120"
+  },
+  {
+   "data": "2024-05-29",
+   "leg": 19,
+   "seduta": 301,
+   "argomento": "Seguito della discussione delle mozioni Conte ed altri n. 1-00279 , Braga ed altri n. 1-00286 , Comaroli, Lucaselli, Pella, Romano ed altri n. 1-00288 , Marattin ed altri n. 1-00289 , Grimaldi ed altri n. 1-00290 e…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Può richiamare il capogruppo? Che si contenga, grazie. Avete … Non si sbracci, il capogruppo, avrà la possibilità di replicare, di che si preoccupa? Potrà raccontare, continuare a raccontare la sua visione edulcorata dell'Italia… Grazie, Presidente. […]",
+   "parole": 207,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00040.sub00020.int00140"
+  },
+  {
+   "data": "2024-06-26",
+   "leg": 19,
+   "seduta": 314,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "È un momento cruciale per l'Europa, ma oggi abbiamo una consapevolezza molto amara: la discussione che farete in Consiglio europeo non cambierà marcia, non cambierà visione all'Europa. Presidente Meloni, noi non la invidiamo, perché, da una parte, è tentata di offrire i suoi voti per appoggiare la nuova Commissione, per negoziare, in cambio, un importante incarico per l'Italia, venendo proprio a patti con quel centro […]",
+   "parole": 1411,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00040.sub00010.int00210"
+  },
+  {
+   "data": "2024-09-25",
+   "leg": 19,
+   "seduta": 354,
+   "argomento": "Commemorazione dell'onorevole Felice Maurizio D'Ettore.",
+   "fase": null,
+   "categoria": "Altri argomenti",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Intervengo a nome della mia forza politica, del mio gruppo, il MoVimento 5 Stelle, ma anche a titolo personale, perché mi corre l'obbligo e avverto l'urgenza di ricordare anche l'amicizia personale di lunga data con Maurizio D'Ettore. Siamo stati anche colleghi, come è stato ricordato. Ci siamo ritrovati tutti e due professori ordinari di diritto privato, lui a economia, a Firenze, e io a giurisprudenza. […]",
+   "parole": 583,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00080.int00090"
+  },
+  {
+   "data": "2024-10-15",
+   "leg": 19,
+   "seduta": 365,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, onorevoli colleghi, sono esplose guerre che ogni giorno diventano sempre più incontrollabili in Europa e nel Medio Oriente. Tocca all'Italia la Presidenza del G7, ma come la stiamo utilizzando? Ci affidiamo a posizioni ambigue, incerte, anche ipocrite, e addirittura arranchiamo per partecipare ai summit che contano. […]",
+   "parole": 1389,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0365&tipo=stenografico#sed0365.stenografico.tit00080.sub00020.int00330"
+  },
+  {
+   "data": "2024-11-19",
+   "leg": 19,
+   "seduta": 383,
+   "argomento": "Seguito della discussione delle mozioni Francesco Silvestri ed altri n. 1-00309 , Zaratti ed altri n. 1-00339 , Sarracino ed altri n. 1-00340 , Richetti ed altri n. 1-00350 e Boschi ed altri n. 1-00353 in materia di…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Ministro Calderoli, colleghi tutti, vi chiediamo di fermarvi. Fermatevi con questo progetto sciagurato, scombinato. Ma davvero voi pensate che la soluzione ai problemi degli italiani, di chi, in questo momento, attende anni per una prestazione sanitaria o un esame diagnostico, di chi attende ore o addirittura anche qualche giorno per un intervento d'urgenza al pronto soccorso, di chi ogni giorno è […]",
+   "parole": 1177,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.sub00020.int00120"
+  },
+  {
+   "data": "2024-12-17",
+   "leg": 19,
+   "seduta": 399,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Gentile Presidente, onorevoli colleghi, membri del Governo, per l'ennesima volta ci avviciniamo al Consiglio europeo senza una reale spinta per cambiare le cose. Nei giorni scorsi, Presidente Meloni, io sono stato anche ad Atreju. Ho visto il Circo Massimo tappezzato di manifesti: lo slogan è “la via italiana”. […]",
+   "parole": 1600,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0399&tipo=stenografico#sed0399.stenografico.tit00040.sub00010.int00330"
+  },
+  {
+   "data": "2024-12-20",
+   "leg": 19,
+   "seduta": 402,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Ripresa esame degli ordini del giorno - A.C. 2112-bis-A ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Non l'accetto, Presidente, e intervengo per dire che questa è la vostra manovra di bilancio evidentemente. Eppure, pur in un quadro che si preannunciava molto negativo per gli italiani - è una manovra che è assolutamente repressiva per la nostra economia e assolutamente insoddisfacente per tutti i bisogni delle imprese, non c'è nulla dei cittadini -, abbiamo cercato di dare un contributo ed elaborato una serie di pac […]",
+   "parole": 562,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00100.sub00010.int02340"
+  },
+  {
+   "data": "2025-02-03",
+   "leg": 19,
+   "seduta": 420,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori per chiedere, a nome di tutto il gruppo, un'informativa urgente. Il Presidente Giorgia Meloni deve venire in Parlamento. Deve venire in Parlamento a spiegare agli italiani la versione vera, reale ed effettiva - ne abbiamo sentite tantissime - sul caso Almasri. Da ultima, è stata evocata anche la sicurezza nazionale. […]",
+   "parole": 634,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0420&tipo=stenografico#sed0420.stenografico.tit00030.int00020"
+  },
+  {
+   "data": "2025-02-05",
+   "leg": 19,
+   "seduta": 422,
+   "argomento": "Informativa urgente del Governo in merito alla richiesta di arresto della Corte penale internazionale e successiva espulsione del cittadino libico Najeem Osema Almasri Habish.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, oggi c'è una grande assenza del Presidente Meloni: scappa dal Parlamento e scappa davanti agli italiani. È un atto di grande viltà istituzionale. E io mi rivolgo direttamente a lei, Presidente Meloni: lo so che ci sta guardando, nascosta semmai dietro a un computer . Ha parlato per tre volte di questa vicenda, fornendo versioni diverse. […]",
+   "parole": 1282,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00020.int00150"
+  },
+  {
+   "data": "2025-02-25",
+   "leg": 19,
+   "seduta": 434,
+   "argomento": "Seguito della discussione della mozione Francesco Silvestri, Braga, Zanella ed altri n. 1-00392 presentata a norma dell'articolo 115, comma 3, del Regolamento, nei confronti del Ministro del Turismo, Daniela Garnero…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, credo che questo Parlamento avrebbe dovuto occuparsi di altro e dedicare ore ed ore ad altre questioni. Sono anche sconcertato che ci ritroviamo ore ed ore a discutere di una questione che non doveva sorgere e, una volta sorta, andava affrontata e risolta prontamente. […]",
+   "parole": 1462,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0434&tipo=stenografico#sed0434.stenografico.tit00060.sub00020.int00220"
+  },
+  {
+   "data": "2025-03-12",
+   "leg": 19,
+   "seduta": 445,
+   "argomento": "Discussione della relazione della Giunta delle elezioni sull'elezione contestata della deputata Anna Laura Orrico per il Collegio uninominale n. 2 della XXIII Circoscrizione Calabria ( Doc. III, n. 1 ).",
+   "fase": "Dichiarazioni di voto - Doc. III, n. 1",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, cari colleghi, io davvero non ho parole. Quest'Aula, questo Parlamento dovrebbe esser concentrato - e non solo oggi, da mesi - per risolvere i problemi urgenti dal carovita, al carobollette, ai tagli e il definanziamento alla sanità, alle liste d'attesa, ai pronto soccorso, per un esame diagnostico. […]",
+   "parole": 1282,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00040.sub00020.int00240"
+  },
+  {
+   "data": "2025-03-19",
+   "leg": 19,
+   "seduta": 450,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente e onorevoli colleghi, finalmente - verrebbe da dire - abbiamo rivisto la Presidente Meloni in Parlamento. Era da tempo che scappava, da mesi. Si era nascosta. Ormai pensavamo fosse un ologramma sui social . È venuta qui e ha chiesto a tutti quanti, a quest'Aula, di avere più coraggio. Ecco, quello a lei sconosciuto. […]",
+   "parole": 1543,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00410"
+  },
+  {
+   "data": "2025-04-10",
+   "leg": 19,
+   "seduta": 465,
+   "argomento": "Seguito della discussione delle mozioni Riccardo Ricciardi ed altri n. 1-00422 , Richetti ed altri n. 1-00423 , Zanella ed altri n. 1-00424 , Braga ed altri n. 1-00425 , Della Vedova ed altri n. 1-00427 , Boschi ed…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, lo abbiamo già denunciato: la Presidente Meloni si è assunta una grande responsabilità storica, politica, morale. Il 6 marzo scorso ha sottoscritto, senza nessun dibattito pubblico, senza confrontarsi con i cittadini, col Parlamento, senza nessun mandato, un piano di riarmo da 800 miliardi per consentire ai singoli Stati europei di potersi riarmare a piacimento. […]",
+   "parole": 1427,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0465&tipo=stenografico#sed0465.stenografico.tit00050.sub00020.int00200"
+  },
+  {
+   "data": "2025-05-14",
+   "leg": 19,
+   "seduta": 480,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Intendimenti del Governo in merito al piano di riarmo europeo, con particolare riferimento all'esigenza di non proseguire nel sostegno a tale piano e di destinare le relative risorse alla coesione economica e sociale - n. 3-01956",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Presidente Meloni, lei, lo scorso 6 marzo, al Consiglio europeo ha dato il suo primo fondamentale “sì” a un piano di riarmo che prevede investimenti, quindi spese sino a 800 miliardi, di fatto per riarmare la Germania di tutto punto, mentre, invece, per l'Italia la situazione è ben diversa. […]",
+   "parole": 165,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00090.int00020"
+  },
+  {
+   "data": "2025-05-14",
+   "leg": 19,
+   "seduta": 480,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Intendimenti del Governo in merito al piano di riarmo europeo, con particolare riferimento all'esigenza di non proseguire nel sostegno a tale piano e di destinare le relative risorse alla coesione economica e sociale - n. 3-01956",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente Meloni, lei coglie sempre occasione per buttarla in caciara e, anziché fare la Presidente del Consiglio, assume queste che sono reazioni fanciullesche . I fatti dicono che ho portato la percentuale del PIL a 1,4, rispetto al 2; abbiamo fermato Draghi che voleva un riarmo immediato e abbiamo speso un miliardo all'anno; questo per le armi, ma per tutto il resto abbiamo portato 209 miliardi. […]",
+   "parole": 373,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00090.int00080"
+  },
+  {
+   "data": "2025-05-21",
+   "leg": 19,
+   "seduta": 483,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, colleghi, quasi 60.000 palestinesi trucidati, oltre 15.000 bambini, 8 milioni di bambini senza cibo, acqua e medicine, madri che frugano tra gli avanzi di cibo avariato per sfamarli. Qualche giorno fa, mi hanno letto un'agenzia di stampa in cui si parlava di “eventuali errori di Netanyahu”. Me la sono fatta stampare. Ho detto: “Dev'essere un marziano sbarcato sulla Terra”. […]",
+   "parole": 1093,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00040.sub00010.int00160"
+  },
+  {
+   "data": "2025-06-23",
+   "leg": 19,
+   "seduta": 497,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Onorevoli colleghi, signora Presidente, siamo al cospetto di crisi, di conflitti che ci stanno trascinando sul ciglio del burrone. Siamo a pochi passi dal disordine globale. La politica è completamente scomparsa, incapace di elaborare strategie di soluzione delle crisi. […]",
+   "parole": 1574,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0497&tipo=stenografico#sed0497.stenografico.tit00100.sub00010.int00140"
+  },
+  {
+   "data": "2025-06-25",
+   "leg": 19,
+   "seduta": 499,
+   "argomento": "Seguito della discussione della proposta di legge: Quartini ed altri: Disposizioni concernenti il finanziamento, l'organizzazione e il funzionamento del Servizio sanitario nazionale nonché delega al Governo per il…",
+   "fase": "Articolo 1 - A.C. 1298-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Buongiorno, Presidente. Buongiorno, colleghi. Oggi la maggioranza getta definitivamente la maschera perché avete scelto di affossare una proposta articolata, una proposta sistematica e organica per cercare di provvedere e intervenire con urgenza per cercare di salvare una sanità che è in codice rosso. […]",
+   "parole": 803,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00040.sub00020.int00020"
+  },
+  {
+   "data": "2025-07-17",
+   "leg": 19,
+   "seduta": 513,
+   "argomento": "Seguito della discussione delle mozioni Conte, Schlein, Bonelli ed altri n. 1-00465 , Boschi ed altri n. 1-00474 e Magi e Schullian n. 1-00478 concernenti iniziative in ordine alla denuncia formale del Memorandum…",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Un errore tecnico, siamo spiacenti: questo non è un messaggio che è risuonato in una nostra stazione ferroviaria in questi giorni, particolarmente affollata di cittadini, di turisti, che soffrono i disagi dei disservizi, dei ritardi dei nostri treni. […]",
+   "parole": 1147,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0513&tipo=stenografico#sed0513.stenografico.tit00030.sub00020.int00120"
+  },
+  {
+   "data": "2025-10-02",
+   "leg": 19,
+   "seduta": 541,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signora Presidente e onorevoli colleghi, il Ministro Tajani ci ha offerto una sintesi della posizione italiana: una relazione che definirei desolante. È un quadro di politica estera, che ne vien fuori, che conferma le ottime relazioni che il Governo italiano ha con il Governo di Israele, che considera un prezioso alleato. Nessuna condanna e nessuna misura concreta contro un genocidio in corso. […]",
+   "parole": 1200,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0541&tipo=stenografico#sed0541.stenografico.tit00050.sub00010.int00080"
+  },
+  {
+   "data": "2025-10-22",
+   "leg": 19,
+   "seduta": 552,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 23 e 24 ottobre 2025.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, Presidente Meloni, lei purtroppo con l'economia ci litiga proprio. Si è fatta spiegare male, in passato, lo spread e oggi si è fatta spiegar male come le banche accumulano mega utili. È molto semplice, glielo spiego io. […]",
+   "parole": 1368,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00150.sub00040.int00210"
+  },
+  {
+   "data": "2025-11-10",
+   "leg": 19,
+   "seduta": 562,
+   "argomento": "Discussione della mozione Cafiero De Raho ed altri n. 1-00519 concernente iniziative volte alla tutela dei giornalisti e della libertà di stampa (ore 16,11) .",
+   "fase": "Discussione sulle linee generali",
+   "categoria": "Mozioni",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente e illustri colleghi. Il 21 ottobre il MoVimento 5 Stelle ha lanciato una manifestazione di piazza, qui, a Roma. Sono intervenuti tantissimi cittadini per manifestare solidarietà al giornalista Ranucci, che aveva appena subito un gravissimo attentato davanti alla sua abitazione. […]",
+   "parole": 1285,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0562&tipo=stenografico#sed0562.stenografico.tit00040.sub00010.int00020"
+  },
+  {
+   "data": "2025-12-17",
+   "leg": 19,
+   "seduta": 586,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente e onorevoli colleghi, con la Presidente Meloni avevamo occasione di confrontarci: mi aveva invitato alla sua festa, dal palco di casa sua, ma poi non si è presentata , sono rimasto solo e adesso si è allontanata . Va bene, però verrà il giorno. […]",
+   "parole": 1150,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00050.sub00010.int00230"
+  },
+  {
+   "data": "2025-12-29",
+   "leg": 19,
+   "seduta": 589,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Articolo 13 - A.C. 2750 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, questo emendamento - è stato appena detto - invita le forze di maggioranza e il Governo a mettere i soldi dove ci chiedono gli italiani, dove ci sono le urgenze degli italiani e le priorità della nostra comunità nazionale. […]",
+   "parole": 595,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00080.sub00120.int00040"
+  },
+  {
+   "data": "2025-12-29",
+   "leg": 19,
+   "seduta": 589,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame degli ordini del giorno - A.C. 2750 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, quest'ordine del giorno vuole richiamare l'attenzione di tutti sul fatto che in questa legge di bilancio non ci sono le priorità degli italiani. In questa legge di bilancio si prefigurano investimenti massicci per le spese militari, per le spese per la Difesa, ma non c'è nulla di nulla rispetto a quelle che sono le vere priorità che in questo momento il Paese avverte, fa […]",
+   "parole": 945,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00080.sub00210.int01420"
+  },
+  {
+   "data": "2026-01-13",
+   "leg": 19,
+   "seduta": 592,
+   "argomento": "Informativa urgente del Governo sui più recenti sviluppi della situazione in Venezuela (ore 16,35) .",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghi, innanzitutto partecipo a nome del mio gruppo, il MoVimento 5 Stelle, alla gioia per la liberazione di Alberto Trentini e Mario Burlò. Ringraziamo politici, diplomatici, funzionari e agenti che hanno contribuito a questo risultato e ci stringiamo con questa gioia anche ai familiari . […]",
+   "parole": 1290,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00120.sub00020.int00130"
+  },
+  {
+   "data": "2026-03-11",
+   "leg": 19,
+   "seduta": 631,
+   "argomento": "Discussione sulle Comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 19 e 20 marzo 2026, nonché sugli sviluppi della crisi in Medio Oriente.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi. Signora Presidente, non ce l'ha fatta: anche in un momento così drammatico ha perso l' aplomb e ha iniziato a gettare fango. Lei ha detto bene. Lei non è come noi, come me, perché è certo che siamo diversi. A me non sarebbe mai venuto in mente addirittura di scendere a un tale livello di spregiudicatezza. […]",
+   "parole": 1174,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00040.int00130"
+  },
+  {
+   "data": "2026-04-09",
+   "leg": 19,
+   "seduta": 641,
+   "argomento": "Informativa urgente del Presidente del Consiglio dei ministri sull'azione del Governo.",
+   "fase": "Interventi",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi. Signora Presidente, lei racconta una realtà mitologica. Io credo che la sveglia referendaria non abbia suonato a Palazzo Chigi. Guardi che si presenta qui, ormai al quarto anno, con i “diremo”, “faremo”. Si deve rendere conto: lei ha un grande futuro alle spalle. […]",
+   "parole": 1243,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00020.sub00020.int00190"
+  },
+  {
+   "data": "2026-04-14",
+   "leg": 19,
+   "seduta": 643,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, a nome del gruppo MoVimento 5 Stelle mi associo e ci associamo alla richiesta, che è stata fatta dall'onorevole Grimaldi di AVS, perché venga la Presidente del Consiglio Giorgia Meloni qui, in quest'Aula, in Parlamento, a riferire su questo elemento di novità, che non direi secondario. […]",
+   "parole": 522,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00050.int00100"
+  },
+  {
+   "data": "2026-04-14",
+   "leg": 19,
+   "seduta": 643,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente Costa, posso ? Allora, mi rivolgo a lei per rispondere e associarmi all'intervento che è stato fatto dall'onorevole Buonguerrieri. Mi associo alla richiesta di informativa per una semplice ragione, perché qui abbiamo agito sempre in trasparenza e non abbiamo nulla da nascondere . Ben vengano le informative. […]",
+   "parole": 584,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00050.int00380"
+  },
+  {
+   "data": "2026-04-22",
+   "leg": 19,
+   "seduta": 648,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto sulla questione di fiducia - Articolo unico - A.C. 2886",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, signor Presidente. Illustri rappresentanti del Governo, onorevoli colleghi, ci siete riusciti! Ci siete riusciti, ci avete davvero stupito con questa norma che avete inserito in questo decreto. Qualcosa di incredibile, di surreale. Ancora ieri Giorgia Meloni però ha precisato: è una norma di buonsenso. Allora, ricapitoliamo, spieghiamolo bene a tutti. […]",
+   "parole": 1210,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00060.sub00010.int00140"
+  },
+  {
+   "data": "2026-06-11",
+   "leg": 19,
+   "seduta": 673,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signora Presidente, onorevoli colleghi, Presidente Meloni, membri di Governo, ascoltiamo ancora questo racconto dalla Presidente Meloni: va tutto bene. Anche ieri, a Confcommercio, ha detto, in sostanza, che va tutto bene e anzi di più, che lei vorrà tagliare - e taglierete - le tasse. Ma attenzione, perché qui siamo ormai al fatto che la Presidente Meloni passa come la signora, la regina delle tasse. […]",
+   "parole": 1429,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0673&tipo=stenografico#sed0673.stenografico.tit00040.sub00010.int00370"
+  },
+  {
+   "data": "2026-07-14",
+   "leg": 19,
+   "seduta": 689,
+   "argomento": "Sull'ordine dei lavori e per richiami al Regolamento.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, onorevoli colleghi, ci sono dei momenti in cui, quando si ha un alto incarico di Governo, bisogna anche assumersi la responsabilità della situazione delle proprie decisioni (Dai banchi del gruppo Fratelli d'Italia : “Parlaci delle mascherine!”, “Buffone!” - Proteste dei deputati del gruppo MoVimento 5 Stelle)… Non cadete nella provocazione… Grazie, signor Presidente. […]",
+   "parole": 418,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00080.int00060"
+  },
+  {
+   "data": "2026-07-16",
+   "leg": 19,
+   "seduta": 691,
+   "argomento": "Seguito della discussione della proposta di legge: Bignami ed altri: “Disposizioni in materia di elezioni della Camera dei Deputati e del Senato della Repubblica” (A.C. 2822-A ​) e delle abbinate proposte di legge:…",
+   "fase": "Dichiarazioni di voto finale - A.C. 2822-A ​ e abbinate",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente e onorevoli colleghi, pensiamo agli italiani che ci seguono. Staranno pensando: beh, in Parlamento staranno discutendo e approvando misure urgenti per il Paese. Non c'è che l'imbarazzo della scelta: si occupano di crollo degli stipendi? Di carovita? Di crollo della produzione industriale da tre anni e mezzo? Dei prezzi alle stelle, qualcuno ha fatto questa mattina il pieno di gasolio, 2 euro per un […]",
+   "parole": 1249,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00030.sub00010.int00210"
+  },
+  {
+   "data": "2026-08-05",
+   "leg": 19,
+   "seduta": 704,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, signori Ministri, signori colleghi, oggi il Parlamento deve esprimersi su un punto molto chiaro: questo Governo, la Presidente Meloni, ha iniziato questa legislatura, la sua azione di Governo, trovando sulla scrivania 209 miliardi, mai successo per un Presidente del Consiglio nella storia repubblicana. […]",
+   "parole": 1151,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00040.sub00010.int00260"
+  },
+  {
+   "data": "2026-08-05",
+   "leg": 19,
+   "seduta": 704,
+   "argomento": "Discussione della Relazione della Giunta per le autorizzazioni sulla domanda di autorizzazione al sequestro di corrispondenza nei confronti del deputato Delmastro Delle Vedove ( Doc. IV, n. 4-A ) (ore 16,21) .",
+   "fase": "Dichiarazioni di voto - Doc. IV, n. 4-A",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signora Presidente, onorevoli colleghi, qui dobbiamo accertare innanzitutto un fatto inaspettato: non c'è un Ministro o un Sottosegretario che rappresenti il Governo. Che succede? Il Governo non ci mette la faccia ? Non è previsto, come? Eppure, stiamo parlando di un fatto molto importante e Giorgia Meloni, il Presidente, non ci mette la faccia? Parliamo del suo partito, della sua idea di giustizia. […]",
+   "parole": 1273,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00100.sub00020.int00200"
+  },
+  {
+   "data": "2026-10-08",
+   "leg": 19,
+   "seduta": 723,
+   "argomento": "Seguito della discussione della proposta di legge: Bignami ed altri: Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica (Approvata dalla Camera e modificata dal Senato) (A.C.…",
+   "fase": "Dichiarazioni di voto finale - A.C. 2822-B ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Signor Presidente, gentili colleghi, vedete, i numeri che davvero contano per gli italiani sono: l'aumento al 30 per cento della spesa nel carrello negli ultimi anni; le tasse record negli ultimi dieci anni, dai tempi di Monti non ricordavamo questa tassazione record; il boom dei prezzi del carburante, ossia più 22 per cento dei costi energetici che pesano su famiglie e imprese; e, ancora, 6 milioni di cittadini sono […]",
+   "parole": 1060,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0723&tipo=stenografico#sed0723.stenografico.tit00040.sub00010.int00200"
+  },
+  {
+   "data": "2026-10-14",
+   "leg": 19,
+   "seduta": 727,
+   "argomento": "Discussione sulle comunicazioni del Presidente del Consiglio dei ministri in vista della riunione del Consiglio europeo del 15 e 16 ottobre 2026.",
+   "fase": "Dichiarazioni di voto",
+   "categoria": "Informative e comunicazioni del Governo",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Presidente, Presidente Meloni, gentili colleghi. Presidente Meloni, bentornata. Con il caro carburante, con il crollo dei salari reali, le famiglie e le imprese in ginocchio, ho visto che si è molto concentrata, al Senato e anche qui, per accusare me e il MoVimento 5 Stelle. In particolare, ha detto che con questa legge elettorale io non sarei mai stato eletto Presidente del Consiglio. […]",
+   "parole": 1395,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00310"
+  },
+  {
+   "data": "2026-10-21",
+   "leg": 19,
+   "seduta": 730,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "estratto": "Grazie, Presidente. Onorevoli colleghi, sono qui a chiedere, a nome del mio gruppo, un'informativa urgente al Presidente del Consiglio, Giorgia Meloni, perché venga a riferire sulla crisi economica e sociale che il Paese sta attraversando e soprattutto a riferire quali sono le misure urgenti del Governo per quanto riguarda il caro carburante, per quanto riguarda i rincari vari, per l'inflazione e le sofferenze econom […]",
+   "parole": 592,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00020"
+  }
+ ],
+ "governo": [],
+ "senato": []
+}

@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1972-10-04",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1972-)",
   "sito": "http://nicolafratoianni.it",
   "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -14211,6 +14212,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 1.69,
+  "anno": 2024,
+  "componenti": 2,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14225,6 +14240,13 @@
   "descr": "politico italiano (1972-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicola%20Fratoianni%20daticamera%202018.jpg",
   "sito": "http://nicolafratoianni.it",
-  "nascita": "1972-10-04"
- }
+  "nascita": "1972-10-04",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 55,4% delle votazioni del periodo (12.161 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 248 volte su 267 (92,9%).",
+  "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

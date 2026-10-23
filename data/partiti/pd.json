@@ -415,6 +415,28 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 3,
+  "temi_senza_cambi": 3,
+  "temi_con_cambi": 0,
+  "testo": "Su 3 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 2.93,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
- "aggiornato_il": "2026-10-23"
+ "aggiornato_il": "2026-10-23",
+ "sintesi": [
+  "Governo Draghi: maggioranza.",
+  "Governo Meloni: opposizione.",
+  "Secondo il Chapel Hill Expert Survey 2024 si colloca a sinistra (2,93 su una scala da 0 a 10).",
+  "Posizione sull'integrazione europea: 6,79 nel 2019, 6,8 nel 2024.",
+  "Posizione sull'asse sinistra–destra: 3,21 nel 2019, 2,93 nel 2024.",
+  "Su 3 temi confrontabili: nessun cambio di posizione."
+ ]
 }

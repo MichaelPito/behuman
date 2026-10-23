@@ -1,0 +1,14 @@
+# Referendum sulle leggi del periodo monitorato. Dati ufficiali: Ministero dell'Interno (Eligendo).
+# id_ddl: identificativo del disegno di legge sul Senato (dati.senato.it), per collegare il voto alla riforma.
+# legge: per i referendum abrogativi, "AAAA-MM-GG/numero" della legge interessata.
+# eligendo: risposte del servizio Eligendo da sommare (Italia + estero).
+- id: costituzionale-2026-03
+  nome: Referendum costituzionale sulla separazione delle carriere
+  tipo: costituzionale (confermativo, senza quorum)
+  data: 2026-03-22
+  giorni: "22 e 23 marzo 2026"
+  id_ddl: "53811"
+  eligendo:
+    - https://eleapi.interno.gov.it/siel/PX/scrutiniFI/DE/20260322/TE/09
+    - https://eleapi.interno.gov.it/siel/PX/scrutiniFE/DE/20260322/TE/09
+  fonte: https://elezioni.interno.gov.it/

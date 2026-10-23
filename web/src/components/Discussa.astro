@@ -1,0 +1,42 @@
+---
+// Una dichiarazione «discussa»: scelta e verificata da un fact-checker indipendente.
+// Mostriamo la frase del politico, la data e i collegamenti; non il giudizio del fact-checker.
+import Icon from "./Icon.astro";
+import type { Verificata } from "../lib/data";
+import { dataIt } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props { v: Verificata; nome?: string; slug?: string }
+const { v, nome, slug } = Astro.props;
+---
+<article class="card discussa">
+  <div class="row testa">
+    {nome && slug && <a class="chi" href={u(`/dichiarazioni/${slug}/`)}>{nome}</a>}
+    <span class="tiny muted mono">{v.data ? dataIt(v.data) : `verificata il ${dataIt(v.data_verifica)}`}</span>
+    <span class="pill">{v.fonte_tipo}</span>
+  </div>
+  <blockquote>«{v.frase}»</blockquote>
+  {v.testo_ufficiale && (
+    <details class="ufficiale">
+      <summary class="small">Leggi il passaggio nel resoconto ufficiale della Camera</summary>
+      <p class="small">{v.testo_ufficiale.estratto}</p>
+      <a class="tiny" href={v.testo_ufficiale.url} target="_blank" rel="noopener">Resoconto stenografico <Icon name="ext" class="tiny" /></a>
+    </details>
+  )}
+  <div class="row link">
+    {v.fonte_originale && <a class="small" href={v.fonte_originale} target="_blank" rel="noopener">Fonte originale <Icon name="ext" class="tiny" /></a>}
+    <a class="small" href={v.url} target="_blank" rel="noopener">Verifica di Pagella Politica <Icon name="ext" class="tiny" /></a>
+  </div>
+</article>
+
+<style>
+  .discussa { display: grid; gap: 10px; padding: 16px 18px; align-content: start; transition: transform 0.25s var(--spring), box-shadow 0.25s; }
+  .discussa:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+  .testa { gap: 8px; align-items: center; }
+  .chi { font-weight: 700; text-decoration: none; color: var(--ink); }
+  .chi:hover { color: var(--accent); }
+  blockquote { margin: 0; font: 500 1.05rem/1.5 var(--f-display); text-wrap: pretty; }
+  .link { gap: 14px; }
+  .ufficiale summary { cursor: pointer; color: var(--accent-ink); }
+  .ufficiale p { margin: 8px 0 4px; border-left: 3px solid var(--line); padding-left: 10px; }
+</style>

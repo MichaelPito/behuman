@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1956-04-18",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1956-)",
   "sito": null,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -9476,6 +9477,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.67,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -9489,6 +9504,14 @@
   "nome": "Roberto Calderoli",
   "descr": "politico italiano (1956-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/RobertoCalderoli.jpg",
-  "nascita": "1956-04-18"
- }
+  "nascita": "1956-04-18",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro per gli affari regionali e le autonomie (dal 23 ottobre 2022).",
+  "Al Senato ha partecipato al 33,2% delle votazioni del periodo (3.016 su 9.079); 5.886 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 112 volte su 112 (100,0%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

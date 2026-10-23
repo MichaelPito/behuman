@@ -1,0 +1,114 @@
+---
+import Base from "../../layouts/Base.astro";
+import Coerenza from "../../components/Coerenza.astro";
+import Discussa from "../../components/Discussa.astro";
+import FiltroLista from "../../components/FiltroLista.astro";
+import Icon from "../../components/Icon.astro";
+import { dataIt, indiceDichiarazioni, partiti, perCognome } from "../../lib/data";
+import { u } from "../../lib/url";
+
+const idx = indiceDichiarazioni();
+const pol = [...idx.politici].sort(perCognome);
+const discusse = idx.discusse;
+const conta = (f: (d: (typeof discusse)[number]) => boolean) => discusse.filter(f).length;
+const anno = (d: (typeof discusse)[number]) => (d.data ?? d.data_verifica).slice(0, 4);
+const anni = [...new Set(discusse.map(anno))].sort().reverse();
+const fonti = [...new Set(discusse.map((d) => d.fonte_tipo))];
+const sigle = Object.fromEntries(partiti().map((p) => [p.slug, p.sigla]));
+const gruppi = [
+  { chiave: "schieramento", titolo: "Schieramento", opzioni: [["governo", "Maggioranza", conta((d) => d.schieramento === "governo")], ["opposizione", "Opposizione", conta((d) => d.schieramento === "opposizione")]] as [string, string, number][] },
+  {
+    chiave: "politico",
+    titolo: "Politico",
+    opzioni: pol.filter((p) => p.riepilogo.verificate > 0).map((p) => [p.slug, p.nome, conta((d) => d.slug === p.slug)] as [string, string, number]),
+  },
+  { chiave: "anno", titolo: "Anno", opzioni: anni.map((a) => [a, a, conta((d) => anno(d) === a)] as [string, string, number]) },
+  { chiave: "fonte", titolo: "Dove l'ha detto", opzioni: fonti.map((f) => [f.replace(/\W+/g, "-"), f, conta((d) => d.fonte_tipo === f)] as [string, string, number]).sort((a, b) => b[2] - a[2]) },
+];
+const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
+---
+<Base title="Dichiarazioni" description="Le dichiarazioni più discusse e tutte le dichiarazioni ufficiali degli ultimi 5 anni dei politici monitorati, con recap e coerenza.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Ultimi 5 anni</span>
+      <h1>Cosa hanno detto</h1>
+      <p class="muted prose">
+        {totale.toLocaleString("it-IT")} dichiarazioni con data e fonte: interventi in Aula (parola per parola dai resoconti ufficiali),
+        discorsi pubblicati da Palazzo Chigi e le frasi più discusse, cioè quelle che un fact-checker indipendente ha scelto di verificare.
+        Nessun conteggio di «mi piace»: <a href={u("/faq/#virali")}>perché e come le scegliamo</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section" id="discusse">
+    <div class="section-head"><h2>Le più discusse</h2><span class="small muted">dalla più recente</span></div>
+    <p class="muted prose small">
+      Frasi selezionate da Pagella Politica perché molto circolate. Riportiamo le parole del politico, la data e i collegamenti alla fonte
+      originale e alla verifica; non riportiamo il loro giudizio sulla frase.
+    </p>
+    {discusse.length > 0 ? (
+      <>
+        <FiltroLista id="discusse" gruppi={gruppi} placeholder="Cerca nelle frasi: tasse, migranti, sanità…" nome={["dichiarazione", "dichiarazioni"]} limite={24} />
+        <div class="grid discusse" data-lista="discusse">
+          {discusse.map((d) => (
+            <div data-item data-testo={`${d.frase} ${d.nome}`} data-f-schieramento={d.schieramento} data-f-politico={d.slug} data-f-anno={anno(d)} data-f-fonte={d.fonte_tipo.replace(/\W+/g, "-")}>
+              <Discussa v={d} nome={d.nome} slug={d.slug} />
+            </div>
+          ))}
+        </div>
+        <button type="button" class="btn ghost altri" data-altri="discusse" hidden>Mostra altre</button>
+        <p class="callout neutral" data-vuoto="discusse" hidden>Nessuna dichiarazione corrisponde a questi filtri.</p>
+      </>
+    ) : <p class="callout neutral">Nessuna dichiarazione disponibile: arriveranno con il prossimo aggiornamento.</p>}
+  </section>
+
+  <section class="section" id="recap">
+    <div class="section-head"><h2>Recap e coerenza, politico per politico</h2></div>
+    <p class="muted prose small">Il recap è composto solo da conteggi. La coerenza confronta le posizioni documentate (voti e dichiarazioni verificate) sui temi monitorati: <a href={u("/faq/#coerenza")}>come si calcola</a>.</p>
+    <div class="grid recap">
+      {pol.map((p, i) => (
+        <a class="card recap-card rise" style={`--i:${i}`} href={u(`/dichiarazioni/${p.slug}/`)}>
+          <div class="row" style="justify-content:space-between;gap:8px">
+            <h3>{p.nome}</h3>
+            <span class="pill">{p.partito?.slug ? sigle[p.partito.slug] ?? p.partito.sigla : p.partito?.nome}</span>
+          </div>
+          <div class="facts">
+            <div class="fact"><span class="v">{p.riepilogo.camera + p.riepilogo.senato}</span><span class="l">in Aula</span></div>
+            <div class="fact"><span class="v">{p.riepilogo.governo}</span><span class="l">da Palazzo Chigi</span></div>
+            <div class="fact"><span class="v">{p.riepilogo.verificate}</span><span class="l">più discusse</span></div>
+          </div>
+          <p class="small muted">{p.recap}</p>
+          <Coerenza v={p.valutazione_coerenza} />
+          <span class="small vai">Tutte le dichiarazioni <Icon name="arrow" class="tiny" /></span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section" id="recenti">
+    <div class="section-head"><h2>Le ultime dichiarazioni ufficiali</h2></div>
+    <ol class="timeline">
+      {idx.recenti.slice(0, 40).map((r) => (
+        <li>
+          <span class="when">{dataIt(r.data)} · {r.fonte === "Camera" ? "Aula della Camera" : "governo.it"}</span>
+          <div class="what"><a href={u(`/dichiarazioni/${r.slug}/`)}>{r.nome}</a> <span class="muted small">— {r.contesto}</span></div>
+          <p class="small estratto">{r.testo}</p>
+          <a class="tiny" href={r.url} target="_blank" rel="noopener">Testo completo <Icon name="ext" class="tiny" /></a>
+        </li>
+      ))}
+    </ol>
+  </section>
+</Base>
+
+<style>
+  .discusse { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); margin-top: 16px; align-items: start; }
+  .altri { margin-top: 14px; }
+  .recap { grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); }
+  .recap-card { display: grid; gap: 12px; padding: 18px; align-content: start; }
+  .recap-card h3 { margin: 0; }
+  .recap-card .facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; border-block: 1px solid var(--line); padding-block: 10px; }
+  .recap-card .vai { color: var(--accent-ink); font-weight: 600; }
+  .recap-card .vai :global(svg) { transition: transform 0.25s var(--spring); }
+  .recap-card:hover .vai :global(svg) { transform: translateX(4px); }
+  .estratto { margin: 4px 0; color: var(--ink-2); max-width: 75ch; }
+</style>

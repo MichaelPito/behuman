@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1964-08-08",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1964-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12106,6 +12107,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 3.33,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12119,6 +12133,12 @@
   "nome": "Giuseppe Conte",
   "descr": "politico italiano (1964-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Conte%2C%202018.06.29%20%2806%29%20%28cropped%29.jpg",
-  "nascita": "1964-08-08"
- }
+  "nascita": "1964-08-08",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 16,4% delle votazioni del periodo (3.270 su 19.969); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 73 volte su 73 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }
