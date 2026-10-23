@@ -186,11 +186,13 @@ def frasi_programmi(temi: list[Tema]) -> dict[str, list[dict]]:
 def _unisci_frasi(nuove: dict[str, list[dict]], vecchie: dict[str, list[dict]]) -> dict[str, list[dict]]:
     """Unione per (url, inizio della frase): le nuove prevalgono (regole aggiornate), le vecchie restano se la fonte non c'è più in cache."""
     out: dict[str, list[dict]] = {}
-    for slug in set(nuove) | set(vecchie):
+    for slug in sorted(set(nuove) | set(vecchie)):
         n = nuove.get(slug, [])
         chiavi = {(x["url"], x["frase"][:80]) for x in n}
         urls_rilette = {x["url"].split("#")[0] for x in n}
-        out[slug] = n + [x for x in vecchie.get(slug, []) if (x["url"], x["frase"][:80]) not in chiavi and x["url"].split("#")[0] not in urls_rilette]
+        tutte = n + [x for x in vecchie.get(slug, []) if (x["url"], x["frase"][:80]) not in chiavi and x["url"].split("#")[0] not in urls_rilette]
+        # ordine fisso: i file salvati cambiano solo quando cambiano i dati
+        out[slug] = sorted(tutte, key=lambda x: (x["data"], x["url"], x["tema"], x["frase"]))
     return out
 
 
@@ -346,11 +348,11 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         partito = (p.get("partito") or {}).get("slug")
         temi_out = []
         for t in temi:
-            prima = sorted([x for x in tutte if x["tema"] == t.id and x["data"] < dal and x["direzione"]], key=lambda x: x["data"])
+            prima = sorted([x for x in tutte if x["tema"] == t.id and x["data"] < dal and x["direzione"]], key=lambda x: (x["data"], x["url"], x["frase"]))
             prog = [x for x in programmi.get(partito, []) if x["tema"] == t.id] if partito else []
             if not prima and not prog:
                 continue
-            dopo = sorted([x for x in tutte if x["tema"] == t.id and x["data"] >= dal], key=lambda x: x["data"])
+            dopo = sorted([x for x in tutte if x["tema"] == t.id and x["data"] >= dal], key=lambda x: (x["data"], x["url"], x["frase"]))
             richieste = prima + prog
             conta = collections.Counter(x["direzione"] for x in richieste)
             direzione = "abolizione" if conta["abolizione"] else ("riduzione" if conta["riduzione"] >= conta["aumento"] else "aumento")
@@ -384,7 +386,7 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         }
 
     archivio["camera"] = camera
-    archivio_p.write_text(json.dumps(archivio, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
+    archivio_p.write_text(json.dumps(archivio, ensure_ascii=False, indent=0, sort_keys=True) + "\n", encoding="utf-8")
 
     dati = {
         "temi": [{"id": t.id, "nome": t.nome, "indicatori": t.indicatori} for t in temi],
