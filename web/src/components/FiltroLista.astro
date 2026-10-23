@@ -16,8 +16,8 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
     <input id={`cerca-${id}`} type="search" placeholder={placeholder} data-testo autocomplete="off" />
   </div>
   <div class="gruppi">
-    {gruppi.filter((g) => g.opzioni.length > 1).map((g) => (
-      <div class="gruppo" role="group" aria-label={g.titolo}>
+    {gruppi.map((g) => ({ ...g, opzioni: g.opzioni.filter((o) => o[2] > 0) })).filter((g) => g.opzioni.length > 1).map((g) => (
+      <div class:list={["gruppo", { largo: g.opzioni.length > 6 }]} role="group" aria-label={g.titolo}>
         <span class="eyebrow">{g.titolo}</span>
         <div class="row">
           {g.opzioni.map(([v, l, n]) => (
@@ -45,6 +45,7 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
   .gruppi { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); }
   .gruppo { display: grid; gap: 8px; align-content: start; }
   .gruppo .row { gap: 6px; }
+  .gruppo.largo { grid-column: 1 / -1; }
   .chip :global(svg) { width: 14px; height: 14px; }
   .piede { gap: 12px; }
 </style>
@@ -97,7 +98,12 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
             el.hidden = !vedi;
           });
           // titoli di gruppo (es. anno) senza elementi visibili
-          gruppiVuoti.forEach((g) => (g.hidden = !g.querySelector("[data-item]:not([hidden])")));
+          const attivo = !!q || Object.keys(scelti).length > 0;
+          gruppiVuoti.forEach((g) => {
+            const pieno = !!g.querySelector("[data-item]:not([hidden])");
+            g.hidden = !pieno;
+            if (attivo && pieno && g instanceof HTMLDetailsElement) g.open = true;
+          });
           esito.textContent = n === items.length ? `${n} ${n === 1 ? n1 : n2}` : `${n} di ${items.length} ${n2}`;
           if (vuoto) vuoto.hidden = n > 0;
           if (altri) { altri.hidden = visibili >= n; altri.textContent = `Mostra altri ${Math.min(limite, n - visibili)} (${n - visibili} rimanenti)`; }

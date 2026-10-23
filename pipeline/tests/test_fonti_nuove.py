@@ -119,3 +119,11 @@ def test_cdm_abbina_per_titolo_e_data():
            {"titolo": "Disposizioni urgenti in materia di prolungamento delle operazioni di votazione", "tipo": "decreto-legge", "data": "2021-01-01", "testo": "vecchio", "url": "v"}]
     m = cdm.abbina([LEGGE], sez)
     assert m["L-2023-7"]["url"] == "u" and m["L-2023-7"]["testo"].startswith("[…] ha approvato")
+
+
+def test_abbina_verifica_pdf_e_incisi():
+    interventi = [{"leg": 18, "seduta": 691, "testo": "Il 62 per cento di chi non fa figli dichiara - pensi un po' - che la scelta ha ragioni economiche e sociali."}]
+    fc = {"fonte_originale": "https://documenti.camera.it/leg18/resoconti/assemblea/html/sed0691/stenografico.pdf#page=2",
+          "frase": "Il 62 per cento di chi non fa figli dichiara che la scelta ha ragioni economiche"}
+    assert dichiarazioni.abbina_verifica(fc, interventi) is interventi[0]
+    assert dichiarazioni.abbina_verifica({**fc, "frase": "Frase completamente diversa sulle pensioni minime e sulle accise"}, interventi) is None

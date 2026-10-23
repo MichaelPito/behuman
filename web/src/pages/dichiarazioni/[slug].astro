@@ -77,7 +77,13 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
     <section class="section" id="discusse">
       <div class="section-head"><h2>Le più discusse</h2><span class="small muted">{d.verificate.length} · in ordine cronologico</span></div>
       <p class="muted small prose">Frasi scelte da Pagella Politica perché molto circolate. Non riportiamo il loro giudizio: apri la verifica per leggerlo. <a href={u("/faq/#virali")}>Perché questo criterio</a></p>
-      <div class="grid discusse">{d.verificate.map((v) => <Discussa v={v} />)}</div>
+      {d.verificate.length > 6 && (
+        <details class="disc precedenti">
+          <summary><span>Le precedenti <span class="muted small">· {d.verificate.length - 6}</span></span><Icon name="chev" class="chev" /></summary>
+          <div class="body"><div class="grid discusse">{d.verificate.slice(0, -6).map((v) => <Discussa v={v} />)}</div></div>
+        </details>
+      )}
+      <div class="grid discusse">{d.verificate.slice(-6).map((v) => <Discussa v={v} />)}</div>
     </section>
   )}
 
@@ -88,10 +94,10 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
         <FiltroLista id="voci" gruppi={gruppi} placeholder="Cerca nel testo: pensioni, Ucraina, PNRR…" nome={["dichiarazione", "dichiarazioni"]} />
         <nav class="row salti small" aria-label="Vai all'anno">{anni.map((a) => <a href={`#anno-${a}`}>{a}</a>)}</nav>
         <div data-lista="voci">
-          {anni.map((a) => (
-            <div data-gruppo id={`anno-${a}`} class="anno">
-              <h3 class="mono">{a}</h3>
-              <ol class="timeline">
+          {anni.map((a, i) => (
+            <details data-gruppo id={`anno-${a}`} class="anno disc" open={i === anni.length - 1}>
+              <summary><span><span class="mono">{a}</span> <span class="muted small">· {perAnno[a].length} dichiarazioni</span></span><Icon name="chev" class="chev" /></summary>
+              <div class="body"><ol class="timeline">
                 {perAnno[a].map((v) => (
                   <li data-item data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
                     data-f-fonte={v.fonte} data-f-anno={a} data-f-occasione={v.categoria?.replace(/\W+/g, "-") ?? ""}>
@@ -105,8 +111,8 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
                     </div>
                   </li>
                 ))}
-              </ol>
-            </div>
+              </ol></div>
+            </details>
           ))}
         </div>
         <p class="callout neutral" data-vuoto="voci" hidden>Nessuna dichiarazione corrisponde a questi filtri.</p>
@@ -131,10 +137,22 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
   @keyframes cresci { from { transform: scaleX(0); } }
   .frequenti { margin: 0; padding-left: 0; list-style: none; display: grid; gap: 8px; font-size: 0.92rem; }
   .discusse { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); align-items: start; }
+  .precedenti { margin-bottom: 14px; }
   .salti { gap: 6px; margin: 16px 0 4px; }
   .salti a { padding: 4px 10px; border-radius: 999px; background: var(--surface-2); text-decoration: none; color: var(--ink-2); font-weight: 600; }
   .salti a:hover { background: var(--accent-wash); color: var(--accent-ink); }
-  .anno { margin-top: 18px; scroll-margin-top: 90px; }
-  .anno h3 { font-size: 1rem; color: var(--ink-2); margin-bottom: 10px; }
+  .anno { margin-top: 10px; scroll-margin-top: 90px; }
   .estratto { margin: 4px 0; color: var(--ink-2); max-width: 75ch; }
 </style>
+
+<script>
+  // i link agli anni aprono la sezione corrispondente
+  document.addEventListener("astro:page-load", () => {
+    document.querySelectorAll<HTMLAnchorElement>(".salti a").forEach((a) => {
+      a.onclick = () => {
+        const d = document.querySelector<HTMLDetailsElement>(a.getAttribute("href")!);
+        if (d) d.open = true;
+      };
+    });
+  });
+</script>

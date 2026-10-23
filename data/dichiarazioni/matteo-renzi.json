@@ -1,0 +1,823 @@
+{
+ "slug": "matteo-renzi",
+ "nome": "Matteo Renzi",
+ "partito": {
+  "slug": "iv",
+  "nome": "Italia Viva",
+  "sigla": "IV"
+ },
+ "schieramento": "opposizione",
+ "dal": "2021-10-23",
+ "al": "2026-10-23",
+ "riepilogo": {
+  "totale": 66,
+  "camera": 0,
+  "parole_camera": 0,
+  "governo": 0,
+  "senato": 29,
+  "verificate": 37,
+  "prima": "2021-11-12",
+  "ultima": "2026-09-29",
+  "per_anno": [
+   {
+    "anno": "2021",
+    "camera": 0,
+    "governo": 0,
+    "senato": 1,
+    "verificate": 2
+   },
+   {
+    "anno": "2022",
+    "camera": 0,
+    "governo": 0,
+    "senato": 3,
+    "verificate": 10
+   },
+   {
+    "anno": "2023",
+    "camera": 0,
+    "governo": 0,
+    "senato": 4,
+    "verificate": 10
+   },
+   {
+    "anno": "2024",
+    "camera": 0,
+    "governo": 0,
+    "senato": 11,
+    "verificate": 6
+   },
+   {
+    "anno": "2025",
+    "camera": 0,
+    "governo": 0,
+    "senato": 6,
+    "verificate": 0
+   },
+   {
+    "anno": "2026",
+    "camera": 0,
+    "governo": 0,
+    "senato": 4,
+    "verificate": 8
+   }
+  ],
+  "categorie": [],
+  "argomenti_frequenti": [],
+  "fonti_verificate": [
+   {
+    "fonte": "Stampa o altro",
+    "n": 13
+   },
+   {
+    "fonte": "X",
+    "n": 7
+   },
+   {
+    "fonte": "Video",
+    "n": 7
+   },
+   {
+    "fonte": "Facebook",
+    "n": 6
+   },
+   {
+    "fonte": "TV",
+    "n": 2
+   },
+   {
+    "fonte": "Non indicata",
+    "n": 2
+   }
+  ]
+ },
+ "recap": "Dal 12 novembre 2021 al 29 settembre 2026: 29 interventi nell'Aula del Senato, 37 dichiarazioni scelte e verificate da un fact-checker indipendente.",
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "coerenza": {
+  "proposizioni_con_posizioni": 0,
+  "proposizioni_confrontabili": 0,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "verificate": [
+  {
+   "data": null,
+   "data_verifica": "2023-04-18",
+   "frase": "Ho ottenuto il miglior risultato della storia politica italiana dell’ultimo mezzo secolo con il famoso 41 per cento",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-europee-2014-record-elezioni",
+   "fonte_originale": "https://www.matteorenzi.it/enews_374_sabato_15_aprile",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2021-11-12",
+   "data_verifica": "2021-11-15",
+   "frase": "[Con il Jobs act ho creato] un milione e 300 mila posti di lavoro quando ho fatto il capo del governo» (min. 32:14)",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-sbaglia-ancora-sui-posti-di-lavoro-creati-dal-suo-governo",
+   "fonte_originale": "https://www.la7.it/otto-e-mezzo/rivedila7/otto-e-mezzo-renzi-e-la-resa-dei-conti-correnti-12-11-2021-408226",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2021-11-17",
+   "data_verifica": "2021-11-17",
+   "frase": "Sette anni fa il Movimento 5 stelle diceva no alla lottizzazione della Rai. Oggi il Movimento 5 stelle si lamenta perché non ha partecipato alla lottizzazione",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-conte-nomine-rai",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1275256459659772",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-03-28",
+   "data_verifica": "2022-03-29",
+   "frase": "Conte ha aumentato le spese militari più di noi e si è impegnato ad aumentarle nei vertici Nato cui ha partecipato",
+   "url": "https://pagellapolitica.it/fact-checking/aumento-spese-militari-conte-nato",
+   "fonte_originale": "https://www.matteorenzi.it/enews_777_lunedi_28_marzo_2022#",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-06-13",
+   "data_verifica": "2022-06-14",
+   "frase": "Italia viva è decisiva nell’elezione al primo turno di tanti sindaci, da Bucci a Genova fino a Giordani a Padova",
+   "url": "https://pagellapolitica.it/fact-checking/risultati-italia-viva-elezioni-comunali",
+   "fonte_originale": "https://www.matteorenzi.it/enews_799_lunedi_13_giugno_2022",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-03",
+   "data_verifica": "2022-08-03",
+   "frase": "[il 2 agosto] Nicola Fratoianni votava contro l’adesione di Svezia e Finlandia alla Nato",
+   "url": "https://pagellapolitica.it/fact-checking/fratoianni-adesione-svezia-finlandia-nato",
+   "fonte_originale": "https://www.matteorenzi.it/enews_812_mercoledi_3_agosto_2022",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-09",
+   "data_verifica": "2022-08-09",
+   "frase": "Fratoianni ha votato 55 volte la sfiducia [al governo Draghi]",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-fratoianni-fiducia-draghi",
+   "fonte_originale": "https://www.ilmessaggero.it/politica/renzi_calenda_terzo_polo_elezioni_letta_intervista_cosa_ha_detto-6861033.html?refresh_ce",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-08-16",
+   "data_verifica": "2022-08-19",
+   "frase": "Enrico Letta è il premier che ha aumentato l’Iva",
+   "url": "https://pagellapolitica.it/fact-checking/letta-aumento-iva-2013",
+   "fonte_originale": "https://www.facebook.com/matteorenziufficiale/videos/5588529667875388/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-09-21",
+   "data_verifica": "2022-09-22",
+   "frase": "L’impatto dei voli non di linea sull’ambiente è meno dello 0,2 per cento delle emissioni di CO2",
+   "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-jet-renzi",
+   "fonte_originale": "https://www.matteorenzi.it/enews_830_mercoledi_21_settembre_2022#",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-10-02",
+   "data_verifica": "2022-10-04",
+   "frase": "Il primo governo con la metà di donne è stato il mio e anche l’ultimo",
+   "url": "https://pagellapolitica.it/fact-checking/donne-governo-renzi",
+   "fonte_originale": "https://www.facebook.com/matteorenziufficiale/videos/1200409930829221/",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2022-10-12",
+   "data_verifica": "2022-10-13",
+   "frase": "Ieri Greta Thunberg ha detto: “Bisogna aprire al nucleare",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-greta-thunberg-nucleare",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1580224429531213824",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2022-11-07",
+   "data_verifica": "2022-11-07",
+   "frase": "Conte è il premier che più ha aumentato la vendita di armi",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-conte-vendita-armi-italia",
+   "fonte_originale": "https://www.matteorenzi.it/enews_840_lunedi_8_novembre",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2022-12-21",
+   "data_verifica": "2022-12-22",
+   "frase": "Quanto alle presunte frodi, i 17 milioni di euro su cui sono in corso indagini della Guardia di finanza negli ultimi cinque anni corrispondono a meno del 2 per cento dei casi",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-frodi-bonus-cultura",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1605538281826942976",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2023-01-04",
+   "data_verifica": "2023-01-05",
+   "frase": "Nel 2014 il deputato Salvini faceva scenate sui pedaggi. Nel 2023 aumentano le tariffe e il Ministro Salvini tace",
+   "url": "https://pagellapolitica.it/fact-checking/salvini-protesta-aumento-pedaggi",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1610643237714395136",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2023-02-14",
+   "data_verifica": "2023-02-17",
+   "frase": "Il canone in bolletta fu una mia scelta. Costava 113 euro. Averlo fatto pagare a tutti ha portato a un abbassamento del costo da 113 a 90 euro",
+   "url": "https://pagellapolitica.it/fact-checking/canone-rai-bolletta-costo",
+   "fonte_originale": "https://www.matteorenzi.it/enews_863_martedi_14_febbraio",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-02-28",
+   "data_verifica": "2023-03-02",
+   "frase": "Sul reddito di cittadinanza Meloni aveva promesso di cancellare tutto. Per adesso ha cancellato solo le norme contro le truffe",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-cancellazione-truffe-reddito-cittadinanza",
+   "fonte_originale": "https://www.matteorenzi.it/enews_866_martedi_28_febbraio",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-04-05",
+   "data_verifica": "2023-04-06",
+   "frase": "Un parlamentare in carica può fare il direttore di un giornale. Ce ne sono stati tantissimi nella storia di questo Paese",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-direttore-riformista",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=761568895315846",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-07-30",
+   "data_verifica": "2023-08-03",
+   "frase": "La benzina tocca prezzi record",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-prezzi-record-benzina",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1685560974755893248",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2023-08-20",
+   "data_verifica": "2023-08-22",
+   "frase": "Quando ho lasciato Chigi tra stipendi e spese la Pa costava 300 miliardi di euro. Dopo i governi Conte e le nuove assunzioni siamo a 350 miliardi».",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-costi-pubblica-amministrazione",
+   "fonte_originale": "https://www.repubblica.it/politica/2023/08/20/news/matteo_renzi_intervista-411666839/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-09-09",
+   "data_verifica": "2023-09-12",
+   "frase": "Greta Thunberg diceva: “Il mondo finirà nel 2023",
+   "url": "https://pagellapolitica.it/fact-checking/renzi-thunberg-fine-mondo-2023",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1077479879914851",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2023-11-03",
+   "data_verifica": "2022-11-04",
+   "frase": "Uno dei primi provvedimenti di questo governo è la proroga dei navigator",
+   "url": "https://pagellapolitica.it/fact-checking/governo-meloni-proroga-contratti-navigator",
+   "fonte_originale": "https://www.la7.it/laria-che-tira/rivedila7/laria-che-tira-03112022-03-11-2022-458394",
+   "fonte_tipo": "TV"
+  },
+  {
+   "data": "2023-12-23",
+   "data_verifica": "2023-12-27",
+   "frase": "L’immunità parlamentare non copre gli insulti",
+   "url": "https://pagellapolitica.it/fact-checking/immunita-parlamentare-insulti",
+   "fonte_originale": "https://www.lastampa.it/politica/2023/12/23/news/renzi_gasparri_intervista-13951465/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2023-12-28",
+   "data_verifica": "2023-12-28",
+   "frase": "In un giorno pago [di tasse] il triplo di quello che Giuseppe Conte ha pagato in un anno",
+   "url": "https://pagellapolitica.it/fact-checking/dichiarazioni-redditi-renzi-conte-tasse",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1740328349984051495",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2024-01-10",
+   "data_verifica": "2024-01-11",
+   "frase": "Siamo gli unici che continuano a chiedere le dimissioni di Delmastro",
+   "url": "https://pagellapolitica.it/fact-checking/partiti-richieste-dimissioni-delmastro",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1744994425925722519",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2024-01-12",
+   "data_verifica": "2024-01-12",
+   "frase": "Il governo ha tagliato 25 milioni di euro del fondo per il contrasto dei disturbi alimentari",
+   "url": "https://pagellapolitica.it/fact-checking/governo-meloni-taglia-fondo-disturbi-alimentari",
+   "fonte_originale": "https://www.ilriformista.it/anoressia-e-bulimia-altro-che-pistoleri-leditoriale-di-matteo-renzi-402648/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-03-17",
+   "data_verifica": "2024-03-18",
+   "frase": "Nell’ultimo decreto-legge sul Pnrr, Giorgia Meloni “regala” al Cnel due dirigenti, otto funzionari e sette assistenti per Brunetta: più di un milione di euro all’anno a regime",
+   "url": "https://pagellapolitica.it/fact-checking/decreto-pnrr-assunzioni-cnel",
+   "fonte_originale": "https://twitter.com/matteorenzi/status/1769281792769491423",
+   "fonte_tipo": "X"
+  },
+  {
+   "data": "2024-07-03",
+   "data_verifica": "2024-07-03",
+   "frase": "Poi escono i dati Istat e si vede che la pressione fiscale è aumentata dello 0,8 per cento rispetto allo scorso anno",
+   "url": "https://pagellapolitica.it/fact-checking/pressione-fiscale-aumento-governo-meloni",
+   "fonte_originale": "https://www.lastampa.it/politica/2024/07/03/news/renzi_autonomie_schlein_accordo-14442608/",
+   "fonte_tipo": "Stampa o altro"
+  },
+  {
+   "data": "2024-09-07",
+   "data_verifica": "2024-09-11",
+   "frase": "Penso che Giuli sia il primo ministro della Cultura non laureato della storia italiana",
+   "url": "https://pagellapolitica.it/fact-checking/giuli-ministri-cultura-senza-laurea",
+   "fonte_originale": "https://youtu.be/h-UfyOmM3T0?si=rHRjFFjBIHslTIP1&t=462",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2024-09-30",
+   "data_verifica": "2024-10-01",
+   "frase": "Nel Piano strutturale di bilancio c’è scritto che le accise sul gasolio aumenteranno",
+   "url": "https://pagellapolitica.it/fact-checking/governo-meloni-aumento-accise-diesel-gasolio",
+   "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1201758407816289",
+   "fonte_tipo": "Facebook"
+  },
+  {
+   "data": "2026-04-20",
+   "data_verifica": "2026-04-23",
+   "frase": "Con il governo Meloni ci sono stati meno rimpatri che con il governo Renzi",
+   "url": "https://pagellapolitica.it/fact-checking/con-il-governo-meloni-ci-sono-stati-meno-rimpatri-che-con-il-governo-renzi",
+   "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-04-20",
+   "data_verifica": "2026-04-23",
+   "frase": "Riprendere i cervelli che se ne sono andati, sono 200 mila lo scorso anno, e riportarli in Italia",
+   "url": "https://pagellapolitica.it/fact-checking/riprendere-i-cervelli-che-se-ne-sono-andati-sono-200-mila-lo-scorso-anno-e-riportarli-in-italia",
+   "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-06-22",
+   "data_verifica": "2026-07-02",
+   "frase": "Io ho presentato il salario minimo nel 2018 quando la CGIL era contraria",
+   "url": "https://pagellapolitica.it/fact-checking/io-ho-presentato-il-salario-minimo-nel-2018-quando-la-cgil-era-contraria",
+   "fonte_originale": "youtube.com/watch?si=xG5eAa3hnOkEjUeF&t=1367&v=XIVzNR3XrTc&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-06-22",
+   "data_verifica": "2026-07-02",
+   "frase": "La pressione fiscale sta al 43 per cento, i salari reali diminuiscono dell’8 per cento",
+   "url": "https://pagellapolitica.it/fact-checking/la-pressione-fiscale-sta-al-43-per-cento-i-salari-reali-diminuiscono-dell8-per-cento",
+   "fonte_originale": "https://www.youtube.com/watch?si=pj6H2Sy80glu4dLr&t=79&v=XIVzNR3XrTc&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-07-06",
+   "data_verifica": "2026-07-14",
+   "frase": "Caro Piantedosi, riporta indietro 600 tra agenti della polizia, tra finanzieri e carabinieri, riportali indietro da quell’inutile centro dei migranti, che ci è costato quasi un miliardo di euro",
+   "url": "https://pagellapolitica.it/fact-checking/caro-piantedosi-riporta-indietro-600-tra-agenti-della-polizia-tra-finanzieri-e-carabinieri-riportali-indietro-da-quellinutile-centro-dei-migranti-che-ci-e-costato-quasi-un-miliardo-di-eur",
+   "fonte_originale": "https://www.youtube.com/watch?si=XYh5fB6aGh6kMDhu&t=122&v=l062TWYYesg&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-07-06",
+   "data_verifica": "2026-07-14",
+   "frase": "La sinistra si è divisa, si è divisa nel 2022. Se la sinistra non si fosse divisa, la Meloni non avrebbe vinto. Lo dicono i numeri",
+   "url": "https://pagellapolitica.it/fact-checking/la-sinistra-si-e-divisa-si-e-divisa-nel-2022-se-la-sinistra-non-si-fosse-divisa-la-meloni-non-avrebbe-vinto-lo-dicono-i-numeri",
+   "fonte_originale": "youtube.com/watch?si=9VtFlclhOK_9bqoc&t=568&v=l062TWYYesg&feature=youtu.be",
+   "fonte_tipo": "Video"
+  },
+  {
+   "data": "2026-09-29",
+   "data_verifica": "2026-10-02",
+   "frase": "Il rapporto debito pubblico/PIL in Grecia è migliore in questo 2026 del rapporto debito pubblico/PIL in Italia",
+   "url": "https://pagellapolitica.it/fact-checking/il-rapporto-debito-pubblico-pil-in-grecia-e-migliore-in-questo-2026-del-rapporto-debito-pubblico-pil-in-italia",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  },
+  {
+   "data": "2026-09-29",
+   "data_verifica": "2026-10-02",
+   "frase": "Nel 2023 nell’Italia di Giorgia Meloni sono entrati più migranti di quanti ne siano arrivati nel 2015",
+   "url": "https://pagellapolitica.it/fact-checking/nel-2023-nellitalia-di-giorgia-meloni-sono-entrati-piu-migranti-di-quanti-ne-siano-arrivati-nel-2015",
+   "fonte_originale": null,
+   "fonte_tipo": "Non indicata"
+  }
+ ],
+ "camera": [],
+ "governo": [],
+ "senato": [
+  {
+   "data": "2021-12-23",
+   "seduta": 391,
+   "ddl": [
+    {
+     "fase": "S.2448",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024",
+     "url": "https://dati.senato.it/ddl/54559.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-12-23:391"
+  },
+  {
+   "data": "2022-06-16",
+   "seduta": 441,
+   "ddl": [
+    {
+     "fase": "S.2595",
+     "titolo": "Deleghe al Governo per la riforma dell'ordinamento giudiziario e per l'adeguamento dell'ordinamento giudiziario militare, nonché disposizioni in materia ordinamentale, organizzativa e disciplinare, di eleggibilità e ricollocamento in ruolo dei magistrati e di costituzione e funzionamento del Consiglio superiore della magistratura",
+     "url": "https://dati.senato.it/ddl/54941.html"
+    },
+    {
+     "fase": "S.2119",
+     "titolo": "Modifiche alla legge 24 marzo 1958, n. 195, in materia di costituzione e funzionamento del Consiglio superiore della magistratura",
+     "url": "https://dati.senato.it/ddl/53765.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-06-16:441"
+  },
+  {
+   "data": "2022-07-14",
+   "seduta": 453,
+   "ddl": [
+    {
+     "fase": "S.2668",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 maggio 2022, n. 50, recante misure urgenti in materia di politiche energetiche nazionali, produttività delle imprese e attrazione degli investimenti, nonché in materia di politiche sociali e di crisi ucraina",
+     "url": "https://dati.senato.it/ddl/55118.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-07-14:453"
+  },
+  {
+   "data": "2022-12-14",
+   "seduta": 18,
+   "ddl": [
+    {
+     "fase": "S.393",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 11 novembre 2022, n. 173, recante disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri",
+     "url": "https://dati.senato.it/ddl/56265.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-12-14:18"
+  },
+  {
+   "data": "2023-11-07",
+   "seduta": 121,
+   "ddl": [
+    {
+     "fase": "S.790",
+     "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2",
+     "url": "https://dati.senato.it/ddl/57279.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-11-07:121"
+  },
+  {
+   "data": "2023-11-08",
+   "seduta": 122,
+   "ddl": [
+    {
+     "fase": "S.790",
+     "titolo": "Istituzione di una Commissione parlamentare di inchiesta sulla gestione dell'emergenza sanitaria causata dalla diffusione epidemica del virus SARS-CoV-2 e sulle misure adottate per prevenire e affrontare l'emergenza epidemiologica da SARS-CoV-2",
+     "url": "https://dati.senato.it/ddl/57279.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-11-08:122"
+  },
+  {
+   "data": "2023-11-22",
+   "seduta": 128,
+   "ddl": [
+    {
+     "fase": "S.327",
+     "titolo": "Disposizioni per la prevenzione e il contrasto del fenomeno della violenza nei confronti delle donne e della violenza domestica",
+     "url": "https://dati.senato.it/ddl/56060.html"
+    },
+    {
+     "fase": "S.92",
+     "titolo": "Modifiche al codice di procedura penale, al codice penale e ulteriori disposizioni in materia di contrasto alla violenza domestica e di genere",
+     "url": "https://dati.senato.it/ddl/55266.html"
+    },
+    {
+     "fase": "S.754",
+     "titolo": "Modifiche al codice penale, al codice di procedura penale e disposizioni per il contrasto alla violenza domestica",
+     "url": "https://dati.senato.it/ddl/57180.html"
+    },
+    {
+     "fase": "S.923",
+     "titolo": "Disposizioni per il contrasto della violenza sulle donne e della violenza domestica",
+     "url": "https://dati.senato.it/ddl/57649.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-11-22:128"
+  },
+  {
+   "data": "2023-12-22",
+   "seduta": 141,
+   "ddl": [
+    {
+     "fase": "S.926",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2024 e bilancio pluriennale per il triennio 2024-2026",
+     "url": "https://dati.senato.it/ddl/57654.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2023-12-22:141"
+  },
+  {
+   "data": "2024-02-07",
+   "seduta": 155,
+   "ddl": [
+    {
+     "fase": "S.808",
+     "titolo": "Modifiche al codice penale, al codice di procedura penale, all'ordinamento giudiziario e al codice dell'ordinamento militare",
+     "url": "https://dati.senato.it/ddl/57329.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-02-07:155"
+  },
+  {
+   "data": "2024-02-13",
+   "seduta": 157,
+   "ddl": [
+    {
+     "fase": "S.969",
+     "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2022-2023",
+     "url": "https://dati.senato.it/ddl/57817.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-02-13:157"
+  },
+  {
+   "data": "2024-04-10",
+   "seduta": 177,
+   "ddl": [
+    {
+     "fase": "S.690",
+     "titolo": "Introduzione dell'articolo 254-ter del codice di procedura penale recante norme in materia di sequestro di strumenti elettronici",
+     "url": "https://dati.senato.it/ddl/57039.html"
+    },
+    {
+     "fase": "S.806",
+     "titolo": "Modifiche al codice di procedura penale in materia di sequestro di dispositivi, sistemi informatici o telematici o memorie digitali",
+     "url": "https://dati.senato.it/ddl/57327.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-04-10:177"
+  },
+  {
+   "data": "2024-04-23",
+   "seduta": 182,
+   "ddl": [
+    {
+     "fase": "S.1110",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 2 marzo 2024, n. 19, recante ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)",
+     "url": "https://dati.senato.it/ddl/58173.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-04-23:182"
+  },
+  {
+   "data": "2024-05-16",
+   "seduta": 190,
+   "ddl": [
+    {
+     "fase": "S.1092",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 29 marzo 2024, n. 39, recante misure urgenti in materia di agevolazioni fiscali di cui agli articoli 119 e 119-ter del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, altre misure urgenti in materia fiscale e connesse a eventi eccezionali, nonché relative all'amministrazione finanziaria",
+     "url": "https://dati.senato.it/ddl/58131.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-05-16:190"
+  },
+  {
+   "data": "2024-05-28",
+   "seduta": 194,
+   "ddl": [
+    {
+     "fase": "S.830",
+     "titolo": "Disposizioni per l'introduzione dell'elezione diretta del Presidente del Consiglio dei ministri in Costituzione",
+     "url": "https://dati.senato.it/ddl/57385.html"
+    },
+    {
+     "fase": "S.935",
+     "titolo": "Modifiche alla parte seconda della Costituzione per l'elezione diretta del Presidente del Consiglio dei ministri, il rafforzamento della stabilità del Governo e l'abolizione della nomina dei senatori a vita da parte del Presidente della Repubblica",
+     "url": "https://dati.senato.it/ddl/57694.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-05-28:194"
+  },
+  {
+   "data": "2024-07-18",
+   "seduta": 209,
+   "ddl": [
+    {
+     "fase": "S.1161",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 giugno 2024, n. 73, recante misure urgenti per la riduzione dei tempi delle liste di attesa delle prestazioni sanitarie",
+     "url": "https://dati.senato.it/ddl/58302.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-07-18:209"
+  },
+  {
+   "data": "2024-10-09",
+   "seduta": 229,
+   "ddl": [
+    {
+     "fase": "S.932",
+     "titolo": "Modifiche alla disciplina in materia di durata delle operazioni di intercettazione",
+     "url": "https://dati.senato.it/ddl/57688.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-10-09:229"
+  },
+  {
+   "data": "2024-12-04",
+   "seduta": 249,
+   "ddl": [
+    {
+     "fase": "S.1310",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 11 ottobre 2024, n. 145, recante disposizioni urgenti in materia di ingresso in Italia di lavoratori stranieri, di tutela e assistenza alle vittime di caporalato, di gestione dei flussi migratori e di protezione internazionale, nonché dei relativi procedimenti giurisdizionali",
+     "url": "https://dati.senato.it/ddl/58704.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-12-04:249"
+  },
+  {
+   "data": "2024-12-12",
+   "seduta": 253,
+   "ddl": [
+    {
+     "fase": "S.1318",
+     "titolo": "Legge annuale per il mercato e la concorrenza 2023",
+     "url": "https://dati.senato.it/ddl/58725.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-12-12:253"
+  },
+  {
+   "data": "2024-12-28",
+   "seduta": 258,
+   "ddl": [
+    {
+     "fase": "S.1330",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027",
+     "url": "https://dati.senato.it/ddl/58757.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-12-28:258"
+  },
+  {
+   "data": "2025-02-26",
+   "seduta": 278,
+   "ddl": [
+    {
+     "fase": "S.1258",
+     "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2024",
+     "url": "https://dati.senato.it/ddl/58568.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-02-26:278"
+  },
+  {
+   "data": "2025-03-20",
+   "seduta": 288,
+   "ddl": [
+    {
+     "fase": "S.1146",
+     "titolo": "Disposizioni e deleghe al Governo in materia di intelligenza artificiale",
+     "url": "https://dati.senato.it/ddl/58262.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-03-20:288"
+  },
+  {
+   "data": "2025-06-04",
+   "seduta": 312,
+   "ddl": [
+    {
+     "fase": "S.1509",
+     "titolo": "Conversione in legge del decreto-legge 11 aprile 2025, n. 48, recante disposizioni urgenti in materia di sicurezza pubblica, di tutela del personale in servizio, nonché di vittime dell'usura e di ordinamento penitenziario",
+     "url": "https://dati.senato.it/ddl/59201.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-06-04:312"
+  },
+  {
+   "data": "2025-07-22",
+   "seduta": 331,
+   "ddl": [
+    {
+     "fase": "S.1353",
+     "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+     "url": "https://dati.senato.it/ddl/58803.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-07-22:331"
+  },
+  {
+   "data": "2025-10-30",
+   "seduta": 361,
+   "ddl": [
+    {
+     "fase": "S.1353-B",
+     "titolo": "Norme in materia di ordinamento giurisdizionale e di istituzione della Corte disciplinare",
+     "url": "https://dati.senato.it/ddl/59541.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-10-30:361"
+  },
+  {
+   "data": "2025-12-23",
+   "seduta": 375,
+   "ddl": [
+    {
+     "fase": "S.1689",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2026 e bilancio pluriennale per il triennio 2026-2028",
+     "url": "https://dati.senato.it/ddl/59654.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-12-23:375"
+  },
+  {
+   "data": "2026-04-17",
+   "seduta": 411,
+   "ddl": [
+    {
+     "fase": "S.1818",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 24 febbraio 2026, n. 23, recante disposizioni urgenti in materia di sicurezza pubblica, di attività di indagine dell'autorità giudiziaria in presenza di cause di giustificazione, di funzionalità delle forze di polizia e del Ministero dell'interno, nonché di immigrazione e protezione internazionale",
+     "url": "https://dati.senato.it/ddl/59938.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2026-04-17:411"
+  },
+  {
+   "data": "2026-09-10",
+   "seduta": 451,
+   "ddl": [
+    {
+     "fase": "S.61",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+     "url": "https://dati.senato.it/ddl/55212.html"
+    },
+    {
+     "fase": "S.1822",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/59945.html"
+    },
+    {
+     "fase": "S.1971",
+     "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/60317.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2026-09-10:451"
+  },
+  {
+   "data": "2026-09-15",
+   "seduta": 454,
+   "ddl": [
+    {
+     "fase": "S.61",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di soppressione dei collegi uninominali e delega al Governo per la determinazione dei collegi elettorali plurinominali",
+     "url": "https://dati.senato.it/ddl/55212.html"
+    },
+    {
+     "fase": "S.1822",
+     "titolo": "Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/59945.html"
+    },
+    {
+     "fase": "S.1971",
+     "titolo": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica",
+     "url": "https://dati.senato.it/ddl/60317.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2026-09-15:454"
+  }
+ ]
+}

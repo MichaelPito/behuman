@@ -1,0 +1,1738 @@
+{
+ "slug": "roberto-calderoli",
+ "nome": "Roberto Calderoli",
+ "partito": {
+  "slug": "lega",
+  "nome": "Lega per Salvini Premier",
+  "sigla": "Lega"
+ },
+ "schieramento": "governo",
+ "dal": "2021-10-23",
+ "al": "2026-10-23",
+ "riepilogo": {
+  "totale": 187,
+  "camera": 54,
+  "parole_camera": 22926,
+  "governo": 0,
+  "senato": 133,
+  "verificate": 0,
+  "prima": "2021-10-27",
+  "ultima": "2026-07-29",
+  "per_anno": [
+   {
+    "anno": "2021",
+    "camera": 0,
+    "governo": 0,
+    "senato": 32,
+    "verificate": 0
+   },
+   {
+    "anno": "2022",
+    "camera": 0,
+    "governo": 0,
+    "senato": 89,
+    "verificate": 0
+   },
+   {
+    "anno": "2023",
+    "camera": 1,
+    "governo": 0,
+    "senato": 0,
+    "verificate": 0
+   },
+   {
+    "anno": "2024",
+    "camera": 23,
+    "governo": 0,
+    "senato": 4,
+    "verificate": 0
+   },
+   {
+    "anno": "2025",
+    "camera": 21,
+    "governo": 0,
+    "senato": 5,
+    "verificate": 0
+   },
+   {
+    "anno": "2026",
+    "camera": 9,
+    "governo": 0,
+    "senato": 3,
+    "verificate": 0
+   }
+  ],
+  "categorie": [
+   {
+    "categoria": "Question time",
+    "n": 14
+   },
+   {
+    "categoria": "Ordine dei lavori e procedura",
+    "n": 14
+   },
+   {
+    "categoria": "Leggi e decreti in esame",
+    "n": 12
+   },
+   {
+    "categoria": "Mozioni",
+    "n": 9
+   },
+   {
+    "categoria": "Documenti di bilancio e programmazione",
+    "n": 5
+   }
+  ],
+  "argomenti_frequenti": [
+   {
+    "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+    "n": 13,
+    "dal": "2023-01-18",
+    "al": "2026-07-29"
+   },
+   {
+    "argomento": "Seguito della discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione…",
+    "n": 4,
+    "dal": "2026-07-21",
+    "al": "2026-07-22"
+   },
+   {
+    "argomento": "Seguito della discussione del disegno di legge: S. 615 - Disposizioni per l'attuazione dell'autonomia differenziata delle regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione…",
+    "n": 3,
+    "dal": "2024-06-11",
+    "al": "2024-06-18"
+   },
+   {
+    "argomento": "Seguito della discussione del disegno di legge: S. 1054 – “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+    "n": 3,
+    "dal": "2025-07-02",
+    "al": "2025-07-03"
+   },
+   {
+    "argomento": "Seguito della discussione delle mozioni Francesco Silvestri ed altri n. 1-00309 , Zaratti ed altri n. 1-00339 , Sarracino ed altri n. 1-00340 , Richetti ed altri n. 1-00350 e Boschi ed altri n. 1-00353 in materia di…",
+    "n": 2,
+    "dal": "2024-11-19",
+    "al": "2024-11-19"
+   },
+   {
+    "argomento": "Seguito della discussione del disegno di legge: S. 1054 - “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+    "n": 2,
+    "dal": "2025-06-25",
+    "al": "2025-07-08"
+   }
+  ],
+  "fonti_verificate": []
+ },
+ "recap": "Dal 27 ottobre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 133 interventi nell'Aula del Senato. In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "coerenza": {
+  "proposizioni_con_posizioni": 2,
+  "proposizioni_confrontabili": 1,
+  "proposizioni_con_cambi": 0,
+  "cambi_totali": 0
+ },
+ "verificate": [],
+ "camera": [
+  {
+   "data": "2023-01-18",
+   "leg": 19,
+   "seduta": 38,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza volte a garantire la piena attuazione della legge n. 112 del 2016 in materia di assistenza in favore delle persone con disabilità grave prive del sostegno familiare, con particolare riferimento alla mancata rendicontazione da parte di numerose regioni sull'effettiva attribuzione delle risorse trasferite – n. 3-00103",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli presentatori, perché mi consentono di affrontare il tema dell'attuazione della legge n. 112 del 2016, la cosiddetta legge «sul dopo di noi», che, come sappiamo, riveste un ruolo centrale per la tutela dei diritti delle persone con disabilità, indispensabile per la loro piena inclusione ed effettiva partecipazione sociale, e che ha permesso l'avvio di tanti progetti ed esper […]",
+   "parole": 417,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0038&tipo=stenografico#sed0038.stenografico.tit00050.sub00030.int00040"
+  },
+  {
+   "data": "2024-01-10",
+   "leg": 19,
+   "seduta": 223,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte a garantire la continuità del finanziamento dei livelli essenziali delle prestazioni nell'ambito dell'attuazione dell'autonomia differenziata - n. 3-00898",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Le compartecipazioni sono espressamente previste fra le fonti di finanziamento di regioni ed enti locali dall'articolo 119, secondo comma, della Costituzione, e costituiscono uno dei perni del federalismo fiscale, la cui completa attuazione è prevista nell'ambito del PNRR entro il primo trimestre del 2026. […]",
+   "parole": 363,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00050.int00040"
+  },
+  {
+   "data": "2024-03-27",
+   "leg": 19,
+   "seduta": 271,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza in relazione ad una campagna di comunicazione della regione Campania, con particolare riferimento all'utilizzo di risorse pubbliche e alla tutela del ruolo del Governo – n. 3-01096",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. In relazione alla vicenda riportata nell'interrogazione, sulla base di una verifica da parte del Ministero dell'Interno - peraltro, già oggetto di altre interrogazioni - svolta tramite le questure competenti, risulta che i suddetti manifesti, recanti simbolo e logo dell'ente regione, siano effettivamente collocati in diverse aree del capoluogo e delle altre province cam […]",
+   "parole": 364,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00020.int00040"
+  },
+  {
+   "data": "2024-04-29",
+   "leg": 19,
+   "seduta": 285,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Repliche - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Visto che sono stato anche accusato di essere afasico, non ho fatto la replica alla fine della discussione preliminare in Commissione, perché, il venerdì di 15 giorni fa, alla conclusione dalla stessa, eravamo presenti io e l'onorevole Auriemma, che ha condiviso con me e con l'onorevole Stefani, che non c'erano le condizioni per replicare. […]",
+   "parole": 67,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00020.int00020"
+  },
+  {
+   "data": "2024-04-29",
+   "leg": 19,
+   "seduta": 285,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Repliche - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Io mi giro dove voglio, mi scusi, perché l'articolo 67 vige anche per me… Grazie, Presidente. Mi viene in mente, alla fine di questa discussione generale, un film che ho visto 3 anni fa, Don't Look Up , in cui il Presidente degli Stati Uniti, Meryl Streep, alla luce dell'arrivo di un meteorite che minacciava la Terra, previsto da tutti gli scienziati, aveva risolto il problema dicendo: guardate per terra, non guardat […]",
+   "parole": 3379,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00020.int00050"
+  },
+  {
+   "data": "2024-06-11",
+   "leg": 19,
+   "seduta": 304,
+   "argomento": "Seguito della discussione del disegno di legge: S. 615 - Disposizioni per l'attuazione dell'autonomia differenziata delle regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione…",
+   "fase": "Esame dell'articolo 1 - A.C. 1665 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore per la maggioranza.",
+   "parole": 7,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00150.sub00020.int00140"
+  },
+  {
+   "data": "2024-06-11",
+   "leg": 19,
+   "seduta": 304,
+   "argomento": "Si riprende la discussione del disegno di legge n. 1665.",
+   "fase": "Ripresa esame dell'articolo 1 – A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme al relatore di maggioranza.",
+   "parole": 5,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00170.sub00010.int00320"
+  },
+  {
+   "data": "2024-06-12",
+   "leg": 19,
+   "seduta": 305,
+   "argomento": "Seguito della discussione del disegno di legge: S. 615 - Disposizioni per l'attuazione dell'autonomia differenziata delle regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione…",
+   "fase": "Ripresa esame dell'articolo 1 - A.C. 1665 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore di maggioranza.",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00030.sub00010.int00320"
+  },
+  {
+   "data": "2024-06-12",
+   "leg": 19,
+   "seduta": 305,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 2 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme al relatore per la maggioranza.",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00130.sub00020.int00040"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Seguito della discussione del disegno di legge: S. 615 - Disposizioni per l'attuazione dell'autonomia differenziata delle regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione…",
+   "fase": "Ripresa esame dell'articolo 2 - A.C. 1665 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente e colleghi. Ho chiesto la parola su questo emendamento 2.8 per motivare anche il parere contrario su altri emendamenti che tratterò in un'unica sede. L'emendamento 2.8 Iaria è finalizzato all'esclusione della materia delle grandi reti di trasporto e di navigazione da quelle che potrebbero essere di riferibilità di ulteriori forme e condizioni particolari di autonomia. […]",
+   "parole": 1420,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00070.sub00010.int00020"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 3 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Parere conforme a quello del relatore di maggioranza. Lo voglio motivare, perché l'articolo 3 non è quello della proposta di legge di iniziativa governativa iniziale ma è frutto di un emendamento interamente sostitutivo di iniziativa parlamentare al Senato, che il Governo ha condiviso, così come è stato condiviso da tutta la maggioranza.",
+   "parole": 54,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00020.int00040"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 4 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie.",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore di maggioranza.",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00030.int00040"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 5 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme al relatore di maggioranza.",
+   "parole": 5,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00040.int00060"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 6 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore di maggioranza.",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00050.int00060"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 7 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore per la maggioranza.",
+   "parole": 7,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00060.int00060"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 8 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": null,
+   "estratto": "Ministro per gli Affari regionali e le autonomie. Conforme al relatore di maggioranza.",
+   "parole": 13,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00070.int00060"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 9 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme al relatore per la maggioranza.",
+   "parole": 6,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00080.int00050"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 10 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme al relatore di maggioranza.",
+   "parole": 5,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00090.int00050"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame dell'articolo 11 - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Il parere è conforme al relatore di maggioranza. Passiamo alla votazione dell'emendamento 11.10 Sarracino. Indìco la votazione nominale, mediante procedimento elettronico, sull'emendamento 11.10 Sarracino, con il parere contrario della Commissione e del Governo e favorevole del relatore di minoranza. Dichiaro aperta la votazione. (Segue la votazione). Dichiaro chiusa la votazione. La Camera respinge . […]",
+   "parole": 264,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00100.int00060"
+  },
+  {
+   "data": "2024-06-18",
+   "leg": 19,
+   "seduta": 309,
+   "argomento": "Si riprende la discussione.",
+   "fase": "Esame degli ordini del giorno - A.C. 1665 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Sull'ordine del giorno n. 9/1665/1 Bonelli, il parere è favorevole, a condizione che vengano espunti le premesse e il secondo impegno. Sull'ordine del giorno n. 9/1665/2 Ghirra, il parere è favorevole a condizione che vengano espunte le premesse e che l'impegno sia così riformulato: “a promuovere un programma nazionale pluriennale di investimenti che integri le risorse vigenti e finalizzato a garantire la continuità […]",
+   "parole": 1305,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00110.int00020"
+  },
+  {
+   "data": "2024-07-10",
+   "leg": 19,
+   "seduta": 322,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Chiarimenti circa le risorse da stanziare per un adeguato finanziamento dei livelli essenziali delle prestazioni in relazione alle disposizioni per l'attuazione dell'autonomia differenziata delle regioni a statuto ordinario – n. 3-01329",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie.",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Un grazie anche agli interroganti. Sulla base dell'articolo 17 della legge di contabilità, ciascuna legge che comporta nuovi o maggiori oneri indica espressamente le risorse per far fronte alla relativa copertura. Tale disposizione è espressamente richiamata dall'articolo 9 della legge n. 86 del 2024, ai fini del finanziamento dei LEP sulla base dei relativi costi e fabbisogni standard. […]",
+   "parole": 483,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00100.int00040"
+  },
+  {
+   "data": "2024-10-07",
+   "leg": 19,
+   "seduta": 360,
+   "argomento": "Discussione della mozione Francesco Silvestri ed altri n. 1-00309 in materia di attuazione dell'autonomia differenziata, con particolare riguardo alla prioritaria definizione dei livelli essenziali delle prestazioni,…",
+   "fase": "Intervento del Governo",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Mi scuso anticipatamente se non sarò breve, ma siamo di fronte a mozioni che, complessivamente, prevedono 81 premesse e 39 impegni. Onorevole Presidente, onorevoli deputati, permettetemi di dissentire dal contenuto delle mozioni in discussione, con cui vengono reiterate, già nelle articolate premesse, varie critiche al processo di attuazione dell'autonomia differenziata. […]",
+   "parole": 2370,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0360&tipo=stenografico#sed0360.stenografico.tit00040.sub00020.int00020"
+  },
+  {
+   "data": "2024-11-19",
+   "leg": 19,
+   "seduta": 383,
+   "argomento": "Seguito della discussione delle mozioni Francesco Silvestri ed altri n. 1-00309 , Zaratti ed altri n. 1-00339 , Sarracino ed altri n. 1-00340 , Richetti ed altri n. 1-00350 e Boschi ed altri n. 1-00353 in materia di…",
+   "fase": null,
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Presidente, mi scuso, ma sono a richiederle una breve sospensione, perché il testo mi è stato consegnato qualche minuto fa. Un quarto d'ora. Dipende dalla lunghezza.",
+   "parole": 26,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.int00030"
+  },
+  {
+   "data": "2024-11-19",
+   "leg": 19,
+   "seduta": 383,
+   "argomento": "Seguito della discussione delle mozioni Francesco Silvestri ed altri n. 1-00309 , Zaratti ed altri n. 1-00339 , Sarracino ed altri n. 1-00340 , Richetti ed altri n. 1-00350 e Boschi ed altri n. 1-00353 in materia di…",
+   "fase": "Parere del Governo",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Il primo impegno della mozione unitaria chiede di non procedere alla stipula di nuove intese… Mi è stata consegnata, ma è rimasta di là. Se è quella che mi ha consegnato la funzionaria, allora sì. È quella con i tre impegni, l'unica rimasta. Parere contrario. […]",
+   "parole": 443,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.sub00010.int00020"
+  },
+  {
+   "data": "2025-01-08",
+   "leg": 19,
+   "seduta": 405,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Compatibilità del progetto di autonomia differenziata con il principio di equità nell'erogazione dei servizi sanitari sul territorio nazionale - n. 3-01641",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. L'editoriale della rivista The Lancet , autorevole rivista, ma non nuova a controversie rilevanti e molto discutibili, affronta principalmente il tema della raccolta e utilizzazione dei dati relativi alla tutela della salute nel nostro Paese. […]",
+   "parole": 427,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00060.sub00050.int00040"
+  },
+  {
+   "data": "2025-02-05",
+   "leg": 19,
+   "seduta": 422,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte a dare attuazione alla legge in materia di autonomia differenziata, nel rispetto dei rilievi sollevati dalla Corte costituzionale - n. 3-01711",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Signor Presidente, onorevoli deputati, è mia intenzione conseguire proprio quanto suggerito dagli interroganti. L'autonomia differenziata può effettivamente rappresentare - testualmente - un volano per lo sviluppo dei territori, consentendo di realizzare una migliore e più efficiente allocazione delle funzioni e delle relative risorse. […]",
+   "parole": 424,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00100.int00040"
+  },
+  {
+   "data": "2025-04-16",
+   "leg": 19,
+   "seduta": 468,
+   "argomento": "Discussione del disegno di legge: S. 1054 - “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed altri;…",
+   "fase": "Repliche - A.C. 2126-A ​ ed abbinate",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Anche per porre qualche puntino sulle “i” sia rispetto al passaggio in Commissione sia rispetto al passaggio in Aula. Diversi colleghi hanno ricordato l'articolo 44 della Costituzione: “La legge dispone provvedimenti a favore delle zone montane”, uno dei tanti punti della Costituzione che non trova ancora attuazione perché le leggi a favore della montagna o sono state abrogate o hanno esaurito gli […]",
+   "parole": 1245,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00110.sub00020.int00020"
+  },
+  {
+   "data": "2025-05-21",
+   "leg": 19,
+   "seduta": 483,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Elementi in merito al disegno di legge recentemente approvato dal Consiglio dei ministri in materia di determinazione dei livelli essenziali delle prestazioni, anche in relazione all'attuazione dell'autonomia differenziata - n. 3-01970",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente, e grazie agli interroganti perché mi danno l'occasione di affrontare un argomento che, secondo me, può rappresentare veramente una svolta storica del nostro Paese, per quello che è consentito in tre minuti. […]",
+   "parole": 442,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00010.int00040"
+  },
+  {
+   "data": "2025-06-25",
+   "leg": 19,
+   "seduta": 499,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1054 - “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+   "fase": "Esame degli articoli - A.C. 2126-A ​ e abbinate",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Il parere del Ministro è conforme a quello della relatrice. Insisto anch'io sulla necessità di un approfondimento sul subemendamento 0.4.200.1 Boschi e, nonostante ci si sia già espressi in sede di Comitato dei nove, un ulteriore approfondimento sull'articolo aggiuntivo 14.01000 Bruzzone.",
+   "parole": 41,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00110.sub00010.int00160"
+  },
+  {
+   "data": "2025-07-02",
+   "leg": 19,
+   "seduta": 503,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1054 – “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+   "fase": "Articolo 4 - A.C. 2126-A ​ e abbinate",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme.",
+   "parole": 2,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0503&tipo=stenografico#sed0503.stenografico.tit00090.sub00030.int00080"
+  },
+  {
+   "data": "2025-07-03",
+   "leg": 19,
+   "seduta": 504,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1054 – “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+   "fase": "Articolo 14 - A.C. 2126-A ​ e abbinate",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Conforme.",
+   "parole": 1,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0504&tipo=stenografico#sed0504.stenografico.tit00050.sub00090.int00040"
+  },
+  {
+   "data": "2025-07-03",
+   "leg": 19,
+   "seduta": 504,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1054 – “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+   "fase": "Esame degli ordini del giorno - A.C. 2126-A ​ e abbinate",
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Sull'ordine del giorno n. 9/2126-A/1 Dori, il parere è contrario. Sull'ordine del giorno n. 9/2126-A/2 Bonelli, il parere è favorevole a condizione che vengano espunte le premesse e che gli impegni siano tutti riformulati, premettendo le seguenti parole: “valutare, nel rispetto degli equilibri di finanza pubblica, l'opportunità di”. Sugli ordini del giorno n. 9/2126-A/3 Zanella e n. […]",
+   "parole": 1181,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0504&tipo=stenografico#sed0504.stenografico.tit00050.sub00290.int00020"
+  },
+  {
+   "data": "2025-07-08",
+   "leg": 19,
+   "seduta": 506,
+   "argomento": "Seguito della discussione del disegno di legge: S. 1054 - “Disposizioni per il riconoscimento e la promozione delle zone montane” (Approvato dal Senato) (A.C. 2126-A ​) e delle abbinate proposte di legge: Girelli ed…",
+   "fase": null,
+   "categoria": "Mozioni",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. C'è stata una rivalutazione dell'ordine del giorno n. 9/2126-A/12 Girelli, su cui intendiamo modificare il parere da contrario a favorevole, condizionatamente a che vengano espunte le premesse e che gli impegni siano sostituiti dal seguente: “a valutare l'opportunità di ulteriormente valorizzare la telemedicina nelle zone montane quale strumento essenziale per consentire la cura costante delle per […]",
+   "parole": 104,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0506&tipo=stenografico#sed0506.stenografico.tit00050.int00020"
+  },
+  {
+   "data": "2025-08-04",
+   "leg": 19,
+   "seduta": 522,
+   "argomento": "Discussione della proposta di legge: S. 1452 – Disposizioni in materia di composizione di giunte e consigli regionali e di incompatibilità (Approvata dal Senato) (A.C. 2500 ​) (ore 13,05) .",
+   "fase": "Repliche - A.C. 2500 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. In poche parole, questo provvedimento pone parzialmente rimedio a un mio intervento legislativo del 2011, con un decreto-legge che aveva determinato dei tagli legati al negativo ciclo economico che stavamo vivendo allora. […]",
+   "parole": 338,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0522&tipo=stenografico#sed0522.stenografico.tit00020.sub00020.int00020"
+  },
+  {
+   "data": "2025-08-06",
+   "leg": 19,
+   "seduta": 524,
+   "argomento": "Seguito della discussione della proposta di legge: S. 1452 – D'iniziativa dei senatori Malan ed altri: Disposizioni in materia di composizione di giunte e consigli regionali e di incompatibilità (Approvata dal…",
+   "fase": "Esame degli articoli - A.C. 2500 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere contrario sugli emendamenti. Essendo gli ordini del giorno attinenti al medesimo spunto degli emendamenti, parere contrario anche su tutti gli ordini del giorno.",
+   "parole": 24,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0524&tipo=stenografico#sed0524.stenografico.tit00120.sub00010.int00040"
+  },
+  {
+   "data": "2025-08-06",
+   "leg": 19,
+   "seduta": 524,
+   "argomento": "Seguito della discussione della proposta di legge: S. 1452 – D'iniziativa dei senatori Malan ed altri: Disposizioni in materia di composizione di giunte e consigli regionali e di incompatibilità (Approvata dal…",
+   "fase": "Esame degli ordini del giorno - A.C. 2500 ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Non ho cambiato idea e, quindi, esprimo parere contrario su tutti gli ordini del giorno.",
+   "parole": 17,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0524&tipo=stenografico#sed0524.stenografico.tit00120.sub00040.int00020"
+  },
+  {
+   "data": "2025-09-16",
+   "leg": 19,
+   "seduta": 531,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Chiarimenti in merito a recenti dichiarazioni del Ministro per gli Affari regionali e le autonomie relative a iniziative politiche assunte dalla Lega Nord nel 1996 con riguardo ad un possibile percorso secessionista - n. 3-02179",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. L'interrogazione ha ad oggetto mie dichiarazioni dello scorso 30 agosto riferite a vicende del 1996, cioè, a quasi trent'anni fa. Si tratta di fatti che hanno anche formato oggetto di procedimenti penali a mio carico, dai quali sono uscito sempre assolto. […]",
+   "parole": 362,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00180.sub00030.int00040"
+  },
+  {
+   "data": "2025-10-07",
+   "leg": 19,
+   "seduta": 543,
+   "argomento": "Discussione del disegno di legge costituzionale: Modifiche allo Statuto speciale per il Trentino-Alto Adige/Südtirol (AC. 2473-A ​) (ore 10,03) .",
+   "fase": "Repliche - A.C. 2473-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie. Alcune considerazioni, anche alla luce del dibattito in Commissione. Sono un po' sorpreso perché, se devo valutare l'atteggiamento delle opposizioni, c'è chi dice che abbiamo fatto troppo poco e chi troppo tanto, a fronte di emendamenti che avrebbero soppresso molte delle materie che, invece, venivano attribuite alle province. […]",
+   "parole": 757,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00030.sub00020.int00040"
+  },
+  {
+   "data": "2025-10-07",
+   "leg": 19,
+   "seduta": 543,
+   "argomento": "Discussione della proposta di legge costituzionale: D'iniziativa del Consiglio regionale del Friuli-Venezia Giulia: Modifiche alla legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della regione…",
+   "fase": "Repliche - A.C. 976-B ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Pochissime parole per ringraziare la relatrice e le deputate intervenute quest'oggi. Credo che questa modifica costituzionale rappresenti un'espressione di leale collaborazione fra Stato e regione, perché è un progetto di legge che nasce su iniziativa del consiglio regionale, modificato in Parlamento e che, fosse prevista o meno l'intesa, noi abbiamo chiesto il parere al consiglio regionale e dubi […]",
+   "parole": 203,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00040.sub00020.int00020"
+  },
+  {
+   "data": "2025-10-07",
+   "leg": 19,
+   "seduta": 543,
+   "argomento": "Discussione della proposta di legge costituzionale: D'iniziativa del Consiglio regionale del Friuli-Venezia Giulia: Modifiche alla legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della regione…",
+   "fase": "Repliche - A.C. 976-B ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Mandi , perché è friulano… forse in Venezia Giulia non lo apprezzano…",
+   "parole": 12,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00040.sub00020.int00050"
+  },
+  {
+   "data": "2025-10-07",
+   "leg": 19,
+   "seduta": 543,
+   "argomento": "Seguito della discussione del disegno di legge costituzionale: Modifiche allo Statuto speciale per il Trentino-Alto Adige/Südtirol (AC. 2473-A ​) (ore 16,30) .",
+   "fase": "Esame dell'articolo unico - A.C. 2473-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Parere conforme al relatore.",
+   "parole": 4,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00130.sub00010.int00040"
+  },
+  {
+   "data": "2025-10-07",
+   "leg": 19,
+   "seduta": 543,
+   "argomento": "Seguito della discussione del disegno di legge costituzionale: Modifiche allo Statuto speciale per il Trentino-Alto Adige/Südtirol (AC. 2473-A ​) (ore 16,30) .",
+   "fase": "Esame degli ordini del giorno - A.C. 2473-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Il parere è contrario su tutti gli ordini del giorno. Ci sono spunti interessanti, che però non si concretizzano nella riforma costituzionale e potranno essere più utili nella sua fase di attuazione.",
+   "parole": 34,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00130.sub00020.int00020"
+  },
+  {
+   "data": "2025-10-15",
+   "leg": 19,
+   "seduta": 548,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Intendimenti del Governo in ordine all'eventuale esercizio dei poteri di cui all'articolo 120 della Costituzione nei confronti della Regione siciliana, ai fini della tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali - n. 3-02248",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Non posso che dolermi per la drammatica vicenda di malasanità che ha portato al decesso di una povera donna; lo faccio come uomo, come politico, come medico e, ahimè, come paziente oncologico. Esprimo la sentita vicinanza del Governo e la solidarietà mia personale alla famiglia. Io stesso ho subìto, in altra regione, una vicenda dai contorni analoghi. […]",
+   "parole": 305,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00090.int00040"
+  },
+  {
+   "data": "2025-11-12",
+   "leg": 19,
+   "seduta": 564,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Intendimenti del Governo in ordine alla stipula di intese in materia di autonomia differenziata, in relazione alla definizione dei livelli essenziali delle prestazioni e alla giurisprudenza della Corte costituzionale - n. 3-02311",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Gli interroganti reiterano nelle loro premesse le stesse critiche infondate già da loro formulate in varie sedi, cui ho già replicato in molteplici occasioni. Osservo che la Corte costituzionale non ha demolito l'impianto della legge n. 86 del 2024, ma l'ha invece dichiarata legittima, limitandosi a censurarne specifici profili. […]",
+   "parole": 336,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0564&tipo=stenografico#sed0564.stenografico.tit00090.sub00010.int00040"
+  },
+  {
+   "data": "2025-12-17",
+   "leg": 19,
+   "seduta": 586,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative volte ad una classificazione dei comuni montani che consenta un'equa distribuzione delle risorse finanziarie - n. 3-02398",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "La legge n. 131 del 2025 prevede la classificazione dei comuni montani sulla base dei criteri altimetrico e della pendenza. L'obiettivo, dichiarato dallo stesso legislatore, è quello di ridurre l'attuale elenco di oltre 4.000 comuni che contiene realtà, quali Roma e Bologna, che, con altimetria media di, rispettivamente, 67 e 82 metri, non hanno certo le caratteristiche geografiche della montagna. […]",
+   "parole": 335,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00010.sub00090.int00040"
+  },
+  {
+   "data": "2026-02-25",
+   "leg": 19,
+   "seduta": 622,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata (ore 15,02) .",
+   "fase": "Chiarimenti in merito alla prima applicazione della cosiddetta legge sulla montagna, con particolare riferimento ai nuovi criteri per la classificazione dei comuni montani - n. 3-02525",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Come evidenziato dall'interrogante, il nuovo elenco ricomprende 3.715 comuni montani, a fronte degli oltre 4.000 contenuti nel precedente. I comuni non inclusi non soddisfano le caratteristiche di altimetria e pendenza individuati in attuazione della legge sulla montagna. […]",
+   "parole": 344,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00100.int00040"
+  },
+  {
+   "data": "2026-03-09",
+   "leg": 19,
+   "seduta": 629,
+   "argomento": "Discussione del disegno di legge costituzionale: Modifiche allo statuto speciale per il Trentino-Alto Adige/Südtirol (Approvato, in prima deliberazione, dalla Camera e approvato, senza modificazioni, in prima…",
+   "fase": "Discussione sulle linee generali - A.C. 2473-B ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Ringrazio il relatore Urzi', che ha rappresentato puntualmente tutti i contenuti. Volevo fare una piccola cronistoria di questa riforma. Nasce da un incontro del sottoscritto e della Presidente Meloni al Festival delle regioni nel dicembre 2022, laddove il Presidente Kompatscher, a nome di tutti i presidenti delle regioni e delle province autonome presenti all'incontro, presentò una loro proposta […]",
+   "parole": 460,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0629&tipo=stenografico#sed0629.stenografico.tit00030.sub00010.int00040"
+  },
+  {
+   "data": "2026-04-29",
+   "leg": 19,
+   "seduta": 651,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Iniziative di competenza in relazione agli schemi di intesa preliminare in materia di autonomia differenziata con le regioni Liguria, Lombardia, Piemonte e Veneto, anche alla luce dei principi sanciti nella sentenza n. 192 del 2024 della Corte costituzionale - n. 3-02648",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. La sentenza della Corte n. 192 del 2024 non ha - come sostengono gli interroganti - sonoramente bocciato la legge n. 86 del 2024, piuttosto ne ha confermato l'impianto, fornendo anche indicazioni precise per lo svolgimento del percorso negoziale per l'attribuzione di forme e condizioni particolari di autonomia. […]",
+   "parole": 318,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00090.int00040"
+  },
+  {
+   "data": "2026-07-20",
+   "leg": 19,
+   "seduta": 693,
+   "argomento": "Discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione Veneto per…",
+   "fase": "Intervento del Governo - Doc. XVI, nn. 6 , 7, 8 e 9",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Se me lo consente, io articolerei la mia replica in fasi diverse. Una replica generale, che è la stessa che ho fatto in sede di Commissione, dove ho replicato oralmente e non ho depositato un testo: quindi, a quello rinvio e deposito alla Presidenza quella replica. La integro con una parte generale, e poi replicherò ai singoli interventi. […]",
+   "parole": 3539,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0693&tipo=stenografico#sed0693.stenografico.tit00060.sub00030.int00020"
+  },
+  {
+   "data": "2026-07-21",
+   "leg": 19,
+   "seduta": 694,
+   "argomento": "Seguito della discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione…",
+   "fase": "Parere del Governo - Doc. XVI, n. 6",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Il parere è favorevole sulla risoluzione Alessandro Colucci, Urzi', Iezzi, Paolo Emilio Russo n. 6-00268 . Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00272 e Richetti e altri n. 6-00276 .",
+   "parole": 54,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00060.sub00010.int00020"
+  },
+  {
+   "data": "2026-07-21",
+   "leg": 19,
+   "seduta": 694,
+   "argomento": "Seguito della discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione…",
+   "fase": "Parere del Governo - Doc. XVI, n. 7",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Il parere è favorevole sulla risoluzione Iezzi, Urzi', Paolo Emilio Russo e Alessandro Colucci n. 6-00269 . Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00273 e Richetti ed altri n. 6-00277 .",
+   "parole": 55,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00090.sub00010.int00020"
+  },
+  {
+   "data": "2026-07-21",
+   "leg": 19,
+   "seduta": 694,
+   "argomento": "Seguito della discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione…",
+   "fase": "Parere del Governo - Doc. XVI, n. 8",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Sulla risoluzione Paolo Emilio Russo, Urzi', Iezzi e Alessandro Colucci n. 6-00270 il parere è favorevole. Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00274 e Richetti ed altri n. 6-00278 .",
+   "parole": 54,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00100.sub00010.int00020"
+  },
+  {
+   "data": "2026-07-22",
+   "leg": 19,
+   "seduta": 695,
+   "argomento": "Seguito della discussione della relazione della I Commissione (Affari Costituzionali, della Presidenza del Consiglio e Interni) sullo schema di intesa preliminare tra il Governo della Repubblica italiana e la Regione…",
+   "fase": "Parere del Governo - Doc. XVI, n. 9",
+   "categoria": "Documenti di bilancio e programmazione",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Esprimo parere favorevole sulla risoluzione Urzi', Iezzi, Paolo Emilio Russo e Alessandro Colucci n. 6-00271 e parere contrario, per le ragioni già evidenziate in sede di replica, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00275 e Richetti ed altri 6-00279 .",
+   "parole": 47,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00050.sub00010.int00020"
+  },
+  {
+   "data": "2026-07-29",
+   "leg": 19,
+   "seduta": 700,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Tempi di adozione del decreto volto all'individuazione dei comuni montani destinatari dei benefici economici ed elementi in merito alla ripartizione del Fondo per lo sviluppo delle montagne italiane - n. 3-02825",
+   "categoria": "Question time",
+   "ruolo": "Ministro per gli Affari regionali e le autonomie",
+   "gruppo": null,
+   "estratto": "Grazie, Presidente. Sul primo quesito posto dagli interroganti, rappresento che è in corso l'interlocuzione con Istat, da cui attendo elementi tecnici ai fini della predisposizione del regolamento previsto dall'articolo 2, comma 2, della legge n. 131 del 2025. Rassicuro sul fatto che conto di perfezionare il regolamento ben prima della scadenza dei 90 giorni che, sulla base della legge, decorrono dal 22 luglio. […]",
+   "parole": 434,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00070.sub00030.int00040"
+  }
+ ],
+ "governo": [],
+ "senato": [
+  {
+   "data": "2021-10-27",
+   "seduta": 371,
+   "ddl": [
+    {
+     "fase": "S.2005",
+     "titolo": "Misure di prevenzione e contrasto della discriminazione e della violenza per motivi fondati sul sesso, sul genere, sull'orientamento sessuale, sull'identità di genere e sulla disabilità",
+     "url": "https://dati.senato.it/ddl/53457.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-10-27:371"
+  },
+  {
+   "data": "2021-11-02",
+   "seduta": 373,
+   "ddl": [
+    {
+     "fase": "S.2169",
+     "titolo": "Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - Legge europea 2019-2020",
+     "url": "https://dati.senato.it/ddl/53891.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2021-11-02:373"
+  },
+  {
+   "data": "2021-11-03",
+   "seduta": 374,
+   "ddl": [
+    {
+     "fase": "S.674",
+     "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il recupero di rifiuti in mare",
+     "url": "https://dati.senato.it/ddl/50237.html"
+    },
+    {
+     "fase": "S.1503",
+     "titolo": "Disposizioni per il recupero dei rifiuti solidi dispersi in mare e per la protezione dell'ecosistema marino",
+     "url": "https://dati.senato.it/ddl/52270.html"
+    },
+    {
+     "fase": "S.1571",
+     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
+     "url": "https://dati.senato.it/ddl/52448.html"
+    },
+    {
+     "fase": "S.2437",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
+     "url": "https://dati.senato.it/ddl/54526.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2021-11-03:374"
+  },
+  {
+   "data": "2021-11-04",
+   "seduta": 375,
+   "ddl": [
+    {
+     "fase": "S.2437",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
+     "url": "https://dati.senato.it/ddl/54526.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2021-11-04:375"
+  },
+  {
+   "data": "2021-11-09",
+   "seduta": 376,
+   "ddl": [
+    {
+     "fase": "S.674",
+     "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il recupero di rifiuti in mare",
+     "url": "https://dati.senato.it/ddl/50237.html"
+    },
+    {
+     "fase": "S.1503",
+     "titolo": "Disposizioni per il recupero dei rifiuti solidi dispersi in mare e per la protezione dell'ecosistema marino",
+     "url": "https://dati.senato.it/ddl/52270.html"
+    },
+    {
+     "fase": "S.1571",
+     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
+     "url": "https://dati.senato.it/ddl/52448.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-11-09:376"
+  },
+  {
+   "data": "2021-11-11",
+   "seduta": 378,
+   "ddl": [
+    {
+     "fase": "S.2326",
+     "titolo": "Proroga del termine previsto dall'articolo 8, comma 1, della legge 8 marzo 2019, n. 21, per la conclusione dei lavori della Commissione parlamentare di inchiesta sui fatti accaduti presso la comunità «Il Forteto»",
+     "url": "https://dati.senato.it/ddl/54275.html"
+    },
+    {
+     "fase": "S.2401",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 settembre 2021, n. 130, recante misure urgenti per il contenimento degli effetti degli aumenti dei prezzi nel settore elettrico e del gas naturale",
+     "url": "https://dati.senato.it/ddl/54442.html"
+    }
+   ],
+   "interventi": 4,
+   "id": "2021-11-11:378"
+  },
+  {
+   "data": "2021-11-17",
+   "seduta": 380,
+   "ddl": [
+    {
+     "fase": "S.2447",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
+     "url": "https://dati.senato.it/ddl/54558.html"
+    },
+    {
+     "fase": "S.1542",
+     "titolo": "Norme sulla libertà di associazione sindacale dei militari e delega al Governo per il coordinamento normativo",
+     "url": "https://dati.senato.it/ddl/52358.html"
+    },
+    {
+     "fase": "S.1893",
+     "titolo": "Norme sull'esercizio della libertà sindacale del personale delle Forze armate e delle Forze di polizia a ordinamento militare, nonché delega al Governo per il coordinamento normativo",
+     "url": "https://dati.senato.it/ddl/53181.html"
+    },
+    {
+     "fase": "S.1950",
+     "titolo": "Norme sull'esercizio della libertà sindacale del personale delle Forze armate e delle Forze di polizia ad ordinamento militare, nonché delega al Governo per il coordinamento normativo",
+     "url": "https://dati.senato.it/ddl/53318.html"
+    }
+   ],
+   "interventi": 4,
+   "id": "2021-11-17:380"
+  },
+  {
+   "data": "2021-11-18",
+   "seduta": 381,
+   "ddl": [
+    {
+     "fase": "S.2409",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 ottobre 2021, n. 139, recante disposizioni urgenti per l'accesso alle attività culturali, sportive e ricreative, nonché per l'organizzazione di pubbliche amministrazioni e in materia di protezione dei dati personali",
+     "url": "https://dati.senato.it/ddl/54463.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2021-11-18:381"
+  },
+  {
+   "data": "2021-12-02",
+   "seduta": 385,
+   "ddl": [
+    {
+     "fase": "S.2426",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 21 ottobre 2021, n. 146, recante misure urgenti in materia economica e fiscale, a tutela del lavoro e per esigenze indifferibili",
+     "url": "https://dati.senato.it/ddl/54505.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-12-02:385"
+  },
+  {
+   "data": "2021-12-14",
+   "seduta": 386,
+   "ddl": [
+    {
+     "fase": "S.2086",
+     "titolo": "Modifiche al codice penale in materia di istigazione alla violenza, all'autolesionismo e al suicidio",
+     "url": "https://dati.senato.it/ddl/53679.html"
+    },
+    {
+     "fase": "S.882",
+     "titolo": "Disposizioni in materia di reati contro il patrimonio culturale",
+     "url": "https://dati.senato.it/ddl/50801.html"
+    }
+   ],
+   "interventi": 6,
+   "id": "2021-12-14:386"
+  },
+  {
+   "data": "2021-12-20",
+   "seduta": 388,
+   "ddl": [
+    {
+     "fase": "S.2475",
+     "titolo": "Delega al Governo in materia di disabilità",
+     "url": "https://dati.senato.it/ddl/54642.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-12-20:388"
+  },
+  {
+   "data": "2021-12-22",
+   "seduta": 390,
+   "ddl": [
+    {
+     "fase": "S.2448",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024",
+     "url": "https://dati.senato.it/ddl/54559.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2021-12-22:390"
+  },
+  {
+   "data": "2021-12-23",
+   "seduta": 391,
+   "ddl": [
+    {
+     "fase": "S.2448",
+     "titolo": "Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024",
+     "url": "https://dati.senato.it/ddl/54559.html"
+    },
+    {
+     "fase": "S.2448/I",
+     "titolo": "Nota di variazioni al Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024",
+     "url": "https://dati.senato.it/ddl/54672.html"
+    },
+    {
+     "fase": "S.2483",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 6 novembre 2021, n. 152, recante disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per la prevenzione delle infiltrazioni mafiose",
+     "url": "https://dati.senato.it/ddl/54657.html"
+    }
+   ],
+   "interventi": 5,
+   "id": "2021-12-23:391"
+  },
+  {
+   "data": "2022-02-08",
+   "seduta": 400,
+   "ddl": [
+    {
+     "fase": "S.2488",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 24 dicembre 2021, n. 221, recante proroga dello stato di emergenza nazionale e ulteriori misure per il contenimento della diffusione dell'epidemia da COVID-19",
+     "url": "https://dati.senato.it/ddl/54679.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-02-08:400"
+  },
+  {
+   "data": "2022-02-10",
+   "seduta": 402,
+   "ddl": [
+    {
+     "fase": "S.2488",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 24 dicembre 2021, n. 221, recante proroga dello stato di emergenza nazionale e ulteriori misure per il contenimento della diffusione dell'epidemia da COVID-19",
+     "url": "https://dati.senato.it/ddl/54679.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-02-10:402"
+  },
+  {
+   "data": "2022-02-23",
+   "seduta": 407,
+   "ddl": [
+    {
+     "fase": "S.1201",
+     "titolo": "Disposizioni in materia di trasparenza dei rapporti tra le imprese produttrici, i soggetti che operano nel settore della salute e le organizzazioni sanitarie",
+     "url": "https://dati.senato.it/ddl/51601.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-02-23:407"
+  },
+  {
+   "data": "2022-03-02",
+   "seduta": 411,
+   "ddl": [
+    {
+     "fase": "S.2542",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 7 gennaio 2022, n. 1, recante misure urgenti per fronteggiare l'emergenza COVID-19, in particolare nei luoghi di lavoro, nelle scuole e negli istituti della formazione superiore",
+     "url": "https://dati.senato.it/ddl/54790.html"
+    },
+    {
+     "fase": "S.988-B",
+     "titolo": "Disposizioni per la tutela, lo sviluppo e la competitività della produzione agricola, agroalimentare e dell'acquacoltura con metodo biologico",
+     "url": "https://dati.senato.it/ddl/54745.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-03-02:411"
+  },
+  {
+   "data": "2022-03-09",
+   "seduta": 412,
+   "ddl": [
+    {
+     "fase": "S.2330",
+     "titolo": "Delega al Governo in materia di contratti pubblici",
+     "url": "https://dati.senato.it/ddl/54280.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-03-09:412"
+  },
+  {
+   "data": "2022-03-17",
+   "seduta": 415,
+   "ddl": [
+    {
+     "fase": "S.2505",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 27 gennaio 2022, n. 4, recante misure urgenti in materia di sostegno alle imprese e agli operatori economici, di lavoro, salute e servizi territoriali, connesse all'emergenza da COVID-19, nonché per il contenimento degli effetti degli aumenti dei prezzi nel settore elettrico",
+     "url": "https://dati.senato.it/ddl/54719.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-03-17:415"
+  },
+  {
+   "data": "2022-03-22",
+   "seduta": 416,
+   "ddl": [
+    {
+     "fase": "S.2478",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/54646.html"
+    },
+    {
+     "fase": "S.747",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/50431.html"
+    },
+    {
+     "fase": "S.2262",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/54151.html"
+    },
+    {
+     "fase": "S.2474",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/54641.html"
+    },
+    {
+     "fase": "S.2480",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/54649.html"
+    },
+    {
+     "fase": "S.2538",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/54782.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-03-22:416"
+  },
+  {
+   "data": "2022-03-23",
+   "seduta": 417,
+   "ddl": [
+    {
+     "fase": "S.2166",
+     "titolo": "Dichiarazione di monumento nazionale dell'Arco di Traiano di Benevento",
+     "url": "https://dati.senato.it/ddl/53886.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-03-23:417"
+  },
+  {
+   "data": "2022-03-30",
+   "seduta": 420,
+   "ddl": [
+    {
+     "fase": "S.2533",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 febbraio 2022, n. 9, recante misure urgenti per arrestare la diffusione della peste suina africana (PSA)",
+     "url": "https://dati.senato.it/ddl/54767.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-03-30:420"
+  },
+  {
+   "data": "2022-03-31",
+   "seduta": 421,
+   "ddl": [
+    {
+     "fase": "S.2562",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 25 febbraio 2022, n. 14, recante disposizioni urgenti sulla crisi in Ucraina",
+     "url": "https://dati.senato.it/ddl/54846.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-03-31:421"
+  },
+  {
+   "data": "2022-04-05",
+   "seduta": 422,
+   "ddl": [
+    {
+     "fase": "S.2214",
+     "titolo": "Modifica all'articolo 51 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di limite di due mandati per i sindaci dei comuni fino a 5.000 abitanti",
+     "url": "https://dati.senato.it/ddl/54048.html"
+    },
+    {
+     "fase": "S.2224",
+     "titolo": "Modifica all'articolo 51 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di numero dei mandati per i sindaci dei comuni con popolazione fino a 5.000 abitanti",
+     "url": "https://dati.senato.it/ddl/54071.html"
+    },
+    {
+     "fase": "S.2462",
+     "titolo": "Modifiche al testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di limitazione del mandato dei sindaci e di controllo di gestione nei comuni di minori dimensioni, nonché al decreto legislativo 8 aprile 2013, n. 39, in materia di inconferibilità di incarichi negli enti privati in controllo pubblico",
+     "url": "https://dati.senato.it/ddl/54603.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-04-05:422"
+  },
+  {
+   "data": "2022-04-06",
+   "seduta": 423,
+   "ddl": [
+    {
+     "fase": "S.2450",
+     "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica del Sud Africa sulla cooperazione nel settore della difesa, fatto a Roma il 28 marzo 2017 e a Pretoria il 18 luglio 2017",
+     "url": "https://dati.senato.it/ddl/54566.html"
+    },
+    {
+     "fase": "S.2451",
+     "titolo": "Ratifica ed esecuzione dell'Accordo quadro fra il Governo della Repubblica italiana e il Governo della Repubblica argentina sulla collaborazione negli usi pacifici dello spazio extra-atmosferico, fatto a Buenos Aires il 27 febbraio 2019",
+     "url": "https://dati.senato.it/ddl/54567.html"
+    },
+    {
+     "fase": "S.2452",
+     "titolo": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica di Gibuti sulla cooperazione nel settore della difesa, fatto a Roma il 29 gennaio 2020",
+     "url": "https://dati.senato.it/ddl/54568.html"
+    },
+    {
+     "fase": "S.2459",
+     "titolo": "Deleghe al Governo per il sostegno e la valorizzazione della famiglia",
+     "url": "https://dati.senato.it/ddl/54597.html"
+    },
+    {
+     "fase": "S.2471",
+     "titolo": "Ratifica ed esecuzione dello Scambio di Note emendativo dell'Accordo tra il Governo della Repubblica italiana e il Governo dello Stato del Qatar sulla cooperazione nel settore della difesa, del 12 maggio 2010, fatto a Doha il 9 luglio e il 22 ottobre 2019",
+     "url": "https://dati.senato.it/ddl/54634.html"
+    },
+    {
+     "fase": "S.2472",
+     "titolo": "Ratifica ed esecuzione dei seguenti Trattati: a) Trattato di cooperazione giudiziaria in materia penale tra la Repubblica italiana e la Repubblica orientale dell'Uruguay, fatto a Montevideo il 1° marzo 2019; b) Trattato sul trasferimento delle persone condannate tra la Repubblica italiana e la Repubblica orientale dell'Uruguay, fatto a Montevideo il 1° marzo 2019",
+     "url": "https://dati.senato.it/ddl/54635.html"
+    },
+    {
+     "fase": "S.2473",
+     "titolo": "Ratifica ed esecuzione dell'Accordo fra il Governo della Repubblica italiana e il Laboratorio europeo di biologia molecolare relativo al Programma del Laboratorio europeo di biologia molecolare a Monterotondo, con Allegato, fatto a Heidelberg il 15 aprile 2021 e a Roma il 4 maggio 2021",
+     "url": "https://dati.senato.it/ddl/54636.html"
+    },
+    {
+     "fase": "S.2494",
+     "titolo": "Ratifica ed esecuzione dell'Accordo sull'estinzione dei trattati bilaterali di investimento tra Stati membri dell'Unione europea, fatto a Bruxelles il 5 maggio 2020",
+     "url": "https://dati.senato.it/ddl/54695.html"
+    },
+    {
+     "fase": "S.1352",
+     "titolo": "Modifica all'articolo 142 del testo unico di cui al regio decreto 31 agosto 1933, n. 1592, concernente la soppressione del divieto di iscrizione contemporanea a diverse università, a diverse facoltà o scuole della stessa università e a diversi corsi di laurea o diploma della stessa facoltà o scuola",
+     "url": "https://dati.senato.it/ddl/51931.html"
+    },
+    {
+     "fase": "S.2415",
+     "titolo": "Disposizioni in materia di iscrizione contemporanea a due corsi di istruzione superiore",
+     "url": "https://dati.senato.it/ddl/54476.html"
+    }
+   ],
+   "interventi": 25,
+   "id": "2022-04-06:423"
+  },
+  {
+   "data": "2022-04-21",
+   "seduta": 426,
+   "ddl": [
+    {
+     "fase": "S.2588",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 1° marzo 2022, n. 17, recante misure urgenti per il contenimento dei costi dell'energia elettrica e del gas naturale, per lo sviluppo delle energie rinnovabili e per il rilancio delle politiche industriali",
+     "url": "https://dati.senato.it/ddl/54918.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-04-21:426"
+  },
+  {
+   "data": "2022-04-27",
+   "seduta": 428,
+   "ddl": [
+    {
+     "fase": "S.865-B",
+     "titolo": "Modifica all'articolo 119 della Costituzione, concernente il riconoscimento delle peculiarità delle Isole e il superamento degli svantaggi derivanti dall'insularità",
+     "url": "https://dati.senato.it/ddl/54883.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-04-27:428"
+  },
+  {
+   "data": "2022-05-11",
+   "seduta": 431,
+   "ddl": [
+    {
+     "fase": "S.2317",
+     "titolo": "Celebrazioni per il centesimo anniversario della morte di Giacomo Matteotti",
+     "url": "https://dati.senato.it/ddl/54253.html"
+    },
+    {
+     "fase": "S.2416",
+     "titolo": "Dichiarazione di monumento nazionale del Teatro Regio di Parma",
+     "url": "https://dati.senato.it/ddl/54479.html"
+    },
+    {
+     "fase": "S.2564",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 21 marzo 2022, n. 21, recante misure urgenti per contrastare gli effetti economici e umanitari della crisi ucraina",
+     "url": "https://dati.senato.it/ddl/54856.html"
+    },
+    {
+     "fase": "S.1571-B",
+     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
+     "url": "https://dati.senato.it/ddl/54908.html"
+    }
+   ],
+   "interventi": 8,
+   "id": "2022-05-11:431"
+  },
+  {
+   "data": "2022-05-12",
+   "seduta": 432,
+   "ddl": [
+    {
+     "fase": "S.2564",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 21 marzo 2022, n. 21, recante misure urgenti per contrastare gli effetti economici e umanitari della crisi ucraina",
+     "url": "https://dati.senato.it/ddl/54856.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-05-12:432"
+  },
+  {
+   "data": "2022-05-17",
+   "seduta": 433,
+   "ddl": [
+    {
+     "fase": "S.2604",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 24 marzo 2022, n. 24, recante disposizioni urgenti per il superamento delle misure di contrasto alla diffusione dell'epidemia da COVID-19, in conseguenza della cessazione dello stato di emergenza",
+     "url": "https://dati.senato.it/ddl/54968.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-05-17:433"
+  },
+  {
+   "data": "2022-05-18",
+   "seduta": 434,
+   "ddl": [
+    {
+     "fase": "S.2318",
+     "titolo": "Delega al Governo e altre disposizioni in materia di spettacolo",
+     "url": "https://dati.senato.it/ddl/54261.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-05-18:434"
+  },
+  {
+   "data": "2022-05-19",
+   "seduta": 435,
+   "ddl": [
+    {
+     "fase": "S.2317",
+     "titolo": "Celebrazioni per il centesimo anniversario della morte di Giacomo Matteotti",
+     "url": "https://dati.senato.it/ddl/54253.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-05-19:435"
+  },
+  {
+   "data": "2022-05-25",
+   "seduta": 437,
+   "ddl": [
+    {
+     "fase": "S.2333",
+     "titolo": "Istituzione del Sistema terziario di istruzione tecnologica superiore",
+     "url": "https://dati.senato.it/ddl/54289.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-05-25:437"
+  },
+  {
+   "data": "2022-05-30",
+   "seduta": 438,
+   "ddl": [
+    {
+     "fase": "S.2469",
+     "titolo": "Legge annuale per il mercato e la concorrenza 2021",
+     "url": "https://dati.senato.it/ddl/54618.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-05-30:438"
+  },
+  {
+   "data": "2022-06-14",
+   "seduta": 439,
+   "ddl": [
+    {
+     "fase": "S.2330-B",
+     "titolo": "Delega al Governo in materia di contratti pubblici",
+     "url": "https://dati.senato.it/ddl/55028.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-06-14:439"
+  },
+  {
+   "data": "2022-06-15",
+   "seduta": 440,
+   "ddl": [
+    {
+     "fase": "S.2595",
+     "titolo": "Deleghe al Governo per la riforma dell'ordinamento giudiziario e per l'adeguamento dell'ordinamento giudiziario militare, nonché disposizioni in materia ordinamentale, organizzativa e disciplinare, di eleggibilità e ricollocamento in ruolo dei magistrati e di costituzione e funzionamento del Consiglio superiore della magistratura",
+     "url": "https://dati.senato.it/ddl/54941.html"
+    },
+    {
+     "fase": "S.2119",
+     "titolo": "Modifiche alla legge 24 marzo 1958, n. 195, in materia di costituzione e funzionamento del Consiglio superiore della magistratura",
+     "url": "https://dati.senato.it/ddl/53765.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-06-15:440"
+  },
+  {
+   "data": "2022-06-21",
+   "seduta": 443,
+   "ddl": [
+    {
+     "fase": "S.2598",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2022, n. 36, recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)",
+     "url": "https://dati.senato.it/ddl/54951.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-06-21:443"
+  },
+  {
+   "data": "2022-06-22",
+   "seduta": 444,
+   "ddl": [
+    {
+     "fase": "S.747-2262-2474-2478-2480-2538-B",
+     "titolo": "Modifica all'articolo 33 della Costituzione, in materia di attività sportiva",
+     "url": "https://dati.senato.it/ddl/55068.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-06-22:444"
+  },
+  {
+   "data": "2022-06-28",
+   "seduta": 445,
+   "ddl": [
+    {
+     "fase": "S.2653",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 4 maggio 2022, n. 41, recante disposizioni urgenti per lo svolgimento contestuale delle elezioni amministrative e dei referendum previsti dall'articolo 75 della Costituzione da tenersi nell'anno 2022, nonché per l'applicazione di modalità operative, precauzionali e di sicurezza ai fini della raccolta del voto",
+     "url": "https://dati.senato.it/ddl/55083.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-06-28:445"
+  },
+  {
+   "data": "2022-06-29",
+   "seduta": 446,
+   "ddl": [
+    {
+     "fase": "S.2481",
+     "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti normativi dell'Unione europea - Legge di delegazione europea 2021",
+     "url": "https://dati.senato.it/ddl/54655.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-06-29:446"
+  },
+  {
+   "data": "2022-06-30",
+   "seduta": 447,
+   "ddl": [
+    {
+     "fase": "S.2481",
+     "titolo": "Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti normativi dell'Unione europea - Legge di delegazione europea 2021",
+     "url": "https://dati.senato.it/ddl/54655.html"
+    },
+    {
+     "fase": "S.2631",
+     "titolo": "Modifiche al codice della proprietà industriale, di cui al decreto legislativo 10 febbraio 2005, n. 30",
+     "url": "https://dati.senato.it/ddl/55031.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2022-06-30:447"
+  },
+  {
+   "data": "2022-07-14",
+   "seduta": 453,
+   "ddl": [
+    {
+     "fase": "S.2668",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 maggio 2022, n. 50, recante misure urgenti in materia di politiche energetiche nazionali, produttività delle imprese e attrazione degli investimenti, nonché in materia di politiche sociali e di crisi ucraina",
+     "url": "https://dati.senato.it/ddl/55118.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-07-14:453"
+  },
+  {
+   "data": "2022-07-27",
+   "seduta": 456,
+   "ddl": [
+    {
+     "fase": "S.2633",
+     "titolo": "Delega al Governo per il riordino della disciplina degli Istituti di ricovero e cura a carattere scientifico, di cui al decreto legislativo 16 ottobre 2003, n. 288",
+     "url": "https://dati.senato.it/ddl/55036.html"
+    }
+   ],
+   "interventi": 3,
+   "id": "2022-07-27:456"
+  },
+  {
+   "data": "2022-07-28",
+   "seduta": 457,
+   "ddl": [
+    {
+     "fase": "S.2646",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 16 giugno 2022, n. 68, recante disposizioni urgenti per la sicurezza e lo sviluppo delle infrastrutture, dei trasporti e della mobilità sostenibile, nonché in materia di grandi eventi e per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili",
+     "url": "https://dati.senato.it/ddl/55071.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-07-28:457"
+  },
+  {
+   "data": "2022-09-13",
+   "seduta": 464,
+   "ddl": [
+    {
+     "fase": "S.2685",
+     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 9 agosto 2022, n. 115, recante misure urgenti in materia di energia, emergenza idrica, politiche sociali e industriali",
+     "url": "https://dati.senato.it/ddl/55171.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2022-09-13:464"
+  },
+  {
+   "data": "2024-01-17",
+   "seduta": 146,
+   "ddl": [
+    {
+     "fase": "S.273",
+     "titolo": "Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+     "url": "https://dati.senato.it/ddl/55934.html"
+    },
+    {
+     "fase": "S.62",
+     "titolo": "Disposizioni per l'attuazione dell'articolo 116, terzo comma, della Costituzione, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario",
+     "url": "https://dati.senato.it/ddl/55214.html"
+    },
+    {
+     "fase": "S.615",
+     "titolo": "Disposizioni per l'attuazione dell'autonomia differenziata delle Regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione",
+     "url": "https://dati.senato.it/ddl/56845.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-01-17:146"
+  },
+  {
+   "data": "2024-01-18",
+   "seduta": 147,
+   "ddl": [
+    {
+     "fase": "S.273",
+     "titolo": "Disposizioni per l'attuazione dell'autonomia differenziata di cui all'articolo 116, terzo comma, della Costituzione",
+     "url": "https://dati.senato.it/ddl/55934.html"
+    },
+    {
+     "fase": "S.62",
+     "titolo": "Disposizioni per l'attuazione dell'articolo 116, terzo comma, della Costituzione, in materia di attribuzione di ulteriori forme e condizioni particolari di autonomia alle regioni a statuto ordinario",
+     "url": "https://dati.senato.it/ddl/55214.html"
+    },
+    {
+     "fase": "S.615",
+     "titolo": "Disposizioni per l'attuazione dell'autonomia differenziata delle Regioni a statuto ordinario ai sensi dell'articolo 116, terzo comma, della Costituzione",
+     "url": "https://dati.senato.it/ddl/56845.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2024-01-18:147"
+  },
+  {
+   "data": "2024-10-30",
+   "seduta": 236,
+   "ddl": [
+    {
+     "fase": "S.276",
+     "titolo": "Disposizioni per lo sviluppo e la valorizzazione delle zone montane",
+     "url": "https://dati.senato.it/ddl/55937.html"
+    },
+    {
+     "fase": "S.396",
+     "titolo": "Disposizioni per la modernizzazione, lo sviluppo, la tutela e la valorizzazione delle zone montane. Delega al Governo per l'introduzione di sistemi di remunerazione dei servizi ecosistemici e ambientali",
+     "url": "https://dati.senato.it/ddl/56285.html"
+    },
+    {
+     "fase": "S.1054",
+     "titolo": "Disposizioni per il riconoscimento e la promozione delle zone montane",
+     "url": "https://dati.senato.it/ddl/58033.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2024-10-30:236"
+  },
+  {
+   "data": "2025-05-27",
+   "seduta": 308,
+   "ddl": [
+    {
+     "fase": "S.1279",
+     "titolo": "Modifiche alla legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della Regione Friuli-Venezia Giulia",
+     "url": "https://dati.senato.it/ddl/58633.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2025-05-27:308"
+  },
+  {
+   "data": "2025-09-10",
+   "seduta": 339,
+   "ddl": [
+    {
+     "fase": "S.1054-B",
+     "titolo": "Disposizioni per il riconoscimento e la promozione delle zone montane",
+     "url": "https://dati.senato.it/ddl/59360.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2025-09-10:339"
+  },
+  {
+   "data": "2025-12-03",
+   "seduta": 366,
+   "ddl": [
+    {
+     "fase": "S.1541",
+     "titolo": "Modifiche all'articolo 9 dello Statuto della Regione siciliana, di cui al regio decreto legislativo 15 maggio 1946, n. 455, convertito in legge costituzionale dalla legge costituzionale 26 febbraio 1948, n. 2, in materia di incompatibilità tra la carica di assessore regionale e l'ufficio di deputato regionale",
+     "url": "https://dati.senato.it/ddl/59277.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2025-12-03:366"
+  },
+  {
+   "data": "2026-01-21",
+   "seduta": 383,
+   "ddl": [
+    {
+     "fase": "S.1670",
+     "titolo": "Modifiche allo Statuto speciale per il Trentino-Alto Adige/Südtirol",
+     "url": "https://dati.senato.it/ddl/59612.html"
+    }
+   ],
+   "interventi": 2,
+   "id": "2026-01-21:383"
+  },
+  {
+   "data": "2026-05-13",
+   "seduta": 419,
+   "ddl": [
+    {
+     "fase": "S.1670-B",
+     "titolo": "Modifiche allo statuto speciale per il Trentino-Alto Adige/Südtirol",
+     "url": "https://dati.senato.it/ddl/59974.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2026-05-13:419"
+  }
+ ]
+}

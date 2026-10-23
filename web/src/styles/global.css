@@ -92,6 +92,7 @@ p { margin: 0; }
 .section { display: grid; gap: 18px; padding-block: 36px 8px; }
 .section-head { display: flex; gap: 12px; align-items: baseline; justify-content: space-between; flex-wrap: wrap; }
 .prose { max-width: 68ch; display: grid; gap: 14px; }
+p.prose { display: block; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* ---------------------------------------------------------------- header / nav */

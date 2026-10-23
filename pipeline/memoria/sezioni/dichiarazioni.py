@@ -27,7 +27,16 @@ ESTRATTO = 420
 # sedute nuove da scaricare per esecuzione: limita la durata del job se la cache va persa
 MAX_SEDUTE_NUOVE = 200
 
+# titoli procedurali del resoconto: non sono argomenti
+PROCEDURALI = re.compile(
+    r"^(si riprende la discussione|ordine del giorno della prossima seduta|sull'ordine dei lavori|per un richiamo al regolamento|"
+    r"(in )?ricordo di|sui lavori dell'assemblea|calendario dei lavori|missioni|preavviso di votazioni|sospensione|ripresa|"
+    r"annunzio|comunicazioni$|sull'?ordine|per fatto personale|interventi di fine seduta|modifica nella composizione)",
+    re.I,
+)
+
 CATEGORIE = [
+    ("Ordine dei lavori e procedura", PROCEDURALI.pattern),
     ("Question time", r"interrogazioni a risposta immediata"),
     ("Interpellanze e interrogazioni", r"interpellanz|interrogazion"),
     ("Informative e comunicazioni del Governo", r"informativa urgente|comunicazioni del (presidente del consiglio|governo|ministro)|informativa del"),
@@ -94,7 +103,7 @@ def riepilogo(camera: list[dict], premier: list[dict], senato: list[dict], verif
     categorie = collections.Counter(x["categoria"] for x in camera)
     argomenti = collections.defaultdict(list)
     for x in camera:
-        if x["argomento"]:
+        if x["argomento"] and not PROCEDURALI.search(x["argomento"]):
             argomenti[x["argomento"]].append(x["data"])
     top = sorted(argomenti.items(), key=lambda kv: (-len(kv[1]), kv[1][0]))[:6]
     date = sorted([x["data"] for x in camera + premier + senato + verificate if x.get("data")])

@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-23T10:31:07+00:00",
+ "aggiornato_il": "2026-10-23T11:50:34+00:00",
  "finestra": {
   "dal": "2021-10-23",
   "al": "2026-10-23",
@@ -21,8 +21,38 @@
   {
    "nome": "Governo italiano – governo.it",
    "url": "https://www.governo.it/",
-   "uso": "Comunicati e atti del Consiglio dei ministri (RSS)",
+   "uso": "Comunicati e atti del Consiglio dei ministri (RSS e archivio), interventi della Presidente del Consiglio",
    "licenza": "CC BY 3.0 IT (salvo diversa indicazione)"
+  },
+  {
+   "nome": "Camera dei Deputati – resoconti stenografici dell'Assemblea",
+   "url": "https://www.camera.it/",
+   "uso": "Testo degli interventi in Aula (estratto con link al punto esatto del resoconto)",
+   "licenza": "CC BY-SA 4.0"
+  },
+  {
+   "nome": "Corte costituzionale – open data",
+   "url": "https://dati.cortecostituzionale.it/",
+   "uso": "Sentenze e ordinanze che citano le leggi della legislatura",
+   "licenza": "CC BY-SA 3.0"
+  },
+  {
+   "nome": "Ministero della Giustizia – piattaforma per la raccolta delle firme",
+   "url": "https://firmereferendum.giustizia.it/",
+   "uso": "Firme online raccolte per referendum e leggi di iniziativa popolare",
+   "licenza": "Dati pubblici"
+  },
+  {
+   "nome": "Ministero dell'Interno – Eligendo",
+   "url": "https://elezioni.interno.gov.it/",
+   "uso": "Risultati ufficiali dei referendum",
+   "licenza": "Dati pubblici"
+  },
+  {
+   "nome": "Pagella Politica",
+   "url": "https://pagellapolitica.it/",
+   "uso": "Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio",
+   "licenza": "Contenuti © Pagella Politica, non ne riproduciamo i testi"
   },
   {
    "nome": "Wikidata",
@@ -43,7 +73,22 @@
    "licenza": "Uso con citazione degli autori"
   }
  ],
- "fonti_ok": {},
+ "fonti_ok": {
+  "wikidata": "2026-10-23T11:45:12+00:00",
+  "camera": "2026-10-23T11:46:06+00:00",
+  "senato": "2026-10-23T11:46:06+00:00",
+  "commons": "2026-10-23T11:46:01+00:00",
+  "ches": "2026-10-23T11:46:02+00:00",
+  "programmi": "2026-10-23T11:46:02+00:00",
+  "camera_stenografici": "2026-10-23T11:48:20+00:00",
+  "pagella_politica": "2026-10-23T11:48:20+00:00",
+  "governo_interventi": "2026-10-23T11:48:20+00:00",
+  "senato_leggi": "2026-10-23T11:48:27+00:00",
+  "governo_cdm": "2026-10-23T11:48:31+00:00",
+  "corte_costituzionale": "2026-10-23T11:48:31+00:00",
+  "raccolte_firme": "2026-10-23T11:48:48+00:00",
+  "feed:governo": "2026-10-23T11:50:34+00:00"
+ },
  "errori": [],
- "offline": true
+ "offline": false
 }

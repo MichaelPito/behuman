@@ -502,7 +502,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 8 novembre 2022 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 8 novembre 2022, è diventata legge il 16 dicembre 2022: 38 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 160 sì, 54 no, 76 astenuti (14 dicembre 2022); Senato: 86 sì, 28 no, 46 astenuti (30 novembre 2022)."
+     "Ultimo voto finale — Senato: 86 sì, 28 no, 46 astenuti (30 novembre 2022); Camera: 160 sì, 54 no, 76 astenuti (14 dicembre 2022)."
     ]
    },
    "descrizione_governo": null,
@@ -921,7 +921,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 31 ottobre 2022 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 31 ottobre 2022, è diventata legge il 30 dicembre 2022: 60 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 183 sì, 116 no, 1 astenuti (30 dicembre 2022); Senato: 92 sì, 75 no, 1 astenuti (13 dicembre 2022)."
+     "Ultimo voto finale — Senato: 92 sì, 75 no, 1 astenuti (13 dicembre 2022); Camera: 183 sì, 116 no, 1 astenuti (30 dicembre 2022)."
     ]
    },
    "descrizione_governo": null,
@@ -1215,7 +1215,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 2 dicembre 2022 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge senza modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 2 dicembre 2022, è diventata legge il 27 gennaio 2023: 56 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 215 sì, 46 no, 0 astenuti (24 gennaio 2023); Senato: 125 sì, 28 no, 2 astenuti (11 gennaio 2023)."
+     "Ultimo voto finale — Senato: 125 sì, 28 no, 2 astenuti (11 gennaio 2023); Camera: 215 sì, 46 no, 0 astenuti (24 gennaio 2023)."
     ]
    },
    "descrizione_governo": {
@@ -1365,7 +1365,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 5 dicembre 2022 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 5 dicembre 2022, è diventata legge il 1 febbraio 2023: 58 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 133 sì, 8 no, 98 astenuti (30 gennaio 2023); Senato: 75 sì, 4 no, 60 astenuti (18 gennaio 2023)."
+     "Ultimo voto finale — Senato: 75 sì, 4 no, 60 astenuti (18 gennaio 2023); Camera: 133 sì, 8 no, 98 astenuti (30 gennaio 2023)."
     ]
    },
    "descrizione_governo": {
@@ -1538,7 +1538,7 @@
     "fatti": [
      "Presentata dal Governo il 29 dicembre 2022, è diventata legge il 24 febbraio 2023: 57 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 142 sì, 90 no, 4 astenuti (23 febbraio 2023); Senato: 88 sì, 63 no, 3 astenuti (15 febbraio 2023)."
+     "Ultimo voto finale — Senato: 88 sì, 63 no, 3 astenuti (15 febbraio 2023); Camera: 142 sì, 90 no, 4 astenuti (23 febbraio 2023)."
     ]
    },
    "descrizione_governo": {
@@ -1812,7 +1812,7 @@
     "fatti": [
      "Presentata dal Governo il 5 gennaio 2023, è diventata legge il 3 marzo 2023: 57 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 144 sì, 103 no, 16 astenuti (2 marzo 2023); Senato: 78 sì, 57 no, 7 astenuti (22 febbraio 2023)."
+     "Ultimo voto finale — Senato: 78 sì, 57 no, 7 astenuti (22 febbraio 2023); Camera: 144 sì, 103 no, 16 astenuti (2 marzo 2023)."
     ]
    },
    "descrizione_governo": {
@@ -2037,7 +2037,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 27 gennaio 2023, è diventata legge il 23 marzo 2023: 55 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 150 sì, 0 no, 72 astenuti (21 marzo 2023); Senato: 92 sì, 0 no, 48 astenuti (8 marzo 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 92 sì, 0 no, 48 astenuti (8 marzo 2023); Camera: 150 sì, 0 no, 72 astenuti (21 marzo 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -2256,7 +2256,7 @@
     "fatti": [
      "Presentata dal Governo il 24 febbraio 2023, è diventata legge il 21 aprile 2023: 56 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 171 sì, 112 no, 14 astenuti (20 aprile 2023); Senato: 83 sì, 57 no, 6 astenuti (13 aprile 2023)."
+     "Ultimo voto finale — Senato: 83 sì, 57 no, 6 astenuti (13 aprile 2023); Camera: 171 sì, 112 no, 14 astenuti (20 aprile 2023)."
     ]
    },
    "descrizione_governo": {
@@ -2515,7 +2515,7 @@
     "fatti": [
      "Presentata dal Governo il 10 marzo 2023, è diventata legge il 5 maggio 2023: 56 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 179 sì, 111 no, 3 astenuti (4 maggio 2023); Senato: 92 sì, 64 no, 0 astenuti (20 aprile 2023)."
+     "Ultimo voto finale — Senato: 92 sì, 64 no, 0 astenuti (20 aprile 2023); Camera: 179 sì, 111 no, 3 astenuti (4 maggio 2023)."
     ]
    },
    "descrizione_governo": {
@@ -2611,7 +2611,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 17 marzo 2023 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 17 marzo 2023, è diventata legge il 10 maggio 2023: 54 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 162 sì, 0 no, 79 astenuti (8 maggio 2023); Senato: 79 sì, 0 no, 39 astenuti (26 aprile 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 79 sì, 0 no, 39 astenuti (26 aprile 2023); Camera: 162 sì, 0 no, 79 astenuti (8 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -3186,7 +3186,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 8 giugno 2023: 204 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023); Senato: 137 sì, 0 no, 0 astenuti (21 febbraio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 137 sì, 0 no, 0 astenuti (21 febbraio 2023); Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -3255,7 +3255,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 8 giugno 2023: 204 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 302 sì, 0 no, 0 astenuti (30 maggio 2023); Senato: 133 sì, 0 no, 0 astenuti (21 febbraio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 133 sì, 0 no, 0 astenuti (21 febbraio 2023); Camera: 302 sì, 0 no, 0 astenuti (30 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -3324,7 +3324,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 8 giugno 2023: 204 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 299 sì, 0 no, 1 astenuti (30 maggio 2023); Senato: 141 sì, 0 no, 0 astenuti (21 febbraio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 141 sì, 0 no, 0 astenuti (21 febbraio 2023); Camera: 299 sì, 0 no, 1 astenuti (30 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -3393,7 +3393,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 8 giugno 2023: 204 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023); Senato: 140 sì, 0 no, 0 astenuti (21 febbraio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 140 sì, 0 no, 0 astenuti (21 febbraio 2023); Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -3462,7 +3462,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 8 giugno 2023: 204 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023); Senato: 136 sì, 0 no, 0 astenuti (21 febbraio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 136 sì, 0 no, 0 astenuti (21 febbraio 2023); Camera: 299 sì, 0 no, 0 astenuti (30 maggio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -3542,7 +3542,7 @@
     "fatti": [
      "Presentata dal Governo il 14 aprile 2023, è diventata legge il 13 giugno 2023: 60 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 153 sì, 73 no, 10 astenuti (9 giugno 2023); Senato: 75 sì, 46 no, 7 astenuti (31 maggio 2023)."
+     "Ultimo voto finale — Senato: 75 sì, 46 no, 7 astenuti (31 maggio 2023); Camera: 153 sì, 73 no, 10 astenuti (9 giugno 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -3800,7 +3800,7 @@
     "fatti": [
      "Presentata dal Governo il 4 maggio 2023, è diventata legge il 3 luglio 2023: 60 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 154 sì, 82 no, 12 astenuti (29 giugno 2023); Senato: 96 sì, 55 no, 10 astenuti (22 giugno 2023)."
+     "Ultimo voto finale — Senato: 96 sì, 55 no, 10 astenuti (22 giugno 2023); Camera: 154 sì, 82 no, 12 astenuti (29 giugno 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -3997,7 +3997,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 15 febbraio 2023, è diventata legge il 10 luglio 2023: 145 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 269 sì, 0 no, 0 astenuti (5 luglio 2023); Senato: 158 sì, 0 no, 0 astenuti (23 maggio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 158 sì, 0 no, 0 astenuti (23 maggio 2023); Camera: 269 sì, 0 no, 0 astenuti (5 luglio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -4204,7 +4204,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 16 dicembre 2022, è diventata legge il 24 luglio 2023: 220 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 210 sì, 0 no, 60 astenuti (18 luglio 2023); Senato: 114 sì, 0 no, 35 astenuti (2 maggio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 114 sì, 0 no, 35 astenuti (2 maggio 2023); Camera: 210 sì, 0 no, 60 astenuti (18 luglio 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -4506,7 +4506,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 23 marzo 2023, è diventata legge il 9 agosto 2023: 139 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 184 sì, 85 no, 0 astenuti (4 agosto 2023); Senato: 110 sì, 60 no, 0 astenuti (2 agosto 2023)."
+     "Ultimo voto finale — Senato: 110 sì, 60 no, 0 astenuti (2 agosto 2023); Camera: 184 sì, 85 no, 0 astenuti (4 agosto 2023)."
     ]
    },
    "descrizione_governo": {
@@ -4613,7 +4613,7 @@
     "fatti": [
      "Presentata dal Governo il 13 giugno 2023, è diventata legge il 10 agosto 2023: 58 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 175 sì, 42 no, 47 astenuti (2 agosto 2023); Senato: 79 sì, 26 no, 27 astenuti (19 luglio 2023)."
+     "Ultimo voto finale — Senato: 79 sì, 26 no, 27 astenuti (19 luglio 2023); Camera: 175 sì, 42 no, 47 astenuti (2 agosto 2023)."
     ]
    },
    "descrizione_governo": {
@@ -4800,7 +4800,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 28 novembre 2022, è diventata legge il 8 settembre 2023: 284 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 200 sì, 0 no, 61 astenuti (7 settembre 2023); Senato: 113 sì, 0 no, 28 astenuti (3 maggio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 113 sì, 0 no, 28 astenuti (3 maggio 2023); Camera: 200 sì, 0 no, 61 astenuti (7 settembre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -5013,7 +5013,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 28 luglio 2023 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 28 luglio 2023, è diventata legge il 18 settembre 2023: 52 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 164 sì, 94 no, 17 astenuti (13 settembre 2023); Senato: 86 sì, 47 no, 4 astenuti (3 agosto 2023)."
+     "Ultimo voto finale — Senato: 86 sì, 47 no, 4 astenuti (3 agosto 2023); Camera: 164 sì, 94 no, 17 astenuti (13 settembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -5082,7 +5082,7 @@
     "cosa_e": "Riguarda i conti dello Stato: la legge di bilancio fissa entrate e spese per i tre anni successivi; rendiconto e assestamento registrano e correggono quelle dell'anno.",
     "fatti": [
      "Presentata dal Governo il 10 luglio 2023, è diventata legge il 18 settembre 2023: 70 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 182 sì, 0 no, 99 astenuti (13 settembre 2023); Senato: 104 sì, 0 no, 56 astenuti (26 luglio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 104 sì, 0 no, 56 astenuti (26 luglio 2023); Camera: 182 sì, 0 no, 99 astenuti (13 settembre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -5151,7 +5151,7 @@
     "cosa_e": "Riguarda i conti dello Stato: la legge di bilancio fissa entrate e spese per i tre anni successivi; rendiconto e assestamento registrano e correggono quelle dell'anno.",
     "fatti": [
      "Presentata dal Governo il 10 luglio 2023, è diventata legge il 18 settembre 2023: 70 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 162 sì, 102 no, 5 astenuti (13 settembre 2023); Senato: 94 sì, 66 no, 0 astenuti (26 luglio 2023)."
+     "Ultimo voto finale — Senato: 94 sì, 66 no, 0 astenuti (26 luglio 2023); Camera: 162 sì, 102 no, 5 astenuti (13 settembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -5390,7 +5390,7 @@
     "cosa_e": "Modifica la Costituzione o una legge di rango costituzionale. Servono due approvazioni per ciascuna Camera a distanza di almeno tre mesi; se la seconda non raggiunge i due terzi, si può chiedere un referendum.",
     "fatti": [
      "Presentata da parlamentari il 13 ottobre 2022, è diventata legge il 26 settembre 2023: 348 giorni e 4 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 312 sì, 0 no, 0 astenuti (20 settembre 2023); Senato: 170 sì, 0 no, 1 astenuti (17 maggio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 170 sì, 0 no, 1 astenuti (17 maggio 2023); Camera: 312 sì, 0 no, 0 astenuti (20 settembre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -5459,7 +5459,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 16 novembre 2022, è diventata legge il 26 settembre 2023: 314 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 268 sì, 1 no, 2 astenuti (20 settembre 2023); Senato: 140 sì, 0 no, 3 astenuti (21 febbraio 2023)."
+     "Ultimo voto finale — Senato: 140 sì, 0 no, 3 astenuti (21 febbraio 2023); Camera: 268 sì, 1 no, 2 astenuti (20 settembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -5731,7 +5731,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 23 marzo 2023, è diventata legge il 20 ottobre 2023: 211 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 283 sì, 0 no, 0 astenuti (18 ottobre 2023); Senato: 157 sì, 0 no, 0 astenuti (11 luglio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 157 sì, 0 no, 0 astenuti (11 luglio 2023); Camera: 283 sì, 0 no, 0 astenuti (18 ottobre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -5806,7 +5806,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 3 marzo 2023, è diventata legge il 27 ottobre 2023: 238 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 163 sì, 0 no, 93 astenuti (25 ottobre 2023); Senato: 134 sì, 0 no, 30 astenuti (13 settembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 134 sì, 0 no, 30 astenuti (13 settembre 2023); Camera: 163 sì, 0 no, 93 astenuti (25 ottobre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -5881,7 +5881,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 12 settembre 2023 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 12 settembre 2023, è diventata legge il 6 novembre 2023: 55 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 151 sì, 82 no, 3 astenuti (24 ottobre 2023); Senato: 80 sì, 60 no, 0 astenuti (18 ottobre 2023)."
+     "Ultimo voto finale — Senato: 80 sì, 60 no, 0 astenuti (18 ottobre 2023); Camera: 151 sì, 82 no, 3 astenuti (24 ottobre 2023)."
     ]
    },
    "descrizione_governo": {
@@ -6590,7 +6590,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 28 luglio 2023, è diventata legge il 28 novembre 2023: 123 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 196 sì, 0 no, 7 astenuti (23 novembre 2023); Senato: 123 sì, 0 no, 3 astenuti (9 novembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 123 sì, 0 no, 3 astenuti (9 novembre 2023); Camera: 196 sì, 0 no, 7 astenuti (23 novembre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -6665,7 +6665,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 7 aprile 2023, è diventata legge il 1 dicembre 2023: 238 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 159 sì, 53 no, 34 astenuti (16 novembre 2023); Senato: 93 sì, 28 no, 33 astenuti (19 luglio 2023)."
+     "Ultimo voto finale — Senato: 93 sì, 28 no, 33 astenuti (19 luglio 2023); Camera: 159 sì, 53 no, 34 astenuti (16 novembre 2023)."
     ]
    },
    "descrizione_governo": {
@@ -7242,7 +7242,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 2 agosto 2023, è diventata legge il 13 dicembre 2023: 133 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 139 sì, 0 no, 80 astenuti (7 dicembre 2023); Senato: 77 sì, 6 no, 44 astenuti (15 novembre 2023)."
+     "Ultimo voto finale — Senato: 77 sì, 6 no, 44 astenuti (15 novembre 2023); Camera: 139 sì, 0 no, 80 astenuti (7 dicembre 2023)."
     ]
    },
    "descrizione_governo": {
@@ -7328,7 +7328,7 @@
     "fatti": [
      "Presentata dal Governo il 18 ottobre 2023, è diventata legge il 15 dicembre 2023: 58 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 164 sì, 115 no, 0 astenuti (14 dicembre 2023); Senato: 87 sì, 46 no, 0 astenuti (7 dicembre 2023)."
+     "Ultimo voto finale — Senato: 87 sì, 46 no, 0 astenuti (7 dicembre 2023); Camera: 164 sì, 115 no, 0 astenuti (14 dicembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -7507,7 +7507,7 @@
     "cosa_e": "Riguarda i conti dello Stato: la legge di bilancio fissa entrate e spese per i tre anni successivi; rendiconto e assestamento registrano e correggono quelle dell'anno.",
     "fatti": [
      "Presentata dal Governo il 30 ottobre 2023, è diventata legge il 30 dicembre 2023: 61 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 200 sì, 112 no, 3 astenuti (29 dicembre 2023); Senato: 109 sì, 72 no, 2 astenuti (22 dicembre 2023)."
+     "Ultimo voto finale — Senato: 109 sì, 72 no, 2 astenuti (22 dicembre 2023); Camera: 200 sì, 112 no, 3 astenuti (29 dicembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -7637,7 +7637,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 11 luglio 2023, è diventata legge il 30 dicembre 2023: 172 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 153 sì, 93 no, 16 astenuti (19 dicembre 2023); Senato: 79 sì, 57 no, 6 astenuti (15 novembre 2023)."
+     "Ultimo voto finale — Senato: 79 sì, 57 no, 6 astenuti (15 novembre 2023); Camera: 153 sì, 93 no, 16 astenuti (19 dicembre 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -7753,7 +7753,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 15 novembre 2023 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 15 novembre 2023, è diventata legge il 11 gennaio 2024: 57 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 169 sì, 119 no, 3 astenuti (10 gennaio 2024); Senato: 85 sì, 51 no, 0 astenuti (19 dicembre 2023)."
+     "Ultimo voto finale — Senato: 85 sì, 51 no, 0 astenuti (19 dicembre 2023); Camera: 169 sì, 119 no, 3 astenuti (10 gennaio 2024)."
     ]
    },
    "descrizione_governo": {
@@ -7828,7 +7828,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 11 maggio 2023, è diventata legge il 22 gennaio 2024: 256 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 138 sì, 92 no, 10 astenuti (18 gennaio 2024); Senato: 85 sì, 53 no, 5 astenuti (11 luglio 2023)."
+     "Ultimo voto finale — Senato: 85 sì, 53 no, 5 astenuti (11 luglio 2023); Camera: 138 sì, 92 no, 10 astenuti (18 gennaio 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -7983,7 +7983,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 21 dicembre 2023 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge senza modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 21 dicembre 2023, è diventata legge il 13 febbraio 2024: 54 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 218 sì, 42 no, 0 astenuti (8 febbraio 2024); Senato: 113 sì, 18 no, 0 astenuti (24 gennaio 2024)."
+     "Ultimo voto finale — Senato: 113 sì, 18 no, 0 astenuti (24 gennaio 2024); Camera: 218 sì, 42 no, 0 astenuti (8 febbraio 2024)."
     ]
    },
    "descrizione_governo": {
@@ -8210,7 +8210,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 14 novembre 2022, è diventata legge il 21 febbraio 2024: 464 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 224 sì, 0 no, 10 astenuti (8 febbraio 2024); Senato: 147 sì, 0 no, 2 astenuti (3 ottobre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 147 sì, 0 no, 2 astenuti (3 ottobre 2023); Camera: 224 sì, 0 no, 10 astenuti (8 febbraio 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -8469,7 +8469,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 13 ottobre 2022, è diventata legge il 28 febbraio 2024: 503 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 198 sì, 0 no, 56 astenuti (7 febbraio 2024); Senato: 150 sì, 0 no, 4 astenuti (12 luglio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 150 sì, 0 no, 4 astenuti (12 luglio 2023); Camera: 198 sì, 0 no, 56 astenuti (7 febbraio 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -8538,7 +8538,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 13 ottobre 2022, è diventata legge il 1 marzo 2024: 505 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 206 sì, 0 no, 46 astenuti (28 febbraio 2024); Senato: 102 sì, 0 no, 28 astenuti (12 luglio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 102 sì, 0 no, 28 astenuti (12 luglio 2023); Camera: 206 sì, 0 no, 46 astenuti (28 febbraio 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -8840,7 +8840,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 19 maggio 2023, è diventata legge il 8 marzo 2024: 294 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 214 sì, 0 no, 0 astenuti (4 marzo 2024); Senato: 135 sì, 0 no, 0 astenuti (27 giugno 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 135 sì, 0 no, 0 astenuti (27 giugno 2023); Camera: 214 sì, 0 no, 0 astenuti (4 marzo 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -8909,7 +8909,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 17 novembre 2022, è diventata legge il 12 marzo 2024: 481 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 206 sì, 2 no, 0 astenuti (4 marzo 2024); Senato: 138 sì, 1 no, 1 astenuti (27 giugno 2023)."
+     "Ultimo voto finale — Senato: 138 sì, 1 no, 1 astenuti (27 giugno 2023); Camera: 206 sì, 2 no, 0 astenuti (4 marzo 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -9047,7 +9047,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 18 gennaio 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 18 gennaio 2024, è diventata legge il 15 marzo 2024: 57 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 154 sì, 46 no, 56 astenuti (13 marzo 2024); Senato: 84 sì, 27 no, 30 astenuti (5 marzo 2024)."
+     "Ultimo voto finale — Senato: 84 sì, 27 no, 30 astenuti (5 marzo 2024); Camera: 154 sì, 46 no, 56 astenuti (13 marzo 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -9185,7 +9185,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 29 gennaio 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 29 gennaio 2024, è diventata legge il 25 marzo 2024: 56 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 143 sì, 87 no, 11 astenuti (21 marzo 2024); Senato: 79 sì, 39 no, 6 astenuti (13 marzo 2024)."
+     "Ultimo voto finale — Senato: 79 sì, 39 no, 6 astenuti (13 marzo 2024); Camera: 143 sì, 87 no, 11 astenuti (21 marzo 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -9324,7 +9324,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 5 febbraio 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 5 febbraio 2024, è diventata legge il 27 marzo 2024: 51 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 143 sì, 49 no, 63 astenuti (26 marzo 2024); Senato: 81 sì, 20 no, 31 astenuti (20 marzo 2024)."
+     "Ultimo voto finale — Senato: 81 sì, 20 no, 31 astenuti (20 marzo 2024); Camera: 143 sì, 49 no, 63 astenuti (26 marzo 2024)."
     ]
    },
    "descrizione_governo": {
@@ -9874,7 +9874,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 15 dicembre 2023, è diventata legge il 14 maggio 2024: 151 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 234 sì, 0 no, 0 astenuti (7 maggio 2024); Senato: 145 sì, 1 no, 0 astenuti (27 febbraio 2024)."
+     "Ultimo voto finale — Senato: 145 sì, 1 no, 0 astenuti (27 febbraio 2024); Camera: 234 sì, 0 no, 0 astenuti (7 maggio 2024)."
     ]
    },
    "descrizione_governo": {
@@ -9949,7 +9949,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 15 dicembre 2023, è diventata legge il 14 maggio 2024: 151 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 234 sì, 0 no, 0 astenuti (7 maggio 2024); Senato: 135 sì, 1 no, 0 astenuti (27 febbraio 2024)."
+     "Ultimo voto finale — Senato: 135 sì, 1 no, 0 astenuti (27 febbraio 2024); Camera: 234 sì, 0 no, 0 astenuti (7 maggio 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -10350,7 +10350,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 23 marzo 2023, è diventata legge il 26 giugno 2024: 461 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 172 sì, 99 no, 1 astenuti (19 giugno 2024); Senato: 110 sì, 64 no, 3 astenuti (23 gennaio 2024)."
+     "Ultimo voto finale — Senato: 110 sì, 64 no, 3 astenuti (23 gennaio 2024); Camera: 172 sì, 99 no, 1 astenuti (19 giugno 2024)."
     ]
    },
    "descrizione_governo": {
@@ -11174,7 +11174,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 11 giugno 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 11 giugno 2024, è diventata legge il 8 agosto 2024: 58 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 153 sì, 94 no, 4 astenuti (5 agosto 2024); Senato: 94 sì, 62 no, 0 astenuti (31 luglio 2024)."
+     "Ultimo voto finale — Senato: 94 sì, 62 no, 0 astenuti (31 luglio 2024); Camera: 153 sì, 94 no, 4 astenuti (5 agosto 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -11559,7 +11559,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 8 luglio 2024, è diventata legge il 8 agosto 2024: 31 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 131 sì, 61 no, 1 astenuti (7 agosto 2024); Senato: 87 sì, 63 no, 1 astenuti (17 luglio 2024)."
+     "Ultimo voto finale — Senato: 87 sì, 63 no, 1 astenuti (17 luglio 2024); Camera: 131 sì, 61 no, 1 astenuti (7 agosto 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -11714,7 +11714,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 27 ottobre 2023, è diventata legge il 8 agosto 2024: 286 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 156 sì, 97 no, 19 astenuti (31 luglio 2024); Senato: 101 sì, 41 no, 5 astenuti (31 gennaio 2024)."
+     "Ultimo voto finale — Senato: 101 sì, 41 no, 5 astenuti (31 gennaio 2024); Camera: 156 sì, 97 no, 19 astenuti (31 luglio 2024)."
     ]
    },
    "descrizione_governo": {
@@ -11864,7 +11864,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 19 luglio 2023, è diventata legge il 9 agosto 2024: 387 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 199 sì, 102 no, 0 astenuti (10 luglio 2024); Senato: 104 sì, 56 no, 0 astenuti (13 febbraio 2024)."
+     "Ultimo voto finale — Senato: 104 sì, 56 no, 0 astenuti (13 febbraio 2024); Camera: 199 sì, 102 no, 0 astenuti (10 luglio 2024)."
     ]
    },
    "descrizione_governo": {
@@ -12086,7 +12086,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 11 maggio 2023, è diventata legge il 30 settembre 2024: 508 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 256 sì, 0 no, 0 astenuti (19 settembre 2024); Senato: 139 sì, 0 no, 1 astenuti (6 settembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 139 sì, 0 no, 1 astenuti (6 settembre 2023); Camera: 256 sì, 0 no, 0 astenuti (19 settembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -12155,7 +12155,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 27 aprile 2023, è diventata legge il 30 settembre 2024: 522 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 266 sì, 0 no, 0 astenuti (19 settembre 2024); Senato: 138 sì, 0 no, 0 astenuti (27 giugno 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 138 sì, 0 no, 0 astenuti (27 giugno 2023); Camera: 266 sì, 0 no, 0 astenuti (19 settembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -12656,7 +12656,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 13 ottobre 2022, è diventata legge il 28 ottobre 2024: 746 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 243 sì, 0 no, 0 astenuti (23 ottobre 2024); Senato: 87 sì, 0 no, 45 astenuti (18 settembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 87 sì, 0 no, 45 astenuti (18 settembre 2024); Camera: 243 sì, 0 no, 0 astenuti (23 ottobre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -12725,7 +12725,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 9 febbraio 2024, è diventata legge il 31 ottobre 2024: 265 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 201 sì, 48 no, 0 astenuti (22 ottobre 2024); Senato: 118 sì, 26 no, 0 astenuti (17 settembre 2024)."
+     "Ultimo voto finale — Senato: 118 sì, 26 no, 0 astenuti (17 settembre 2024); Camera: 201 sì, 48 no, 0 astenuti (22 ottobre 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -13077,7 +13077,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 1 ottobre 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 1 ottobre 2024, è diventata legge il 18 novembre 2024: 48 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 144 sì, 0 no, 92 astenuti (13 novembre 2024); Senato: 75 sì, 0 no, 44 astenuti (5 novembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 75 sì, 0 no, 44 astenuti (5 novembre 2024); Camera: 144 sì, 0 no, 92 astenuti (13 novembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -13345,7 +13345,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 9 settembre 2024, è diventata legge il 18 novembre 2024: 70 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 215 sì, 43 no, 0 astenuti (12 novembre 2024); Senato: 99 sì, 21 no, 3 astenuti (16 ottobre 2024)."
+     "Ultimo voto finale — Senato: 99 sì, 21 no, 3 astenuti (16 ottobre 2024); Camera: 215 sì, 43 no, 0 astenuti (12 novembre 2024)."
     ]
    },
    "descrizione_governo": null,
@@ -14330,7 +14330,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 3 maggio 2024, è diventata legge il 16 gennaio 2025: 258 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 202 sì, 0 no, 68 astenuti (8 gennaio 2025); Senato: 150 sì, 0 no, 0 astenuti (11 settembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 150 sì, 0 no, 0 astenuti (11 settembre 2024); Camera: 202 sì, 0 no, 68 astenuti (8 gennaio 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -14399,7 +14399,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 29 novembre 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 29 novembre 2024, è diventata legge il 23 gennaio 2025: 55 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 163 sì, 0 no, 103 astenuti (21 gennaio 2025); Senato: 93 sì, 0 no, 62 astenuti (15 gennaio 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 93 sì, 0 no, 62 astenuti (15 gennaio 2025); Camera: 163 sì, 0 no, 103 astenuti (21 gennaio 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -14533,7 +14533,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 27 dicembre 2024 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge senza modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 27 dicembre 2024, è diventata legge il 31 gennaio 2025: 35 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 192 sì, 41 no, 0 astenuti (28 gennaio 2025); Senato: 123 sì, 25 no, 1 astenuti (22 gennaio 2025)."
+     "Ultimo voto finale — Senato: 123 sì, 25 no, 1 astenuti (22 gennaio 2025); Camera: 192 sì, 41 no, 0 astenuti (28 gennaio 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -14620,7 +14620,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 24 novembre 2022, è diventata legge il 17 febbraio 2025: 816 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 157 sì, 0 no, 107 astenuti (11 febbraio 2025); Senato: 76 sì, 0 no, 54 astenuti (1 ottobre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 76 sì, 0 no, 54 astenuti (1 ottobre 2024); Camera: 157 sì, 0 no, 107 astenuti (11 febbraio 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -15044,7 +15044,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 16 gennaio 2025, è diventata legge il 11 marzo 2025: 54 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 143 sì, 88 no, 3 astenuti (4 marzo 2025); Senato: 87 sì, 52 no, 0 astenuti (11 febbraio 2025)."
+     "Ultimo voto finale — Senato: 87 sì, 52 no, 0 astenuti (11 febbraio 2025); Camera: 143 sì, 88 no, 3 astenuti (4 marzo 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -15419,7 +15419,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata (iniziativa: Parlamentare / Regionale) il 19 ottobre 2023, è diventata legge il 14 marzo 2025: 512 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 149 sì, 63 no, 0 astenuti (11 marzo 2025); Senato: 87 sì, 40 no, 18 astenuti (27 novembre 2024)."
+     "Ultimo voto finale — Senato: 87 sì, 40 no, 18 astenuti (27 novembre 2024); Camera: 149 sì, 63 no, 0 astenuti (11 marzo 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -15626,7 +15626,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 24 gennaio 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 24 gennaio 2025, è diventata legge il 20 marzo 2025: 55 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 140 sì, 91 no, 3 astenuti (18 marzo 2025); Senato: 77 sì, 58 no, 1 astenuti (5 marzo 2025)."
+     "Ultimo voto finale — Senato: 77 sì, 58 no, 1 astenuti (5 marzo 2025); Camera: 140 sì, 91 no, 3 astenuti (18 marzo 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -15869,7 +15869,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 10 novembre 2023, è diventata legge il 31 marzo 2025: 507 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 147 sì, 67 no, 1 astenuti (19 marzo 2025); Senato: 83 sì, 49 no, 1 astenuti (9 ottobre 2024)."
+     "Ultimo voto finale — Senato: 83 sì, 49 no, 1 astenuti (9 ottobre 2024); Camera: 147 sì, 67 no, 1 astenuti (19 marzo 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -15938,7 +15938,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 25 ottobre 2022, è diventata legge il 1 aprile 2025: 889 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 244 sì, 0 no, 10 astenuti (26 marzo 2025); Senato: 133 sì, 0 no, 4 astenuti (12 luglio 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 133 sì, 0 no, 4 astenuti (12 luglio 2023); Camera: 244 sì, 0 no, 10 astenuti (26 marzo 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -16007,7 +16007,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 1 marzo 2024, è diventata legge il 4 aprile 2025: 399 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 144 sì, 2 no, 91 astenuti (1 aprile 2025); Senato: 72 sì, 0 no, 37 astenuti (11 novembre 2024)."
+     "Ultimo voto finale — Senato: 72 sì, 0 no, 37 astenuti (11 novembre 2024); Camera: 144 sì, 2 no, 91 astenuti (1 aprile 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -16279,7 +16279,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 18 ottobre 2024, è diventata legge il 15 aprile 2025: 179 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 222 sì, 0 no, 0 astenuti (10 aprile 2025); Senato: 138 sì, 0 no, 1 astenuti (10 dicembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 138 sì, 0 no, 1 astenuti (10 dicembre 2024); Camera: 222 sì, 0 no, 0 astenuti (10 aprile 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -16770,7 +16770,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 19 marzo 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 19 marzo 2025, è diventata legge il 15 maggio 2025: 57 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 131 sì, 77 no, 3 astenuti (13 maggio 2025); Senato: 76 sì, 53 no, 1 astenuti (16 aprile 2025)."
+     "Ultimo voto finale — Senato: 76 sì, 53 no, 1 astenuti (16 aprile 2025); Camera: 131 sì, 77 no, 3 astenuti (13 maggio 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -16908,7 +16908,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 28 marzo 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 28 marzo 2025, è diventata legge il 23 maggio 2025: 56 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 137 sì, 83 no, 2 astenuti (20 maggio 2025); Senato: 81 sì, 37 no, 0 astenuti (15 maggio 2025)."
+     "Ultimo voto finale — Senato: 81 sì, 37 no, 0 astenuti (15 maggio 2025); Camera: 137 sì, 83 no, 2 astenuti (20 maggio 2025)."
     ]
    },
    "descrizione_governo": {
@@ -17480,7 +17480,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 22 aprile 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge senza modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 22 aprile 2025, è diventata legge il 13 giugno 2025: 52 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 294 sì, 1 no, 0 astenuti (10 giugno 2025); Senato: 148 sì, 0 no, 0 astenuti (13 maggio 2025)."
+     "Ultimo voto finale — Senato: 148 sì, 0 no, 0 astenuti (13 maggio 2025); Camera: 294 sì, 1 no, 0 astenuti (10 giugno 2025)."
     ]
    },
    "descrizione_governo": {
@@ -17624,7 +17624,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 3 ottobre 2024, è diventata legge il 13 giugno 2025: 253 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 137 sì, 36 no, 59 astenuti (11 giugno 2025); Senato: 81 sì, 0 no, 60 astenuti (27 febbraio 2025)."
+     "Ultimo voto finale — Senato: 81 sì, 0 no, 60 astenuti (27 febbraio 2025); Camera: 137 sì, 36 no, 59 astenuti (11 giugno 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -17769,7 +17769,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 3 dicembre 2024, è diventata legge il 23 giugno 2025: 202 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 238 sì, 2 no, 0 astenuti (11 giugno 2025); Senato: 125 sì, 0 no, 0 astenuti (5 marzo 2025)."
+     "Ultimo voto finale — Senato: 125 sì, 0 no, 0 astenuti (5 marzo 2025); Camera: 238 sì, 2 no, 0 astenuti (11 giugno 2025)."
     ]
    },
    "descrizione_governo": {
@@ -17844,7 +17844,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 13 settembre 2024, è diventata legge il 23 giugno 2025: 283 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 138 sì, 1 no, 86 astenuti (11 giugno 2025); Senato: 115 sì, 0 no, 5 astenuti (16 ottobre 2024)."
+     "Ultimo voto finale — Senato: 115 sì, 0 no, 5 astenuti (16 ottobre 2024); Camera: 138 sì, 1 no, 86 astenuti (11 giugno 2025)."
     ]
    },
    "descrizione_governo": {
@@ -18194,7 +18194,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 18 settembre 2024, è diventata legge il 18 luglio 2025: 303 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 239 sì, 0 no, 0 astenuti (15 luglio 2025); Senato: 146 sì, 0 no, 0 astenuti (8 gennaio 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 146 sì, 0 no, 0 astenuti (8 gennaio 2025); Camera: 239 sì, 0 no, 0 astenuti (15 luglio 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -18334,7 +18334,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 24 giugno 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 24 giugno 2025, è diventata legge il 30 luglio 2025: 36 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 149 sì, 91 no, 3 astenuti (29 luglio 2025); Senato: 78 sì, 59 no, 0 astenuti (23 luglio 2025)."
+     "Ultimo voto finale — Senato: 78 sì, 59 no, 0 astenuti (23 luglio 2025); Camera: 149 sì, 91 no, 3 astenuti (29 luglio 2025)."
     ]
    },
    "descrizione_governo": {
@@ -18717,7 +18717,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 19 giugno 2025, è diventata legge il 8 agosto 2025: 50 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 146 sì, 100 no, 2 astenuti (6 agosto 2025); Senato: 56 sì, 47 no, 0 astenuti (24 luglio 2025)."
+     "Ultimo voto finale — Senato: 56 sì, 47 no, 0 astenuti (24 luglio 2025); Camera: 146 sì, 100 no, 2 astenuti (6 agosto 2025)."
     ]
    },
    "descrizione_governo": {
@@ -18792,7 +18792,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 8 aprile 2025, è diventata legge il 8 agosto 2025: 122 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 145 sì, 40 no, 61 astenuti (6 agosto 2025); Senato: 71 sì, 16 no, 30 astenuti (3 luglio 2025)."
+     "Ultimo voto finale — Senato: 71 sì, 16 no, 30 astenuti (3 luglio 2025); Camera: 145 sì, 40 no, 61 astenuti (6 agosto 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -18869,7 +18869,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 1 marzo 2024, è diventata legge il 12 settembre 2025: 560 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 153 sì, 110 no, 0 astenuti (8 luglio 2025); Senato: 77 sì, 5 no, 45 astenuti (31 ottobre 2024)."
+     "Ultimo voto finale — Senato: 77 sì, 5 no, 45 astenuti (31 ottobre 2024); Camera: 153 sì, 110 no, 0 astenuti (8 luglio 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -18938,7 +18938,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 16 gennaio 2025, è diventata legge il 17 settembre 2025: 244 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 277 sì, 0 no, 0 astenuti (10 settembre 2025); Senato: 125 sì, 0 no, 0 astenuti (5 marzo 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 125 sì, 0 no, 0 astenuti (5 marzo 2025); Camera: 277 sì, 0 no, 0 astenuti (10 settembre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -19021,7 +19021,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata da parlamentari il 3 maggio 2023, è diventata legge il 17 settembre 2025: 868 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 229 sì, 0 no, 0 astenuti (11 giugno 2025); Senato: 143 sì, 1 no, 0 astenuti (6 settembre 2023)."
+     "Ultimo voto finale — Senato: 143 sì, 1 no, 0 astenuti (6 settembre 2023); Camera: 229 sì, 0 no, 0 astenuti (11 giugno 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -19090,7 +19090,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 9 ottobre 2024, è diventata legge il 17 settembre 2025: 343 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 201 sì, 1 no, 73 astenuti (10 settembre 2025); Senato: 146 sì, 0 no, 0 astenuti (8 gennaio 2025)."
+     "Ultimo voto finale — Senato: 146 sì, 0 no, 0 astenuti (8 gennaio 2025); Camera: 201 sì, 1 no, 73 astenuti (10 settembre 2025)."
     ]
    },
    "descrizione_governo": {
@@ -19441,7 +19441,7 @@
     "cosa_e": "Riguarda i conti dello Stato: la legge di bilancio fissa entrate e spese per i tre anni successivi; rendiconto e assestamento registrano e correggono quelle dell'anno.",
     "fatti": [
      "Presentata dal Governo il 3 luglio 2025, è diventata legge il 26 settembre 2025: 85 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 130 sì, 86 no, 0 astenuti (24 settembre 2025); Senato: 78 sì, 60 no, 0 astenuti (24 luglio 2025)."
+     "Ultimo voto finale — Senato: 78 sì, 60 no, 0 astenuti (24 luglio 2025); Camera: 130 sì, 86 no, 0 astenuti (24 settembre 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -19510,7 +19510,7 @@
     "cosa_e": "Riguarda i conti dello Stato: la legge di bilancio fissa entrate e spese per i tre anni successivi; rendiconto e assestamento registrano e correggono quelle dell'anno.",
     "fatti": [
      "Presentata dal Governo il 3 luglio 2025, è diventata legge il 26 settembre 2025: 85 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 116 sì, 65 no, 6 astenuti (24 settembre 2025); Senato: 79 sì, 61 no, 0 astenuti (24 luglio 2025)."
+     "Ultimo voto finale — Senato: 79 sì, 61 no, 0 astenuti (24 luglio 2025); Camera: 116 sì, 65 no, 6 astenuti (24 settembre 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -19966,7 +19966,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 24 gennaio 2025, è diventata legge il 16 ottobre 2025: 265 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 237 sì, 1 no, 0 astenuti (8 ottobre 2025); Senato: 124 sì, 0 no, 0 astenuti (5 marzo 2025)."
+     "Ultimo voto finale — Senato: 124 sì, 0 no, 0 astenuti (5 marzo 2025); Camera: 237 sì, 1 no, 0 astenuti (8 ottobre 2025)."
     ]
    },
    "descrizione_governo": {
@@ -20041,7 +20041,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 28 marzo 2024, è diventata legge il 16 ottobre 2025: 567 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 242 sì, 0 no, 0 astenuti (8 ottobre 2025); Senato: 151 sì, 0 no, 0 astenuti (11 settembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 151 sì, 0 no, 0 astenuti (11 settembre 2024); Camera: 242 sì, 0 no, 0 astenuti (8 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -20116,7 +20116,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 6 settembre 2023, è diventata legge il 16 ottobre 2025: 771 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 224 sì, 0 no, 0 astenuti (8 ottobre 2025); Senato: 132 sì, 0 no, 0 astenuti (29 novembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 132 sì, 0 no, 0 astenuti (29 novembre 2023); Camera: 224 sì, 0 no, 0 astenuti (8 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -20191,7 +20191,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 13 settembre 2024, è diventata legge il 16 ottobre 2025: 398 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 242 sì, 0 no, 0 astenuti (8 ottobre 2025); Senato: 119 sì, 0 no, 0 astenuti (16 ottobre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 119 sì, 0 no, 0 astenuti (16 ottobre 2024); Camera: 242 sì, 0 no, 0 astenuti (8 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -20266,7 +20266,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 6 settembre 2023, è diventata legge il 16 ottobre 2025: 771 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 236 sì, 0 no, 0 astenuti (8 ottobre 2025); Senato: 136 sì, 0 no, 0 astenuti (29 novembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 136 sì, 0 no, 0 astenuti (29 novembre 2023); Camera: 236 sì, 0 no, 0 astenuti (8 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -20341,7 +20341,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 30 gennaio 2024, è diventata legge il 22 ottobre 2025: 631 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 246 sì, 0 no, 0 astenuti (14 ottobre 2025); Senato: 143 sì, 0 no, 1 astenuti (26 marzo 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 143 sì, 0 no, 1 astenuti (26 marzo 2024); Camera: 246 sì, 0 no, 0 astenuti (14 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -20410,7 +20410,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 30 giugno 2023, è diventata legge il 22 ottobre 2025: 845 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 240 sì, 0 no, 0 astenuti (14 ottobre 2025); Senato: 141 sì, 0 no, 0 astenuti (29 novembre 2023). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 141 sì, 0 no, 0 astenuti (29 novembre 2023); Camera: 240 sì, 0 no, 0 astenuti (14 ottobre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -20550,7 +20550,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 6 settembre 2023, è diventata legge il 30 ottobre 2025: 785 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 260 sì, 1 no, 0 astenuti (22 ottobre 2025); Senato: 137 sì, 0 no, 0 astenuti (29 novembre 2023)."
+     "Ultimo voto finale — Senato: 137 sì, 0 no, 0 astenuti (29 novembre 2023); Camera: 260 sì, 1 no, 0 astenuti (22 ottobre 2025)."
     ]
    },
    "descrizione_governo": {
@@ -20625,7 +20625,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 12 gennaio 2024, è diventata legge il 4 novembre 2025: 662 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 244 sì, 1 no, 0 astenuti (14 ottobre 2025); Senato: 137 sì, 0 no, 1 astenuti (26 marzo 2024)."
+     "Ultimo voto finale — Senato: 137 sì, 0 no, 1 astenuti (26 marzo 2024); Camera: 244 sì, 1 no, 0 astenuti (14 ottobre 2025)."
     ]
    },
    "descrizione_governo": {
@@ -20765,7 +20765,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 15 luglio 2024, è diventata legge il 10 novembre 2025: 483 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 117 sì, 63 no, 0 astenuti (29 ottobre 2025); Senato: 85 sì, 54 no, 0 astenuti (8 maggio 2025)."
+     "Ultimo voto finale — Senato: 85 sì, 54 no, 0 astenuti (8 maggio 2025); Camera: 117 sì, 63 no, 0 astenuti (29 ottobre 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -20834,7 +20834,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 27 gennaio 2023, è diventata legge il 10 novembre 2025: 1018 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 225 sì, 0 no, 0 astenuti (4 novembre 2025); Senato: 137 sì, 0 no, 0 astenuti (19 marzo 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 137 sì, 0 no, 0 astenuti (19 marzo 2025); Camera: 225 sì, 0 no, 0 astenuti (4 novembre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -21216,7 +21216,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 31 marzo 2025, è diventata legge il 2 dicembre 2025: 246 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 237 sì, 0 no, 0 astenuti (25 novembre 2025); Senato: 161 sì, 0 no, 0 astenuti (23 luglio 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 161 sì, 0 no, 0 astenuti (23 luglio 2025); Camera: 237 sì, 0 no, 0 astenuti (25 novembre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -21297,7 +21297,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 5 luglio 2024, è diventata legge il 2 dicembre 2025: 515 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 124 sì, 73 no, 6 astenuti (26 novembre 2025); Senato: 86 sì, 48 no, 7 astenuti (8 ottobre 2025)."
+     "Ultimo voto finale — Senato: 86 sì, 48 no, 7 astenuti (8 ottobre 2025); Camera: 124 sì, 73 no, 6 astenuti (26 novembre 2025)."
     ]
    },
    "descrizione_governo": null,
@@ -21652,7 +21652,7 @@
     "fatti": [
      "Presentata dal Governo il 22 ottobre 2025, è diventata legge il 30 dicembre 2025: 69 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 216 sì, 126 no, 3 astenuti (30 dicembre 2025); Senato: 110 sì, 66 no, 2 astenuti (23 dicembre 2025)."
+     "Ultimo voto finale — Senato: 110 sì, 66 no, 2 astenuti (23 dicembre 2025); Camera: 216 sì, 126 no, 3 astenuti (30 dicembre 2025)."
     ]
    },
    "descrizione_governo": {
@@ -22067,7 +22067,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 1 dicembre 2025 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 1 dicembre 2025, è diventata legge il 22 gennaio 2026: 52 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 136 sì, 96 no, 4 astenuti (20 gennaio 2026); Senato: 79 sì, 63 no, 0 astenuti (14 gennaio 2026)."
+     "Ultimo voto finale — Senato: 79 sì, 63 no, 0 astenuti (14 gennaio 2026); Camera: 136 sì, 96 no, 4 astenuti (20 gennaio 2026)."
     ]
    },
    "descrizione_governo": {
@@ -22150,7 +22150,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 14 novembre 2022, è diventata legge il 22 gennaio 2026: 1165 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 101 sì, 0 no, 62 astenuti (27 novembre 2025); Senato: 87 sì, 0 no, 56 astenuti (27 marzo 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 87 sì, 0 no, 56 astenuti (27 marzo 2024); Camera: 101 sì, 0 no, 62 astenuti (27 novembre 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -22910,7 +22910,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 8 ottobre 2024, è diventata legge il 9 marzo 2026: 517 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 238 sì, 0 no, 0 astenuti (3 marzo 2026); Senato: 107 sì, 0 no, 0 astenuti (11 marzo 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 107 sì, 0 no, 0 astenuti (11 marzo 2025); Camera: 238 sì, 0 no, 0 astenuti (3 marzo 2026). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -23357,7 +23357,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 3 dicembre 2024, è diventata legge il 1 aprile 2026: 484 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 156 sì, 0 no, 112 astenuti (25 marzo 2026); Senato: 83 sì, 0 no, 52 astenuti (28 maggio 2025). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 83 sì, 0 no, 52 astenuti (28 maggio 2025); Camera: 156 sì, 0 no, 112 astenuti (25 marzo 2026). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -24082,7 +24082,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 3 giugno 2025, è diventata legge il 21 aprile 2026: 322 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 154 sì, 1 no, 110 astenuti (15 aprile 2026); Senato: 80 sì, 0 no, 44 astenuti (26 novembre 2025)."
+     "Ultimo voto finale — Senato: 80 sì, 0 no, 44 astenuti (26 novembre 2025); Camera: 154 sì, 1 no, 110 astenuti (15 aprile 2026)."
     ]
    },
    "descrizione_governo": null,
@@ -24162,7 +24162,7 @@
     "fatti": [
      "Presentata dal Governo il 24 febbraio 2026, è diventata legge il 24 aprile 2026: 59 giorni e 2 letture tra Camera e Senato.",
      "Il Governo ha posto la questione di fiducia (1 voto, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
-     "Ultimo voto finale — Camera: 162 sì, 102 no, 1 astenuti (24 aprile 2026); Senato: 96 sì, 46 no, 0 astenuti (17 aprile 2026)."
+     "Ultimo voto finale — Senato: 96 sì, 46 no, 0 astenuti (17 aprile 2026); Camera: 162 sì, 102 no, 1 astenuti (24 aprile 2026)."
     ]
    },
    "descrizione_governo": {
@@ -24479,7 +24479,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 11 agosto 2025, è diventata legge il 7 maggio 2026: 269 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 149 sì, 32 no, 63 astenuti (29 aprile 2026); Senato: 81 sì, 0 no, 58 astenuti (25 marzo 2026)."
+     "Ultimo voto finale — Senato: 81 sì, 0 no, 58 astenuti (25 marzo 2026); Camera: 149 sì, 32 no, 63 astenuti (29 aprile 2026)."
     ]
    },
    "descrizione_governo": null,
@@ -24811,7 +24811,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 18 marzo 2026 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 18 marzo 2026, è diventata legge il 13 maggio 2026: 56 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 147 sì, 79 no, 0 astenuti (12 maggio 2026); Senato: 83 sì, 53 no, 0 astenuti (22 aprile 2026)."
+     "Ultimo voto finale — Senato: 83 sì, 53 no, 0 astenuti (22 aprile 2026); Camera: 147 sì, 79 no, 0 astenuti (12 maggio 2026)."
     ]
    },
    "descrizione_governo": null,
@@ -25248,7 +25248,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 3 febbraio 2026, è diventata legge il 9 giugno 2026: 126 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 132 sì, 0 no, 84 astenuti (4 giugno 2026); Senato: 88 sì, 0 no, 56 astenuti (1 aprile 2026). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 88 sì, 0 no, 56 astenuti (1 aprile 2026); Camera: 132 sì, 0 no, 84 astenuti (4 giugno 2026). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -25435,7 +25435,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 24 aprile 2026 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge senza modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 24 aprile 2026, è diventata legge il 19 giugno 2026: 56 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 147 sì, 93 no, 3 astenuti (16 giugno 2026); Senato: 83 sì, 49 no, 0 astenuti (3 giugno 2026)."
+     "Ultimo voto finale — Senato: 83 sì, 49 no, 0 astenuti (3 giugno 2026); Camera: 147 sì, 93 no, 3 astenuti (16 giugno 2026)."
     ]
    },
    "descrizione_governo": {
@@ -25985,7 +25985,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata dal Governo il 3 giugno 2025, è diventata legge il 16 luglio 2026: 408 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 122 sì, 70 no, 3 astenuti (7 luglio 2026); Senato: 72 sì, 48 no, 0 astenuti (9 dicembre 2025)."
+     "Ultimo voto finale — Senato: 72 sì, 48 no, 0 astenuti (9 dicembre 2025); Camera: 122 sì, 70 no, 3 astenuti (7 luglio 2026)."
     ]
    },
    "descrizione_governo": null,
@@ -27011,7 +27011,7 @@
     "cosa_e": "È una legge delega: fissa principi, criteri e scadenze, ma le regole di dettaglio le scrive poi il Governo con uno o più decreti legislativi. Per sapere cosa cambia davvero vanno letti anche quei decreti.",
     "fatti": [
      "Presentata dal Governo il 21 novembre 2025, è diventata legge il 23 settembre 2026: 306 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 128 sì, 72 no, 0 astenuti (16 settembre 2026); Senato: 83 sì, 48 no, 0 astenuti (22 luglio 2026)."
+     "Ultimo voto finale — Senato: 83 sì, 48 no, 0 astenuti (22 luglio 2026); Camera: 128 sì, 72 no, 0 astenuti (16 settembre 2026)."
     ]
    },
    "descrizione_governo": {
@@ -27501,7 +27501,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 26 febbraio 2026, è diventata legge il 9 ottobre 2026: 225 giorni e 3 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 227 sì, 164 no, 0 astenuti (8 ottobre 2026); Senato: 113 sì, 71 no, 2 astenuti (15 settembre 2026)."
+     "Ultimo voto finale — Senato: 113 sì, 71 no, 2 astenuti (15 settembre 2026); Camera: 227 sì, 164 no, 0 astenuti (8 ottobre 2026)."
     ]
    },
    "descrizione_governo": null,

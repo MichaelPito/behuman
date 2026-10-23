@@ -203,19 +203,25 @@ def _norm(s: str) -> str:
 
 
 def abbina_verifica(fc: dict, interventi: list[dict]) -> dict | None:
-    """Se la fonte della verifica è un resoconto della Camera che abbiamo, trova l'intervento esatto."""
+    """Se la fonte della verifica è un resoconto della Camera che abbiamo, trova l'intervento esatto.
+
+    `interventi` sono già solo quelli del politico. Il fact-checker a volte toglie incisi
+    senza segnalarlo: basta che il 90% delle parole della frase sia nell'intervento.
+    """
     u = fc.get("fonte_originale") or ""
-    m = re.search(r"camera\.it/leg(\d+)/410\?idSeduta=(\d+)", u, re.I)
+    m = re.search(r"camera\.it/leg(\d+)/410\?idSeduta=(\d+)", u, re.I) or re.search(r"camera\.it/leg(\d+)/resoconti/assemblea/html/sed(\d+)/", u, re.I)
     if not m:
         return None
     leg, n = int(m.group(1)), int(m.group(2))
-    pezzi = [_norm(p) for p in re.split(r"\(\.\.\.\)|\(…\)|…|\[\.\.\.\]|\[…\]", fc.get("frase", "")) if len(_norm(p)) >= 25]
-    if not pezzi:
+    parole = [w for w in _norm(fc.get("frase", "")).split() if len(w) > 3]
+    if len(parole) < 4:
         return None
+    migliore, quota = None, 0.0
     for i in interventi:
         if i.get("seduta") != n or i.get("leg") != leg:
             continue
-        t = _norm(i.get("testo", ""))
-        if all(p in t for p in pezzi):
-            return i
-    return None
+        t = set(_norm(i.get("testo", "")).split())
+        q = sum(w in t for w in parole) / len(parole)
+        if q > quota:
+            migliore, quota = i, q
+    return migliore if quota >= 0.9 else None
