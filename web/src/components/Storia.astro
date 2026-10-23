@@ -1,0 +1,81 @@
+---
+// Una storia di cronaca politica: titoli di più testate sullo stesso fatto, con le parole del
+// politico, il confronto con i dati ufficiali e con le sue posizioni documentate.
+import Icon from "./Icon.astro";
+import type { Storia } from "../lib/data";
+import { dataIt, ESITO_VERIFICA, ETICHETTA_POSIZIONE } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props { s: Storia; mostraNome?: boolean }
+const { s, mostraNome = false } = Astro.props;
+const fmt = (v: number, unita: string) =>
+  unita === "€ al litro" ? `${v.toFixed(3).replace(".", ",")} €/l` : unita === "persone" ? Math.round(v).toLocaleString("it-IT") : `${v.toFixed(1).replace(".", ",")}${unita.includes("%") ? "%" : ""}`;
+const PROP: Record<string, string> = {
+  "ucraina-cessione-armi": "invio di armi all'Ucraina",
+  "autonomia-differenziata-legge-calderoli": "autonomia differenziata",
+  "separazione-carriere": "separazione delle carriere",
+};
+---
+<article class:list={["card storia", { polemica: s.polemica }]}>
+  <div class="row testa">
+    {mostraNome && s.slug && <a class="chi" href={u(`/politici/${s.slug}/`)}>{s.nome}</a>}
+    <span class="tiny mono muted">{dataIt(s.data)}</span>
+    <span class:list={["pill", { sun: s.virale }]} title="Testate diverse che hanno ripreso la stessa storia">{s.n_testate} {s.n_testate === 1 ? "testata" : "testate"}{s.virale && " · diffusa"}</span>
+    {s.polemica && <span class="pill plum">Polemica</span>}
+    {s.social && <span class="pill sky">Nata sui social</span>}
+  </div>
+  <h3><a href={s.articoli[0]?.url} target="_blank" rel="noopener">{s.titolo}</a></h3>
+  {s.citazioni.length > 0 && <blockquote>«{s.citazioni[0]}»<span class="tiny muted"> — parole riportate nel titolo</span></blockquote>}
+
+  {s.verifiche.map((v) => (
+    <div class:list={["box", ESITO_VERIFICA[v.esito]?.[1]]}>
+      <strong class="small">{ESITO_VERIFICA[v.esito]?.[0] ?? v.esito}</strong>
+      <span class="tiny muted">Affermazione ({v.di_chi}): «{v.frase}»</span>
+      {v.misure?.map((m) => (
+        <span class="small">{m.nome}: {fmt(m.da.valore, m.unita)} ({dataIt(m.da.data)}) → {fmt(m.a.valore, m.unita)} ({dataIt(m.a.data)}), {m.variazione > 0 ? "+" : ""}{m.variazione.toLocaleString("it-IT")}% · <a href={m.fonte_url} target="_blank" rel="noopener">{m.fonte}</a></span>
+      ))}
+      {v.righe?.map((r) => <span class="small">{r.camera}: presenza al voto {r.presenza.toLocaleString("it-IT")}%, mediana dei colleghi {r.mediana.toLocaleString("it-IT")}%</span>)}
+    </div>
+  ))}
+
+  {s.confronti.filter((c) => c.esito || c.proposizione).map((c) => (
+    <div class:list={["box", c.esito === "in_contrasto" ? "plum" : c.esito === "coerente" ? "accent" : ""]}>
+      {c.proposizione ? (
+        <>
+          <strong class="small">{c.esito === "in_contrasto" ? "In contrasto con la sua posizione documentata" : c.esito === "coerente" ? "Coerente con la sua posizione documentata" : "Tocca un tema del database"}: {PROP[c.proposizione] ?? c.proposizione}</strong>
+          {c.ultima_posizione ? (
+            <span class="small">Ultima posizione documentata: <strong>{ETICHETTA_POSIZIONE[c.ultima_posizione.posizione]}</strong> ({dataIt(c.ultima_posizione.data)}, {c.ultima_posizione.descrizione}){c.ultima_posizione.fonte_url && <> · <a href={c.ultima_posizione.fonte_url} target="_blank" rel="noopener">fonte</a></>}</span>
+          ) : <span class="small muted">Nessuna posizione documentata finora.</span>}
+        </>
+      ) : (
+        <strong class="small">{c.esito === "in_contrasto" ? "Diversa da quanto chiedeva prima dell'incarico" : "In linea con quanto chiedeva prima dell'incarico"}: {c.tema_nome}</strong>
+      )}
+    </div>
+  ))}
+
+  {s.articoli.length > 1 && (
+    <details class="altre">
+      <summary class="tiny">Tutti i titoli ({s.articoli.length})</summary>
+      <ul>{s.articoli.map((a) => <li class="small"><a href={a.url} target="_blank" rel="noopener">{a.titolo}</a> <span class="tiny muted">{a.fonte} · {dataIt(a.data)}</span></li>)}</ul>
+    </details>
+  )}
+</article>
+
+<style>
+  .storia { display: grid; gap: 10px; padding: 16px 18px; border-left: 4px solid var(--line); transition: transform 0.25s var(--spring), box-shadow 0.25s; }
+  .storia:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+  .storia.polemica { border-left-color: var(--plum); }
+  .testa { gap: 6px; }
+  .chi { font-weight: 700; color: var(--ink); text-decoration: none; }
+  h3 { font-size: 1.02rem; line-height: 1.35; margin: 0; }
+  h3 a { color: var(--ink); text-decoration: none; }
+  h3 a:hover { color: var(--accent-ink); text-decoration: underline; }
+  blockquote { margin: 0; font: 500 0.98rem/1.45 var(--f-display); border-left: 3px solid var(--sun); padding-left: 10px; }
+  .box { display: grid; gap: 3px; padding: 10px 12px; border-radius: 10px; background: var(--surface-2); }
+  .box.accent { background: var(--accent-wash); }
+  .box.plum { background: var(--plum-wash); }
+  .box.sky { background: var(--sky-wash); }
+  .box.sun { background: var(--sun-wash); }
+  .altre summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  .altre ul { margin: 6px 0 0; padding-left: 16px; display: grid; gap: 4px; }
+</style>

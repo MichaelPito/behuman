@@ -6,7 +6,7 @@
 - Pagella Politica: dichiarazioni scelte e verificate da un fact-checker indipendente.
   Usiamo la scelta come segnale oggettivo di diffusione («dichiarazione discussa»). Riportiamo
   la frase del politico (citazione breve con fonte), la data, il collegamento alla verifica e
-  alla fonte originale. Non riportiamo il loro giudizio né i loro testi. Quando la fonte
+  alla fonte originale e il loro giudizio, sempre attribuito a loro. Non copiamo i loro testi. Quando la fonte
   originale è un resoconto della Camera che abbiamo, mostriamo anche il testo ufficiale.
 """
 
@@ -161,6 +161,8 @@ def pagella(dal: str, slugs: set[str]) -> dict[str, list[dict]]:
             data = data_dichiarazione(_testo(acf.get("data_della_dichiarazione") or ""), x["date"][:10])
             if data and data < dal:
                 continue
+            v = acf.get("verdetto")
+            giudizio = _testo(v.get("testo")) if isinstance(v, dict) and v.get("testo") and len(v["testo"]) < 240 else None
             frase = _testo(acf.get("sentenza") or "").strip("«»\"“” ")
             if not frase:
                 continue
@@ -172,6 +174,7 @@ def pagella(dal: str, slugs: set[str]) -> dict[str, list[dict]]:
                     "url": f"https://pagellapolitica.it/fact-checking/{x.get('slug')}",
                     "fonte_originale": acf.get("link") or None,
                     "fonte_tipo": tipo_fonte(acf.get("link") or ""),
+                    "giudizio": giudizio,  # giudizio del fact-checker, mostrato come suo
                 }
             )
         if len(dati) < 100:

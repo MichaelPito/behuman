@@ -22,6 +22,9 @@ collaborative o di terzi.
 | **Eurostat – gov_10a_taxag** | Pressione fiscale (tasse e contributi in % del PIL), annuale | JSON-stat | CC BY 4.0 | ✅ integrato |
 | **UNHCR – arrivi via mare in Italia** – `data.unhcr.org` | Sbarchi mensili (dati del Ministero dell'Interno), somma su 12 mesi | JSON | riuso con citazione (termini UNHCR) | ✅ integrato |
 | **Programmi elettorali 2022** | PDF depositati (OCR con tesseract), programma completo di FdI (sito ufficiale) e della Lega (PDF): testo in `data/programmi/` | PDF / HTML | documenti pubblici | ✅ integrato (estrazione una tantum) |
+| **Google News** – RSS di ricerca | Titoli delle notizie sui politici (titolo, testata, data, link) | RSS | si linka l'originale | ✅ integrato |
+| **Facta** – `facta.news/wp-json` | Verifiche di contenuti virali sui politici (titolo = conclusione del fact-checker) | REST JSON | si linka l'originale | ✅ integrato |
+| **Open Fact-checking** – RSS | Verifiche di contenuti virali | RSS | si linka l'originale | ✅ integrato |
 | **Pagella Politica** – API WordPress | Quali dichiarazioni sono state scelte per una verifica (segnale di diffusione) | REST JSON | contenuti © Pagella Politica: usiamo frase, data e link, non i testi né i giudizi | ✅ integrato (solo link) |
 | **Wikidata** – `query.wikidata.org` (+ QLever) | Anagrafica, foto (Commons), partiti, altre cariche | SPARQL | CC0 | ✅ integrato, con ripiego |
 | **Ministero dell'Interno – DAIT** | Programmi elettorali 2022 depositati | JSON statico + PDF | documenti pubblici per legge | ✅ integrato (link) |

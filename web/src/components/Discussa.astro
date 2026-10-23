@@ -16,6 +16,7 @@ const { v, nome, slug } = Astro.props;
     <span class="pill sun">{v.fonte_tipo}</span>
   </div>
   <blockquote>«{v.frase}»</blockquote>
+  {(v as any).giudizio && <p class="small giudizio">Giudizio di Pagella Politica: <strong>{(v as any).giudizio}</strong></p>}
   {v.testo_ufficiale && (
     <details class="ufficiale">
       <summary class="small">Leggi il passaggio nel resoconto ufficiale della Camera</summary>
@@ -37,6 +38,7 @@ const { v, nome, slug } = Astro.props;
   .chi:hover { color: var(--accent); }
   blockquote { margin: 0; font: 500 1.05rem/1.5 var(--f-display); text-wrap: pretty; }
   .link { gap: 14px; }
+  .giudizio { margin: 0; padding: 6px 10px; border-radius: 8px; background: var(--sky-wash); }
   .ufficiale summary { cursor: pointer; color: var(--accent-ink); }
   .ufficiale p { margin: 8px 0 4px; border-left: 3px solid var(--line); padding-left: 10px; }
 </style>

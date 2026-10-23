@@ -305,7 +305,8 @@
    "frase": "Nella sola Campania c’è un numero di percettori del reddito di cittadinanza equivalente a tutto il Nord Italia",
    "url": "https://pagellapolitica.it/fact-checking/campania-nord-beneficiari-reddito-cittadinanza",
    "fonte_originale": "https://www.facebook.com/watch/?v=438962820963683",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Vero"
   },
   {
    "data": "2022-10-24",
@@ -313,7 +314,8 @@
    "frase": "La sovranità alimentare è un principio che nazioni guidate da governi socialisti hanno inserito in Costituzione, come l’Ecuador e il Venezuela",
    "url": "https://pagellapolitica.it/fact-checking/paesi-sovranita-alimentare-costituzione",
    "fonte_originale": "https://www.ilgiornale.it/news/politica/misure-coltivare-pi-giorgia-non-cambier-2078518.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro dell’Agricoltura e della sovranità alimentare ha ragione a metà."
   },
   {
    "data": "2023-02-07",
@@ -321,7 +323,8 @@
    "frase": "Un uso moderato di vino garantisce, come la scienza afferma, benessere",
    "url": "https://pagellapolitica.it/fact-checking/consumo-moderato-vino-rischi-salute",
    "fonte_originale": "https://twitter.com/FrancescoLollo1/status/1622904448400990210",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il messaggio del ministro dell’Agricoltura è scorretto."
   },
   {
    "data": "2023-05-15",
@@ -329,7 +332,8 @@
    "frase": "La carne realizzata in laboratorio ha rischi per la salute, che non denuncio io ma denuncia l’Oms, come potenziali molto pesanti: 53 rischi per la salute nel rapporto Oms",
    "url": "https://pagellapolitica.it/fact-checking/lollobrigida-oms-rischi-carne-sintetica",
    "fonte_originale": "https://mediasetinfinity.mediaset.it/video/quartarepubblica/puntata-del-15-maggio_F312336401001901",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro dell’Agricoltura omette un dettaglio importante."
   },
   {
    "data": "2023-07-14",
@@ -337,7 +341,8 @@
    "frase": "La carta “Dedicata a te” equivale sostanzialmente a un mese di spesa alimentare gratuita",
    "url": "https://pagellapolitica.it/fact-checking/lollobrigida-carta-dedicata-a-te-mese-spesa-gratis",
    "fonte_originale": "https://ilsole24ore.com/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "A grandi linee la dichiarazione di Lollobrigida è corretta."
   },
   {
    "data": "2023-12-31",
@@ -345,7 +350,8 @@
    "frase": "Dopo il nostro stop al cibo sintetico, anche la Francia ha avanzato una proposta di legge per vietare la produzione, lavorazione e commercializzazione di carne sintetica",
    "url": "https://pagellapolitica.it/fact-checking/proposta-legge-francia-carne-coltivata",
    "fonte_originale": "https://agricolae.eu/editoriale-2023-francesco-lollobrigida-italia-che-fa-sistema-e-quella-che-fa-la-differenza-grazie-a-chi-lavora-senza-condizionamenti-ideologici/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del ministro dell’Agricoltura è fuorviante."
   },
   {
    "data": "2025-03-24",
@@ -353,7 +359,8 @@
    "frase": "L’Italia vanta il record di esportazioni di vino a livello mondiale",
    "url": "https://pagellapolitica.it/fact-checking/esportazioni-vino-mondo-classifica",
    "fonte_originale": "https://www.liberoquotidiano.it/news/politica/41963985/francesco-lollobrigida-cibo-italiano-migliora-vita-inaugurato-villaggio-agricoltura/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro dell’Agricoltura ha ragione solo se si guarda un dato specifico."
   }
  ],
  "camera": [

@@ -175,3 +175,35 @@ def test_frasi_manuali_valide():
     assert meloni and meloni[0]["direzione"] == "abolizione" and meloni[0]["data"] == "2019-05-06"
     T = {t.id: t for t in carica_temi()}
     assert T["accise-carburanti"].richiesta("Gli aumenti previsti vanno bloccati e le accise esistenti vanno progressivamente abolite.")[0] == "abolizione"
+
+
+def test_citazioni_nei_titoli():
+    from memoria.analisi.affermazioni import citazione
+    assert citazione("Nordio: \"Valutiamo di destinare carceri per adulti ai minori\"", "Carlo Nordio") == "Valutiamo di destinare carceri per adulti ai minori"
+    assert citazione("Militari a Milano, lezione di Crosetto alla sinistra: “Realtà mistificata: nessun super potere”", "Guido Crosetto").startswith("Realtà mistificata")
+    assert citazione("Lo scontro Calenda-Renzi per la telefonata a Putin: \"Mitomane, non c'eri\"", "Matteo Renzi") is None
+    assert citazione("Lo scontro Calenda-Renzi per la telefonata a Putin: \"Mitomane, non c'eri\"", "Carlo Calenda") is None
+    assert citazione("Fratoianni e Bonelli al presidio: «Stanno criminalizzando chi protesta»", "Angelo Bonelli") is None
+    assert citazione("Conte: \"Parole Nordio sui minori non da politico\"", "Carlo Nordio") is None
+
+
+def test_verifica_affermazione_con_dati():
+    from memoria.analisi.affermazioni import carica_regole, verifica_indicatore
+    from memoria.sezioni.impegni import carica_temi
+    ind = {"sbarchi-12-mesi": {"nome": "Sbarchi", "unita": "persone", "fonte": "UNHCR", "fonte_url": "u", "serie": [("2022-09-28", 92938), ("2026-09-28", 37722)]},
+           "accisa-benzina": {"nome": "Accisa benzina", "unita": "€ al litro", "fonte": "MASE", "fonte_url": "u", "serie": [("2022-10-17", 0.478), ("2026-10-19", 0.673)]},
+           "accisa-gasolio": {"nome": "Accisa gasolio", "unita": "€ al litro", "fonte": "MASE", "fonte_url": "u", "serie": [("2022-10-17", 0.367), ("2026-10-19", 0.673)]}}
+    r, t = carica_regole(), carica_temi()
+    assert verifica_indicatore("Abbiamo dimezzato gli sbarchi", r, t, ind, "2022-10-21")["esito"] == "confermata"
+    assert verifica_indicatore("Sbarchi in aumento, record di arrivi", r, t, ind, "2022-10-21")["esito"] == "smentita"
+    assert verifica_indicatore("Il governo ha aumentato le accise", r, t, ind, "2022-10-21")["esito"] == "confermata"
+    assert verifica_indicatore("Non abbiamo mai aumentato le accise", r, t, ind, "2022-10-21")["esito"] == "smentita"
+    assert verifica_indicatore("Parliamo di accise domani", r, t, ind, "2022-10-21") is None
+
+
+def test_verifica_non_scambia_frasi_complesse():
+    from memoria.analisi.affermazioni import carica_regole, verifica_indicatore
+    from memoria.sezioni.impegni import carica_temi
+    ind = {"accisa-benzina": {"nome": "a", "unita": "€ al litro", "fonte": "f", "fonte_url": "u", "serie": [("2022-10-17", 0.478), ("2026-10-19", 0.673)]}}
+    frase = "È quello che abbiamo fatto, il taglio delle accise sul carburante, che è stato un modo per impedire che esplodesse l'aumento dei prezzi"
+    assert verifica_indicatore(frase, carica_regole(), carica_temi(), ind, "2022-10-21") is None

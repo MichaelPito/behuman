@@ -41,6 +41,7 @@ from .fonti.wikidata import Wikidata, commons_thumb
 from .sezioni import dichiarazioni as dichiarazionimod
 from .sezioni import governo as governomod
 from .sezioni import impegni as impegnimod
+from .sezioni import osservatorio as osservatoriomod
 
 log = logging.getLogger("memoria")
 
@@ -621,6 +622,11 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
             impegnimod.costruisci(ctx, politici)
         except Exception as e:  # noqa: BLE001
             ctx.errore("impegni", "build", e)
+            traceback.print_exc()
+        try:
+            osservatoriomod.costruisci(ctx, politici)
+        except Exception as e:  # noqa: BLE001
+            ctx.errore("osservatorio", "build", e)
             traceback.print_exc()
     scrivi(out / "governi.json", cfg.governi)
     scrivi(out / "aggiornamenti.json", costruisci_aggiornamenti(ctx))

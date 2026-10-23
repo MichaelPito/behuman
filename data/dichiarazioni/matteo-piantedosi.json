@@ -248,7 +248,8 @@
    "frase": "Le navi umanitarie sono un fattore di attrazione per i migranti",
    "url": "https://pagellapolitica.it/fact-checking/navi-ong-migranti-pull-factor",
    "fonte_originale": "https://www.lastampa.it/politica/2022/10/26/news/matteo_piantedosi_se_i_migranti_sono_su_navi_stranieresi_puo_vietare_lo_sbarco_in_italia-12199988/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Numeri alla mano, la tesi del ministro dell’Interno sembra essere poco solida."
   },
   {
    "data": "2022-12-19",
@@ -256,7 +257,8 @@
    "frase": "[Sui rave] non c’è stato alcun nuovo reato, si è solo aggiunta un’ipotesi aggravata a un articolo del codice penale, quello che punisce l’invasione di terreni o edifici",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-reato-rave-party",
    "fonte_originale": "https://www.interno.gov.it/it/stampa-e-comunicazione/interventi-e-interviste/lintervista-ministro-matteo-piantedosi-rilasciata-quotidiano-foglio",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "L’affermazione del ministro dell’Interno non è corretta."
   },
   {
    "data": "2023-01-10",
@@ -264,7 +266,8 @@
    "frase": "I primi due mesi di azione di questo governo hanno fatto segnare una flessione della curva di crescita degli sbarchi rispetto all’anno precedente",
    "url": "https://pagellapolitica.it/fact-checking/aumento-sbarchi-migranti-governo-meloni",
    "fonte_originale": "https://www.la7.it/laria-che-tira/rivedila7/laria-che-tira-10012023-10-01-2023-467225",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione del ministro dell’Interno non è supportata dai dati del suo stesso ministero."
   },
   {
    "data": "2023-01-19",
@@ -272,7 +275,8 @@
    "frase": "L’anno scorso la Guardia di finanza ha fatto complessivamente sequestri per 50 milioni di tonnellate di cocaina",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-sequestri-droga-italia",
    "fonte_originale": "https://www.la7.it/piazzapulita/video/lintervista-al-ministro-dellinterno-matteo-piantedosi-parte-ii-19-01-2023-468640",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il numero del ministro dell’Interno è completamente sbagliato."
   },
   {
    "data": "2023-03-07",
@@ -280,7 +284,12 @@
    "frase": "Nel 2016, anno in cui era ancora operante l’operazione umanitaria Mare Nostrum, le vittime del Canale di Sicilia furono 4.574",
    "url": "https://pagellapolitica.it/fact-checking/errore-piantedosi-mare-nostrum",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il dato sui morti è corretto, ma nel 2016 Mare Nostrum non era più operativa da tempo.",
+   "testo_ufficiale": {
+    "estratto": "Grazie, signor Presidente. Signor Presidente, onorevoli deputati, il Governo ha immediatamente accolto l'invito del Parlamento a riferire in merito al naufragio di un'imbarcazione in legno che trasportava migranti, avvenuto nelle prime ore del mattino del 26 febbraio scorso nel mare antistante la località Steccato di Cutro, in provincia di Crotone. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00040.sub00010.int00020"
+   }
   },
   {
    "data": "2023-08-28",
@@ -288,7 +297,8 @@
    "frase": "A meno del 10 per cento di coloro che arrivano in Italia viene riconosciuto lo status di rifugiato. Oltre il 90 per cento è spinto solo da ragioni economiche",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-sminuisce-migranti-protezione-italia",
    "fonte_originale": "https://www.agenzianova.com/news/migranti-piantedosi-rafforzare-la-collaborazione-con-i-paesi-di-partenza/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Le percentuali del ministro dell’Interno sono sbagliate."
   },
   {
    "data": "2023-09-04",
@@ -296,7 +306,8 @@
    "frase": "Nei mesi centrali dell’estate – luglio, agosto e settembre – abbiamo registrato sbarchi di 68 mila persone a Lampedusa",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-esagera-sbarchi-lampedusa",
    "fonte_originale": "https://www.youtube.com/watch?v=cWDMYHJDnkw&t=714s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri dicono che il ministro dell’Interno esagera."
   },
   {
    "data": "2024-02-19",
@@ -304,7 +315,8 @@
    "frase": "Un richiedente asilo non può finire all’interno dei CPR",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-richiedenti-asilo-cpr",
    "fonte_originale": "https://youtu.be/hKqpqiR4ses?si=DCirh4W-pdQpHTkR&t=74",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del ministro dell’Interno è scorretta."
   },
   {
    "data": "2025-01-13",
@@ -312,7 +324,8 @@
    "frase": "Mi rifaccio a quelli che sono gli indici statistici di chi sonda la fiducia dei cittadini italiani, che per quanto riguarda le nostre forze dell’ordine è ai massimi livelli, è l’istituzione che più riscuote la fiducia dei cittadini",
    "url": "https://pagellapolitica.it/fact-checking/fiducia-cittadini-istituzioni-forze-ordine",
    "fonte_originale": "https://www.raiplay.it/video/2025/01/XXI-Secolo-Quando-il-presente-diventa-futuro---Puntata-del-13012025-10c294ad-332c-4515-a486-047084581aa5.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il ministro dell’Interno ha sostanzialmente ragione."
   },
   {
    "data": "2025-01-13",
@@ -320,7 +333,8 @@
    "frase": "Da quando si è insediato il governo Meloni [...] l’Europa ha incominciato in tutti gli appuntamenti del Consiglio europeo a porre al primo posto nelle agende di ogni riunione quello della risoluzione del problema migratorio incontrollato e insostenibile",
    "url": "https://pagellapolitica.it/fact-checking/no-limmigrazione-non-e-al-centro-dei-consigli-europei-grazie-a-meloni",
    "fonte_originale": "https://www.raiplay.it/video/2025/01/XXI-Secolo-Quando-il-presente-diventa-futuro---Puntata-del-13012025-10c294ad-332c-4515-a486-047084581aa5.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il ministro dell’Interno ha torto."
   }
  ],
  "camera": [

@@ -127,6 +127,20 @@ regole uguali per tutti:
   anche il valore di un anno prima, per le misure temporanee in corso all'insediamento.
 - Non diciamo se una promessa è «mantenuta»: un indicatore dipende anche da fattori esterni.
 
+## 3-quater. Notizie e polemiche (osservatorio quotidiano)
+- Ogni giorno: titoli di Google News che nominano ogni politico (parola intera), raggruppati per
+  storia; il numero di testate diverse è il segnale di diffusione (≥3 = «diffusa»).
+- «Polemica» e «nata sui social»: parole nel titolo, elenco pubblico in `config/osservatorio.yaml`.
+- Parole del politico: solo se riportate tra virgolette subito dopo il suo nome nel titolo.
+- Affermazioni misurabili (direzione attaccata al tema: «sbarchi dimezzati») confrontate con il dato
+  ufficiale dall'inizio del governo al giorno in cui sono state dette: confermata / smentita / nessuna
+  variazione rilevante (±1%). Accuse di assenza: presenza al voto rispetto alla mediana.
+- Frasi sulle proposizioni del database: confronto con l'ultima posizione documentata solo se la frase
+  contiene parole che indicano chiaramente una posizione; altrimenti si collega solo il tema.
+- Contenuti virali verificati da Facta, Open e Pagella Politica: giudizio sempre attribuito al fact-checker.
+- Senza chiave API il sistema usa solo regole; con `ANTHROPIC_API_KEY` il modulo `revisione` propone
+  in più citazioni e posizioni, che restano in coda di revisione umana.
+
 ### Sunto degli interventi
 Ogni intervento ha un sunto estrattivo (2-3 frasi intere del testo ufficiale, scelte da un punteggio
 sulle parole ricorrenti, senza formule di cortesia) e l'elenco delle aree toccate (dizionario pubblico

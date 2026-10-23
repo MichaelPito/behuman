@@ -241,7 +241,8 @@
    "frase": "Nella riforma del codice della strada c’è il cosiddetto “ergastolo della patente” e poi c’è il codice penale [...]. Nei casi gravi di reiterazione tu la patente non la puoi più vedere",
    "url": "https://pagellapolitica.it/fact-checking/ergastolo-patente-riforma-codice-strada-salvini",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=959700385440676",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del ministro delle Infrastrutture e dei Trasporti è scorretta."
   },
   {
    "data": null,
@@ -249,7 +250,8 @@
    "frase": "Grazie ai 10 milioni di italiani che hanno scelto di votare per cambiare la giustizia",
    "url": "https://pagellapolitica.it/fact-checking/salvini-esagera-referendum-giustizia",
    "fonte_originale": "13 giugno 2022",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": null,
@@ -257,7 +259,8 @@
    "frase": "Qua ci sono alcune centinaia di migliaia di persone, molti stranieri [furbetti, ndr], che vengono in Italia una volta al mese per incassare il reddito e con quel reddito pagato dagli italiani tornano a casa loro a mantenere la loro famiglia",
    "url": "https://pagellapolitica.it/fact-checking/salvini-panzana-pazzesca-truffe-reddito-cittadinanza",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=954267328824691",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Quella di Salvini è una “Panzana pazzesca”."
   },
   {
    "data": "2021-11-18",
@@ -265,7 +268,8 @@
    "frase": "La Francia vicino a noi ha 56 centrali nucleari",
    "url": "https://pagellapolitica.it/fact-checking/salvini-errore-centrali-nucleari-francia",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/1128423057904113",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Nì"
   },
   {
    "data": "2022-02-19",
@@ -273,7 +277,8 @@
    "frase": "A Bruxelles non sono riusciti a mettere al bando il vino, adesso ci provano con salumi e carne italiana",
    "url": "https://pagellapolitica.it/fact-checking/no-lue-non-vuole-mettere-al-bando-salumi-e-vino-italiani",
    "fonte_originale": "https://www.facebook.com/salviniofficial/posts/10159183563448155",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-02-24",
@@ -281,7 +286,8 @@
    "frase": "La Russia ha riserve per 600 miliardi di dollari, di cui 200 miliardi in oro. Vende ogni giorno agli Stati Uniti, Ue e Gran Bretagna, fra petrolio e gas, 700 milioni di euro. Il debito pubblico russo in confronto al Pil è al 17 per cento» (min. 1:54)",
    "url": "https://pagellapolitica.it/fact-checking/salvini-ha-ragione-a-meta-su-dollari-e-oro-in-mano-alla-russia",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=416715430254822",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "I dati su debito e riserve sono corretti, gli altri due sono invece imprecisi."
   },
   {
    "data": "2022-03-01",
@@ -289,7 +295,8 @@
    "frase": "In Russia ci sono 5 mila testate nucleari",
    "url": "https://pagellapolitica.it/fact-checking/la-russia-ha-5-mila-testate-nucleari-salvini-e-quasi-preciso",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=288853663335159",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il numero corretto è quasi 6 mila, ma solo circa 4.500 sarebbero utilizzabili."
   },
   {
    "data": "2022-04-14",
@@ -297,7 +304,8 @@
    "frase": "Siamo l’unico Paese del G20 a non avere le centrali nucleari",
    "url": "https://pagellapolitica.it/fact-checking/paesi-senza-energia-nucleare-g20",
    "fonte_originale": "https://www.corriere.it/politica/22_aprile_14/salvini-draghi-non-vogliamo-farlo-cadere-intervista-39c17d32-bb6a-11ec-818b-cbb6b2b517fa.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-05-03",
@@ -305,7 +313,8 @@
    "frase": "I talebani hanno ereditato dagli Stati Uniti 7 miliardi di euro di aerei, carri armati, elicotteri, mitra, fucili",
    "url": "https://pagellapolitica.it/fact-checking/7-miliardi-armi-stati-uniti-talebani",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/995176701168316/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La cifra indicata da Salvini è corretta."
   },
   {
    "data": "2022-05-09",
@@ -313,7 +322,8 @@
    "frase": "Noi abbiamo un debito pubblico giudiziario di 6 milioni di giudizi pendenti",
    "url": "https://pagellapolitica.it/fact-checking/salvini-esagera-giudizi-pendenti",
    "fonte_originale": "https://www.youtube.com/watch?v=9OPjlhkx2q8#t=10m30s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-05-23",
@@ -321,7 +331,8 @@
    "frase": "C’è una raccomandazione di Bruxelles per reintrodurre la tassa sulla prima casa in Italia",
    "url": "https://pagellapolitica.it/fact-checking/salvini-ue-tassa-prima-casa",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/539569860949854/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-06-06",
@@ -329,7 +340,8 @@
    "frase": "Oggi un terzo degli ospiti delle carceri italiane [...] è in carcere in attesa di un giudizio",
    "url": "https://pagellapolitica.it/fact-checking/detenuti-attesa-giudizio",
    "fonte_originale": "https://www.facebook.com/legasalvinipremier/videos/3252260081679485/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il dato indicato dal segretario della Lega è esagerato."
   },
   {
    "data": "2022-06-10",
@@ -337,7 +349,8 @@
    "frase": "La Cina produce il 79 per cento di GWh di batterie, gli Usa il 6,2 per cento, l’Ungheria il 4 per cento, la Corea del Sud il 2,5 per cento, la Germania il 1,6 per cento",
    "url": "https://pagellapolitica.it/fact-checking/cina-prima-produttrice-batterie-auto-elettriche",
    "fonte_originale": "https://www.lastampa.it/economia/2022/06/10/news/salvini_caro_letta_sull_ambiente_sbagli_stiamo_facendo_un_regalo_ai_cinesi_-5373854/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I dati riportati da Salvini sono fondati."
   },
   {
    "data": "2022-07-10",
@@ -345,7 +358,8 @@
    "frase": "La linea ufficiale del governo, certificata dal Dipartimento per le politiche antidroga, è nettamente contro la cannabis",
    "url": "https://pagellapolitica.it/fact-checking/salvini-cannabis-dipartimento-antidroga",
    "fonte_originale": "https://www.quotidiano.net/politica/matteo-salvini-intervista-1.7864752",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il segretario della Lega semplifica la posizione del governo."
   },
   {
    "data": "2022-08-02",
@@ -353,7 +367,8 @@
    "frase": "52.987 richieste di asilo nel 2021, più della metà negate (ben 29.790, il 56 per cento). Sempre nel 2021, solo 8.107 persone hanno ricevuto lo status di rifugiati: il 15 per cento del totale delle domande esaminate",
    "url": "https://pagellapolitica.it/fact-checking/salvini-richieste-asilo",
    "fonte_originale": "https://www.facebook.com/100050527747831/posts/591780699182850",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Salvini cita dati sostanzialmente corretti, ma li presenta in modo fuorviante"
   },
   {
    "data": "2022-08-09",
@@ -361,7 +376,8 @@
    "frase": "Tasse e accise sono più della metà della bolletta della luce",
    "url": "https://pagellapolitica.it/fact-checking/salvini-bolletta-luce-tasse",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/401541805456661/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-08-16",
@@ -369,7 +385,8 @@
    "frase": "I numeri del Viminale parlano chiaro: reati, sbarchi, insicurezza e cyber-attacchi in aumento",
    "url": "https://pagellapolitica.it/fact-checking/salvini-dossier-viminale",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1559517149810593797",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il segretario della Lega ha ragione, ma omette di dire una cosa."
   },
   {
    "data": "2022-08-19",
@@ -377,7 +394,8 @@
    "frase": "Il costo [della flat tax] è sostanzialmente identico a quello del reddito di cittadinanza",
    "url": "https://pagellapolitica.it/fact-checking/costo-flat-tax-reddito-cittadinanza",
    "fonte_originale": "https://youtu.be/BbaNOj_5t8w?t=47",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il leader della Lega esagera, e non di poco."
   },
   {
    "data": "2022-08-20",
@@ -385,7 +403,8 @@
    "frase": "Nel programma della sinistra e del Pd c’è anche la possibilità di coltivarsi droga in casa, di consumarla e di spacciarla senza essere sanzionato",
    "url": "https://pagellapolitica.it/fact-checking/legalizzazione-cannabis-pd-sinistra",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/746615586629909/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-08-22",
@@ -393,7 +412,8 @@
    "frase": "Con la flat tax i milionari continueranno a pagare quello che stanno pagando ovviamente",
    "url": "https://pagellapolitica.it/fact-checking/flat-tax-lega-milionari",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/1776737615998861/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-08-22",
@@ -401,7 +421,8 @@
    "frase": "Sono in corso di costruzione 100 reattori nucleari al mondo: Stati Uniti, Cina, Giappone, Corea, Francia, Romania, Slovenia, Finlandia",
    "url": "https://pagellapolitica.it/fact-checking/reattori-nucleari-costruzione-mondo",
    "fonte_originale": "https://www.la7.it/la-corsa-al-voto/rivedila7/la-corsa-al-voto-puntata-del-2282022-23-08-2022-448957",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-08-24",
@@ -409,7 +430,8 @@
    "frase": "Da gennaio a luglio di quest’anno l’avanzo commerciale in Russia, dopo le sanzioni, tra esportazioni e importazioni, presenta un +192 miliardi di dollari",
    "url": "https://pagellapolitica.it/fact-checking/salvini-avanzo-commerciale-russia",
    "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/24mattino-estate/puntata/ucraina-allerta-il-giorno-indipendenza-101200-AEW5gHvB",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La cifra indicata dal leader della Lega è giusta."
   },
   {
    "data": "2022-08-24",
@@ -417,7 +439,8 @@
    "frase": "Il tasso di incremento demografico in Ungheria è il più avanzato d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/salvini-crescita-demografica-ungheria",
    "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/24mattino-estate/puntata/ucraina-allerta-il-giorno-indipendenza-101200-AEW5gHvB",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-08-25",
@@ -425,7 +448,8 @@
    "frase": "[Con me ministro] abbiamo azzerato gli sbarchi",
    "url": "https://pagellapolitica.it/fact-checking/salvini-sbarchi-migranti-azzerati",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/448334344019436/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-08-28",
@@ -433,7 +457,8 @@
    "frase": "Letta vuole regalare il reddito di cittadinanza agli immigrati",
    "url": "https://pagellapolitica.it/fact-checking/salvini-pd-reddito-cittadinanza-immigrati",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1563846262163750913",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-08-29",
@@ -441,7 +466,8 @@
    "frase": "In passato, sull’immigrazione, su “quota 100”, sulla legittima difesa, sulla flat tax, quello che la Lega ha proposto, ha realizzato» (min. 5:20)",
    "url": "https://pagellapolitica.it/fact-checking/lega-promesse-non-mantenute",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/470384028055880",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2022-09-01",
@@ -449,7 +475,8 @@
    "frase": "Ho ribadito la proposta della Lega a costo zero per lo Stato: libero accesso al primo anno per tutti alla facoltà di medicina",
    "url": "https://pagellapolitica.it/fact-checking/salvini-numero-chiuso-medicina-costo",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1565414172799770626",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-09-04",
@@ -457,7 +484,8 @@
    "frase": "La Lega ha sempre votato, in Italia e in Europa, tutti i provvedimenti a favore dell’Ucraina, sanzioni comprese",
    "url": "https://pagellapolitica.it/fact-checking/voti-lega-ucraina",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/753922622336991",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega ha sostanzialmente ragione."
   },
   {
    "data": "2022-09-12",
@@ -465,7 +493,8 @@
    "frase": "La flat tax si paga da sola, perché la flat tax al 15 per cento, stamattina, funziona per 2 milioni di partite Iva",
    "url": "https://pagellapolitica.it/fact-checking/flat-tax-partite-iva-coperture",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/1185173905361631/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia e l’esempio che cita lo contraddice."
   },
   {
    "data": "2022-09-13",
@@ -473,7 +502,8 @@
    "frase": "Cinque anni fa non c’era la flat tax per le partite Iva […] Siamo partiti da zero e siamo arrivati a 2 milioni di lavoratori autonomi",
    "url": "https://pagellapolitica.it/fact-checking/chi-ha-introdotto-flat-tax-partite-iva",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/652484756306087/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega sbaglia."
   },
   {
    "data": "2022-09-21",
@@ -481,7 +511,8 @@
    "frase": "I dati sono drammatici: 1.200 morti e dispersi nel Mediterraneo",
    "url": "https://pagellapolitica.it/fact-checking/salvini-morti-mediterraneo-2022",
    "fonte_originale": "https://www.ilsole24ore.com/sez/italia/politica",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader della Lega ha sostanzialmente ragione."
   },
   {
    "data": "2022-10-17",
@@ -489,7 +520,8 @@
    "frase": "De Luca ha approvato una delibera in Consiglio regionale che permetterà a lui di spendere fino a 300 mila euro per organizzare una manifestazione per la pace",
    "url": "https://pagellapolitica.it/fact-checking/salvini-de-luca-manifestazione-pace-napoli",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/439141515020150/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega ha ragione."
   },
   {
    "data": "2022-11-10",
@@ -497,7 +529,8 @@
    "frase": "In Italia gli sbarchi sono stati quasi 90 mila da inizio anno, e di questi la Francia ne ha accettati solo 38, l’Europa intera solo 117",
    "url": "https://pagellapolitica.it/fact-checking/salvini-migranti-ricollocati-francia-europa",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1590752326444515328",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "I dati citati da Salvini sono corretti."
   },
   {
    "data": "2022-12-02",
@@ -505,7 +538,8 @@
    "frase": "Tra il 2020 e il 2021 l’incremento della mortalità degli incidenti stradali è stato dell’11,1 per cento",
    "url": "https://pagellapolitica.it/fact-checking/salvini-morti-incidenti-stradali",
    "fonte_originale": "https://www.gazzetta.it/Ciclismo/02-12-2022/rebellin-lettera-salvini-gazzetta-sicurezza-strade-4501367274860.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Infrastrutture fa confusione e omette un dettaglio importante."
   },
   {
    "data": "2023-01-03",
@@ -513,7 +547,8 @@
    "frase": "Grazie ad una modifica del codice penale introdotta dai decreti sicurezza bis, quando ero Ministro dell’Interno, i vandali che hanno imbrattato il Senato sono stati arrestati e rischiano una pena che va da uno a cinque anni di reclusione",
    "url": "https://pagellapolitica.it/fact-checking/salvini-attivisti-senato-imbrattato",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1610212789133377536",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti ha ragione"
   },
   {
    "data": "2023-01-26",
@@ -521,7 +556,8 @@
    "frase": "Tutti i dati dei sondaggi stanno dando la Lega in crescita da settimane",
    "url": "https://pagellapolitica.it/fact-checking/lega-calo-sondaggi",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/901508844601836/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "L’ottimismo del leader della Lega non è supportato dai numeri."
   },
   {
    "data": "2023-03-07",
@@ -529,7 +565,8 @@
    "frase": "Negli ultimi dieci anni l’anno in cui si verificarono meno morti nel Mediterraneo, ovverosia 754, fu il 2019, anno durante il quale ero ministro dell’Interno ed erano in vigore i decreti “Sicurezza",
    "url": "https://pagellapolitica.it/fact-checking/salvini-morti-mediterraneo",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/991319578500789/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega omette alcuni dettagli importanti."
   },
   {
    "data": "2023-04-16",
@@ -537,7 +574,8 @@
    "frase": "La protezione speciale è stata portata in Italia dal governo giallorosso nel 2020",
    "url": "https://pagellapolitica.it/fact-checking/salvini-protezione-speciale-governo-conte",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=630392895575621",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega ha la memoria corta."
   },
   {
    "data": "2023-06-19",
@@ -545,7 +583,8 @@
    "frase": "La metà degli incidenti stradali accade per distrazione",
    "url": "https://pagellapolitica.it/fact-checking/distrazione-causa-incidenti-stradali",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=195673506786337",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del ministro delle Infrastrutture e dei Trasporti non è supportata dai numeri."
   },
   {
    "data": "2023-06-26",
@@ -553,7 +592,8 @@
    "frase": "Per i giovani fra i 15 e i 29 anni la prima causa di morte è la strada",
    "url": "https://pagellapolitica.it/fact-checking/incidenti-stradali-prima-causa-morte-giovani",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/2256103104576195/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del Ministro delle Infrastrutture e dei Trasporti è corretta."
   },
   {
    "data": "2023-09-13",
@@ -561,7 +601,8 @@
    "frase": "L’Italia è l’unico Paese europeo che sta vivendo un’immigrazione con queste dimensioni",
    "url": "https://pagellapolitica.it/fact-checking/richieste-asilo-paesi-ue",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/1250344872340822/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "data": "2023-09-27",
@@ -569,7 +610,8 @@
    "frase": "Torna l’operazione “Strade sicure”, cancellata in questi anni dalla sinistra",
    "url": "https://pagellapolitica.it/fact-checking/salvini-operazione-strade-sicure",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1707110393355575311",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti sbaglia."
   },
   {
    "data": "2023-11-02",
@@ -577,7 +619,8 @@
    "frase": "Dal 1° gennaio grazie a questa manovra 14 milioni di lavoratori e lavoratrici, che guadagnano fino a 35 mila euro all’anno, avranno una busta paga più ricca",
    "url": "https://pagellapolitica.it/fact-checking/salvini-fuorviante-taglio-cuneo-fiscale-2024",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=723122326518570",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il messaggio del segretario della Lega è fuorviante."
   },
   {
    "data": "2023-11-13",
@@ -585,7 +628,8 @@
    "frase": "La Cgil non fece sciopero quando la Fornero approvò la sua legge",
    "url": "https://pagellapolitica.it/fact-checking/salvini-sciopero-cgil-contro-riforma-fornero",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1777651692661458",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega dice una cosa falsa."
   },
   {
    "data": "2024-02-21",
@@ -593,7 +637,8 @@
    "frase": "Nel codice della strada ho previsto il ritiro della patente per chi viene trovato alla guida drogato",
    "url": "https://pagellapolitica.it/fact-checking/salvini-ritiro-patete-guida-droga",
    "fonte_originale": "https://www.youtube.com/watch?v=lfvCOeHgtFs&t=1086s&ab_channel=MatteoSalvini",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti è fuorviante."
   },
   {
    "data": "2024-02-28",
@@ -601,7 +646,8 @@
    "frase": "In Gran Bretagna vietato ai minori di 12 anni guardare Mary Poppins per presunto “linguaggio discriminatorio",
    "url": "https://pagellapolitica.it/fact-checking/salvini-censura-mary-poppins-regno-unito",
    "fonte_originale": "https://www.facebook.com/100050527747831/posts/947108606983389",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega non la racconta giusta."
   },
   {
    "data": "2024-03-23",
@@ -609,7 +655,8 @@
    "frase": "Gli anni di governo dei repubblicani a Washington sono sempre coincisi con anni di pace e di prosperità",
    "url": "https://pagellapolitica.it/fact-checking/salvini-guerre-presidenti-repubblicani-stati-uniti",
    "fonte_originale": "https://www.youtube.com/live/a4zLvxtVHH8?si=XaI_JGc0AaY7Hvto&t=5132",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del leader della Lega è scorretta."
   },
   {
    "data": "2024-04-24",
@@ -617,7 +664,8 @@
    "frase": "Gli studi della Società Stretto di Messina calcolano che dall’apertura del cantiere del ponte sullo Stretto saranno creati 120 mila posti di lavoro",
    "url": "https://pagellapolitica.it/fact-checking/ponte-stretto-120-mila-posti-lavoro-falso",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/959700385440676/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La stima citata da Salvini è sbagliata."
   },
   {
    "data": "2024-05-23",
@@ -625,7 +673,8 @@
    "frase": "Siamo uno dei Paesi europei dove l’età media per andare in pensione è più alta",
    "url": "https://pagellapolitica.it/fact-checking/eta-media-pensione-italia-europa",
    "fonte_originale": "https://www.youtube.com/watch?v=jnQHX4e-LiM&t=1572s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del leader della Lega non è supportata dai dati."
   },
   {
    "data": "2024-07-02",
@@ -633,7 +682,8 @@
    "frase": "Il 2023, che si è appena concluso, è stato l’anno record mondiale storico delle emissioni di CO2 [...] Nel 2023 siamo arrivati a 37,5 miliardi di tonnellate di emissioni di CO2 da fossile",
    "url": "https://pagellapolitica.it/fact-checking/2023-anno-record-emissioni-co2-mondo",
    "fonte_originale": "https://x.com/matteosalvinimi/status/1808096058817622279",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti dice la verità."
   },
   {
    "data": "2025-03-03",
@@ -641,7 +691,8 @@
    "frase": "Oggi l’Italia ha già quasi 8 mila soldati in missione nel mondo, per un costo superiore al miliardo di euro all’anno",
    "url": "https://pagellapolitica.it/fact-checking/salvini-soldati-italiani-missioni-internazionali",
    "fonte_originale": "https://www.laverita.info/salvini-guerra-finita-riaprire-mosca-2671249739.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I due numeri citati dal leader della Lega sono corretti."
   },
   {
    "data": "2026-10-07",
@@ -650,6 +701,7 @@
    "url": "https://pagellapolitica.it/fact-checking/quella-che-lei-definisce-mobilita-dolce-ovverosia-i-monopattini-tra-il-2022-e-il-2025-ha-portato-a-25-morti-e-3-700-feriti",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#:~:text=Allora%2C%20monopattini%3A%20i%20dati%20sull%27incidentalit%C3%A0%20%2D%20che%20fornir%C3%B2%20al%20collega%20che%20evidentemente%20non%20li%20ha%20seguiti%20%2D%20confermano%20che%20quella%20che%20lei%20definisce%20mobilit%C3%A0%20dolce%2C%20ovverosia%20i%20monopattini%2C%20tra%20il%202022%20e%20il%202025%2C%20ha%20portato%20a%2025%20morti%20e%203.700%20feriti.",
    "fonte_tipo": "Camera",
+   "giudizio": null,
    "testo_ufficiale": {
     "estratto": "Grazie, Presidente. Allora, monopattini: i dati sull'incidentalità - che fornirò al collega che evidentemente non li ha seguiti - confermano che quella che lei definisce mobilità dolce, ovverosia i monopattini, tra il 2022 e il 2025, ha portato a 25 morti e 3.700 feriti. […]",
     "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00040.int00060"

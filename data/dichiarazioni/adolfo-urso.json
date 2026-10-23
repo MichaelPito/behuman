@@ -256,7 +256,8 @@
    "frase": "I distributori in Italia sono 22 mila, in Germania ce ne sono 14 mila",
    "url": "https://pagellapolitica.it/fact-checking/numero-benzinai-italia-europa",
    "fonte_originale": "https://www.youtube.com/live/PHIq5Qfd7H0?feature=share&t=6667",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I dati del ministro delle Imprese e del Made in Italy sono corretti."
   },
   {
    "data": "2023-02-16",
@@ -264,7 +265,8 @@
    "frase": "L’automotive rappresenta circa il 20 per cento del Pil italiano",
    "url": "https://pagellapolitica.it/fact-checking/industria-auto-pil-italia",
    "fonte_originale": "https://www.lastampa.it/economia/2023/02/16/news/stop_auto_diesel_e_benzina_dal_2035_ministro_adolfo_urso_critica_europa-12645958/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La stima del ministro delle Imprese e del Made in Italy è parecchio esagerata."
   },
   {
    "data": "2023-04-09",
@@ -272,7 +274,8 @@
    "frase": "Abbiamo il parco macchine più vecchio d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/eta-auto-italia-unione-europea",
    "fonte_originale": "https://www.corriere.it/economia/aziende/23_aprile_09/ministro-urso-un-tutor-gli-stranieri-che-vogliono-investire-italia-e88320b6-d629-11ed-abda-87da1fb8b4f0.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri danno torto al ministro delle Imprese e del Made in Italy."
   },
   {
    "data": "2023-07-24",
@@ -280,7 +283,8 @@
    "frase": "Il costo industriale dei carburanti, depurato dalle accise, è oggi tra i più bassi d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/urso-prezzo-carburanti-italia-europa",
    "fonte_originale": "https://www.corriere.it/economia/aziende/23_luglio_23/urso-patto-anti-inflazione-contro-caro-prezzi-migranti-opportunita-solo-se-collegati-esigenze-reali-imprese-94f08e12-298e-11ee-959b-09ae609f1902.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera"
   },
   {
    "data": "2023-08-18",
@@ -288,7 +292,8 @@
    "frase": "A dicembre dell’anno scorso l’inflazione era quasi al 12 per cento. A luglio di quest’anno era al 5,9 per cento. Si è dimezzata l’inflazione da quando il governo ha realizzato il decreto “Trasparenza” in gennaio",
    "url": "https://pagellapolitica.it/fact-checking/urso-calo-inflazione-decreto-carburanti",
    "fonte_originale": "https://www.raiplay.it/video/2023/08/E-state-a-secco---Agora-Estate-del-18082023-24abf2a8-8b0a-4458-be9d-3073fc2bf991.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "È vero che l’aumento dei prezzi è rallentato, ma la dichiarazione del ministro delle Imprese e del Made in Italy è scorretta."
   },
   {
    "data": "2023-09-03",
@@ -296,7 +301,8 @@
    "frase": "La borsa italiana è cresciuta del 21,1 per cento dal 1° gennaio, più di qualunque borsa europea",
    "url": "https://pagellapolitica.it/fact-checking/urso-borsa-milano-crescita-ftse",
    "fonte_originale": "https://www.corriere.it/economia/aziende/23_settembre_03/urso-imprese-indebitate-lavoriamo-un-intervento-crediti-deteriorati-a273bf70-4a25-11ee-9131-905355f2bbbe.shtml#:~:text=Aggiungo%20che%20questo%20governo%20dall,2022%20ai%20164%20di%20oggi%C2%BB.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il dato citato dal ministro delle Imprese e del Made in Italy è corretto."
   },
   {
    "data": "2023-09-04",
@@ -304,7 +310,8 @@
    "frase": "Il Superbonus è una misura che ha provocato diverse occasioni di truffa: si parla di un ammontare di 12 miliardi di euro allo Stato",
    "url": "https://pagellapolitica.it/fact-checking/urso-truffe-superbonus",
    "fonte_originale": "https://www.quotidiano.net/economia/extraprofitti-manovra-ministro-urso-dd7d12c2",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera."
   },
   {
    "data": "2023-12-06",
@@ -312,7 +319,8 @@
    "frase": "Il tabellone sul prezzo medio dei carburanti ha portato a una costante riduzione del prezzo di gasolio e benzina",
    "url": "https://pagellapolitica.it/fact-checking/urso-sbaglia-tabellone-prezzo-benzina",
    "fonte_originale": "https://twitter.com/adolfo_urso/status/1732055984816738407",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy si prende meriti che non ha."
   },
   {
    "data": "2024-06-12",
@@ -320,7 +328,8 @@
    "frase": "Giorgia Meloni è l’unica leader che vince nella Ue, come partito e come governo",
    "url": "https://pagellapolitica.it/fact-checking/meloni-unico-leader-vittoria-elezioni-europee-ue",
    "fonte_originale": "https://www.agenzianova.com/en/news/europee-urso-dalle-urne-esce-un-governo-rafforzato/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera."
   },
   {
    "data": "2024-07-15",
@@ -328,7 +337,8 @@
    "frase": "Noi siamo il Paese che, all’interno dell’Unione europea, nel confronto con gli altri Paesi industriali avanzati, ha accresciuto di più il proprio export negli ultimi quattro anni",
    "url": "https://pagellapolitica.it/fact-checking/urso-aumento-export-italiano",
    "fonte_originale": "https://www.facebook.com/watch/?v=1222898392393154",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy ha ragione a metà."
   },
   {
    "data": "2024-08-14",
@@ -336,7 +346,8 @@
    "frase": "Quest’estate il costo della benzina e del gasolio si è ridotto rispetto allo scorso anno",
    "url": "https://pagellapolitica.it/fact-checking/calo-prezzi-benzina-gasolio-estate",
    "fonte_originale": "https://www.lastampa.it/economia/2024/08/14/news/imprese_economia_ministro_urso_riconversione-14555242/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri danno ragione al ministro delle Imprese e del Made in Italy."
   },
   {
    "data": "2025-10-20",
@@ -344,7 +355,8 @@
    "frase": "Lo scorso anno abbiamo superato la Corea del Sud come quinto Paese esportatore",
    "url": "https://pagellapolitica.it/fact-checking/errore-urso-classifica-italia-export",
    "fonte_originale": "https://www.quotidiano.net/politica/il-ministro-adolfo-urso-siamo-15b60682",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del ministro delle Imprese non è supportata dai numeri."
   },
   {
    "data": "2026-04-27",
@@ -352,7 +364,8 @@
    "frase": "Lo scorso anno, malgrado i dazi, le esportazioni italiane negli Stati Uniti sono cresciute del 7,2 per cento: la migliore performance tra i Paesi Ue",
    "url": "https://pagellapolitica.it/fact-checking/lo-scorso-anno-malgrado-i-dazi-le-esportazioni-italiane-negli-stati-uniti-sono-cresciute-del-72-per-cento-la-migliore-performance-tra-i-paesi-ue",
    "fonte_originale": "https://www.ilmessaggero.it/politica/adolfo_urso_transizione_5_0_intervista_oggi-9497226.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-08-27",
@@ -360,7 +373,8 @@
    "frase": "Stellantis è sulla strada giusta, come dimostra la crescita nel primo semestre della produzione italiana, aumentata del 13,7 per cento, con le autovetture a +27,7 per cento",
    "url": "https://pagellapolitica.it/fact-checking/stellantis-e-sulla-strada-giusta-come-dimostra-la-crescita-nel-primo-semestre-della-produzione-italiana-aumentata-del-137-per-cento-con-le-autovetture-a-277-per-cento",
    "fonte_originale": "https://www.avvenire.it/attualita/serve-un-mercato-ue-dellenergia-i-nuovi-data-center-risponderemo-ai-dubbi-delle-comunita_112360",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   }
  ],
  "camera": [

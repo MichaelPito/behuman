@@ -103,7 +103,7 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
   {d.verificate.length > 0 && (
     <section class="section" id="discusse">
       <div class="section-head"><h2>Le più discusse</h2><span class="small muted">{d.verificate.length} · in ordine cronologico</span></div>
-      <p class="muted small prose">Frasi scelte da Pagella Politica perché molto circolate. Non riportiamo il loro giudizio: apri la verifica per leggerlo. <a href={u("/faq/#virali")}>Perché questo criterio</a></p>
+      <p class="muted small prose">Frasi scelte da Pagella Politica perché molto circolate, con il loro giudizio (attribuito a loro) e il link alla verifica. <a href={u("/faq/#virali")}>Perché questo criterio</a></p>
       {d.verificate.length > 6 && (
         <details class="disc precedenti">
           <summary><span>Le precedenti <span class="muted small">· {d.verificate.length - 6}</span></span><Icon name="chev" class="chev" /></summary>

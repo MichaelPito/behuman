@@ -267,7 +267,8 @@
    "frase": "Le oltre 14 milioni di persone che hanno votato no, 5 milioni in più di quelle che avevano scelto PD, M5S e AVS alle Europee, dimostrano che esiste una maggioranza diversa da quella in carica",
    "url": "https://pagellapolitica.it/fact-checking/le-oltre-14-milioni-di-persone-che-hanno-votato-no-5-milioni-in-piu-di-quelle-che-avevano-scelto-pd-m5s-e-avs-alle-europee-dimostrano-che-esiste-una-maggioranza-diversa-da-quella-in-carica",
    "fonte_originale": "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2022-09-19",
@@ -275,7 +276,8 @@
    "frase": "In Italia sette ginecologi su dieci sono obiettori",
    "url": "https://pagellapolitica.it/fact-checking/aborto-numero-obiettori",
    "fonte_originale": "https://www.raiplay.it/video/2022/09/Mezzora-in-piu---Puntata-del-18092022-6628ffd8-1511-46e3-9ff7-7f00d2f6a1ee.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La vicepresidente dell’Emilia-Romagna ha sostanzialmente ragione."
   },
   {
    "data": "2023-01-07",
@@ -283,7 +285,8 @@
    "frase": "L’inflazione in Italia è la più alta a livello europeo",
    "url": "https://pagellapolitica.it/fact-checking/inflazione-italia-unione-europea",
    "fonte_originale": "https://www.facebook.com/ellyschlein1/posts/pfbid02yDmKyXaFE82qdViqi2GYETnipP5hgSiJZgKHtNqJsRu3wGTT4h4eVsW1Xd7UKdxgl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La candidata alla segreteria del Partito democratico esagera."
   },
   {
    "data": "2023-02-18",
@@ -291,7 +294,8 @@
    "frase": "Le donne si laureano in media con risultati migliori e dopo cinque anni guadagnano in media meno degli uomini",
    "url": "https://pagellapolitica.it/fact-checking/donne-voto-laurea-stipendio-uomini",
    "fonte_originale": "https://www.corriere.it/politica/23_febbraio_18/elly-schlein-o-pd-cambia-o-finita-io-non-ho-nulla-perdere-questo-vincero-6d2d0de2-aefa-11ed-b1a1-f70141d8ba43.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I dati danno ragione alla segreteria del PD."
   },
   {
    "data": "2023-02-26",
@@ -299,7 +303,8 @@
    "frase": "Il governo non mette un euro in più sulla sanità a fronte di un’inflazione così alta",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-soldi-sanita",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1764547490613438",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La nuova segretaria del Partito democratico ha ragione a metà."
   },
   {
    "data": "2023-03-05",
@@ -307,7 +312,8 @@
    "frase": "Nel mondo sono aperti più di 170 conflitti",
    "url": "https://pagellapolitica.it/fact-checking/schlein-conflitti-mondo",
    "fonte_originale": "https://www.raiplay.it/video/2023/02/Che-tempo-che-fa---Puntata-del-05032023-7e879906-54a3-4b78-a013-3bf3e9571c67.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Schlein esagera, se si considerano i conflitti simili a quello tra Ucraina e Russia."
   },
   {
    "data": "2023-03-15",
@@ -315,7 +321,12 @@
    "frase": "Sono più di 3 milioni le lavoratrici e i lavoratori che sono poveri anche se lavorano",
    "url": "https://pagellapolitica.it/fact-checking/quanti-lavoratori-poveri-italia",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il dato è sostanzialmente corretto, anche se dipende da che cosa si intende per “povero”.",
+   "testo_ufficiale": {
+    "estratto": "Signora Presidente, in questo Paese, c'è un dramma di cui non vi sentiamo parlare mai: la precarietà e il lavoro povero, che colpiscono ancora più duramente le donne, i giovani, in particolare al Sud. Sono più di 3 milioni le lavoratrici e i lavoratori che sono poveri, anche se lavorano. A loro è negata ogni possibilità di costruirsi un futuro libero e dignitoso. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00080.int00020"
+   }
   },
   {
    "data": "2023-05-01",
@@ -323,7 +334,8 @@
    "frase": "Il governo ha cancellato i 330 milioni di euro di supporto per gli affitti",
    "url": "https://pagellapolitica.it/fact-checking/schlein-fondo-supporto-affitti-governo-meloni",
    "fonte_originale": "https://www.lastampa.it/politica/2023/05/01/news/elly_schlein_intervista_segretaria_pd_lavoro-12781832/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito democratico è fuorviante e omette un dettaglio importante."
   },
   {
    "data": "2023-05-16",
@@ -331,7 +343,8 @@
    "frase": "Il Partito democratico è il primo partito in quasi tutti i capoluoghi dove si è votato",
    "url": "https://pagellapolitica.it/fact-checking/schlein-voti-pd-capoluoghi-comunali",
    "fonte_originale": "https://www.facebook.com/partitodemocratico/videos/630382255309410/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La segretaria del Partito democratico esagera."
   },
   {
    "data": "2023-06-06",
@@ -339,7 +352,8 @@
    "frase": "I dati sull’occupazione femminile nelle regioni del Sud del nostro Paese sono i peggiori d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/regioni-sud-occupazione-femminile-europa",
    "fonte_originale": "https://www.raiplay.it/video/2023/05/cartabianca---Puntata-del-06062023-4267795e-95fc-4b0c-b5dd-d7ce2f4fc480.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione della segretaria del Partito Democratico è corretta."
   },
   {
    "data": "2023-09-14",
@@ -347,7 +361,8 @@
    "frase": "Questo governo ha ridotto il fondo nazionale sui nidi",
    "url": "https://pagellapolitica.it/fact-checking/schlein-fondo-asili-nido",
    "fonte_originale": "https://www.la7.it/otto-e-mezzo/rivedila7/otto-e-mezzo-14-09-2023-502856",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Al momento l’accusa mossa dalla segretaria del PD è scorretta."
   },
   {
    "data": "2023-10-10",
@@ -355,7 +370,8 @@
    "frase": "L’Unione europea riconosce già Hamas come un’organizzazione terroristica, quindi non può ricevere in nessun caso fondi per la cooperazione allo sviluppo e aiuti umanitari",
    "url": "https://pagellapolitica.it/fact-checking/schlein-ue-hamas-terrorista",
    "fonte_originale": "https://www.raiplay.it/video/2023/10/Porta-a-Porta-a6176aae-6cfd-4085-9ccb-0343981117d3.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico dice la verità."
   },
   {
    "data": "2023-10-17",
@@ -363,7 +379,8 @@
    "frase": "Nei Paesi come la Germania, dove si è adottato il salario minimo, anche le altre retribuzioni si sono alzate",
    "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-effetti-salario-minimo",
    "fonte_originale": "https://www.la7.it/dimartedi/video/lintervista-a-elly-schlein-17-10-2023-508542",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione della segretaria del PD non è supportata dai fatti."
   },
   {
    "data": "2023-11-02",
@@ -371,7 +388,8 @@
    "frase": "Nella legge di Bilancio non c’è nulla sui servizi pubblici essenziali come sanità, casa e diritto allo studio",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-legge-bilancio-2024",
    "fonte_originale": "https://www.lastampa.it/politica/2023/11/02/news/schlein_tutta_lopposizione_in_piazza_contro_il_governo-13825602/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico esagera."
   },
   {
    "data": "2023-12-02",
@@ -379,7 +397,8 @@
    "frase": "La maggioranza vuole abbassare l’Iva sugli integratori alimentari e sulla chirurgia estetica",
    "url": "https://pagellapolitica.it/fact-checking/schlein-taglio-iva-chirurgia-estetica",
    "fonte_originale": "https://www.ansa.it/sito/videogallery/italia/2023/12/02/sanita-pubblica-schlein-aiutiamo-regioni-con-assunzioni_5b7a73cf-084a-472a-b392-19929fb60595.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico omette un dettaglio importante."
   },
   {
    "data": "2024-03-12",
@@ -387,7 +406,8 @@
    "frase": "Il PD ha raddoppiato i voti rispetto all’11 per cento delle precedenti regionali abruzzesi, recuperando quasi 4 punti sulle politiche di un anno e mezzo fa",
    "url": "https://pagellapolitica.it/fact-checking/partito-democratico-voti-elezioni-regionali-abruzzo",
    "fonte_originale": "https://www.repubblica.it/politica/2024/03/12/news/schlein_intervista_elezioni_abruzzo-422292763/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri supportano la dichiarazione di Schlein, ma i confronti vanno fatti con attenzione."
   },
   {
    "data": "2024-03-14",
@@ -395,7 +415,8 @@
    "frase": "Nel 2023 sono morte nel Mediterraneo oltre 3 mila persone, quasi 2.300 solo sulla rotta del Mediterraneo centrale, un numero di morti più alto del 60 per cento rispetto al 2022",
    "url": "https://pagellapolitica.it/fact-checking/schlein-migranti-morti-mediterraneo-2023",
    "fonte_originale": "https://www.facebook.com/100044181531459/posts/955074419308600",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La segretaria del PD ha ragione."
   },
   {
    "data": "2024-03-23",
@@ -403,7 +424,8 @@
    "frase": "L’Erasmus ha riguardato solo 9-10 milioni di studenti e studentesse europee",
    "url": "https://pagellapolitica.it/fact-checking/schlein-numero-studenti-erasmus",
    "fonte_originale": "https://www.youtube.com/live/2v7TrX00SxQ?si=7fvCWNWnrhN4xmyO&t=8478",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La segretaria del Partito Democratico è imprecisa."
   },
   {
    "data": "2024-04-15",
@@ -411,7 +433,8 @@
    "frase": "Sapete quanto si stima – sono stime, si prendono con le pinze – che possa valere l’elusione fiscale in Europa ogni anno? Alcuni studi, cito il professore Richard Murphy, parlano di 700-800 miliardi di euro all’anno",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-elusione-fiscale-multinazionali-ue",
    "fonte_originale": "https://www.youtube.com/watch?v=Ras4YRIFJL4&t=5050s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La stima della segretaria del PD è esagerata."
   },
   {
    "data": "2024-05-07",
@@ -419,7 +442,8 @@
    "frase": "Il superamento del Jobs Act era un punto fondante del programma con cui mi sono presentata alle primarie per la segreteria, oltre un anno fa, in linea con scelte anche personali fatte in passato. Vorrei ricordare che io ero in piazza con la Cgil nel 2015 contro l’abolizione dell’articolo 18",
    "url": "https://pagellapolitica.it/fact-checking/schlein-coerente-referendum-contro-jobs-act",
    "fonte_originale": "https://www.repubblica.it/politica/2024/05/07/news/schlein_intervista_sicurezza_lavoro-422846622/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del PD dice la verità."
   },
   {
    "data": "2024-06-10",
@@ -427,7 +451,8 @@
    "frase": "Il Partito Democratico è il partito che è cresciuto di più dalle scorse elezioni politiche, con cinque punti in più",
    "url": "https://pagellapolitica.it/fact-checking/crescita-pd-elezioni-europee-2024",
    "fonte_originale": "https://www.youtube.com/watch?v=0iKqtKywmuM&t=165s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "In realtà c’è chi ha fatto meglio del PD."
   },
   {
    "data": "2024-06-26",
@@ -435,7 +460,12 @@
    "frase": "Ventunomila medici sono già andati all’estero perché non ci sono più le condizioni, non riescono più a lavorare",
    "url": "https://pagellapolitica.it/fact-checking/errore-numero-medici-italiani-estero",
    "fonte_originale": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0314/stenografico.pdf#page=133",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il numero citato dalla segretaria del PD è una sovrastima, frutto di un errore di lettura.",
+   "testo_ufficiale": {
+    "estratto": "Grazie, Presidente. Care colleghe e colleghi, è così allora: oggi, definitivamente, state gettando la maschera. Sono mesi che vi diciamo che state smantellando la sanità pubblica; con i vostri tagli, con il definanziamento e, con questo voto, oggi voi lo certificate. Mi rivolgo alla maggioranza, per suo tramite, Presidente, mi rivolgo all'onorevole Foti, che prima ho ascoltato attentamente. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.sub00020.int00020"
+   }
   },
   {
    "data": "2024-07-08",
@@ -443,7 +473,8 @@
    "frase": "2011, referendum sui beni pubblici comuni: l’acqua e contro il nucleare. Attenzione però: il dato che mi interessa è che la partecipazione in quel referendum è stata maggiore a quella delle elezioni politiche",
    "url": "https://pagellapolitica.it/fact-checking/schlein-errore-affluenza-referendum-2011-acqua-nucleare",
    "fonte_originale": "https://www.la7.it/in-onda/rivedila7/dalla-francia-allitalia-prove-di-fronte-popolare-in-onda-puntata-872024-09-07-2024-551119",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico sbaglia."
   },
   {
    "data": "2024-07-10",
@@ -451,7 +482,8 @@
    "frase": "È stato un voto fondamentale innanzitutto per i francesi che hanno risposto con una partecipazione senza precedenti",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-affluenza-elezioni-francia",
    "fonte_originale": "https://roma.corriere.it/notizie/politica/24_luglio_10/schlein-intervista-e3094bf2-f8b8-4fe9-a406-9afecf682xlk.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico esagera."
   },
   {
    "data": "2024-09-13",
@@ -459,7 +491,8 @@
    "frase": "Con i due anni della Meloni sono aumentati i contratti a termine",
    "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-aumento-contratti-determinato-governo-meloni",
    "fonte_originale": "https://www.repubblica.it/politica/2024/09/13/news/schelin_stipendio_insegnanti_manovra_governo_intervista-423494322/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione della segretaria del PD non è supportata dai dati Istat."
   },
   {
    "data": "2025-02-16",
@@ -467,7 +500,8 @@
    "frase": "Con le altre opposizioni abbiamo persino trovato le coperture: abbiamo suggerito al governo dove prendere 5 miliardi e mezzo in più da mettere subito sulla sanità pubblica per assumere medici e infermieri che mancano",
    "url": "https://pagellapolitica.it/fact-checking/schlein-pd-coperture-spesa-sanitaria",
    "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/caffe-domenica/puntata/trasmissione-16-febbraio-2025-083000-2366088484701514",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "In realtà, la proposta del PD resta vaga sulle coperture."
   },
   {
    "data": "2025-05-01",
@@ -475,7 +509,8 @@
    "frase": "Cinque milioni di lavoratori stanno ancora aspettando i rinnovi contrattuali",
    "url": "https://pagellapolitica.it/fact-checking/lavoratori-attesa-rinnovo-contratto-collettivo-nazionale",
    "fonte_originale": "https://www.youtube.com/watch?v=cfDW9zVNMoM&t=78s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il numero corretto è un po’ più alto."
   },
   {
    "data": "2025-05-21",
@@ -483,7 +518,8 @@
    "frase": "A Gaza c’è l’inferno in terra con più di 50.000 morti, tra cui 15.000 bambini",
    "url": "https://pagellapolitica.it/fact-checking/numero-morti-gaza-oltre-50-mila",
    "fonte_originale": "https://youtu.be/L03h7WHJPok?si=zUiSny_6Yy07l2o7",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri citati dalla segretaria del PD sono attendibili."
   },
   {
    "data": "2025-10-14",
@@ -491,7 +527,8 @@
    "frase": "A parte che su le pensioni erano quelli che dicevano che le avrebbero aumentate a mille euro le minime, le hanno aumentate di 1,50 euro",
    "url": "https://pagellapolitica.it/fact-checking/schlein-minimizza-aumento-pensioni-minime",
    "fonte_originale": "https://www.la7.it/dimartedi/rivedila7/dimartedi-15-10-2025-615568",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico è fuorviante."
   },
   {
    "data": "2026-03-07",
@@ -499,7 +536,8 @@
    "frase": "Vi ricordate quando Giorgia Meloni faceva i video dal benzinaio per promettere di abolire le accise? Sappiamo tutti com’è andata. Le accise non le ha abolite. Anzi, nell’ultima manovra ha addirittura alzato quelle sul diesel.",
    "url": "https://pagellapolitica.it/fact-checking/vi-ricordate-quando-giorgia-meloni-faceva-i-video-dal-benzinaio-per-promettere-di-abolire-le-accise-sappiamo-tutti-come-andata-le-accise-non-le-ha-abolite-anzi-nellultima-manovra",
    "fonte_originale": "https://www.instagram.com/reel/DVlUJB2gkT1/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-   "fonte_tipo": "Instagram"
+   "fonte_tipo": "Instagram",
+   "giudizio": null
   },
   {
    "data": "2026-07-06",
@@ -507,7 +545,8 @@
    "frase": "In un Paese che ha 4 milioni di lavoratori poveri, anche se hanno un lavoro",
    "url": "https://pagellapolitica.it/fact-checking/in-un-paese-che-ha-4-milioni-di-lavoratori-poveri-anche-se-hanno-un-lavoro",
    "fonte_originale": "youtube.com/watch?si=FxOvyWGYlEmHNtia&t=830&v=70aBB7lwOOo&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-09-13",
@@ -515,7 +554,8 @@
    "frase": "Abbiamo la crescita che rasenta allo zero. Siamo ultimi tra i Paesi del G20 nonostante il contributo del PNRR",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-la-crescita-che-rasenta-allo-zero-siamo-ultimi-tra-i-paesi-del-g20-nonostante-il-contributo-del-pnrr",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-09-13",
@@ -523,7 +563,8 @@
    "frase": "I nostri insegnanti sono tra i meno pagati d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/i-nostri-insegnanti-sono-tra-i-meno-pagati-deuropa",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-09-13",
@@ -531,7 +572,8 @@
    "frase": "Un altro record è quello di 6 milioni di italiani che rinunciano a curarsi perché le liste d’attesa sono troppo lunghe o perché non se lo possono permettere",
    "url": "https://pagellapolitica.it/fact-checking/un-altro-record-e-quello-di-6-milioni-di-italiani-che-rinunciano-a-curarsi-perche-le-liste-dattesa-sono-troppo-lunghe-o-perche-non-se-lo-possono-permettere",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   }
  ],
  "camera": [

@@ -266,7 +266,8 @@
    "frase": "Il codice penale oggi in vigore è stato firmato dal re e da Mussolini e ha passato il vaglio della Costituzione antifascista, mentre il codice di procedura penale dell’antifascista Vassalli è stato bocciato dalla Corte",
    "url": "https://pagellapolitica.it/fact-checking/crosso-fuorviante-codice-penale-fascista-costituzione",
    "fonte_originale": "https://www.corriere.it/politica/22_maggio_03/guido-crosetto-giorgia-meloni-intervista-790b5a38-ca49-11ec-829f-386f144a5eff.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "L’affermazione dell’ex deputato di Fdi è scorretta."
   },
   {
    "data": "2022-08-04",
@@ -274,7 +275,8 @@
    "frase": "Alcuni burocratismi [dell’Unione Europea] sono surreali e distruttivi, tipo stabilire l'esatta dimensione dei cetrioli",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-ue-dimensione-cetrioli",
    "fonte_originale": "https://www.repubblica.it/economia/2022/08/04/news/crosetto_i_no_di_fdi_al_pnrr_un_eccesso_di_pignoleria_non_siamo_euroscettici-360448369/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il fondatore di Fdi cita un regolamento europeo abolito nel 2008"
   },
   {
    "data": "2022-08-16",
@@ -282,7 +284,8 @@
    "frase": "Record del debito pubblico. Eppure state dicendo da mesi che stava calando",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-aumento-debito-pubblico",
    "fonte_originale": "https://twitter.com/GuidoCrosetto/status/1559500082474618881",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-fondatore di Fratelli d’Italia guarda al valore assoluto del debito, non al rapporto con il Pil."
   },
   {
    "data": "2022-12-16",
@@ -290,7 +293,8 @@
    "frase": "Sono l’unico che non votò il Mes, quando lo votò tutto il Parlamento",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-voto-ratifica-mes",
    "fonte_originale": "https://www.youtube.com/watch?v=AAxlPm4R7y8",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il ministro della Difesa esagera."
   },
   {
    "data": "2023-06-26",
@@ -298,7 +302,8 @@
    "frase": "Chi finora ha utilizzato il Mes ne è uscito massacrato",
    "url": "https://pagellapolitica.it/fact-checking/conseguenze-mes-aiuti-grecia",
    "fonte_originale": "https://www.corriere.it/politica/23_giugno_26/crosetto-russia-italia-kiev-diplomazia-56973356-138f-11ee-994f-7a96a4226047.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Al di là dell’iperbole, la dichiarazione del ministro della Difesa è comunque esagerata."
   },
   {
    "data": "2023-07-30",
@@ -306,7 +311,8 @@
    "frase": "La Cina ha triplicato in tre anni le esportazioni in Italia",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-esportazioni-importazioni-italia-cina",
    "fonte_originale": "https://www.corriere.it/politica/23_luglio_30/crosetto-intervista-5df81a76-2e3c-11ee-a52d-5015ada51aef.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "L’affermazione del ministro della Difesa non è supportata dai dati"
   },
   {
    "data": "2024-06-12",
@@ -314,7 +320,8 @@
    "frase": "Gli episodi di violenza in Puglia, in un anno, stanno ampiamente sotto quelli mensili in una grande città degli Stati Uniti",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-omicidi-puglia-citta-stati-uniti",
    "fonte_originale": "Se si guarda il numero degli omicidi, il ministro della Difesa ha ragione.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Se si guarda il numero degli omicidi, il ministro della Difesa ha ragione."
   },
   {
    "data": "2024-10-10",
@@ -322,7 +329,8 @@
    "frase": "Il Libano è una nazione che ha due milioni di profughi. Ha una percentuale di profughi sulla popolazione che non ha nessun altro Paese al mondo",
    "url": "https://pagellapolitica.it/fact-checking/classifica-paesi-numero-rifugiati-mondo",
    "fonte_originale": "https://youtu.be/qmvPw0-fhIM?si=crmdHuZeKMtytDcA&t=1651",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del ministro della Difesa è supportata dai numeri."
   },
   {
    "data": "2026-04-07",
@@ -330,7 +338,8 @@
    "frase": "L’applicazione degli accordi sull’uso delle basi militari americane in Italia è sempre stata caratterizzata da un’assoluta coerente continuità da oltre 75 anni",
    "url": "https://pagellapolitica.it/fact-checking/lapplicazione-degli-accordi-sulluso-delle-basi-militari-americane-in-italia-e-sempre-stata-caratterizzata-da-unassoluta-coerente-continuita-da-oltre-75-anni",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   }
  ],
  "camera": [

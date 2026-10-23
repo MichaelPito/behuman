@@ -336,3 +336,30 @@ export const impegni = () =>
 export const ESITO_CLASSE: Record<string, string> = {
   raggiunto: "accent", direzione_chiesta: "accent", invariato: "sky", direzione_opposta: "plum", misto: "sun", senza_indicatore: "",
 };
+
+// ----------------------------------------------------------------- osservatorio (notizie e polemiche)
+export type MisuraVerifica = { indicatore: string; nome: string; unita: string; fonte: string; fonte_url: string; da: { data: string; valore: number }; a: { data: string; valore: number }; variazione: number; esito: string };
+export type VerificaDati = {
+  tema: string; tema_nome: string; esito: "confermata" | "smentita" | "non_dimostrabile" | "in_parte"; frase?: string; di_chi?: string;
+  dichiarata?: string; parola?: string; misure?: MisuraVerifica[]; righe?: { camera: string; presenza: number; mediana: number; esito: string }[];
+};
+export type Confronto = {
+  frase: string; esito: "coerente" | "in_contrasto" | null;
+  proposizione?: string; posizione_frase?: string | null; ultima_posizione?: { posizione: string; data: string; tipo: string; descrizione: string; fonte_url?: string } | null;
+  tema_impegno?: string; tema_nome?: string; direzione_frase?: string; direzione_prima?: string;
+};
+export type Storia = {
+  id: string; data: string; titolo: string; testate: string[]; n_testate: number; articoli: { titolo: string; fonte: string | null; data: string; url: string }[];
+  polemica: boolean; social: boolean; virale: boolean; citazioni: string[]; verifiche: VerificaDati[]; confronti: Confronto[];
+  slug?: string; nome?: string;
+};
+export type FactCheck = { titolo: string; data: string; url: string; fonte: string; sommario: string; giudizio: string | null; fonte_originale?: string; verifica_dati?: VerificaDati | null };
+export type OsservatorioPolitico = { slug: string; nome: string; partito: { slug: string | null; nome: string; sigla: string }; schieramento: string; storie: Storia[]; fact_check: FactCheck[]; conteggi: Record<string, number> };
+export const osservatorio = () =>
+  leggi<{ aggiornato_il: string; politici: Record<string, OsservatorioPolitico>; in_evidenza: Storia[] }>("osservatorio.json", { aggiornato_il: "", politici: {}, in_evidenza: [] });
+export const ESITO_VERIFICA: Record<string, [string, string]> = {
+  confermata: ["I dati ufficiali la confermano", "accent"],
+  smentita: ["I dati ufficiali la smentiscono", "plum"],
+  non_dimostrabile: ["I dati non mostrano variazioni rilevanti", "sky"],
+  in_parte: ["I dati la confermano solo in parte", "sun"],
+};

@@ -113,7 +113,8 @@
    "frase": "Ho ottenuto il miglior risultato della storia politica italiana dell’ultimo mezzo secolo con il famoso 41 per cento",
    "url": "https://pagellapolitica.it/fact-checking/renzi-europee-2014-record-elezioni",
    "fonte_originale": "https://www.matteorenzi.it/enews_374_sabato_15_aprile",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il presidente di Italia viva ha ragione solo se si guardano i voti in valore percentuale."
   },
   {
    "data": "2021-11-12",
@@ -121,7 +122,8 @@
    "frase": "[Con il Jobs act ho creato] un milione e 300 mila posti di lavoro quando ho fatto il capo del governo» (min. 32:14)",
    "url": "https://pagellapolitica.it/fact-checking/renzi-sbaglia-ancora-sui-posti-di-lavoro-creati-dal-suo-governo",
    "fonte_originale": "https://www.la7.it/otto-e-mezzo/rivedila7/otto-e-mezzo-renzi-e-la-resa-dei-conti-correnti-12-11-2021-408226",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Pinocchio andante"
   },
   {
    "data": "2021-11-17",
@@ -129,7 +131,8 @@
    "frase": "Sette anni fa il Movimento 5 stelle diceva no alla lottizzazione della Rai. Oggi il Movimento 5 stelle si lamenta perché non ha partecipato alla lottizzazione",
    "url": "https://pagellapolitica.it/fact-checking/renzi-conte-nomine-rai",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1275256459659772",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Vero"
   },
   {
    "data": "2022-03-28",
@@ -137,7 +140,8 @@
    "frase": "Conte ha aumentato le spese militari più di noi e si è impegnato ad aumentarle nei vertici Nato cui ha partecipato",
    "url": "https://pagellapolitica.it/fact-checking/aumento-spese-militari-conte-nato",
    "fonte_originale": "https://www.matteorenzi.it/enews_777_lunedi_28_marzo_2022#",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Iv ha quasi ragione."
   },
   {
    "data": "2022-06-13",
@@ -145,7 +149,8 @@
    "frase": "Italia viva è decisiva nell’elezione al primo turno di tanti sindaci, da Bucci a Genova fino a Giordani a Padova",
    "url": "https://pagellapolitica.it/fact-checking/risultati-italia-viva-elezioni-comunali",
    "fonte_originale": "https://www.matteorenzi.it/enews_799_lunedi_13_giugno_2022",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva esagera i risultati ottenuti dal suo partito."
   },
   {
    "data": "2022-08-03",
@@ -153,7 +158,8 @@
    "frase": "[il 2 agosto] Nicola Fratoianni votava contro l’adesione di Svezia e Finlandia alla Nato",
    "url": "https://pagellapolitica.it/fact-checking/fratoianni-adesione-svezia-finlandia-nato",
    "fonte_originale": "https://www.matteorenzi.it/enews_812_mercoledi_3_agosto_2022",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva ha ragione"
   },
   {
    "data": "2022-08-09",
@@ -161,7 +167,8 @@
    "frase": "Fratoianni ha votato 55 volte la sfiducia [al governo Draghi]",
    "url": "https://pagellapolitica.it/fact-checking/renzi-fratoianni-fiducia-draghi",
    "fonte_originale": "https://www.ilmessaggero.it/politica/renzi_calenda_terzo_polo_elezioni_letta_intervista_cosa_ha_detto-6861033.html?refresh_ce",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva esagera."
   },
   {
    "data": "2022-08-16",
@@ -169,7 +176,8 @@
    "frase": "Enrico Letta è il premier che ha aumentato l’Iva",
    "url": "https://pagellapolitica.it/fact-checking/letta-aumento-iva-2013",
    "fonte_originale": "https://www.facebook.com/matteorenziufficiale/videos/5588529667875388/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia viva ha ragione."
   },
   {
    "data": "2022-09-21",
@@ -177,7 +185,8 @@
    "frase": "L’impatto dei voli non di linea sull’ambiente è meno dello 0,2 per cento delle emissioni di CO2",
    "url": "https://pagellapolitica.it/fact-checking/emissioni-co2-jet-renzi",
    "fonte_originale": "https://www.matteorenzi.it/enews_830_mercoledi_21_settembre_2022#",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La stima è corretta, ma il leader di Italia viva omette alcuni dati importanti per contestualizzarla."
   },
   {
    "data": "2022-10-02",
@@ -185,7 +194,8 @@
    "frase": "Il primo governo con la metà di donne è stato il mio e anche l’ultimo",
    "url": "https://pagellapolitica.it/fact-checking/donne-governo-renzi",
    "fonte_originale": "https://www.facebook.com/matteorenziufficiale/videos/1200409930829221/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia viva ha ragione a metà."
   },
   {
    "data": "2022-10-12",
@@ -193,7 +203,8 @@
    "frase": "Ieri Greta Thunberg ha detto: “Bisogna aprire al nucleare",
    "url": "https://pagellapolitica.it/fact-checking/renzi-greta-thunberg-nucleare",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1580224429531213824",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il leader di Italia viva ha travisato le parole dell’attivista svedese."
   },
   {
    "data": "2022-11-07",
@@ -201,7 +212,8 @@
    "frase": "Conte è il premier che più ha aumentato la vendita di armi",
    "url": "https://pagellapolitica.it/fact-checking/renzi-conte-vendita-armi-italia",
    "fonte_originale": "https://www.matteorenzi.it/enews_840_lunedi_8_novembre",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva sbaglia."
   },
   {
    "data": "2022-12-21",
@@ -209,7 +221,8 @@
    "frase": "Quanto alle presunte frodi, i 17 milioni di euro su cui sono in corso indagini della Guardia di finanza negli ultimi cinque anni corrispondono a meno del 2 per cento dei casi",
    "url": "https://pagellapolitica.it/fact-checking/renzi-frodi-bonus-cultura",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1605538281826942976",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il leader di Italia viva è impreciso."
   },
   {
    "data": "2023-01-04",
@@ -217,7 +230,8 @@
    "frase": "Nel 2014 il deputato Salvini faceva scenate sui pedaggi. Nel 2023 aumentano le tariffe e il Ministro Salvini tace",
    "url": "https://pagellapolitica.it/fact-checking/salvini-protesta-aumento-pedaggi",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1610643237714395136",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il leader di Italia viva ha sostanzialmente ragione"
   },
   {
    "data": "2023-02-14",
@@ -225,7 +239,8 @@
    "frase": "Il canone in bolletta fu una mia scelta. Costava 113 euro. Averlo fatto pagare a tutti ha portato a un abbassamento del costo da 113 a 90 euro",
    "url": "https://pagellapolitica.it/fact-checking/canone-rai-bolletta-costo",
    "fonte_originale": "https://www.matteorenzi.it/enews_863_martedi_14_febbraio",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva ha ragione."
   },
   {
    "data": "2023-02-28",
@@ -233,7 +248,8 @@
    "frase": "Sul reddito di cittadinanza Meloni aveva promesso di cancellare tutto. Per adesso ha cancellato solo le norme contro le truffe",
    "url": "https://pagellapolitica.it/fact-checking/renzi-cancellazione-truffe-reddito-cittadinanza",
    "fonte_originale": "https://www.matteorenzi.it/enews_866_martedi_28_febbraio",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia viva esagera."
   },
   {
    "data": "2023-04-05",
@@ -241,7 +257,8 @@
    "frase": "Un parlamentare in carica può fare il direttore di un giornale. Ce ne sono stati tantissimi nella storia di questo Paese",
    "url": "https://pagellapolitica.it/fact-checking/renzi-direttore-riformista",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=761568895315846",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Renzi ha ragione, ma omette alcuni dettagli importanti."
   },
   {
    "data": "2023-07-30",
@@ -249,7 +266,8 @@
    "frase": "La benzina tocca prezzi record",
    "url": "https://pagellapolitica.it/fact-checking/renzi-prezzi-record-benzina",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1685560974755893248",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "L’affermazione del leader di Italia Viva non è supportata dai dati."
   },
   {
    "data": "2023-08-20",
@@ -257,7 +275,8 @@
    "frase": "Quando ho lasciato Chigi tra stipendi e spese la Pa costava 300 miliardi di euro. Dopo i governi Conte e le nuove assunzioni siamo a 350 miliardi».",
    "url": "https://pagellapolitica.it/fact-checking/renzi-costi-pubblica-amministrazione",
    "fonte_originale": "https://www.repubblica.it/politica/2023/08/20/news/matteo_renzi_intervista-411666839/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia Viva omette alcuni dettagli importanti."
   },
   {
    "data": "2023-09-09",
@@ -265,7 +284,8 @@
    "frase": "Greta Thunberg diceva: “Il mondo finirà nel 2023",
    "url": "https://pagellapolitica.it/fact-checking/renzi-thunberg-fine-mondo-2023",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1077479879914851",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia Viva si sbaglia."
   },
   {
    "data": "2023-11-03",
@@ -273,7 +293,8 @@
    "frase": "Uno dei primi provvedimenti di questo governo è la proroga dei navigator",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-proroga-contratti-navigator",
    "fonte_originale": "https://www.la7.it/laria-che-tira/rivedila7/laria-che-tira-03112022-03-11-2022-458394",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il leader di Italia viva sbaglia."
   },
   {
    "data": "2023-12-23",
@@ -281,7 +302,8 @@
    "frase": "L’immunità parlamentare non copre gli insulti",
    "url": "https://pagellapolitica.it/fact-checking/immunita-parlamentare-insulti",
    "fonte_originale": "https://www.lastampa.it/politica/2023/12/23/news/renzi_gasparri_intervista-13951465/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "In linea di massima il leader di Italia Viva ha ragione."
   },
   {
    "data": "2023-12-28",
@@ -289,7 +311,8 @@
    "frase": "In un giorno pago [di tasse] il triplo di quello che Giuseppe Conte ha pagato in un anno",
    "url": "https://pagellapolitica.it/fact-checking/dichiarazioni-redditi-renzi-conte-tasse",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1740328349984051495",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione del leader di Italia Viva è esagerata e va contestualizzata."
   },
   {
    "data": "2024-01-10",
@@ -297,7 +320,8 @@
    "frase": "Siamo gli unici che continuano a chiedere le dimissioni di Delmastro",
    "url": "https://pagellapolitica.it/fact-checking/partiti-richieste-dimissioni-delmastro",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1744994425925722519",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il presidente di Italia Viva dice una cosa falsa."
   },
   {
    "data": "2024-01-12",
@@ -305,7 +329,8 @@
    "frase": "Il governo ha tagliato 25 milioni di euro del fondo per il contrasto dei disturbi alimentari",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-taglia-fondo-disturbi-alimentari",
    "fonte_originale": "https://www.ilriformista.it/anoressia-e-bulimia-altro-che-pistoleri-leditoriale-di-matteo-renzi-402648/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il presidente di Italia Viva omette un dettaglio importante: più che tagliare, il governo non ha rinnovato una misura."
   },
   {
    "data": "2024-03-17",
@@ -313,7 +338,8 @@
    "frase": "Nell’ultimo decreto-legge sul Pnrr, Giorgia Meloni “regala” al Cnel due dirigenti, otto funzionari e sette assistenti per Brunetta: più di un milione di euro all’anno a regime",
    "url": "https://pagellapolitica.it/fact-checking/decreto-pnrr-assunzioni-cnel",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1769281792769491423",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": null
   },
   {
    "data": "2024-07-03",
@@ -321,7 +347,8 @@
    "frase": "Poi escono i dati Istat e si vede che la pressione fiscale è aumentata dello 0,8 per cento rispetto allo scorso anno",
    "url": "https://pagellapolitica.it/fact-checking/pressione-fiscale-aumento-governo-meloni",
    "fonte_originale": "https://www.lastampa.it/politica/2024/07/03/news/renzi_autonomie_schlein_accordo-14442608/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del leader di Italia Viva è corretta, ma fa riferimento a un periodo specifico."
   },
   {
    "data": "2024-09-07",
@@ -329,7 +356,8 @@
    "frase": "Penso che Giuli sia il primo ministro della Cultura non laureato della storia italiana",
    "url": "https://pagellapolitica.it/fact-checking/giuli-ministri-cultura-senza-laurea",
    "fonte_originale": "https://youtu.be/h-UfyOmM3T0?si=rHRjFFjBIHslTIP1&t=462",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Ci sono altri due casi di ministri della Cultura senza laurea."
   },
   {
    "data": "2024-09-30",
@@ -337,7 +365,8 @@
    "frase": "Nel Piano strutturale di bilancio c’è scritto che le accise sul gasolio aumenteranno",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-aumento-accise-diesel-gasolio",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1201758407816289",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia Viva dice la verità."
   },
   {
    "data": "2026-04-20",
@@ -345,7 +374,8 @@
    "frase": "Con il governo Meloni ci sono stati meno rimpatri che con il governo Renzi",
    "url": "https://pagellapolitica.it/fact-checking/con-il-governo-meloni-ci-sono-stati-meno-rimpatri-che-con-il-governo-renzi",
    "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-04-20",
@@ -353,7 +383,8 @@
    "frase": "Riprendere i cervelli che se ne sono andati, sono 200 mila lo scorso anno, e riportarli in Italia",
    "url": "https://pagellapolitica.it/fact-checking/riprendere-i-cervelli-che-se-ne-sono-andati-sono-200-mila-lo-scorso-anno-e-riportarli-in-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-22",
@@ -361,7 +392,8 @@
    "frase": "Io ho presentato il salario minimo nel 2018 quando la CGIL era contraria",
    "url": "https://pagellapolitica.it/fact-checking/io-ho-presentato-il-salario-minimo-nel-2018-quando-la-cgil-era-contraria",
    "fonte_originale": "youtube.com/watch?si=xG5eAa3hnOkEjUeF&t=1367&v=XIVzNR3XrTc&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-22",
@@ -369,7 +401,8 @@
    "frase": "La pressione fiscale sta al 43 per cento, i salari reali diminuiscono dell’8 per cento",
    "url": "https://pagellapolitica.it/fact-checking/la-pressione-fiscale-sta-al-43-per-cento-i-salari-reali-diminuiscono-dell8-per-cento",
    "fonte_originale": "https://www.youtube.com/watch?si=pj6H2Sy80glu4dLr&t=79&v=XIVzNR3XrTc&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-07-06",
@@ -377,7 +410,8 @@
    "frase": "Caro Piantedosi, riporta indietro 600 tra agenti della polizia, tra finanzieri e carabinieri, riportali indietro da quell’inutile centro dei migranti, che ci è costato quasi un miliardo di euro",
    "url": "https://pagellapolitica.it/fact-checking/caro-piantedosi-riporta-indietro-600-tra-agenti-della-polizia-tra-finanzieri-e-carabinieri-riportali-indietro-da-quellinutile-centro-dei-migranti-che-ci-e-costato-quasi-un-miliardo-di-eur",
    "fonte_originale": "https://www.youtube.com/watch?si=XYh5fB6aGh6kMDhu&t=122&v=l062TWYYesg&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-07-06",
@@ -385,7 +419,8 @@
    "frase": "La sinistra si è divisa, si è divisa nel 2022. Se la sinistra non si fosse divisa, la Meloni non avrebbe vinto. Lo dicono i numeri",
    "url": "https://pagellapolitica.it/fact-checking/la-sinistra-si-e-divisa-si-e-divisa-nel-2022-se-la-sinistra-non-si-fosse-divisa-la-meloni-non-avrebbe-vinto-lo-dicono-i-numeri",
    "fonte_originale": "youtube.com/watch?si=9VtFlclhOK_9bqoc&t=568&v=l062TWYYesg&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-09-29",
@@ -393,7 +428,8 @@
    "frase": "Il rapporto debito pubblico/PIL in Grecia è migliore in questo 2026 del rapporto debito pubblico/PIL in Italia",
    "url": "https://pagellapolitica.it/fact-checking/il-rapporto-debito-pubblico-pil-in-grecia-e-migliore-in-questo-2026-del-rapporto-debito-pubblico-pil-in-italia",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "data": "2026-09-29",
@@ -401,7 +437,8 @@
    "frase": "Nel 2023 nell’Italia di Giorgia Meloni sono entrati più migranti di quanti ne siano arrivati nel 2015",
    "url": "https://pagellapolitica.it/fact-checking/nel-2023-nellitalia-di-giorgia-meloni-sono-entrati-piu-migranti-di-quanti-ne-siano-arrivati-nel-2015",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   }
  ],
  "camera": [],
