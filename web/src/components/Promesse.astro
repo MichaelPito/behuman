@@ -53,7 +53,9 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
               <li>
                 <span class="tiny mono muted">{dataIt(f.data)} · {f.fonte}</span>
                 <blockquote>«{f.frase}»</blockquote>
+                {(f as any).testo_pubblicato && <span class="small muted">Testo pubblicato con il video: «{(f as any).testo_pubblicato}»</span>}
                 <span class="tiny">Chiede di <strong>{VERBO[f.direzione ?? ""] ?? "intervenire"}</strong> («{f.verbo}») · <a href={f.url} target="_blank" rel="noopener">fonte <Icon name="ext" class="tiny" /></a>{f.verifica && <> · <a href={f.verifica} target="_blank" rel="noopener">verifica</a></>}</span>
+                {(f as any).verifica_note && <span class="tiny muted">Verificata con: {((f as any).verifica_note as string[]).join("; ")}</span>}
               </li>
             ))}
             {t.programma.slice(0, 2).map((f) => (
@@ -85,6 +87,9 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
                   <circle cx={g.xOggi} cy={g.yOggi} r="3.5" class="oggi" />
                 </svg>
                 <dl class="valori">
+                  {m.alla_prima_richiesta && m.alla_prima_richiesta.data < (m.un_anno_prima?.data ?? m.all_incarico.data) && (
+                    <div><dt>Alla prima richiesta ({dataIt(m.alla_prima_richiesta.data)})</dt><dd>{fmt(m.alla_prima_richiesta.valore, m.unita)}</dd></div>
+                  )}
                   {m.un_anno_prima && <div><dt>Un anno prima</dt><dd>{fmt(m.un_anno_prima.valore, m.unita)}</dd></div>}
                   <div><dt>All'incarico</dt><dd>{fmt(m.all_incarico.valore, m.unita)}</dd></div>
                   <div><dt>Ultimo dato</dt><dd>{fmt(m.oggi.valore, m.unita)}</dd></div>

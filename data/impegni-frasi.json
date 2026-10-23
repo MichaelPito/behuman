@@ -1030,12 +1030,12 @@
 },
 {
 "data": "2025-03-19",
-"direzione": null,
+"direzione": "riduzione",
 "fonte": "Aula della Camera",
 "frase": "La difesa comune va finanziata con gli investimenti comuni e con il debito europeo, non con il debito nazionale, perché la Commissione ha già chiarito che dovrà rientrare aumentando tasse o tagliando servizi.",
 "tema": "tasse",
 "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00470",
-"verbo": null
+"verbo": "tagliando"
 },
 {
 "data": "2025-05-28",
@@ -1394,12 +1394,12 @@
 },
 {
 "data": "2018-10-16",
-"direzione": null,
+"direzione": "riduzione",
 "fonte": "Aula della Camera",
 "frase": "Un'altra volta il blocco navale, Presidente, può essere una soluzione, ma va affiancata da altri due interventi.",
 "tema": "sbarchi",
 "url": "https://www.camera.it/leg18/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00060.sub00020.int00090",
-"verbo": null
+"verbo": "blocco"
 },
 {
 "data": "2018-10-16",
@@ -3992,12 +3992,12 @@
 },
 {
 "data": "2020-02-26",
-"direzione": null,
+"direzione": "riduzione",
 "fonte": "Aula della Camera",
 "frase": "Il tema non è rinviare i pagamenti dei tributi, perché se io chiudo perché qualcuno mi dice che devo chiudere e ci sono dei soldi che mancano, allora il tema non è che devo pagare le stesse tasse ad aprile; il tema è che a me i tributi vanno diminuiti considerando quello che ho perso a causa del Coronavirus .",
 "tema": "tasse",
 "url": "https://www.camera.it/leg18/410?idSeduta=0312&tipo=stenografico#sed0312.stenografico.tit00120.sub00020.int00100",
-"verbo": null
+"verbo": "diminuiti"
 },
 {
 "data": "2020-03-25",
@@ -8920,12 +8920,12 @@
 },
 {
 "data": "2019-06-21",
-"direzione": null,
+"direzione": "riduzione",
 "fonte": "Aula della Camera",
 "frase": "Non stanno insieme la flat tax come concezione e il salario minimo, perché l'elemento fondamentale della riduzione della pressione fiscale, che è quello di liberare risorse a imprese e a cittadini, non va sull'idea del salario minimo, che incentra l'aumento non sul mercato e sul rapporto tra la domanda e l'offerta, sulla contrattazione, sulla possibilità non di aumentare i costi delle imprese, ma di diminuire i…",
 "tema": "tasse",
 "url": "https://www.camera.it/leg18/410?idSeduta=0194&tipo=stenografico#sed0194.stenografico.tit00050.sub00020.int00040",
-"verbo": null
+"verbo": "riduzione"
 },
 {
 "data": "2019-07-25",
@@ -9768,12 +9768,12 @@
 },
 {
 "data": "2020-12-27",
-"direzione": null,
+"direzione": "riduzione",
 "fonte": "Aula della Camera",
 "frase": "Vedete, non si può ogni volta che si parla di questo, ogni volta che si nomina la parola “tassazione”, rispondere che le tasse vanno solo abbassate: perché le tasse vanno sì abbassate sulla stragrande maggioranza degli italiani e delle italiane che ne pagano troppe; forse però chiedere qualcosina in più - non un furto, non una punizione! - a chi ha tantissimo sarebbe una scelta di giustizia, e anche di buonsenso .",
 "tema": "tasse",
 "url": "https://www.camera.it/leg18/410?idSeduta=0446&tipo=stenografico#sed0446.stenografico.tit00050.sub00010.int00890",
-"verbo": null
+"verbo": "abbassate"
 },
 {
 "data": "2021-02-18",
@@ -12037,12 +12037,12 @@
 },
 {
 "data": "2023-07-03",
-"direzione": null,
+"direzione": "abolizione",
 "fonte": "Intervento pubblicato su governo.it",
 "frase": "Così come credo che sia stato un segnale molto importante l’abolizione del Reddito di Cittadinanza per chi poteva lavorare, perché chi può lavorare non può e non deve essere incentivato a non farlo.",
 "tema": "reddito-cittadinanza",
 "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-allassemblea-assolombarda-2023/23048",
-"verbo": null
+"verbo": "abolizione"
 },
 {
 "data": "2023-07-03",

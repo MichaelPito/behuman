@@ -166,3 +166,12 @@ def test_esito_indicatore():
     assert esito_indicatore("riduzione", m(92938, 37722)) == "direzione_chiesta"
     assert esito_indicatore("riduzione", m(100, 100.5)) == "invariato"
     assert esito_indicatore("abolizione", m(0.7, 0)) == "raggiunto"
+
+
+def test_frasi_manuali_valide():
+    from memoria.sezioni.impegni import carica_temi, frasi_manuali
+    m = frasi_manuali(carica_temi())
+    meloni = [x for x in m["giorgia-meloni"] if x["tema"] == "accise-carburanti"]
+    assert meloni and meloni[0]["direzione"] == "abolizione" and meloni[0]["data"] == "2019-05-06"
+    T = {t.id: t for t in carica_temi()}
+    assert T["accise-carburanti"].richiesta("Gli aumenti previsti vanno bloccati e le accise esistenti vanno progressivamente abolite.")[0] == "abolizione"

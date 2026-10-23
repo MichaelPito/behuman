@@ -2844,9 +2844,25 @@
     {
      "tema": "accise-carburanti",
      "nome": "Accise sui carburanti",
-     "direzione_chiesta": "riduzione",
-     "prima": [],
-     "prima_totale": 0,
+     "direzione_chiesta": "abolizione",
+     "prima": [
+      {
+       "tema": "accise-carburanti",
+       "data": "2019-05-06",
+       "fonte": "Video «Giorgia Meloni - Niente scherzi! Aumenti previsti vanno bloccati e accise esistenti vanno abolite», canale YouTube ufficiale di Fratelli d'Italia (campagna per le elezioni europee 2019)",
+       "frase": "Noi pretendiamo che le accise vengano progressivamente abolite",
+       "url": "https://www.youtube.com/watch?v=xYMUibdBoic&t=50s",
+       "testo_pubblicato": "Niente scherzi! Gli aumenti previsti vanno bloccati e le accise esistenti vanno progressivamente abolite.",
+       "verifica_note": [
+        "Descrizione pubblicata con il video sul canale ufficiale di Fratelli d'Italia (data di pubblicazione: 6 maggio 2019)",
+        "Trascrizione di Pagella Politica, minuto 0:50: https://pagellapolitica.it/fact-checking/meloni-abolizione-accise-benzina"
+       ],
+       "direzione": "abolizione",
+       "verbo": "abolite",
+       "manuale": true
+      }
+     ],
+     "prima_totale": 1,
      "programma": [
       {
        "tema": "accise-carburanti",
@@ -2928,8 +2944,8 @@
        "fonte_url": "https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti",
        "frequenza": "settimanale",
        "alla_prima_richiesta": {
-        "data": "2022-09-19",
-        "valore": 0.4784
+        "data": "2019-05-06",
+        "valore": 0.7284
        },
        "all_incarico": {
         "data": "2022-10-17",
@@ -2944,7 +2960,7 @@
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
-       "variazione_dalla_prima_richiesta": 40.7,
+       "variazione_dalla_prima_richiesta": -7.6,
        "serie": [
         [
          "2018-01-29",
@@ -3381,8 +3397,8 @@
        "fonte_url": "https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti",
        "frequenza": "settimanale",
        "alla_prima_richiesta": {
-        "data": "2022-09-19",
-        "valore": 0.3674
+        "data": "2019-05-06",
+        "valore": 0.6174
        },
        "all_incarico": {
         "data": "2022-10-17",
@@ -3397,7 +3413,7 @@
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
+       "variazione_dalla_prima_richiesta": 9.0,
        "serie": [
         [
          "2018-01-29",
@@ -3839,11 +3855,11 @@
      "esito": "direzione_opposta",
      "esito_etichetta": "L'indicatore è andato nella direzione opposta",
      "richieste_per_tipo": {
-      "abolizione": 0,
+      "abolizione": 1,
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -3879,6 +3895,15 @@
       },
       {
        "tema": "tasse",
+       "data": "2020-02-26",
+       "fonte": "Aula della Camera",
+       "frase": "Il tema non è rinviare i pagamenti dei tributi, perché se io chiudo perché qualcuno mi dice che devo chiudere e ci sono dei soldi che mancano, allora il tema non è che devo pagare le stesse tasse ad aprile; il tema è che a me i tributi vanno diminuiti considerando quello che ho perso a causa del Coronavirus .",
+       "url": "https://www.camera.it/leg18/410?idSeduta=0312&tipo=stenografico#sed0312.stenografico.tit00120.sub00020.int00100",
+       "direzione": "riduzione",
+       "verbo": "diminuiti"
+      },
+      {
+       "tema": "tasse",
        "data": "2021-04-27",
        "fonte": "Aula della Camera",
        "frase": "Cioè, le tasse noi intendiamo tagliarle oppure, atteso che, nella sua maggioranza, la parte del leone la fa la sinistra, continuiamo a colpire i professionisti e le categorie produttive, come piace fare a loro ?",
@@ -3887,7 +3912,7 @@
        "verbo": "tagliarle"
       }
      ],
-     "prima_totale": 4,
+     "prima_totale": 5,
      "programma": [
       {
        "tema": "tasse",
@@ -4195,10 +4220,10 @@
      "esito_etichetta": "L'indicatore è andato nella direzione opposta",
      "richieste_per_tipo": {
       "abolizione": 0,
-      "riduzione": 14,
+      "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 14 frasi sul tema «livello delle tasse» con una richiesta (14 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9 % all'inizio dell'incarico, 43,0 % nel 2025 (ultimo anno disponibile) (+2,6%). Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «livello delle tasse» con una richiesta (15 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9 % all'inizio dell'incarico, 43,0 % nel 2025 (ultimo anno disponibile) (+2,6%); rispetto alla prima richiesta (1 gennaio 2018: 41,9 %) +2,6%. Leggi del Governo con il tema nel titolo da allora: 16."
     },
     {
      "tema": "sbarchi",
@@ -4945,7 +4970,7 @@
       "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -48,0%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -6061,7 +6086,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%); rispetto alla prima richiesta (5 marzo 2018: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%); rispetto alla prima richiesta (5 marzo 2018: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -7004,7 +7029,7 @@
       "riduzione": 7,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%); rispetto alla prima richiesta (28 settembre 2018: 34.975) +7,9%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
@@ -17469,7 +17494,7 @@
       "riduzione": 14,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 14 frasi sul tema «livello delle tasse» con una richiesta (14 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9 % all'inizio dell'incarico, 43,0 % nel 2025 (ultimo anno disponibile) (+2,6%). Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 14 frasi sul tema «livello delle tasse» con una richiesta (14 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9 % all'inizio dell'incarico, 43,0 % nel 2025 (ultimo anno disponibile) (+2,6%); rispetto alla prima richiesta (1 gennaio 2019: 42,6 %) +0,9%. Leggi del Governo con il tema nel titolo da allora: 16."
     },
     {
      "tema": "sbarchi",
@@ -17502,6 +17527,15 @@
        "url": "https://www.camera.it/leg18/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00060.sub00020.int00090",
        "direzione": "riduzione",
        "verbo": "fermare"
+      },
+      {
+       "tema": "sbarchi",
+       "data": "2018-10-16",
+       "fonte": "Aula della Camera",
+       "frase": "Un'altra volta il blocco navale, Presidente, può essere una soluzione, ma va affiancata da altri due interventi.",
+       "url": "https://www.camera.it/leg18/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00060.sub00020.int00090",
+       "direzione": "riduzione",
+       "verbo": "blocco"
       },
       {
        "tema": "sbarchi",
@@ -17558,7 +17592,7 @@
        "verbo": "blocco"
       }
      ],
-     "prima_totale": 9,
+     "prima_totale": 10,
      "programma": [
       {
        "tema": "sbarchi",
@@ -18195,10 +18229,10 @@
      "esito_etichetta": "L'indicatore è andato nella direzione chiesta",
      "richieste_per_tipo": {
       "abolizione": 0,
-      "riduzione": 18,
+      "riduzione": 19,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 18 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (18 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-62,0%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 19 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (19 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-62,0%); rispetto alla prima richiesta (28 luglio 2018: 42.702) -11,7%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
