@@ -46,10 +46,23 @@ export type PoliticoBreve = {
   schieramento: "governo" | "opposizione" | "altro";
   partito: { slug: string | null; nome: string; sigla: string };
   foto?: string | null;
+  sesso?: "F" | "M" | null;
+  orientamento?: "sinistra" | "centro" | "destra" | null;
+  valutazione_coerenza?: ValutazioneCoerenza;
   attivo: boolean;
   indicatori: Indicatori;
   coerenza: Coerenza;
 };
+
+export type ValutazioneCoerenza = {
+  stato: "dati_insufficienti" | "nessun_cambio" | "con_cambi";
+  temi_confrontabili: number;
+  temi_senza_cambi: number;
+  temi_con_cambi?: number;
+  testo: string;
+};
+
+export type Orientamento = { etichetta: "sinistra" | "centro" | "destra" | null; valore?: number; anno?: number; componenti?: number; fonte?: string; nota?: string };
 
 export type VotoFinale = {
   id: string;
@@ -86,6 +99,8 @@ export type Politico = PoliticoBreve & {
   cambi_posizione: Cambio[];
   note?: string | null;
   aggiornato_il: string;
+  sintesi?: string[];
+  orientamento?: Orientamento;
 };
 
 export type Partito = {
@@ -104,6 +119,9 @@ export type Partito = {
   posizioni: Posizione[];
   cambi_posizione: Cambio[];
   coerenza: Coerenza;
+  valutazione_coerenza?: ValutazioneCoerenza;
+  orientamento?: Orientamento;
+  sintesi?: string[];
   note?: string | null;
 };
 
@@ -136,7 +154,8 @@ export const meta = () =>
   );
 export const politici = () => leggi<PoliticoBreve[]>("politici.json", []);
 export const politico = (slug: string) => leggi<Politico>(`politici/${slug}.json`, null as any);
-export const partiti = () => leggi<{ slug: string; nome: string; sigla: string; schieramento: string; attivo: boolean; coerenza: Coerenza }[]>("partiti.json", []);
+export const partiti = () =>
+  leggi<{ slug: string; nome: string; sigla: string; schieramento: string; attivo: boolean; coerenza: Coerenza; orientamento?: Orientamento }[]>("partiti.json", []);
 export const partito = (slug: string) => leggi<Partito>(`partiti/${slug}.json`, null as any);
 export const temi = () => leggi<Tema[]>("temi.json", []);
 export const aggiornamenti = () => leggi<Aggiornamento[]>("aggiornamenti.json", []);
@@ -176,3 +195,40 @@ export const perCognome = (a: { nome: string }, b: { nome: string }) => {
   const c = (n: string) => n.split(" ").slice(-1)[0] + " " + n;
   return c(a.nome).localeCompare(c(b.nome), "it");
 };
+
+export const ETICHETTA_ORIENTAMENTO: Record<string, string> = { sinistra: "Sinistra", centro: "Centro", destra: "Destra" };
+export const iniziali = (nome: string) => nome.split(" ").map((s) => s[0]).slice(0, 2).join("");
+export const ordinaPerData = <T extends { data?: string | null }>(xs: T[]) => [...xs].sort((a, b) => (a.data ?? "").localeCompare(b.data ?? ""));
+
+// Ultimo voto finale (non di fiducia) registrato nelle schede: serve per l'emiciclo della home.
+export function ultimoVotoFinale(camera = "Camera"): (VotoFinale & { esito?: { favorevoli: number; contrari: number; astenuti: number } }) | null {
+  let migliore: any = null;
+  for (const p of politici()) {
+    const s = politico(p.slug);
+    for (const v of s?.parlamento?.[camera]?.voti_finali ?? []) {
+      if (v.fiducia || !(v as any).esito) continue;
+      if (!migliore || v.data > migliore.data || (v.data === migliore.data && v.id > migliore.id)) migliore = v;
+    }
+  }
+  return migliore;
+}
+
+// Tutti i cambi di posizione (politici e partiti), dal più recente.
+export function tuttiICambi() {
+  const out: { soggetto: string; slug: string; tipo: "politico" | "partito"; c: Cambio }[] = [];
+  for (const p of politici()) for (const c of politico(p.slug)?.cambi_posizione ?? []) out.push({ soggetto: p.nome, slug: p.slug, tipo: "politico", c });
+  for (const p of partiti()) for (const c of partito(p.slug)?.cambi_posizione ?? []) out.push({ soggetto: p.nome, slug: p.slug, tipo: "partito", c });
+  return out.sort((a, b) => b.c.dopo.data.localeCompare(a.c.dopo.data));
+}
+
+export type VotazioneTema = { id: string; camera: string; data: string; titolo: string; url?: string; gruppi: Record<string, Record<string, number>>; nomi_gruppi?: Record<string, string> };
+export const votazioniTemi = () => leggi<Record<string, VotazioneTema>>("votazioni_temi.json", {});
+export function totaliVotazione(v?: VotazioneTema) {
+  const t = { favorevoli: 0, contrari: 0, astenuti: 0 };
+  for (const g of Object.values(v?.gruppi ?? {})) {
+    t.favorevoli += (g["Favorevole"] ?? 0);
+    t.contrari += (g["Contrario"] ?? 0);
+    t.astenuti += (g["Astensione"] ?? 0);
+  }
+  return t;
+}

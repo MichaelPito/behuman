@@ -1,0 +1,97 @@
+---
+// Ricerca rapida (tasto "/" o Ctrl/⌘+K): politici, partiti e pagine, tutto nel browser.
+import Icon from "./Icon.astro";
+import { partiti, politici } from "../lib/data";
+import { u } from "../lib/url";
+
+const voci = [
+  ...politici().map((p) => ({ t: p.nome, s: `${p.ruolo} · ${p.partito.sigla}`, h: u(`/politici/${p.slug}/`), k: "Politico", f: p.foto ?? null })),
+  ...partiti().map((p) => ({ t: p.nome, s: p.sigla, h: u(`/partiti/${p.slug}/`), k: "Partito", f: null })),
+  { t: "Governo: leggi e riforme", s: "Cosa ha approvato il governo", h: u("/governo/"), k: "Pagina", f: null },
+  { t: "Dichiarazioni", s: "Raccolta delle dichiarazioni verificate", h: u("/dichiarazioni/"), k: "Pagina", f: null },
+  { t: "Temi", s: "Chi ha votato cosa nel tempo", h: u("/temi/"), k: "Pagina", f: null },
+  { t: "FAQ: come calcoliamo i numeri", s: "Presenze, coerenza, orientamento", h: u("/faq/"), k: "Pagina", f: null },
+  { t: "Fonti e licenze", s: "Da dove vengono i dati", h: u("/fonti/"), k: "Pagina", f: null },
+];
+---
+<dialog class="palette" data-palette aria-label="Cerca nel sito">
+  <div class="field">
+    <Icon name="search" />
+    <label for="palette-q" class="sr-only">Cerca</label>
+    <input id="palette-q" type="search" placeholder="Cerca un politico, un partito, una pagina…" autocomplete="off" />
+    <button class="icon-btn" type="button" data-close aria-label="Chiudi"><Icon name="close" /></button>
+  </div>
+  <ul data-results role="listbox"></ul>
+  <script type="application/json" data-voci set:html={JSON.stringify(voci)} />
+</dialog>
+
+<script>
+  type Voce = { t: string; s: string; h: string; k: string; f: string | null };
+  const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+  function init() {
+    const dlg = document.querySelector<HTMLDialogElement>("[data-palette]");
+    if (!dlg) return;
+    const input = dlg.querySelector<HTMLInputElement>("input")!;
+    const ul = dlg.querySelector<HTMLUListElement>("[data-results]")!;
+    const voci: Voce[] = JSON.parse(dlg.querySelector("[data-voci]")!.textContent || "[]");
+    let sel = 0;
+
+    const render = () => {
+      const q = norm(input.value.trim());
+      const trovate = voci.filter((v) => !q || norm(`${v.t} ${v.s}`).includes(q)).slice(0, 12);
+      sel = Math.min(sel, Math.max(trovate.length - 1, 0));
+      ul.innerHTML = "";
+      trovate.forEach((v, i) => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = v.h;
+        a.setAttribute("role", "option");
+        a.setAttribute("aria-selected", String(i === sel));
+        if (v.f) {
+          const img = document.createElement("img");
+          img.className = "avatar"; img.src = v.f; img.alt = ""; img.loading = "lazy";
+          a.append(img);
+        }
+        const box = document.createElement("span");
+        const t = document.createElement("strong"); t.textContent = v.t;
+        const s = document.createElement("div"); s.className = "tiny muted"; s.textContent = v.s;
+        box.append(t, s);
+        const k = document.createElement("span"); k.className = "k"; k.textContent = v.k;
+        a.append(box, k);
+        a.addEventListener("click", () => dlg.close());
+        li.append(a);
+        ul.append(li);
+      });
+      if (!trovate.length) {
+        const li = document.createElement("li");
+        li.className = "muted small"; li.style.padding = "12px";
+        li.textContent = "Nessun risultato. Prova con un cognome o una sigla di partito.";
+        ul.append(li);
+      }
+    };
+
+    const apri = () => { if (!dlg.open) { dlg.showModal(); input.value = ""; sel = 0; render(); input.focus(); } };
+    document.querySelectorAll<HTMLElement>("[data-open-search]").forEach((b) => (b.onclick = apri));
+    dlg.querySelector<HTMLButtonElement>("[data-close]")!.onclick = () => dlg.close();
+    dlg.onclick = (e) => { if (e.target === dlg) dlg.close(); };
+    input.oninput = () => { sel = 0; render(); };
+    input.onkeydown = (e) => {
+      const n = ul.querySelectorAll("a").length;
+      if (e.key === "ArrowDown") { sel = (sel + 1) % Math.max(n, 1); render(); e.preventDefault(); }
+      if (e.key === "ArrowUp") { sel = (sel - 1 + n) % Math.max(n, 1); render(); e.preventDefault(); }
+      if (e.key === "Enter") { const a = ul.querySelectorAll("a")[sel]; if (a) { dlg.close(); a.click(); } }
+    };
+    (window as any).__apriRicerca = apri;
+  }
+
+  document.addEventListener("astro:page-load", init);
+  document.addEventListener("keydown", (e) => {
+    const t = e.target as HTMLElement;
+    const scrivendo = t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable);
+    if ((e.key === "/" && !scrivendo) || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k")) {
+      e.preventDefault();
+      (window as any).__apriRicerca?.();
+    }
+  });
+</script>

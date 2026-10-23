@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1947-02-06",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico, saggista e magistrato italiano (1947-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg/500px-Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12048,6 +12049,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.47,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12061,6 +12076,13 @@
   "nome": "Carlo Nordio",
   "descr": "politico, saggista e magistrato italiano (1947-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Nordio%20in%20the%20Justice%20and%20Home%20Affairs%20Council%20-%20June%202024%20%2801%29%20%28cropped%29.jpg",
-  "nascita": "1947-02-06"
- }
+  "nascita": "1947-02-06",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro della giustizia (dal 23 ottobre 2022).",
+  "Alla Camera ha partecipato al 2,6% delle votazioni del periodo (522 su 19.969); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 46 volte su 46 (100,0%).",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

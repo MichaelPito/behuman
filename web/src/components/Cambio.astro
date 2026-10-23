@@ -1,19 +1,32 @@
 ---
+import Icon from "./Icon.astro";
+import PosizioneRiga from "./PosizioneRiga.astro";
 import type { Cambio } from "../lib/data";
 import { proposizioniIndice } from "../lib/data";
 import { u } from "../lib/url";
-import PosizioneRiga from "./PosizioneRiga.astro";
 
-interface Props { c: Cambio }
-const { c } = Astro.props;
+interface Props { c: Cambio; i?: number }
+const { c, i = 0 } = Astro.props;
 const prop = proposizioniIndice()[c.proposizione];
 ---
-<article class="card">
-  <div class="small muted">{prop ? <a href={u(`/temi/${prop.tema}/`)}>{prop.temaNome}</a> : null}</div>
-  <h3>«{prop?.testo ?? c.proposizione}»</h3>
-  <div class="cambio" style="margin-top:10px">
-    <div class="card" style="background:transparent"><div class="tiny muted">PRIMA</div><PosizioneRiga p={c.prima} /></div>
-    <div class="freccia" aria-hidden="true">→</div>
-    <div class="card" style="background:transparent"><div class="tiny muted">DOPO</div><PosizioneRiga p={c.dopo} /></div>
+<article class="card cambio rise" style={`--i:${i}`}>
+  <div class="row" style="justify-content:space-between">
+    {prop ? <a class="pill" href={u(`/temi/${prop.tema}/`)}>{prop.temaNome}</a> : <span></span>}
+    <span class="pill plum">Cambio di posizione</span>
+  </div>
+  <h3 class="q">«{prop?.testo ?? c.proposizione}»</h3>
+  <div class="due">
+    <div class="lato"><span class="eyebrow">Prima</span><PosizioneRiga p={c.prima} /></div>
+    <div class="freccia" aria-hidden="true"><Icon name="arrow" /></div>
+    <div class="lato"><span class="eyebrow">Dopo</span><PosizioneRiga p={c.dopo} /></div>
   </div>
 </article>
+<style>
+  .cambio { display: grid; gap: 12px; }
+  .q { font: 600 1.15rem/1.35 var(--f-display); }
+  .due { display: grid; grid-template-columns: 1fr auto 1fr; gap: 14px; align-items: stretch; }
+  .lato { display: grid; gap: 6px; align-content: start; background: var(--paper); border-radius: var(--r-s); padding: 14px; min-width: 0; }
+  .freccia { align-self: center; display: grid; place-items: center; width: 36px; height: 36px; border-radius: 50%; background: var(--plum-wash); color: var(--plum); }
+  .freccia :global(svg) { width: 18px; height: 18px; }
+  @media (max-width: 640px) { .due { grid-template-columns: 1fr; } .freccia { transform: rotate(90deg); justify-self: center; } }
+</style>

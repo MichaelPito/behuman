@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1975-01-11",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1975-)",
   "sito": "https://www.matteorenzi.it",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9159,6 +9160,16 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": null,
+  "nota": "Partito non misurato dal Chapel Hill Expert Survey"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -9173,6 +9184,13 @@
   "descr": "politico italiano (1975-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Matteo%20Renzi%202.jpg",
   "sito": "https://www.matteorenzi.it",
-  "nascita": "1975-01-11"
- }
+  "nascita": "1975-01-11",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Al Senato ha partecipato al 42,7% delle votazioni del periodo (3.877 su 9.078); 1.525 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 41 volte su 41 (100,0%).",
+  "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

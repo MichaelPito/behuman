@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1977-01-15",
   "morte": null,
+  "sesso": "F",
   "descrizione": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana (1977-)",
   "sito": "https://www.giorgiameloni.it/",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14125,6 +14126,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.47,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14139,6 +14153,13 @@
   "descr": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana (1977-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgia%20Meloni%20Official%202024%20%28cropped%29.jpg",
   "sito": "https://www.giorgiameloni.it/",
-  "nascita": "1977-01-15"
- }
+  "nascita": "1977-01-15",
+  "sesso": "F"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di presidente del consiglio dei ministri (dal 21 ottobre 2022).",
+  "Alla Camera ha partecipato al 2,0% delle votazioni del periodo (449 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 6 volte su 6 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

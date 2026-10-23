@@ -1,75 +1,103 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { dataIt, ETICHETTA_POSIZIONE, SIMBOLO_POSIZIONE, temi } from "../../lib/data";
+import Emiciclo from "../../components/Emiciclo.astro";
+import Icon from "../../components/Icon.astro";
+import { dataIt, ETICHETTA_POSIZIONE, temi, totaliVotazione, votazioniTemi } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
   return temi().map((t) => ({ params: { id: t.id } }));
 }
 const t = temi().find((x) => x.id === Astro.params.id)!;
+const vt = votazioniTemi();
 ---
 <Base title={t.nome} description={t.descrizione}>
-  <h1>{t.nome}</h1>
-  {t.descrizione && <p class="muted">{t.descrizione}</p>}
+  <section class="section">
+    <div class="stack">
+      <a class="small" href={u("/temi/")}>← Tutti i temi</a>
+      <h1>{t.nome}</h1>
+      {t.descrizione && <p class="muted prose">{t.descrizione}</p>}
+    </div>
+  </section>
+
   {t.proposizioni.map((p) => {
     const partiti = p.soggetti.filter((s) => s.tipo === "partito");
     const politici = p.soggetti.filter((s) => s.tipo === "politico");
-    const colonne = p.voti.map((v) => v.id);
     const cella = (s: (typeof p.soggetti)[number], vid: string) => s.posizioni.find((x) => x.dettagli?.votazione === vid);
     return (
-      <section>
-        <h2>«{p.testo}»</h2>
-        {p.contesto && <p class="small muted">{p.contesto}</p>}
-        <h3>Votazioni collegate</h3>
-        <ol class="small">
-          {p.voti.map((v) => (
-            <li>
-              {dataIt(v.data)} · {v.camera} · {v.titolo} {v.url && <a href={v.url} rel="noopener" target="_blank">↗</a>}
-              {v.polarita === "inversa" && <span class="pill">votare sì = contro la proposizione</span>}
-              {v.nota && <div class="tiny muted">{v.nota}</div>}
-            </li>
-          ))}
-        </ol>
+      <section class="section">
+        <div class="card stack">
+          <span class="eyebrow">Proposizione monitorata</span>
+          <h2>«{p.testo}»</h2>
+          {p.contesto && <p class="small muted prose">{p.contesto}</p>}
+        </div>
+
+        <h3>Le votazioni, in ordine di tempo</h3>
+        <div class="voti">
+          {p.voti.map((v, i) => {
+            const tot = totaliVotazione(vt[v.id]);
+            return (
+              <article class="card stack rise" style={`--i:${i}`}>
+                <div class="row" style="justify-content:space-between">
+                  <span class="mono small">{dataIt(v.data)}</span>
+                  <span class="pill">{v.camera}</span>
+                </div>
+                <Emiciclo favorevoli={tot.favorevoli} contrari={tot.contrari} astenuti={tot.astenuti} seggi={v.camera === "Camera" ? 400 : 200} etichetta={v.titolo ?? v.id} />
+                <p class="small">{v.titolo}</p>
+                {v.nota && <p class="tiny muted">{v.nota}</p>}
+                {v.polarita === "inversa" && <span class="pill plum">votare sì = contro la proposizione</span>}
+                {v.url && <a class="tiny" href={v.url} rel="noopener" target="_blank">Votazione ufficiale <Icon name="ext" class="i-ext" /></a>}
+              </article>
+            );
+          })}
+        </div>
+
         {partiti.length > 0 && (
           <>
-            <h3>Voto prevalente dei gruppi parlamentari</h3>
+            <h3>Come hanno votato i gruppi dei partiti</h3>
             <div class="table-wrap">
               <table>
-                <thead><tr><th>Partito</th>{p.voti.map((v, i) => <th title={v.titolo ?? ""}>{i + 1}. {dataIt(v.data)}</th>)}<th>Cambi</th></tr></thead>
+                <thead>
+                  <tr><th>Partito</th>{p.voti.map((v, i) => <th title={v.titolo ?? ""}>{i + 1}. {v.camera === "Camera" ? "C" : "S"} · {dataIt(v.data)}</th>)}<th class="num">Cambi</th></tr>
+                </thead>
                 <tbody>
                   {partiti.map((s) => (
                     <tr>
                       <td><a href={u(`/partiti/${s.slug}/`)}>{s.nome}</a></td>
-                      {colonne.map((vid) => {
-                        const x = cella(s, vid);
-                        return <td>{x ? <span class={`pos ${x.posizione}`}>{SIMBOLO_POSIZIONE[x.posizione]} {ETICHETTA_POSIZIONE[x.posizione]}</span> : <span class="muted">—</span>}</td>;
+                      {p.voti.map((v) => {
+                        const x = cella(s, v.id);
+                        return <td>{x ? <span class={`pos ${x.posizione}`}>{ETICHETTA_POSIZIONE[x.posizione]}</span> : <span class="muted">—</span>}</td>;
                       })}
-                      <td>{s.cambi}</td>
+                      <td class="num">{s.cambi > 0 ? <span class="pill plum">{s.cambi}</span> : 0}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p class="tiny muted">«—» = gruppo non presente in quella legislatura o voto non espresso. Passa sulle intestazioni per il titolo dell'atto.</p>
+            <p class="tiny muted">«—» = gruppo non presente in quel ramo o legislatura, oppure nessun voto espresso. C = Camera, S = Senato.</p>
           </>
         )}
+
         {politici.length > 0 && (
           <>
             <h3>Politici monitorati</h3>
-            <ul>
+            <div class="grid three">
               {politici.map((s) => (
-                <li>
-                  <a href={u(`/politici/${s.slug}/`)}>{s.nome}</a>:{" "}
-                  <span style="display:inline-flex; flex-wrap:wrap; gap:2px 10px">
-                    {s.posizioni.map((x) => <span class={`pos ${x.posizione}`} title={x.descrizione}>{SIMBOLO_POSIZIONE[x.posizione]} {dataIt(x.data)}</span>)}
-                  </span>
-                  {s.cambi > 0 && <span class="pill">{s.cambi} cambi</span>}
-                </li>
+                <a class="card link stack" href={u(`/politici/${s.slug}/`)}>
+                  <div class="row" style="justify-content:space-between"><strong>{s.nome}</strong>{s.cambi > 0 && <span class="pill plum">{s.cambi} cambi</span>}</div>
+                  <div class="row" style="gap:4px 10px">
+                    {s.posizioni.map((x) => <span class={`pos ${x.posizione} small`} title={x.descrizione}>{dataIt(x.data)}</span>)}
+                  </div>
+                </a>
               ))}
-            </ul>
+            </div>
           </>
         )}
       </section>
     );
   })}
 </Base>
+
+<style>
+  .voti { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+</style>

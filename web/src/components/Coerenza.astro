@@ -1,0 +1,35 @@
+---
+// Indicatore di coerenza sui temi monitorati: un arco diviso in un segmento per tema
+// confrontabile (petrolio = nessun cambio, prugna = almeno un cambio). Nessun voto in pagella.
+interface Props {
+  v: { stato: string; temi_confrontabili: number; temi_senza_cambi: number; temi_con_cambi?: number; testo: string } | undefined;
+}
+const { v } = Astro.props;
+const k = v?.temi_confrontabili ?? 0;
+const ok = v?.temi_senza_cambi ?? 0;
+const segs = Math.max(k, 1);
+const gap = k > 1 ? 0.06 : 0;
+const arco = (i: number) => {
+  const a0 = Math.PI - (i * Math.PI) / segs - (i ? gap / 2 : 0);
+  const a1 = Math.PI - ((i + 1) * Math.PI) / segs + (i < segs - 1 ? gap / 2 : 0);
+  const R = 46, cx = 60, cy = 56;
+  const p = (a: number) => `${(cx + R * Math.cos(a)).toFixed(2)} ${(cy - R * Math.sin(a)).toFixed(2)}`;
+  return `M ${p(a0)} A ${R} ${R} 0 0 1 ${p(a1)}`;
+};
+---
+<div class="stat coerenza">
+  <svg viewBox="0 0 120 64" role="img" aria-label={v?.testo ?? "Coerenza non disponibile"}>
+    {Array.from({ length: segs }, (_, i) => (
+      <path d={arco(i)} stroke={k === 0 ? "var(--line)" : i < ok ? "var(--accent)" : "var(--plum)"} stroke-width="11" fill="none" stroke-linecap="butt" style={`--d:${i * 120}`} />
+    ))}
+    <text x="60" y="54" text-anchor="middle" class="big">{k === 0 ? "—" : `${ok}/${k}`}</text>
+  </svg>
+  <div class="l"><strong>Coerenza sui temi monitorati.</strong> {v?.testo ?? "Dati non disponibili."}</div>
+</div>
+
+<style>
+  .coerenza svg { width: 100%; max-width: 200px; height: auto; }
+  .coerenza path { animation: draw 0.8s var(--ease) both; animation-delay: calc(var(--d) * 1ms); stroke-dasharray: 160; }
+  @keyframes draw { from { stroke-dashoffset: 160; } to { stroke-dashoffset: 0; } }
+  .big { font: 600 17px var(--f-mono); fill: var(--ink); }
+</style>

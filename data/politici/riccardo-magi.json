@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1976-08-07",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1976-)",
   "sito": null,
   "foto": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -13945,6 +13946,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "centro",
+  "valore": 4.33,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -13958,6 +13973,12 @@
   "nome": "Riccardo Magi",
   "descr": "politico italiano (1976-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Riccardo%20Magi%20daticamera%202018.jpg",
-  "nascita": "1976-08-07"
- }
+  "nascita": "1976-08-07",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 40,6% delle votazioni del periodo (8.918 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 192 volte su 192 (100,0%).",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1981-01-24",
   "morte": null,
+  "sesso": "F",
   "descrizione": "politica italiana (1981-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14205,6 +14206,17 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": null,
+  "nota": "Partito non misurato dal Chapel Hill Expert Survey"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14218,6 +14230,13 @@
   "nome": "Maria Elena Boschi",
   "descr": "politica italiana (1981-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Elena%20Boschi%20-%20Festival%20Economia%202016.jpg",
-  "nascita": "1981-01-24"
- }
+  "nascita": "1981-01-24",
+  "sesso": "F"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 35,8% delle votazioni del periodo (7.864 su 21.955); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 160 volte su 161 (99,4%).",
+  "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

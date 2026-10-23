@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1973-04-09",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico e dirigente d'azienda italiano (1973-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carlo_Calenda_2022_%28cropped%29.jpg/500px-Carlo_Calenda_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8246,6 +8247,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "centro",
+  "valore": 4.43,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": "Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.",
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -8259,6 +8274,13 @@
   "nome": "Carlo Calenda",
   "descr": "politico e dirigente d'azienda italiano (1973-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlo%20Calenda%202022%20%28cropped%29.jpg",
-  "nascita": "1973-04-09"
- }
+  "nascita": "1973-04-09",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Al Senato ha partecipato al 38,0% delle votazioni del periodo (3.192 su 8.400); 3.408 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 29 volte su 33 (87,9%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

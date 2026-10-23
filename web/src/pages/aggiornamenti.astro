@@ -6,6 +6,7 @@ const lista = aggiornamenti().slice(0, 300);
 const nomi = Object.fromEntries(politici().map((p) => [p.slug, p.nome]));
 ---
 <Base title="Aggiornamenti" description="Atti e comunicati ufficiali raccolti ogni giorno da Governo, Camera e Senato.">
+  <section class="section prose-page">
   <h1>Atti e annunci ufficiali</h1>
   <p class="muted">Raccolti ogni giorno dai canali istituzionali. Sono fatti («è stato pubblicato X»): diventano posizioni su un tema solo dopo la verifica descritta nel <a href={u("/metodologia/")}>metodo</a>.</p>
   <ul>
@@ -17,4 +18,5 @@ const nomi = Object.fromEntries(politici().map((p) => [p.slug, p.nome]));
       </li>
     ))}
   </ul>
+  </section>
 </Base>

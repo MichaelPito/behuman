@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1963-04-20",
   "morte": null,
+  "sesso": "M",
   "descrizione": "prefetto e politico italiano (1963-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matteo_Piantedosi.png/500px-Matteo_Piantedosi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -55,6 +56,16 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": null,
+  "nota": "Indipendente: nessun partito di riferimento"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -68,6 +79,12 @@
   "nome": "Matteo Piantedosi",
   "descr": "prefetto e politico italiano (1963-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Matteo%20Piantedosi.png",
-  "nascita": "1963-04-20"
- }
+  "nascita": "1963-04-20",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro dell'interno (dal 23 ottobre 2022).",
+  "Matteo Piantedosi non è membro del Parlamento nel periodo: non ha voti in Aula.",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

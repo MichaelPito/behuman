@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1966-12-16",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1966-)",
   "sito": "http://www.governo.it/governo/conte-giuseppe/sottosegretari-pcm/giancarlo-giorgetti",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14166,6 +14167,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.67,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14180,6 +14194,13 @@
   "descr": "politico italiano (1966-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Giancarlo%20Giorgetti%20at%20the%20Eurogroup%20meeting%20-%20December%202023%20%2801%29%20%28cropped%29.jpg",
   "sito": "http://www.governo.it/governo/conte-giuseppe/sottosegretari-pcm/giancarlo-giorgetti",
-  "nascita": "1966-12-16"
- }
+  "nascita": "1966-12-16",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro dell'economia e delle finanze (dal 23 ottobre 2022).",
+  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 14 volte su 14 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

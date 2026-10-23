@@ -1,0 +1,55 @@
+---
+// Emiciclo: un pallino per seggio, disposti su archi concentrici come in Aula.
+// Ordine da sinistra a destra: favorevoli, astenuti, contrari, non votanti/assenti.
+interface Props {
+  favorevoli: number;
+  contrari: number;
+  astenuti: number;
+  seggi: number; // 400 Camera, 200 Senato (eletti)
+  etichetta?: string;
+  anima?: boolean;
+}
+const { favorevoli, contrari, astenuti, seggi, etichetta = "Distribuzione dei voti", anima = true } = Astro.props;
+const altri = Math.max(seggi - favorevoli - contrari - astenuti, 0);
+const N = favorevoli + contrari + astenuti + altri;
+
+// numero di file proporzionato ai seggi
+const file = N > 300 ? 12 : N > 150 ? 9 : 6;
+const r0 = 34, r1 = 96; // raggi interno/esterno nel viewBox
+const raggi = Array.from({ length: file }, (_, i) => r0 + ((r1 - r0) * i) / (file - 1));
+const somma = raggi.reduce((a, b) => a + b, 0);
+let perFila = raggi.map((r) => Math.floor((N * r) / somma));
+let resto = N - perFila.reduce((a, b) => a + b, 0);
+for (let i = file - 1; resto > 0; i = (i - 1 + file) % file, resto--) perFila[i]++;
+
+type Seat = { x: number; y: number; ang: number };
+const posti: Seat[] = [];
+raggi.forEach((r, i) => {
+  const n = perFila[i];
+  for (let j = 0; j < n; j++) {
+    const ang = n === 1 ? Math.PI / 2 : Math.PI - (j * Math.PI) / (n - 1);
+    posti.push({ x: 100 + r * Math.cos(ang), y: 100 - r * Math.sin(ang), ang });
+  }
+});
+posti.sort((a, b) => b.ang - a.ang);
+const cat = [
+  ...Array(favorevoli).fill("var(--accent)"),
+  ...Array(astenuti).fill("var(--neutral)"),
+  ...Array(contrari).fill("var(--plum)"),
+  ...Array(altri).fill("var(--line)"),
+];
+const rr = Math.max(1.3, Math.min(3.1, 170 / Math.sqrt(N) / 3.4));
+---
+<figure class="stack" style="margin:0">
+  <svg class="emiciclo" viewBox="0 0 200 104" role="img" aria-label={`${etichetta}: ${favorevoli} favorevoli, ${contrari} contrari, ${astenuti} astenuti, ${altri} non votanti o assenti su ${seggi} seggi`}>
+    {posti.map((p, i) => (
+      <circle cx={p.x.toFixed(2)} cy={p.y.toFixed(2)} r={rr.toFixed(2)} fill={cat[i]} style={anima ? `--d:${Math.round((1 - p.ang / Math.PI) * 700)}` : "animation:none"} />
+    ))}
+  </svg>
+  <figcaption class="legend">
+    <span><i style="background:var(--accent)"></i>Favorevoli <b class="num">{favorevoli}</b></span>
+    <span><i style="background:var(--plum)"></i>Contrari <b class="num">{contrari}</b></span>
+    <span><i style="background:var(--neutral)"></i>Astenuti <b class="num">{astenuti}</b></span>
+    <span><i style="background:var(--line)"></i>Non votanti o assenti <b class="num">{altri}</b></span>
+  </figcaption>
+</figure>

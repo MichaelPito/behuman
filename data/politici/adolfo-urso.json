@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1957-07-12",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1957-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9425,6 +9426,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.47,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -9438,6 +9452,13 @@
   "nome": "Adolfo Urso",
   "descr": "politico italiano (1957-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Adolfo%20Urso%2C%20Italian%20Minister%20for%20Enterprises%20and%20Made%20in%20Italy%2C%20to%20the%20European%20Commission%20%2802%29%20%28cropped%29.jpg",
-  "nascita": "1957-07-12"
- }
+  "nascita": "1957-07-12",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
+  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 9.078); 8.894 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

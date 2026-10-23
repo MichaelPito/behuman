@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1962-07-30",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1962-)",
   "sito": "http://www.angelobonelli.it",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Festival_di_Open_2024_11.jpg/500px-Festival_di_Open_2024_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12023,6 +12024,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 1,
+  "temi_senza_cambi": 1,
+  "temi_con_cambi": 0,
+  "testo": "Su 1 tema confrontabile: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 1.69,
+  "anno": 2024,
+  "componenti": 2,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12037,6 +12052,13 @@
   "descr": "politico italiano (1962-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20di%20Open%202024%2011.jpg",
   "sito": "http://www.angelobonelli.it",
-  "nascita": "1962-07-30"
- }
+  "nascita": "1962-07-30",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 64,0% delle votazioni del periodo (12.772 su 19.968); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 292 volte su 292 (100,0%).",
+  "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
+  "Su 1 tema confrontabile: nessun cambio di posizione."
+ ]
 }

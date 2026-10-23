@@ -452,6 +452,29 @@
   "proposizioni_con_cambi": 1,
   "cambi_totali": 1
  },
+ "valutazione_coerenza": {
+  "stato": "con_cambi",
+  "temi_confrontabili": 3,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 1,
+  "testo": "Su 3 temi confrontabili: 2 senza cambi di posizione, 1 con almeno un cambio."
+ },
+ "orientamento": {
+  "etichetta": "sinistra",
+  "valore": 3.33,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
- "aggiornato_il": "2026-10-23"
+ "aggiornato_il": "2026-10-23",
+ "sintesi": [
+  "Governo Draghi: maggioranza (non partecipa ai voti di fiducia del 14 e 20 luglio 2022 al Senato).",
+  "Governo Meloni: opposizione.",
+  "Secondo il Chapel Hill Expert Survey 2024 si colloca a sinistra (3,33 su una scala da 0 a 10).",
+  "Posizione sull'integrazione europea: 3,47 nel 2019, 4,07 nel 2024.",
+  "Posizione sull'asse sinistra–destra: 4,78 nel 2019, 3,33 nel 2024.",
+  "Su 3 temi confrontabili: 2 senza cambi di posizione, 1 con almeno un cambio.",
+  "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina» il gruppo è passato da a favore (17 marzo 2022) a contro (11 gennaio 2023)."
+ ]
 }

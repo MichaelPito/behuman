@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1972-03-21",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1972-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -14125,6 +14126,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 8.47,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -14138,6 +14152,13 @@
   "nome": "Francesco Lollobrigida",
   "descr": "politico italiano (1972-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Lollobrigida%20in%20the%20Agriculture%20and%20Fisheries%20Council%20-%20November%202023%20%2801%29%20%28cropped%29.jpg",
-  "nascita": "1972-03-21"
- }
+  "nascita": "1972-03-21",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro dell'agricoltura, della sovranità alimentare e delle foreste (dal 12 novembre 2022).",
+  "Alla Camera ha partecipato al 2,2% delle votazioni del periodo (473 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 48 volte su 48 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

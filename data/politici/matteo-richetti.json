@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1974-08-03",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano",
   "sito": "https://www.matteorichetti.it",
   "foto": "https://upload.wikimedia.org/wikipedia/commons/4/49/Matteo_Richetti_datisenato_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -12074,6 +12075,20 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "centro",
+  "valore": 4.43,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12088,6 +12103,12 @@
   "descr": "politico italiano",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Matteo%20Richetti%20datisenato%202018.jpg",
   "sito": "https://www.matteorichetti.it",
-  "nascita": "1974-08-03"
- }
+  "nascita": "1974-08-03",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Alla Camera ha partecipato al 45,1% delle votazioni del periodo (9.000 su 19.969); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 181 volte su 181 (100,0%).",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }

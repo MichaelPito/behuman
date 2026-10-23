@@ -17,6 +17,7 @@
  "anagrafica": {
   "nascita": "1954-01-04",
   "morte": null,
+  "sesso": "M",
   "descrizione": "politico italiano (1954-)",
   "sito": null,
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gilberto_Pichetto_Fratin.jpg/500px-Gilberto_Pichetto_Fratin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -12039,6 +12040,19 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "dati_insufficienti",
+  "temi_confrontabili": 0,
+  "temi_senza_cambi": 0,
+  "testo": "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ },
+ "orientamento": {
+  "etichetta": "destra",
+  "valore": 6.73,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": null,
  "aggiornato_il": "2026-10-23",
  "_foto": {
@@ -12052,6 +12066,13 @@
   "nome": "Gilberto Pichetto Fratin",
   "descr": "politico italiano (1954-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilberto%20Pichetto%20Fratin.jpg",
-  "nascita": "1954-01-04"
- }
+  "nascita": "1954-01-04",
+  "sesso": "M"
+ },
+ "sintesi": [
+  "Oggi ricopre l'incarico di ministro dell'ambiente e della sicurezza energetica (dal 12 novembre 2022).",
+  "Alla Camera ha partecipato al 3,2% delle votazioni del periodo (631 su 19.969); la mediana dei colleghi è 72,5%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 32 volte su 32 (100,0%).",
+  "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
+ ]
 }

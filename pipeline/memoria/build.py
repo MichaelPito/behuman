@@ -22,6 +22,7 @@ from pathlib import Path
 
 from . import config as cfgmod
 from .analisi import metriche
+from .analisi import sintesi as sintesimod
 from .analisi.posizioni import (
     Posizione,
     inverti,
@@ -78,6 +79,7 @@ class Contesto:
             self.senato = Senato()
         self.wd = Wikidata()
         self.votazioni: dict[str, dict] = {}
+        self.orientamenti: dict[str, dict] = {}
 
     def errore(self, soggetto: str, fonte: str, e: Exception) -> None:
         log.error("%s / %s: %s", soggetto, fonte, e)
@@ -329,6 +331,7 @@ def costruisci_politico(ctx: Contesto, pol: cfgmod.Politico, anag: dict, cariche
         "anagrafica": {
             "nascita": anag.get("nascita"),
             "morte": anag.get("morte"),
+            "sesso": anag.get("sesso"),
             "descrizione": anag.get("descr"),
             "sito": anag.get("sito"),
             "foto": (foto or {}).get("url") or commons_thumb(anag.get("foto")),
@@ -344,6 +347,8 @@ def costruisci_politico(ctx: Contesto, pol: cfgmod.Politico, anag: dict, cariche
         "posizioni": [p.to_dict() for p in sorted(posizioni, key=lambda p: p.data, reverse=True)],
         "cambi_posizione": cambi,
         "coerenza": riepilogo_coerenza(posizioni, cambi),
+        "valutazione_coerenza": sintesimod.valutazione_coerenza(riepilogo_coerenza(posizioni, cambi)),
+        "orientamento": ctx.orientamenti.get(pol.partito) or {"etichetta": None, "nota": "Indipendente: nessun partito di riferimento"},
         "note": pol.note,
         "aggiornato_il": ctx.oggi,
     }
@@ -370,6 +375,11 @@ def dati_partiti_esterni(ctx: Contesto) -> tuple[list[dict], dict[int, dict]]:
     return righe_ches, programmi
 
 
+def anni_ches(ctx: Contesto) -> set[str]:
+    """Anni delle ondate CHES da mostrare: la finestra più l'ondata precedente come base."""
+    return {str(a) for a in range(int(ctx.dal[:4]) - 3, int(ctx.oggi[:4]) + 1)}
+
+
 def costruisci_partito(ctx: Contesto, par: cfgmod.Partito, politici: list[dict], righe_ches: list[dict], programmi: dict) -> dict:
     prec = ctx.precedente("partiti", par.slug)
     al = par.attivo_fino or ctx.oggi
@@ -384,8 +394,7 @@ def costruisci_partito(ctx: Contesto, par: cfgmod.Partito, politici: list[dict],
 
     ideologia = prec.get("ideologia", {})
     if righe_ches and par.ches:
-        anni = {str(a) for a in range(int(ctx.dal[:4]) - 3, int(ctx.oggi[:4]) + 1)}  # ondata precedente inclusa come base
-        ideologia = {**ideologia, "misure": chesmod.misure_partito(righe_ches, par.ches, anni)}
+        ideologia = {**ideologia, "misure": chesmod.misure_partito(righe_ches, par.ches, anni_ches(ctx))}
     if programmi and par.programma_2022 in programmi:
         ideologia = {**ideologia, "programma_2022": programmi[par.programma_2022]}
 
@@ -407,6 +416,8 @@ def costruisci_partito(ctx: Contesto, par: cfgmod.Partito, politici: list[dict],
         "posizioni": [p.to_dict() for p in sorted(posizioni, key=lambda p: p.data, reverse=True)],
         "cambi_posizione": cambi,
         "coerenza": riepilogo_coerenza(posizioni, cambi),
+        "valutazione_coerenza": sintesimod.valutazione_coerenza(riepilogo_coerenza(posizioni, cambi)),
+        "orientamento": ctx.orientamenti.get(par.slug) or {"etichetta": None},
         "note": par.note,
         "aggiornato_il": ctx.oggi,
     }
@@ -528,6 +539,15 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
         except Exception as e:  # noqa: BLE001 - senza metadati si usa il link standard
             ctx.errore("foto", "commons", e)
 
+    # dati dei partiti e mediane prima dei politici: servono per orientamento e sintesi
+    righe_ches, programmi = dati_partiti_esterni(ctx)
+    for par in cfg.partiti:
+        prec_par = ctx.precedente("partiti", par.slug)
+        misure = chesmod.misure_partito(righe_ches, par.ches, anni_ches(ctx)) if righe_ches and par.ches else (prec_par.get("ideologia") or {}).get("misure", [])
+        ctx.orientamenti[par.slug] = sintesimod.orientamento_partito(misure)
+    med = mediane(ctx, calcola_mediane and not solo)
+    proposizioni = cfg.proposizioni()
+
     politici = []
     for pol in cfg.politici:
         prec = ctx.precedente("politici", pol.slug)
@@ -543,6 +563,7 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
             dati = costruisci_politico(ctx, pol, a, wd_cariche, partiti_wd.get(pol.wikidata) or prec.get("partiti_storico", []), foto)
             dati["_foto"] = foto
             dati["_anagrafica_wd"] = a
+            dati["sintesi"] = sintesimod.sintesi_politico(dati, med, proposizioni)
         except Exception as e:  # noqa: BLE001
             ctx.errore(pol.slug, "build", e)
             traceback.print_exc()
@@ -552,14 +573,14 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
         scrivi(out / "politici" / f"{pol.slug}.json", dati)
         politici.append(dati)
 
-    righe_ches, programmi = dati_partiti_esterni(ctx)
     partiti = []
     for par in cfg.partiti:
         dati = costruisci_partito(ctx, par, politici, righe_ches, programmi)
+        dati["sintesi"] = sintesimod.sintesi_partito(dati, proposizioni)
         scrivi(out / "partiti" / f"{par.slug}.json", dati)
         partiti.append(dati)
 
-    scrivi(out / "mediane.json", mediane(ctx, calcola_mediane and not solo))
+    scrivi(out / "mediane.json", med)
     scrivi(
         out / "politici.json",
         [
@@ -570,6 +591,9 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
                 "schieramento": p["schieramento"],
                 "partito": p["partito"],
                 "foto": p["anagrafica"].get("foto"),
+                "sesso": p["anagrafica"].get("sesso"),
+                "orientamento": (p.get("orientamento") or {}).get("etichetta"),
+                "valutazione_coerenza": p.get("valutazione_coerenza"),
                 "attivo": p["attivo"],
                 "indicatori": p["indicatori"],
                 "coerenza": p["coerenza"],
@@ -577,7 +601,7 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
             for p in politici
         ],
     )
-    scrivi(out / "partiti.json", [{k: p[k] for k in ("slug", "nome", "sigla", "schieramento", "attivo", "coerenza")} for p in partiti])
+    scrivi(out / "partiti.json", [{k: p.get(k) for k in ("slug", "nome", "sigla", "schieramento", "attivo", "coerenza", "orientamento")} for p in partiti])
     scrivi(out / "temi.json", costruisci_temi(ctx, politici, partiti))
     scrivi(out / "governi.json", cfg.governi)
     scrivi(out / "aggiornamenti.json", costruisci_aggiornamenti(ctx))

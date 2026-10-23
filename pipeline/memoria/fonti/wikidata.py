@@ -20,6 +20,7 @@ log = logging.getLogger(__name__)
 
 ENDPOINTS = ["https://query.wikidata.org/sparql", "https://qlever.dev/api/wikidata"]
 WD = "http://www.wikidata.org/entity/"
+SESSO = {"Q6581072": "F", "Q6581097": "M"}  # P21: femmina, maschio
 
 PREFIX = """PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
@@ -58,7 +59,7 @@ class Wikidata:
 
     def anagrafica(self, qids: list[str]) -> dict[str, dict]:
         rows = self._select(
-            f"""SELECT ?p ?nome ?descr ?nascita ?morte ?foto ?sito WHERE {{
+            f"""SELECT ?p ?nome ?descr ?nascita ?morte ?foto ?sito ?sesso WHERE {{
   {_values(qids)}
   OPTIONAL {{ ?p rdfs:label ?nome FILTER(LANG(?nome) = "it") }}
   OPTIONAL {{ ?p schema:description ?descr FILTER(LANG(?descr) = "it") }}
@@ -66,6 +67,7 @@ class Wikidata:
   OPTIONAL {{ ?p wdt:P570 ?morte }}
   OPTIONAL {{ ?p wdt:P18 ?foto }}
   OPTIONAL {{ ?p wdt:P856 ?sito }}
+  OPTIONAL {{ ?p wdt:P21 ?sesso }}
 }}"""
         )
         out: dict[str, dict] = {}
@@ -78,6 +80,8 @@ class Wikidata:
             for k in ("nascita", "morte"):
                 if r.get(k) and k not in d:
                     d[k] = r[k][:10]
+            if r.get("sesso") and "sesso" not in d:
+                d["sesso"] = SESSO.get(r["sesso"].removeprefix(WD))
         return out
 
     def cariche_e_partiti(self, qids: list[str], dal: str) -> tuple[dict[str, list[dict]], dict[str, list[dict]]]:

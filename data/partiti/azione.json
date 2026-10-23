@@ -253,6 +253,26 @@
   "proposizioni_con_cambi": 0,
   "cambi_totali": 0
  },
+ "valutazione_coerenza": {
+  "stato": "nessun_cambio",
+  "temi_confrontabili": 2,
+  "temi_senza_cambi": 2,
+  "temi_con_cambi": 0,
+  "testo": "Su 2 temi confrontabili: nessun cambio di posizione."
+ },
+ "orientamento": {
+  "etichetta": "centro",
+  "valore": 4.43,
+  "anno": 2024,
+  "componenti": 1,
+  "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
+ },
  "note": "Nel 2022 si è presentata in lista comune con Italia Viva; i gruppi parlamentari comuni si sono separati nel novembre 2023. Fino ad allora il voto del gruppo congiunto è attribuito a entrambi.",
- "aggiornato_il": "2026-10-23"
+ "aggiornato_il": "2026-10-23",
+ "sintesi": [
+  "Governo Draghi: maggioranza.",
+  "Governo Meloni: opposizione.",
+  "Secondo il Chapel Hill Expert Survey 2024 si colloca a centro (4,43 su una scala da 0 a 10).",
+  "Su 2 temi confrontabili: nessun cambio di posizione."
+ ]
 }
