@@ -299,3 +299,17 @@ export type IndiceDichiarazioni = {
 };
 export const dichiarazioni = (slug: string) => leggi<Dichiarazioni | null>(`dichiarazioni/${slug}.json`, null);
 export const indiceDichiarazioni = () => leggi<IndiceDichiarazioni>("dichiarazioni.json", { politici: [], discusse: [], recenti: [] });
+
+// Stati dell'iter come li scrive il Senato, in parole intere.
+const STATI: Record<string, string> = {
+  "approvato": "approvato",
+  "approvato con modificazioni": "approvato con modifiche",
+  "esame in comm.": "in esame in commissione",
+  "da assegnare": "da assegnare a una commissione",
+  "assegnato": "assegnato a una commissione",
+  "in corso di esame in commissione": "in esame in commissione",
+  "appr. def. non pubbl": "approvazione definitiva, non pubblicata come legge",
+  "appr. definit. Legge": "approvazione definitiva: è legge",
+  "in corso di esame in assemblea": "in esame in Aula",
+};
+export const statoIter = (s: string) => STATI[s] ?? STATI[s.trim()] ?? s;

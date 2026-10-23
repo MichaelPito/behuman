@@ -39,7 +39,7 @@ def regex_legge(data: str, numero: int, costituzionale: bool = False) -> str:
     """Espressione che riconosce «legge 26 giugno 2024, n. 86» nei testi."""
     y, m, d = data.split("-")
     tipo = r"legge\s+costituzionale" if costituzionale else r"legge"
-    return rf"{tipo}\s+{int(d)}°?\s+{MESI[int(m) - 1]}\s+{y},?\s*n\.\s*{numero}\b"
+    return rf"{tipo}\s+{int(d)}°?\s+{MESI[int(m) - 1]}\s+{y}\s*,?\s*n\.\s*{numero}\b"
 
 
 # ------------------------------------------------------------------ Corte costituzionale
@@ -68,6 +68,12 @@ def pronunce(anni: list[int]) -> list[dict]:
     return out
 
 
+def _iso(s: str | None) -> str | None:
+    """'03/12/2024' -> '2024-12-03'."""
+    m = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", (s or "").strip())
+    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else s
+
+
 def _pulisci(s: str) -> str:
     s = re.sub(r"&#13;|\r", " ", s or "")
     return re.sub(r"\s+", " ", s).strip()
@@ -93,7 +99,7 @@ def pronunce_su_legge(elenco: list[dict], data: str, numero: int, costituzionale
                 "numero": int(p["numero_pronuncia"]),
                 "anno": int(p["anno_pronuncia"]),
                 "tipo": "sentenza" if p.get("tipologia_pronuncia") == "S" else "ordinanza",
-                "data_deposito": p.get("data_deposito"),
+                "data_deposito": _iso(p.get("data_deposito")),
                 "ecli": p.get("ecli"),
                 "esito": esito,
                 "dispositivo": disp[:500] + ("…" if len(disp) > 500 else ""),

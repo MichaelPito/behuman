@@ -109,7 +109,8 @@ def in_pratica(l: dict) -> dict:
         ultimo = {}
         for v in finali:
             ultimo[v["camera"]] = v
-        parti = [f"{c}: {_n(v['favorevoli'])} sì, {_n(v['contrari'])} no, {_n(v['astenuti'])} astenuti ({data_it(v['data'])})" for c, v in sorted(ultimo.items())]
+        parti = [f"{c}: {_n(v['favorevoli'])} sì, {_n(v['contrari'])} no, {_n(v['astenuti'])} astenuti ({data_it(v['data'])})"
+                 for c, v in sorted(ultimo.items(), key=lambda kv: kv[1]["data"])]
         unanime = all(v["contrari"] == 0 for v in ultimo.values())
         fatti.append("Ultimo voto finale — " + "; ".join(parti) + (". Nessun voto contrario." if unanime else "."))
     return {"argomento": argomento(l), "cosa_e": cosa, "fatti": fatti}

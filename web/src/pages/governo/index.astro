@@ -2,7 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, governo, slugLegge } from "../../lib/data";
+import { dataIt, governo, slugLegge, statoIter } from "../../lib/data";
 import { u } from "../../lib/url";
 
 const g = governo();
@@ -115,7 +115,7 @@ const ESITO_CLASSE: Record<string, string> = {
                     <li data-tipo={f.ramo === "Senato" ? "partito" : undefined}>
                       <span class="when">{dataIt(f.presentato)} → {dataIt(f.data_stato)}</span>
                       <div class="what">{f.ramo} · {f.fase} {f.url ? <a href={f.url} target="_blank" rel="noopener" class="tiny">scheda</a> : null}</div>
-                      <div class="small muted">{f.stato}{v && <> · {v.favorevoli} sì, {v.contrari} no, {v.astenuti} astenuti</>}</div>
+                      <div class="small muted">{statoIter(f.stato)}{v && <> · {v.favorevoli} sì, {v.contrari} no, {v.astenuti} astenuti</>}</div>
                     </li>
                   );
                 })}

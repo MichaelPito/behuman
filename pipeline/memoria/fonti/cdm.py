@@ -118,17 +118,43 @@ def _norm(t: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
-def abbina(leggi: list[dict], sezioni: list[dict]) -> dict[str, dict]:
-    """Per ogni legge trova la sezione del comunicato più simile nella finestra temporale giusta."""
-    out = {}
+GENERICHE = set(
+    """di in e per la il lo del dello della delle dei degli a al allo alla alle ai agli le gli i da dal dalla con su sul sulla tra fra
+    nonché ed o un una uno che non materia materie disposizioni disposizione urgenti urgente misure misura ulteriori legge leggi
+    decreto recante norme norma modifiche modifica interventi intervento settore settori ambito ambiti fine fini nazionale
+    ratifica esecuzione accordo accordi convenzione protocollo governo repubblica italiana italiano tra fatto firmato emendamento
+    emendamenti relativo relativa relativi parte stato stati altro altri sensi""".split()
+)
+
+
+def _parole(t: str) -> set[str]:
+    return {w for w in _norm(t).split() if w not in GENERICHE and len(w) > 2}
+
+
+def somiglianza(titolo_legge: str, titolo_sezione: str) -> float:
+    """0..1. Serve sia la somiglianza del testo sia la condivisione delle parole che contano
+    (paesi, oggetti, settori): titoli generici come «Ratifica dell'Accordo tra…» da soli non bastano."""
+    a, b = _norm(titolo_legge), _norm(re.sub(r"^\s*\d+\.\s*", "", titolo_sezione))
+    rapporto = difflib.SequenceMatcher(None, a, b).ratio()
+    pa, pb = _parole(titolo_legge), _parole(re.sub(r"^\s*\d+\.\s*", "", titolo_sezione))
+    if not pa or not pb:
+        return rapporto if rapporto >= 0.85 else 0.0
+    comuni = len(pa & pb) / min(len(pa), len(pb))
+    if comuni < 0.6:
+        return 0.0
+    return round((rapporto + comuni) / 2, 3)
+
+
+def abbina(leggi: list[dict], sezioni: list[dict], soglia: float = 0.65) -> dict[str, dict]:
+    """Per ogni legge trova la sezione del comunicato più simile nella finestra temporale giusta.
+    Ogni sezione va al massimo a una legge (quella più simile)."""
+    candidati = []
     for l in leggi:
         rif = l.get("decreto_legge_del") or (l["iter"][0]["presentato"] if l.get("iter") else None)
         if not rif or not l.get("del_governo"):
             continue
         r = dt.date.fromisoformat(rif)
-        tl = _norm(l["titolo"])
-        migliore, punteggio = None, 0.0
-        for s in sezioni:
+        for i, s in enumerate(sezioni):
             if not s.get("data"):
                 continue
             giorni = (r - dt.date.fromisoformat(s["data"])).days
@@ -136,19 +162,25 @@ def abbina(leggi: list[dict], sezioni: list[dict]) -> dict[str, dict]:
                 continue
             if "decreto-legge" in s["tipo"] and l["tipo"] != "conversione di decreto-legge":
                 continue
-            sc = difflib.SequenceMatcher(None, tl, _norm(s["titolo"])).ratio()
-            if sc > punteggio:
-                migliore, punteggio = s, sc
-        if migliore and punteggio >= 0.6:
-            testo = migliore["testo"]
-            # salta l'elenco dei ministri proponenti: "[…] ha approvato un decreto-legge che…"
-            m = re.match(r"Il Consiglio dei [Mm]inistri,.{0,600}?(ha approvato .*)", testo)
-            if m:
-                testo = "[…] " + m.group(1)
-            if len(testo) > 900:
-                taglio = testo.rfind(". ", 0, 900)
-                testo = testo[: taglio + 1 if taglio > 300 else 900] + " […]"
-            out[l["id"]] = {**migliore, "testo": testo, "somiglianza": round(punteggio, 2)}
+            sc = somiglianza(l["titolo"], s["titolo"])
+            if sc >= soglia:
+                candidati.append((sc, l["id"], i))
+    out: dict[str, dict] = {}
+    usate: set[int] = set()
+    for sc, lid, i in sorted(candidati, reverse=True):
+        if lid in out or i in usate:
+            continue
+        usate.add(i)
+        s = sezioni[i]
+        testo = s["testo"]
+        # salta l'elenco dei ministri proponenti: "[…] ha approvato un decreto-legge che…"
+        m = re.match(r"Il Consiglio dei [Mm]inistri,.{0,600}?(ha approvato .*)", testo)
+        if m:
+            testo = "[…] " + m.group(1)
+        if len(testo) > 900:
+            taglio = testo.rfind(". ", 0, 900)
+            testo = testo[: taglio + 1 if taglio > 300 else 900] + " […]"
+        out[lid] = {**s, "titolo": re.sub(r"^\s*\d+\.\s*", "", s["titolo"]), "testo": testo, "somiglianza": sc}
     return out
 
 

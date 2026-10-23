@@ -1,7 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, governo, numeroLegge, slugLegge } from "../../lib/data";
+import { dataIt, governo, numeroLegge, slugLegge, statoIter } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -14,7 +14,7 @@ const l = g.leggi.find((x) => slugLegge(x) === Astro.params.id)!;
 type Passo = { data: string; titolo: string; dett?: string; url?: string | null; tipo?: string; voto?: (typeof l.voti)[number] };
 const passi: Passo[] = [
   ...(l.decreto_legge_del ? [{ data: l.decreto_legge_del, titolo: "Il Governo adotta il decreto-legge", dett: "Le regole si applicano dalla pubblicazione in Gazzetta Ufficiale", tipo: "partito" }] : []),
-  ...l.iter.map((f) => ({ data: f.presentato, titolo: `${f.ramo}: presentato come ${f.fase}`, dett: `Stato: ${f.stato} il ${dataIt(f.data_stato)}`, url: f.url })),
+  ...l.iter.map((f) => ({ data: f.presentato, titolo: `${f.ramo}: presentato come ${f.fase}`, dett: `Stato: ${statoIter(f.stato)} il ${dataIt(f.data_stato)}`, url: f.url })),
   ...l.voti.map((v) => ({
     data: v.data,
     titolo: `${v.camera}: ${v.tipo === "fiducia" ? "voto di fiducia" : "voto finale"} su ${v.fase}`,
