@@ -116,9 +116,153 @@
     "al": "2024-03-21"
    }
   ],
-  "fonti_verificate": []
+  "fonti_verificate": [],
+  "temi": [
+   {
+    "tema": "Unione europea",
+    "n": 42
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 39
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 24
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 23
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 20
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 19
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 18
+   },
+   {
+    "tema": "Giustizia",
+    "n": 16
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 16
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 12
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 11
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 9
+   },
+   {
+    "tema": "Sanità",
+    "n": 8
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 6
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    },
+    {
+     "tema": "Scuola e università",
+     "n": 4
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 3
+    }
+   ],
+   "2022": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Unione europea",
+     "n": 8
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 7
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Unione europea",
+     "n": 12
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 7
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 6
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Unione europea",
+     "n": 7
+    },
+    {
+     "tema": "Giustizia",
+     "n": 5
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Scuola e università",
+     "n": 6
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 6
+    },
+    {
+     "tema": "Unione europea",
+     "n": 6
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Unione europea",
+     "n": 9
+    },
+    {
+     "tema": "Scuola e università",
+     "n": 6
+    }
+   ]
+  }
  },
- "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 168 interventi nell'Aula della Camera (135.112 parole). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
+ "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 168 interventi nell'Aula della Camera (135.112 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -143,7 +287,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie signor Presidente. Lunedì scorso ricevo un WhatsApp : Lele - l'onorevole Tiscar - è morto in un incidente stradale. Nove ore dopo, ne ricevo un altro: è morto Luigi Amicone, direttore di Tempi . Nati nello stesso anno, due carissimi amici e miei carissimi amici. C'è un mistero in queste due morti, come c'è stato nelle loro vite e c'è nelle nostre vite. […]",
+   "sunto": "Lele Tiscar era un amico mio, sin dagli anni dell'università, lui a Firenze e io a Milano, accomunati da quella grande storia che è il movimento nato dal carisma di Luigi Giussani, Comunione e liberazione.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 421,
    "url": "https://www.camera.it/leg18/410?idSeduta=0582&tipo=stenografico#sed0582.stenografico.tit00050.int00190"
   },
@@ -156,7 +303,12 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. La saluto anche, è un piacere vederla qui, in questo venerdì importante per tutti noi, con il G20 che inizia. Sì, illustro l'interpellanza perché non è - saluto anche il Vice Ministro e mi fa piacere che sia qui - solo un'interpellanza di tipo tecnico, che riguarda appunto interpretazioni di norme, Agenzia delle entrate, IVA, eccetera. […]",
+   "sunto": "La direttiva europea recepita dice: fino al 2016 questo tipo di trasporto era esente da IVA, dal 2016 in poi è con IVA agevolata al 5 per cento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1522,
    "url": "https://www.camera.it/leg18/410?idSeduta=0585&tipo=stenografico#sed0585.stenografico.tit00020.sub00020.int00020"
   },
@@ -169,7 +321,11 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Ringrazio il Vice Ministro per la risposta che mi sembra molto chiara. Ho l'opportunità, nella replica, di chiarire altrettanto, perché siamo in Parlamento e quindi non stiamo dicendo parole al vento. […]",
+   "sunto": "Quindi, nella risposta del Vice Ministro, il “caso per caso” è assolutamente corretto. […] Noi abbiamo bisogno di istituzioni efficienti, serie, autorevoli che applichino certamente le norme caso per caso, ma la discrezionalità non può dipendere dalla sensibilità di un territorio rispetto all'altro.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità"
+   ],
    "parole": 1083,
    "url": "https://www.camera.it/leg18/410?idSeduta=0585&tipo=stenografico#sed0585.stenografico.tit00020.sub00020.int00060"
   },
@@ -182,7 +338,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Annunciamo l'adesione e il voto favorevole della nostra componente. Già il collega Alessandro Colucci stamattina, in dichiarazione di voto sulla fiducia, ha dato le ragioni, non solo del nostro voto di fiducia al Governo per il lavoro che sta facendo nella lotta contro la pandemia, ma anche del nostro voto favorevole al contenuto di questo decreto, cioè al merito di questo decreto. […]",
+   "sunto": "Il diritto al dissenso è un diritto fondamentale all'interno della nostra democrazia e del nostro Paese, ma anche il dissenso va esercitato con responsabilità.",
+   "temi": [],
    "parole": 1430,
    "url": "https://www.camera.it/leg18/410?idSeduta=0597&tipo=stenografico#sed0597.stenografico.tit00140.sub00020.int00200"
   },
@@ -195,7 +352,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Ministro. Abbiamo presentato questa interrogazione a risposta immediata, conoscendo non solo la sua sensibilità, ma anche il lavoro - che noi sosteniamo – che, come Ministro dello Sviluppo economico, sta facendo in questo settore importantissimo. […]",
+   "sunto": "Ma il problema è che, nonostante le rassicurazioni dell'amministratore delegato del gruppo Stellantis, prosegue, in maniera totalmente scientifica, l'eliminazione della componentistica italiana per quanto riguarda le forniture del gruppo FIAT.",
+   "temi": [],
    "parole": 415,
    "url": "https://www.camera.it/leg18/410?idSeduta=0602&tipo=stenografico#sed0602.stenografico.tit00010.sub00050.int00060"
   },
@@ -208,7 +366,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente e signor sottosegretario. Intanto, le chiedo sin d'ora, visto il poco tempo a disposizione, di poter depositare agli atti, vista l'importanza del provvedimento, il mio intervento integrale. Penso che lei me la darà questa autorizzazione. […]",
+   "sunto": "Occorre, quindi, investire in educazione, investire sui ragazzi, investire sul capitale umano e io penso che questo investimento non possa prescindere da un rapporto del sistema formativo con il sistema produttivo.",
+   "temi": [
+    "Scuola e università",
+    "Ambiente e clima"
+   ],
    "parole": 893,
    "url": "https://www.camera.it/leg18/410?idSeduta=0605&tipo=stenografico#sed0605.stenografico.tit00050.sub00010.int00140"
   },
@@ -221,7 +383,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "(Intervento in discussione sulle linee generali – A.C. 2372-A ​). Signor Presidente, onorevoli colleghi, Mi sia permesso, nello spiegare le ragioni culturali che sottostanno alla legge che come Intergruppo parlamentare per la sussidiarietà presentiamo oggi all'attenzione del Parlamento, mi sia permesso – dicevo – di citare il presidente del Consiglio Mario Draghi, il quale, non ancora investito della carica che oggi […]",
+   "sunto": "Si inserisce qui, in questo rapporto inscindibile tra educazione, formazione, realizzazione di sé attraverso il lavoro e contributo alla costruzione del bene comune, la questione delle non cognitive skills.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Scuola e università",
+    "Ambiente e clima"
+   ],
    "parole": 2107,
    "url": "https://www.camera.it/leg18/410?idSeduta=0605&tipo=stenografico#sed0605.stenografico.tit00090.int00010"
   },
@@ -234,7 +401,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Signor Presidente, signor Ministro, intervengo in maniera molto sintetica, anche per il poco tempo che abbiamo a disposizione. Condividiamo l'impostazione che lei ha dato, nella sua informativa al Parlamento, in questo momento non poteva che essere un'informativa che avesse questi contenuti. […]",
+   "sunto": "TIM, dobbiamo ricordarcelo, è una delle più grandi aziende italiane che sta sul mercato, non sta fuori dal mercato, non è un'azienda di Stato. […] Ricordo che l'occupazione non la si difende con la nazionalizzazione, l'occupazione la si difende con aziende che siano solide e che stiano sul mercato.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 503,
    "url": "https://www.camera.it/leg18/410?idSeduta=0608&tipo=stenografico#sed0608.stenografico.tit00090.sub00020.int00200"
   },
@@ -247,7 +417,13 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Dico, sin da subito, che il nostro gruppo voterà a favore di questa legge di bilancio ma, nel poco tempo che abbiamo a disposizione, mi permetto di segnalare alcune questioni che ritengo importanti. […]",
+   "sunto": "La prima riflessione la deve fare il Ministro per i Rapporti col Parlamento, perché altrimenti è meglio che non ci sia il Ministro per i Rapporti col Parlamento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Scuola e università"
+   ],
    "parole": 841,
    "url": "https://www.camera.it/leg18/410?idSeduta=0621&tipo=stenografico#sed0621.stenografico.tit00050.sub00010.int00120"
   },
@@ -260,7 +436,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. La componente Noi con l'Italia voterà convintamente a favore di questa manovra di bilancio. Signor Ministro, questa manovra di bilancio, insieme al progetto e ai fondi del PNRR, sposta l'asse, finalmente e correttamente, dal sostegno alle risorse per la crescita. […]",
+   "sunto": "È inaccettabile che i nostri insegnanti siano pagati meno rispetto alla media europea (in Germania, la media è di 55 mila euro, mentre in Italia è di 25 mila euro) e mi riferisco anche a tutte le altre risorse che possono andare in quella direzione.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 479,
    "url": "https://www.camera.it/leg18/410?idSeduta=0623&tipo=stenografico#sed0623.stenografico.tit00030.sub00020.int00080"
   },
@@ -273,7 +454,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Signor Presidente, vorrei accostare al nome e alla persona di David Sassoli un aggettivo che per primo ha ricordato qui in Aula - poi, l'hanno ripreso tanti colleghi - il segretario del Partito Democratico Enrico Letta: gentile. E lo uso proprio nel suo senso più profondo, come lo usava Dante quando parlava di Beatrice: tanto gentile e tanto onesta pare. […]",
+   "sunto": "Vorrei accostare al nome e alla persona di David Sassoli un aggettivo che per primo ha ricordato qui in Aula - poi, l'hanno ripreso tanti colleghi - il segretario del Partito Democratico Enrico Letta: gentile. […] Io ho conosciuto David Sassoli nella sua prima vita da giornalista, quando era già vicedirettore del TG1.",
+   "temi": [],
    "parole": 424,
    "url": "https://www.camera.it/leg18/410?idSeduta=0625&tipo=stenografico#sed0625.stenografico.tit00040.int00200"
   },
@@ -286,7 +468,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Diciamo subito che voteremo a favore di questa proposta di legge. Le motivazioni più specifiche le abbiamo illustrate nella discussione generale. È una proposta di legge importante, intanto, per chi l'ha presentata e cioè l'Intergruppo parlamentare per la sussidiarietà. […]",
+   "sunto": "È una proposta di legge importante, intanto, per chi l'ha presentata e cioè l'Intergruppo parlamentare per la sussidiarietà.",
+   "temi": [
+    "Scuola e università",
+    "Ambiente e clima"
+   ],
    "parole": 504,
    "url": "https://www.camera.it/leg18/410?idSeduta=0625&tipo=stenografico#sed0625.stenografico.tit00090.sub00070.int00020"
   },
@@ -299,7 +485,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Credo che quello che stiamo facendo adesso sia un momento importante da parte di tutto il Parlamento. Lo spunto, ovviamente, sono i due ordini del giorno presentati dal collega Lollobrigida e dal collega Barelli, che noi, come Noi con l'Italia-USEI, abbiamo convintamente sottoscritto. […]",
+   "sunto": "Allora la domanda che dobbiamo porci è se i 1.009 grandi elettori, che sono il soggetto che elegge il Presidente della Repubblica, devono essere messi nelle condizioni di poter esercitare il loro diritto, ognuno dei 1.009 grandi elettori.",
+   "temi": [],
    "parole": 653,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00050.sub00010.int01610"
   },
@@ -312,7 +499,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Avremmo voluto che il ministro finisse semplicemente perché aveva accennato ad un tema. La domanda era molto chiara e lei ha iniziato a risponderci: 14 Paesi europei hanno centrali nucleari. La tassonomia, cioè la classificazione degli investimenti verdi, prevede delle regole fondamentali per arrivare all'obiettivo inquinamento zero dal 2030. […]",
+   "sunto": "Entro il 2024 saranno già pronte nuove centrali nucleari di terza generazione in molti Paesi europei. […] Oggi, centrali nucleari di terza generazione che esistono e quelle future di quarta generazione danno garanzie di andare in una certa direzione.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 302,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00070.sub00080.int00060"
   },
@@ -325,7 +516,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie. Anche io ho firmato, ovviamente, la risoluzione di maggioranza. Signor Presidente, onorevoli colleghi, signora Ministra, approviamo totalmente la sua relazione, della quale condividiamo soprattutto i principi e lo spirito che l'hanno guidata in questo anno di lavoro per le riforme. […]",
+   "sunto": "L'immagine della bilancia, con cui viene tradizionalmente rappresentata la giustizia, scusate il gioco di parole, non le rende giustizia; in una società libera, la giustizia vera è qualcosa di più, è fonte di pace e la condizione per la costruzione del bene comune.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 457,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00110.sub00040.int00040"
   },
@@ -338,7 +532,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Sì, assolutamente, Presidente, anche se lei ha anticipato correttamente quello che farà, come è giusto che sia, riferendo al Presidente Fico gli interventi che stiamo facendo. Anche il sottoscritto sottolinea, dopo l'intervento del collega Valentini, che è necessaria assolutamente la convocazione rapidissima e urgente della Conferenza dei presidenti di gruppo, non tanto - lo sottolineo - perché i presidenti di gruppo […]",
+   "sunto": "Il Presidente della Camera deve ovviamente attuare questa indicazione dell'Aula e riferire immediatamente e urgentemente alla Conferenza dei capigruppo quali soluzioni la Presidenza della Camera ha identificato, in modo che, come da Regolamento, la Conferenza dei capigruppo ne prenda atto, le…",
+   "temi": [],
    "parole": 522,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00130.int00060"
   },
@@ -351,7 +546,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Io credo che questo che stiamo affrontando sia uno dei momenti più alti del dibattito e della funzione del Parlamento e che sia necessario l'ascolto, la comprensione delle ragioni l'uno dell'altro e un lavoro anche di mediazione e di assunzione di responsabilità da parte di tutti noi. […]",
+   "sunto": "La legge, in questo articolo, nelle sue finalità, è molto chiara e dice: “La presente legge disciplina la facoltà della persona affetta da una patologia irreversibile e con prognosi infausta o da una condizione clinica irreversibile”. […] Qui stiamo dicendo che questa legge dà diritto ad una persona di chiedere allo Stato di toglierle la vita… …perché si è stabilita una condizione clinica irreversibile.",
+   "temi": [],
    "parole": 567,
    "url": "https://www.camera.it/leg18/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00150.sub00010.int00340"
   },
@@ -364,7 +560,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, Presidente. Signor Ministro, la sfida che abbiamo davanti è pensare il domani e questo domani ce lo siamo traguardato, col Governo, col Parlamento, al 2026, non perché il 2026 sia il domani ma perché è l'inizio del futuro che vogliamo costruire. […]",
+   "sunto": "La sfida che abbiamo davanti è pensare il domani e questo domani ce lo siamo traguardato, col Governo, col Parlamento, al 2026, non perché il 2026 sia il domani ma perché è l'inizio del futuro che vogliamo costruire.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg18/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00070.sub00020.int00380"
   },
@@ -377,7 +577,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, lei ha e avrà, anche dopo l'intervento che ha fatto qui, in Aula, il nostro sostegno senza se e senza ma. Nel cuore dell'Europa vi è una guerra, provocata da un attacco ingiustificabile e intollerabile, che distrugge un tessuto sociale di un Paese, che viola qualunque regola internazionale, che costringe famiglie e bambini a rifugiarsi nei sotterranei dopo l […]",
+   "sunto": "Nel cuore dell'Europa vi è una guerra, provocata da un attacco ingiustificabile e intollerabile, che distrugge un tessuto sociale di un Paese, che viola qualunque regola internazionale, che costringe famiglie e bambini a rifugiarsi nei sotterranei dopo l'urlo delle sirene.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg18/410?idSeduta=0646&tipo=stenografico#sed0646.stenografico.tit00020.sub00020.int00240"
   },
@@ -390,7 +593,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, io provo ad andare in controtendenza, nel senso che è evidente che, laddove ci sono truffe di 4 miliardi, che derivino dal 110 per cento, dal 90 per cento, dal 50 per cento, dall'ecobonus, piuttosto che da altro, è compito e dovere dello Stato fare una riflessione, perché le risorse sono dei cittadini. […]",
+   "sunto": "Io provo ad andare in controtendenza, nel senso che è evidente che, laddove ci sono truffe di 4 miliardi, che derivino dal 110 per cento, dal 90 per cento, dal 50 per cento, dall'ecobonus, piuttosto che da altro, è compito e dovere dello Stato fare una riflessione, perché le risorse sono dei…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg18/410?idSeduta=0649&tipo=stenografico#sed0649.stenografico.tit00120.sub00020.int00340"
   },
@@ -403,7 +609,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, condividiamo l'impostazione che lei ha dato nella risposta al nostro question time . Lo ha sottolineato, abbiamo un'altra grande sfida davanti, ancora più grave o altrettanto importante quanto quella che stiamo portando avanti contro il COVID. […]",
+   "sunto": "La guerra inaccettabile e intollerabile nel cuore dell'Europa, come era previsto, grazie anche, come ha detto lei, alla risposta unitaria dell'Europa, dell'Italia e dell'Occidente, ha delle conseguenze. […] Proprio per questo c'è bisogno di unità, di unità delle istituzioni italiane, di unità delle istituzioni europee, di chiarezza e certezza nelle risposte che si danno, anche quelle più immediate, quelle più brevi.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 464,
    "url": "https://www.camera.it/leg18/410?idSeduta=0653&tipo=stenografico#sed0653.stenografico.tit00070.sub00070.int00060"
   },
@@ -416,7 +626,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Signor Presidente, onorevoli colleghi, oggi voteremo contro questo provvedimento, trattandosi di un argomento importante, che chiama in causa direttamente la vita e la morte delle persone e sul quale le Commissioni giustizia e affari sociali sono state protagoniste, anche qui in Aula, di un dialogo importante tra le diverse posizioni. […]",
+   "sunto": "Oggi voteremo contro questo provvedimento, trattandosi di un argomento importante, che chiama in causa direttamente la vita e la morte delle persone e sul quale le Commissioni giustizia e affari sociali sono state protagoniste, anche qui in Aula, di un dialogo importante tra le diverse posizioni.",
+   "temi": [],
    "parole": 867,
    "url": "https://www.camera.it/leg18/410?idSeduta=0654&tipo=stenografico#sed0654.stenografico.tit00050.sub00070.int00160"
   },
@@ -429,7 +640,11 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Il sottosegretario Scalfarotto è stato molto corretto nella sua esposizione, sottolineando che l'interpellanza che abbiamo presentato aveva un ampio spettro e affrontava tutta una serie di questioni che, purtroppo, drammaticamente emerge anche con l'aumento del disagio sociale, anche con l'aumento delle conseguenze di una grande guerra che abbiamo condotto in due anni contro un nemico scono […]",
+   "sunto": "Quando si chiede sicurezza, quando si chiede riqualificazione di un luogo, quando si chiede il rispetto della legge, il diritto ad avere una casa popolare - perché si ha diritto ad averla e non perché magari qualcuno ti passa davanti con la violenza e con la forza, magari mettendo davanti anche…",
+   "temi": [
+    "Esteri e difesa",
+    "Casa e infrastrutture"
+   ],
    "parole": 1428,
    "url": "https://www.camera.it/leg18/410?idSeduta=0660&tipo=stenografico#sed0660.stenografico.tit00030.sub00010.int00060"
   },
@@ -442,7 +657,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Vede, signor Ministro, la competenza è una condizione necessaria per chi fa il Ministro, e lei di competenza ne ha tanta e la sta dimostrando, ma non è sufficiente per chi fa il Ministro o per chi si assume la responsabilità di rappresentare un Paese, cioè fare politica (quella con la “p” maiuscola). […]",
+   "sunto": "Infatti, oltre alla competenza occorre il coraggio: il coraggio di assumersi le responsabilità; il coraggio da Ministro, come ha fatto lei, di dire che se una cosa non va allora non va e di usare le parole e i termini che lei ha usato, assumendosene la responsabilità, quando in un'intervista ha…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 471,
    "url": "https://www.camera.it/leg18/410?idSeduta=0662&tipo=stenografico#sed0662.stenografico.tit00070.sub00020.int00260"
   },
@@ -455,7 +675,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, il nostro voto sarà convintamente favorevole alla risoluzione di maggioranza. Nel brevissimo tempo a mia disposizione sono due i punti che voglio toccare, che lei ha già ripreso con grande forza. Lo ha detto con forza e chiarezza: il primo nostro obiettivo è la cessazione delle ostilità, che è la premessa e la condizione per le vere trattative diplomatiche. […]",
+   "sunto": "Diceva Giovanni Paolo II, a proposito di un'altra guerra, che nella storia la guerra precede la pace, ma per evitare la guerra occorre la pace. […] È importantissima, in questo momento, la coesione dei Paesi dell'Unione ed è in virtù di questa storia di pace e di crescita, lunga 70 anni, che in questo percorso, con i tempi necessari, venga accolto un altro grande Paese come l'Ucraina.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 382,
    "url": "https://www.camera.it/leg18/410?idSeduta=0663&tipo=stenografico#sed0663.stenografico.tit00040.sub00010.int00040"
   },
@@ -468,7 +691,11 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Nel poco tempo a disposizione, dobbiamo guardare a questo Documento di economia e finanza con molto realismo - lo diceva la collega Lucaselli – e, per essere realisti, bisogna capire che la sfida che abbiamo davanti, oggi, è ancora più forte e ancora più difficile di quella che abbiamo avuto con il lockdown e con la lotta alla pandemia. […]",
+   "sunto": "Famiglie e imprese - i due pilastri della crescita, dello sviluppo e della coesione sociale - rischiano ancora una volta e ancora di più, dopo un anno e mezzo di lotta difficile contro un virus sconosciuto, di essere messe in crisi.",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00020.sub00010.int00140"
   },
@@ -481,7 +708,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente, signor Ministro, onorevoli colleghi, come premessa alle ragioni per cui voteremo “sì”, insieme ai deputati di Noi con l'Italia-USEI, alla riforma dell'ordinamento giudiziario, vorrei fare un augurio al Parlamento: mi auguro che non dobbiamo assistere al triste e vergognoso spettacolo di un potere dello Stato che sciopera contro un altro potere dello Stato . […]",
+   "sunto": "Nel giudizio complessivamente favorevole a questa riforma – e, francamente, non capisco chi la avversa perché è troppo timida, la politica è l'arte del possibile, non la pura testimonianza di posizioni indisponibili a compromessi positivi -, vorrei soffermarmi su un punto che ritengo molto…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 579,
    "url": "https://www.camera.it/leg18/410?idSeduta=0682&tipo=stenografico#sed0682.stenografico.tit00080.sub00020.int00060"
   },
@@ -494,7 +724,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Ha fatto bene, Ministro, a ricordare l'intervento con cui il Governo ha stanziato, nel 2022, 14,7 miliardi di euro ma, Ministro, credo concordi con noi sul fatto che lo scenario che abbiamo davanti oggi potrebbe rischiare - uso il condizionale ma ormai i segnali sono preoccupanti - di trasformarsi in una crisi ancora più strutturale e più radicale di quella che abbiamo affrontato durante il […]",
+   "sunto": "Ha fatto bene, Ministro, a ricordare l'intervento con cui il Governo ha stanziato, nel 2022, 14,7 miliardi di euro ma, Ministro, credo concordi con noi sul fatto che lo scenario che abbiamo davanti oggi potrebbe rischiare - uso il condizionale ma ormai i segnali sono preoccupanti - di…",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 449,
    "url": "https://www.camera.it/leg18/410?idSeduta=0683&tipo=stenografico#sed0683.stenografico.tit00070.sub00020.int00080"
   },
@@ -507,7 +740,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente, intanto per la generosità, per avermi dato un minuto in più. Ovviamente, sa quanto le sono grato. Io credo, signor Presidente, onorevoli colleghi, che abbia ragione la collega Meloni a dire che questa rischia di essere un'opportunità sprecata, perché, finalmente, ci ritroviamo qui dopo aver fatto la peggiore riforma costituzionale che potevamo fare nella storia di questa legislatura con la […]",
+   "sunto": "Mi permetta una parentesi la collega del MoVimento 5 Stelle: chi è entrato 5 anni fa in questo Parlamento perché sentenziava, teorizzava il rapporto diretto tra cittadino e istituzione, oggi ha paura dell'elezione diretta del Presidente della Repubblica da parte dei cittadini .",
+   "temi": [],
    "parole": 576,
    "url": "https://www.camera.it/leg18/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00090.sub00010.int00160"
   },
@@ -520,7 +754,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, i deputati di Noi con l'Italia-USEI voteranno convintamente “sì” all'approvazione del decreto posto oggi alla nostra approvazione, il cosiddetto “decreto Ucraina” sulle misure volte ad attenuare le conseguenze economiche sulle famiglie, sulle imprese e su numerosi settori produttivi del nostro Paese di questa guerra senza ragioni. Voteremo “sì” per due motivi. […]",
+   "sunto": "Non ci sarebbe stato, ovviamente, un “decreto Taglia prezzi” di aiuto e di sostegno a famiglie ed imprese, se l'Italia, insieme all'Europa e all'Occidente, non si fosse assunta quella grande responsabilità di capire che non erano in gioco solo la libertà di un popolo e la difesa del confine di…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1485,
    "url": "https://www.camera.it/leg18/410?idSeduta=0697&tipo=stenografico#sed0697.stenografico.tit00050.sub00010.int00080"
   },
@@ -533,7 +772,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, cari colleghi, la maturità di una classe politica si misura nei momenti di crisi e nei momenti di crisi si dimostra sapendo scegliere tra il coraggio e la paura, tra la responsabilità di prendere decisioni nel merito - c'è un aggredito e un aggressore, c'è chi ha violato le regole internazionali - e il puro inseguimento del consenso. […]",
+   "sunto": "La maturità di una classe politica si misura nei momenti di crisi e nei momenti di crisi si dimostra sapendo scegliere tra il coraggio e la paura, tra la responsabilità di prendere decisioni nel merito - c'è un aggredito e un aggressore, c'è chi ha violato le regole internazionali - e il puro…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 356,
    "url": "https://www.camera.it/leg18/410?idSeduta=0697&tipo=stenografico#sed0697.stenografico.tit00060.sub00020.int00280"
   },
@@ -546,7 +788,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, ho ascoltato la sua relazione e l'approvo e, con me, i deputati di Noi con l'Italia, e lo facciamo, oltre che per gli argomenti da lei illustrati e che condividiamo, soprattutto, per un inciso che lei ha inserito nel suo discorso quando ha detto che il Governo italiano, insieme ai partner dell'Unione europea e del G7, intende continuare a sostenere l'Ucraina […]",
+   "sunto": "Ho ascoltato la sua relazione e l'approvo e, con me, i deputati di Noi con l'Italia, e lo facciamo, oltre che per gli argomenti da lei illustrati e che condividiamo, soprattutto, per un inciso che lei ha inserito nel suo discorso quando ha detto che il Governo italiano, insieme ai partner…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 423,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00030.sub00020.int00480"
   },
@@ -559,7 +805,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Signor Presidente, voglio chiedere al Governo, che, attraverso il sottosegretario Amendola – che, tra l'altro, ho l'occasione di ringraziare, credo a nome di tutti, per il lavoro che in queste settimane ha fatto -, ha espresso correttamente i pareri sulle risoluzioni presentate, di provare a verificare, sulla risoluzione Lollobrigida ed altri n. […]",
+   "sunto": "Capisco che ogni gruppo parlamentare possa presentare la propria mozione o risoluzione – noi, ovviamente, confermiamo la compattezza sulla risoluzione di maggioranza e ho ringraziato, non a caso, il sottosegretario Amendola -, ma è imbarazzante un voto del Parlamento negativo sul complesso di…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 320,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00050.sub00010.int00500"
   },
@@ -572,7 +821,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Grazie, signor Presidente e signor Ministro. Mi sembra che la questione posta sia una delle questioni strategiche fondamentali che riguardano non solo il passaggio difficile della transizione ecologica ma anche la sfida industriale, di produzione industriale che abbiamo in questo periodo. […]",
+   "sunto": "Mi sembra che la questione posta sia una delle questioni strategiche fondamentali che riguardano non solo il passaggio difficile della transizione ecologica ma anche la sfida industriale, di produzione industriale che abbiamo in questo periodo.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 348,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00060.sub00050.int00060"
   },
@@ -585,7 +837,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "M-NCI-USEI-R-AC",
-   "estratto": "Intanto, grazie, signor Presidente, per la sua grande cortesia istituzionale. Già l'onorevole Sgarbi, nel ricordo del collega Francesco Nucara, ha sottolineato la differenza di estrazione culturale tra me, che sono cattolico popolare, milanese, radicato nella Brianza iperproduttiva e figlio della Seconda Repubblica, e Francesco Nucara, laico, laicissimo, meridionale, meridionalista, radicato e legato alla sua Calabri […]",
+   "sunto": "Già l'onorevole Sgarbi, nel ricordo del collega Francesco Nucara, ha sottolineato la differenza di estrazione culturale tra me, che sono cattolico popolare, milanese, radicato nella Brianza iperproduttiva e figlio della Seconda Repubblica, e Francesco Nucara, laico, laicissimo, meridionale,…",
+   "temi": [],
    "parole": 385,
    "url": "https://www.camera.it/leg18/410?idSeduta=0725&tipo=stenografico#sed0725.stenografico.tit00080.int00190"
   },
@@ -598,7 +851,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M-NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, signor Presidente del Consiglio, i deputati di Noi Moderati-MAIE voteranno la fiducia al Governo. Lo faranno convintamente, perché siamo parte della coalizione che ha vinto le elezioni con un suo programma unitario e sul quale abbiamo chiesto il voto agli italiani. Gli italiani hanno premiato questa capacità programmatica e di unità. […]",
+   "sunto": "Insieme abbiamo fatto nascere il Governo, insieme dobbiamo lavorare perché realizzi ciò per cui gli italiani ci hanno dato la responsabilità di guidare il Paese, in questa grave contingenza internazionale ed economica. […] Politiche di conciliazione lavoro e famiglia per le donne, soprattutto per le madri, politiche fiscali che permettano di detrarre tutto ciò che una famiglia investe.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 821,
    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00080"
   },
@@ -611,7 +870,15 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Innanzitutto, rivolgo i migliori auguri al Governo e al sottosegretario per l'Economia per l'inizio di questa nuova legislatura. Il provvedimento che stiamo per votare contiene l'aggiornamento delle previsioni economiche di finanza pubblica del quadro economico grazie all'aggiornamento degli obiettivi programmatici e ci dà un quadro realistico della situazione in cui la nostra economia si v […]",
+   "sunto": "Ma che ce ne facciamo delle risorse che l'Europa ci mette a disposizione, se le nostre imprese falliscono o chiudono perché non riescono ad affrontare, al Nord come al Sud, la sfida del caro energia o la sfida del caro delle materie prime?",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1450,
    "url": "https://www.camera.it/leg19/410?idSeduta=0008&tipo=stenografico#sed0008.stenografico.tit00050.sub00010.int00160"
   },
@@ -624,7 +891,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro dell'Interno, non è la prima volta che in questo Parlamento, con Governi diversi affrontiamo, o attraverso informative o attraverso un dibattito parlamentare, la questione drammatica ed epocale della gestione dei flussi migratori. […]",
+   "sunto": "È stato detto con chiarezza - e credo che questo dovremmo condividerlo tutti, maggioranza e opposizione -: tutela della dignità umana, il Ministro dell'Interno l'ha ripetuto più volte e dall'altra parte (non “ma” dall'altra parte) la sicurezza e la difesa dei confini, dei confini non solo…",
+   "temi": [
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1416,
    "url": "https://www.camera.it/leg19/410?idSeduta=0010&tipo=stenografico#sed0010.stenografico.tit00070.sub00020.int00160"
   },
@@ -637,7 +909,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, dico, anche a nome del nostro gruppo Noi Moderati, che siamo soddisfatti della sua risposta, anche perché la chiarezza di una posizione politica dovrebbe essere innanzitutto un pregio per tutti i rappresentanti politici qui in questo Parlamento. […]",
+   "sunto": "Diciamo che la carne sintetica sarà il primo passo, se non alziamo la guardia tutti, per l'olio sintetico e per il vino sintetico, cioè per tutto ciò che è investimento in ricerca non a favore dell'uomo, ma a favore della speculazione. […] Quello che sembra non c'entrare con il cibo sintetico, invece, rischia di diventare il cavallo di Troia per far passare il cibo sintetico nel nostro Paese.",
+   "temi": [],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00040.sub00060.int00060"
   },
@@ -650,7 +923,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Stay tuned , rimani sintonizzato; così Roberto Maroni, un uomo politico – pensate, in politica, poi, può nascere anche una grande amicizia - concludeva la sua rubrica che ormai da tanto tempo teneva su Il Foglio . Autoironicamente l'aveva intitolata “ Barbari Foglianti ”. […]",
+   "sunto": "Stay tuned , rimani sintonizzato; così Roberto Maroni, un uomo politico – pensate, in politica, poi, può nascere anche una grande amicizia - concludeva la sua rubrica che ormai da tanto tempo teneva su Il Foglio .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 746,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00090.int00160"
   },
@@ -663,7 +939,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. L'interrogazione è molto chiara, il PNRR è ormai noto non solo a noi che siamo qui in Parlamento, ma a tutti coloro che ci ascoltano. È lo strumento strategico fondamentale per rilanciare il nostro Paese nei prossimi anni. […]",
+   "sunto": "Di fronte a un'opera fondamentale e strategica inserita nel PNRR e quindi ritenuta di interesse nazionale, di fronte al fatto che questa opera, il Nodo ferroviario di Bari, abbia ricevuto parere positivo dalla conferenza dei servizi, parere positivo da parte della sovrintendenza, sia stata…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 221,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00030.int00020"
   },
@@ -676,7 +955,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Dico a nome di tutto il gruppo Noi Moderati che siamo soddisfatti della risposta che il Ministro Fitto ci ha dato. Siamo soddisfatti non perché è già attuato il quanto, ma perché indica il metodo e la preoccupazione giusta. […]",
+   "sunto": "Dico a nome di tutto il gruppo Noi Moderati che siamo soddisfatti della risposta che il Ministro Fitto ci ha dato. […] L'esperienza del Ministro Fitto è tale che vi è l'attenzione a capire che un conto sono le risorse appostate a bilancio, un conto sono i soldi ricevuti, un altro ancora è la realizzazione di questi progetti.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00030.int00080"
   },
@@ -689,7 +971,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, ha ragione lei quando più volte nel suo intervento e nella replica ha detto che sui temi oggetto della nostra discussione oggi in questo Parlamento - la guerra nel cuore dell'Europa, che continua ad esserci sempre più drammatica dopo otto mesi, le politiche energetiche, che sono la base del benessere di una Nazione e di una comunità, nonché la questione medi […]",
+   "sunto": "Ha ragione lei quando più volte nel suo intervento e nella replica ha detto che sui temi oggetto della nostra discussione oggi in questo Parlamento - la guerra nel cuore dell'Europa, che continua ad esserci sempre più drammatica dopo otto mesi, le politiche energetiche, che sono la base del…",
+   "temi": [
+    "Immigrazione",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1439,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00080"
   },
@@ -702,7 +991,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, Presidente…",
+   "sunto": "Grazie, Presidente…",
+   "temi": [],
    "parole": 2,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00050.int00160"
   },
@@ -715,7 +1005,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Voglio farle la richiesta di poter sottoporre al voto dell'Aula la seduta fiume, di modo che la seduta possa ininterrottamente proseguire sino alla conclusione di questo provvedimento . Questa richiesta è collegata ed è motivata esattamente alle osservazioni della collega Serracchiani, ma anche alla risposta che lei ha dato. […]",
+   "sunto": "Voglio farle la richiesta di poter sottoporre al voto dell'Aula la seduta fiume, di modo che la seduta possa ininterrottamente proseguire sino alla conclusione di questo provvedimento .",
+   "temi": [],
    "parole": 372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00060.int00020"
   },
@@ -728,7 +1019,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, come gruppo Noi Moderati abbiamo fortemente apprezzato la scelta fatta dalla Presidenza, anche su richiesta delle opposizioni, di avere un'informativa urgente del Ministro della Salute al Parlamento, prima al Senato e poi alla Camera, perché è esattamente questa la caratteristica delle informative urgenti. […]",
+   "sunto": "La Cina ha sbagliato, perché ha scelto la strada della restrizione e non la strada della prevenzione e la prevenzione ha una caratteristica fondamentale, quella dell'appello alla responsabilità, alla libertà e alla coscienza di tutti i cittadini (Applausi dei deputati del gruppo applausi Noi…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 927,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00080.sub00020.int00250"
   },
@@ -741,7 +1035,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Già altri colleghi hanno ricordato l'elenco degli incarichi e delle responsabilità di Franco Frattini come servitore dello Stato e come protagonista della politica lo ha ricordato. È stato giovane segretario della Federazione giovanile socialista italiana, è stato uno dei protagonisti dell'azione politica di Forza Italia, e, quindi, non lo ripeterò, ma dice quanto Franco Frattini sia stato […]",
+   "sunto": "Già altri colleghi hanno ricordato l'elenco degli incarichi e delle responsabilità di Franco Frattini come servitore dello Stato e come protagonista della politica lo ha ricordato.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 522,
    "url": "https://www.camera.it/leg19/410?idSeduta=0037&tipo=stenografico#sed0037.stenografico.tit00040.int00170"
   },
@@ -754,7 +1051,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Vice Ministro - e, per sua interposta persona, grazie anche al signor Ministro -, dopo la relazione del Ministro della Giustizia e la sua replica, da parte del nostro gruppo, Noi Moderati, è talmente condivisibile quanto ha detto che ci sarebbe poco da aggiungere. […]",
+   "sunto": "Ma, essendo questa la prima relazione di un inizio nuovo sullo stato della giustizia, di un inizio di una nuova legislatura, la sfida che abbiamo davanti non è solo quella di indicare un programma, di indicare una strada e di fissare gli obiettivi, ma di vincere la sfida, finalmente, di…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1726,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00080"
   },
@@ -767,7 +1069,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, Presidente. Non ritiriamo l'emendamento in questione, tanto credo che si voterà il mantenimento dell'articolo. Vorrei spiegare la ragione per cui la componente Noi Moderati ha presentato quest'emendamento soppressivo dell'articolo 7, facendo una premessa, che poi sarà con chiarezza esplicitata, in dichiarazione di voto, dall'onorevole Cavo. […]",
+   "sunto": "Già con l'articolo 3, comma 6, viene rafforzato il giusto valore del parere di congruità dell'ordine professionale. […] Possiamo rafforzare un principio, come abbiamo fatto con l'articolo 3, comma 6, e lo abbiamo fatto con forza, l'abbiamo voluto, ma non possiamo introdurre un articolo chiaro e specifico che, addirittura nel titolo, attribuisce al parere di congruità efficacia di titolo esecutivo.",
+   "temi": [],
    "parole": 754,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00030.sub00080.int00050"
   },
@@ -780,7 +1083,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente, e grazie, signor Ministro. Lei sa quanto l'intera coalizione di centrodestra ed il gruppo Noi Moderati siano sensibili a questi temi. Come ha appena ricordato, l'investimento in infrastrutture ha un doppio valore: quello di superare un gap fondamentale nel collegamento tra i territori per rendere competitiva la nostra impresa e quello di creare valore aggiunto, come lei ha ricordato, dando […]",
+   "sunto": "Come ha appena ricordato, l'investimento in infrastrutture ha un doppio valore: quello di superare un gap fondamentale nel collegamento tra i territori per rendere competitiva la nostra impresa e quello di creare valore aggiunto, come lei ha ricordato, dando lavoro e producendo ricchezza.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00040.int00060"
   },
@@ -793,7 +1099,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro dell'Interno, siamo alla conclusione del dibattito sulla sua informativa. L'essere alla fine di questo dibattito, dopo aver ascoltato la sua relazione puntuale e autorevole, ci permette, da una parte, di riconfermare la stima e la fiducia del nostro gruppo Noi Moderati a lei, al Governo e al suo operato. […]",
+   "sunto": "L'Italia è sempre stata questo in tutti questi anni, ha sempre avuto questa concezione ed è sempre stata la nostra forza, in Italia e in Europa.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Casa e infrastrutture"
+   ],
    "parole": 1287,
    "url": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00040.sub00020.int00240"
   },
@@ -806,7 +1118,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, siamo soddisfatti della linea che lei qui, e non solo qui, ha illustrato riguardo a questo tema, che coinvolge tutti ed è epocale. Mi permetta di approfittare, da presidente del mio gruppo parlamentare, Noi Moderati, ma credo da persona che ha a cuore, come lei e come tutti noi, maggioranza e opposizione, non solo salvare le vite, ma cercare di dare risposte […]",
+   "sunto": "E mi perdoni, avendo vissuto io stesso, da Ministro dei Trasporti, una tragedia ancora più grave di quella che, in questo momento, abbiamo vissuto tutti, penso alle oltre 300 bare bianche di Lampedusa nel 2013, credo sia non degna di questo Parlamento la ricerca del colpevole ad ogni costo…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 530,
    "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00060.int00080"
   },
@@ -819,7 +1135,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, signor Presidente del Consiglio, dico subito che il gruppo di Noi Moderati voterà con convinzione a favore sulla risoluzione di maggioranza e approva la relazione del Presidente del Consiglio. Però, l'occasione della dichiarazione di voto è opportuna per noi per sottolineare alcune questioni che riteniamo fondamentali, facendo una premessa (lo dico in quest'Aula, nel luogo che si chiama Parlamento) […]",
+   "sunto": "Abbiamo dinanzi le sfide per costruire il futuro non solo dell'Italia, ma anche dell'Europa. […] La politica, quella con la “P” maiuscola, che questo luogo rappresenta, il Parlamento, ha le due strade davanti che vanno sempre di pari passo: la risposta immediata, in tempi brevi, ai problemi che abbiamo davanti, dall'immigrazione alla guerra, alle sfide dell'economia, ma, dall'altra parte,…",
+   "temi": [
+    "Immigrazione",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 1608,
    "url": "https://www.camera.it/leg19/410?idSeduta=0073&tipo=stenografico#sed0073.stenografico.tit00040.sub00010.int00080"
   },
@@ -832,7 +1155,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, siamo molto soddisfatti della risposta e anche del fatto che questa interrogazione è una opportunità per chiarire e rispondere a polemiche inutili e strumentali. Nel nostro Paese ci si scandalizza troppo quando qualcuno, in particolare un Ministro o un politico, pone una questione che dovrebbe riguardare tutti e che dovrebbe dare a tutti grande responsabilità. […]",
+   "sunto": "La seconda questione: tanto più che la dignità è un lavoro, ha fatto bene a sottolineare la dignità del lavoro agricolo. […] Solo i soloni o gli intellettuali che le hanno risposto non sanno che, per esempio, c'è una grande attenzione da parte dei giovani al lavoro agricolo, non perché sia un lavoro umiliante, ma perché il lavoro agricolo - tra l'altro, ciò è relativo proprio alla sostenibilità, alla costruzione, alla…",
+   "temi": [],
    "parole": 487,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00080.int00060"
   },
@@ -845,7 +1169,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente, e grazie, signor Ministro. Siamo soddisfatti della sua risposta. La sua risposta è il migliore atto che si possa avere di fronte a tutte le polemiche inutili e strumentali a cui assistiamo in questi giorni. […]",
+   "sunto": "Il Ministro dell'Agricoltura Lollobrigida ci ha detto - e tra l'altro l'ha sottolineato anche ieri - che abbiamo bisogno di 100.000 persone nel settore dell'agricoltura.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00060.int00060"
   },
@@ -858,7 +1185,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, le dico subito, a nome del nostro gruppo Noi Moderati, che la sua relazione al Parlamento ci ha soddisfatto nel merito e nell'impostazione che lei ha voluto dare. Ricordo, lo ricordo a me stesso, ma anche ai colleghi che sono intervenuti, che quella del PNRR è una sfida che riguarda tutti e ha fatto bene il Ministro Fitto, alla fine della ricostruzione del lavoro di questi […]",
+   "sunto": "Poi, il Governo Draghi, che aveva confermato anche la scelta, che noi tutti avevamo voluto, di prendere tutte le risorse a disposizione, sia quelle a debito che quelle a fondo perduto.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1285,
    "url": "https://www.camera.it/leg19/410?idSeduta=0092&tipo=stenografico#sed0092.stenografico.tit00110.sub00010.int00300"
   },
@@ -871,7 +1204,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, Presidente. Mi sbracciavo dopo l'intervento del collega Foti perché anche il nostro gruppo intervenisse. È successo in altri casi, ci sono precedenti in cui il Parlamento si è trovato in una situazione anche molto grave di responsabilità. […]",
+   "sunto": "Credo che la cosa migliore - proprio per decidere come proseguire non solo nel merito delle comunicazioni che il Governo ci farà sul tema dello scostamento e poi del nuovo DEF, che immagino sarà presentato, ma anche come proseguire sul resto - sia la convocazione urgente di una Conferenza dei…",
+   "temi": [],
    "parole": 175,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00100.int00200"
   },
@@ -884,7 +1218,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, siamo qui, in diretta televisiva, per votare e approvare - lo dico con molta chiarezza, perché li voteremo e li approveremo - il Documento di economica e finanza e lo scostamento di bilancio. […]",
+   "sunto": "C'è una grande lezione che deriva da quello che è accaduto ieri: la responsabilità di chi governa, la responsabilità della maggioranza sono fondamentali.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1575,
    "url": "https://www.camera.it/leg19/410?idSeduta=0094&tipo=stenografico#sed0094.stenografico.tit00040.sub00010.int00060"
   },
@@ -897,7 +1236,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Facciamo bene, qui in Parlamento, a ricordare, a 100 anni dalla nascita, la figura di don Milani, perché don Lorenzo, sicuramente, è stato un uomo scomodo, soprattutto perché difficile da ricondurre a schemi di parte. Ma la sua è una buona scomodità, perché ci fa pensare e ci costringe a non dare nulla per scontato. È un uomo che non ci lascia tranquilli. […]",
+   "sunto": "Facciamo bene, qui in Parlamento, a ricordare, a 100 anni dalla nascita, la figura di don Milani, perché don Lorenzo, sicuramente, è stato un uomo scomodo, soprattutto perché difficile da ricondurre a schemi di parte. […] Don Milani li conosceva uno ad uno, i suoi ragazzi. […] Don Milani lo spiega nella sua autodifesa al processo intentatogli sul problema dell'obiezione di coscienza.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 886,
    "url": "https://www.camera.it/leg19/410?idSeduta=0111&tipo=stenografico#sed0111.stenografico.tit00060.int00160"
   },
@@ -910,7 +1252,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Ministro. Ci fa molto piacere che lei abbia messo tra le attività del suo Ministero una priorità come quella che abbiamo esaminato oggi con le due interrogazioni che le sono state rivolte, perché - ha fatto bene a sottolinearlo e noi lo condividiamo - la priorità delle priorità è salvare le vite umane e, purtroppo, quel dato che lei ha citato è ancora drammatico. […]",
+   "sunto": "Solo il comune di Milano ha incassato, in un anno, 151 milioni di euro per multe, con un bilancio di 3 miliardi di euro. […] Il secondo dato fondamentale, che è impressionante - ovviamente sugli autovelox ha fatto bene a intervenire, - è quello legato al fatto - e nella revisione del codice della strada sono sicuro che lei interverrà anche su questo - che non si mette il cittadino nelle condizioni di poter utilizzare…",
+   "temi": [],
    "parole": 420,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00020.int00060"
   },
@@ -923,7 +1266,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Prima di affrontare, com'è giusto che sia, in questa commemorazione, il lascito politico di Silvio Berlusconi, si debba a Silvio Berlusconi, da parte personale e da parte, credo, di tutto il Parlamento, come è stato fatto, un grazie. […]",
+   "sunto": "Prima di affrontare, com'è giusto che sia, in questa commemorazione, il lascito politico di Silvio Berlusconi, si debba a Silvio Berlusconi, da parte personale e da parte, credo, di tutto il Parlamento, come è stato fatto, un grazie. […] Credo che il contributo di Silvio Berlusconi si possa definire in due parole: essere stato un grande leader politico ed essere stato un grande statista.",
+   "temi": [],
    "parole": 1223,
    "url": "https://www.camera.it/leg19/410?idSeduta=0124&tipo=stenografico#sed0124.stenografico.tit00060.int00150"
   },
@@ -936,7 +1280,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, diciamo, sin da subito, che il gruppo Noi Moderati ha condiviso la sua relazione, voterà convintamente a favore sulla mozione di maggioranza e continuerà, come ha fatto in tutti questi mesi, a dare il suo contributo positivo e propositivo a sostegno dell'azione del Governo. […]",
+   "sunto": "Ha detto con chiarezza - e noi lo condividiamo - che l'Europa deve ribadire che la difesa dei confini dell'Italia, che sono i confini esterni dell'Europa, è fondamentale per quell'idea di Unione europea che è nata e che l'immigrazione illegale e la lotta agli schiavisti della morte è il primo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1801,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00040.sub00010.int00100"
   },
@@ -949,7 +1299,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signora Presidente, anche se mi viene istintivo chiamarla signor Presidente. Signor Ministro o signora Ministra, mi fa piacere la sua presenza e credo sia stata assolutamente giusta - ed è la ragione per cui intervengo a nome di tutti i colleghi, da presidente del gruppo parlamentare di Noi Moderati, su questo tema - questa diretta televisiva, perché il tema del lavoro è il tema cruciale, è il tema per cui ab […]",
+   "sunto": "Per questo è fondamentale la discussione e la conversione di questo decreto, perché in campagna elettorale il centrodestra - e Noi Moderati, insieme al centrodestra - ha fatto della sfida sul lavoro e sulla dignità del lavoro uno dei punti cruciali, fondamentali per ricostruire e per dare futuro…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1589,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00040"
   },
@@ -962,7 +1316,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, siamo soddisfatti della sua risposta, anche perché ha ribadito uno dei punti che sta più a cuore non solo a lei e al Governo, ma a tutta la maggioranza di centrodestra. La sfida per il futuro è mettere al centro il lavoro, perché il lavoro è la dignità, come abbiamo detto più volte. […]",
+   "sunto": "C'è un grande tema, che questi tirocini - e su questo può intervenire il Governo - devono essere espressamente rivolti o ai neodiplomati o ai neolaureati, ossia dà loro la grande opportunità di introdurli nel mondo del lavoro e per fare questa alleanza fondamentale scuola-lavoro.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 523,
    "url": "https://www.camera.it/leg19/410?idSeduta=0138&tipo=stenografico#sed0138.stenografico.tit00120.sub00050.int00060"
   },
@@ -975,7 +1332,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Di Arnaldo Forlani si usa dire che è stata una figura di spicco della storia della Prima Repubblica. Io e il nostro gruppo vorremmo correggere questo modo di dire, che ha sicuramente le sue giustificazioni temporali, ma che ci sembra un'espressione riduttiva, se applicata a una personalità come quella di Arnaldo Forlani. […]",
+   "sunto": "Di Arnaldo Forlani si usa dire che è stata una figura di spicco della storia della Prima Repubblica. […] Questa cortesia era sicuramente un tratto del suo carattere, ma non solo questo, quanto piuttosto un metodo politico strettamente connaturato al contenuto che ha orientato e nutrito, a mio parere, tutta l'azione politica di Arnaldo Forlani: la ricerca dell'unità e della stabilità.",
+   "temi": [],
    "parole": 869,
    "url": "https://www.camera.it/leg19/410?idSeduta=0146&tipo=stenografico#sed0146.stenografico.tit00080.int00160"
   },
@@ -988,7 +1346,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, come lei sa e lo ha illustrato bene, per noi i porti, le autostrade del mare, la logistica, l'intermodalità sono asset strategici del Paese. E l'impegno che il Governo sta mettendo in questi nove mesi va esattamente in quella direzione. […]",
+   "sunto": "Ha fatto bene a ricordare il porto di Gioia Tauro e ha fatto bene a ricordare che, per noi, la riqualificazione e la lotta migliore alla povertà e alla criminalità avvengono solo creando lavoro, creando opportunità e dando opportunità a tutti .",
+   "temi": [],
    "parole": 497,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00080.int00060"
   },
@@ -1001,7 +1360,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, a nome dei gruppi della maggioranza, spetta a me illustrare la questione sospensiva e vorrei partire con una premessa che non è banale, né formale. L'articolo 40 del nostro Regolamento prevede che si possa porre la questione sospensiva laddove si verifichino le condizioni per rinviare una discussione generale a fronte di alcune scadenze. […]",
+   "sunto": "Quindi, è diritto dell'opposizione, di ogni gruppo parlamentare di opposizione, porre all'attenzione del Parlamento e quindi all'attenzione della maggioranza parlamentare alcune questioni che ritiene bandiere, che ritiene cioè punti fondamentali che appartengono al programma.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00020"
   },
@@ -1014,7 +1377,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "La ringrazio, signor Ministro, anche a nome del gruppo parlamentare Noi Moderati, anche perché, nella sua risposta, ha evidenziato un doppio aspetto. In primo luogo, l'importanza fondamentale per il nostro Paese - ma credo per l'intera Europa - della diplomazia, della diplomazia della crescita, del dialogo e della cooperazione rafforzata in tutti i Paesi del mondo anche con un interlocutore importante come quello cin […]",
+   "sunto": "In primo luogo, l'importanza fondamentale per il nostro Paese - ma credo per l'intera Europa - della diplomazia, della diplomazia della crescita, del dialogo e della cooperazione rafforzata in tutti i Paesi del mondo anche con un interlocutore importante come quello cinese, strategico nel mondo.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0157&tipo=stenografico#sed0157.stenografico.tit00010.sub00040.int00060"
   },
@@ -1027,7 +1393,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Ringrazio il Ministro per la risposta e, a nome del nostro gruppo parlamentare, ma credo di tutti, ci diciamo soddisfatti. Infatti, la domanda cui dobbiamo rispondere - lo ha fatto lei e lo ha fatto il collega Bicchielli nell'introduzione - è perché un Parlamento debba occuparsi di questa cosa: lo ha detto, riguarda 5.000… io li chiamerei servitori dello Stato, che sono stati trattati nel modo in cui lei ha detto. […]",
+   "sunto": "Ancora prima della soluzione del problema, è un tema di dignità e di rispetto delle istituzioni e di chi si mette al servizio delle istituzioni. […] Ed è anche un problema di rispetto e di dignità delle istituzioni, che, ancora di più, proprio perché istituzioni, devono trattare nel modo doveroso e dovuto chi lavora al servizio di tutta la comunità.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00080.int00060"
   },
@@ -1040,7 +1409,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, alla conclusione di questo dibattito sull'informativa che il Ministro delle Infrastrutture Salvini ha reso alla Camera dei deputati, credo che si possano fare alcune considerazioni. Ciò, ovviamente, al di là del doveroso cordoglio, che non può essere solo formale. […]",
+   "sunto": "La prima riflessione è legata - ed è stato già citato in quest'Aula - al continuo appello che il nostro Presidente della Repubblica fa sul tema della sicurezza del lavoro e sul tema delle morti sul lavoro.",
+   "temi": [
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1170,
    "url": "https://www.camera.it/leg19/410?idSeduta=0162&tipo=stenografico#sed0162.stenografico.tit00040.sub00010.int00080"
   },
@@ -1053,7 +1426,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, onorevoli colleghi, anche il nostro gruppo vuole ricordare in questo luogo la figura del Presidente Napolitano e lo vogliamo fare attraverso tre sottolineature. La prima: Giorgio Napolitano fu un grande, è stato un grande uomo delle Istituzioni. […]",
+   "sunto": "Un uomo di partito, orgoglioso della propria parte politica e di un'identità chiara e forte, ma che ha testimoniato come le identità, le storie, possano essere una ricchezza per il Paese, perché messe al servizio del bene comune. […] Fu lo stimolo e lo spunto per ricordare che, sempre, dobbiamo mettere davanti all'interesse dell'impegno politico di ognuno di noi il bene comune, il bene dell'Italia.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 565,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00110.int00170"
   },
@@ -1066,7 +1442,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Io credo che quella che stiamo facendo qui oggi non sia una discussione formale. Però, dobbiamo darci il credito reciproco: o facciamo tutti propaganda o nessuno la fa. Credo che, per il rispetto di questa istituzione, nessuno faccia propaganda. […]",
+   "sunto": "Se dovessimo scendere nella politica e nella propaganda - la politica anche giusta - potrei chiedere: qual è la ragione per cui il Partito Democratico, quando è stato al Governo, tra l'altro con il Movimento 5 Stelle, se riteneva, come ha ritenuto, che il reddito di cittadinanza fosse una…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 887,
    "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00050.int00220"
   },
@@ -1079,7 +1458,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Il Ministro ha fatto bene, nella sua risposta, a ricordare puntualmente l'attenzione a questo tema, che riguarda trasversalmente tutti, tanto più dopo il periodo che abbiamo attraversato. […]",
+   "sunto": "Ha fatto bene a ricordare ormai le 7 regioni che si stanno, con autonomia, impegnando in ciò, ma credo che proprio per questo sia necessario - ed è il lavoro parlamentare che stiamo facendo -, partendo dalla medicina territoriale, ripensare ad un modello in cui la medicina di base possa vedere…",
+   "temi": [],
    "parole": 349,
    "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00100.sub00070.int00060"
   },
@@ -1092,7 +1472,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, dico sin da subito che il nostro gruppo approva in toto la relazione del Presidente del Consiglio e quindi voterà convintamente la risoluzione di maggioranza. E diciamo sin da subito che non è un caso che la relazione che il Presidente del Consiglio ha presentato alle Camere per il 90 per cento ha occupato e si è occupata di temi che riguardano la crisi in Medio Oriente, […]",
+   "sunto": "E diciamo sin da subito che non è un caso che la relazione che il Presidente del Consiglio ha presentato alle Camere per il 90 per cento ha occupato e si è occupata di temi che riguardano la crisi in Medio Oriente, e ha fatto bene il Presidente del Consiglio a sottolineare che questa crisi,…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1601,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00050"
   },
@@ -1105,7 +1490,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, onorevoli colleghi, ricordiamo oggi un uomo libero, libero da schemi precostituiti e grande amante della scuola. Un uomo convinto, e la sua vita è lì a testimoniarlo, che il primo, vero e decisivo investimento per un Paese che realmente voglia perseguire il pieno sviluppo della persona, come recita l'articolo 3 della nostra Costituzione, sia l'investimento in educazione, in istruzione e in formazio […]",
+   "sunto": "Di fronte all'appello di 2.000 presidi che chiedevano di posticipare la riapertura delle scuole e il ritorno all'insegnamento in presenza, disse di avere comprensione per i presidi - il nostro cuore è con loro - ma volle sottolineare l'importanza della scuola in presenza. […] In un'altra occasione Luigi Berlinguer affermò che la scuola, se è a distanza, non è scuola.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 619,
    "url": "https://www.camera.it/leg19/410?idSeduta=0191&tipo=stenografico#sed0191.stenografico.tit00100.int00160"
   },
@@ -1118,7 +1506,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, a proposito di rivolgermi alla Presidenza, signor Ministro e onorevoli colleghi, nella dichiarazione di voto a nome di tutto il nostro gruppo di Noi Moderati, mi permetto di iniziare dalla principale critica che l'opposizione ha rivolto, fuori da quest'Aula e anche in quest'Aula, con i suoi interventi, e a cui, devo dire, ha fatto bene il Ministro Tajani a rispondere con nettezza e con chiarezza. […]",
+   "sunto": "Per la cultura e la storia politica del Ministro Tajani, la mia e la nostra storia politica, ma credo la storia politica di tutto il centrodestra, la centralità del Parlamento è fondamentale.",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 1368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00060.sub00010.int00160"
   },
@@ -1131,7 +1523,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Per un richiamo al Regolamento, articolo 8, comma 1. Il Regolamento della Camera - lo dico ai colleghi di maggioranza e di opposizione - non è forma, è anche sostanza. Ho sentito in quest'Aula parlare di pirateria parlamentare, di arroganza della maggioranza, che si umiliano le opposizioni, che ci sono abusi di potere. Le parole hanno un peso e tanto più lo hanno in quest'Aula. […]",
+   "sunto": "Posso presentare addirittura un emendamento soppressivo di tutta quella proposta, un emendamento che modifica il comma 1, l'articolo 1, eccetera, a meno che ci sia un Regolamento parlamentare che preveda che le proposte di legge dell'opposizione non possano essere modificate dalla maggioranza.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 717,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00410"
   },
@@ -1144,7 +1539,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro Fitto, onorevoli colleghi, dico sin da subito che il nostro gruppo, Noi Moderati, voterà a favore sulla risoluzione di maggioranza. Mi permetto in questo intervento di sottolineare, a nome del nostro gruppo, rispetto alla relazione della Presidente del Consiglio e anche agli interventi dei colleghi e alla sua replica, tre punti. […]",
+   "sunto": "Credo che le agenzie di rating - forse l'ha detto il Ministro dell'Economia, Giancarlo Giorgetti, in un suo passaggio, in un'intervista - abbiano dato questo segnale positivo perché, innanzitutto alla credibilità e all'autorevolezza del nostro Paese credono gli italiani. […] E, allora, è necessario discutere in Europa e tornare in Europa da protagonisti sulla revisione del Patto di stabilità.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1653,
    "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00060"
   },
@@ -1157,7 +1559,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, signor Ministro, sa quanta stima ha il nostro gruppo parlamentare nei suoi riguardi per il lavoro che fa con grande attenzione e con grande responsabilità. Ci ha fatto piacere anche ascoltare che l'indirizzo del Governo è, ovviamente, quello di procedere in quella direzione. Tuttavia, c'è un fatto ed è la ragione per cui abbiamo voluto presentare oggi questa nostra interrogazione. […]",
+   "sunto": "“L'Italia guarda con interesse in attesa di”: credo che ci sia una differenza, l'abbiamo sempre vissuta insieme questa sfida di una politica diversa, ossia che abbiamo sottoscritto un programma elettorale, l'hanno sottoscritto Silvio Berlusconi, Giorgia Meloni, l'ho sottoscritto io e lo ha… […] Non possiamo più attendere (A pplausi Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE).",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 481,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00100.int00060"
   },
@@ -1170,7 +1575,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. È un passaggio importante quello che ci ha apprestiamo a fare ed è importante che - l'ha detto anche il collega Orsini - il Governo, proprio per l'importanza che ha questo passaggio parlamentare, si rimetta all'Aula. Lo dico anche, in particolare, a una parte dell'opposizione, vedo che c'è molta agitazione. […]",
+   "sunto": "Dicevo che è evidente che nel corso degli anni le posizioni rispetto alla ratifica di questo strumento, il MES, sono state diverse: sono state diverse all'interno di questa maggioranza, ma sono state diverse anche all'interno di quella che oggi rappresenta l'opposizione.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 1004,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00250"
   },
@@ -1183,7 +1591,17 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, la legge di bilancio, approvata sempre entro la fine dell'anno, è un'occasione importante per tutto il Parlamento, ma anche per il Paese per capire le prospettive degli anni futuri, quali indirizzi prendere, quali scelte e quali priorità darci. […]",
+   "sunto": "Vuol dire, per chi ci ascolta, 24 miliardi di euro a disposizione di un Governo per dire quali scelte fare, come aiutare, come guardare alla crescita, con un macigno di 14 miliardi di euro solo per i tassi di interesse provocati dall'aumento dei tassi della BCE. […] Tre miliardi di euro l'anno, su 24 miliardi di euro, sono pari al 15 per cento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1704,
    "url": "https://www.camera.it/leg19/410?idSeduta=0220&tipo=stenografico#sed0220.stenografico.tit00110.sub00010.int00120"
   },
@@ -1196,7 +1614,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Diciamo subito a nome di tutto il nostro gruppo che sottoscriviamo e abbiamo condiviso la relazione, puntuale, qualificata e approfondita che il Ministro della Giustizia ha riferito qui alla Camera dei deputati e poi al Senato. […]",
+   "sunto": "Infatti, a fronte di una assoluzione in un processo che dura, purtroppo, troppo a lungo - lo dico al Ministro Nordio, anche 1.000 giorni, 1.000 giorni che sono tre anni, ben tre anni per avere una prima sentenza, tre anni in cui un uomo vive le pene, a proposito dell'inferno, e già sconta la…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1672,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00120.sub00010.int00140"
   },
@@ -1209,7 +1632,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Presidente Meloni, guardi, la bellezza e la grandezza del nostro lavoro, della responsabilità che ci è stata affidata, è che discutiamo, facciamo proposte, ci confrontiamo, diamo soluzioni, ma poi, alla fine, al di là delle diverse posizioni, parlano i numeri, e i numeri non sono numeri astratti, ci sono persone. […]",
+   "sunto": "Io credo, invece, che la vera attenzione agli ultimi, a chi sta indietro, si quella di aiutarli veramente e, dall'altra, ricordarci a tutti che la vera dignità per una persona è il lavoro, non l'elemosina di un'assistenza (Applausi dei deputati dei gruppi Noi Moderati (Noi con l'Italia, Coraggio…",
+   "temi": [],
    "parole": 400,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00040.int00060"
   },
@@ -1222,7 +1646,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Il nostro gruppo vuole ricordare la memoria di Aleksej Navalny con le parole di un autorevole esperto di letteratura russa, nonché già direttore dell'Istituto italiano di cultura di Mosca, il professor Adriano Dell'Asta: Nella tragedia che si è consumata in una prigione del suo estremo nord, la Russia ha dimostrato il meglio e il peggio di sé. […]",
+   "sunto": "Il meglio è evidente e ha un nome: Aleksej Navalny, un esempio di democrazia, di libertà e di dignità. […] Navalny non è morto, perché ha sfidato il potere, ma perché ha fatto la cosa che meno di tutte questo potere può tollerare dai suoi sudditi, che uno si assuma la propria responsabilità di uomo, di uomo libero, di uomo testimone della propria dignità, per lui e per tutto il suo popolo e, quindi,…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 463,
    "url": "https://www.camera.it/leg19/410?idSeduta=0247&tipo=stenografico#sed0247.stenografico.tit00040.int00200"
   },
@@ -1235,7 +1662,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, Presidente. Signor Ministro, le abbiamo presentato questa interrogazione non solo volentieri, ma la ritenevamo fondamentale proprio perché la politica, nel nostro Paese, è abituata a una cattiva tradizione. Passata l'emergenza, ci siamo dimenticati di tutto e sembra che tutto possa tornare esattamente come prima. […]",
+   "sunto": "Lei ha citato alcuni rigassificatori fondamentali, oltre a quelli che si stanno attuando, ha citato quello di Porto Torres e ci auguriamo che lì la responsabilità amministrativa, nel bene della Sardegna e nel bene di questo Paese, prevalga rispetto ai bassi interessi ideologici legati a un… […] Avremo un'Italia finalmente cambiata, con la sua azione, con l'azione del Presidente Meloni e con l'azione del Ministro Fitto.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 360,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00090.int00060"
   },
@@ -1248,7 +1678,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, Presidente del Consiglio, nel motivare l'adesione di Noi Moderati alla sua relazione in vista del prossimo Consiglio europeo e il voto favorevole alla risoluzione di maggioranza che lo sostiene, considerato anche l'intervento puntuale fatto dalla collega Ilaria Cavo in discussione generale, vorremmo partire da una sua frase che abbiamo letto nella relazione che ha presen […]",
+   "sunto": "Nel motivare l'adesione di Noi Moderati alla sua relazione in vista del prossimo Consiglio europeo e il voto favorevole alla risoluzione di maggioranza che lo sostiene, considerato anche l'intervento puntuale fatto dalla collega Ilaria Cavo in discussione generale, vorremmo partire da una sua…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1544,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00040.sub00010.int00130"
   },
@@ -1261,7 +1695,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "La ringraziamo, signor Ministro, ovviamente siamo soddisfatti della risposta che lei ci ha dato, ma l'occasione era importante non solo per gli addetti ai lavori, perché quello di cui stiamo parlando è il principale, secondo me, molto semplice, indicatore del rapporto di fiducia che esiste tra i cittadini italiani e il nostro Stato. […]",
+   "sunto": "Infatti non è un caso che, nonostante un debito pubblico alto e nonostante un deficit che, anche per le cause che lei ha più volte citato - pensiamo al 110 per cento -, aumenta, anche le stesse agenzie di rating ci stanno dando fiducia.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00060.int00060"
   },
@@ -1274,7 +1711,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, Presidente. Mi permetto di sottolineare il valore di questo emendamento, con riferimento al quale mi auguro che il Governo e il relatore si rimettano all'Aula, perché il parere contrario del MEF - tra l'altro vi è, credo, un parere favorevole non solo del Ministero delle Infrastrutture e dei trasporti, ma anche di tutti i colleghi che sono qui in Aula - è alquanto strano. […]",
+   "sunto": "C'è la multa e poi ci sono le spese di notifica e le spese di accertamento. […] Le spese di accertamento: che cosa sono le spese di accertamento per un comune e quali costi hanno le spese di accertamento per un comune? […] Se l'Antitrust e l'Agcom hanno deciso che le spese di notifica siano di 8 euro, le spese di accertamento devono essere, per noi, al massimo, di 5 euro.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 867,
    "url": "https://www.camera.it/leg19/410?idSeduta=0267&tipo=stenografico#sed0267.stenografico.tit00110.sub00020.int00120"
   },
@@ -1287,7 +1727,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Vice Ministro, non vorrei essere al suo posto, perché so - ne abbiamo discusso in Commissione - che nel merito c'è una condivisione di questo. Ho anch'io un'esperienza parlamentare tale per cui so che questo articolo aggiuntivo è già stato fatto, è stato sottoscritto da colleghi della maggioranza e del centrodestra, ma è stato sottoscritto anche da altri colleghi dell'opposizione, quindi la richiesta di trasfo […]",
+   "sunto": "Lo dico proprio perché non c'entra la maggioranza: è una proposta emendativa su cui Noi Moderati ha fatto una sua battaglia, come gruppo parlamentare, ma tutto il centrodestra si è sempre schierato a favore di questo, cioè del fatto che le multe sono uno strumento educativo: se uno sbaglia deve…",
+   "temi": [],
    "parole": 273,
    "url": "https://www.camera.it/leg19/410?idSeduta=0267&tipo=stenografico#sed0267.stenografico.tit00110.sub00020.int00210"
   },
@@ -1300,7 +1741,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, la ringraziamo perché la sua risposta rappresenta un po' non solo la concezione di Noi Moderati, tra l'altro, anche plasticamente, il Governo è rappresentato da lei, dal Ministro Calderoli e dal Vice Ministro Sisto. Da una parte la certezza della pena, ma dall'altra l'obiettivo è sempre la rieducazione. […]",
+   "sunto": "Educare, educazione, sport e lavoro: è la strada da percorrere per evitare che si ritorni a quel marchio di infamia, per chi ha scontato la sua pena, perché la pena va scontata, e possa avere l'opportunità, una volta uscito, di essere reinserito nella società.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 351,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00080.int00060"
   },
@@ -1313,7 +1757,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signori Ministri, onorevoli colleghi, Noi Moderati voterà contro la mozione di sfiducia al Vicepresidente del Consiglio e Ministro delle Infrastrutture e dei trasporti, senatore Matteo Salvini, per un'unica ragione, che cercheremo di motivare, riprendendo anche alcuni argomenti che ho sentito dal collega capogruppo di Italia Viva. […]",
+   "sunto": "Altrettanto Putin; in un momento così delicato, Conte chiede addirittura il ritiro delle sanzioni e Putin risponde “siamo grati all'Italia” e al Presidente del Consiglio. […] Il Presidente del Consiglio Conte aveva la dignità di poter rappresentare questo Parlamento o questo Governo?",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00140.sub00010.int00080"
   },
@@ -1326,7 +1775,12 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, il nostro gruppo, Noi Moderati, si dichiara soddisfatto della sua risposta alla nostra interrogazione. L'abbiamo voluta fortemente per evitare qualsiasi equivoco riguardo agli episodi che stanno accadendo e anche a interpretazioni strumentali che avvengono. […]",
+   "sunto": "Da una parte, ha fatto bene a sottolineare - lo diciamo con molta chiarezza - la libera espressione del pensiero: l'università è il luogo della libera manifestazione del pensiero, dell'insegnamento, della ricerca; l'università prosegue sempre, le nostre università, tutte le nostre università,…",
+   "temi": [
+    "Esteri e difesa",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 449,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00070.int00060"
   },
@@ -1339,7 +1793,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Signor Presidente, signor Ministro, la ringrazio per la puntualità della risposta che ha fornito alla nostra interrogazione, sia nel merito dei contenuti che nel metodo. Infatti, credo che questo momento - lo dico anche a chi ci ascolta e che ha assistito alle nostre interrogazioni da parte della maggioranza e dell'opposizione - serva per approfondire e per capire. […]",
+   "sunto": "Vogliamo continuare a rimetterci, ognuno facendo la sua parte, per arrivare a far sì che… Un dato fra tutti: il prodotto interno lordo di questo Paese, quest'anno, raggiungerà l'1 per cento, come ha stabilito il DEF, e lo 0,9 per cento di quell'1 per cento è determinato dalle risorse del PNRR,…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 457,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00100.int00080"
   },
@@ -1352,7 +1809,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Ricordando Enrico Berlinguer, un uomo che merita di essere ricordato, vorrei fare mio e nostro il giudizio che su di lui espresse Giulio Andreotti: un duro avversario, ma uomo corretto e responsabile. Nel 1984 - anno in cui morì - mi laureavo in scienze politiche e avrei iniziato il mio impegno nelle istituzioni solo 9 anni dopo, nel consiglio comunale di Milano. […]",
+   "sunto": "Ricordando Enrico Berlinguer, un uomo che merita di essere ricordato, vorrei fare mio e nostro il giudizio che su di lui espresse Giulio Andreotti: un duro avversario, ma uomo corretto e responsabile.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 725,
    "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00050.int00180"
   },
@@ -1365,7 +1825,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, credo che lei abbia fatto bene a impostare la sua relazione con uno sguardo non di breve periodo, ma con uno sguardo strategico e, mi permettano i colleghi - avendo ascoltato tutto il dibattito qui in Aula e alcune dichiarazioni di voto - di fare una constatazione non polemica. […]",
+   "sunto": "Il futuro dell'Europa è di fronte a grandi cambiamenti e a sfide epocali, li ha sottolineati nella sua relazione (e noi parliamo di inciuci, parliamo di questioni di villaggio, di questioni locali): la guerra, la pace, la politica estera, gli scenari della geopolitica, che tornano ad essere… […] La prima: fare gli interessi dell'Italia in contrasto con quelli dell'Europa.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1616,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00040.sub00010.int00070"
   },
@@ -1378,7 +1842,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Ministro. Come lei ben sa, il nostro gruppo condivide l'azione del Governo rispetto anche al decreto Salva casa, che ha presentato proprio per gli obiettivi di semplificazione e sburocratizzazione. Qui ci sono due questioni in gioco. La prima, più in generale, è il tema della demolizione-ricostruzione e quindi del risparmio di territorio. […]",
+   "sunto": "La seconda questione che emerge - anche noi nel rispetto assoluto della magistratura - è che l'interpretazione delle norme non appartiene, ovviamente, all'azione della magistratura.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00060.int00060"
   },
@@ -1391,7 +1858,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Ministro. Nel condividere assolutamente tutte le sue premesse, che sono quelle dell'assoluto rispetto dell'autonomia della magistratura e delle esigenze legittime e doverose da parte della magistratura di svolgere le sue inchieste, siamo soddisfatti della sua risposta, anche per la correttezza della posizione sul giudizio, invece, politico, che non appartiene, ovviamente, alla funzione di Ministro. […]",
+   "sunto": "Perché per noi, che abbiamo voluto portare qui, in quest'Aula, il caso del presidente Toti, il caso del presidente Toti non è più il caso Toti, ma è un caso che riguarda tutti i cittadini, politici o non politici.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 538,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00050.int00070"
   },
@@ -1404,7 +1874,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Noi Moderati voterà, signora Presidente e signor Presidente, a favore su questo decreto-legge. Abbiamo assistito, anche con interesse, al dibattito che si è sviluppato prima al Senato, molto più vivace, e poi qui alla Camera riguardo ai temi che il decreto-legge ha posto. […]",
+   "sunto": "Io immagino, per quel poco che sono andato a leggere di quel dibattito costituente, che sull'articolo 2 e sull'articolo 27 della Costituzione non si sia sviluppato quel dibattito, a cui abbiamo assistito in queste ore, tra chi è più garantista e meno garantista, tra chi visita di più i detenuti…",
+   "temi": [
+    "Immigrazione",
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1471,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00080.sub00020.int00100"
   },
@@ -1417,7 +1893,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, onorevoli colleghi, diciamo subito che il gruppo di Noi Moderati condivide il contenuto del Piano strutturale di bilancio di medio termine, sottoposto al Parlamento. Ho ascoltato con grande attenzione la relazione puntuale e il dibattito che è seguito ieri alle Commissioni riunite in Parlamento, ho apprezzato la sua relazione ma, ancora di più, glielo dico, Ministro, abbiam […]",
+   "sunto": "E, allora, avere il coraggio di scegliere, vuol dire avere il coraggio di decidere come quelle risorse - che sono poche - possano essere utilizzate rispetto agli obiettivi della politica, cioè, del bene comune di questo Paese.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1573,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00040.sub00010.int00120"
   },
@@ -1430,7 +1913,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signora Presidente del Consiglio, onorevoli colleghi. Vorrei subito anticipare una parte del mio intervento, anche perché la bellezza del dibattito parlamentare è anche quella di ascoltare gli interventi dei colleghi rispetto alla relazione puntuale che abbiamo letto, agli interventi che si sono susseguiti e alla puntuale replica del Presidente del Consiglio e, magari, cercare di dare un mi […]",
+   "sunto": "Io ricordo che nel 2018, signora Presidente del Consiglio, il Governo Gentiloni ha speso 4,7 miliardi di euro , 4,7 miliardi di euro per la gestione dei flussi migratori.",
+   "temi": [
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 1643,
    "url": "https://www.camera.it/leg19/410?idSeduta=0365&tipo=stenografico#sed0365.stenografico.tit00080.sub00020.int00080"
   },
@@ -1443,7 +1934,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Ha ragione l'onorevole Enrico Letta. Ascoltavo gli interventi degli altri colleghi e quello che qui stiamo facendo non è un rito formale, vuoto. Nel luogo sacro della politica, che sottolinea il valore e la grandezza delle istituzioni, la forma diventa sostanza. […]",
+   "sunto": "Se c'è una parola che può legare tutta l'attività e la vita di Francesco Merloni, dal mio punto di vista, dal nostro punto di vista, è la parola realismo, proprio perché Francesco Merloni attinge dalla profonda cultura cattolica.",
+   "temi": [],
    "parole": 613,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00040.int00160"
   },
@@ -1456,7 +1948,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, diciamo subito che il gruppo di Noi Moderati voterà convintamente la mozione di maggioranza e seguirà, ovviamente, le indicazioni del Governo riguardo alle mozioni presentate dalle opposizioni. Questo sarebbe il tipico tema su cui maggioranza e opposizione, ma innanzitutto il Parlamento, dovrebbero convergere su una linea unitaria. […]",
+   "sunto": "La storia, la storia dell'Occidente, la storia del nostro mondo dicono esattamente questo: qualsiasi transizione va gestita, perché il protagonista della transizione è sempre la persona; se alla persona, alle famiglie, ai nostri cittadini manca il pane, possiamo spiegargli qualsiasi educazione…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 1396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00120.sub00020.int00040"
   },
@@ -1469,7 +1966,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)-M",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, siamo completamente soddisfatti della sua risposta e lo siamo non formalmente ma sostanzialmente. Politiche di bilancio virtuose e responsabili, che mettono al centro la cultura come pilastro fondamentale per lo sviluppo e la crescita del nostro Paese. […]",
+   "sunto": "Il pubblico dà l'indirizzo e definisce gli obiettivi e, anche nella cultura, mette le risorse necessarie e fondamentali perché quel pilastro possa rimanere un pilastro forte; inoltre, attiva, con coraggio, serietà e responsabilità, le risorse che esistono con il privato, perché pubblico e… […] Il primo potere, il secondo potere, il terzo potere, il quarto potere...",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 404,
    "url": "https://www.camera.it/leg19/410?idSeduta=0371&tipo=stenografico#sed0371.stenografico.tit00070.sub00050.int00100"
   },
@@ -1482,7 +1982,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, avevo deciso di invertire il contenuto del mio intervento, dopo avere ascoltato le parole dell'autorevole collega Bonelli. Lo inviterò a leggere il testo del mio intervento e, insieme all'intervento del suo gruppo, anche noi manderemo il nostro alla procura della Repubblica. […]",
+   "sunto": "Seconda premessa: ha ragione l'onorevole Bonelli, noi non stiamo facendo un Salva Milano; stiamo svolgendo il ruolo che al Parlamento spetta, di fronte a un dubbio interpretativo di leggi di competenza del Parlamento: si chiamano norme interpretative.",
+   "temi": [],
    "parole": 1363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0385&tipo=stenografico#sed0385.stenografico.tit00070.sub00030.int00170"
   },
@@ -1495,7 +1996,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Presidente, se aspettiamo un secondo… Grazie, Presidente. Ho chiesto la possibilità di intervenire sull'ordine dei lavori perché credo sia fondamentale, importante e urgente richiedere, tramite lei, un'informativa al Governo del Ministro Bernini su fatti che continuano a ripetersi nelle nostre università e che ledono la libertà di informazione, la libertà di incontro e la libertà di riflessione nei luoghi che, per ec […]",
+   "sunto": "Ho chiesto la possibilità di intervenire sull'ordine dei lavori perché credo sia fondamentale, importante e urgente richiedere, tramite lei, un'informativa al Governo del Ministro Bernini su fatti che continuano a ripetersi nelle nostre università e che ledono la libertà di informazione, la…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 601,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00140.int00020"
   },
@@ -1508,7 +2012,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Fascista lo dico io a te ...",
+   "sunto": "Fascista lo dico io a te ...",
+   "temi": [],
    "parole": 7,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00140.int00110"
   },
@@ -1521,7 +2026,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Stai zitta, sto parlando…",
+   "sunto": "Stai zitta, sto parlando…",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00140.int00140"
   },
@@ -1534,7 +2040,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Ovviamente, se la collega si è sentita offesa, chiedo scusa delle parole che lei può aver compreso oppure distorto nel mio intervento. La mia reazione era solo perché ho posto un problema e un fatto che conosco in maniera approfondita e l'altro collega è intervenuto per porre un'altra questione, ovviamente, senza conoscere quello che è accaduto in quel luogo. […]",
+   "sunto": "La mia reazione era solo perché ho posto un problema e un fatto che conosco in maniera approfondita e l'altro collega è intervenuto per porre un'altra questione, ovviamente, senza conoscere quello che è accaduto in quel luogo.",
+   "temi": [],
    "parole": 252,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00150.int00040"
   },
@@ -1547,7 +2054,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Vice Presidente del Consiglio, colleghi parlamentari, il gruppo Noi Moderati voterà convintamente la risoluzione di maggioranza e sottoscrive sia l'intervento, la relazione del Presidente del Consiglio, che quanto detto dal Presidente del Consiglio in replica. Lo dico subito: non perché il Presidente del Consiglio abbia bisogno di una difesa. […]",
+   "sunto": "Primo: la difesa dei confini dell'Europa è una difesa fondamentale, il contrasto all'immigrazione clandestina e alla lotta ai criminali della morte è fondamentale. […] L'elemento della compattezza e della stabilità di un Governo è, in politica estera come in politica economica, diventato l'elemento strategico e fondamentale.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0399&tipo=stenografico#sed0399.stenografico.tit00040.sub00010.int00250"
   },
@@ -1560,7 +2073,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Caro onorevole Enrico Letta, caro Enrico, devo dire che, anche dopo le parole che hai pronunciato per lasciare il seggio che ricopri qui, in Parlamento, credo che - penso non solo a nome del nostro gruppo, ma anche di tutti i colleghi - si possa dire, senza sentimentalismo, che mancherai: mancherà il tuo contributo a quest'Aula, anche ai giovani colleghi, perché anche le ultime cose che hai detto […]",
+   "sunto": "Caro onorevole Enrico Letta, caro Enrico, devo dire che, anche dopo le parole che hai pronunciato per lasciare il seggio che ricopri qui, in Parlamento, credo che - penso non solo a nome del nostro gruppo, ma anche di tutti i colleghi - si possa dire, senza sentimentalismo, che mancherai:…",
+   "temi": [],
    "parole": 327,
    "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00050.int00080"
   },
@@ -1573,7 +2087,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, onorevoli colleghi, oggi siamo chiamati ad esprimerci su un provvedimento che per noi, ma credo anche per altri, considerati gli interventi che mi hanno preceduto, è di portata storica. È un provvedimento di portata storica perché è una riforma costituzionale. […]",
+   "sunto": "Il testo dice così: l'articolo 104 della Costituzione è sostituito dal seguente (non lo afferma Maurizio Lupi, presidente del gruppo Noi Moderati, ma il testo che ci apprestiamo a votare come riforma costituzionale): la magistratura costituisce un ordine autonomo - spiegheremo a questo potente…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1575,
    "url": "https://www.camera.it/leg19/410?idSeduta=0410&tipo=stenografico#sed0410.stenografico.tit00040.sub00020.int00100"
   },
@@ -1586,7 +2104,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, anch'io la ringrazio di essere venuto tempestivamente qui in Aula a riferire riguardo a quanto accaduto non solo negli ultimi giorni, ma anche negli ultimi mesi sul trasporto ferroviario. […]",
+   "sunto": "È per questo che, quando il Ministro Salvini, con responsabilità e serietà, è venuto qui a riferire di questo non per giustificarsi del resto, perché gli altri punti della relazione che ha presentato aprono un confronto e un dibattito, se l'opposizione vuole confrontarsi su quei punti, ma sul…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 1259,
    "url": "https://www.camera.it/leg19/410?idSeduta=0413&tipo=stenografico#sed0413.stenografico.tit00100.sub00020.int00200"
   },
@@ -1599,7 +2120,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. La prima considerazione che faccio, a nome del mio gruppo di Noi Moderati, è molto semplice. La leader del Partito Democratico, l'onorevole Elly Schlein, ha definito il dibattito e l'informativa che l'opposizione ha chiesto in questo Parlamento: ridicoli. […]",
+   "sunto": "Noi condividiamo questa affermazione, la condividiamo fino in fondo, perché chi ha avuto la pazienza, in quest'Aula, di seguire il dibattito, l'informativa, gli interventi della maggioranza e dell'opposizione e ancora chi ha avuto la pazienza di seguire il dibattito a casa, in tutti gli…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 1547,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00020.int00210"
   },
@@ -1612,7 +2136,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Devo dirle, Ministro, che il gruppo di Noi Moderati sottoscrive, parola per parola, la risposta che lei ci ha dato. E vorrei riprenderla con un “nota bene”: danno un contributo “determinante”, ha usato questa parola. La medicina di prossimità è una medicina fondamentale. Tra l'altro, l'interrogazione precedente ha parlato della pandemia. […]",
+   "sunto": "La medicina di prossimità è una medicina fondamentale. […] Ci siamo accorti tutti quanto era fondamentale ed è fondamentale una medicina territoriale, una medicina di prossimità, il medico di famiglia - a cui, immediatamente, possa rivolgersi la famiglia - a fare da filtro, essere interlocutore.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 476,
    "url": "https://www.camera.it/leg19/410?idSeduta=0435&tipo=stenografico#sed0435.stenografico.tit00060.sub00100.int00060"
   },
@@ -1625,7 +2152,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Signor Ministro, più che una replica, è una soddisfazione, non solo da parte di tutto il nostro gruppo, di Noi Moderati, ma, credo, da parte di tutti noi, perché questa interrogazione sembra una cosa semplice, banale, ma credo, crediamo, che sia uno dei pilastri del nostro Paese. La cultura è lo strumento non solo di coesione sociale, ma è innanzitutto l'identità di un Paese che guarda al mondo. […]",
+   "sunto": "Più che una replica, è una soddisfazione, non solo da parte di tutto il nostro gruppo, di Noi Moderati, ma, credo, da parte di tutti noi, perché questa interrogazione sembra una cosa semplice, banale, ma credo, crediamo, che sia uno dei pilastri del nostro Paese.",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00100.int00100"
   },
@@ -1638,7 +2166,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. L'onorevole Bicchielli mi ha tolto il microfono, ovviamente è un colpo di mano. Intanto, la ringraziamo, signor Ministro, e non abbiamo dubbi - conoscendo il suo lavoro e conoscendo la passione con cui non solo esercita la sua responsabilità, ma tratta una materia fondamentale e importante come quella dell'università e della ricerca - che il Ministero certamente non svolge la funzione di vigile, m […]",
+   "sunto": "L'osservazione che noi le facciamo, proprio perché condividiamo l'impostazione che lei ha dato, è che indipendentemente dalla tipologia di università - libera piuttosto che statale, telematica piuttosto che altro, e via dicendo - la natura delle università deve essere sempre garantita.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 357,
    "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00050.sub00060.int00060"
   },
@@ -1651,7 +2182,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signora Presidente. Ringrazio lei e anche il Sottosegretario alla Presidenza del Consiglio per aver fatto una precisazione che forse ci aiuta ad entrare nel merito del dibattito, anche in maniera molto appassionata, ma ad evitare inutili polemiche su alcune questioni che - come lei ben sa, signora Presidente - abbiamo affrontato nella riunione della Capigruppo. […]",
+   "sunto": "Però, attenzione, e lo dico e lo diciamo con molta serenità, una volta che spero si siano pacati gli animi: rispettare la storia o le storie non vuol dire non avere un'identità e non avere la libertà e la legittimità, con serenità, di criticare contenuti o idee che sono diversi dalla propria storia.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1668,
    "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00330"
   },
@@ -1664,7 +2199,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signora Presidente. Rappresentante del Governo, onorevoli colleghi, prima di illustrare e di dichiarare il voto ovviamente favorevole alla mozione presentata dal nostro gruppo parlamentare di Noi Moderati e sottoscritta poi dagli altri gruppi di maggioranza, e il voto favorevole anche alla mozione presentata dall'opposizione, mi preme l'obbligo, essendo stato chiamato prima in causa rispetto a una discussione […]",
+   "sunto": "In 5 anni non solo il Governo precedente ha disatteso questa indicazione del Parlamento e questo indirizzo del Parlamento, ma è passato altro tempo, altri 5 anni, che hanno fatto perdere opportunità di sviluppo e di promozione di uno strumento fondamentale.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 1484,
    "url": "https://www.camera.it/leg19/410?idSeduta=0461&tipo=stenografico#sed0461.stenografico.tit00060.sub00010.int00080"
   },
@@ -1677,7 +2215,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Ringrazio il Ministro per la puntuale risposta che ha dato alla nostra interrogazione, quella del gruppo di Noi Moderati, ma credo che questa risposta vada nell'interesse, attraverso il Parlamento, di tutta la comunità italiana e di tutti i soggetti che sono interessati, in particolare anche della classe politica che noi rappresentiamo e dovremmo rappresentare con onore. […]",
+   "sunto": "Ha fatto bene a ricordare, signor Ministro, la ragione per cui la Costituzione e poi la legge prevede l'apposizione del segreto di Stato, così come le ragioni per cui è necessaria, in alcuni passaggi fondamentali, la classificazione di segretezza.",
+   "temi": [],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00010.int00080"
   },
@@ -1690,7 +2229,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, ha fatto bene nella sua risposta a sottolineare come quello di cui stiamo parlando - lo dico anche a chi ci segue in diretta televisiva - non è solo un dettaglio tecnico, una serie di decreti, di bandi vari che si susseguono, ma è il cuore essenziale di un patrimonio che l'Italia ha e che vede, nel Ministero della Cultura, la responsabilità di valorizzare e di gestirlo per […]",
+   "sunto": "Ha fatto bene nella sua risposta a sottolineare come quello di cui stiamo parlando - lo dico anche a chi ci segue in diretta televisiva - non è solo un dettaglio tecnico, una serie di decreti, di bandi vari che si susseguono, ma è il cuore essenziale di un patrimonio che l'Italia ha e che vede,…",
+   "temi": [],
    "parole": 328,
    "url": "https://www.camera.it/leg19/410?idSeduta=0470&tipo=stenografico#sed0470.stenografico.tit00050.sub00070.int00060"
   },
@@ -1703,7 +2243,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente, e grazie, signor Presidente del Consiglio. Noi Moderati si ritiene soddisfatto della sua risposta, anche perché, da sempre, Noi Moderati - e tutto il centrodestra - considera tra i punti fondamentali dell'azione di Governo quello del diritto alla salute, del diritto alla salute in ogni parte del nostro territorio, dal Nord come al Sud, del diritto ad avere una cura e ad avere un esame in te […]",
+   "sunto": "Noi Moderati si ritiene soddisfatto della sua risposta, anche perché, da sempre, Noi Moderati - e tutto il centrodestra - considera tra i punti fondamentali dell'azione di Governo quello del diritto alla salute, del diritto alla salute in ogni parte del nostro territorio, dal Nord come al Sud,…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 494,
    "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00080.int00060"
   },
@@ -1716,7 +2259,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente e signor Ministro. Dobbiamo oggi pronunciarci sulla proposta di revisione tecnica del Piano nazionale di ripresa e resilienza. Dopo aver ascoltato il Ministro un dato è certo, ma per chi aveva un po' la conoscenza dei numeri e delle dinamiche lo era oggettivamente - mi perdoni Ministro - certo anche prima di questa sua relazione. Con la revisione tecnica del PNRR, il PNRR non si ferma. […]",
+   "sunto": "Tra i dati che lei ha citato ne riprendo solo uno: il 23 dicembre 2024 la Commissione europea ha ritenuto raggiunti tutti gli obiettivi dell'Italia previsti per quella scadenza e - come lei ha riferito a questo Parlamento in maniera puntuale più volte - ha pagato la sesta rata, 8,7 miliardi di euro.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 954,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00120.sub00040.int00120"
   },
@@ -1729,7 +2276,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Ringrazio il Ministro, a nome del nostro gruppo di Noi Moderati, per la risposta che ha voluto dare alla nostra interrogazione. Grazie per la ripresa del ragionamento e per la segnalazione che mi ha voluto fare. Grazie, Presidente. […]",
+   "sunto": "Ma ciò che conta, ciò che è alla base di tutto, è continuare a riconoscere che lo sport ha innanzitutto un grande valore educativo, di coesione sociale e di recupero nelle periferie degradate delle nostre città, al Nord come al Sud.",
+   "temi": [],
    "parole": 386,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00090.int00100"
   },
@@ -1742,7 +2290,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Signor Presidente. Dico subito che il gruppo di Noi Moderati voterà convintamente la mozione di maggioranza e che anche questa dichiarazione di voto vorrebbe essere un contributo a quella domanda che il collega Fratoianni ha posto: che visione del mondo abbiamo. […]",
+   "sunto": "Dico subito che il gruppo di Noi Moderati voterà convintamente la mozione di maggioranza e che anche questa dichiarazione di voto vorrebbe essere un contributo a quella domanda che il collega Fratoianni ha posto: che visione del mondo abbiamo.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1639,
    "url": "https://www.camera.it/leg19/410?idSeduta=0497&tipo=stenografico#sed0497.stenografico.tit00100.sub00010.int00220"
   },
@@ -1755,7 +2308,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, a nome del gruppo di Noi Moderati, ci dichiariamo soddisfatti della sua risposta, nel senso che siamo convinti che quella che lei ha indicato sia la strada da percorrere, con la certezza dei tempi e con le risorse messe a disposizione, per arrivare all'unico obiettivo che dà la ragione dell'importanza di quanto stiamo discutendo: eliminare le diseguaglianze nell'accesso agl […]",
+   "sunto": "Non c'è bisogno di guardare le indagini statistiche e i sondaggi per vedere che la priorità delle priorità per i cittadini italiani è la sanità: il diritto alla salute, il diritto a non avere lunghe code di attesa.",
+   "temi": [
+    "Sanità",
+    "Scuola e università"
+   ],
    "parole": 449,
    "url": "https://www.camera.it/leg19/410?idSeduta=0503&tipo=stenografico#sed0503.stenografico.tit00050.sub00070.int00060"
   },
@@ -1768,7 +2325,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, la ringraziamo per la risposta. La nostra interrogazione aveva due aspetti. Il primo, come ha sottolineato la collega Carfagna, prendendo spunto da uno dei temi fondamentali, è quello della tutela della salute, degli strumenti che l'intero mondo si è dato per combattere le malattie, che hanno dimostrato non avere confini. […]",
+   "sunto": "Il primo, come ha sottolineato la collega Carfagna, prendendo spunto da uno dei temi fondamentali, è quello della tutela della salute, degli strumenti che l'intero mondo si è dato per combattere le malattie, che hanno dimostrato non avere confini.",
+   "temi": [],
    "parole": 288,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00040.int00060"
   },
@@ -1781,7 +2339,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Devo dire, questa volta non formalmente, che siamo molto soddisfatti della risposta che il Ministro dell'Economia ci ha dato. Credo che questa risposta, per chi ha seguito tutte queste nostre interrogazioni parlamentari, chiuda il cerchio e dia ragione anche dell'utilizzo di alcuni strumenti come il golden power , usato dal Governo in occasione dell'operazione UniCredit-BPM. […]",
+   "sunto": "Credo che questa risposta, per chi ha seguito tutte queste nostre interrogazioni parlamentari, chiuda il cerchio e dia ragione anche dell'utilizzo di alcuni strumenti come il golden power , usato dal Governo in occasione dell'operazione UniCredit-BPM.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 400,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00060.int00060"
   },
@@ -1794,7 +2355,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, presentando questa proposta di legge, Noi Moderati ha fatto sua la proposta del poeta Davide Rondoni, Presidente del Comitato nazionale per le celebrazioni dell'ottavo centenario della morte di San Francesco, il quale ha proposto che sia istituito il giorno di festa nazionale nel suo nome, come richiamo alla pace, alla coesione, alla lezione di fede e spiritualità del gi […]",
+   "sunto": "Dichiarare festa nazionale il 4 ottobre, giorno in cui 800 anni fa moriva Francesco d'Assisi e in cui la Chiesa cattolica lo venera come santo, è un atto genuinamente e profondamente laico. […] Ora, che il cittadino Francesco Bernardone, poi detto San Francesco, precorrendo il nostro testo costituzionale, abbia concorso al progresso materiale e spirituale del nostro Paese è un'evidenza universalmente riconosciuta.",
+   "temi": [],
    "parole": 1366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0535&tipo=stenografico#sed0535.stenografico.tit00080.sub00060.int00040"
   },
@@ -1807,7 +2369,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Grazie, signor Ministro. Ovviamente ci riteniamo soddisfatti della risposta che il Ministro della Giustizia ha voluto dare al gruppo di Noi Moderati su questo tema. Vedo anche il Ministro Lollobrigida e sa quanto il tema della riforma della giustizia per il centrodestra sia un tema fondamentale per riformare l'Italia, cambiarla e proiettarla verso il futuro. […]",
+   "sunto": "Anche questo disegno di legge entra nel disegno complessivo di riforma che noi stiamo approvando. […] L'invito che facciamo in questo caso al Governo nella sua complessità e al Ministro per i Rapporti con il Parlamento, proprio nell'ambito delle sfide della riforma della giustizia, su cui noi vogliamo andare avanti e che vogliamo attuare - è bella la notizia che, finalmente, il 28 ottobre si…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00040.int00060"
   },
@@ -1820,7 +2385,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, a nome del gruppo di Noi Moderati ci dichiariamo ovviamente soddisfatti della sua risposta e anche delle osservazioni finali che ha fatto, perché c'è il tema dell'acquisto della casa, ma c'è un tema, altrettanto urgente e importante, che riguarda non solo i giovani, ma riguarda, per esempio, tutte quelle professioni che si devono svolgere nelle grandi città. […]",
+   "sunto": "Penso all'aver introdotto nei fringe benefit la possibilità che un'azienda - ci sono aziende che già lo fanno - prenda in affitto un alloggio per i dipendenti e si accolli magari una quota dell'affitto; altrettanto se noi dovessimo usare uno strumento fiscale di agevolazione, preferiamo usarlo e…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 394,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00070.int00060"
   },
@@ -1833,7 +2401,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signora Presidente del Consiglio, dichiaro sin da ora, subito, il voto favorevole da parte del gruppo di Noi Moderati alla risoluzione di maggioranza. Non stiamo qui a ripetere i contenuti della risoluzione, perché siamo convinti di tutti i contenuti che ci sono, e, tra l'altro, sono aderenti alle comunicazioni del Presidente e anche all'ottima risposta che il Presidente ha dato alla fine d […]",
+   "sunto": "Perché il Governo e il centrodestra hanno scoperto l'elisir di lunga vita, magari rileggendo Il Signore degli Anelli , che vale la pena rileggere, oppure perché c'è una ragione che può far comprendere alla politica come si fa a dare stabilità nel governo di un Paese?",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa"
+   ],
    "parole": 1468,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00150.sub00040.int00150"
   },
@@ -1846,7 +2418,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Anch'io parto da un ricordo personale: era il maggio del 1982 e insieme ad altri giovani amici dell'allora Movimento Popolare, organizzai una rassegna di film intitolata L'imminenza di Cristo in Pasolini ; era appena uscito anche il film famosissimo di Pasolini. Ci accusarono di scippo culturale. […]",
+   "sunto": "Anch'io parto da un ricordo personale: era il maggio del 1982 e insieme ad altri giovani amici dell'allora Movimento Popolare, organizzai una rassegna di film intitolata L'imminenza di Cristo in Pasolini ; era appena uscito anche il film famosissimo di Pasolini.",
+   "temi": [],
    "parole": 430,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00100.int00160"
   },
@@ -1859,7 +2432,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, il nostro gruppo di Noi Moderati si dichiara soddisfatto della sua risposta. Anche questa risposta, come quella precedente, indica una direzione che non solo il suo Ministero ma tutto il Governo sta seguendo. La collega del Partito Democratico prima le diceva: Ministro, meno propaganda e più certezze. […]",
+   "sunto": "Io credo che se la propaganda sono i numeri e la concretezza dei fatti, come anche in questo caso l'attenzione ai giovani e la risposta che i giovani hanno dato riguardo al tema della cittadinanza attiva, viva la propaganda, laddove la propaganda è concretezza.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00060.int00060"
   },
@@ -1872,7 +2448,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. A nome del gruppo di Noi Moderati, di tutti i colleghi, dico subito che il nostro gruppo voterà convintamente a favore di questo provvedimento. Anche gli interventi che mi hanno preceduto dei colleghi Magi e Boschi hanno evidenziato come, attraverso questo provvedimento, si sia aperta una discussione, un dibattito, un confronto su alcune grandi questioni fondamentali che riguardano non solo […]",
+   "sunto": "Il film di Paola Cortellesi è il più grande esempio educativo che può essere fatto nella società per quanto riguarda il rispetto, la parità, la libertà dell'altro e la diversità e non è una scuola di educazione sessuale da un punto di vista scientifico e puntuale!",
+   "temi": [
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1491,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00060.sub00010.int00060"
   },
@@ -1885,7 +2465,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, le dico sin d'ora che il nostro gruppo Noi Moderati si dichiara soddisfatto della risposta che ci ha dato. L'abbiamo voluta fortemente questa interrogazione, perché…? Cosa c'entra la cultura con la pace? Cosa c'entra la cultura con lo sviluppo economico? Cosa c'entra la cultura con il rilancio di un continente, quello africano? Cosa c'entra la cultura, come Noi Moderati abb […]",
+   "sunto": "L'arte e la cultura sono questo ed è per questo che è fondamentale che nel Piano Mattei la cultura rivesta un ruolo. […] Per questo le abbiamo fatto questa interrogazione, proprio perché Noi Moderati crede che il suo lavoro, il lavoro del Ministro della Cultura, che è quello di investire in cultura, educazione e formazione, sia il vero fondamento su cui ricostruire il futuro dell'Italia e anche la pace nel mondo.",
+   "temi": [],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00090.int00060"
   },
@@ -1898,7 +2479,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, signora Presidente del Consiglio, diciamo sin da subito che Noi Moderati voterà convintamente la risoluzione di maggioranza. Gli argomenti contenuti nella risoluzione di maggioranza sono puntuali, ed è per questo che svolgeremo il nostro intervento sul punto cruciale che è stato trattato anche dalla Presidente del Consiglio, cioè sui tentativi fondamentali di come porre […]",
+   "sunto": "La pace non è mai garantita, ma bisogna perseguirla con sano realismo, e la pace si fonda su due pilastri fondamentali: da una parte, il benessere, bene comune, e, dall'altra, la sicurezza.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00050.sub00010.int00150"
   },
@@ -1911,7 +2497,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, signora Ministra, innanzitutto desidero ringraziarla a nome del gruppo di Noi Moderati per l'informativa resa oggi in Aula e per i chiarimenti puntuali che ha fornito su una riforma tanto ambiziosa quanto necessaria: il semestre filtro per l'accesso a medicina. […]",
+   "sunto": "Lei ha fatto molto bene nel suo intervento, io mi sono sottolineato questi tre punti generali che spiegano poi la declinazione della proposta che lei ha fatto e la ragione per cui questo Parlamento ha approvato la sua riforma.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 1153,
    "url": "https://www.camera.it/leg19/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00080.sub00020.int00200"
   },
@@ -1924,7 +2513,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro dell'Economia, il nostro gruppo la ringrazia per la sua esposizione puntuale e meticolosa, e mai come in questo momento, rispetto a tutto quello che si è ascoltato e si è sentito, era necessaria una relazione puntuale e meticolosa, dove i numeri non sono noiosi, ma, come diceva un grande scrittore, sono testardi. […]",
+   "sunto": "La prima considerazione generale - mi permetto di farla perché è stato un suo passaggio importante e tanta discussione su questo è avvenuta in queste settimane, in questi mesi, sul ruolo e sulla funzione delle banche, sulla considerazione che la maggioranza di centrodestra ha sul ruolo delle…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 970,
    "url": "https://www.camera.it/leg19/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00100.sub00020.int00020"
   },
@@ -1937,7 +2530,16 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Ministro Giorgetti, onorevoli colleghi, diciamo sin da subito che Noi Moderati voterà convintamente a favore di questa legge di bilancio. È la quarta legge di bilancio dal 2022 ad oggi. Mi dispiace per il collega che ci ha preceduto, non è né un pacco né una truffa. […]",
+   "sunto": "Per noi le scelte, sin dall'inizio della nostra legge di bilancio, sono state proprio queste: mettere al centro la persona, la famiglia, il lavoro, l'educazione, la scuola e la formazione, le imprese.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1488,
    "url": "https://www.camera.it/leg19/410?idSeduta=0590&tipo=stenografico#sed0590.stenografico.tit00030.sub00010.int00160"
   },
@@ -1950,7 +2552,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Ministro. Signor Presidente, signor Ministro, diciamo subito che la relazione che lei ha fatto, a nome del Governo, sull'azione svolta in questo periodo da parte del suo Ministero e sua personale, non solo ci soddisfa, ma va nella direzione giusta. […]",
+   "sunto": "Persino Hamas ha condannato l'arresto di Maduro come una grave violazione del diritto internazionale - Hamas! - e un attacco alla sovranità di uno Stato indipendente. […] Si tratta dell'Iran che in questo momento sta uccidendo centinaia e centinaia di giovani, uomini e donne, che manifestano per il diritto internazionale, per la libertà e per i diritti che il diritto internazionale dovrebbe tutelare.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1454,
    "url": "https://www.camera.it/leg19/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00120.sub00020.int00230"
   },
@@ -1963,7 +2570,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Signor Ministro, il 14 gennaio 2026 alcuni organi di stampa, tra cui Il Sole 24 Ore e Vatican News , hanno pubblicato articoli che citavano i contenuti di una nota del Segretariato generale delle istituzioni cristiane di Gerusalemme, che lamentava restrizioni arbitrarie imposte dalle autorità israeliane ai permessi per gli insegnanti che vengono dalla Cisgiordania. […]",
+   "sunto": "Il 14 gennaio 2026 alcuni organi di stampa, tra cui Il Sole 24 Ore e Vatican News , hanno pubblicato articoli che citavano i contenuti di una nota del Segretariato generale delle istituzioni cristiane di Gerusalemme, che lamentava restrizioni arbitrarie imposte dalle autorità israeliane ai…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 186,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00060.sub00030.int00020"
   },
@@ -1976,7 +2586,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Io ringrazio il Ministro degli Affari esteri e ringrazio il Governo italiano perché questa interrogazione mette in luce, ancora una volta, che più delle parole valgono i fatti nella nostra politica internazionale. È il cuore della politica internazionale che da sempre sviluppiamo in tutte le parti del mondo e di cui il Ministro Tajani, anche oggi, si è fatto interprete. […]",
+   "sunto": "Io ringrazio il Ministro degli Affari esteri e ringrazio il Governo italiano perché questa interrogazione mette in luce, ancora una volta, che più delle parole valgono i fatti nella nostra politica internazionale. […] Siamo amici di Israele, ma, proprio perché amici di Israele, vogliamo da sempre costruire in quel luogo e che quel luogo diventi una terra di pace.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 317,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00060.sub00030.int00080"
   },
@@ -1989,7 +2602,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, dico sin da subito che voteremo favorevolmente, come Noi Moderati, alla risoluzione di maggioranza sulle comunicazioni del Ministro degli Affari esteri. Mi permetto solo un'osservazione per poi dare le ragioni per cui il nostro voto sarà convinto proprio in base ai nostri ideali, alla nostra visione politica, al fatto che siamo europeisti convinti e che sosteniamo da sempre […]",
+   "sunto": "Siamo convinti che essere costruttori di pace e di dialogo vuol dire anche saper tradurre in azioni concrete che cosa vuol dire costruire la pace e il dialogo. […] La segretaria del Partito Democratico disse: l'Italia guidi l'azione dell'Unione europea per la pace in Medio Oriente. […] Non era una provocazione, se non si attua questo piano di pace in questo modo, come costruiamo la pace in quel territorio?",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0617&tipo=stenografico#sed0617.stenografico.tit00050.sub00010.int00060"
   },
@@ -2002,7 +2619,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Presidente, onorevoli colleghi, come già detto dall'onorevole Carfagna nel corso del dibattito, Noi Moderati sostiene, senza tentennamenti, la linea di serietà e di responsabilità adottata dal Governo italiano. Abbiamo sentito in queste ore, in questi giorni, una critica profonda da parte dell'opposizione nel dire che l'Italia non ha una linea chiara e precisa. […]",
+   "sunto": "È la linea di un Paese - lo ricordo per chi non vuole capire ed ascoltare - che non ha voluto questa guerra e che non vuole entrare in guerra. […] È la linea di un Paese che sostiene con forza i Paesi minacciati dalla reazione dell'Iran, in specie quelli europei: reazione che mira a creare caos e ad allargare il conflitto armato.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1467,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00040.sub00010.int00120"
   },
@@ -2015,7 +2636,10 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, quando quest'Aula è chiamata a pronunciarsi su questioni che riguardano le prerogative parlamentari, dobbiamo avere tutti la consapevolezza che non stiamo votando su una persona, su un partito o su una vicenda politica, stiamo votando sulla tutela delle regole costituzionali, che garantiscono l'equilibrio tra i poteri dello Stato. […]",
+   "sunto": "E la conclusione alla quale è giunta - il diniego dell'autorizzazione richiesta dalla procura di Palermo - non è una conclusione politica, ma giuridica.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 569,
    "url": "https://www.camera.it/leg19/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00060.sub00020.int00020"
   },
@@ -2028,7 +2652,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio e onorevoli colleghi, vorrei nel mio intervento motivare il sostegno convinto di Noi Moderati alla risoluzione di maggioranza, ancora di più perché la risoluzione di maggioranza declina quanto abbiamo ascoltato nella relazione fatta dal Presidente del Consiglio al Senato e in particolare nella sua replica. […]",
+   "sunto": "Ecco, noi crediamo convintamente che questa sia, in una situazione come questa e nella storia democratica di questo Paese, la posizione da cui partire: unirsi in difesa degli interessi nazionali per un'unità dell'Occidente, dove l'Europa torni ad essere protagonista.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1418,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00040.int00070"
   },
@@ -2041,7 +2670,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Più che commemorare Umberto Bossi, verbo che sa di solenne celebrazione postuma - e chi conosceva Umberto Bossi sa che si sarebbe molto arrabbiato con tutti noi -, vorremmo e vorrei parlare di Umberto Bossi. […]",
+   "sunto": "Più che commemorare Umberto Bossi, verbo che sa di solenne celebrazione postuma - e chi conosceva Umberto Bossi sa che si sarebbe molto arrabbiato con tutti noi -, vorremmo e vorrei parlare di Umberto Bossi.",
+   "temi": [],
    "parole": 818,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00080.int00160"
   },
@@ -2054,7 +2684,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, onorevoli colleghi, mi sarei aspettato anch'io e ci saremmo aspettati che questa relazione del Presidente del Consiglio sul lavoro fatto in questi quattro anni e, poi, sull'ultimo anno e mezzo di lavoro che ci aspetta, potesse essere una grande occasione, anche dura, di confronto tra maggioranza e opposizione sui risultati e sulle proposte alternative; e non […]",
+   "sunto": "Dovere: è il dovere di rispettare gli accordi internazionali, non perché sono forma, ma perché sono sostanza; il dovere di rendere - spiace non capire questo - un'Europa più forte, per l'interesse dell'Europa, per l'interesse dell'Occidente e per l'interesse nazionale, che è diverso dal…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1457,
    "url": "https://www.camera.it/leg19/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00020.sub00020.int00290"
   },
@@ -2067,7 +2704,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Grazie, signor Ministro, ha fatto bene a sottolineare - e condividiamo la risposta che lei ha portato qui in Parlamento - quanto sia strategica, fondamentale e prioritaria per Noi Moderati, per il centrodestra, ma per tutto il Governo - lo ha ribadito la settimana scorsa la Presidente del Consiglio Meloni quando ha riferito sull'ultimo anno e mezzo di lavoro del Governo, da qui alla fine de […]",
+   "sunto": "Mi sembra che, da questo punto di vista, oggi, sia chiarito una volta per tutte che, solo per quanto riguarda ovviamente il suo dicastero, sono 3,8 miliardi di euro da destinare al Piano casa.",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 361,
    "url": "https://www.camera.it/leg19/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00060.sub00030.int00060"
   },
@@ -2080,7 +2721,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Commemorare a 51 anni dal suo barbaro assassinio Sergio Ramelli, un ragazzo di 18 anni ucciso a sprangate perché fascista, comporta un serio esame di coscienza collettivo, non solo perché quel passato non torni più - “Non ho mai partecipato a tanti funerali come in quegli anni” diceva, in un'intervista, Giuliano Ferrara, che in quegli anni da sinistra, da antifascista qual era e qual è anco […]",
+   "sunto": "Commemorare a 51 anni dal suo barbaro assassinio Sergio Ramelli, un ragazzo di 18 anni ucciso a sprangate perché fascista, comporta un serio esame di coscienza collettivo, non solo perché quel passato non torni più - “Non ho mai partecipato a tanti funerali come in quegli anni” diceva, in…",
+   "temi": [],
    "parole": 451,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00080.int00160"
   },
@@ -2093,7 +2735,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Grazie, signor Ministro, nei 2 minuti e 30 secondi, per dire la soddisfazione di Noi Moderati alle quattro risposte che il Ministro ha dato, a testimonianza - non servono altri secondi e non serve aggiungere altre parole - che, in un momento difficile come questo, il primo punto è esserci, essere presenti come Governo e come Ministero, e dire che siamo interlocutori seri ed affidabili per a […]",
+   "sunto": "Una guerra che dura da quattro anni al confine dell'Europa, una nuova guerra che è scoppiata nel Golfo con uno strumento inaspettato, ossia la chiusura dello Stretto di Hormuz, che ha messo in ginocchio tutta l'economia mondiale: cosa vogliamo fare come Europa?",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00050.int00060"
   },
@@ -2106,7 +2752,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, 50 anni fa, il 6 maggio 1976, il Friuli- Venezia Giulia fu colpito da uno dei più devastanti terremoti della storia del nostro Paese. Cito solo un nome che si fissò nella nostra memoria come il simbolo di quella tragedia: Gemona del Friuli. […]",
+   "sunto": "Per me, personalmente, il terremoto del Friuli è poi legato al nome di un altro paese, Tarcento, dove di quell'opera iniziale di assistenza e poi di ricostruzione fu protagonista un sacerdote della diocesi di Milano, don Antonio Villa, recentemente scomparso, che, dopo quell'esperienza, decise…",
+   "temi": [],
    "parole": 507,
    "url": "https://www.camera.it/leg19/410?idSeduta=0654&tipo=stenografico#sed0654.stenografico.tit00050.int00160"
   },
@@ -2119,7 +2766,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signora Ministro, noi siamo molto soddisfatti della risposta alla nostra interrogazione, ma per un semplice motivo, perché, dopo tanti anni, finalmente il Ministero del Lavoro è il Ministero del Lavoro e quell'affermazione fondamentale nella nostra Costituzione, secondo cui il lavoro è il perno su cui si può fondare qualsiasi comunità umana, viene resa non solo a parole, ma anche con i fatt […]",
+   "sunto": "Noi siamo molto soddisfatti della risposta alla nostra interrogazione, ma per un semplice motivo, perché, dopo tanti anni, finalmente il Ministero del Lavoro è il Ministero del Lavoro e quell'affermazione fondamentale nella nostra Costituzione, secondo cui il lavoro è il perno su cui si può…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità"
+   ],
    "parole": 310,
    "url": "https://www.camera.it/leg19/410?idSeduta=0659&tipo=stenografico#sed0659.stenografico.tit00060.sub00090.int00080"
   },
@@ -2132,7 +2783,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. A nome del nostro gruppo, di Noi Moderati, esprimo le più sincere condoglianze alla famiglia di Gianclaudio Bressa e al gruppo parlamentare del Partito Democratico. La sua scomparsa priva le istituzioni repubblicane di una figura autorevole, competente e profondamente legata al valore e alla testimonianza della politica come servizio pubblico. […]",
+   "sunto": "A nome del nostro gruppo, di Noi Moderati, esprimo le più sincere condoglianze alla famiglia di Gianclaudio Bressa e al gruppo parlamentare del Partito Democratico.",
+   "temi": [],
    "parole": 454,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00060.int00160"
   },
@@ -2145,7 +2797,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, rappresentanti del Governo, quello che ci stiamo accingendo a fare con il voto finale su questo decreto Piano Casa è uno degli atti fondamentali della nostra legislatura e dell'azione di Governo, su cui, tra l'altro, lo sottolineo con forza, Noi Moderati ha insistito in tutti questi quattro anni e a cui ha dato il suo contributo fondamentale per le linee e i contenuti ch […]",
+   "sunto": "Il primo, la riqualificazione dell'edilizia popolare, 10 miliardi complessivi sono quelli messi a disposizione come risorse per l'attuazione di questo Piano Casa; nel primo pilastro, nel primo punto fondamentale, 1,7 miliardi di euro vengono messi a disposizione proprio per recuperare quei…",
+   "temi": [
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1473,
    "url": "https://www.camera.it/leg19/410?idSeduta=0681&tipo=stenografico#sed0681.stenografico.tit00050.sub00010.int00100"
   },
@@ -2158,7 +2814,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Nell'annunciare il voto favorevole di Noi Moderati e nel chiedere l'autorizzazione a depositare e a consegnare, l'intervento, mi permetto solo di sottolineare tre brevissime questioni. La prima: ho ascoltato con attenzione il dibattito, lo abbiamo ascoltato, e non mi sembra che sia una colpa quella di una continuità anche ministeriale, magari in legislature diverse, dove l'intelligenza di un Minis […]",
+   "sunto": "Nell'annunciare il voto favorevole di Noi Moderati e nel chiedere l'autorizzazione a depositare e a consegnare, l'intervento, mi permetto solo di sottolineare tre brevissime questioni.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 258,
    "url": "https://www.camera.it/leg19/410?idSeduta=0686&tipo=stenografico#sed0686.stenografico.tit00080.sub00070.int00080"
   },
@@ -2171,7 +2830,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "(Dichiarazione di voto finale – A.C. 2735 ​). Signor Presidente, onorevoli colleghe e colleghi, signori del Governo, oggi quest'Aula è chiamata a esprimersi su un provvedimento che tocca da vicino uno dei settori di maggior rilievo e importanza per il presente e per il futuro del nostro Paese e che, per Noi Moderati, rappresenta senza dubbio un tema di fondamentale importanza. […]",
+   "sunto": "Parliamo dell'università, del reclutamento del personale docente e ricercatore e, più in generale, della ricerca scientifica: un patrimonio strategico che costituisce una delle leve più importanti per la crescita economica, sociale e culturale dell'Italia.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Scuola e università"
+   ],
    "parole": 1126,
    "url": "https://www.camera.it/leg19/410?idSeduta=0686&tipo=stenografico#sed0686.stenografico.tit00130.int00010"
   },
@@ -2184,7 +2847,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente, sia per dichiarare la ragione per cui il nostro gruppo è contro la sospensione dei lavori, per spiegarne le ragioni, sia anche per rispondere alle osservazioni che ho sentito. Nessuno vuole nascondersi dietro un dito, certamente, ma è nella storia del Parlamento che tanti, a volte, emendamenti di maggioranza, anche se proposti dalla maggioranza, vengono bocciati dal Parlamento nella sua sovranità, […]",
+   "sunto": "Nessuno vuole nascondersi dietro un dito, certamente, ma è nella storia del Parlamento che tanti, a volte, emendamenti di maggioranza, anche se proposti dalla maggioranza, vengono bocciati dal Parlamento nella sua sovranità, ed è evidente, da un punto di vista politico, che ogni volta che una…",
+   "temi": [],
    "parole": 654,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00080.int00420"
   },
@@ -2197,7 +2861,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. La ringraziamo, signor Ministro, a nome del nostro gruppo Noi Moderati, anche perché ha fatto bene, in questa sua replica, a ricordare i fatti, le cose concrete che in questi quattro anni abbiamo tentato di mettere in atto per ridurre complessivamente la pressione fiscale e aumentare gli stipendi, anche se poi non è ancora sufficiente. […]",
+   "sunto": "Se dobbiamo fare delle scelte - e lei lo sa, che noi continuiamo a insistere di concentrare le risorse e non disperderle -, in questo momento è prioritario concentrarle in un'alleanza: imprenditori, parti sociali, giovani, ma anche Governo, sui giovani.",
+   "temi": [
+    "Fisco e tasse",
+    "Scuola e università"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00070.int00060"
   },
@@ -2210,7 +2878,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Diciamo subito che il nostro gruppo, Noi Moderati, voterà convintamente a favore di questa proposta di legge per l'istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime degli errori giudiziari. […]",
+   "sunto": "Diciamo subito che il nostro gruppo, Noi Moderati, voterà convintamente a favore di questa proposta di legge per l'istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime degli errori giudiziari.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 1016,
    "url": "https://www.camera.it/leg19/410?idSeduta=0703&tipo=stenografico#sed0703.stenografico.tit00050.sub00030.int00080"
   },
@@ -2223,7 +2894,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Di Giuseppe Gargani si può dire, con assoluta certezza, che è stato un deputato della Repubblica nel pieno senso del termine. Peppino aveva coscienza, come pochi altri, del significato e del valore del Parlamento, della responsabilità e del compito insiti nella rappresentanza. Parlamento, rappresentanza. […]",
+   "sunto": "Protagonista di una stagione politica della Democrazia Cristiana impossibile a ripetersi, era noto - lo ha già citato il collega Rotondi -, tra l'altro, come uno dei “magnifici sette” che, in realtà, erano otto o nove, come sa Rotondi, ma in particolare Ciriaco De Mita, Gerardo Bianco, Nicola…",
+   "temi": [],
    "parole": 519,
    "url": "https://www.camera.it/leg19/410?idSeduta=0703&tipo=stenografico#sed0703.stenografico.tit00080.int00160"
   },
@@ -2236,7 +2908,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, Presidente. Con responsabilità e piacere prendo la parola per dichiarare, sin da subito, il voto favorevole e convinto del gruppo di Noi Moderati sulla risoluzione presentata dalla maggioranza, dopo aver ascoltato le comunicazioni e la replica del Ministro Giorgetti. […]",
+   "sunto": "Se siamo una forza responsabile in maggioranza o all'opposizione - Noi Moderati vuole essere questo, non so gli altri partiti, anche l'opposizione vuole esserlo - aver tenuto i conti in ordine, aver governato il Paese con serietà e stabilità, in questi quattro anni difficili, di difficoltà,…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 1516,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00040.sub00010.int00160"
   },
@@ -2249,7 +2928,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, il nostro gruppo, Noi Moderati, si dichiara molto soddisfatto della risposta che lei ci ha dato. Va esattamente nella direzione dei quattro anni di lavoro di Noi Moderati, di battaglie a sostegno della famiglia, della natalità e, in particolare, di questa alleanza lavoro-famiglia, lavoro-impresa, che diventa fondamentale. […]",
+   "sunto": "Va esattamente nella direzione dei quattro anni di lavoro di Noi Moderati, di battaglie a sostegno della famiglia, della natalità e, in particolare, di questa alleanza lavoro-famiglia, lavoro-impresa, che diventa fondamentale.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00030.int00080"
   },
@@ -2262,7 +2944,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signora Presidente. Signor Ministro, ha fatto bene a ribadire con forza che il pilastro fondamentale della nostra politica estera è da sempre, in tutto il mondo, il rispetto e la tutela delle libertà e dei diritti umani. […]",
+   "sunto": "Ha fatto bene a ribadire con forza che il pilastro fondamentale della nostra politica estera è da sempre, in tutto il mondo, il rispetto e la tutela delle libertà e dei diritti umani. […] La libertà non si impicca, i diritti umani non possono essere calpestati, non possono essere dimenticati neanche da una guerra in corso, non possono essere dimenticati neanche da interessi economici da una parte e dall'altra.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 224,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00040.int00060"
   },
@@ -2275,7 +2960,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Signor Presidente e onorevoli colleghi, Emma Bonino è una persona che è stata una grande protagonista della vita pubblica del nostro Paese negli ultimi decenni. Di lei si può parlare per stereotipi, ma solo se non la si è conosciuta personalmente e se non si è avuta l'occasione di lavorarci insieme. […]",
+   "sunto": "Per esempio, è già stato ricordato, ma con un aspetto particolare, nel 1987 in Polonia, dove andò a sostenere da europarlamentare le manifestazioni del sindacato cattolico Solidarność, fondato da un dissidente del regime comunista, il cattolico Lech Wałęsa.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 432,
    "url": "https://www.camera.it/leg19/410?idSeduta=0726&tipo=stenografico#sed0726.stenografico.tit00050.int00140"
   },
@@ -2288,7 +2976,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Grazie onorevoli… Sorrido per… siamo scaramantici tutti, credo che siamo un Paese scaramantico, signor Presidente del Consiglio. Signor Presidente, onorevoli colleghi, signora Presidente del Consiglio, il Consiglio europeo a cui lei domani parteciperà a nome del nostro Paese giunge all'inizio - e questa mi sembra una sottolineatura importante - del quinto anno della legislatura e dell'esper […]",
+   "sunto": "Sulle rinnovabili ha fatto bene a ricordare anche i risultati concreti che questo Governo ha raggiunto: ricordo - anche per tutti coloro che ci ascoltano e che non conoscono questi dati - che, nel 2023, la quota di rinnovabili nel nostro Paese era del 37 per cento, nel 2025 del 48 per cento,… […] All'interno del Campo largo, AVS propone che, nel 2040, tutta la produzione di energia sia al 100 per cento di rinnovabili.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 1670,
    "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00170"
   },
@@ -2301,7 +2997,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, nel fare memoria di Raffaele Costa vorrei iniziare usando una definizione che ne ha dato Pier Ferdinando Casini: “è stato tante cose e ha avuto molteplici responsabilità, ma è stato sempre e solo un liberale in servizio permanente ed effettivo”. […]",
+   "sunto": "Nel fare memoria di Raffaele Costa vorrei iniziare usando una definizione che ne ha dato Pier Ferdinando Casini: “è stato tante cose e ha avuto molteplici responsabilità, ma è stato sempre e solo un liberale in servizio permanente ed effettivo”.",
+   "temi": [],
    "parole": 453,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00070.int00080"
   },
@@ -2314,7 +3011,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "NM(N-C-U-I)M-CP",
-   "estratto": "Grazie, signor Presidente. Per associarci, anche con il nostro gruppo di Noi Moderati, alle richieste che, correttamente, il collega Bonelli, la collega Schlein e il collega Conte hanno portato a quest'Aula di un'informativa da parte del Ministro Piantedosi sui fatti appena accaduti a Milano. […]",
+   "sunto": "Il giudizio di Noi Moderati è molto chiaro: bisogna ascoltare sempre il disagio, ascoltare il disagio che viene dalle categorie. […] Apriamo un dibattito reale su come la riqualificazione delle periferie è avvenuta in quelle grandi città, su quanto il degrado è stato tollerato in termini di verde, di altalene rotte e di ghettizzazione all'interno delle periferie del nostro Paese.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 761,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00340"
   }

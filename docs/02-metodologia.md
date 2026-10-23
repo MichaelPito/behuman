@@ -110,6 +110,28 @@ monitorati hanno detto in sedi ufficiali negli ultimi 5 anni, senza selezione e 
 - Opinione pubblica: solo atti ufficiali (referendum, raccolte firme online, pronunce della Corte
   costituzionale). Niente sondaggi né social.
 
+## 3-ter. Prima e dopo l'incarico (promesse misurate)
+Per i politici monitorati con un incarico di governo in corso, confrontiamo cosa chiedevano prima
+dell'inizio dell'incarico con cosa è successo dopo. Tutto è definito in `config/impegni.yaml`, con
+regole uguali per tutti:
+- **Frasi «prima»**: resoconti della Camera dal 2018, dichiarazioni scelte da Pagella Politica (qualsiasi
+  data), programmi 2022 del partito (PDF depositato al Ministero dell'Interno, letto con OCR, e il
+  programma completo dove il partito lo ha pubblicato: FdI sul sito ufficiale, Lega in PDF).
+- **Richiesta**: la frase contiene la parola del tema e, prima di essa, un verbo di direzione
+  (ridurre, abolire, fermare…). Nei discorsi il verbo deve avere forma di richiesta (infinito, prima
+  persona, oppure accanto a «chiediamo», «bisogna»…); descrizioni e negazioni non contano.
+- **Indicatori ufficiali**: accise (MASE), pressione fiscale (Eurostat), sbarchi su 12 mesi (UNHCR / Ministero
+  dell'Interno). Temi senza indicatore numerico: si mostrano solo le leggi del Governo sul tema.
+- **Esito meccanico** sul valore all'inizio dell'incarico e sull'ultimo dato: nella direzione chiesta,
+  quasi invariato (±1%), nella direzione opposta, obiettivo raggiunto (abolizione a zero). Mostriamo
+  anche il valore di un anno prima, per le misure temporanee in corso all'insediamento.
+- Non diciamo se una promessa è «mantenuta»: un indicatore dipende anche da fattori esterni.
+
+### Sunto degli interventi
+Ogni intervento ha un sunto estrattivo (2-3 frasi intere del testo ufficiale, scelte da un punteggio
+sulle parole ricorrenti, senza formule di cortesia) e l'elenco delle aree toccate (dizionario pubblico
+di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale ufficiale è sempre linkato.
+
 ## 4. Regole di equilibrio
 - Stesso numero di politici monitorati per maggioranza e opposizione (oggi 12 + 12).
 - Ogni nuova proposizione deve poter riguardare soggetti di entrambi gli schieramenti; si applica a

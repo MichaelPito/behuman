@@ -153,9 +153,139 @@
     "fonte": "TV",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Esteri e difesa",
+    "n": 41
+   },
+   {
+    "tema": "Unione europea",
+    "n": 33
+   },
+   {
+    "tema": "Sanità",
+    "n": 28
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 26
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 23
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 19
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 17
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 17
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 14
+   },
+   {
+    "tema": "Giustizia",
+    "n": 11
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 10
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 9
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 8
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 3
+   }
+  ],
+  "temi_per_anno": {
+   "2022": [
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 4
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 3
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Unione europea",
+     "n": 10
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 8
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 7
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Unione europea",
+     "n": 8
+    },
+    {
+     "tema": "Sanità",
+     "n": 6
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 6
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 15
+    },
+    {
+     "tema": "Sanità",
+     "n": 13
+    },
+    {
+     "tema": "Unione europea",
+     "n": 8
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 8
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    }
+   ]
+  }
  },
- "recap": "Dal 9 dicembre 2021 al 21 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 52 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+ "recap": "Dal 9 dicembre 2021 al 21 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 52 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -327,7 +457,11 @@
    "frase": "L’intera coalizione di centrodestra è stata votata da un elettore su quattro degli aventi diritto",
    "url": "https://pagellapolitica.it/fact-checking/centrodestra-votato-un-avente-diritto-voto-su-quattro",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, per me questa è la prima volta che svolgo un intervento da questo lato dell'emiciclo. Presidente Meloni, si invertono i ruoli. Io ho ascoltato con molta attenzione il suo discorso programmatico e dal suo discorso, insieme anche ad altri segnali emersi dalla composizione di questa squadra di Governo, ricaviamo - almeno personalmente lo ricavo - u […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00160"
+   }
   },
   {
    "data": "2022-11-13",
@@ -359,7 +493,11 @@
    "frase": "Il governo Meloni ha tagliato i fondi del Programma per la cooperazione allo sviluppo",
    "url": "https://pagellapolitica.it/fact-checking/taglio-fondi-cooperazione-sviluppo",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#:~:text=E%20considerato%20che,5%20Stelle)%3F",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi… Se gentilmente il Presidente vorrà riservare la stessa attenzione che per tre anni ho riservato ai suoi interventi, anche se, qualche volta, con contumelie, senza labiale… Lo scorso 24 febbraio, Vladimir Putin ha promosso una vile e ingiustificata aggressione che sta causando una crisi umanitaria: migliaia di morti, milioni di sfollati, distruzione di infrast […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00180"
+   }
   },
   {
    "data": "2023-02-21",
@@ -415,7 +553,11 @@
    "frase": "Con questo vostro decreto la platea dei percettori del reddito di cittadinanza verrà dimezzata e anche 100 mila famiglie, con al proprio interno disabili, minori e anziani, perderanno una rete di protezione sociale",
    "url": "https://pagellapolitica.it/fact-checking/beneficiari-assegno-inclusione-reddito-cittadinanza",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, onorevoli colleghi, signora Ministra, lo scorso 17 giugno, 20.000 persone hanno sfilato per le strade di Roma e hanno lanciato un messaggio chiaro a questo Governo, che si diletta sadicamente ad ignorare il grido di sofferenza di chi non arriva a fine mese, di chi è costretto a stringere sempre di più la propria cinghia; 20.000 persone hanno gridato: basta vite precarie! E non è uno slogan , è un g […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00200"
+   }
   },
   {
    "data": "2023-07-12",
@@ -596,7 +738,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, per me questa è la prima volta che svolgo un intervento da questo lato dell'emiciclo. Presidente Meloni, si invertono i ruoli. Io ho ascoltato con molta attenzione il suo discorso programmatico e dal suo discorso, insieme anche ad altri segnali emersi dalla composizione di questa squadra di Governo, ricaviamo - almeno personalmente lo ricavo - u […]",
+   "sunto": "L'unica certezza che emerge dal suo discorso, Presidente Meloni, è che ci ha restituito la rivendicata continuità con il Governo Draghi (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1676,
    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00160",
    "verificata": "https://pagellapolitica.it/fact-checking/centrodestra-votato-un-avente-diritto-voto-su-quattro"
@@ -610,7 +760,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, sabato 5 novembre si è svolta a Roma una imponente manifestazione promossa dalla società civile, dall'associazionismo di base, espressione di quella maggioranza silenziosa nel Paese che da nove mesi ormai si è convinta in modo univoco che, per scongiurare una ulteriore escalation militare e il rischio di un conflitto nucleare, si debba porre fine a questo conflitto, e quale unic […]",
+   "sunto": "Sabato 5 novembre si è svolta a Roma una imponente manifestazione promossa dalla società civile, dall'associazionismo di base, espressione di quella maggioranza silenziosa nel Paese che da nove mesi ormai si è convinta in modo univoco che, per scongiurare una ulteriore escalation militare e il…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 448,
    "url": "https://www.camera.it/leg19/410?idSeduta=0009&tipo=stenografico#sed0009.stenografico.tit00060.sub00020.int00170"
   },
@@ -623,7 +776,16 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, membri del Governo e onorevoli colleghi, pochi giorni fa siamo giunti al nono mese di conflitto in terra ucraina. Sono nove mesi in cui la Russia ha tentato in tutti i modi di soverchiare la sovranità territoriale, politica, dell'Ucraina aprendo un conflitto alle porte dell'Europa e innescando una crisi i cui risvolti stanno sconquassando anche il tessuto produttivo e sociale di altri Paesi e inter […]",
+   "sunto": "Sono nove mesi in cui la Russia ha tentato in tutti i modi di soverchiare la sovranità territoriale, politica, dell'Ucraina aprendo un conflitto alle porte dell'Europa e innescando una crisi i cui risvolti stanno sconquassando anche il tessuto produttivo e sociale di altri Paesi e internazionale.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 1175,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00030.sub00020.int00140"
   },
@@ -636,7 +798,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi… Se gentilmente il Presidente vorrà riservare la stessa attenzione che per tre anni ho riservato ai suoi interventi, anche se, qualche volta, con contumelie, senza labiale… Lo scorso 24 febbraio, Vladimir Putin ha promosso una vile e ingiustificata aggressione che sta causando una crisi umanitaria: migliaia di morti, milioni di sfollati, distruzione di infrast […]",
+   "sunto": "Mi avete rivolto un'accusa, forse la più grave e infamante che si possa rivolgere a un Presidente del Consiglio, l'accusa di alto tradimento, tra l'altro nel periodo più duro della pandemia, quando mi avete accusato di aver sottoscritto la riforma del Trattato del MES nottetempo, senza informare…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1484,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00180",
    "verificata": "https://pagellapolitica.it/fact-checking/taglio-fondi-cooperazione-sviluppo"
@@ -650,7 +820,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli membri del Governo e onorevoli colleghi, per anni, dai banchi dell'opposizione, l'allora deputata Giorgia Meloni si è interrogata su dove fosse finita la democrazia parlamentare, visto che non veniva consentito al Parlamento di discutere la legge di bilancio. […]",
+   "sunto": "Avete marchiato i cittadini, avete marchiato quelli che integrano con il reddito di cittadinanza stipendi da fame, quelli che a cinquant'anni hanno difficoltà, perdendo il lavoro, a ricollocarsi nel mercato dell'occupazione, li avete bollati come scansafatiche, malfattori.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Unione europea",
+    "Giustizia",
+    "Famiglia e natalità"
+   ],
    "parole": 1279,
    "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00040.sub00010.int00220"
   },
@@ -663,7 +840,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, questo Governo, combinando insieme propositi preannunciati e azioni già realizzate, ci restituisce la visione di una giustizia che ci preoccupa, perché ci appare fortemente distorta anche rispetto a fondamentali principi costituzionali, a partire dall'affermazione dell'eguaglianza dei cittadini davanti alla legge, e anche per quanto riguarda i principi del rispetto dell'imparzia […]",
+   "sunto": "Gli addetti ai lavori, parlo degli addetti ai lavori, quelli che noi poi esaltiamo negli eventi come quello che è accaduto adesso, della cattura, quelli che combattono la mafia da una vita, ci spiegano che le infiltrazioni mafiose sono pervasive, allignano in ampie reti corruttive, anche…",
+   "temi": [
+    "Fisco e tasse",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1526,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00200"
   },
@@ -676,7 +858,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": null,
-   "estratto": "….che si avvale anche dell'esperienza maturata sul campo da persone che hanno combattuto, per una vita intera, la mafia, a proprio rischio e pericolo di vita (Commenti dei deputati del gruppo Fratelli d'Italia ).",
+   "sunto": "….che si avvale anche dell'esperienza maturata sul campo da persone che hanno combattuto, per una vita intera, la mafia, a proprio rischio e pericolo di vita (Commenti dei deputati del gruppo Fratelli d'Italia ).",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 34,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00280"
   },
@@ -689,7 +874,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Per questa ragione, non possiamo davvero esprimere parere favorevole …",
+   "sunto": "Per questa ragione, non possiamo davvero esprimere parere favorevole …",
+   "temi": [],
    "parole": 10,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00040.sub00010.int00310"
   },
@@ -702,7 +888,17 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signor Presidente del Consiglio, onorevoli colleghi, scusatemi per il tono di voce basso. Ieri ho perso la voce, dando voce agli esodati del superbonus, che erano a qualche centinaio di metri da qui; erano in preda alla disperazione e alla rabbia per non essere da lei ascoltati . […]",
+   "sunto": "Si ragionava, nella risoluzione, di legittima difesa dell'Ucraina; l'Italia si doveva impegnare a sostenere ogni iniziativa multilaterale e bilaterale utile a una de-escalation militare e noi 5 Stelle, lo ricordate, non senza tormenti di coscienza, decidemmo, responsabilmente, di non abbandonare…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1585,
    "url": "https://www.camera.it/leg19/410?idSeduta=0073&tipo=stenografico#sed0073.stenografico.tit00040.sub00010.int00200"
   },
@@ -715,7 +911,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghi. Signor Ministro, abbiamo seguito la sua risposta. Cerca di rendere conciliabile quello che è inconciliabile. Si sofferma sulla lettera, interpretando il pensiero della Meloni, dicendo che si riferiva solo al decreto. […]",
+   "sunto": "Ci vuol far credere che l'invio previsto in questo decreto non abbia un impatto sul livello di sicurezza del nostro sistema di difesa e non richieda, comunque, in prospettiva, come ha detto, un ripristino più complessivo delle nostre scorte per quanto riguarda gli arsenali militari.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00020.int00080"
   },
@@ -728,7 +927,13 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, lo scorso 31 marzo, di fronte alle prospettive di poter perdere fondi del PNRR, il MoVimento 5 Stelle ha aperto la strada a un dialogo inclusivo e costruttivo su questo tema. Io stesso, di mio pugno, ho firmato un appello sul principale quotidiano italiano, rappresentando la posizione del MoVimento 5 Stelle. […]",
+   "sunto": "Lo scorso 31 marzo, di fronte alle prospettive di poter perdere fondi del PNRR, il MoVimento 5 Stelle ha aperto la strada a un dialogo inclusivo e costruttivo su questo tema. […] Vorrei approfittare dell'occasione, di questa occasione, per ringraziarli per queste aperture (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1210,
    "url": "https://www.camera.it/leg19/410?idSeduta=0091&tipo=stenografico#sed0091.stenografico.tit00060.sub00020.int00190"
   },
@@ -741,7 +946,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, mi rivolgo, suo tramite, al Presidente del Consiglio. Onorevoli colleghi, abbiamo ascoltato le comunicazioni della Presidente Meloni in vista del prossimo Consiglio europeo e dobbiamo dire che molti osservatori sono stati sin qui benevoli nei confronti del Governo. Oggi, però, questa benevola condiscendenza non ha più ragione di essere. […]",
+   "sunto": "Se vuole compiacere tutti, la Presidente Meloni finirà per non compiacere nessuno e, soprattutto, per scontentare noi italiani . […] La Presidente Meloni è stata capace di parlare per vari minuti della Cina; ora, c'è qualcuno, in quest'Aula, che può anticiparci la posizione del Governo sul rinnovo dell'Accordo con la Cina sulla Via della seta ? […] In Consiglio europeo, la Presidente Meloni, domani, cosa dirà?",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1416,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00040.sub00010.int00230"
   },
@@ -754,7 +965,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, signora Ministra, lo scorso 17 giugno, 20.000 persone hanno sfilato per le strade di Roma e hanno lanciato un messaggio chiaro a questo Governo, che si diletta sadicamente ad ignorare il grido di sofferenza di chi non arriva a fine mese, di chi è costretto a stringere sempre di più la propria cinghia; 20.000 persone hanno gridato: basta vite precarie! E non è uno slogan , è un g […]",
+   "sunto": "Con questa controriforma avete condannato al disagio sociale un'ampia platea di cittadini e avete consapevolmente gettato benzina sul fuoco di un Paese spinto in una surreale competizione al ribasso tra ultimi e penultimi. […] È capricciosa o rivendica la dignità del lavoro, la dignità sociale ? […] Rivendicano dignità del lavoro, dignità sociale, la speranza di vivere in un Paese migliore.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 1372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00200",
    "verificata": "https://pagellapolitica.it/fact-checking/beneficiari-assegno-inclusione-reddito-cittadinanza"
@@ -768,7 +984,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, si deve rivolgere a lei!",
+   "sunto": "Si deve rivolgere a lei!",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00450"
   },
@@ -781,7 +998,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente e cari colleghi, qualche passo indietro con la memoria: inizio del 2020, ci ritroviamo con l'esplosione della pandemia e la curva del contagio che subito si impenna. Ricordo la prima riunione di notte, notte fonda, ritornando da un Consiglio europeo a Bruxelles: ci ritroviamo in Protezione civile, con tutti i presidenti di regione collegati, con tutte le forze di protezione e tutto il nostro sistema […]",
+   "sunto": "Eppure Giorgia Meloni interveniva con i suoi video e con le sue lettere: “Presidente del Consiglio, metta subito a disposizione di chiunque 1.000 euro con un clic”.",
+   "temi": [
+    "Sanità",
+    "Unione europea",
+    "Giustizia",
+    "Famiglia e natalità"
+   ],
    "parole": 1085,
    "url": "https://www.camera.it/leg19/410?idSeduta=0134&tipo=stenografico#sed0134.stenografico.tit00050.sub00020.int00120"
   },
@@ -794,7 +1017,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "…vi accuso davanti al popolo italiano, perché questa Commissione è una farsa. Non è un atto di coraggio politico, è un atto di vigliaccheria! È un atto che rivela la vostra scarsa credibilità politica ! Concludo. Avete dalla vostra solo una cosa: la forza dei numeri, però non vi riconosciamo nessuna autorevolezza politica e morale . […]",
+   "sunto": "Non è un atto di coraggio politico, è un atto di vigliaccheria! […] Questa votazione ve la fate da soli, perché noi ascolteremo l'intervento dell' ex Ministro Roberto Speranza e questo schiaffo che state dando agli italiani… …alle famiglie che hanno subito perdite, a tutto il personale sanitario che ha lavorato, a tutte le Forze di polizia… …lo darete senza la…",
+   "temi": [
+    "Sanità",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 107,
    "url": "https://www.camera.it/leg19/410?idSeduta=0134&tipo=stenografico#sed0134.stenografico.tit00050.sub00020.int00140"
   },
@@ -807,7 +1035,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Abbiamo ascoltato la sua risposta, in linea con lo stile di Palazzo Chigi: freddo burocratese. Siamo passati da Giorgia Meloni, che prometteva 1.000 euro con un clic a tutti, a un sms che cancella tutto per 169.000 famiglie abbandonate a se stesse. Oggi nelle città italiane da Nord al Sud c'è rabbia, confusione e sfiducia. […]",
+   "sunto": "Non cercate distrazioni, non cercate altrui responsabilità (Applausi dei deputati dei gruppi MoVimento 5 Stelle e Alleanza Verdi e Sinistra). […] State spaccando consapevolmente il Paese, perché avete illuso queste persone di voler rimpiazzare il reddito di cittadinanza con corsi di formazione per potere lavorare.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 269,
    "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00020.int00060"
   },
@@ -820,7 +1051,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, oggi, siamo qui per ricordarvi che mentre aumentano i mutui, la benzina…",
+   "sunto": "Oggi, siamo qui per ricordarvi che mentre aumentano i mutui, la benzina…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 16,
    "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00080"
   },
@@ -833,7 +1067,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "…il prezzo del carrello della spesa, ci sono persone che, lo chiariamo, lavorano da mattina a sera per 3, 4 o 5 euro lordi l'ora. Fuori c'è un ceto medio che si impoverisce, ci sono contratti che ormai sono diventati sempre più precari, sì, come piace a voi, l'avete scritto nel decreto del 1° Maggio . […]",
+   "sunto": "Oggi sul salario minimo legale rimandate a dopo l'estate, sperando che gli italiani se ne dimentichino, ma il salario ricco è invece quello che avete riservato a parlamentari ed ex parlamentari (Applausi dei deputati del gruppo MoVimento 5 Stelle). […] Permettetemi di dirlo: la Presidente Meloni, se intende questo, non ha letto una riga della nostra proposta (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 709,
    "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00100"
   },
@@ -846,7 +1083,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, onorevoli colleghi, posso dirlo? Sono rimasto sorpreso da cotanto entusiasmo: vedere tutte le forze di maggioranza unirsi, dopo l'intervento del capogruppo Foti, in un applauso liberatorio. Ma liberatorio per chi ? Lo spirito di corpo, l'ideologia, se debole, soprattutto se debole, fa male, vi fa male, perché ci impedisce di gettare uno sguardo, alle prese con i nostri Regolamenti, su quello che succede f […]",
+   "sunto": "Dovremmo guardare in faccia questa realtà, mettere da parte bandiere, mettere da parte rivalità e dire con forza, tutti insieme, che l'Italia non può rimanere tra gli unici 5 Paesi, su 27, che ancora non hanno un salario minimo. […] Basta schiaffi a quest'Aula, basta schiaffi ai colleghi che hanno lavorato in Commissione lavoro!",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 721,
    "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00050.int00480"
   },
@@ -859,7 +1099,16 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signora Presidente del Consiglio, onorevoli colleghi, il Consiglio europeo in programma domani cade in un momento molto delicato per l'intera comunità internazionale, ancora scossa dall'efferato attacco terroristico di Hamas e dalla dura reazione che ne sta seguendo ad opera dell'esercito israeliano. […]",
+   "sunto": "Il Consiglio europeo in programma domani cade in un momento molto delicato per l'intera comunità internazionale, ancora scossa dall'efferato attacco terroristico di Hamas e dalla dura reazione che ne sta seguendo ad opera dell'esercito israeliano.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 941,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00200"
   },
@@ -872,7 +1121,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Ma da un Governo che fa queste scelte cosa possiamo aspettarci in Europa? Da voi ci aspettiamo “un signor sì” ai tagli che vogliono imporci i falchi dell'austerità, “un signor sì” allo scorporo delle spese per armi dai vincoli di bilancio. […]",
+   "sunto": "Da voi ci aspettiamo “un signor sì” ai tagli che vogliono imporci i falchi dell'austerità, “un signor sì” allo scorporo delle spese per armi dai vincoli di bilancio. […] Ma guardate che le urgenze dei cittadini non sono investire in più armi, ma investimenti in sanità, scuola, ambiente, contrasto alla perdita del potere di acquisto che uccide il ceto medio .",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Ambiente e clima"
+   ],
    "parole": 120,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00240"
   },
@@ -885,7 +1141,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "In replica, Presidente Meloni, lei ha parlato molto dei flussi migratori, degli sbarchi che qualifica illegali e ha fatto un'equazione, tutta da discutere, ma voglio assecondarla. Lei sta dicendo che, più sbarchi e aumenti illegali ci sono, e più aumenta il rischio di insicurezza per gli italiani. […]",
+   "sunto": "In replica, Presidente Meloni, lei ha parlato molto dei flussi migratori, degli sbarchi che qualifica illegali e ha fatto un'equazione, tutta da discutere, ma voglio assecondarla.",
+   "temi": [
+    "Immigrazione",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 148,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00260"
   },
@@ -898,7 +1159,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Concludo… se permettete, concludo. Presidente Meloni, vedo che, più che dall'interesse degli italiani, lei è ossessionata dal sottoscritto e dal MoVimento 5 Stelle e, soprattutto, è ossessionata dai buoni rapporti che ho costruito con i leader europei per tutelare l'interesse degli italiani . […]",
+   "sunto": "Vedo che, più che dall'interesse degli italiani, lei è ossessionata dal sottoscritto e dal MoVimento 5 Stelle e, soprattutto, è ossessionata dai buoni rapporti che ho costruito con i leader europei per tutelare l'interesse degli italiani .",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 135,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00290"
   },
@@ -911,7 +1175,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Concludo. Annuncio il voto contrario del MoVimento 5 Stelle alla risoluzione di maggioranza. Uscite dalla propaganda ed entrate nella realtà. La campanella è suonata, la ricreazione è finita, Presidente .",
+   "sunto": "La campanella è suonata, la ricreazione è finita, Presidente .",
+   "temi": [],
    "parole": 30,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00370"
   },
@@ -924,7 +1189,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente. Signor Ministro, forse la domanda nostra non è stata chiarissima. Non le abbiamo chiesto degli aiuti umanitari e dei corridoi umanitari, noi volevamo capire cosa state facendo, cosa sta facendo il Governo italiano, realmente e concretamente, per un cessate il fuoco nella Striscia di Gaza. […]",
+   "sunto": "Non le abbiamo chiesto degli aiuti umanitari e dei corridoi umanitari, noi volevamo capire cosa state facendo, cosa sta facendo il Governo italiano, realmente e concretamente, per un cessate il fuoco nella Striscia di Gaza.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 357,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00030.int00060"
   },
@@ -937,7 +1205,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, mi permetta di intervenire sull'ordine dei lavori, perché il Ministro Tajani, nel rispondere a degli interroganti, altri che non fanno parte del mio gruppo, è ritornato sul quesito che gli abbiamo posto noi, e si è rivolto a me personalmente, con tono alterato, affermando di non sentirsi correttamente dato sopra di sé l'appellativo di “codardo”. […]",
+   "sunto": "Mi permetta di intervenire sull'ordine dei lavori, perché il Ministro Tajani, nel rispondere a degli interroganti, altri che non fanno parte del mio gruppo, è ritornato sul quesito che gli abbiamo posto noi, e si è rivolto a me personalmente, con tono alterato, affermando di non sentirsi…",
+   "temi": [],
    "parole": 132,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00020"
   },
@@ -950,7 +1219,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "…altera completamente non solo le regole della Camera e del Regolamento parlamentare, ma anche la logica di una simmetria e di un contraddittorio. Quindi, lo rende completamente asimmetrico.",
+   "sunto": "…altera completamente non solo le regole della Camera e del Regolamento parlamentare, ma anche la logica di una simmetria e di un contraddittorio.",
+   "temi": [],
    "parole": 28,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00040"
   },
@@ -963,7 +1233,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Cioè, mi spiego meglio. Se il Ministro Tajani (Proteste di deputati del gruppo Forza Italia-Berlusconi Presidente-PPE… Scusate, colleghi, questo riguarda anche voi… …a meno che non pensiate di stare sempre nella maggioranza, con Ministri che parlano senza rispettare l'ordine … Scusi, Presidente, non sento. Allora, il tema è questo. […]",
+   "sunto": "Se il Ministro Tajani (Proteste di deputati del gruppo Forza Italia-Berlusconi Presidente-PPE… Scusate, colleghi, questo riguarda anche voi… …a meno che non pensiate di stare sempre nella maggioranza, con Ministri che parlano senza rispettare l'ordine … Scusi, Presidente, non sento.",
+   "temi": [],
    "parole": 135,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00060.int00060"
   },
@@ -976,7 +1247,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, intervengo sull'ordine dei lavori. Dopo vari balletti, vari teatrini, rinvii, espedienti di varia natura e stratagemmi di vario ordine, il Presidente Meloni e il Governo hanno gettato la maschera. Hanno votato “no” al salario minimo legale, hanno votato “no”, hanno detto “no” alla condizione, che non è dignitosa, in cui versano 3.600.000 lavoratrici e lavoratori. […]",
+   "sunto": "Dopo vari balletti, vari teatrini, rinvii, espedienti di varia natura e stratagemmi di vario ordine, il Presidente Meloni e il Governo hanno gettato la maschera. […] Hanno votato “no” al salario minimo legale, hanno votato “no”, hanno detto “no” alla condizione, che non è dignitosa, in cui versano 3.600.000 lavoratrici e lavoratori.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 93,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00020"
   },
@@ -989,7 +1263,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Lo dico subito . Di fronte a questa votazione, signor Presidente, in cui la maggioranza ha voltato le spalle a 3.600.000 lavoratrici e lavoratori, che peraltro spesso hanno confessato - li abbiamo incontrati - e hanno dichiarato di vergognarsi per la condizione in cui sono, dopo tanti anni, dopo tanti sacrifici, con queste buste paga da fame, noi riteniamo, invece, e lo dico qui, in quest'Aula, che oggi chi si deve v […]",
+   "sunto": "Di fronte a questa votazione, signor Presidente, in cui la maggioranza ha voltato le spalle a 3.600.000 lavoratrici e lavoratori, che peraltro spesso hanno confessato - li abbiamo incontrati - e hanno dichiarato di vergognarsi per la condizione in cui sono, dopo tanti anni, dopo tanti sacrifici,…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 186,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00050"
   },
@@ -1002,7 +1279,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, il Presidente Meloni, in più occasioni, per quanto riguarda il conflitto russo-ucraino ha detto che scommette sulla vittoria dell'Ucraina. L'abbiamo invitata a considerare che questa scommessa è disastrosa, che non si scommette sulla pelle della popolazione ucraina . Vi abbiamo sempre invitato a considerare come irragionevole questa strategia basata su un' escalation militare. […]",
+   "sunto": "Il Presidente Meloni, in più occasioni, per quanto riguarda il conflitto russo-ucraino ha detto che scommette sulla vittoria dell'Ucraina. […] Forse perché il MES è stato introdotto in Italia attraverso un disegno di legge approvato nell'agosto 2011, Governo Berlusconi quater , Ministro della Gioventù, Giorgia Meloni, Ministri La Russa, Fitto, lei se lo ricorda?",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1150,
    "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00150"
   },
@@ -1015,7 +1296,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Perché vedete - e concludo - qui non è una questione di partito. Le questioni di partito, Presidente Meloni, lei se le regola come vuole. Adesso c'è anche Natale, vi riunite in famiglia, con sua sorella e suo cognato, e decidete, però attenzione, per gli incarichi di partito lei, Presidente Meloni, risponde ai suoi militanti e ai suoi attivisti . […]",
+   "sunto": "Adesso c'è anche Natale, vi riunite in famiglia, con sua sorella e suo cognato, e decidete, però attenzione, per gli incarichi di partito lei, Presidente Meloni, risponde ai suoi militanti e ai suoi attivisti . […] Per gli incarichi di Governo, lei ha il dovere di rispondere all'Italia intera e l'Italia intera è stanca di assistere a questo spettacolo di degrado istituzionale sotto i nostri occhi!",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 99,
    "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00110.sub00010.int00170"
   },
@@ -1028,7 +1312,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "C'è sempre un momento, il momento della verità, in cui ci si confronta, la propaganda va via e rimane la realtà delle posizioni e dei fatti ed è arrivato . Giorgia Meloni ha detto che avevamo fatto passare il MES con il sangue degli italiani, senza un dibattito parlamentare, con il favore delle tenebre. […]",
+   "sunto": "C'è sempre un momento, il momento della verità, in cui ci si confronta, la propaganda va via e rimane la realtà delle posizioni e dei fatti ed è arrivato .",
+   "temi": [],
    "parole": 134,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00610"
   },
@@ -1041,7 +1326,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Nel dicembre del 2020, in questo Parlamento, noi abbiamo chiarito la nostra posizione, abbiamo lavorato finanche per migliorare uno strumento che, nel 2011, molti di voi - eravate anche Ministri - hanno portato qui, in Italia. Voi ! Lo abbiamo anche migliorato con il backstop , ma abbiamo detto che per il nostro Paese non era sufficiente. […]",
+   "sunto": "Abbiamo detto: dobbiamo lavorare per migliorare, introdurre l'EDIS, lo schema assicurativo per i depositi bancari, per l'Unione bancaria, dobbiamo rendere il MES da accordo intergovernativo un accordo comunitario e, soprattutto, dobbiamo lavorare per stravolgere il Patto di stabilità e crescita .",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 319,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00630"
   },
@@ -1054,7 +1342,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Non vi dovete offendere se vi dico che siete dei leoni nelle vostre feste di partito, come abbiamo visto ad Atreju. Abbiamo visto Giorgia Meloni, ancora una volta, che diventa paonazza, si scompone. Ma perché non si scompone in Europa? Perché non diventa paonazza in Europa, dove fate i docili agnellini ? Non avete raggiunto alcun risultato e quella rivoluzione che abbiamo avviato è stata una restaurazione. […]",
+   "sunto": "Avete reso il Patto di stabilità un “pacco” di stabilità e di decrescita. […] Non avete ottenuto nulla sull'EDIS, sull'unione bancaria, il MES rimarrà, grazie a voi, un accordo intergovernativo e non comunitario, quello che avevamo preannunciato.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 128,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00080.sub00020.int00700"
   },
@@ -1067,7 +1358,12 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente Meloni, non siamo affatto soddisfatti della sua risposta, perché lei ha illuso gli italiani, dicendo che sarebbe andata a Bruxelles a far tremare l'Europa. Qui, a tremare, invece, è l'Italia. Lei è tornata, nonostante voglia girare le carte sulla tavola, con un “pacco” di stabilità, che prevede il taglio di 12 miliardi l'anno, che si scaricherà sulla testa degli italiani, e non sono stime del MoVimento 5 S […]",
+   "sunto": "Lei è tornata, nonostante voglia girare le carte sulla tavola, con un “pacco” di stabilità, che prevede il taglio di 12 miliardi l'anno, che si scaricherà sulla testa degli italiani, e non sono stime del MoVimento 5 Stelle ma di istituti autorevoli internazionali.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 280,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00070.int00060"
   },
@@ -1080,7 +1376,13 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Lei, poi, è ossessionata dal superbonus, perché vuole gettare fumo sugli italiani con questo mezzo di distrazione di massa. La più grande truffa del secolo è quel programma farlocco che lei ha presentato agli elettori. Pensi un po', lei si è presentata, va in Europa e torna con l'Italia in ginocchio. Voleva aiutare i pensionati e stiamo peggio, Meloni, voleva i blocchi navali e siamo al record di sbarchi. […]",
+   "sunto": "Lei, poi, è ossessionata dal superbonus, perché vuole gettare fumo sugli italiani con questo mezzo di distrazione di massa. […] Può essere che farà meno danni e gli italiani le saranno grati (Applausi dei deputati del gruppo MoVimento 5 Stelle – Proteste e applausi ironici di deputati del gruppo Fratelli d'Italia ).",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 147,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00070.int00080"
   },
@@ -1093,7 +1395,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, vedo che i colleghi di maggioranza sono rimasti in pochi.",
+   "sunto": "Vedo che i colleghi di maggioranza sono rimasti in pochi.",
+   "temi": [],
    "parole": 11,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00020"
   },
@@ -1106,7 +1409,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Molti sono andati via, mi dispiace perché mi avrebbe fatto piacere parlare a tutti i presenti alla votazione. Credo sia legittimo proporre una Commissione d'inchiesta. Vorrei chiarire che non ho alcun timore per quanto riguarda l'indagine che verrà svolta (Applausi dei deputati dei gruppi MoVimento 5 Stelle, Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra). […]",
+   "sunto": "Vorrei chiarire che non ho alcun timore per quanto riguarda l'indagine che verrà svolta (Applausi dei deputati dei gruppi MoVimento 5 Stelle, Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra).",
+   "temi": [],
    "parole": 178,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00040"
   },
@@ -1119,7 +1423,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Detto questo, faremo di tutto… Fermi, fermi. Presidente, faremo di tutto per dimostrare, nonostante il perimetro delimitato con cui nasce questa Commissione, nonostante questo vizio d'impostazione, nonostante questa paura che la maggioranza ha dimostrato nel voler restringere il raggio di indagine, chi durante la pandemia si è comportato con onore e chi con disonore e riteniamo, ma lo vedremo poi in Commissione, che […]",
+   "sunto": "Faremo di tutto per dimostrare, nonostante il perimetro delimitato con cui nasce questa Commissione, nonostante questo vizio d'impostazione, nonostante questa paura che la maggioranza ha dimostrato nel voler restringere il raggio di indagine, chi durante la pandemia si è comportato con onore e…",
+   "temi": [],
    "parole": 169,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00060"
   },
@@ -1132,7 +1437,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Mi faccia finire, Presidente, se mi interrompe pure lei, abbia pazienza. Mi faccia finire poi lei avrà agio di replicare tranquillamente. Più volte all'onorevole che è intervenuta, alla collega, è stato concesso di parlare direttamente addosso, dirigendosi nei nostri confronti e per giunta, vengo al merito, con delle accuse infamanti, perché dire in quest'Aula che siamo stati condannati , è una infamante accusa perch […]",
+   "sunto": "Più volte all'onorevole che è intervenuta, alla collega, è stato concesso di parlare direttamente addosso, dirigendosi nei nostri confronti e per giunta, vengo al merito, con delle accuse infamanti, perché dire in quest'Aula che siamo stati condannati , è una infamante accusa perché significa,…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 183,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00100.int00110"
   },
@@ -1145,7 +1453,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente della Camera, Presidente Meloni, Governo, onorevoli colleghi. Presidente Meloni, mi rivolgo a lei direttamente. In vista di questo Consiglio europeo io la invito, per il bene dell'Italia, a fare un bagno di realtà e di umiltà. […]",
+   "sunto": "In vista di questo Consiglio europeo io la invito, per il bene dell'Italia, a fare un bagno di realtà e di umiltà. […] Lei ci racconta che l'Italia con lei vince, lei ci racconta che l'Italia con lei ha riacquistato una credibilità in Europa e nel mondo; noi, invece, come tutti gli italiani, vediamo che l'Italia arriva sempre ultima: è accaduto con l'Expo 2030, con Roma ultima città su 3; è accaduto con…",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1407,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00040.sub00010.int00240"
   },
@@ -1158,7 +1474,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie Presidente. Onorevoli colleghi, questa proposta di legge sul conflitto di interessi noi l'abbiamo presentata anche nella scorsa legislatura e stiamo qui rinnovando, con nuovi aggiustamenti, questa proposta di regolamentazione, che riteniamo fondamentale. Purtroppo, anche quando abbiamo avuto responsabilità di Governo, non siamo riusciti a portarla avanti e ad avere numeri sufficienti. […]",
+   "sunto": "La nostra storia politica recente è stata attraversata da una personalità come quella di Silvio Berlusconi, che è entrato in politica ed è stato portatore, in termini immanenti, di un conflitto di interessi, considerata la molteplicità delle sue iniziative economiche ed attività economiche.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 688,
    "url": "https://www.camera.it/leg19/410?idSeduta=0288&tipo=stenografico#sed0288.stenografico.tit00140.int00040"
   },
@@ -1171,7 +1490,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, colleghi, rispetto all'emendamento presentato a mia prima firma, vorrei dire che a noi sembra davvero strano che non sia riconosciuta da quest'Aula l'urgenza di provvedere a una questione così capitale e cruciale per la nostra democrazia. […]",
+   "sunto": "Allora, vi invito ad accogliere questo emendamento, vi invito a votarlo, perché, vedete, è un emendamento fatto nell'interesse collettivo , non di una forza politica!",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 618,
    "url": "https://www.camera.it/leg19/410?idSeduta=0300&tipo=stenografico#sed0300.stenografico.tit00090.sub00010.int00060"
   },
@@ -1184,7 +1506,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, oggi il MoVimento 5 Stelle vuole denunciare un tradimento compiuto da Giorgia Meloni: ha preso una corda, formato un nodo e questo cappio al collo lo ha messo e lo sta mettendo all'Italia. […]",
+   "sunto": "Oggi il MoVimento 5 Stelle vuole denunciare un tradimento compiuto da Giorgia Meloni: ha preso una corda, formato un nodo e questo cappio al collo lo ha messo e lo sta mettendo all'Italia.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Unione europea"
+   ],
    "parole": 798,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00040.sub00020.int00120"
   },
@@ -1197,7 +1524,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Può richiamare il capogruppo? Che si contenga, grazie. Avete … Non si sbracci, il capogruppo, avrà la possibilità di replicare, di che si preoccupa? Potrà raccontare, continuare a raccontare la sua visione edulcorata dell'Italia… Grazie, Presidente. […]",
+   "sunto": "Avete cambiato l'Europa: certo che l'avete cambiata, portandola da 209 miliardi di finanziamenti all'Italia, che abbiamo ottenuto noi, a meno 13 miliardi, che avete subito voi !",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 207,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00040.sub00020.int00140"
   },
@@ -1210,7 +1540,18 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "È un momento cruciale per l'Europa, ma oggi abbiamo una consapevolezza molto amara: la discussione che farete in Consiglio europeo non cambierà marcia, non cambierà visione all'Europa. Presidente Meloni, noi non la invidiamo, perché, da una parte, è tentata di offrire i suoi voti per appoggiare la nuova Commissione, per negoziare, in cambio, un importante incarico per l'Italia, venendo proprio a patti con quel centro […]",
+   "sunto": "È un momento cruciale per l'Europa, ma oggi abbiamo una consapevolezza molto amara: la discussione che farete in Consiglio europeo non cambierà marcia, non cambierà visione all'Europa.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1411,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00040.sub00010.int00210"
   },
@@ -1223,7 +1564,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Intervengo a nome della mia forza politica, del mio gruppo, il MoVimento 5 Stelle, ma anche a titolo personale, perché mi corre l'obbligo e avverto l'urgenza di ricordare anche l'amicizia personale di lunga data con Maurizio D'Ettore. Siamo stati anche colleghi, come è stato ricordato. Ci siamo ritrovati tutti e due professori ordinari di diritto privato, lui a economia, a Firenze, e io a giurisprudenza. […]",
+   "sunto": "Innanzitutto, una solidità scientifica: lui è stato allievo della scuola di Davide Messinetti, una scuola civilistica che ha origini qui, nella tradizione romana.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 583,
    "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00080.int00090"
   },
@@ -1236,7 +1580,19 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, onorevoli colleghi, sono esplose guerre che ogni giorno diventano sempre più incontrollabili in Europa e nel Medio Oriente. Tocca all'Italia la Presidenza del G7, ma come la stiamo utilizzando? Ci affidiamo a posizioni ambigue, incerte, anche ipocrite, e addirittura arranchiamo per partecipare ai summit che contano. […]",
+   "sunto": "Sta addirittura producendo grandissime difficoltà per la nostra filiera e le nostre imprese, aumento sino al 40 per cento dei costi energetici comparati alle altre imprese europee. […] Ma vi siete accorti che la sanità è a pezzi, che, congelando la spesa al 6,2 o al 6,3 per cento del PIL, non riusciamo a tenere dietro neppure all'inflazione, all'aumento dei costi energetici negli ospedali, all'aumento delle spese vive?",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1389,
    "url": "https://www.camera.it/leg19/410?idSeduta=0365&tipo=stenografico#sed0365.stenografico.tit00080.sub00020.int00330"
   },
@@ -1249,7 +1605,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Ministro Calderoli, colleghi tutti, vi chiediamo di fermarvi. Fermatevi con questo progetto sciagurato, scombinato. Ma davvero voi pensate che la soluzione ai problemi degli italiani, di chi, in questo momento, attende anni per una prestazione sanitaria o un esame diagnostico, di chi attende ore o addirittura anche qualche giorno per un intervento d'urgenza al pronto soccorso, di chi ogni giorno è […]",
+   "sunto": "Ma davvero voi pensate che la soluzione ai problemi degli italiani, di chi, in questo momento, attende anni per una prestazione sanitaria o un esame diagnostico, di chi attende ore o addirittura anche qualche giorno per un intervento d'urgenza al pronto soccorso, di chi ogni giorno è costretto a…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 1177,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.sub00020.int00120"
   },
@@ -1262,7 +1623,19 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Gentile Presidente, onorevoli colleghi, membri del Governo, per l'ennesima volta ci avviciniamo al Consiglio europeo senza una reale spinta per cambiare le cose. Nei giorni scorsi, Presidente Meloni, io sono stato anche ad Atreju. Ho visto il Circo Massimo tappezzato di manifesti: lo slogan è “la via italiana”. […]",
+   "sunto": "E la verità è che questa guerra ad oltranza, questo baratro della terza guerra mondiale, non fa bene all'Europa, ma non fa bene neppure all'Ucraina, che dopo tante distruzioni, morti e carneficine è stanca di combattere una guerra per procura della NATO. […] Ancora, avete sempre la stessa ricetta: questa “via italiana” ormai la conosciamo.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1600,
    "url": "https://www.camera.it/leg19/410?idSeduta=0399&tipo=stenografico#sed0399.stenografico.tit00040.sub00010.int00330"
   },
@@ -1275,7 +1648,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Non l'accetto, Presidente, e intervengo per dire che questa è la vostra manovra di bilancio evidentemente. Eppure, pur in un quadro che si preannunciava molto negativo per gli italiani - è una manovra che è assolutamente repressiva per la nostra economia e assolutamente insoddisfacente per tutti i bisogni delle imprese, non c'è nulla dei cittadini -, abbiamo cercato di dare un contributo ed elaborato una serie di pac […]",
+   "sunto": "Poi c'è questo intervento molto specifico per quanto riguarda le pensioni minime: abbiamo proposto non una misura insostenibile e futuribile, ma una misura assolutamente realizzabile, ossia abbiamo chiesto di aumentare di 100 euro le pensioni minime (quelle sino a 1.000 euro) e quelle da 1.000 a…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 562,
    "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00100.sub00010.int02340"
   },
@@ -1288,7 +1665,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori per chiedere, a nome di tutto il gruppo, un'informativa urgente. Il Presidente Giorgia Meloni deve venire in Parlamento. Deve venire in Parlamento a spiegare agli italiani la versione vera, reale ed effettiva - ne abbiamo sentite tantissime - sul caso Almasri. Da ultima, è stata evocata anche la sicurezza nazionale. […]",
+   "sunto": "Il Presidente Giorgia Meloni deve venire in Parlamento. […] Giorgia Meloni deve chiarire al Paese e a tutti i cittadini perché lei, donna, madre, cristiana, ha imbarcato e ha consentito tutti gli onori di un volo di Stato per sottrarre alla giustizia internazionale un boia , addirittura accusato di stupro su bambini di 5 anni!",
+   "temi": [
+    "Energia e carburanti",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 634,
    "url": "https://www.camera.it/leg19/410?idSeduta=0420&tipo=stenografico#sed0420.stenografico.tit00030.int00020"
   },
@@ -1301,7 +1683,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, oggi c'è una grande assenza del Presidente Meloni: scappa dal Parlamento e scappa davanti agli italiani. È un atto di grande viltà istituzionale. E io mi rivolgo direttamente a lei, Presidente Meloni: lo so che ci sta guardando, nascosta semmai dietro a un computer . Ha parlato per tre volte di questa vicenda, fornendo versioni diverse. […]",
+   "sunto": "Perché, sino ad ora, vi siete fermati a dire che era colpa dei giudici, vi siete fermati a dire che era colpa di un complotto internazionale della Corte dell'Aja, ci avete messo di mezzo anche gli 007 tedeschi.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 1282,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00020.int00150"
   },
@@ -1314,7 +1700,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, credo che questo Parlamento avrebbe dovuto occuparsi di altro e dedicare ore ed ore ad altre questioni. Sono anche sconcertato che ci ritroviamo ore ed ore a discutere di una questione che non doveva sorgere e, una volta sorta, andava affrontata e risolta prontamente. […]",
+   "sunto": "Siete voi che avete fatto la guerra ai poveri, che odiate i poveri (Applausi dei deputati del gruppo MoVimento 5 Stelle e di deputati del gruppo Alleanza Verdi e Sinistra).",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 1462,
    "url": "https://www.camera.it/leg19/410?idSeduta=0434&tipo=stenografico#sed0434.stenografico.tit00060.sub00020.int00220"
   },
@@ -1327,7 +1718,10 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, cari colleghi, io davvero non ho parole. Quest'Aula, questo Parlamento dovrebbe esser concentrato - e non solo oggi, da mesi - per risolvere i problemi urgenti dal carovita, al carobollette, ai tagli e il definanziamento alla sanità, alle liste d'attesa, ai pronto soccorso, per un esame diagnostico. […]",
+   "sunto": "Quest'Aula è focalizzata qui, perché tanti, molti - devo dire la verità - all'interno della maggioranza, anche con scarso entusiasmo, perché, Forza Italia, vi state applaudendo solo tra di voi … Oggi siamo qui concentrati in questa surreale vicenda, sulla necessità di inventare, costruire…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 1282,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00040.sub00020.int00240"
   },
@@ -1340,7 +1734,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente e onorevoli colleghi, finalmente - verrebbe da dire - abbiamo rivisto la Presidente Meloni in Parlamento. Era da tempo che scappava, da mesi. Si era nascosta. Ormai pensavamo fosse un ologramma sui social . È venuta qui e ha chiesto a tutti quanti, a quest'Aula, di avere più coraggio. Ecco, quello a lei sconosciuto. […]",
+   "sunto": "Spesso viene qui in Parlamento - ormai, rarissimamente - la Presidente Meloni e si vanta del recupero di credibilità dell'immagine del Paese in Europa e nel mondo. […] La Presidente Meloni e voi tutti ci avete riso, riso in faccia.",
+   "temi": [
+    "Fisco e tasse",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1543,
    "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00410"
   },
@@ -1353,7 +1754,15 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, lo abbiamo già denunciato: la Presidente Meloni si è assunta una grande responsabilità storica, politica, morale. Il 6 marzo scorso ha sottoscritto, senza nessun dibattito pubblico, senza confrontarsi con i cittadini, col Parlamento, senza nessun mandato, un piano di riarmo da 800 miliardi per consentire ai singoli Stati europei di potersi riarmare a piacimento. […]",
+   "sunto": "Nel giro di qualche ora si è concluso frettolosamente questo Consiglio europeo: Giorgia Meloni ha svenduto il nostro Paese per questo piano di riarmo (Applausi dei deputati del gruppo MoVimento 5 Stelle). […] Invece, adesso avremo dei divari incredibili non solo sul piano economico e sociale, alla fine dell'attuazione del Piano, ma addirittura sul piano politico e militare.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0465&tipo=stenografico#sed0465.stenografico.tit00050.sub00020.int00200"
   },
@@ -1366,7 +1775,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Presidente Meloni, lei, lo scorso 6 marzo, al Consiglio europeo ha dato il suo primo fondamentale “sì” a un piano di riarmo che prevede investimenti, quindi spese sino a 800 miliardi, di fatto per riarmare la Germania di tutto punto, mentre, invece, per l'Italia la situazione è ben diversa. […]",
+   "sunto": "Lei, lo scorso 6 marzo, al Consiglio europeo ha dato il suo primo fondamentale “sì” a un piano di riarmo che prevede investimenti, quindi spese sino a 800 miliardi, di fatto per riarmare la Germania di tutto punto, mentre, invece, per l'Italia la situazione è ben diversa.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 165,
    "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00090.int00020"
   },
@@ -1379,7 +1792,12 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente Meloni, lei coglie sempre occasione per buttarla in caciara e, anziché fare la Presidente del Consiglio, assume queste che sono reazioni fanciullesche . I fatti dicono che ho portato la percentuale del PIL a 1,4, rispetto al 2; abbiamo fermato Draghi che voleva un riarmo immediato e abbiamo speso un miliardo all'anno; questo per le armi, ma per tutto il resto abbiamo portato 209 miliardi. […]",
+   "sunto": "I fatti dicono che ho portato la percentuale del PIL a 1,4, rispetto al 2; abbiamo fermato Draghi che voleva un riarmo immediato e abbiamo speso un miliardo all'anno; questo per le armi, ma per tutto il resto abbiamo portato 209 miliardi.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 373,
    "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00090.int00080"
   },
@@ -1392,7 +1810,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, colleghi, quasi 60.000 palestinesi trucidati, oltre 15.000 bambini, 8 milioni di bambini senza cibo, acqua e medicine, madri che frugano tra gli avanzi di cibo avariato per sfamarli. Qualche giorno fa, mi hanno letto un'agenzia di stampa in cui si parlava di “eventuali errori di Netanyahu”. Me la sono fatta stampare. Ho detto: “Dev'essere un marziano sbarcato sulla Terra”. […]",
+   "sunto": "Quasi 60.000 palestinesi trucidati, oltre 15.000 bambini, 8 milioni di bambini senza cibo, acqua e medicine, madri che frugano tra gli avanzi di cibo avariato per sfamarli. […] E permettetemi di dire che non ci rappresenta chi non mostra, di fronte a questo genocidio, la schiena diritta per alzarsi in quest'Aula e condannare il criminale che guida Israele (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 1093,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00040.sub00010.int00160"
   },
@@ -1405,7 +1829,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, signora Presidente, siamo al cospetto di crisi, di conflitti che ci stanno trascinando sul ciglio del burrone. Siamo a pochi passi dal disordine globale. La politica è completamente scomparsa, incapace di elaborare strategie di soluzione delle crisi. […]",
+   "sunto": "Ma soprattutto, sono tre anni che ci chiediamo quale sia la politica estera dell'Italia (Applausi dei deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1574,
    "url": "https://www.camera.it/leg19/410?idSeduta=0497&tipo=stenografico#sed0497.stenografico.tit00100.sub00010.int00140"
   },
@@ -1418,7 +1850,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Buongiorno, Presidente. Buongiorno, colleghi. Oggi la maggioranza getta definitivamente la maschera perché avete scelto di affossare una proposta articolata, una proposta sistematica e organica per cercare di provvedere e intervenire con urgenza per cercare di salvare una sanità che è in codice rosso. […]",
+   "sunto": "Che ormai i cittadini italiani che hanno rinunciato almeno una volta alle cure negli ultimi due anni sono passati da 4 milioni a 6 milioni; addirittura il numero di quelli che hanno rinunciato per i tempi d'attesa è passato da 2 milioni e mezzo a 4 milioni.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Esteri e difesa"
+   ],
    "parole": 803,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00040.sub00020.int00020"
   },
@@ -1431,7 +1868,13 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Un errore tecnico, siamo spiacenti: questo non è un messaggio che è risuonato in una nostra stazione ferroviaria in questi giorni, particolarmente affollata di cittadini, di turisti, che soffrono i disagi dei disservizi, dei ritardi dei nostri treni. […]",
+   "sunto": "Adesso state andando oltre, perché, con i vostri silenzi, addirittura, state diventando complici di chi sanziona chi, il patriota, lo fa davvero, di chi sanziona e vuole sanzionare chi difende i valori della nostra Costituzione e mi riferisco a Francesca Albanese (Applausi dei deputati del…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1147,
    "url": "https://www.camera.it/leg19/410?idSeduta=0513&tipo=stenografico#sed0513.stenografico.tit00030.sub00020.int00120"
   },
@@ -1444,7 +1887,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signora Presidente e onorevoli colleghi, il Ministro Tajani ci ha offerto una sintesi della posizione italiana: una relazione che definirei desolante. È un quadro di politica estera, che ne vien fuori, che conferma le ottime relazioni che il Governo italiano ha con il Governo di Israele, che considera un prezioso alleato. Nessuna condanna e nessuna misura concreta contro un genocidio in corso. […]",
+   "sunto": "Allora, ve lo dico semplicemente dal mio punto di vista: i cittadini della Flotilla hanno compiuto il più giusto, il più lineare gesto di politica estera, che voi non avete fatto ! […] I post di Meloni rivolti contro i cittadini della Flotilla sono stati condivisi da esponenti di primo piano del Governo israeliano, responsabile di un genocidio.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 1200,
    "url": "https://www.camera.it/leg19/410?idSeduta=0541&tipo=stenografico#sed0541.stenografico.tit00050.sub00010.int00080"
   },
@@ -1457,7 +1905,18 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, Presidente Meloni, lei purtroppo con l'economia ci litiga proprio. Si è fatta spiegare male, in passato, lo spread e oggi si è fatta spiegar male come le banche accumulano mega utili. È molto semplice, glielo spiego io. […]",
+   "sunto": "In questo libro - faccia attenzione - non troverà, invece, nessuna tassa per quanto riguarda banche, imprese assicurative e giganti del web americano , perché lei, che era contraria all'assistenzialismo - se lo ricorda?",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00150.sub00040.int00210"
   },
@@ -1470,7 +1929,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente e illustri colleghi. Il 21 ottobre il MoVimento 5 Stelle ha lanciato una manifestazione di piazza, qui, a Roma. Sono intervenuti tantissimi cittadini per manifestare solidarietà al giornalista Ranucci, che aveva appena subito un gravissimo attentato davanti alla sua abitazione. […]",
+   "sunto": "In particolare, le sorelle Meloni - la Presidente del Consiglio, il capo di Fratelli d'Italia - non hanno poi ritirato la querela presentata da Fratelli d'Italia.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1285,
    "url": "https://www.camera.it/leg19/410?idSeduta=0562&tipo=stenografico#sed0562.stenografico.tit00040.sub00010.int00020"
   },
@@ -1483,7 +1945,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente e onorevoli colleghi, con la Presidente Meloni avevamo occasione di confrontarci: mi aveva invitato alla sua festa, dal palco di casa sua, ma poi non si è presentata , sono rimasto solo e adesso si è allontanata . Va bene, però verrà il giorno. […]",
+   "sunto": "Senza contraddittorio, proprio dal palco di Atreju, ne abbiamo sentite di tutti i colori: abbiamo sentito che avete aumentato gli stipendi degli italiani; che sulla sanità, con il vostro Governo, abbiamo dei record storici.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1150,
    "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00050.sub00010.int00230"
   },
@@ -1496,7 +1966,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, questo emendamento - è stato appena detto - invita le forze di maggioranza e il Governo a mettere i soldi dove ci chiedono gli italiani, dove ci sono le urgenze degli italiani e le priorità della nostra comunità nazionale. […]",
+   "sunto": "Si tratta di definanziare la corsa al riarmo; si tratta di prendere miliardi e miliardi di investimenti (23 miliardi nel prossimo triennio) per cercare di offrire ai nostri cittadini un servizio sanitario con prestazioni che siano adeguate.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 595,
    "url": "https://www.camera.it/leg19/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00080.sub00120.int00040"
   },
@@ -1509,7 +1984,16 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, quest'ordine del giorno vuole richiamare l'attenzione di tutti sul fatto che in questa legge di bilancio non ci sono le priorità degli italiani. In questa legge di bilancio si prefigurano investimenti massicci per le spese militari, per le spese per la Difesa, ma non c'è nulla di nulla rispetto a quelle che sono le vere priorità che in questo momento il Paese avverte, fa […]",
+   "sunto": "In questa legge di bilancio si prefigurano investimenti massicci per le spese militari, per le spese per la Difesa, ma non c'è nulla di nulla rispetto a quelle che sono le vere priorità che in questo momento il Paese avverte, famiglie e cittadini.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 945,
    "url": "https://www.camera.it/leg19/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00080.sub00210.int01420"
   },
@@ -1522,7 +2006,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghi, innanzitutto partecipo a nome del mio gruppo, il MoVimento 5 Stelle, alla gioia per la liberazione di Alberto Trentini e Mario Burlò. Ringraziamo politici, diplomatici, funzionari e agenti che hanno contribuito a questo risultato e ci stringiamo con questa gioia anche ai familiari . […]",
+   "sunto": "E adesso non vale per il blitz militare degli Stati Uniti in Venezuela dove è stato prelevato un capo di Stato di un Paese sovrano e adesso Trump - lo ha ormai dichiarato - ha assunto la Presidenza ad interim - pensate un po', la Presidenza ad interim ! - del Venezuela.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 1290,
    "url": "https://www.camera.it/leg19/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00120.sub00020.int00130"
   },
@@ -1535,7 +2022,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi. Signora Presidente, non ce l'ha fatta: anche in un momento così drammatico ha perso l' aplomb e ha iniziato a gettare fango. Lei ha detto bene. Lei non è come noi, come me, perché è certo che siamo diversi. A me non sarebbe mai venuto in mente addirittura di scendere a un tale livello di spregiudicatezza. […]",
+   "sunto": "Ha dimostrato una condotta così priva di scrupoli da paragonare l'attacco di un drone americano per reazione all'attacco all'ambasciata americana a Baghdad, che ha riguardato un singolo generale iraniano, al silenzio complice di un genocidio per 20.000 bambini palestinesi .",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 1174,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00040.int00130"
   },
@@ -1548,7 +2040,16 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signora Presidente, onorevoli colleghi. Signora Presidente, lei racconta una realtà mitologica. Io credo che la sveglia referendaria non abbia suonato a Palazzo Chigi. Guardi che si presenta qui, ormai al quarto anno, con i “diremo”, “faremo”. Si deve rendere conto: lei ha un grande futuro alle spalle. […]",
+   "sunto": "Quando si è insediata ha parlato di diritto al lavoro, diritto alla casa, diritto a metter su famiglia; ha parlato più volte di meritocrazia. […] Lei ha promesso l'acquisto di gas americano molto costoso a Trump, ha aumentato le accise e ci ritroviamo con il caro bollette, con l'inflazione reale pesantissima, ci ritroviamo con il carovita e addirittura con l'aumento della spesa alimentare del 25 per cento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1243,
    "url": "https://www.camera.it/leg19/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00020.sub00020.int00190"
   },
@@ -1561,7 +2062,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, a nome del gruppo MoVimento 5 Stelle mi associo e ci associamo alla richiesta, che è stata fatta dall'onorevole Grimaldi di AVS, perché venga la Presidente del Consiglio Giorgia Meloni qui, in quest'Aula, in Parlamento, a riferire su questo elemento di novità, che non direi secondario. […]",
+   "sunto": "A nome del gruppo MoVimento 5 Stelle mi associo e ci associamo alla richiesta, che è stata fatta dall'onorevole Grimaldi di AVS, perché venga la Presidente del Consiglio Giorgia Meloni qui, in quest'Aula, in Parlamento, a riferire su questo elemento di novità, che non direi secondario.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 522,
    "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00050.int00100"
   },
@@ -1574,7 +2078,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente Costa, posso ? Allora, mi rivolgo a lei per rispondere e associarmi all'intervento che è stato fatto dall'onorevole Buonguerrieri. Mi associo alla richiesta di informativa per una semplice ragione, perché qui abbiamo agito sempre in trasparenza e non abbiamo nulla da nascondere . Ben vengano le informative. […]",
+   "sunto": "Ma siccome il coraggio non vi appartiene, avete escluso dal perimetro di indagine di una Commissione bicamerale proprio la gestione sanitaria territoriale, quella che si è dimostrata più critica.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 584,
    "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00050.int00380"
   },
@@ -1587,7 +2094,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, signor Presidente. Illustri rappresentanti del Governo, onorevoli colleghi, ci siete riusciti! Ci siete riusciti, ci avete davvero stupito con questa norma che avete inserito in questo decreto. Qualcosa di incredibile, di surreale. Ancora ieri Giorgia Meloni però ha precisato: è una norma di buonsenso. Allora, ricapitoliamo, spieghiamolo bene a tutti. […]",
+   "sunto": "Ci siete riusciti, ci avete davvero stupito con questa norma che avete inserito in questo decreto. […] Credo che anche a voi, colleghi della maggioranza, sia capitato di andare da un avvocato, cercare un avvocato, per riparare i torti che avete subito, per cercare difesa e protezione per le vostre ragioni.",
+   "temi": [
+    "Immigrazione",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1210,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00060.sub00010.int00140"
   },
@@ -1600,7 +2114,16 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signora Presidente, onorevoli colleghi, Presidente Meloni, membri di Governo, ascoltiamo ancora questo racconto dalla Presidente Meloni: va tutto bene. Anche ieri, a Confcommercio, ha detto, in sostanza, che va tutto bene e anzi di più, che lei vorrà tagliare - e taglierete - le tasse. Ma attenzione, perché qui siamo ormai al fatto che la Presidente Meloni passa come la signora, la regina delle tasse. […]",
+   "sunto": "E attenzione: la riforma della sanità l'avete presentata, avete iniziato a litigare, l'avete ritirata e state dando uno schiaffo a 6 milioni di cittadini che rinunciano alle cure. […] Se mi posso permettere, Presidente Meloni, la smetta con i ponti, che portano proprio male, le portano male e portano male all'Italia.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0673&tipo=stenografico#sed0673.stenografico.tit00040.sub00010.int00370"
   },
@@ -1613,7 +2136,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, onorevoli colleghi, ci sono dei momenti in cui, quando si ha un alto incarico di Governo, bisogna anche assumersi la responsabilità della situazione delle proprie decisioni (Dai banchi del gruppo Fratelli d'Italia : “Parlaci delle mascherine!”, “Buffone!” - Proteste dei deputati del gruppo MoVimento 5 Stelle)… Non cadete nella provocazione… Grazie, signor Presidente. […]",
+   "sunto": "La situazione del Paese è drammatica - l'abbiamo descritta più volte -, grazie anche a un sistema dell'informazione che è assolutamente acquiescente rispetto al Governo e a Chigi, nonostante questo venga negato e venga rappresentata una situazione edulcorata.",
+   "temi": [],
    "parole": 418,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00080.int00060"
   },
@@ -1626,7 +2150,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente e onorevoli colleghi, pensiamo agli italiani che ci seguono. Staranno pensando: beh, in Parlamento staranno discutendo e approvando misure urgenti per il Paese. Non c'è che l'imbarazzo della scelta: si occupano di crollo degli stipendi? Di carovita? Di crollo della produzione industriale da tre anni e mezzo? Dei prezzi alle stelle, qualcuno ha fatto questa mattina il pieno di gasolio, 2 euro per un […]",
+   "sunto": "Ma non vi permetteremo di confondere il colle del Quirinale con Colle Oppio (Applausi dei deputati del gruppo MoVimento 5 Stelle e di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra - Commenti dei deputati del gruppo Fratelli d'Italia).",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 1249,
    "url": "https://www.camera.it/leg19/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00030.sub00010.int00210"
   },
@@ -1639,7 +2166,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, signori Ministri, signori colleghi, oggi il Parlamento deve esprimersi su un punto molto chiaro: questo Governo, la Presidente Meloni, ha iniziato questa legislatura, la sua azione di Governo, trovando sulla scrivania 209 miliardi, mai successo per un Presidente del Consiglio nella storia repubblicana. […]",
+   "sunto": "Questo ha soddisfatto le esigenze mai sopite della Germania di ritornare una grande superpotenza militare - soffrivano tanto in Germania, da tantissimi decenni - e, di fatto, questo piano di riarmo distrugge il mercato comune europeo.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1151,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00040.sub00010.int00260"
   },
@@ -1652,7 +2187,12 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signora Presidente, onorevoli colleghi, qui dobbiamo accertare innanzitutto un fatto inaspettato: non c'è un Ministro o un Sottosegretario che rappresenti il Governo. Che succede? Il Governo non ci mette la faccia ? Non è previsto, come? Eppure, stiamo parlando di un fatto molto importante e Giorgia Meloni, il Presidente, non ci mette la faccia? Parliamo del suo partito, della sua idea di giustizia. […]",
+   "sunto": "Dicevo: Giorgia Meloni, si parla di Delmastro, che è responsabile della giustizia del suo partito, ma qui si parla anche dell'idea di giustizia che ha questo Governo e anche Giorgia Meloni. […] Qui, vedete, c'è anche di più, c'è l'idea di giustizia, ci stiamo confrontando sull'idea di giustizia.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1273,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00100.sub00020.int00200"
   },
@@ -1665,7 +2205,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Signor Presidente, gentili colleghi, vedete, i numeri che davvero contano per gli italiani sono: l'aumento al 30 per cento della spesa nel carrello negli ultimi anni; le tasse record negli ultimi dieci anni, dai tempi di Monti non ricordavamo questa tassazione record; il boom dei prezzi del carburante, ossia più 22 per cento dei costi energetici che pesano su famiglie e imprese; e, ancora, 6 milioni di cittadini sono […]",
+   "sunto": "L'80 per cento, più dell'80 per cento dei componenti del prossimo Parlamento sarà deciso dalle segreterie di partito, dei nominati catapultati in Parlamento senza libera scelta degli italiani. […] Vedete, c'è un altro punto su cui avete agito subdolamente, tra gli altri: l'indicazione del candidato Premier, nel programma di Governo però, quindi non nelle liste che avranno tra le mani i cittadini.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 1060,
    "url": "https://www.camera.it/leg19/410?idSeduta=0723&tipo=stenografico#sed0723.stenografico.tit00040.sub00010.int00200"
   },
@@ -1678,7 +2221,19 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Presidente, Presidente Meloni, gentili colleghi. Presidente Meloni, bentornata. Con il caro carburante, con il crollo dei salari reali, le famiglie e le imprese in ginocchio, ho visto che si è molto concentrata, al Senato e anche qui, per accusare me e il MoVimento 5 Stelle. In particolare, ha detto che con questa legge elettorale io non sarei mai stato eletto Presidente del Consiglio. […]",
+   "sunto": "Certo, non l'ho mai negato: siamo arrivati all'1,4-1,5 per cento, non certo al 2 per cento. […] Forse la stessa penna con cui, cara Meloni, hai firmato anche l'impegno al 5 per cento del PIL, che dirotterà l'economia verso il riarmo: riarmo e un'economia di guerra.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00310"
   },
@@ -1691,7 +2246,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "M5S",
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, sono qui a chiedere, a nome del mio gruppo, un'informativa urgente al Presidente del Consiglio, Giorgia Meloni, perché venga a riferire sulla crisi economica e sociale che il Paese sta attraversando e soprattutto a riferire quali sono le misure urgenti del Governo per quanto riguarda il caro carburante, per quanto riguarda i rincari vari, per l'inflazione e le sofferenze econom […]",
+   "sunto": "Sono qui a chiedere, a nome del mio gruppo, un'informativa urgente al Presidente del Consiglio, Giorgia Meloni, perché venga a riferire sulla crisi economica e sociale che il Paese sta attraversando e soprattutto a riferire quali sono le misure urgenti del Governo per quanto riguarda il caro…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 592,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00020"
   }

@@ -138,9 +138,153 @@
     "al": "2026-06-12"
    }
   ],
-  "fonti_verificate": []
+  "fonti_verificate": [],
+  "temi": [
+   {
+    "tema": "Esteri e difesa",
+    "n": 32
+   },
+   {
+    "tema": "Unione europea",
+    "n": 28
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 26
+   },
+   {
+    "tema": "Giustizia",
+    "n": 26
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 25
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 23
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 22
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 21
+   },
+   {
+    "tema": "Sanità",
+    "n": 18
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 15
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 15
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 12
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 9
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 9
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Ambiente e clima",
+     "n": 2
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 1
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 1
+    }
+   ],
+   "2022": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 4
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 3
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 3
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 11
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 11
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 9
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Sanità",
+     "n": 9
+    },
+    {
+     "tema": "Giustizia",
+     "n": 8
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 8
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 13
+    },
+    {
+     "tema": "Unione europea",
+     "n": 7
+    },
+    {
+     "tema": "Giustizia",
+     "n": 6
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Unione europea",
+     "n": 7
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 7
+    }
+   ]
+  }
  },
- "recap": "Dal 27 ottobre 2021 al 13 ottobre 2026: 196 interventi nell'Aula della Camera (114.224 parole). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (127 interventi).",
+ "recap": "Dal 27 ottobre 2021 al 13 ottobre 2026: 196 interventi nell'Aula della Camera (114.224 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (32), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (127 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -165,7 +309,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Signor Presidente, desidero ricordare in quest'Aula una figura, quella di Antonio Cederna, che nasceva cento anni fa, il 27 ottobre 1921, a Milano. Antonio Cederna è stato un archeologo, giornalista, urbanista, attivista di associazioni, parlamentare e amministratore pubblico che ha dedicato la propria vita all'impegno per la difesa del patrimonio storico e artistico del nostro Paese, del paesaggio e dell'ambiente. […]",
+   "sunto": "Antonio Cederna è stato un archeologo, giornalista, urbanista, attivista di associazioni, parlamentare e amministratore pubblico che ha dedicato la propria vita all'impegno per la difesa del patrimonio storico e artistico del nostro Paese, del paesaggio e dell'ambiente.",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 268,
    "url": "https://www.camera.it/leg18/410?idSeduta=0583&tipo=stenografico#sed0583.stenografico.tit00120.int00040"
   },
@@ -178,7 +326,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie Presidente. Il decreto-legge, che oggi approviamo, è stata una risposta pronta e rapida del Governo all'emergenza che ha colpito il nostro Paese quest'estate: vaste aree del territorio nazionale, dalla Sardegna alla Liguria, la Calabria, la Toscana - purtroppo è lungo l'elenco delle regioni - flagellate per più e più giorni da incendi di grande violenza, che hanno causato vittime, distruzione di decine di migl […]",
+   "sunto": "Il decreto-legge, che oggi approviamo, è stata una risposta pronta e rapida del Governo all'emergenza che ha colpito il nostro Paese quest'estate: vaste aree del territorio nazionale, dalla Sardegna alla Liguria, la Calabria, la Toscana - purtroppo è lungo l'elenco delle regioni - flagellate per…",
+   "temi": [
+    "Ambiente e clima",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1204,
    "url": "https://www.camera.it/leg18/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00080.sub00010.int00120"
   },
@@ -191,7 +343,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, signor Presidente. Grazie, Ministro. Come lei sa, per il Partito Democratico l'incremento dei prezzi dell'energia, insieme a quello delle materie prime, è un'emergenza da affrontare con estrema tempestività e determinazione. […]",
+   "sunto": "Quindi, serve rafforzare con urgenza le importanti misure già assunte dal Governo nei mesi scorsi; servono risorse mirate a sostegno dei settori più colpiti della nostra industria manifatturiera e della piccola e della media impresa del Paese.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 379,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00070.sub00050.int00060"
   },
@@ -204,7 +359,14 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, signora Presidente. Signora sottosegretaria, colleghi, la mozione di maggioranza, che è oggetto della nostra discussione, affronta un tema di grande rilevanza qual è l'impatto della transizione ecologica su settori dell'industria pesante nel nostro Paese. […]",
+   "sunto": "La mozione di maggioranza, che è oggetto della nostra discussione, affronta un tema di grande rilevanza qual è l'impatto della transizione ecologica su settori dell'industria pesante nel nostro Paese.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 1905,
    "url": "https://www.camera.it/leg18/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00090.sub00010.int00100"
   },
@@ -217,7 +379,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Relatrice",
    "gruppo": null,
-   "estratto": "Grazie, signora Presidente. Onorevoli colleghi e onorevoli colleghe, ringrazio la relatrice, onorevole Mazzetti, per avere già inquadrato e descritto in maniera molto efficace i contenuti della prima parte di questa legge delega. […]",
+   "sunto": "La lettera u) , inserita al Senato, richiede la ridefinizione della disciplina delle varianti in corso d'opera in relazione alla possibilità di modifica dei contratti durante la fase dell'esecuzione.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 2494,
    "url": "https://www.camera.it/leg18/410?idSeduta=0699&tipo=stenografico#sed0699.stenografico.tit00020.sub00010.int00040"
   },
@@ -230,7 +396,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie. Signor Presidente, onorevoli colleghi, grazie al signor Ministro, per l'illustrazione ampia e dettagliata dei temi oggetto della prossima riunione del G7 dei Ministri dell'Energia e dell'Ambiente. Voglio subito dire che è molto positivo che questa agenda sia così ricca di questioni, di temi che vanno oltre anche rispetto al tema che ha focalizzato e che ha concentrato la nostra attenzione in queste settimane […]",
+   "sunto": "La strada per uscire dalla dipendenza energetica dalla Russia è quella che ci porta a diversificare le fonti di approvvigionamento, a investire e ad accelerare sulla produzione di energie rinnovabili, a lavorare sulla strada della efficienza energetica.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 1368,
    "url": "https://www.camera.it/leg18/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00040.sub00020.int00080"
   },
@@ -243,7 +416,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, Presidente. Anche il Partito Democratico ritiene opportuno un pronunciamento favorevole sugli impegni che vengono chiesti al Governo. La situazione di estrema criticità legata alla siccità che sta colpendo molte aree del Paese, e in particolare del Nord Italia, richiede un'attenzione specifica, con riferimento alla quale il Governo, il sistema della Protezione civile e il sistema delle regioni stanno discuten […]",
+   "sunto": "Mi permetto solo di evidenziare al sottosegretario, che ha deciso di rimettersi al pronunciamento dell'Aula, forse l'opportunità di chiarire nel primo impegno dell'ordine del giorno un passaggio più puntuale sulla definizione dello stato di emergenza.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 195,
    "url": "https://www.camera.it/leg18/410?idSeduta=0716&tipo=stenografico#sed0716.stenografico.tit00060.sub00010.int00520"
   },
@@ -256,7 +432,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie Presidente. Questa notte, all'età di 94 anni, ci ha lasciato Marte Ferrari. Marte Ferrari fu dirigente del Partito Socialista Italiano, cui si iscrisse nel 1945. Componente di questa Camera dal 1976 al 1994, eletto nel collegio di Como, fu sottosegretario di Stato prima ai Lavori pubblici e poi al Ministero del Bilancio e della programmazione economica e, prima ancora, importante esponente della CGIL, di cui f […]",
+   "sunto": "Componente di questa Camera dal 1976 al 1994, eletto nel collegio di Como, fu sottosegretario di Stato prima ai Lavori pubblici e poi al Ministero del Bilancio e della programmazione economica e, prima ancora, importante esponente della CGIL, di cui fu segretario generale della camera del lavoro…",
+   "temi": [],
    "parole": 224,
    "url": "https://www.camera.it/leg18/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00040.int00040"
   },
@@ -269,7 +446,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, Presidente. Intervengo anch'io su questo ordine del giorno per motivare il voto contrario del Partito Democratico. Vorrei precisare di cosa stiamo parlando. Si tratta di una norma, approvata nel “decreto Ucraina” con un parere favorevole e una mediazione svolta dal Governo e con l'accordo delle forze di maggioranza, che prevedeva l'obbligo di attestazione SOA per le imprese che svolgono lavori edili, collegat […]",
+   "sunto": "Si tratta di una norma, approvata nel “decreto Ucraina” con un parere favorevole e una mediazione svolta dal Governo e con l'accordo delle forze di maggioranza, che prevedeva l'obbligo di attestazione SOA per le imprese che svolgono lavori edili, collegati agli incentivi fiscali, per importi…",
+   "temi": [
+    "Esteri e difesa",
+    "Casa e infrastrutture"
+   ],
    "parole": 309,
    "url": "https://www.camera.it/leg18/410?idSeduta=0721&tipo=stenografico#sed0721.stenografico.tit00070.sub00020.int01480"
   },
@@ -282,7 +463,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, signora Presidente. Io aggiungo veramente poco alle considerazioni che hanno già svolto i miei colleghi di gruppo su questa vicenda, se non per sottolineare come le forze del centrodestra e, purtroppo, anche altre forze politiche che hanno sostenuto in questi anni l'azione del Governo Draghi si stanno rendendo protagoniste, in quest'ultima giornata di lavoro parlamentare, di una pagina grottesca, rendendo chi […]",
+   "sunto": "Io aggiungo veramente poco alle considerazioni che hanno già svolto i miei colleghi di gruppo su questa vicenda, se non per sottolineare come le forze del centrodestra e, purtroppo, anche altre forze politiche che hanno sostenuto in questi anni l'azione del Governo Draghi si stanno rendendo… […] State raccontando ai cittadini siciliani, ai cittadini italiani e del Mezzogiorno una balla, qualcosa che non succederà .",
+   "temi": [],
    "parole": 394,
    "url": "https://www.camera.it/leg18/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00080.sub00020.int00900"
   },
@@ -295,7 +477,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente… Ringrazio il collega Peluffo per l'ospitalità. L'emendamento in questione riprende alcuni dei temi che già hanno illustrato i colleghi intervenuti: la proroga di alcuni crediti di imposta già riconosciuti alle imprese per l'acquisto di energia elettrica e di gas a tutto il 2022; ma anche una serie di disposizioni che consideriamo particolarmente importanti: intanto l'ampliamento della platea dei s […]",
+   "sunto": "L'emendamento in questione riprende alcuni dei temi che già hanno illustrato i colleghi intervenuti: la proroga di alcuni crediti di imposta già riconosciuti alle imprese per l'acquisto di energia elettrica e di gas a tutto il 2022; ma anche una serie di disposizioni che consideriamo…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 286,
    "url": "https://www.camera.it/leg19/410?idSeduta=0009&tipo=stenografico#sed0009.stenografico.tit00060.sub00010.int00180"
   },
@@ -308,7 +493,8 @@
    "categoria": "Altri argomenti",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge il processo verbale della seduta del 23 novembre 2022.",
+   "sunto": "legge il processo verbale della seduta del 23 novembre 2022.",
+   "temi": [],
    "parole": 10,
    "url": "https://www.camera.it/leg19/410?idSeduta=0014&tipo=stenografico#sed0014.stenografico.tit00000.int00020"
   },
@@ -321,7 +507,8 @@
    "categoria": "Altri argomenti",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge il processo verbale della seduta di ieri.",
+   "sunto": "legge il processo verbale della seduta di ieri.",
+   "temi": [],
    "parole": 8,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00000.int00020"
   },
@@ -334,7 +521,8 @@
    "categoria": "Altri argomenti",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge il processo verbale della seduta di ieri.",
+   "sunto": "legge il processo verbale della seduta di ieri.",
+   "temi": [],
    "parole": 8,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00000.int00020"
   },
@@ -347,7 +535,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, anch'io sono abbastanza stupita dalla riformulazione che la Sottosegretaria ha proposto rispetto a questo ordine del giorno e, quindi, non mi sento di accettarla, ma vorrei, attraverso la dichiarazione di voto, cercare anche di chiedere un ripensamento di questo parere. […]",
+   "sunto": "Vorrei un attimo di attenzione da parte del Governo e anche dei colleghi di maggioranza, perché qui si sta chiedendo un impegno al Governo a dare una risposta a un tema completamente ignorato da questa legge di bilancio, il tema abitativo, il tema della casa.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Casa e infrastrutture"
+   ],
    "parole": 618,
    "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00080.sub00060.int01400"
   },
@@ -360,7 +553,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi e onorevoli colleghe, stiamo discutendo gli ordini del giorno di questo decreto-legge che è passato nell'immaginario collettivo, nel racconto della comunicazione di questi giorni, come il decreto no- rave . Credo che, invece, potremmo dire, in maniera molto chiara, che questo è il primo decreto no-vax di questo Governo. […]",
+   "sunto": "Stiamo discutendo gli ordini del giorno di questo decreto-legge che è passato nell'immaginario collettivo, nel racconto della comunicazione di questi giorni, come il decreto no- rave .",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 873,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00060.sub00010.int00240"
   },
@@ -373,7 +572,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente, chiederei cortesemente al sottosegretario se può dare lettura della riformulazione.",
+   "sunto": "Grazie, signor Presidente, chiederei cortesemente al sottosegretario se può dare lettura della riformulazione.",
+   "temi": [],
    "parole": 13,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00090.sub00010.int04030"
   },
@@ -386,7 +586,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "No, Presidente, chiedo cortesemente al Governo se può riconsiderare la riformulazione, quindi il parere.",
+   "sunto": "No, Presidente, chiedo cortesemente al Governo se può riconsiderare la riformulazione, quindi il parere.",
+   "temi": [],
    "parole": 14,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00090.sub00010.int04070"
   },
@@ -399,7 +600,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghe e colleghi, rappresentanti del Governo, siamo giunti alla fase finale dell'esame di questo decreto-legge. Al termine di questo cammino le ragioni della nostra contrarietà non sono sparite, anzi si sono rafforzate e arricchite di nuove argomentazioni. […]",
+   "sunto": "Siamo giunti alla fase finale dell'esame di questo decreto-legge. […] Dall'inizio dell'anno, secondo il Dipartimento dell'amministrazione penitenziaria del Ministero della Giustizia, 82 persone si sono tolte la vita all'interno di un istituto di pena.",
+   "temi": [
+    "Sanità",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1695,
    "url": "https://www.camera.it/leg19/410?idSeduta=0029&tipo=stenografico#sed0029.stenografico.tit00090.sub00020.int00760"
   },
@@ -412,7 +618,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo ovviamente che l'ordine del giorno sia votato anche perché qui stiamo parlando della situazione specifica degli impianti di energia rinnovabile di proprietà esclusivamente di enti locali, cioè di proprietà pubblica, che vengono assoggettati alla tassazione sugli extraprofitti. Sappiamo che è una situazione di grande difficoltà in cui si stanno trovando i comuni. […]",
+   "sunto": "Chiedo ovviamente che l'ordine del giorno sia votato anche perché qui stiamo parlando della situazione specifica degli impianti di energia rinnovabile di proprietà esclusivamente di enti locali, cioè di proprietà pubblica, che vengono assoggettati alla tassazione sugli extraprofitti.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 90,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00060.sub00010.int00720"
   },
@@ -425,7 +634,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": null,
-   "estratto": "Segretaria , legge il processo verbale della seduta del 20 gennaio 2023.",
+   "sunto": "Segretaria , legge il processo verbale della seduta del 20 gennaio 2023.",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0041&tipo=stenografico#sed0041.stenografico.tit00000.int00020"
   },
@@ -438,7 +648,8 @@
    "categoria": "Altri argomenti",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge il processo verbale della seduta di ieri.",
+   "sunto": "legge il processo verbale della seduta di ieri.",
+   "temi": [],
    "parole": 8,
    "url": "https://www.camera.it/leg19/410?idSeduta=0042&tipo=stenografico#sed0042.stenografico.tit00000.int00020"
   },
@@ -451,7 +662,8 @@
    "categoria": "Altri argomenti",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge il processo verbale della seduta di ieri.",
+   "sunto": "legge il processo verbale della seduta di ieri.",
+   "temi": [],
    "parole": 8,
    "url": "https://www.camera.it/leg19/410?idSeduta=0075&tipo=stenografico#sed0075.stenografico.tit00000.int00020"
   },
@@ -464,7 +676,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Segretaria",
    "gruppo": null,
-   "estratto": "legge: Giovanni Bello, da Ferrara, chiede: una revisione complessiva della Costituzione (226) - alla I Commissione (Affari costituzionali) ; una nuova disciplina dell'esercizio della prostituzione (227) - alla II Commissione (Giustizia) ; l'introduzione di una legge elettorale a doppio turno (228) - alla I Commissione (Affari costituzionali) ; l'abrogazione della legge sulle unioni civili (229) - alla II Commissione […]",
+   "sunto": "legge: Giovanni Bello, da Ferrara, chiede: una revisione complessiva della Costituzione (226) - alla I Commissione (Affari costituzionali) ; una nuova disciplina dell'esercizio della prostituzione (227) - alla II Commissione (Giustizia) ; l'introduzione di una legge elettorale a doppio turno…",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1150,
    "url": "https://www.camera.it/leg19/410?idSeduta=0075&tipo=stenografico#sed0075.stenografico.tit00020.int00020"
   },
@@ -477,7 +697,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Onorevoli colleghe e colleghi, Presidente, ci troviamo oggi a discutere dell'ennesimo provvedimento improvvisato e sbagliato di questo Governo. Sbagliato nel merito, perché il superbonus del 110 per cento ha contribuito a evitare una grave recessione post pandemica, facendoci guadagnare qualche punto di PIL, ha significato investimenti e occupazione, ha consentito a chi non avrebbe mai potuto permettersi questi inter […]",
+   "sunto": "E invece avete scelto un'altra strada: avete scelto di cancellare immediatamente lo sconto in fattura e la cessione dei crediti di imposta, legate al superbonus e agli altri crediti edilizi. […] Certo, avremmo voluto anche salvare la cessione del credito e lo sconto in fattura per le famiglie con redditi fino a 40.000 euro e gli incapienti.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Ambiente e clima",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1416,
    "url": "https://www.camera.it/leg19/410?idSeduta=0082&tipo=stenografico#sed0082.stenografico.tit00050.sub00010.int00200"
   },
@@ -490,7 +718,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Quello che è accaduto pochi minuti fa in quest'Aula è un dato politico clamoroso . La maggioranza, con i numeri che ha, che aveva promesso al Paese di essere pronta a governare questo Paese, si è dimostrata incapace di approvare il principale atto di programmazione economica (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle, Azione-Italia V […]",
+   "sunto": "La maggioranza, con i numeri che ha, che aveva promesso al Paese di essere pronta a governare questo Paese, si è dimostrata incapace di approvare il principale atto di programmazione economica (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 142,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00100.int00020"
   },
@@ -503,7 +734,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Rappresentanti del Governo, Ministro per i Rapporti con il Parlamento - che oggi è in quest'Aula -, quanto è accaduto ieri è di una gravità senza precedenti, non esistono scuse! “Non ho parole”, non è la mia reazione, ma quella della Premier Meloni, impegnata, nelle stesse ore, ad accreditare l'Italia sulla scena internazionale e, intanto, costretta a fare i conti con una maggioranza incapa […]",
+   "sunto": "Vi siete affannati a spiegare che è stato solo un incidente di percorso ma il messaggio, invece, è molto chiaro: non siete pronti, non siete affidabili, non siete nemmeno patrioti perché non sapete cosa significa avere la responsabilità di guidare un grande Paese come l'Italia. […] Non siete nemmeno patrioti, perché non sapete cosa significhi avere la responsabilità di guidare un grande Paese come l'Italia.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1337,
    "url": "https://www.camera.it/leg19/410?idSeduta=0094&tipo=stenografico#sed0094.stenografico.tit00040.sub00010.int00330"
   },
@@ -516,7 +754,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Sull'ordine dei lavori. Noi abbiamo ora una votazione all'ordine del giorno e arriviamo a questo passaggio sull'elezione dei consigli di presidenza degli organi di giustizia amministrativa, della Corte dei conti e della giustizia tributaria, in una condizione che mai avremmo voluto si verificasse. […]",
+   "sunto": "Noi abbiamo ora una votazione all'ordine del giorno e arriviamo a questo passaggio sull'elezione dei consigli di presidenza degli organi di giustizia amministrativa, della Corte dei conti e della giustizia tributaria, in una condizione che mai avremmo voluto si verificasse.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 453,
    "url": "https://www.camera.it/leg19/410?idSeduta=0094&tipo=stenografico#sed0094.stenografico.tit00050.int00020"
   },
@@ -529,7 +770,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Chiediamo che venga messo ai voti, grazie.",
+   "sunto": "Chiediamo che venga messo ai voti, grazie.",
+   "temi": [],
    "parole": 7,
    "url": "https://www.camera.it/leg19/410?idSeduta=0105&tipo=stenografico#sed0105.stenografico.tit00090.sub00010.int00430"
   },
@@ -542,7 +784,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, signor Ministro, onorevoli colleghi e colleghe, voglio ribadire anche oggi la vicinanza del gruppo del Partito Democratico ai familiari delle 15 vittime, alla popolazione dell'Emilia-Romagna e agli altri territori, in misura minore delle Marche e della Toscana, colpiti così pesantemente dalle alluvioni di questi giorni. […]",
+   "sunto": "Voglio ribadire anche oggi la vicinanza del gruppo del Partito Democratico ai familiari delle 15 vittime, alla popolazione dell'Emilia-Romagna e agli altri territori, in misura minore delle Marche e della Toscana, colpiti così pesantemente dalle alluvioni di questi giorni.",
+   "temi": [
+    "Ambiente e clima",
+    "Casa e infrastrutture"
+   ],
    "parole": 1333,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00050.sub00020.int00040"
   },
@@ -555,7 +801,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Mi associo al richiamo che il collega, presidente Silvestri, ha fatto nei confronti del Governo e della maggioranza. Noi ci troviamo in una condizione che è stata ulteriormente definita nell'ultima conferenza dei presidenti di gruppo, dove abbiamo preso atto che la prossima settimana la Camera sarà chiamata ad esaminare due decreti-legge in tempi molto ravvicinati, perché prossimi alla sca […]",
+   "sunto": "Ci è stata annunciata anche la possibilità che un decreto-legge approvato dal Governo venga fatto confluire interamente in uno dei prossimi decreti in fase di conversione qui alla Camera, con una disomogeneità di materia (già esistente nel primo decreto) che andrà ad allargarsi ulteriormente e a…",
+   "temi": [],
    "parole": 398,
    "url": "https://www.camera.it/leg19/410?idSeduta=0111&tipo=stenografico#sed0111.stenografico.tit00070.int00060"
   },
@@ -568,7 +815,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Grazie, Ministro, noi registriamo le sue parole e prendiamo atto di una disponibilità del suo Ministero ad affrontare un tema non più rinviabile, quello di dotare il nostro Paese di una legge efficace per il contenimento del consumo di suolo, dal momento che nel 2021 - ce lo dicono i dati ISPRA - il suolo è tornato ad essere consumato con una velocità impressionante - 19 ettari al giorno, o […]",
+   "sunto": "Nel 2017 questa Camera ha approvato in prima lettura un disegno di legge, che è stato trasmesso al Senato, ma che non è stato portato in fondo per l'opposizione di alcune forze politiche.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00080.int00060"
   },
@@ -581,7 +831,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. A nome del gruppo del Partito Democratico, delle deputate e dei deputati, voglio anch'io dare il benvenuto al piccolo Federico e salutare con affetto la collega Gilda Sportiello, che oggi con la sua presenza qui ci permette anche di discutere, in un'Aula spesso disattenta a questi temi, di una questione fondamentale, quella appunto della conciliazione della vita e del lavoro, dei tempi dell […]",
+   "sunto": "Naturalmente questo non può essere un tema di cui si interessano solo le donne e le deputate in quest'Aula e le donne e le deputate in questo Paese. […] Quindi, voglio ringraziare anche la collega Sportiello per aver contribuito con il suo lavoro nell'Ufficio di Presidenza a portare all'attenzione questi temi e per il lavoro che continuerà a fare.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 617,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00050.int00140"
   },
@@ -594,7 +847,11 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Gentile Presidente, care colleghe e cari colleghi, vorrei innanzitutto unirmi al cordoglio già espresso nei giorni scorsi per la scomparsa di Silvio Berlusconi. Il mio pensiero e quello dei deputati e delle deputate del Partito Democratico va alla famiglia, ai figli, alle figlie e poi alla sua famiglia politica, quella dei gruppi parlamentari di Forza Italia che ha indubbiamente perso una guida e un punto di riferime […]",
+   "sunto": "Silvio Berlusconi ha rappresentato per 30 anni il centrodestra in Italia. […] Silvio Berlusconi è stato certamente un autorevole interprete di una parte, che ha il pieno diritto di celebrare e rendere tributo a un proprio leader , ma sarebbe sbagliato non ricordare quanto la sua figura abbia diviso e anche alimentato contrapposizioni nel Paese.",
+   "temi": [
+    "Fisco e tasse",
+    "Famiglia e natalità"
+   ],
    "parole": 971,
    "url": "https://www.camera.it/leg19/410?idSeduta=0124&tipo=stenografico#sed0124.stenografico.tit00060.int00070"
   },
@@ -607,7 +864,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Per sottoscrivere l'ordine del giorno riformulato dell'onorevole Gadda e ribadire che il Parlamento si è già pronunciato molte volte in questa direzione. Noi ci aspettiamo un atto del Governo e non crediamo che sia necessario chiedere un ulteriore sondaggio di gradimento al Parlamento, ma serve un'azione immediata da parte del Governo.",
+   "sunto": "Per sottoscrivere l'ordine del giorno riformulato dell'onorevole Gadda e ribadire che il Parlamento si è già pronunciato molte volte in questa direzione. […] Noi ci aspettiamo un atto del Governo e non crediamo che sia necessario chiedere un ulteriore sondaggio di gradimento al Parlamento, ma serve un'azione immediata da parte del Governo.",
+   "temi": [],
    "parole": 53,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00040.sub00010.int01710"
   },
@@ -620,7 +878,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Voglio esprimere, anche a nome del Partito Democratico e mio personale, avendo avuto modo di lavorare e confrontarmi con il Sottosegretario Cirillo, la vicinanza del mio gruppo alla sua famiglia , ai suoi figli e alla comunità politica di appartenenza. […]",
+   "sunto": "Voglio esprimere, anche a nome del Partito Democratico e mio personale, avendo avuto modo di lavorare e confrontarmi con il Sottosegretario Cirillo, la vicinanza del mio gruppo alla sua famiglia , ai suoi figli e alla comunità politica di appartenenza. […] Credo che sia una perdita grave e voglio davvero unirmi con affetto e riconoscenza anche per il lavoro svolto in quest'Aula in quella stagione di Governo (Applausi).",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 70,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00110.int00040"
   },
@@ -633,7 +894,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori proprio alla luce delle notizie che abbiamo appreso questa mattina. Il mancato rispetto del termine del 30 giugno da parte del Governo sugli obiettivi del PNRR è un elemento di grande preoccupazione, lo hanno ricordato i colleghi in Aula. […]",
+   "sunto": "Il mancato rispetto del termine del 30 giugno da parte del Governo sugli obiettivi del PNRR è un elemento di grande preoccupazione, lo hanno ricordato i colleghi in Aula.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 153,
    "url": "https://www.camera.it/leg19/410?idSeduta=0130&tipo=stenografico#sed0130.stenografico.tit00040.int00020"
   },
@@ -646,7 +910,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Oggi ci troviamo in quest'Aula in una situazione piuttosto singolare. Siamo qui a decidere su un provvedimento che sarebbe stata cura del Governo approvare al più presto e su cui, magari, sarebbe stato compito dell'opposizione rilevare contraddizioni e lacune. […]",
+   "sunto": "Voi volete rimandare di quattro mesi la ratifica del Meccanismo europeo di stabilità, in attesa di chiarimenti e riforme, e così l'Italia resta l'unico e l'ultimo Paese dell'Eurozona non avere ancora ratificato questo strumento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 822,
    "url": "https://www.camera.it/leg19/410?idSeduta=0133&tipo=stenografico#sed0133.stenografico.tit00110.sub00010.int00120"
   },
@@ -659,7 +927,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Per sottoscrivere, a nome di tutto il gruppo del Partito Democratico, l'ordine del giorno a prima firma del collega Cuperlo.",
+   "sunto": "Per sottoscrivere, a nome di tutto il gruppo del Partito Democratico, l'ordine del giorno a prima firma del collega Cuperlo.",
+   "temi": [],
    "parole": 23,
    "url": "https://www.camera.it/leg19/410?idSeduta=0138&tipo=stenografico#sed0138.stenografico.tit00080.sub00080.int00530"
   },
@@ -672,7 +941,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi dispiace se il Sottosegretario Freni si è allontanato dall'Aula, ma volevamo esprimergli la nostra solidarietà, considerato che aveva espresso un parere favorevole sull'ordine del giorno, del tutto ragionevole, e la sua maggioranza l'ha smentito, con questo voto . […]",
+   "sunto": "Mi dispiace se il Sottosegretario Freni si è allontanato dall'Aula, ma volevamo esprimergli la nostra solidarietà, considerato che aveva espresso un parere favorevole sull'ordine del giorno, del tutto ragionevole, e la sua maggioranza l'ha smentito, con questo voto .",
+   "temi": [],
    "parole": 90,
    "url": "https://www.camera.it/leg19/410?idSeduta=0138&tipo=stenografico#sed0138.stenografico.tit00090.int00020"
   },
@@ -685,7 +955,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo cortesemente al Sottosegretario se mi può rileggere la riformulazione.",
+   "sunto": "Chiedo cortesemente al Sottosegretario se mi può rileggere la riformulazione.",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0140&tipo=stenografico#sed0140.stenografico.tit00080.sub00010.int00970"
   },
@@ -698,7 +969,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Non posso accettare la riformulazione del Sottosegretario per un semplice motivo. Intanto per la cancellazione degli ultimi capoversi delle premesse - capisco che sia un problema per il Governo prendere atto di quello che scriviamo, cioè che da quanto abbiamo capito questo PNIEC è del tutto inadeguato a raggiungere gli obiettivi di riduzione delle emissioni in materia di clima ed energia - ma soprattutto perché trovo […]",
+   "sunto": "Intanto per la cancellazione degli ultimi capoversi delle premesse - capisco che sia un problema per il Governo prendere atto di quello che scriviamo, cioè che da quanto abbiamo capito questo PNIEC è del tutto inadeguato a raggiungere gli obiettivi di riduzione delle emissioni in materia di…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 220,
    "url": "https://www.camera.it/leg19/410?idSeduta=0140&tipo=stenografico#sed0140.stenografico.tit00080.sub00010.int01010"
   },
@@ -711,7 +985,18 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghe e colleghi, rappresentanti del Governo, oggi discutiamo di un tema che ha molti risvolti politici, sicuramente sociali, ma anche umani. La casa non è solo un tetto per le persone; è uno spazio di cura, di condivisione e di socialità ed è una base per avere una vita piena e soddisfacente. […]",
+   "sunto": "Non vedete, ad esempio, che dalla pandemia in poi l'emergenza abitativa riguarda fasce sempre più ampie di popolazione, che soprattutto i giovani non riescono ad accedere alla casa, non riescono a pagare canoni di affitto che siano compatibili con il loro reddito e con un lavoro troppe volte…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Scuola e università",
+    "Ambiente e clima",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1704,
    "url": "https://www.camera.it/leg19/410?idSeduta=0141&tipo=stenografico#sed0141.stenografico.tit00100.sub00020.int00180"
   },
@@ -724,7 +1009,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ho chiesto di intervenire per manifestare lo stupore rispetto al parere non favorevole all'accoglimento di questo ordine del giorno. Mi stupisce molto che non ci sia un'assunzione di responsabilità minima da parte del Governo rispetto a quello che chiediamo con questo ordine del giorno, ossia l'impegno a stanziare, nel prossimo esercizio, dal 2024 al 2026, le risorse - che sono state identificate […]",
+   "sunto": "Ho chiesto di intervenire per manifestare lo stupore rispetto al parere non favorevole all'accoglimento di questo ordine del giorno.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 276,
    "url": "https://www.camera.it/leg19/410?idSeduta=0146&tipo=stenografico#sed0146.stenografico.tit00140.sub00010.int00900"
   },
@@ -737,7 +1025,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Noi oggi siamo chiamati a esprimerci sulla perseguibilità della surrogazione di maternità come reato universale, cioè siamo chiamati ad esprimerci su quello che più volte, anche questa mattina, abbiamo definito un obbrobrio giuridico di cui questa maggioranza porterà la responsabilità. […]",
+   "sunto": "Con questo emendamento si sposta l'asse della nostra discussione su un terreno che, proprio a fronte dell'iniziativa violenta della maggioranza, non vede di fatto nessuna possibilità di discussione compiuta e tanto meno di eventuale avanzamento.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 564,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00090.sub00010.int00160"
   },
@@ -750,7 +1041,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, care colleghe e cari colleghi, siamo qui oggi a discutere e votare la più strana delle leggi. Una legge che ha la pretesa di far valere la sua forza fuori dai nostri confini, nel globo terracqueo, come direbbe qualcuno, dove si pensa che sia più facile fare i duri e la faccia cattiva, salvo poi accorgersi che diventa impossibile applicare le regole e che, se tocchi in maniera così scomposta certi temi, ca […]",
+   "sunto": "Avete promosso una legge che per avere appigli deve essere il più possibile vaga e imprecisa, una legge manifesto dove la feroce determinazione che ostentate nasconde soprattutto la sua inapplicabilità. […] Voi, con questa legge, volete rimettere in discussione il potere della genitorialità, i rapporti familiari e poi, soprattutto, i diritti dei figli nati da coppie omogenitoriali.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 1107,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00140.sub00020.int00220"
   },
@@ -763,7 +1057,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Per chiedere la sottoscrizione a nome del gruppo del Partito Democratico.",
+   "sunto": "Per chiedere la sottoscrizione a nome del gruppo del Partito Democratico.",
+   "temi": [],
    "parole": 13,
    "url": "https://www.camera.it/leg19/410?idSeduta=0154&tipo=stenografico#sed0154.stenografico.tit00100.sub00010.int00700"
   },
@@ -776,7 +1071,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Cari colleghi, giovedì 31 agosto ci siamo svegliati apprendendo dalla radio e dalla televisione la peggiore delle notizie: 5 operai, 5 lavoratori, impegnati sulla rete ferroviaria nazionale, avevano perso la vita mentre erano impegnati nella sostituzione di binari presso la stazione di Brandizzo. […]",
+   "sunto": "Giovedì 31 agosto ci siamo svegliati apprendendo dalla radio e dalla televisione la peggiore delle notizie: 5 operai, 5 lavoratori, impegnati sulla rete ferroviaria nazionale, avevano perso la vita mentre erano impegnati nella sostituzione di binari presso la stazione di Brandizzo.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 262,
    "url": "https://www.camera.it/leg19/410?idSeduta=0156&tipo=stenografico#sed0156.stenografico.tit00020.int00020"
   },
@@ -789,7 +1088,18 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Gentile Ministro, Governo, cari colleghi e care colleghe, lasciatemi dire che il documento che stiamo esaminando in queste ore è una grande presa in giro e, al tempo stesso, un pericolo per il Paese. […]",
+   "sunto": "Avete fatto una riforma fiscale che non riuscirete ad attuare, che peggiora non soltanto le condizioni economiche del Paese, ma rende più confuso e iniquo il sistema fiscale: una riduzione da 4 a 3 delle aliquote, senza nessun beneficio per i redditi più bassi e senza nessuna vera lotta…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 2759,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00050.sub00010.int00080"
   },
@@ -802,7 +1112,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, devo dire che sono abbastanza stupita dal parere contrario su tutto l'ordine del giorno da parte della Vice Ministra Gava, perché in questo ordine del giorno noi stiamo cercando di richiamare l'attenzione del Governo sulla necessità di implementare l'impegno che è stato assunto con questo decreto parziale e del tutto insufficiente per affrontare il tema della riduzione dell'inquinamento e della qualità de […]",
+   "sunto": "Devo dire che sono abbastanza stupita dal parere contrario su tutto l'ordine del giorno da parte della Vice Ministra Gava, perché in questo ordine del giorno noi stiamo cercando di richiamare l'attenzione del Governo sulla necessità di implementare l'impegno che è stato assunto con questo…",
+   "temi": [],
    "parole": 295,
    "url": "https://www.camera.it/leg19/410?idSeduta=0183&tipo=stenografico#sed0183.stenografico.tit00070.sub00030.int00090"
   },
@@ -815,7 +1126,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signora Presidente, onorevoli colleghi, onorevoli colleghe e rappresentante del Governo, intervengo per illustrare l'ordine del giorno a mia prima firma, condiviso con molti altri colleghi del mio gruppo, che ha per oggetto uno dei temi più rilevanti oggetto di questo decreto-legge. […]",
+   "sunto": "Un decreto legge che, come abbiamo avuto modo di sottolineare sia in discussione generale che nella dichiarazione di voto sulla fiducia, ha un titolo altisonante e lasciava presagire anche un coraggio da parte del Governo e della maggioranza di dare una risposta a un tema che tocca la vita di…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 877,
    "url": "https://www.camera.it/leg19/410?idSeduta=0195&tipo=stenografico#sed0195.stenografico.tit00070.sub00010.int00020"
   },
@@ -828,7 +1146,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi scusi: vorrei chiedere cortesemente alla Sottosegretaria se può ridare lettura della riformulazione.",
+   "sunto": "Mi scusi: vorrei chiedere cortesemente alla Sottosegretaria se può ridare lettura della riformulazione.",
+   "temi": [],
    "parole": 15,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00030.sub00010.int00070"
   },
@@ -841,7 +1160,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ringrazio anche la Sottosegretaria di avere ridato lettura della riformulazione di quest'ordine del giorno che, lo dico subito, non accetterò e sul quale intendo fare dichiarazione di voto. La ringrazio anche perché mi pare di avere compreso - non l'ha ribadito ora, ma le chiedo anche solo un cenno di conferma - che la riformulazione prevede la cancellazione di tutte le premesse, un parere contrar […]",
+   "sunto": "La ringrazio anche perché mi pare di avere compreso - non l'ha ribadito ora, ma le chiedo anche solo un cenno di conferma - che la riformulazione prevede la cancellazione di tutte le premesse, un parere contrario sulle premesse, così come sugli altri ordini del giorno che hanno la medesima…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti"
+   ],
    "parole": 437,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00030.sub00010.int00130"
   },
@@ -854,7 +1177,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Devo dire che il collega Della Vedova ha centrato esattamente il punto: l'intervento del Presidente Rampelli ha chiarito, in maniera che più chiara non si poteva, la ragione per cui su un provvedimento di questa natura, con pochissimi emendamenti presentati dalle opposizioni, la maggioranza ha deciso di porre la questione di fiducia. […]",
+   "sunto": "Su questo tema così sentito, su cui noi abbiamo fatto una battaglia in Commissione, abbiamo chiesto un impegno vero, non una sorta di avallo a rimandare, valutare, considerare l'opportunità e la possibilità di rivedere il tema dell'uscita dal mercato di maggior tutela, avete reso evidenti la…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00090.sub00010.int01330"
   },
@@ -867,7 +1193,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Si rivolga al Presidente!",
+   "sunto": "Si rivolga al Presidente!",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00460"
   },
@@ -880,7 +1207,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intanto, mi permetto di richiamare l'attenzione dei colleghi di maggioranza e, soprattutto, del Ministro Lollobrigida, che è stato seduto qui, questa mattina, a fare un mezzo comizio su questo provvedimento e, di fronte a quello che le abbiamo chiesto, si sta allontanando dai banchi del Governo . […]",
+   "sunto": "Intanto, mi permetto di richiamare l'attenzione dei colleghi di maggioranza e, soprattutto, del Ministro Lollobrigida, che è stato seduto qui, questa mattina, a fare un mezzo comizio su questo provvedimento e, di fronte a quello che le abbiamo chiesto, si sta allontanando dai banchi del Governo . […] Scappa di fronte al Parlamento, di fronte alla democrazia!",
+   "temi": [],
    "parole": 118,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00060.int00020"
   },
@@ -893,7 +1221,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Scappate sempre quando è il momento di prendervi le vostre responsabilità !",
+   "sunto": "Scappate sempre quando è il momento di prendervi le vostre responsabilità !",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00060.int00090"
   },
@@ -906,7 +1235,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi limito solo a dire che ho ricordato un fatto di storia e uno di cronaca che stava avvenendo, cioè il Ministro stava abbandonando l'Aula quando i gruppi parlamentari avevano chiesto di potere interloquire, anche però con il Governo, nel condannare il fatto gravissimo che si è verificato, pochi minuti fa, fuori da Palazzo Montecitorio: l'aggressione a due parlamentari della Repubblica, a cui vann […]",
+   "sunto": "Mi limito solo a dire che ho ricordato un fatto di storia e uno di cronaca che stava avvenendo, cioè il Ministro stava abbandonando l'Aula quando i gruppi parlamentari avevano chiesto di potere interloquire, anche però con il Governo, nel condannare il fatto gravissimo che si è verificato, pochi…",
+   "temi": [],
    "parole": 272,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00060.int00160"
   },
@@ -919,7 +1249,14 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Care colleghe e cari colleghi, rappresentante del Governo, la COP28 sul clima, che inizierà tra due giorni, è uno degli appuntamenti più importanti di questi anni per fare il punto su come gli Stati stanno affrontando le emergenze climatiche e ambientali del pianeta. […]",
+   "sunto": "Si discuterà di molti altri temi, dall'attuazione dell'obiettivo sull'adattamento, alla creazione di un fondo per le perdite e i danni destinato ai Paesi in via di sviluppo e, poi, sulle questioni centrali dell'accelerazione della transizione energetica globale e su come riorganizzare…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Unione europea",
+    "Giustizia",
+    "Ambiente e clima"
+   ],
    "parole": 1669,
    "url": "https://www.camera.it/leg19/410?idSeduta=0204&tipo=stenografico#sed0204.stenografico.tit00070.sub00020.int00220"
   },
@@ -932,7 +1269,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, grazie. Intervengo sull'ordine dei lavori per ribadire la richiesta di calendarizzare al più presto la mozione di censura già presentata nei confronti del Sottosegretario Delmastro Delle Vedove, ma anche per condannare le dichiarazioni gravissime che sono state pronunciate ieri nei confronti delle opposizioni e della magistratura. […]",
+   "sunto": "Un Sottosegretario non può usare le parole di un dittatore fascista, non può pensare di portare la discussione sulla giustizia su un terreno che è di minacce verso la magistratura .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 281,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00050.int00020"
   },
@@ -945,7 +1285,13 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Care colleghe, cari colleghi, con questo emendamento sottoscritto da tutte le forze di opposizione che hanno presentato la proposta sul salario minimo siamo arrivati al dunque. Con questo emendamento, che ripropone il testo che abbiamo sottoposto all'esame del Parlamento ormai diversi mesi fa, rendiamo chiaro quello che è accaduto. […]",
+   "sunto": "Ha deciso che era meglio rinviare di qualche mese, poi di qualche settimana, purché non si arrivasse a prendere una decisione nell'interesse di 3 milioni e mezzo di lavoratrici e di lavoratori, di lavoratori e lavoratrici poveri, sfruttati e sottopagati, quelli che, pur lavorando, pur dovendo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 964,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00070.sub00020.int01160"
   },
@@ -958,7 +1304,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo per ritirare la mia firma e quella di tutti i colleghi deputati del Partito Democratico.",
+   "sunto": "Intervengo per ritirare la mia firma e quella di tutti i colleghi deputati del Partito Democratico.",
+   "temi": [],
    "parole": 18,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int01080"
   },
@@ -971,7 +1318,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Anche a nome del gruppo Partito Democratico, mi unisco al cordoglio da lei espresso e all'abbraccio per la scomparsa dell'onorevole Scalia. Le parole che ha usato il collega Bonelli restituiscono l'esperienza e la storia politica di una persona che nelle istituzioni e nell'associazionismo dedicato alla tutela dell'ambiente e all'ambientalismo ha rappresentato molto, anche in ruoli importanti. […]",
+   "sunto": "Anche a nome del gruppo Partito Democratico, mi unisco al cordoglio da lei espresso e all'abbraccio per la scomparsa dell'onorevole Scalia.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 206,
    "url": "https://www.camera.it/leg19/410?idSeduta=0212&tipo=stenografico#sed0212.stenografico.tit00120.int00040"
   },
@@ -984,7 +1334,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente, mi scuso. Provvederò a rimediare al mio danno. Chiedo un attimo di attenzione ai colleghi e alle colleghe dell'Aula per queste parole: “la mancanza di risorse destinate alla sanità pubblica può portare gravissime conseguenze, prima fra tutte la carenza di servizi e l'inaccessibilità delle cure a pazienti economicamente o socialmente più svantaggiati”. […]",
+   "sunto": "Qualche giorno fa, Presidente, il 23 dicembre, abbiamo celebrato i 45 anni del Servizio sanitario nazionale, di cui tutti dovremmo sentirci orgogliosi e custodi, e anche grati a una grande donna, Tina Anselmi , che si è battuta, prima tra tutte, insieme a molte altre e a molti altri, per dare al…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità"
+   ],
    "parole": 989,
    "url": "https://www.camera.it/leg19/410?idSeduta=0219&tipo=stenografico#sed0219.stenografico.tit00100.sub00020.int01700"
   },
@@ -997,7 +1351,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Colleghi, colleghe, una guerra terribile in corso al Sud dell'Europa non può allontanarci da un'altra guerra che si consuma sul confine Est del vecchio continente. Purtroppo, invece, dal Giordano al Danubio la costruzione di un'area di pace e di convivenza si infrange di fronte alla volontà distruttiva, al desiderio di annientamento, alla forza inaudita delle armi. […]",
+   "sunto": "Una guerra terribile in corso al Sud dell'Europa non può allontanarci da un'altra guerra che si consuma sul confine Est del vecchio continente. […] Il nostro obiettivo, l'obiettivo dell'Europa libera, è il ritiro di tutte le forze militari russe che illegittimamente occupano il suolo ucraino , rispettando e ripristinando il rispetto della piena sovranità e dell'integrità territoriale dell'Ucraina.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1482,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00040.sub00010.int00230"
   },
@@ -1010,7 +1369,11 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Massimo Scalia è stato un padre dell'ambientalismo italiano, un politico, un professore appassionato, un leader ecologista e un condottiero ironico e generoso. Sin da giovane, ha collegato la sua formazione al nascente ambientalismo scientifico, ponendosi già allora nei suoi studi la questione cruciale di quanto l'economia debba misurarsi col problema globale delle risorse limitate e della […]",
+   "sunto": "Massimo Scalia è stato un padre dell'ambientalismo italiano, un politico, un professore appassionato, un leader ecologista e un condottiero ironico e generoso.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 650,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00100.int00060"
   },
@@ -1023,7 +1386,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, chiedo un attimo di attenzione ai colleghi all'Aula. Signor Presidente, intervengo per sottoporre all'attenzione dell'Aula una vicenda che vede coinvolto, ancora una volta, un Sottosegretario del Governo Meloni, il Sottosegretario Sgarbi, e chiedere che la Presidenza della Camera si attivi per tutelare la nostra collega, Irene Manzi, a cui va tutta la nostra solidarietà e il nostro sostegno . […]",
+   "sunto": "Il Sottosegretario Sgarbi, purtroppo, lo sappiamo, non è nuovo a insulti e volgarità rivolti alle donne e da diversi giorni ha scelto di utilizzare i giornali per minacciare e offendere l'onorevole Manzi, rea, a suo avviso, insieme a molti altri colleghi deputati, di averne chiesto la rimozione…",
+   "temi": [],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0234&tipo=stenografico#sed0234.stenografico.tit00040.int00020"
   },
@@ -1036,7 +1400,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, care colleghe e cari colleghi, ci troviamo qui, nell'anniversario dei primi provvedimenti presi per arginare la diffusione di un virus piccolissimo, comparso in una lontanissima città della Cina, che è stato causa di un vero e proprio sovvertimento mondiale che, come hanno ricordato in molti, ha paralizzato la vita economica e sociale del pianeta: 4 miliardi di persone confinate, 800 milioni di malati, 7 […]",
+   "sunto": "La Presidente Meloni ha scritto, qualche giorno fa, visitando la mostra dedicata a Enrico Berlinguer, che l'unica soluzione ai problemi è la politica, eppure, qui, per la sua maggioranza, per voi, la politica è il problema; la politica quando si fa guidare dalla saggezza basata sul sapere…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 1203,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00070.sub00020.int00250"
   },
@@ -1049,7 +1418,11 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, gentile Presidente. Care colleghe e cari colleghi, siccome siamo oggi, qui, a celebrare la Giornata internazionale dei diritti delle donne con qualche giorno di anticipo, vorrei partire proprio da qui, dal luogo in cui ci troviamo, per ricordare come, in quasi 80 anni di Repubblica, piccole e grandi conquiste siano nate proprio in quest'Aula e questa stessa Aula abbia recepito cambiamenti già in atto nella so […]",
+   "sunto": "Siccome siamo oggi, qui, a celebrare la Giornata internazionale dei diritti delle donne con qualche giorno di anticipo, vorrei partire proprio da qui, dal luogo in cui ci troviamo, per ricordare come, in quasi 80 anni di Repubblica, piccole e grandi conquiste siano nate proprio in quest'Aula e…",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 815,
    "url": "https://www.camera.it/leg19/410?idSeduta=0256&tipo=stenografico#sed0256.stenografico.tit00080.int00040"
   },
@@ -1062,7 +1435,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori perché, poco fa, in Aula, ci è stato comunicato che il Governo ha deciso di ritirare una richiesta di urgenza riguardo all'esame del disegno di legge in materia di cybersicurezza. Noi, ieri, ne abbiamo discusso in una Conferenza dei presidenti di gruppo convocata in estrema urgenza per chiedere, appunto, l'urgenza nell'esame di questo provvedimento. […]",
+   "sunto": "Noi, ieri, ne abbiamo discusso in una Conferenza dei presidenti di gruppo convocata in estrema urgenza per chiedere, appunto, l'urgenza nell'esame di questo provvedimento.",
+   "temi": [],
    "parole": 351,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00040.sub00020.int00020"
   },
@@ -1075,7 +1449,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Una tesi di laurea copiata, una vacanza nel bel mezzo di un'alluvione, l'assunzione di una colf in nero, un comportamento aggressivo nei confronti dei propri collaboratori: questo è un elenco sommario delle ragioni che hanno spinto Ministri di Governi europei a rassegnare le proprie dimissioni. […]",
+   "sunto": "Sono passati 8 mesi, quelle accuse sono ancora tutte lì e, anzi, dove la magistratura ha già indagato le accuse si sono fatte più circostanziate e precise, come sull'utilizzo della cassa COVID, sul mancato pagamento del TFR ai lavoratori e alle lavoratrici e sui contenziosi con il fisco.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Giustizia"
+   ],
    "parole": 1227,
    "url": "https://www.camera.it/leg19/410?idSeduta=0273&tipo=stenografico#sed0273.stenografico.tit00040.sub00010.int00180"
   },
@@ -1088,7 +1467,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, intervengo sull'ordine dei lavori relativamente a una richiesta sulla quale chiedo l'attenzione, ovviamente, della Presidenza, ma, anche, dell'Aula, una richiesta che, nella giornata di venerdì, abbiamo inoltrato, insieme a tutti i presidenti di gruppo delle forze di opposizione, al Presidente della Camera per chiedere la convocazione urgente di una Conferenza dei presidenti di gruppo, volta ad ana […]",
+   "sunto": "Abbiamo avuto notizia del fatto che, a seguito della calendarizzazione in Aula per il 29 aprile, decisa dalla Conferenza dei presidenti di gruppo, la Commissione ha stabilito un calendario di esame di questo provvedimento che prevede dei tempi assolutamente incompatibili con la complessità della…",
+   "temi": [],
    "parole": 572,
    "url": "https://www.camera.it/leg19/410?idSeduta=0276&tipo=stenografico#sed0276.stenografico.tit00050.int00020"
   },
@@ -1101,7 +1481,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie Presidente, devo dire che ho preso atto, con rammarico ma anche con un certo stupore, del parere contrario del Governo su questo ordine del giorno, che affronta uno dei punti più dannosi di questo decreto-legge, su cui si è discusso di più in Commissione, su cui le voci di contrarietà non sono venute solo dal dibattito parlamentare, dalle opposizioni, ma anche dalle istituzioni regionali, dalle regioni, e anch […]",
+   "sunto": "La Conferenza delle regioni, il presidente Fedriga ha scritto e inviato una lettera alla Presidenza del Consiglio e al Governo per chiedere la soppressione di questo comma 13 dell'articolo 1, non solo perché lesivo del principio di leale collaborazione tra lo Stato e le regioni, a proposito di…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità"
+   ],
    "parole": 740,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00070.sub00010.int01050"
   },
@@ -1114,7 +1498,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Anche oggi celebriamo una delle tante prime volte del Governo Meloni, questa volta strana davvero: il DEF a tradizione orale. Perché oggi noi non stiamo discutendo e votando un provvedimento vero, ma un provvedimento che è sulla carta, ma come un compito in bianco, un Documento di economia e finanza senza numeri. […]",
+   "sunto": "Anche oggi celebriamo una delle tante prime volte del Governo Meloni, questa volta strana davvero: il DEF a tradizione orale. […] Non lo avete detto nel DEF per non preoccupare l'Europa e non lo avete scritto perché, alla fine, l'unica strada sarà nuovo debito e tagli.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00040.sub00010.int00320"
   },
@@ -1127,7 +1519,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, io mi domando fino a che punto possano arrivare la protervia di questa maggioranza, le provocazioni e le forzature che abbiamo visto in queste settimane, in Commissione e anche oggi, in Aula ! Lei, Presidente, è intervenuto per stigmatizzare e per chiedere ripetutamente all'onorevole Bordonali di rimuovere quella scritta, lo ha fatto dopo le proteste e le richieste ripetute dell'opposizione. […]",
+   "sunto": "Io mi domando fino a che punto possano arrivare la protervia di questa maggioranza, le provocazioni e le forzature che abbiamo visto in queste settimane, in Commissione e anche oggi, in Aula !",
+   "temi": [],
    "parole": 188,
    "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00010.int00580"
   },
@@ -1140,7 +1533,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Si giri dall'altra parte!",
+   "sunto": "Si giri dall'altra parte!",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00020.int00030"
   },
@@ -1153,7 +1547,10 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Signora Sottosegretaria, l'interpellanza che vogliamo discutere oggi riguarda i fatti che si sono verificati lo scorso 28 aprile 2024 nelle località in provincia di Como, che sono state ricordate, a Dongo e a Giulino di Mezzegra, dove si sono svolte, nella mattinata e nel pomeriggio, due manifestazioni di chiaro stampo neofascista. […]",
+   "sunto": "L'interpellanza che vogliamo discutere oggi riguarda i fatti che si sono verificati lo scorso 28 aprile 2024 nelle località in provincia di Como, che sono state ricordate, a Dongo e a Giulino di Mezzegra, dove si sono svolte, nella mattinata e nel pomeriggio, due manifestazioni di chiaro stampo…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 808,
    "url": "https://www.camera.it/leg19/410?idSeduta=0290&tipo=stenografico#sed0290.stenografico.tit00030.sub00030.int00020"
   },
@@ -1166,7 +1563,8 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Non posso dichiararmi soddisfatta, per un semplice motivo: la Sottosegretaria, pur nella sua cortesia, ha fornito una risposta burocratica alla nostra interpellanza, limitandosi a descrivere, in maniera abbastanza lineare, la presa d'atto dei fatti che si sono verificati e le situazioni che si sono manifestate. […]",
+   "sunto": "Io devo dire, ringraziandola, ovviamente, per la sua disponibilità, che considero quantomeno inopportuno che la risposta a un'interpellanza di questa natura e con questi contenuti, rivolta a due Ministri, il Ministro dell'Interno e il Ministro della Giustizia, che dispongono entrambi di ben tre…",
+   "temi": [],
    "parole": 688,
    "url": "https://www.camera.it/leg19/410?idSeduta=0290&tipo=stenografico#sed0290.stenografico.tit00030.sub00030.int00060"
   },
@@ -1179,7 +1577,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo cortesemente se la Sottosegretaria mi può rileggere la riformulazione.",
+   "sunto": "Chiedo cortesemente se la Sottosegretaria mi può rileggere la riformulazione.",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00090.sub00010.int00460"
   },
@@ -1192,7 +1591,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ho chiesto di rileggermi la riformulazione, perché volevo essere certa di aver sentito bene la riformulazione della Sottosegretaria. Devo dire che sono abbastanza senza parole, perché nella sua riformulazione, Sottosegretaria, lei parla di “ulteriori risorse”, ma non lo sa che il Fondo sostegno affitti e il Fondo morosità hanno zero in bilancio? Ulteriori a che? . […]",
+   "sunto": "Allora, evitiamo di prenderci in giro, posso anche accettare “a valutare l'opportunità di” e “ulteriori condizioni, qualora ne ricorrano le condizioni” che non so quale siano, forse le migliaia di famiglie che fanno fatica a pagare l'affitto, che sono in lista d'attesa per le case popolari.",
+   "temi": [
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 216,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00090.sub00010.int00500"
   },
@@ -1205,7 +1608,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Signor Ministro, tra i tanti primati negativi del suo Governo c'è quello di aver riportato, con l'ultima legge di bilancio, a tagliare risorse agli enti locali: 250 milioni l'anno, per cinque anni, con un impatto durissimo sui comuni … Signor Ministro, tra i tanti primati negativi del suo Governo, dicevo, c'è quello di aver riportato, con l'ultima legge di bilancio a tagliare risorse agli enti loc […]",
+   "sunto": "Tra i tanti primati negativi del suo Governo c'è quello di aver riportato, con l'ultima legge di bilancio, a tagliare risorse agli enti locali: 250 milioni l'anno, per cinque anni, con un impatto durissimo sui comuni … Signor Ministro, tra i tanti primati negativi del suo Governo, dicevo, c'è…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 225,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00080.sub00030.int00060"
   },
@@ -1218,7 +1624,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ministro, prendiamo atto delle sue dichiarazioni, ma, come potrà immaginare, non ci rassicurano affatto, perché, come è evidente e come temevamo, non solo non ha fatto chiarezza, ma ha solo annunciato il rinvio di una decisione del Governo su quel mero schema, come lei l'ha chiamato, che qualche manina del suo Ministero avrà pur scritto, in attesa che passi l'appuntamento delle elezioni europee e […]",
+   "sunto": "Una scure che adesso abbattete sui comuni, quelli che garantiscono servizi fondamentali ai cittadini, asili nido, mense, trasporto scolastico, servizi sociali a chi fa più fatica.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse"
+   ],
    "parole": 281,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00080.sub00030.int00120"
   },
@@ -1231,7 +1641,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Intanto voglio rendere merito anche al Presidente della Camera che, nella discussione di questo provvedimento, ha accolto la richiesta formulata dai gruppi di opposizione di ampliare i tempi di discussione e il numero di emendamenti segnalati, come previsto dal Regolamento, secondo prassi già applicate. […]",
+   "sunto": "Intanto voglio rendere merito anche al Presidente della Camera che, nella discussione di questo provvedimento, ha accolto la richiesta formulata dai gruppi di opposizione di ampliare i tempi di discussione e il numero di emendamenti segnalati, come previsto dal Regolamento, secondo prassi già…",
+   "temi": [],
    "parole": 252,
    "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00120.int00180"
   },
@@ -1244,7 +1655,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Tramite lei, mi permetto di fare una sottolineatura, perché questa mattina noi abbiamo continuato a intervenire sul merito di questo provvedimento. Abbiamo avuto il piacere, dopo tanto silenzio, di ascoltare due interventi dell'onorevole Foti, capogruppo del principale partito di maggioranza, uno sul Regolamento, in cui la invitava a renderci conto dei precedenti, e l'altro, un po' nostalg […]",
+   "sunto": "Abbiamo avuto il piacere, dopo tanto silenzio, di ascoltare due interventi dell'onorevole Foti, capogruppo del principale partito di maggioranza, uno sul Regolamento, in cui la invitava a renderci conto dei precedenti, e l'altro, un po' nostalgico, sulla ricostruzione di questo fatto. […] Onorevole Foti, ma quando ci dirà una parola su questo provvedimento ?",
+   "temi": [],
    "parole": 102,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00050.sub00010.int00460"
   },
@@ -1257,7 +1669,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "… su cui siete stati puniti anche da queste elezioni. Di questo vogliamo discutere. Onori il Parlamento discutendo di questo .",
+   "sunto": "… su cui siete stati puniti anche da queste elezioni.",
+   "temi": [],
    "parole": 21,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00050.sub00010.int00520"
   },
@@ -1270,7 +1683,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Chiedo un attimo al Presidente di garantire l'attenzione dell'Aula e mi permetto, tramite lei, di chiedere anche al Vicepresidente Tajani, che è ancora qui in Aula, di poter ascoltare il mio intervento, perché mi riferisco proprio alle sue parole, alle parole che abbiamo letto poco fa in un'agenzia. […]",
+   "sunto": "Chiedo un attimo al Presidente di garantire l'attenzione dell'Aula e mi permetto, tramite lei, di chiedere anche al Vicepresidente Tajani, che è ancora qui in Aula, di poter ascoltare il mio intervento, perché mi riferisco proprio alle sue parole, alle parole che abbiamo letto poco fa in un'agenzia.",
+   "temi": [],
    "parole": 228,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00110.sub00010.int00020"
   },
@@ -1283,7 +1697,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Mi rivolgo… Capisco che crea un certo fastidio ascoltare un richiamo alla coerenza delle parole che sono state pronunciate, perché noi vorremmo semplicemente che ci fosse un po' di coerenza . Se questo provvedimento ha bisogno di un intervento del Governo e del Parlamento che garantisca che i LEP salvaguardino i cittadini del Sud, è perché questo provvedimento che state approvando non lo fa . […]",
+   "sunto": "Mi rivolgo… Capisco che crea un certo fastidio ascoltare un richiamo alla coerenza delle parole che sono state pronunciate, perché noi vorremmo semplicemente che ci fosse un po' di coerenza . […] Se questo provvedimento ha bisogno di un intervento del Governo e del Parlamento che garantisca che i LEP salvaguardino i cittadini del Sud, è perché questo provvedimento che state approvando non lo fa .",
+   "temi": [],
    "parole": 85,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00110.sub00010.int00050"
   },
@@ -1296,7 +1711,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ringrazio l'onorevole Deidda, per il chiarimento. La mia solidarietà va all'altro collega che si è sentito rivolgere questo invito, ma comunque chiudiamo qui l'incidente . Intendo continuare, Presidente, sul merito del mio intervento, perché davvero è una questione di sostanza. Ricordavo le parole del Segretario di Forza Italia, nonché Vicepresidente del Consiglio. […]",
+   "sunto": "Per questo motivo, proprio perché prendiamo molto sul serio le parole del Vicepresidente Tajani, le chiediamo, Presidente, le chiediamo… scusi Presidente… le chiediamo, Presidente Costa… … Siccome ho una richiesta specifica da rivolgerle, Presidente, alla luce di queste parole le chiediamo di…",
+   "temi": [],
    "parole": 416,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00110.sub00010.int00120"
   },
@@ -1309,7 +1725,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ho soltanto un minuto, quindi non ritorno sulle argomentazioni e sulle parole di condanna e di critica che hanno espresso tutti i colleghi che sono intervenuti prima di me. Utilizzo questo breve tempo solo per due cose: per ribadire la richiesta, che già abbiamo fatto ieri, in Capigruppo, di convocare immediatamente e prontamente l'Ufficio di Presidenza, per assumere i provvedimenti di competenza. […]",
+   "sunto": "Quindi, io propongo, in maniera formale, di correggere il processo verbale, all'undicesimo capoverso, sostituendo la parola “disordini” con le seguenti parole: “aggressione nei confronti del deputato Donno da parte di alcuni deputati della Lega e di Fratelli d'Italia” (Applausi dei deputati dei…",
+   "temi": [],
    "parole": 258,
    "url": "https://www.camera.it/leg19/410?idSeduta=0306&tipo=stenografico#sed0306.stenografico.tit00010.int03190"
   },
@@ -1322,7 +1739,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ho chiesto di intervenire sull'ordine dei lavori sul provvedimento che stiamo per iniziare a discutere per proporre a quest'Aula il rinvio in Commissione della proposta di legge a prima firma Schlein. […]",
+   "sunto": "Vi chiediamo, insieme, di ragionare su come finanziare la sanità pubblica, perché la questione, alla fine, è questa: vogliamo salvare o no il nostro Servizio sanitario nazionale? […] Per questo motivo, vi chiediamo di ritornare a discutere in Commissione di come trovare insieme le risorse, di come costruire insieme le risposte, per garantire a tutte e a tutti un diritto fondamentale della nostra Costituzione .",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 597,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.int00020"
   },
@@ -1335,7 +1755,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Intervengo sull'ordine dei lavori. Guardi, rispetto la sua conduzione dell'Aula e nessuno le chiede di esercitare compiti che non le competono, però, proprio alla luce delle osservazioni che abbiamo fatto e della risposta del tutto insoddisfacente avuta dal Governo, lei mi costringe a fare l'unica cosa che possiamo fare: chiedere urgentemente un'informativa del Ministro Nordio, affinché ci venga a riferire cosa ha ap […]",
+   "sunto": "Guardi, rispetto la sua conduzione dell'Aula e nessuno le chiede di esercitare compiti che non le competono, però, proprio alla luce delle osservazioni che abbiamo fatto e della risposta del tutto insoddisfacente avuta dal Governo, lei mi costringe a fare l'unica cosa che possiamo fare: chiedere…",
+   "temi": [],
    "parole": 203,
    "url": "https://www.camera.it/leg19/410?idSeduta=0318&tipo=stenografico#sed0318.stenografico.tit00080.int00160"
   },
@@ -1348,7 +1769,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Intervengo per dichiarazione di voto sull'articolo 1, essendo giunti a questo passaggio senza aver potuto ottenere una risposta alla nostra richiesta, quella che abbiamo formulato insieme alle altre opposizioni, e ringrazio il Vice Ministro Sisto che si è palesato di nuovo nei banchi del Governo. […]",
+   "sunto": "Infatti, si è ritenuto di intervenire, ancora, su una norma importante come quella penale, andando a istituire una nuova fattispecie di reato che oggi non c'è, mentre con questo provvedimento state cancellando e abrogando dal nostro ordinamento - unico Paese europeo - una norma che tutela, prima…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 1000,
    "url": "https://www.camera.it/leg19/410?idSeduta=0318&tipo=stenografico#sed0318.stenografico.tit00090.sub00010.int00350"
   },
@@ -1361,7 +1785,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Non accetto la raccomandazione e uso veramente un minuto del mio tempo per segnalarle che il Sottosegretario Morelli è Sottosegretario alla Presidenza del Consiglio, non è Vice Ministro, lo era, era Vice Ministro alle Infrastrutture e della mobilità sostenibili e forse questo è il motivo per cui continua a seguire con grande attenzione il decreto Salvini, non certo perché magari è un timbro del su […]",
+   "sunto": "Non accetto la raccomandazione e uso veramente un minuto del mio tempo per segnalarle che il Sottosegretario Morelli è Sottosegretario alla Presidenza del Consiglio, non è Vice Ministro, lo era, era Vice Ministro alle Infrastrutture e della mobilità sostenibili e forse questo è il motivo per cui…",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 691,
    "url": "https://www.camera.it/leg19/410?idSeduta=0328&tipo=stenografico#sed0328.stenografico.tit00080.sub00010.int00620"
   },
@@ -1374,7 +1802,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, oggi non ci intendiamo molto. A titolo personale, so che ho soltanto un minuto, ma per annunciare il voto contrario del nostro gruppo a quest'ordine del giorno , in quanto la discussione che abbiamo affrontato parzialmente, e che ci auguriamo possa essere ripresa in sedi più opportune, non riguarda, dal nostro punto di vista, una norma di sanatoria, ma una norma di interpretazione di una legge esistente, […]",
+   "sunto": "A titolo personale, so che ho soltanto un minuto, ma per annunciare il voto contrario del nostro gruppo a quest'ordine del giorno , in quanto la discussione che abbiamo affrontato parzialmente, e che ci auguriamo possa essere ripresa in sedi più opportune, non riguarda, dal nostro punto di…",
+   "temi": [],
    "parole": 154,
    "url": "https://www.camera.it/leg19/410?idSeduta=0328&tipo=stenografico#sed0328.stenografico.tit00080.sub00010.int01460"
   },
@@ -1387,7 +1816,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente…",
+   "sunto": "Presidente…",
+   "temi": [],
    "parole": 1,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00100.sub00060.int00280"
   },
@@ -1400,7 +1830,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Alle tante pagine terrificanti che si sono scritte in questi anni di guerra ai nostri confini, sabato se ne è aggiunta un'altra: una strage ai danni di bambini. Dodici ragazzini drusi sono stati uccisi in un campo di calcio sulle alture del Golan e diciassette sono rimasti feriti e lo sono ancora, in condizioni gravi. […]",
+   "sunto": "Non si può escludere una massiccia operazione israeliana nell'area, con effetti domino in tutta la regione, dove la situazione si fa sempre più drammatica - lo sappiamo da mesi - per le condizioni di vita - penso al pericolo di un'epidemia di poliomielite - per la mancanza di acqua, di servizi…",
+   "temi": [
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 511,
    "url": "https://www.camera.it/leg19/410?idSeduta=0336&tipo=stenografico#sed0336.stenografico.tit00070.int00060"
   },
@@ -1413,7 +1847,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente, si tratta, ovviamente, di un altro argomento. Intanto, perché penso che lo sport debba essere lasciato fuori da questa rappresentazione di alcuni colleghi che abbiamo sentito, ma anche perché credo che ci siano altre priorità di cui questo Parlamento dovrebbe occuparsi. […]",
+   "sunto": "Intanto, perché penso che lo sport debba essere lasciato fuori da questa rappresentazione di alcuni colleghi che abbiamo sentito, ma anche perché credo che ci siano altre priorità di cui questo Parlamento dovrebbe occuparsi.",
+   "temi": [],
    "parole": 223,
    "url": "https://www.camera.it/leg19/410?idSeduta=0337&tipo=stenografico#sed0337.stenografico.tit00030.int00060"
   },
@@ -1426,7 +1861,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Non accolgo la riformulazione e chiedo di intervenire per una brevissima dichiarazione di voto, perché quest'ordine del giorno, sostanzialmente, chiede al Governo di mantenere le promesse che ha fatto, ad esempio, all'indomani dell'alluvione in Emilia-Romagna, quando la Presidente del Consiglio andò a garantire che sarebbero arrivate risorse per i ristori a tutti i cittadini e agli amministratori […]",
+   "sunto": "Non accolgo la riformulazione e chiedo di intervenire per una brevissima dichiarazione di voto, perché quest'ordine del giorno, sostanzialmente, chiede al Governo di mantenere le promesse che ha fatto, ad esempio, all'indomani dell'alluvione in Emilia-Romagna, quando la Presidente del Consiglio…",
+   "temi": [],
    "parole": 221,
    "url": "https://www.camera.it/leg19/410?idSeduta=0340&tipo=stenografico#sed0340.stenografico.tit00050.sub00010.int00260"
   },
@@ -1439,7 +1875,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo anch'io di intervenire perché trovo davvero curioso e grave, nello stesso tempo, il parere contrario del Governo. Questo ordine del giorno chiede al rappresentante del Governo di assumere un impegno che sarebbe, credo, scontato, dovuto: cioè fare in modo che le condizioni di permanenza dei detenuti e delle detenute nelle carceri italiane siano rispondenti a quel principio di dignità che è a […]",
+   "sunto": "Questo ordine del giorno chiede al rappresentante del Governo di assumere un impegno che sarebbe, credo, scontato, dovuto: cioè fare in modo che le condizioni di permanenza dei detenuti e delle detenute nelle carceri italiane siano rispondenti a quel principio di dignità che è alla base della…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 727,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00040.sub00010.int00120"
   },
@@ -1452,7 +1891,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, sono costretta a intervenire nell'immediato avendo letto ora, mentre stavamo votando il rinvio ulteriore in Commissione della proposta di legge dell'onorevole Giachetti, una dichiarazione del Ministro Nordio, a valle di quell'incontro che è stato stigmatizzato dai miei colleghi. Il Ministro Nordio ha dichiarato che ha prospettato a Meloni soluzioni a breve e medio termine contro il sovraffollamento. […]",
+   "sunto": "Il Ministro Nordio ha dichiarato che ha prospettato a Meloni soluzioni a breve e medio termine contro il sovraffollamento. […] Allora noi chiediamo che, oltre alla Meloni, venga anche il Ministro Nordio qui a dirci perché quello che abbiamo approvato non contiene nessuna misura per il sovraffollamento e venga qui a dircelo .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 198,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00110.int00020"
   },
@@ -1465,7 +1907,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo per accogliere con favore - credo che sia il caso di dirlo - la dichiarazione, la precisazione che il Presidente della Camera Fontana ha fatto poco fa, richiamando la centralità del Parlamento e il fatto che la discussione che oggi, poco fa, abbiamo svolto sul tema del sovraffollamento delle carceri avrebbe dovuto trovare in questa sede, la sede appunto di un confronto di idee e di assu […]",
+   "sunto": "Quello che è accaduto questo pomeriggio, ossia la totale assenza di una presenza qualificata del Ministero competente sulla discussione di questo decreto, e l'offesa, che noi continuiamo a ritenere tale, che è stata manifestata nei confronti di questo Parlamento non vengono ovviamente cancellate.",
+   "temi": [],
    "parole": 297,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00150.int00020"
   },
@@ -1478,7 +1921,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, mi vedo costretta a chiederle la parola per un richiamo al Regolamento, perché l'intervento dell'onorevole Fornaro, che ha semplicemente chiesto al Governo, ai relatori o al presidente della Commissione di sapere quando si intendano fornire all'Aula gli altri pareri, credo meriti un segno quantomeno di attenzione e di risposta, anche per poter svolgere i nostri lavori, perché altrimenti possiamo dedurre s […]",
+   "sunto": "Mi vedo costretta a chiederle la parola per un richiamo al Regolamento, perché l'intervento dell'onorevole Fornaro, che ha semplicemente chiesto al Governo, ai relatori o al presidente della Commissione di sapere quando si intendano fornire all'Aula gli altri pareri, credo meriti un segno…",
+   "temi": [],
    "parole": 219,
    "url": "https://www.camera.it/leg19/410?idSeduta=0343&tipo=stenografico#sed0343.stenografico.tit00190.sub00020.int00060"
   },
@@ -1491,7 +1935,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo per sostenere le ragioni della richiesta di urgenza e lo faccio anche a nome degli altri gruppi di opposizione che hanno sottoscritto questa proposta di legge e che hanno chiesto semplicemente di fare in modo che la discussione sull'operato di una Commissione che la maggioranza ha deciso, secondo noi adoperando una forzatura inaudita, di istituire, possa avvenire quantomeno nel rispetto […]",
+   "sunto": "A distanza di quattro anni dall'inizio della pandemia, dopo che abbiamo trascorso un'altra estate a cercare di proteggere le persone anziane e i vulnerabili dalla diffusione del COVID, senza che mai venisse una parola o un segno di attenzione dal Ministro della Salute o dal Governo, noi oggi…",
+   "temi": [],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0345&tipo=stenografico#sed0345.stenografico.tit00080.int00020"
   },
@@ -1504,7 +1949,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Noi sappiamo che le decisioni che sono state prese durante la pandemia sono state tutte assunte sulla base delle migliori evidenze scientifiche disponibili al momento e avevano, come unico obiettivo, quello di proteggere la salute individuale e pubblica e di sostenere il più possibile la tenuta economica e sociale del Paese. […]",
+   "sunto": "Inoltre, non si può accettare che una Commissione d'inchiesta escluda dal suo perimetro dei lavori le regioni, le province autonome, gli enti locali e i loro organi tecnici (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista).",
+   "temi": [],
    "parole": 490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0345&tipo=stenografico#sed0345.stenografico.tit00080.int00050"
   },
@@ -1517,7 +1963,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Vogliamo unirci anche noi - e lo dico a nome del gruppo, delle deputate e dei deputati del Partito Democratico - al ricordo di Giancarlo Siani, una persona che, con il suo sacrificio, ma anche il suo impegno civile, di giornalista impegnato in quelle terre difficili, ha ricordato e continua a ricordare, anche a distanza di anni, a tutti noi l'importanza di battersi affinché, attraverso il libero g […]",
+   "sunto": "Vogliamo unirci anche noi - e lo dico a nome del gruppo, delle deputate e dei deputati del Partito Democratico - al ricordo di Giancarlo Siani, una persona che, con il suo sacrificio, ma anche il suo impegno civile, di giornalista impegnato in quelle terre difficili, ha ricordato e continua a…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 239,
    "url": "https://www.camera.it/leg19/410?idSeduta=0350&tipo=stenografico#sed0350.stenografico.tit00130.int00140"
   },
@@ -1530,7 +1979,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente! Presidente, non torno sull'argomento ma, a fronte di quello che abbiamo visto questa mattina in Aula e anche della chiusura totale che abbiamo registrato nell'indisponibilità di valutare nella sede preposta come affrontare questo nodo che è stato posto - credo con argomenti molto validi, sui quali non torno -, le chiedo di sottoporre al Presidente della Camera la richiesta di una Conferenza dei presidenti […]",
+   "sunto": "Non torno sull'argomento ma, a fronte di quello che abbiamo visto questa mattina in Aula e anche della chiusura totale che abbiamo registrato nell'indisponibilità di valutare nella sede preposta come affrontare questo nodo che è stato posto - credo con argomenti molto validi, sui quali non torno…",
+   "temi": [],
    "parole": 294,
    "url": "https://www.camera.it/leg19/410?idSeduta=0355&tipo=stenografico#sed0355.stenografico.tit00050.int00860"
   },
@@ -1543,7 +1993,18 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Quando, nell'aprile scorso, si era esaminato il DEF, avevamo messo in evidenza il vuoto e la mancanza di progettualità di quel documento, un vuoto però che era stato giustificato dalle nuove regole europee in via di definizione, e che sarebbe stato poi riempito dai documenti vincolanti per la manovra. […]",
+   "sunto": "Ecco, il Piano strutturale di bilancio che esaminiamo oggi è tutto fuorché questo, è un piano previsto dalla nuova governance economica europea, che avrebbe dovuto definire il quadro programmatico per i prossimi cinque anni, impostando politiche di lungo respiro e, invece, è una grande occasione…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1234,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00040.sub00010.int00330"
   },
@@ -1556,7 +2017,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ci troviamo oggi a preparare il Consiglio europeo in un clima che è tra i peggiori degli ultimi 20 anni: due guerre alle porte, decine di migliaia di morti, ospedali sommersi da feriti, città e infrastrutture distrutte, popolazioni disperate e costrette a spostarsi da una parte all'altra, confini violati, abusi, stupri e violenze di ogni tipo. […]",
+   "sunto": "Accade alle porte orientali dell'Europa, accade sulla sponda opposta del nostro mare. […] Per questo ci saremmo aspettati un discorso della Presidente del Consiglio volto a rivendicare il ruolo dell'Europa come continente prima di tutto di convivenza e costruttore di pace.",
+   "temi": [
+    "Immigrazione",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1211,
    "url": "https://www.camera.it/leg19/410?idSeduta=0365&tipo=stenografico#sed0365.stenografico.tit00060.sub00010.int00060"
   },
@@ -1569,7 +2036,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Intervengo per chiedere un'informativa… Grazie, Presidente. Intervengo, nel silenzio, per chiedere un'informativa urgente della Presidente Meloni sul decreto licenziato ieri dal Consiglio dei ministri: un decreto fantasma se, come viene riportato dalla stampa, nemmeno i membri del Governo, che l'hanno approvato, lo hanno potuto prima visionare. […]",
+   "sunto": "Pensavamo di poter conoscere i contenuti di questo fantomatico decreto Albania nella conferenza stampa che era convocata questa mattina per illustrare la manovra di bilancio; invece no, perché la conferenza stampa non c'è stata forse perché non c'è ancora un testo scritto, a distanza di una…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Sanità",
+    "Giustizia"
+   ],
    "parole": 431,
    "url": "https://www.camera.it/leg19/410?idSeduta=0370&tipo=stenografico#sed0370.stenografico.tit00060.int00020"
   },
@@ -1582,7 +2055,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Non avevo avvisato il delegato d'Aula. C'è stato questo piccolo incidente. Guardi Presidente, questo emendamento soppressivo dei contenuti dell'articolo 2, cioè l'articolo che individua le funzioni e i compiti della Commissione, se solo i colleghi, anche della maggioranza, avessero la bontà e il desiderio di leggerlo, si renderebbero conto che le considerazioni che hanno fatto prima di me i colleg […]",
+   "sunto": "Lei mi dirà: è una Commissione d'inchiesta e questo fa una Commissione d'inchiesta. […] Ma davvero la risposta che il Parlamento sa dare a questo tema è quella di istituirsi una propria Commissione d'inchiesta, che serve solo a piazzare la presidenza di qualche piccolo partito di maggioranza, che magari è un po' a credito ?",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 723,
    "url": "https://www.camera.it/leg19/410?idSeduta=0370&tipo=stenografico#sed0370.stenografico.tit00090.sub00030.int00100"
   },
@@ -1595,7 +2071,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, chiedo cortesemente alla Sottosegretaria non di rileggermi tutta la riformulazione, ma solo… …per favore, il pezzettino dell'impegno. …perché non ho proprio sentito.",
+   "sunto": "Chiedo cortesemente alla Sottosegretaria non di rileggermi tutta la riformulazione, ma solo… …per favore, il pezzettino dell'impegno. …perché non ho proprio sentito.",
+   "temi": [],
    "parole": 23,
    "url": "https://www.camera.it/leg19/410?idSeduta=0370&tipo=stenografico#sed0370.stenografico.tit00090.sub00080.int00140"
   },
@@ -1608,7 +2085,11 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Guardi, uso un secondo, meno di un minuto, per dire che non accetto la riformulazione, e la trovo emblematica della confusione che ha in testa questo Governo, perché ho chiesto di approvare un Piano di prevenzione e difesa del suolo e voi mi riformulate l'ordine del giorno per dare attuazione al Piano di adattamento al cambiamento climatico? Ma sapete di cosa state parlando ? Cioè, almeno sapete d […]",
+   "sunto": "Guardi, uso un secondo, meno di un minuto, per dire che non accetto la riformulazione, e la trovo emblematica della confusione che ha in testa questo Governo, perché ho chiesto di approvare un Piano di prevenzione e difesa del suolo e voi mi riformulate l'ordine del giorno per dare attuazione al…",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 140,
    "url": "https://www.camera.it/leg19/410?idSeduta=0370&tipo=stenografico#sed0370.stenografico.tit00090.sub00080.int00220"
   },
@@ -1621,7 +2102,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Servono almeno 4 miliardi di euro: questa richiesta per far fronte alla spesa sanitaria nel nostro Paese non l'hanno avanzata i medici e gli infermieri che sciopereranno contro le scelte del vostro Governo il prossimo 20 novembre, non l'ha chiesta neanche il Partito Democratico, che da tempo raccomanda che ci sia un investimento nella sanità pubblica per difendere il diritto costituzionale di tutt […]",
+   "sunto": "Servono almeno 4 miliardi di euro: questa richiesta per far fronte alla spesa sanitaria nel nostro Paese non l'hanno avanzata i medici e gli infermieri che sciopereranno contro le scelte del vostro Governo il prossimo 20 novembre, non l'ha chiesta neanche il Partito Democratico, che da tempo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità"
+   ],
    "parole": 372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00090.int00060"
   },
@@ -1634,7 +2119,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori, prima di passare alla trattazione del prossimo punto all'ordine del giorno, perché oggi abbiamo assistito ad alcune dichiarazioni della Presidente Meloni, che ha sentito il dovere, a pochi giorni dalla giornata del 25 novembre, di difendere l'indifendibile, cioè di condividere le parole espresse ieri, in una sede istituzionale, qui, alla Camera, dal Ministro dell […]",
+   "sunto": "E, invece, abbiamo assistito, sostanzialmente, ad una presa d'atto e ad una condivisione di quelle parole gravissime, che si fondano su un pregiudizio, su una volontà di strumentalizzare e di declinare in maniera inaccettabile il tema del contrasto della violenza sulle donne con la questione…",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 542,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00120.int00020"
   },
@@ -1647,7 +2136,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Intervengo sull'ordine dei lavori. Io vorrei, soltanto, che fosse chiaro quello che ci state proponendo di fare, due cose: rinviare la discussione su questo tema alla settimana successiva, cioè dopo la ricorrenza del 25 novembre, per un'incapacità della maggioranza e del Governo di venirne fuori . […]",
+   "sunto": "Io vorrei, soltanto, che fosse chiaro quello che ci state proponendo di fare, due cose: rinviare la discussione su questo tema alla settimana successiva, cioè dopo la ricorrenza del 25 novembre, per un'incapacità della maggioranza e del Governo di venirne fuori .",
+   "temi": [],
    "parole": 124,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00120.int00540"
   },
@@ -1660,7 +2150,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, le spiego su che argomento è. Siccome lei ora ha detto che metterà in votazione la proposta del presidente Pagano, intervengo su questa proposta, sull'organizzazione dei lavori, quindi sull'ordine dei lavori, perché nello speech che ha letto il presidente Pagano si fa riferimento alla necessità di tornare in Commissione per adeguare la disposizione transitoria di cui all'articolo 19, alla luce delle modif […]",
+   "sunto": "Quindi, si chiede un rinvio in Commissione, cito, all'esclusivo fine di modificare il testo nei termini dell'emendamento Urzì 19.1000 presentato in Commissione.",
+   "temi": [],
    "parole": 396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0386&tipo=stenografico#sed0386.stenografico.tit00060.int00160"
   },
@@ -1673,7 +2164,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Signor Presidente, prendo la parola, oggi, in Aula, per ricordare la scomparsa, 25 anni fa, di Nilde Iotti. Lo faccio in quest'Aula che l'ha vista protagonista, per più di quarant'anni, dell'attività parlamentare e per quasi 13 anni come Presidente della Camera dei deputati. Per me è un onore ricordare una figura così alta e rappresentativa della storia della Repubblica. […]",
+   "sunto": "Il Parlamento fu per Nilde Iotti il luogo del compimento dell'esperienza politica maturata nella Resistenza, in Emilia, dove era nata e cresciuta; poi, all'università, a Milano, il lavoro all'UDI, l'Unione donne italiane, e, infine, l'approdo nelle file del Partito Comunista.",
+   "temi": [],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00060.int00020"
   },
@@ -1686,7 +2178,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Oggi salutiamo - confesso, con una certa emozione - il nostro collega Enrico Letta, che lascia quest'Aula per un nuovo prestigioso incarico universitario. Lo faccio a nome del suo gruppo, quello del Partito Democratico, e colgo l'occasione per ringraziarlo delle molte cose che ha fatto qui e nel partito. […]",
+   "sunto": "Oggi salutiamo - confesso, con una certa emozione - il nostro collega Enrico Letta, che lascia quest'Aula per un nuovo prestigioso incarico universitario. […] Il suo sarà un ruolo non più istituzionale e, quindi, non sarà più impegnato direttamente nel confronto politico quotidiano ma - come tu stesso, Enrico, ci hai detto - ci si dimette da molte cose, non ci si dimette mai dalla politica.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00050.int00140"
   },
@@ -1699,7 +2194,17 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. In apertura, mi lasci esprimere, anche a nome del Partito Democratico, un pensiero per le vittime della strage del mercatino di Magdeburgo , che si configura, purtroppo, come un attentato. La legge di bilancio, che stiamo per votare questa sera, si basa su due pilastri: un'ingiustizia e una bugia. […]",
+   "sunto": "Non avete trovato i soldi per i comuni alla canna del gas, Molinari; avete trovato i soldi per la promozione del gelato (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista che si levano in piedi), per la pista di mountain bike , per il muro di recinzione del…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1404,
    "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00140.sub00020.int00440"
   },
@@ -1712,7 +2217,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, intervengo associandomi alla richiesta del collega Ricciardi e rinnovando, a nome del mio gruppo, il gruppo del Partito Democratico - e lo ricordo dopo averlo fatto ben 2 mesi fa, lo scorso 12 novembre -, la richiesta che il Governo, la Presidente Meloni venga in Aula a dirci esattamente quali sono i termini di quel negoziato che ha in corso con Elon Musk, di cui crediamo, salvo smentite effettive, che ab […]",
+   "sunto": "È inaccettabile, però, che una spesa di questo tipo possa essere pensata - non sancita - senza i necessari passaggi di informazione e di condivisione con il Parlamento, di verifica dell'esistenza di un effettivo interesse nazionale, che non può essere discusso nelle segrete stanze, neanche…",
+   "temi": [],
    "parole": 574,
    "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00050.int00100"
   },
@@ -1725,7 +2231,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Le assicuro che è un intervento pertinente in maniera perfetta all'ordine dei lavori. Lo dico prima di iniziare. Perché noi stiamo iniziando i lavori di questa Camera con un ordine del giorno che è quello che abbiamo conosciuto tutti noi e di cui lei ha dato lettura ieri sera. […]",
+   "sunto": "C'è un ordine del giorno che prevede, nel pomeriggio, alle ore 16,15, l'informativa dei Ministri Piantedosi e Nordio sul “caso Almasri”, definiamolo così. […] Questa informativa è agli atti del calendario di questa Camera e noi stiamo leggendo, da ieri sera, agenzie di stampa, giornali e comunicazioni sui social che ci comunicano che questa informativa non si terrà.",
+   "temi": [],
    "parole": 831,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00070.int00100"
   },
@@ -1738,7 +2245,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Per unirmi alla richiesta del Presidente Conte e dell'onorevole Fratoianni e ribadire in quest'Aula, nuovamente, a nome del Partito Democratico, la richiesta di avere il prima possibile, al più presto, una convocazione immediata con l'informativa sul caso Almasri, che abbiamo già chiesto da diversi giorni, la scorsa settimana in Aula, che ha prodotto appunto un fatto inusuale, la sospensione dei l […]",
+   "sunto": "Per unirmi alla richiesta del Presidente Conte e dell'onorevole Fratoianni e ribadire in quest'Aula, nuovamente, a nome del Partito Democratico, la richiesta di avere il prima possibile, al più presto, una convocazione immediata con l'informativa sul caso Almasri, che abbiamo già chiesto da…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 709,
    "url": "https://www.camera.it/leg19/410?idSeduta=0420&tipo=stenografico#sed0420.stenografico.tit00030.int00060"
   },
@@ -1751,7 +2261,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo alla luce dell'informativa che abbiamo sentito questa mattina in quest'Aula, un'informativa che non possiamo che definire insoddisfacente e inadeguata. Due Ministri della Repubblica, il Ministro dell'Interno e il Ministro della Giustizia, hanno dato risposte non esaustive, hanno mostrato anzi due linee completamente divergenti, diverse del Governo. […]",
+   "sunto": "Due Ministri della Repubblica, il Ministro dell'Interno e il Ministro della Giustizia, hanno dato risposte non esaustive, hanno mostrato anzi due linee completamente divergenti, diverse del Governo.",
+   "temi": [],
    "parole": 210,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00050.int00030"
   },
@@ -1764,7 +2275,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Intervengo sull'ordine dei lavori, chiedendo un attimo l'attenzione dell'Aula, oltre che la sua. Alla luce di questo voto e del dibattito che, seppure scarno, c'è stato in Aula su questo punto, chiediamo al Presidente della Camera di convocare al più presto una Conferenza dei capigruppo (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e di deputati Alleanza Verdi e Sinistra), pe […]",
+   "sunto": "Alla luce di questo voto e del dibattito che, seppure scarno, c'è stato in Aula su questo punto, chiediamo al Presidente della Camera di convocare al più presto una Conferenza dei capigruppo (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e di deputati…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 422,
    "url": "https://www.camera.it/leg19/410?idSeduta=0427&tipo=stenografico#sed0427.stenografico.tit00060.int00020"
   },
@@ -1777,7 +2291,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo in quest'Aula per esprimere nuovamente, a nome di tutto il Partito Democratico, la nostra solidarietà e il nostro sostegno al Presidente della Repubblica ( Vivi e prolungati applausi - L'Assemblea si leva in piedi), solidarietà che deriva dalle inaccettabili e ripetute minacce che abbiamo ascoltato in questi giorni da rappresentanti del Governo russo. […]",
+   "sunto": "Il Paese intero si riconosce nelle parole del Presidente Mattarella, che sono parole di pace, di democrazia e di libertà. […] Per questo motivo, ci aspettiamo dalla Presidente del Consiglio e dal Governo parole che siano inequivocabili ed iniziative che siano a tutela e a difesa della più alta Istituzione della nostra Repubblica .",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 141,
    "url": "https://www.camera.it/leg19/410?idSeduta=0429&tipo=stenografico#sed0429.stenografico.tit00090.int00020"
   },
@@ -1790,7 +2308,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Allora rispondeva al question time di ieri…",
+   "sunto": "Allora rispondeva al question time di ieri…",
+   "temi": [],
    "parole": 7,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00050.int00050"
   },
@@ -1803,7 +2322,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo alla Sottosegretaria, trattandosi di un ordine del giorno che riguarda una materia molto delicata, di cui abbiamo discusso in più provvedimenti, cioè l'IVA al Terzo settore, se è possibile accantonarlo per un'ulteriore riflessione.",
+   "sunto": "Chiedo alla Sottosegretaria, trattandosi di un ordine del giorno che riguarda una materia molto delicata, di cui abbiamo discusso in più provvedimenti, cioè l'IVA al Terzo settore, se è possibile accantonarlo per un'ulteriore riflessione.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 36,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00080.sub00010.int00020"
   },
@@ -1816,7 +2338,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Ovviamente, prendo atto che il Governo e la maggioranza non ritengono di adottare iniziative per risolvere il tema dell'IVA del Terzo settore. Purtroppo, abbiamo sentito, in varie occasioni, invece, dichiarazioni diverse. […]",
+   "sunto": "Ovviamente, prendo atto che il Governo e la maggioranza non ritengono di adottare iniziative per risolvere il tema dell'IVA del Terzo settore.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 111,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00080.sub00010.int01780"
   },
@@ -1829,7 +2354,11 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. A meno di due settimane da una seduta che abbiamo dedicato, in quest'Aula, alla scarcerazione, da parte del Governo italiano, del torturatore Almasri, siamo di nuovo qui, di fronte ai banchi, ancora una volta sostanzialmente vuoti, del Governo, se si toglie la pregevole eccezione del Ministro Piantedosi - forse, ormai, vi fate coraggio a vicenda, vista la latitanza della vostra maggioranza […]",
+   "sunto": "A meno di due settimane da una seduta che abbiamo dedicato, in quest'Aula, alla scarcerazione, da parte del Governo italiano, del torturatore Almasri, siamo di nuovo qui, di fronte ai banchi, ancora una volta sostanzialmente vuoti, del Governo, se si toglie la pregevole eccezione del Ministro…",
+   "temi": [
+    "Immigrazione",
+    "Giustizia"
+   ],
    "parole": 1301,
    "url": "https://www.camera.it/leg19/410?idSeduta=0434&tipo=stenografico#sed0434.stenografico.tit00030.sub00010.int00120"
   },
@@ -1842,7 +2371,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Intervengo per chiedere la presenza in Aula della Presidente del Consiglio, ma parto, ancora una volta, da quello che abbiamo visto ieri sera, sul servizio pubblico televisivo, utilizzato ancora una volta dalla Premier Meloni per parlare al Paese dei temi di principale attualità. […]",
+   "sunto": "Devo dire che, con grande interesse, abbiamo appreso in prima serata alcune riflessioni interessanti, ma anche confuse: idee del Governo su questioni delicatissime che investono il nostro Paese, l'Europa e il mondo.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 706,
    "url": "https://www.camera.it/leg19/410?idSeduta=0439&tipo=stenografico#sed0439.stenografico.tit00070.int00020"
   },
@@ -1855,7 +2388,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sullo stesso argomento, perché credo che questa discussione - e avremo modo di farlo anche nelle sedi opportune - ponga una questione di razionalità nell'organizzazione dei nostri lavori, che ha, però, anche una ricaduta politica. […]",
+   "sunto": "Quando i gruppi chiedono di calendarizzare delle mozioni che hanno un oggetto specifico, il criterio di abbinabilità, che ovviamente viene fatto su una valutazione degli uffici, deve garantire che si discuta di quei temi e che non si creino spazi di scappatoia per aggirare la discussione su un tema.",
+   "temi": [],
    "parole": 274,
    "url": "https://www.camera.it/leg19/410?idSeduta=0465&tipo=stenografico#sed0465.stenografico.tit00060.int00040"
   },
@@ -1868,7 +2402,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Prendo la parola oggi per ricordare in quest'Aula che domani, 25 aprile, l'Italia celebra la Festa della liberazione dal nazifascismo e credo che ce ne sia un grande bisogno, di ricordarlo, anche in quest'Aula. […]",
+   "sunto": "Quindi, una festa di pace, perché proprio il 25 aprile del 1945, con l'insurrezione generale, si concludeva la sciagurata avventura italiana della guerra voluta dal regime fascista (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista e di deputati dei gruppi…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 922,
    "url": "https://www.camera.it/leg19/410?idSeduta=0471&tipo=stenografico#sed0471.stenografico.tit00050.int00040"
   },
@@ -1881,7 +2418,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Intervengo sull'ordine dei lavori per chiedere un'informativa al Ministro dell'Interno sugli episodi che si sono verificati nei giorni passati in relazione alle celebrazioni dell'ottantesimo anniversario della Liberazione. […]",
+   "sunto": "Ma prima lasciatemi esprimere, anche da quest'Aula, la nostra vicinanza alla senatrice Segre, che è stata oggetto di insulti vergognosi nei giorni passati, e la nostra riconoscenza per il suo impegno contro l'odio, l'indifferenza, il razzismo e l'antisemitismo.",
+   "temi": [],
    "parole": 338,
    "url": "https://www.camera.it/leg19/410?idSeduta=0472&tipo=stenografico#sed0472.stenografico.tit00020.int00020"
   },
@@ -1894,7 +2432,11 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Il Partito Democratico ha presentato, all'attenzione dell'Aula, questa mozione per richiamare l'attenzione del Governo su una situazione di criticità, sulla crisi che investe il settore moda nel nostro Paese; una crisi che si protrae da molti mesi - da oltre un anno -, che rischia, come sappiamo, di intrecciare un contesto particolarmente difficile, in assenza di serie politiche industriali […]",
+   "sunto": "Il Partito Democratico ha presentato, all'attenzione dell'Aula, questa mozione per richiamare l'attenzione del Governo su una situazione di criticità, sulla crisi che investe il settore moda nel nostro Paese; una crisi che si protrae da molti mesi - da oltre un anno -, che rischia, come…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa"
+   ],
    "parole": 1592,
    "url": "https://www.camera.it/leg19/410?idSeduta=0472&tipo=stenografico#sed0472.stenografico.tit00040.sub00010.int00020"
   },
@@ -1907,7 +2449,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "No, Presidente, non posso accettare quella riformulazione e, anzi, intervengo. Non posso accettarla perché, di fatto, quella riformulazione è una presa in giro e, in realtà, con quest'ordine del giorno noi cerchiamo di affrontare un tema maledettamente serio. […]",
+   "sunto": "Quindi, non vi stiamo chiedendo nulla di eccezionale, se non quello che dovrebbe essere fatto, però devo dire che, in questo strano Paese, abbiamo un Ministro delle Infrastrutture che - parlando di una delle più controverse opere di cui si parla da decenni e che ormai è diventata la sua unica… […] Magari faremo un bel dibattito su quel decreto-legge, quello che non abbiamo fatto in Commissione su questo decreto-legge.",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1169,
    "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00140.sub00010.int01950"
   },
@@ -1920,7 +2466,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente, intervengo sull'ordine dei lavori. Penso che l'applauso - che credo sia stato l'unico gesto fatto da questa maggioranza - andrebbe rivolto al personale della Camera, agli uffici d'Aula , a tutto il personale che ha consentito quantomeno di garantire che questo Parlamento non venisse ulteriormente umiliato da un atteggiamento che abbiamo visto della maggioranza e del Governo. […]",
+   "sunto": "Penso che l'applauso - che credo sia stato l'unico gesto fatto da questa maggioranza - andrebbe rivolto al personale della Camera, agli uffici d'Aula , a tutto il personale che ha consentito quantomeno di garantire che questo Parlamento non venisse ulteriormente umiliato da un atteggiamento che…",
+   "temi": [],
    "parole": 64,
    "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00160.sub00010.int00840"
   },
@@ -1933,7 +2480,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Oggi non votiamo un decreto Sicurezza, votiamo la resa del Parlamento alla propaganda autoritaria. Votiamo l'abdicazione dello Stato di diritto a favore della paura, umiliando ancora una volta la nostra Costituzione. A dispetto dello strumento legislativo, questo decreto, come sappiamo, non nasce da un'urgenza, nasce da un'esigenza tutta politica. […]",
+   "sunto": "Oggi non votiamo un decreto Sicurezza, votiamo la resa del Parlamento alla propaganda autoritaria. […] Un provvedimento che replica, come abbiamo detto in gran parte, un disegno di legge che era già incardinato al Senato, lungamente discusso qui alla Camera, che avete bloccato, cancellato, riscritto sotto forma di decreto-legge, per costringere il Parlamento a obbedire.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1049,
    "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00180.sub00010.int00410"
   },
@@ -1946,7 +2500,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Prendo la parola per una precisazione sulla richiesta - che questa mattina rappresentanti del mio gruppo, ma anche di altri gruppi, hanno già fatto, tramite lei - di un'informativa urgente del Governo sulla situazione in Medio Oriente. Noi siamo estremamente preoccupati di quello che sta avvenendo. […]",
+   "sunto": "Noi siamo qui, questa mattina, lo saremo nelle prossime ore e nei prossimi giorni nel momento in cui - ci auguriamo presto - il Governo verrà in Aula a confrontarsi con il Parlamento, e quindi con il Paese, su questa situazione, per dire come si sta monitorando, cosa si sta facendo e quali…",
+   "temi": [],
    "parole": 304,
    "url": "https://www.camera.it/leg19/410?idSeduta=0493&tipo=stenografico#sed0493.stenografico.tit00040.int00020"
   },
@@ -1959,7 +2514,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi unisco alla richiesta del collega Bonelli, considerando che sono passate 72 ore dall'annuncio del Presidente Trump di imporre all'Europa dazi al 30 per cento dal 1° agosto; 72 ore in cui abbiamo ascoltato le parole preoccupate delle imprese, dei rappresentanti dei lavoratori, delle categorie più coinvolte. […]",
+   "sunto": "Mi unisco alla richiesta del collega Bonelli, considerando che sono passate 72 ore dall'annuncio del Presidente Trump di imporre all'Europa dazi al 30 per cento dal 1° agosto; 72 ore in cui abbiamo ascoltato le parole preoccupate delle imprese, dei rappresentanti dei lavoratori, delle categorie…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea"
+   ],
    "parole": 714,
    "url": "https://www.camera.it/leg19/410?idSeduta=0511&tipo=stenografico#sed0511.stenografico.tit00050.int00040"
   },
@@ -1972,7 +2531,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Parto anch'io da qui. Mentre discutiamo queste mozioni in quest'Aula, la chiesa cattolica della Sacra Famiglia, a Gaza, è stata bombardata dall'Esercito israeliano: due morti, sei feriti, tra questi, il parroco di quella chiesa, Gabriel Romanelli. […]",
+   "sunto": "L'obiettivo del nostro Paese, dell'Unione europea, deve essere quello di fermare il massacro (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista), non accettare l'esistente cercando di migliorare un po' le condizioni.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 1227,
    "url": "https://www.camera.it/leg19/410?idSeduta=0513&tipo=stenografico#sed0513.stenografico.tit00030.sub00020.int00220"
   },
@@ -1985,7 +2549,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi unisco anch'io alla richiesta urgente di avere in Aula la Presidente Meloni. Credo che sia un dovere del Governo - mi stupisce che abbiamo ripreso i lavori di questa settimana dopo la decisione annunciata di un accordo di cui non conosciamo i contenuti e di cui scopriamo non sono definiti gli aspetti giuridicamente vincolanti - venire in Parlamento e restituire in questa sede e al Paese i conte […]",
+   "sunto": "È un dovere nei nostri confronti, è un dovere nei confronti dei lavoratori, delle imprese italiane, di fronte a quella sberla, come l'ha definita il presidente di Confindustria Orsini, commentando i dazi al 15 per cento che, invece, qualcuno nel Governo si ostina a definire come qualcosa di…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 740,
    "url": "https://www.camera.it/leg19/410?idSeduta=0519&tipo=stenografico#sed0519.stenografico.tit00100.int00100"
   },
@@ -1998,7 +2566,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Il fatto che il Ministro Tajani, dopo mesi di richieste inascoltate, sia oggi in Aula, è una buona notizia, nonostante sia un atto politicamente dovuto, ma è davvero l'unica buona notizia, perché in queste settimane nessuna delle gravi situazioni aperte sulla scena globale ha fatto registrare passi in avanti. Crescono instabilità, minacce, pensiamo al Qatar, alla Polonia. […]",
+   "sunto": "Il fatto che il Ministro Tajani, dopo mesi di richieste inascoltate, sia oggi in Aula, è una buona notizia, nonostante sia un atto politicamente dovuto, ma è davvero l'unica buona notizia, perché in queste settimane nessuna delle gravi situazioni aperte sulla scena globale ha fatto registrare…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1140,
    "url": "https://www.camera.it/leg19/410?idSeduta=0528&tipo=stenografico#sed0528.stenografico.tit00020.sub00020.int00040"
   },
@@ -2011,7 +2583,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, il voto che stiamo per fare è un ulteriore schiaffo e strappo alla democrazia parlamentare (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra). […]",
+   "sunto": "Avete fatto questa sera, su questa riforma costituzionale, un'innovazione impensabile: la richiesta di seduta fiume intenzionale, solo per soddisfare le esigenze di agenda di una maggioranza che non è in grado di stare due giorni per votare una riforma costituzionale in Aula .",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 738,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00120.int00020"
   },
@@ -2024,7 +2599,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori e colgo l'occasione della sua presenza alla Presidenza, per ricordare che sono passate da poco le 10, sono trascorse altre 12 ore dalla Capigruppo che abbiamo svolto ieri sera. Nel frattempo, a Gaza è stata un'altra notte da incubo: si vanno a cercare i bambini e le donne, casa per casa. […]",
+   "sunto": "Io voglio ribadire, Presidente, la richiesta che abbiamo fatto ieri e le voglio chiedere anche se, certa della sua iniziativa, abbia avuto un riscontro da parte del Governo: mettete il Parlamento nella condizione di discutere di quello che sta sconvolgendo il mondo, che sta sconvolgendo Gaza,…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00160.int00020"
   },
@@ -2037,7 +2615,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Signor Ministro, rappresentanti del Governo, colleghi presenti, quella che vi apprestate ad approvare è una riforma della Costituzione che ne stravolge il carattere e ne mina l'architettura. È una Costituzione, la nostra, frutto di quella ricerca voluta di condivisione tra forze politiche diverse che, ottant'anni fa, hanno costruito la nostra democrazia. […]",
+   "sunto": "Voi, invece, avete deciso di andare avanti senza ritegno con questa riforma inutile e dannosa, con forzature che mai si erano registrate su una riforma costituzionale. […] E non avete avuto neanche la forza di difendere questa pessima riforma nel confronto parlamentare.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1387,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00170.sub00010.int00540"
   },
@@ -2050,7 +2632,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, i banchi del Governo (Reiterate proteste dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Il deputato Casu: “I membri del Governo non possono applaudire!”). Presidente, non si applaude dai banchi del Governo!",
+   "sunto": "I banchi del Governo (Reiterate proteste dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Il deputato Casu: “I membri del Governo non possono applaudire!”).",
+   "temi": [],
    "parole": 43,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00210.sub00010.int00020"
   },
@@ -2063,7 +2646,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Il Governo dovrebbe alzarsi in quest'Aula a venire a rispondere a quello che le opposizioni hanno chiesto da giorni, di fronte alla tragedia immane, alla catastrofe, all'enormità di quello che sta accadendo a Gaza, anziché fare questa scena patetica , di cui anche il Ministro degli Esteri si è reso protagonista: alzarsi in piedi e applaudire (Il Ministro Tajani si leva in piedi e, rivolgendosi all […]",
+   "sunto": "Il Governo dovrebbe alzarsi in quest'Aula a venire a rispondere a quello che le opposizioni hanno chiesto da giorni, di fronte alla tragedia immane, alla catastrofe, all'enormità di quello che sta accadendo a Gaza, anziché fare questa scena patetica , di cui anche il Ministro degli Esteri si è…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 574,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00220.int00010"
   },
@@ -2076,7 +2663,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Anche noi ci associamo alla richiesta di informativa, confidando che questa volta il Governo risponderà prontamente alla richiesta di venire in Aula a confrontarsi. Noi abbiamo sempre condannato - non abbiamo difficoltà a farlo - le forme e gli episodi di violenza, perché non è nel nostro metodo, non ci appartiene. […]",
+   "sunto": "Le persone che ieri hanno scioperato (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistr a), hanno manifestato, hanno fatto quello che questo Governo non riesce a fare, continua a non volere fare, fuggendo al…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 470,
    "url": "https://www.camera.it/leg19/410?idSeduta=0535&tipo=stenografico#sed0535.stenografico.tit00060.int00140"
   },
@@ -2089,7 +2679,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Io mi unisco alla richiesta della collega Zanella, perché quanto è avvenuto questa notte, che i colleghi hanno denunciato, credo che necessiti di un momento di assunzione di responsabilità del Parlamento. […]",
+   "sunto": "Le chiediamo anche noi di farsi parte attiva nel chiedere la convocazione di una Conferenza dei presidenti di gruppo che possa consentire di rappresentare al Presidente della Camera delle richieste esplicite e un'iniziativa che veda protagonista anche il Parlamento.",
+   "temi": [],
    "parole": 153,
    "url": "https://www.camera.it/leg19/410?idSeduta=0536&tipo=stenografico#sed0536.stenografico.tit00030.int00100"
   },
@@ -2102,7 +2693,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervenendo oggi non posso nascondere la commozione personale, la consapevolezza che nessuna parola possa descrivere, fino in fondo, il dolore e la tragicità di ciò che oggi ricordiamo. Sono trascorsi due anni dal 7 ottobre del 2023, il giorno in cui il buio è sceso sulla terra più sacra per milioni di donne, uomini, ebrei, cristiani e musulmani. […]",
+   "sunto": "È giusto ribadirlo, perché l'inaccettabile massacro di decine di migliaia di palestinesi innocenti a Gaza da parte del governo criminale di Netanyahu e le violenze in Cisgiordania non possono far venir meno il sentimento di sdegno per quanto accaduto due anni fa e rendere la condanna di…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00110.int00060"
   },
@@ -2115,7 +2709,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Sicuramente, anche noi ci uniamo alla richiesta al Governo di riferire sull'evoluzione delle notizie che accogliamo con favore in queste ore, che ci auguriamo portino a un avanzamento di quello spiraglio di pace che si è aperto in Medio Oriente. […]",
+   "sunto": "Ma quello che rimane è la fiducia che questo primo passo, seppure importante per ridare speranza e fiducia a un popolo martoriato, alla richiesta di pace e di cessate il fuoco, che è venuta anche da una parte importante della società civile di Israele, possa vedere lo sforzo di tutte le…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 529,
    "url": "https://www.camera.it/leg19/410?idSeduta=0545&tipo=stenografico#sed0545.stenografico.tit00020.int00060"
   },
@@ -2128,7 +2725,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie Presidente. Quello che si sta per votare oggi è l'assoluzione del Governo. Siamo passati da un Parlamento passacarte di decreti a un Parlamento passacarte di impunità. Dopo il lavoro accurato della Giunta delle autorizzazioni, di cui voglio ringraziare, in primo luogo, il relatore di minoranza, il collega Gianassi, che ha svolto il suo compito con professionalità e imparzialità, nonostante le accuse e le offes […]",
+   "sunto": "E, così, prima liberate Almasri poi assolvete i vostri Ministri, che hanno mentito al Parlamento e, dunque, tecnicamente hanno mentito al Paese, coprendosi di ridicolo con versioni contraddittorie, ma ugualmente inverosimili, di quello che è accaduto .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 943,
    "url": "https://www.camera.it/leg19/410?idSeduta=0545&tipo=stenografico#sed0545.stenografico.tit00050.sub00010.int00210"
   },
@@ -2141,7 +2741,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Lasciatemi ringraziare, in apertura, il Ministro Piantedosi, che ha dato immediata disponibilità a riferire in Parlamento. Lo voglio dire, è segno di un'attenzione non scontata, che tiene in alta considerazione le parole del Presidente Mattarella, che ha giustamente chiesto una reazione forte all'attentato al giornalista di Report , Sigfrido Ranucci. […]",
+   "sunto": "Però, non possiamo dimenticare che il nostro Paese occupa il 49° posto per la libertà di stampa, perché troppi cronisti vivono sotto scorta . […] Non possiamo dimenticare i giornalisti che seguivano la Flotilla , imprigionati da un Paese straniero in acque internazionali, senza alcuna ipotesi di reato e senza che una sola voce di protesta da parte del Governo italiano si sia alzata.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 1026,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00120.sub00020.int00080"
   },
@@ -2154,7 +2757,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Intervengo in Aula sulle parole inaccettabili che abbiamo sentito pronunciare, questa mattina, dal capogruppo di Fratelli d'Italia Bignami nei confronti della Presidenza della Repubblica. Guardate, i tentativi di ridimensionare la gravità di quanto detto sono inutili. […]",
+   "sunto": "Chiediamo alla Presidente del Consiglio dei ministri Meloni di venire in Aula per dire al Parlamento se condivide le parole, quelle dichiarazioni, se è a conoscenza di circostanze che possano confermarle, visto che ne è direttamente coinvolta, trattandosi delle parole pronunciate dal capogruppo…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 384,
    "url": "https://www.camera.it/leg19/410?idSeduta=0568&tipo=stenografico#sed0568.stenografico.tit00050.int00430"
   },
@@ -2167,7 +2773,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Mi unisco anch'io alla richiesta formulata dall'onorevole Grimaldi e ripresa in modo molto efficace dalla presidente Boschi. Ministra, io mi rivolgo a lei con un appello, ricordando le sue parole che ha pronunciato proprio qui, ieri, alla Camera, in occasione di un incontro, di un'iniziativa intitolata “Italia e parità di genere: ridefinire le priorità e accelerare il cambiamento” insieme a […]",
+   "sunto": "Lei ha ribadito l'importanza di una battaglia comune alla violenza contro le donne e leggo la sua dichiarazione: “È un appello che è già stato raccolto, perché siamo riusciti già con la prima legge contro la violenza che abbiamo fatto ad avere l'unanimità, e io ho un conto sul fatto che anche le…",
+   "temi": [],
    "parole": 377,
    "url": "https://www.camera.it/leg19/410?idSeduta=0571&tipo=stenografico#sed0571.stenografico.tit00080.int00060"
   },
@@ -2180,7 +2787,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. In questi giorni abbiamo ascoltato tanti dati sulla violenza di genere, ma la sintesi ci viene fornita dalle Nazioni Unite: ogni 10 minuti nel mondo viene uccisa una donna perché donna, e a fine giornata, in media, sono 140 i femminicidi. […]",
+   "sunto": "In questi giorni abbiamo ascoltato tanti dati sulla violenza di genere, ma la sintesi ci viene fornita dalle Nazioni Unite: ogni 10 minuti nel mondo viene uccisa una donna perché donna, e a fine giornata, in media, sono 140 i femminicidi.",
+   "temi": [
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1403,
    "url": "https://www.camera.it/leg19/410?idSeduta=0571&tipo=stenografico#sed0571.stenografico.tit00100.sub00020.int00200"
   },
@@ -2193,7 +2806,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "No, Presidente, grazie, non accetto la riformulazione, anche per solidarietà verso tutti i colleghi e le colleghe di opposizione a cui il Governo ha riscritto, stravolto completamente un ordine del giorno. La prossima volta, suggerisco alle Sottosegretarie di presentarne uno su loro iniziativa , anziché stravolgere quello delle opposizioni, anche perché, come sappiamo, questo è l'unico momento in cui potremo discuter […]",
+   "sunto": "Avete litigato per due mesi, avete piantato bandierine ideologiche - la più famosa, lasciatemi dire, è quella del famoso, inutile oro degli italiani, su cui tanto vi siete dilettati per due mesi -, avete sfiduciato il Ministro dell'Economia.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 1137,
    "url": "https://www.camera.it/leg19/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00080.sub00210.int00920"
   },
@@ -2206,7 +2825,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Ancora quest'anno, come da alcuni anni, ci troviamo a dover parlare di guerra e a dover affrontare scenari che avremmo voluto confinare al secolo scorso. Per il quarto anno consecutivo continuiamo ad assistere ad attacchi notturni contro le città ucraine. […]",
+   "sunto": "Lo diciamo da quattro anni: quando mancano l'Unione europea e l'ONU, mancano i presupposti per garantire una pace giusta, contro la resa alle ragioni del più forte e dell'aggressore, come vorrebbe Putin.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1348,
    "url": "https://www.camera.it/leg19/410?idSeduta=0594&tipo=stenografico#sed0594.stenografico.tit00060.sub00050.int00340"
   },
@@ -2219,7 +2842,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Grazie per le sue parole e per darmi l'opportunità di rendere omaggio, a nome del mio gruppo, a una donna che ha servito con passione, intelligenza e determinazione, le istituzioni. Un'amica, una compagna, per molte e molti di noi. […]",
+   "sunto": "Per me Valeria è stata anche un riferimento prezioso nel lavoro parlamentare, sempre presente per un consiglio, un suggerimento, sia nei processi legislativi che nel partito. […] Femminista appassionata, capace sempre di unire il lavoro dentro le istituzioni e il fuori di una società in continua evoluzione, nelle battaglie che l'hanno vista sempre protagonista, non per le altre donne ma con le altre donne.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 562,
    "url": "https://www.camera.it/leg19/410?idSeduta=0597&tipo=stenografico#sed0597.stenografico.tit00130.int00020"
   },
@@ -2232,7 +2858,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori tornando ancora una volta sulla richiesta che abbiamo rivolto, due giorni fa, a lei, alla Presidenza, sull'onda di un caos emergente che non sembra volere diminuire. […]",
+   "sunto": "Approfitto anche della presenza in Aula, prima delle comunicazioni del Ministro Nordio, del Ministro Ciriani, Ministro per i Rapporti con il Parlamento, per ribadire e chiedere, ancora una volta, che la Presidente del Consiglio venga in Aula per informare non me, non il mio gruppo, ma il Paese e…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00020.int00020"
   },
@@ -2245,7 +2874,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Noi ci uniamo alla richiesta della collega Piccolotti e chiediamo che il Governo venga in Aula a chiarire questa inquietante vicenda che è stata svelata da un'inchiesta della trasmissione Report , secondo cui i computer, i dispositivi informatici di magistrati, giudici e procuratori sarebbero assoggettati a un controllo da remoto non autorizzato e che addirittura il problema, sollevato nel […]",
+   "sunto": "Noi ci uniamo alla richiesta della collega Piccolotti e chiediamo che il Governo venga in Aula a chiarire questa inquietante vicenda che è stata svelata da un'inchiesta della trasmissione Report , secondo cui i computer, i dispositivi informatici di magistrati, giudici e procuratori sarebbero…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 293,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00110.int00040"
   },
@@ -2258,7 +2890,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Ci sono momenti in cui il contrasto tra la bellezza del mondo e la crudeltà della storia si fa insopportabile. Mi è capitato di camminare in una surreale giornata di sole di fine ottobre, forse come molti di voi, tra i viali di quei luoghi dove ogni pietra, ogni granello di polvere parla invece di grigio e di morte. Era il campo di Auschwitz-Birkenau, era l'ottobre del 2018. […]",
+   "sunto": "Il peso più grande, quello che ancora oggi deve interrogarci come cittadini e come istituzioni, è che quel massacro si è consumato per troppo tempo nell'indifferenza delle Nazioni e dei popoli, quell'indifferenza che permise all'orrore di diventare quotidiano, di diventare normale.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 539,
    "url": "https://www.camera.it/leg19/410?idSeduta=0602&tipo=stenografico#sed0602.stenografico.tit00050.int00040"
   },
@@ -2271,7 +2906,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Ministro, lei oggi ci ha intrattenuto con un'informativa tutta burocratica, fatta di accordi di cooperazione precedenti, il solito tentativo, ovviamente, di scaricare le responsabilità su chi c'era prima, però dimenticando la ragione per cui noi siamo qui oggi. […]",
+   "sunto": "Non siamo di fronte a un fatto isolato o a un tragico errore, ma siamo di fronte a una scelta politica precisa dell'Amministrazione Trump, resa ancora più grave dall'assoluzione preventiva e dalla proposta di immunità, avanzata dal Vicepresidente Vance, per gli agenti dell'ICE.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 912,
    "url": "https://www.camera.it/leg19/410?idSeduta=0608&tipo=stenografico#sed0608.stenografico.tit00020.sub00020.int00060"
   },
@@ -2284,7 +2923,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Prendo la parola per ricordare, anche in quest'Aula, Giovanni Orsenigo, da tutti chiamato in modo affettuoso “Mariuccio”, che ci ha lasciato alcuni giorni fa. Mariuccio Orsenigo è stato un dirigente politico appassionato, un militante capace di mettersi accanto agli altri nei tanti ruoli che ha ricoperto, senza mai perdere coerenza, sobrietà, senso delle istituzioni. […]",
+   "sunto": "Mariuccio Orsenigo è stato un dirigente politico appassionato, un militante capace di mettersi accanto agli altri nei tanti ruoli che ha ricoperto, senza mai perdere coerenza, sobrietà, senso delle istituzioni.",
+   "temi": [],
    "parole": 322,
    "url": "https://www.camera.it/leg19/410?idSeduta=0614&tipo=stenografico#sed0614.stenografico.tit00090.int00020"
   },
@@ -2297,7 +2937,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. No, non posso accettare questa proposta di riformulazione, ma mi appello alla Sottosegretaria Siracusano per capire se quest'ordine del giorno possa, invece, essere accolto così come formulato, semplicemente perché, per le ragioni che abbiamo indicato anche nell'ordine del giorno, raccoglieva proprio una sollecitazione che la stessa Sottosegretaria ha fatto nelle Commissioni che hanno esami […]",
+   "sunto": "No, non posso accettare questa proposta di riformulazione, ma mi appello alla Sottosegretaria Siracusano per capire se quest'ordine del giorno possa, invece, essere accolto così come formulato, semplicemente perché, per le ragioni che abbiamo indicato anche nell'ordine del giorno, raccoglieva…",
+   "temi": [],
    "parole": 97,
    "url": "https://www.camera.it/leg19/410?idSeduta=0620&tipo=stenografico#sed0620.stenografico.tit00080.sub00010.int00340"
   },
@@ -2310,7 +2951,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Voglio essere chiara e molto breve, perché i colleghi che mi hanno preceduto hanno già spiegato le ragioni per cui, prima in Commissione competente, di merito, poi in Commissione bilancio, abbiamo chiesto ripetutamente alla maggioranza di aprire un confronto sul tema delle coperture. Credo che la discussione di oggi in Commissione bilancio abbia chiarito ancora meglio qual è l'oggetto. […]",
+   "sunto": "Voglio essere chiara e molto breve, perché i colleghi che mi hanno preceduto hanno già spiegato le ragioni per cui, prima in Commissione competente, di merito, poi in Commissione bilancio, abbiamo chiesto ripetutamente alla maggioranza di aprire un confronto sul tema delle coperture.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 342,
    "url": "https://www.camera.it/leg19/410?idSeduta=0621&tipo=stenografico#sed0621.stenografico.tit00100.int00180"
   },
@@ -2323,7 +2967,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Presidente Meloni, lei ha impiegato 2 settimane per venire in Parlamento, ma la sua presenza qui, oggi, non è un capriccio delle opposizioni e nemmeno una loro vittoria. È semplicemente quello che la nostra Costituzione prevede, il segno concreto di quel rapporto di fiducia tra Governo e Parlamento, che rappresenta la sovranità popolare e che si esercita in questo luogo solenne - direi quasi sacro […]",
+   "sunto": "Perché difendere il Green Deal significa difendere l'Europa, significa difendere anche gli interessi dell'Italia. […] È una domanda che pesa, perché oggi gli Stati Uniti guidati da Trump sono entrati in guerra con l'Iran senza un obiettivo chiaro, senza una strategia credibile, e noi rischiamo di precipitarci dentro senza nemmeno sapere perché.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 1204,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00010.int00900"
   },
@@ -2336,7 +2986,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Intervengo per unirmi alla richiesta di un'informativa urgente della Presidente Meloni in quest'Aula. Presidente, lei non può continuare a far finta di niente, non può fischiettare come gli uccellini nel suo video post -esito referendum. Quello che è successo in questi giorni, quei 15 milioni di elettori, quel risultato al referendum, segna una dura sconfitta per il suo Governo. […]",
+   "sunto": "Lei ha pensato che potessero rappresentare il suo Governo e il nostro Paese fino a ieri. […] Lei ci deve dire come intende governare questo Paese, come intende dare le risposte ai problemi che avete ignorato in questi tre anni - che avete pensato di poter coprire con quella pessima riforma costituzionale su cui 14 milioni di elettori vi hanno detto “no” -, e venire qui e assumersi le…",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Giustizia"
+   ],
    "parole": 757,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00030.int00040"
   },
@@ -2349,7 +3004,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Voglio intervenire in quest'Aula per esprimere la nostra vicinanza, il nostro sostegno, la nostra solidarietà all'onorevole Claudio Stefanazzi . Credo di poterlo fare a nome non solo del nostro gruppo, ma mi auguro anche degli altri colleghi di tutte le forze politiche. […]",
+   "sunto": "Arriva dopo mesi, anzi, anni di denunce puntuali, circostanziate; arriva dopo interrogazioni parlamentari, purtroppo rimaste senza risposta; arriva mentre l'onorevole Stefanazzi da parlamentare della Repubblica ha esercitato, fino in fondo, il proprio ruolo, segnalando una recrudescenza…",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 346,
    "url": "https://www.camera.it/leg19/410?idSeduta=0637&tipo=stenografico#sed0637.stenografico.tit00110.int00100"
   },
@@ -2362,7 +3021,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Lei, Ministro, ha inaugurato una nuova fattispecie di informativa, in cui un Ministro in carica viene a riferire sull'operato dei Governi precedenti . Noi, però, l'avevamo invitata oggi a venire qui a chiarire qualcosa su cui non c'è chiarezza, perché, Ministro, mentre lei ci raccontava, in un pallottoliere di voli e atterraggi, pochi minuti fa Trump dichiarava che questa notte un'intera ci […]",
+   "sunto": "Guardi, fa sorridere oggi la sua preoccupazione, che abbiamo letto, per le sorti dell'ONU e del multilateralismo quando siete stati voi per primi, in Europa, a minarne la credibilità e la forza quando avete creduto che Trump avrebbe chiuso la guerra in Ucraina in 24 ore, quando avete taciuto…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 1131,
    "url": "https://www.camera.it/leg19/410?idSeduta=0639&tipo=stenografico#sed0639.stenografico.tit00030.sub00020.int00060"
   },
@@ -2375,7 +3038,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Mi unisco anch'io alla richiesta del collega Grimaldi e del Presidente Conte di avere in Aula il prima possibile un dibattito all'altezza della questione di cui stiamo discutendo. Ancora una volta apprendiamo - da dichiarazioni fatte in un punto stampa, in un contesto del tutto improprio - una presa di posizione del Governo su un tema sul quale le opposizioni, da tempo, da anni, avevano sollecitat […]",
+   "sunto": "E il fatto che si possa pensare di liquidare questo tema con questa modalità è irrispettoso non delle opposizioni o del Parlamento, ma della sensibilità e della consapevolezza che c'è nella società italiana; quella che ha riempito le piazze contro questa guerra ingiusta, che ha chiesto un cambio…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 577,
    "url": "https://www.camera.it/leg19/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00050.int00120"
   },
@@ -2388,7 +3055,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Prima di iniziare a discutere del merito del provvedimento che abbiamo all'ordine del giorno, credo che sia doveroso soffermarsi su un punto che riguarda, prima ancora, il metodo, le modalità con cui questo decreto-legge è stato esaminato dal Parlamento fin qui, e come ci apprestiamo a porci nella conversione, nel prosieguo dei nostri lavori, perché, come sappiamo bene, questo decreto è sta […]",
+   "sunto": "Prima di iniziare a discutere del merito del provvedimento che abbiamo all'ordine del giorno, credo che sia doveroso soffermarsi su un punto che riguarda, prima ancora, il metodo, le modalità con cui questo decreto-legge è stato esaminato dal Parlamento fin qui, e come ci apprestiamo a porci…",
+   "temi": [
+    "Immigrazione",
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 1045,
    "url": "https://www.camera.it/leg19/410?idSeduta=0647&tipo=stenografico#sed0647.stenografico.tit00030.int00020"
   },
@@ -2401,7 +3073,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Questa richiesta di deliberazione della seduta fiume è l'ennesima forzatura che sporca questo disegno di legge e che offende il Parlamento . Guardate, io voglio ripercorrere brevissimamente quello che è successo in questi 60 giorni. […]",
+   "sunto": "Siete arrivati in Aula con estremo ritardo, al Senato; avete presentato decine di emendamenti raffazzonati, alcuni li avete dovuti ritirare perché non stavano in piedi, su alcuni avete litigato plasticamente, ne avete approvati alcuni che non stanno in piedi, e siete stati costretti a…",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 1000,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00100.sub00010.int01270"
   },
@@ -2414,7 +3090,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Voglio iniziare il mio intervento manifestando tutto il rammarico del gruppo del Partito Democratico per quello che abbiamo vissuto nell'arco di queste giornate, in questa istituzione. Mai come in questa occasione il Parlamento, in particolare la Camera dei deputati, è stata ridotta ad essere il luogo in cui si ratificano decisioni prese altrove. […]",
+   "sunto": "Qui alla Camera è stato un esame ridotto a meno di un passaggio burocratico, impedendo alle Commissioni di esprimersi, tagliando tempi e spazi per il confronto, ma soprattutto costringendo la Camera a subire la mortificazione - perché di questo si tratta - di piegarsi alla conversione di un…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Giustizia",
+    "Ambiente e clima",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1461,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00260.sub00010.int02190"
   },
@@ -2427,7 +3109,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "(Indossando al collo un fazzoletto con i colori della bandiera italiana). Grazie, Presidente. Ottantuno anni fa l'Italia si liberava dal nazifascismo, ma quella che celebreremo domani non è soltanto la ricorrenza civile più bella e importante del nostro Paese, è anche la nascita di un patto solenne siglato tra cittadini e cittadine, che è scritto nella nostra Carta costituzionale ed è un patto fondato sull'antifascis […]",
+   "sunto": "Vogliamo difendere quel patto, vogliamo difendere la nostra Costituzione e il nostro Paese. […] Viva la Resistenza, viva l'Italia libera, viva la Repubblica, viva il 25 aprile !",
+   "temi": [],
    "parole": 439,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00280.int00040"
   },
@@ -2440,7 +3123,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ottant'anni di protagonismo femminile nella vita democratica del Paese non sono soltanto una ricorrenza da celebrare, sono una storia collettiva da custodire e da continuare a scrivere. È una storia lunga, fatta di lotte, conquiste, delusioni e speranze, che parla dell'Italia, della sua crescita democratica e civile, della forza delle donne che hanno saputo cambiare il Paese anche quando il Paese […]",
+   "sunto": "Quel 2 giugno, quando le donne votarono per la prima volta in tutto il Paese esercitando per la prima volta il diritto all'elettorato passivo oltre che attivo, accadde qualcosa di straordinario.",
+   "temi": [],
    "parole": 637,
    "url": "https://www.camera.it/leg19/410?idSeduta=0667&tipo=stenografico#sed0667.stenografico.tit00070.int00080"
   },
@@ -2453,7 +3137,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente, anche per il suo sentito ricordo, per cui desidero ringraziarla. Ricordare oggi Gianclaudio Bressa significa ricordare una delle figure che più profondamente hanno attraversato con discrezione e rigore la storia istituzionale e parlamentare della Repubblica negli ultimi decenni. Gianclaudio non apparteneva alla categoria dei politici urlati o dei protagonisti della polemica quotidiana. […]",
+   "sunto": "Per lui le istituzioni non erano mai esercizio di potere, ma erano prima di tutto comunità, relazioni e persone, quelle persone con cui aveva condiviso la passione politica, fin da giovanissimo, prima nelle file dei giovani della DC, nella corrente di sinistra della base e poi dei Popolari e…",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 639,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00060.int00020"
   },
@@ -2466,7 +3153,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intervengo su questo emendamento perché credo sia l'occasione per il Governo di provare a riacquistare un po' di credibilità nella discussione che stiamo facendo. Ministro, questo emendamento riguarda il tema della nostra eredità nucleare. L'Italia è uno dei pochissimi Paesi europei che non ha ancora un deposito per la gestione delle scorie nucleari. […]",
+   "sunto": "Abbiamo 23 depositi temporanei che ovviamente sono realtà sotto controllo, ma non sono la risposta definitiva alla gestione delle scorie nucleari nel nostro Paese. […] Con questo disegno di legge delega state certificando quello che avete fatto in questi quattro anni di Governo, cioè nulla, per dare una risposta definitiva alla gestione della nostra eredità nucleare.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 642,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00120.sub00020.int00180"
   },
@@ -2479,7 +3170,11 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Sì, signor Presidente, come lei può immaginare, desidero illustrare la mia interpellanza, vista la rilevanza del tema, anticipando che questa mia interpellanza, sottoscritta con altri colleghi del mio gruppo, segue una precedente interrogazione, presentata il 29 aprile, a mia prima firma, rimasta senza risposta da parte del Ministero dell'Ambiente, e affronta un tema che credo interessi il Paese - molti soggetti: amm […]",
+   "sunto": "Sì, signor Presidente, come lei può immaginare, desidero illustrare la mia interpellanza, vista la rilevanza del tema, anticipando che questa mia interpellanza, sottoscritta con altri colleghi del mio gruppo, segue una precedente interrogazione, presentata il 29 aprile, a mia prima firma,…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 1147,
    "url": "https://www.camera.it/leg19/410?idSeduta=0674&tipo=stenografico#sed0674.stenografico.tit00020.sub00030.int00020"
   },
@@ -2492,7 +3187,10 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. No, non sono assolutamente soddisfatta, anzi sono anche un po' imbarazzata per questa risposta alla mia interpellanza. Tramite lei, Presidente, vorrei dire al Sottosegretario che ieri la Presidente del Consiglio è venuta qui attaccando i burocrati europei. Forse, dovrebbe preoccuparsi dei burocrati che stanno nei suoi Ministeri perché la sua risposta è del tutto burocratica. […]",
+   "sunto": "Credo che il dato più preoccupante di questa risposta sia rappresentato dal fatto che lei non ha trovato alcun imbarazzo nel non rispondere alla prima parte della mia interpellanza, cioè come il Ministero intenda riparare il danno prodotto all'Istituto, tagliando del 30 per cento il contributo…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 752,
    "url": "https://www.camera.it/leg19/410?idSeduta=0674&tipo=stenografico#sed0674.stenografico.tit00020.sub00030.int00060"
   },
@@ -2505,7 +3203,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Oggi, abbiamo discusso, discuteremo e voteremo un provvedimento su un tema che ha molti risvolti politici, sociali e umani, perché la casa non è solo un tetto sopra la testa, la casa è lo spazio in cui si costruisce la propria autonomia, si cresce una famiglia, si immagina il futuro. La casa è un diritto fondamentale nonché una condizione essenziale per una vita dignitosa. […]",
+   "sunto": "Oggi, abbiamo discusso, discuteremo e voteremo un provvedimento su un tema che ha molti risvolti politici, sociali e umani, perché la casa non è solo un tetto sopra la testa, la casa è lo spazio in cui si costruisce la propria autonomia, si cresce una famiglia, si immagina il futuro.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1361,
    "url": "https://www.camera.it/leg19/410?idSeduta=0681&tipo=stenografico#sed0681.stenografico.tit00050.sub00010.int00300"
   },
@@ -2518,7 +3221,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signora Presidente. Siamo giunti alla fine di questa discussione generale, nella quasi totale afonia della maggioranza e nel silenzio totale - che dice più di molte parole - di una delle forze di maggioranza, la Lega di Salvini Premier, la chiamo ancora così. […]",
+   "sunto": "Di fronte a questi due eventi, una legge elettorale dovrebbe avere l'ambizione di ricostruire il rapporto tra eletti ed elettori e rafforzare il sistema politico; dovrebbe, cioè, rendere protagonisti i cittadini delle scelte democratiche, favorire forze politiche solide, radicate e responsabili.",
+   "temi": [],
    "parole": 1211,
    "url": "https://www.camera.it/leg19/410?idSeduta=0682&tipo=stenografico#sed0682.stenografico.tit00020.sub00010.int00880"
   },
@@ -2531,7 +3235,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Ci sono vicende che non appartengono soltanto alla storia giudiziaria del nostro Paese, ma alla sua coscienza civile: il disastro dell'Icmesa di Seveso è una di queste. Il 10 luglio del 1976, una nube di diossina contaminò un territorio, colpì migliaia di persone e cambiò per sempre il modo di guardare nel nostro Paese al rapporto tra impresa, ambiente e salute. […]",
+   "sunto": "Penso all'approvazione della legge sugli ecoreati, alla nascita delle Agenzie per la protezione dell'ambiente, all'introduzione nella Costituzione votata da questo Parlamento, all'articolo 9, della tutela dell'ambiente e della biodiversità e a quell'articolo 41 in cui si ricorda la…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00110.int00080"
   },
@@ -2544,7 +3253,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Tramite lei, vorrei inizialmente rivolgermi all'onorevole Ravetto, perché io capisco che lei non sia preoccupata, onorevole Ravetto, ma non tutte noi abbiamo cambiato partito per avere un seggio assicurato , non tutte noi abbiamo cambiato partito per avere un seggio assicurato, e noi ci preoccupiamo anche delle altre donne, di quelle che sono qui e di quelle che vogliamo essere qui nei pros […]",
+   "sunto": "Nell'emendamento che stiamo subemendando, con questa nostra proposta, sparisce improvvisamente una norma che c'è nella legge attualmente vigente, nella legge elettorale con cui tutte e tutti noi siamo stati eletti, e anche una norma che c'era nell'impianto precedente del Melonellum 1 e 2.",
+   "temi": [],
    "parole": 582,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00070.sub00030.int00240"
   },
@@ -2557,7 +3267,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Io mi associo alla richiesta fatta dai colleghi di sottoporre al Presidente Fontana la richiesta di convocare una Conferenza dei presidenti di gruppo. Lei poco fa, quando stavamo per votare l'emendamento che poi è stato respinto dall'Aula, ha richiamato tutti, in modo particolare i suoi colleghi, diciamo i colleghi… e i colleghi della maggioranza, alla massima attenzione a questo voto. […]",
+   "sunto": "Io mi associo alla richiesta fatta dai colleghi di sottoporre al Presidente Fontana la richiesta di convocare una Conferenza dei presidenti di gruppo.",
+   "temi": [],
    "parole": 302,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00080.int00440"
   },
@@ -2570,7 +3281,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, intervengo anch'io sull'ordine dei lavori perché non ci capita mai di essere d'accordo con la Presidente del Consiglio, ma su una cosa che ha avuto modo di scrivere sui social questa sera siamo d'accordo con lei: serve una riflessione. […]",
+   "sunto": "È quello che abbiamo provato a spiegare ai colleghi della maggioranza nella Conferenza dei presidenti di gruppo, perché quello che è accaduto qui non può essere archiviato come uno dei tanti voti su cui la maggioranza era distratta o c'erano assenti.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 463,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00100.int00060"
   },
@@ -2583,7 +3297,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Come avevamo provato a spiegare anche in sede di Capigruppo, come abbiamo cercato di fare prima in quest'Aula, è evidente che l'arroganza di questa maggioranza non ha limite. State continuando ad andare avanti dritti contro un muro. […]",
+   "sunto": "Come avevamo provato a spiegare anche in sede di Capigruppo, come abbiamo cercato di fare prima in quest'Aula, è evidente che l'arroganza di questa maggioranza non ha limite. […] Questa farsa deve finire (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra).",
+   "temi": [],
    "parole": 163,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00130.sub00010.int00060"
   },
@@ -2596,7 +3311,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Chiedo alla collega Bonetti di poter sottoscrivere questo emendamento, a nome del gruppo del Partito Democratico. Questa battaglia, che, come sappiamo, ieri ha avuto un'anticipazione nella discussione sull'emendamento Bignami, resta un tema ancora aperto, come giustamente ha sottolineato l'onorevole Bonetti. […]",
+   "sunto": "Però sappiamo ancora come quella norma di garanzia antidiscriminatoria, quella del 60-40, si sia fin qui dimostrata insufficiente a far fare quel salto di qualità necessario per aumentare significativamente la rappresentanza femminile nel Parlamento.",
+   "temi": [],
    "parole": 514,
    "url": "https://www.camera.it/leg19/410?idSeduta=0690&tipo=stenografico#sed0690.stenografico.tit00060.sub00010.int00480"
   },
@@ -2609,7 +3325,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente… Grazie, Presidente. La voglio rassicurare: gli estremisti stanno da un'altra parte (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle), evidentemente sono quelli che hanno segnato una spaccatura dentro questa maggioranza, su quel voto, costituendo una maggioranza di destra-destra. […]",
+   "sunto": "La voglio rassicurare: gli estremisti stanno da un'altra parte (Applausi dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle), evidentemente sono quelli che hanno segnato una spaccatura dentro questa maggioranza, su quel voto, costituendo una…",
+   "temi": [],
    "parole": 289,
    "url": "https://www.camera.it/leg19/410?idSeduta=0690&tipo=stenografico#sed0690.stenografico.tit00090.int00030"
   },
@@ -2622,7 +3339,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, intervengo sul richiamo al Regolamento. Io la ringrazio per essere intervenuta e aver chiesto a tutte le forze politiche di rispettare prima di tutto la dignità di quest'Aula ed evitare che il confronto, anche acceso tra di noi, possa scivolare su insulti e accuse di questa natura (Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista). […]",
+   "sunto": "Io la ringrazio per essere intervenuta e aver chiesto a tutte le forze politiche di rispettare prima di tutto la dignità di quest'Aula ed evitare che il confronto, anche acceso tra di noi, possa scivolare su insulti e accuse di questa natura (Applausi dei deputati del gruppo Partito…",
+   "temi": [],
    "parole": 251,
    "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00050.int00540"
   },
@@ -2635,7 +3353,10 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, signor Presidente. Mi fa particolarmente piacere intervenire in dichiarazione di voto dopo questo intervento del capogruppo della Lega Nord, non della Lega di Salvini : abbiamo capito che la correzione della linea, sotto gli sguardi un po' increduli del resto della vostra maggioranza, è in corso. […]",
+   "sunto": "Le intese che avete presentato con la Lombardia, così come con le altre regioni - tutte identiche, come se non ci fosse nessuna differenza tra regioni così diverse -, rappresentano un nuovo passo irresponsabile: un'autonomia differenziata senza che siano state sciolte le questioni fondamentali,…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 1508,
    "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00090.sub00020.int00200"
   },
@@ -2648,7 +3369,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Intanto per unirmi alla richiesta dell'onorevole Fratoianni di avere il Governo a riferire su quanto è accaduto. Quanto è accaduto a Ceuta, prima di tutto - lo vorrei ricordare qui - è una tragedia umanitaria, perché più di 100 persone sono morte nel tentativo, da parte di decine di migliaia di persone, di raggiungere dal Marocco l' enclave spagnola a nuoto, su gommoni, forzando le barriere di con […]",
+   "sunto": "Questa decisione, annunciata con quelle modalità e con quei toni, ha dimostrato non soltanto la totale ignoranza di chi guida il Governo italiano - perché, come giustamente è stato ricordato, come sappiamo, Ceuta è una enclave spagnola in Marocco, e quindi da sempre non è soggetta…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 770,
    "url": "https://www.camera.it/leg19/410?idSeduta=0702&tipo=stenografico#sed0702.stenografico.tit00070.int00040"
   },
@@ -2661,7 +3386,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Presidente, intervengo in quest'Aula brevissimamente per condividere una notizia molto triste, che è arrivata pochi minuti fa: ci ha lasciato Francesco Guccini ( L'intera Assemblea e i membri del Governo si levano in piedi - Prolungati applausi) . […]",
+   "sunto": "È stato non solo uno dei più grandi cantautori italiani, è stato un poeta che ha saputo raccontare il nostro tempo, unire generazioni, raccontare emozioni e storie di vita, raccontarci una visione che, credo, rimarrà con noi anche dopo la sua scomparsa.",
+   "temi": [],
    "parole": 131,
    "url": "https://www.camera.it/leg19/410?idSeduta=0705&tipo=stenografico#sed0705.stenografico.tit00040.int00020"
   },
@@ -2674,7 +3400,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Ministra, la sua risposta ci lascia del tutto insoddisfatti. Ha fatto un lungo elenco di “faremo”, “vedremo”, “ci misureremo”. Governate da quattro anni e in questi quattro anni che cosa avete fatto ? La sua risposta conferma il giudizio, la motivazione della nostra interrogazione e la marginalità del suo Ministero di fronte alle tante vertenze aperte. […]",
+   "sunto": "Nessuna misura per prevenire iniziative dirompenti, come l'avvio delle procedure di licenziamento dei 2.500 lavoratori dell'indotto dell'ex Ilva che solo ieri tardivamente sono state temporaneamente sospese.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa"
+   ],
    "parole": 509,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00050.int00080"
   },
@@ -2687,7 +3417,8 @@
    "categoria": "Fiducia al Governo",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Voteremo “no” convintamente a questa fiducia e vorrei andare subito al punto, perché di parole ne abbiamo sentite molte - alcune anche molto creative, fiabesche, mi viene da dire - dai banchi dell'opposizione. Peccato che la questione di cui stiamo parlando sia una questione maledettamente seria. […]",
+   "sunto": "Perché questa non è soltanto una legge elettorale, è la legge con cui una maggioranza decide oggi le regole con cui domani si formerà il Parlamento.",
+   "temi": [],
    "parole": 1360,
    "url": "https://www.camera.it/leg19/410?idSeduta=0721&tipo=stenografico#sed0721.stenografico.tit00020.sub00010.int00310"
   },
@@ -2700,7 +3431,17 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "PD-IDP",
-   "estratto": "Grazie, Presidente. Ministro Giorgetti, mi lasci iniziare così, citando il grande Gassman: questa mattina l'hanno rimasto solo, sti quattro… Mi fermo qua, mi fermo qui perché credo che sia meglio . Adesso i banchi pian piano, forse, si riempiranno, ma stamattina non c'era nessuno in Aula della sua maggioranza a difendere un Documento surreale, che si chiama “programmatico”, ma che di programmatico non ha nulla, se no […]",
+   "sunto": "Per il resto, questo è un Documento vuoto, in cui il Governo non ci dice cosa intende fare, ma ci chiede di credere e applaudire a un'Italia che non c'è: quella che ha una crescita dell'1 per cento, che è comunque insufficiente, e che chiama questa crescita “stabilità”, il solo risultato che…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1505,
    "url": "https://www.camera.it/leg19/410?idSeduta=0726&tipo=stenografico#sed0726.stenografico.tit00040.sub00010.int00330"
   }

@@ -128,9 +128,135 @@
     "fonte": "X",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Esteri e difesa",
+    "n": 59
+   },
+   {
+    "tema": "Unione europea",
+    "n": 52
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 13
+   },
+   {
+    "tema": "Sanità",
+    "n": 12
+   },
+   {
+    "tema": "Giustizia",
+    "n": 10
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 9
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 9
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 6
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 6
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 3
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 2
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 2
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 2
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2022": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 1
+    },
+    {
+     "tema": "Unione europea",
+     "n": 1
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 12
+    },
+    {
+     "tema": "Unione europea",
+     "n": 11
+    },
+    {
+     "tema": "Immigrazione",
+     "n": 6
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 18
+    },
+    {
+     "tema": "Unione europea",
+     "n": 10
+    },
+    {
+     "tema": "Sanità",
+     "n": 5
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 13
+    },
+    {
+     "tema": "Unione europea",
+     "n": 11
+    },
+    {
+     "tema": "Scuola e università",
+     "n": 5
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Unione europea",
+     "n": 19
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 15
+    },
+    {
+     "tema": "Scuola e università",
+     "n": 4
+    }
+   ]
+  }
  },
- "recap": "Dal 10 agosto 2022 al 21 ottobre 2026: 108 interventi nell'Aula della Camera (80.741 parole), 11 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (82 interventi).",
+ "recap": "Dal 10 agosto 2022 al 21 ottobre 2026: 108 interventi nell'Aula della Camera (80.741 parole), 11 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (59), unione europea (52), sicurezza e criminalità (13). In Aula alla Camera l'occasione più frequente è «Question time» (82 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -243,7 +369,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, mi permetta, prima di rispondere all'onorevole Serracchiani, di rivolgere un pensiero a tutta l'Aeronautica militare, che ieri ha perso il capitano Fabio Antonio Altruda, caduto nell'adempimento del dovere; proveniva da un reparto che era stato in Polonia, anche lì a difendere i diritti di un popolo, quello ucraino, che chiede libertà e indipendenza. […]",
+   "sunto": "Mi permetta, prima di rispondere all'onorevole Serracchiani, di rivolgere un pensiero a tutta l'Aeronautica militare, che ieri ha perso il capitano Fabio Antonio Altruda, caduto nell'adempimento del dovere; proveniva da un reparto che era stato in Polonia, anche lì a difendere i diritti di un…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 477,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00010.int00040"
   },
@@ -256,7 +386,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Mediterraneo è lo snodo centrale della politica estera dell'Italia e di questo Governo, è un crocevia millenario di relazioni e scambi fondati su radici comuni. La gestione dei flussi migratori, la lotta al terrorismo, la diversificazione energetica, la formazione dei giovani, le missioni per la crescita e i partenariati paritari sono le priorità del nostro Governo. […]",
+   "sunto": "Il Mediterraneo è lo snodo centrale della politica estera dell'Italia e di questo Governo, è un crocevia millenario di relazioni e scambi fondati su radici comuni.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 447,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00010.int00040"
   },
@@ -269,7 +404,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Innanzitutto, proprio oggi voglio riconfermare la mia vicinanza e quella del Governo alla famiglia Regeni che ha il diritto che si faccia luce su ciò che è accaduto e ha diritto che i responsabili dell'orribile omicidio vengano processati e puniti. […]",
+   "sunto": "La mia visita in Egitto deriva dall'importanza che il dialogo con quel Paese riveste per l'Italia e per il nostro interesse nazionale; penso al dossier immigratorio, alla lotta al terrorismo, all'energia, alle crisi regionali, prima fra tutte la Libia, tutti fattori cruciali per la sicurezza del…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 491,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00020.int00040"
   },
@@ -282,7 +420,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. La posizione del Governo e di tutta la maggioranza è sempre stata chiara: siamo dalla parte dell'Ucraina, dalla parte dell'Europa, dalla parte della NATO, dalla parte dell'Occidente. Questo significa tutelare l'indipendenza e l'integrità territoriale dell'Ucraina, difendere i principi alla base dell'ordine internazionale, perseguire i crimini commessi, creare le condizioni per una pace gius […]",
+   "sunto": "La posizione del Governo e di tutta la maggioranza è sempre stata chiara: siamo dalla parte dell'Ucraina, dalla parte dell'Europa, dalla parte della NATO, dalla parte dell'Occidente.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 494,
    "url": "https://www.camera.it/leg19/410?idSeduta=0052&tipo=stenografico#sed0052.stenografico.tit00070.sub00010.int00040"
   },
@@ -295,7 +437,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Una complessa operazione di evacuazione da Khartoum, condotta dall'unità di crisi del Ministero degli Affari esteri e della cooperazione internazionale, con mezzi del Ministero della Difesa e il sostegno dell' intelligence ha messo in sicurezza oltre 140 persone, compresi alcuni cittadini europei e di altri Paesi. […]",
+   "sunto": "Una complessa operazione di evacuazione da Khartoum, condotta dall'unità di crisi del Ministero degli Affari esteri e della cooperazione internazionale, con mezzi del Ministero della Difesa e il sostegno dell' intelligence ha messo in sicurezza oltre 140 persone, compresi alcuni cittadini…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 504,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00010.int00040"
   },
@@ -308,7 +453,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Fin dall'inizio del mandato ho avviato un'intensa diplomazia della crescita, con l'obiettivo di internazionalizzare le aziende italiane e sostenere le esportazioni. Come ha detto l'onorevole Marrocco, l' export è cresciuto in Italia del 13 per cento nei primi due mesi di quest'anno e vale ormai più di un terzo del PIL. […]",
+   "sunto": "L'Italia è in prima linea nella ricostruzione dell'Ucraina; alla Conferenza del 26 aprile hanno partecipato un migliaio di aziende e i vertici politici dei due Paesi.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa"
+   ],
    "parole": 544,
    "url": "https://www.camera.it/leg19/410?idSeduta=0096&tipo=stenografico#sed0096.stenografico.tit00010.sub00040.int00040"
   },
@@ -321,7 +470,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il tema ovviamente sta a cuore al Governo. Purtroppo, la pandemia ha determinato un rallentamento generalizzato nelle pratiche di adozione internazionale. Per quanto riguarda la Cina, l'effetto congiunto di chiusura delle frontiere, del drastico rallentamento dell'attività degli uffici nelle regioni di origine dei minori e l'interruzione dei collegamenti aerei hanno provocato effetti ancora più gr […]",
+   "sunto": "Da tre anni la Bielorussia rifiuta di esaminare la lista di minori abbinati alle nostre famiglie italiane, inviata dalla commissione adozioni italiana, perché accompagnata dalla lettera di garanzia del Ministro per la Famiglia e non del Presidente del Consiglio, come vorrebbe la controparte.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0096&tipo=stenografico#sed0096.stenografico.tit00010.sub00050.int00040"
   },
@@ -334,7 +486,14 @@
    "categoria": "Altri argomenti",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Il primo intervento pubblico di Silvio Berlusconi fu dedicato all'Italia: “L'Italia è il Paese che amo”. E decise - primo nella storia della Repubblica - di mettere il nome “Italia” nel logo del suo movimento politico. […]",
+   "sunto": "Il primo intervento pubblico di Silvio Berlusconi fu dedicato all'Italia: “L'Italia è il Paese che amo”. […] Mandato a scontare una pena ai servizi sociali, seppe stare ultimo fra gli ultimi, dimostrando una grandezza che soltanto i grandi della storia sanno dimostrare (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE, Fratelli d'Italia, Lega-Salvini Premier e Noi Moderati (Noi…",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Ambiente e clima",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 913,
    "url": "https://www.camera.it/leg19/410?idSeduta=0124&tipo=stenografico#sed0124.stenografico.tit00060.int00210"
   },
@@ -347,7 +506,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'assegnazione a Milano di una sezione della divisione centrale del Tribunale unificato dei brevetti, formalizzata lunedì scorso, rappresenta un risultato significativo per la promozione e la tutela della proprietà industriale in Italia ed in Europa. […]",
+   "sunto": "L'assegnazione a Milano di una sezione della divisione centrale del Tribunale unificato dei brevetti, formalizzata lunedì scorso, rappresenta un risultato significativo per la promozione e la tutela della proprietà industriale in Italia ed in Europa.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00070.sub00040.int00040"
   },
@@ -360,7 +522,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Come l'onorevole Della Vedova sa, il Meccanismo europeo di stabilità è stato concepito in un quadro di profonda incertezza economica. La tempesta finanziaria del 2008 e la crisi dei debiti sovrani avevano dimostrato la necessità di un fondo permanente per stabilizzare la zona euro. Il MES fu creato con un Trattato intergovernativo nel 2012. […]",
+   "sunto": "Il regolamento del MES non prevede nemmeno un controllo da parte del Parlamento europeo. […] Personalmente, faccio una critica europeista al regolamento, perché anche la Banca centrale europea - come lei ben sa, essendo stato parlamentare europeo - è tenuta a presentarsi regolarmente di fronte alla Commissione economica del Parlamento europeo e di fronte all'Aula del Parlamento europeo.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 560,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00070.sub00050.int00040"
   },
@@ -373,7 +538,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Il Governo è impegnato in un rilancio dell'azione diplomatica nella regione adriatico-balcanica, area di importanza strategica sia per la sicurezza sia per la crescita della nostra economia. L'ho sottolineato al Forum internazionale di Dubrovnik, importante piattaforma di discussione, cui mi aveva invitato quale ospite d'onore il Governo croato. Vogliamo svolgere un ruolo da protagonisti. […]",
+   "sunto": "Il Governo è impegnato in un rilancio dell'azione diplomatica nella regione adriatico-balcanica, area di importanza strategica sia per la sicurezza sia per la crescita della nostra economia.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 414,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00070.int00060"
   },
@@ -386,7 +554,10 @@
    "categoria": "Question time",
    "ruolo": "Vicepresidente del Consiglio dei ministri",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. La Tunisia, come lei sa, è un partner importante e strategico per l'Italia, per la sua posizione geografica e per il retaggio millenario di scambi culturali, economici e sociali tra i nostri popoli. È il nostro vicino più prossimo ed è un interlocutore ineludibile. […]",
+   "sunto": "Il Memorandum con la Tunisia “è un successo per il nostro Governo e per l'Europa che fa da apripista per la stabilizzazione dell'Africa”: queste parole, onorevole, non sono mie, ma di un Ministro dell'Interno di un Governo di centrosinistra, Marco Minniti, che appartiene ad una forza alleata…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00080.int00040"
   },
@@ -399,7 +570,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie ancora, signor Presidente. Come ho detto nel corso del dibattito precedente a questa interrogazione, la lotta al traffico di esseri umani, il mettere al centro del dibattito politico europeo la questione migratoria, è stato ed è un risultato politico raggiunto dall'Italia. […]",
+   "sunto": "Come ho detto nel corso del dibattito precedente a questa interrogazione, la lotta al traffico di esseri umani, il mettere al centro del dibattito politico europeo la questione migratoria, è stato ed è un risultato politico raggiunto dall'Italia.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 536,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00090.int00040"
   },
@@ -412,7 +586,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La frana che ha interessato il lato francese del traforo del Frejus, interrompendo la circolazione stradale e ferroviaria, ha reso necessario adottare misure per ripristinare il regolare flusso di persone e merci con la Francia. […]",
+   "sunto": "La frana che ha interessato il lato francese del traforo del Frejus, interrompendo la circolazione stradale e ferroviaria, ha reso necessario adottare misure per ripristinare il regolare flusso di persone e merci con la Francia.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 371,
    "url": "https://www.camera.it/leg19/410?idSeduta=0157&tipo=stenografico#sed0157.stenografico.tit00010.sub00020.int00040"
   },
@@ -425,7 +602,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Il Memorandum tra l'Unione europea e la Tunisia nasce dall'urgenza di sostenere il Paese nordafricano, che rischia un tracollo economico e subisce una crescente pressione di migranti irregolari in transito per l'Italia e l'Europa. Questi flussi senza precedenti sono provocati dalle crisi che sempre più affliggono il continente africano. […]",
+   "sunto": "Il Memorandum tra l'Unione europea e la Tunisia nasce dall'urgenza di sostenere il Paese nordafricano, che rischia un tracollo economico e subisce una crescente pressione di migranti irregolari in transito per l'Italia e l'Europa. […] L'Europa e l'Italia hanno un interesse strategico nella stabilità e nella prosperità del vicino Sud, di cui la Tunisia è un tassello fondamentale.",
+   "temi": [
+    "Immigrazione",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0157&tipo=stenografico#sed0157.stenografico.tit00010.sub00030.int00040"
   },
@@ -438,7 +620,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale.",
    "gruppo": null,
-   "estratto": "La mia missione a Pechino ha inteso segnare l'inizio di una nuova fase di cooperazione rafforzata tra Italia e Cina. Nei colloqui con i Ministri degli Esteri e del Commercio abbiamo condiviso l'importanza di rilanciare il partenariato strategico globale avviato già nel 2004 su iniziativa del Presidente Berlusconi. […]",
+   "sunto": "Il partenariato strategico abbraccia tanti settori, direi tutti i settori, ed è quindi più importante di singoli accordi bilaterali come quello sulla Via della Seta, memorandum che, dal nostro punto di vista, ha prodotto fin qui risultati non soddisfacenti in termini di esportazioni e di…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 401,
    "url": "https://www.camera.it/leg19/410?idSeduta=0157&tipo=stenografico#sed0157.stenografico.tit00010.sub00040.int00040"
   },
@@ -451,7 +636,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Onorevole Provenzano, apprezzo la sua vena poetica. Evidentemente, non mi conosce. Per quanto riguarda la politica estera, io non sono un mite, non mi faccio commissariare e le ricordo soltanto che sono una persona educata e c'è una bella differenza tra mite ed educato . L'Africa è una priorità per gli interessi nazionali e gli equilibri globali. […]",
+   "sunto": "Ricordo soltanto le più recenti: a Roma, abbiamo ospitato, a luglio, il vertice ONU sulla sicurezza alimentare e la Conferenza internazionale su sviluppo e migrazioni; al continente africano il Presidente del Consiglio ha dedicato il suo intervento all'Assemblea generale delle Nazioni Unite; al… […] La Presidenza italiana del G7 offrirà un'ulteriore opportunità per rendere l'Africa una priorità per tutti.",
+   "temi": [],
    "parole": 535,
    "url": "https://www.camera.it/leg19/410?idSeduta=0167&tipo=stenografico#sed0167.stenografico.tit00030.sub00050.int00040"
   },
@@ -464,7 +650,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, ho voluto essere subito qui, in quest'Aula per riferire sul conflitto provocato dalla feroce aggressione di Hamas di sabato scorso e sull'azione diplomatica che stiamo conducendo per evitare un' escalation. […]",
+   "sunto": "Tra gli israeliani si contano più di 900 morti e oltre 2.600 feriti, decine di ostaggi sono stati deportati nella striscia di Gaza, ma da sabato mattina abbiamo dato subito priorità alla situazione degli italiani in Israele. […] Nei prossimi giorni dovremmo rimpatriare altri 500 italiani, con due voli militari e altri due voli della compagnia privata Neos Air.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2158,
    "url": "https://www.camera.it/leg19/410?idSeduta=0175&tipo=stenografico#sed0175.stenografico.tit00040.sub00010.int00020"
   },
@@ -477,7 +668,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Governo esprime parere favorevole sulla mozione Richetti ed altri n. 6-00048 . Il Governo esprime altresì parere favorevole sulla mozione Foti, Molinari, Barelli e Lupi n. 6-00049 , con la seguente riformulazione, al punto 8 del dispositivo: “auspica che sia tutelata la popolazione civile”, sopprimendo le parole seguenti: “nella massima misura possibile”. […]",
+   "sunto": "Il Governo esprime parere favorevole sulla mozione Richetti ed altri n. 6-00048 . […] Il Governo esprime parere favorevole sulla mozione Magi e Della Vedova n. 6-00050 e sulla mozione Braga, Francesco Silvestri e Zanella n. 6-00052 , se riformulata espungendo il punto 5 della premessa.",
+   "temi": [],
    "parole": 87,
    "url": "https://www.camera.it/leg19/410?idSeduta=0175&tipo=stenografico#sed0175.stenografico.tit00050.sub00020.int00020"
   },
@@ -490,7 +682,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, la strage dell'ospedale di Gaza è motivo di sgomento e di dolore, e ricordo a tutti noi che, anche in un conflitto, la protezione dei civili è la priorità assoluta, come ha sottolineato ieri a nome del Governo, e ha ribadito stamane, il Presidente del Consiglio. Non dobbiamo, però, rassegnarci alla spirale di violenza e, mentre le piazze si infiammano, c'è ancora più bisogno di diplomazia. […]",
+   "sunto": "La strage dell'ospedale di Gaza è motivo di sgomento e di dolore, e ricordo a tutti noi che, anche in un conflitto, la protezione dei civili è la priorità assoluta, come ha sottolineato ieri a nome del Governo, e ha ribadito stamane, il Presidente del Consiglio.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 587,
    "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00100.sub00080.int00060"
   },
@@ -503,7 +698,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Come abbiamo più volte ribadito la protezione dei cittadini italiani a Gaza è una nostra priorità. Nella Striscia sono presenti 14 connazionali, di cui 7 con passaporto italiano e 7 con doppio passaporto, italiano e palestinese. Con loro ci sono anche cinque familiari palestinesi che fanno parte del gruppo per il quale stiamo lavorando. […]",
+   "sunto": "Nella Striscia sono presenti 14 connazionali, di cui 7 con passaporto italiano e 7 con doppio passaporto, italiano e palestinese. […] Noi siamo favorevoli a che la porta rimanga aperta e possano continuare ad arrivare camion, primo risultato dell'azione condotta dal Governo italiano con i partner europei del G7 e della regione.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 511,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00080.int00040"
   },
@@ -516,7 +714,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Il Governo ha come obiettivo prioritario il contrasto a ogni forma di ingresso irregolare in Italia. È, quindi, cruciale rafforzare la capacità delle nostre sedi diplomatiche o consolari di intercettare le richieste fraudolente di visto e prevenire fenomeni corruttivi. […]",
+   "sunto": "Tra le prime misure disciplinari che ho voluto adottare, ho deciso l'immediato rientro di alcuni funzionari e la sospensione temporanea del servizio visti nazionali a Kinshasa.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 431,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00090.int00080"
   },
@@ -529,7 +731,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Le priorità dell'Italia sono chiare e in linea con quelle dei nostri alleati: scongiurare un' escalation del conflitto, liberare gli ostaggi, evitare l'aggravarsi della crisi umanitaria a Gaza, preservare una prospettiva politica per il futuro. […]",
+   "sunto": "Le priorità dell'Italia sono chiare e in linea con quelle dei nostri alleati: scongiurare un' escalation del conflitto, liberare gli ostaggi, evitare l'aggravarsi della crisi umanitaria a Gaza, preservare una prospettiva politica per il futuro. […] Un chiaro sostegno all'Autorità palestinese, quale unico legittimo rappresentante del popolo palestinese, è la pietra angolare del nostro approccio.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 403,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00010.int00040"
   },
@@ -542,7 +748,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Abbiamo voluto agire rapidamente per far fronte alle esigenze del tessuto produttivo toscano, gravemente colpito dall'alluvione del 2 novembre. Nel corso della mia missione a Prato, la sua città, onorevole, ho incontrato istituzioni, enti locali, associazioni di categoria e imprese. […]",
+   "sunto": "In aggiunta, per favorire la più rapida ripresa dell' export , è stata riservata una quota di circa 200 milioni nell'ambito delle risorse disponibili sul Fondo 394/81 che finanzia l'internazionalizzazione delle imprese. […] A loro verrà riservata una quinta quota di finanziamento nell'ambito del progetto Bonus per l' export digitale, iniziative per la digitalizzazione delle imprese esportatrici.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00020.int00040"
   },
@@ -555,7 +764,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Fin dall'inizio delle ostilità, il tema dei corridoi umanitari a Gaza è sempre stato al centro della nostra azione diplomatica. Il Governo, in linea con gli atti di indirizzo approvati in Parlamento e richiamati dagli onorevoli interroganti, ha lavorato per consentire un accesso completo, rapido, sicuro e senza ostacoli agli aiuti e agli operatori delle Nazioni Unite, del Comitato internazi […]",
+   "sunto": "Abbiamo inviato da Brindisi due C-130 dell'Aeronautica militare, con un carico di 16 tonnellate di beni umanitari della cooperazione internazionale. […] In risposta a una richiesta di Israele, il Ministro della Difesa ha messo a disposizione una nave ospedale con capacità chirurgiche e di emergenza: è la nave Vulcano , centro logistico sanitario all'avanguardia, già in viaggio da giorni verso l'area.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa"
+   ],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00030.int00040"
   },
@@ -568,7 +781,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. La situazione umanitaria a Gaza desta profonda preoccupazione. Il nostro primo obiettivo è stato mettere in salvo gli italiani presenti nella Striscia, dopo avere favorito il rientro anche dei connazionali temporaneamente in Israele al momento dell'aggressione di Hamas. […]",
+   "sunto": "Lavoriamo per ottenere pause umanitarie più lunghe e ci siamo dichiarati a favore di pause umanitarie fin dalla prima riunione del Consiglio affari esteri che si è svolta a Lussemburgo . […] Dicevo che lavoriamo per pause umanitarie più lunghe, ma naturalmente c'è bisogno che anche Hamas e Hezbollah siano disposte a cessare le ostilità.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 440,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00040.int00040"
   },
@@ -581,7 +797,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, la questione sollevata dall'onorevole Ricciardi riguarda un numero limitato di pensionati italiani che sono residenti in Svizzera, che hanno comunque diverse opzioni a disposizione. L'INPS ha stipulato accordi per lo scambio telematico di informazioni sul decesso dei pensionati con due enti pensionistici svizzeri: le sigle sono di DRV e UCC. […]",
+   "sunto": "Gli altri pensionati non gestiti dai due enti possono ottenere una certificazione di esistenza in vita da tutti i soggetti indicati dall'INPS quali testimoni accettabili. […] I nostri pensionati residenti in Svizzera o in altri Paesi che hanno difficoltà nella trasmissione della certificazione possono sempre rivolgersi agli uffici consolari o ai patronati.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 342,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00050.int00040"
   },
@@ -594,7 +813,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, voglio innanzitutto premettere che il Governo italiano rispetta doverosamente le dinamiche istituzionali e politiche in corso in Spagna, Paese cui siamo legati da antica amicizia ed interessi comuni. […]",
+   "sunto": "A fronte di queste evidenti criticità, lo stesso commissario europeo alla Giustizia, Didier Reynders ha scritto al Governo spagnolo per chiedere informazioni dettagliate e ha richiamato l'impegno della Commissione a tutelare i valori fondamentali e lo Stato di diritto dell'Unione.",
+   "temi": [],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0196&tipo=stenografico#sed0196.stenografico.tit00050.sub00060.int00040"
   },
@@ -607,7 +827,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, considero importante e utile poter illustrare in quest'Aula contenuti e obiettivi del Protocollo per il rafforzamento della collaborazione in materia migratoria tra Italia e Albania. […]",
+   "sunto": "È in questa cornice che si inserisce il Protocollo di collaborazione con l'Albania, Paese amico e candidato all'adesione all'Unione europea, Paese che continueremo a sostenere nelle sue aspirazioni ad entrare a far parte dell'Unione. […] Il Protocollo tra Italia e Albania dunque - ha concluso la Johansson - non viola il diritto dell'Unione.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Unione europea",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1802,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00040.sub00010.int00020"
   },
@@ -620,7 +847,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Innanzitutto, una precisazione per quanto riguarda il rispetto del ruolo del Parlamento, della democrazia, del coinvolgimento dei diversi Ministeri e delle forze politiche per quanto riguarda la sottoscrizione di quest'Accordo: per quanto mi riguarda, in una democrazia parlamentare, il Parlamento svolge un ruolo fondamentale. […]",
+   "sunto": "Per quanto riguarda il merito delle cose e i contenuti, per un'interpretazione corretta dell'articolo 19 a cui lei faceva riferimento, dicendo che non riguarda la questione migratoria, voglio informarla che, ad ottobre del 1995, c'è stato uno scambio di lettere tra il Ministro degli Esteri…",
+   "temi": [
+    "Immigrazione",
+    "Esteri e difesa"
+   ],
    "parole": 769,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00040.sub00040.int00020"
   },
@@ -633,7 +864,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Ma perché… Signor Presidente, non ho capito perché sono sempre così agitati.",
+   "sunto": "Ma perché… Signor Presidente, non ho capito perché sono sempre così agitati.",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00040.sub00040.int00060"
   },
@@ -646,7 +878,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Sì, ha ragione, mi rivolgo a lei, signor Presidente. Signor Presidente, è stato detto, guardando l'atteggiamento del mio volto, che io notoriamente non sapevo nulla di cosa era successo. Ho detto: è finita la stagione durante la quale c'è chi diceva che si era onesti o disonesti, che si era bravi, intelligenti o meno, perché lo diceva la sinistra. […]",
+   "sunto": "Per il testo che porta la firma degli onorevoli Braga, Zanella, Richetti, Faraone e Magi, risoluzione n. 6-00067 , diamo parere contrario sulle premesse, parere favorevole sul primo impegno, parere favorevole con la riformulazione sul secondo impegno.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 919,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00040.sub00040.int00090"
   },
@@ -659,7 +894,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "“Impegna il Governo a non dare applicazione, in via provvisoria, al Protocollo prima della sua entrata in vigore a seguito della ratifica”.",
+   "sunto": "“Impegna il Governo a non dare applicazione, in via provvisoria, al Protocollo prima della sua entrata in vigore a seguito della ratifica”.",
+   "temi": [],
    "parole": 22,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00040.sub00040.int00150"
   },
@@ -672,7 +908,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale.",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Voglio rassicurare gli onorevoli interroganti. Essi, infatti, si dichiarano preoccupati per le posizioni della Lega e il danno che, a loro dire, arrecherebbero all'Italia. Eppure il loro partito, nella scorsa legislatura, ha promosso la nascita di un Governo che includeva anche la Lega e a salutare la partecipazione del movimento politico guidato dall'onorevole Salvini fu proprio il leader […]",
+   "sunto": "Essi, infatti, si dichiarano preoccupati per le posizioni della Lega e il danno che, a loro dire, arrecherebbero all'Italia. […] Anche su molti dossier legislativi europei abbiamo raggiunto risultati importanti: dagli imballaggi, alle case e auto green , stiamo portando l'Europa su posizioni pragmatiche e non ideologiche, lontane dagli estremismi e più vicine ai bisogni dell'economia reale e dei cittadini.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00050.int00040"
   },
@@ -685,7 +924,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, fin dall'inizio del mandato ho avviato un'intensa diplomazia della crescita per sostenere le nostre imprese sui mercati esteri, generare ricchezza e ridurre il debito pubblico. L' export vale, oggi, circa il 40 per cento del PIL italiano e nei primi nove mesi di quest'anno ha raggiunto i 466 miliardi di euro, con un attivo di 26 miliardi. […]",
+   "sunto": "Ne voglio citare soltanto alcune: sono stato più volte negli Stati Uniti, il nostro primo mercato fuori dall'Unione europea, con 90 miliardi di euro di interscambio; a settembre, in Cina, ho sottolineato la volontà del Governo di rilanciare il partenariato strategico e favorire un migliore…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa"
+   ],
    "parole": 472,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00060.int00040"
   },
@@ -698,7 +941,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, il nostro principale obiettivo è rafforzare il ruolo del G7 quale comunità di riferimento delle democrazie liberali e delle economie più avanzate e quale fattore di stabilità ed equilibrio a livello internazionale capace di fornire risposte alle crisi in atto, in primo luogo il Medio Oriente. […]",
+   "sunto": "Il nostro principale obiettivo è rafforzare il ruolo del G7 quale comunità di riferimento delle democrazie liberali e delle economie più avanzate e quale fattore di stabilità ed equilibrio a livello internazionale capace di fornire risposte alle crisi in atto, in primo luogo il Medio Oriente.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00020.int00040"
   },
@@ -711,7 +957,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, gli attacchi dei ribelli Huthi nel Mar Rosso contro imbarcazioni civili e commerciali destano una grande preoccupazione. Questi atti inaccettabili rischiano di innescare un'estensione del conflitto in Medio Oriente e di vanificare i progressi degli ultimi mesi nella crisi yemenita; progressi cui l'Italia ha contribuito e per cui continua a lavorare consapevole dell'importanza strategica dell'area. […]",
+   "sunto": "Gli attacchi dei ribelli Huthi nel Mar Rosso contro imbarcazioni civili e commerciali destano una grande preoccupazione. […] Questi atti inaccettabili rischiano di innescare un'estensione del conflitto in Medio Oriente e di vanificare i progressi degli ultimi mesi nella crisi yemenita; progressi cui l'Italia ha contribuito e per cui continua a lavorare consapevole dell'importanza strategica dell'area.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 402,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00030.int00040"
   },
@@ -724,7 +974,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Magari l'Italia potesse da sola risolvere la crisi in Medio Oriente, avremmo un potere che nessuno al mondo in questo momento ha. Detto questo, noi dall'inizio della crisi innescata, come diceva l'onorevole Fratoianni, dalla barbarie terrorista di Hamas, siamo in costante contatto con i principali partner della regione e con i Paesi alleati in ambito Unione europea, G7, NATO e del formato Quint. […]",
+   "sunto": "Tuttavia, proprio in considerazione dell'assistenza medica prestata dall'Italia alla popolazione palestinese, l'Egitto ci ha appena chiesto di contribuire all'allestimento di un ospedale da campo a Rafah, operazione sulla quale stiamo lavorando.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 495,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00040.int00040"
   },
@@ -737,7 +992,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, l'Italia è la culla del diritto, è la Patria di Cesare Beccaria e l'azione del Governo è sempre orientata al rispetto ed alla tutela del diritto nazionale, internazionale e comunitario. Il garantismo ispira il mio e il nostro agire per quanto riguarda il rispetto dei diritti dei detenuti. […]",
+   "sunto": "Il giorno 14 febbraio 2023 si è svolta la prima udienza davanti al giudice per le indagini preliminari, a cui ha assistito anche un funzionario dell'ambasciata, che ha incontrato la signora Salis e il suo legale.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 3238,
    "url": "https://www.camera.it/leg19/410?idSeduta=0241&tipo=stenografico#sed0241.stenografico.tit00040.sub00010.int00020"
   },
@@ -750,7 +1011,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, per fare in modo che il detenuto in attesa di giudizio possa stare nell'ambasciata d'Italia in qualsiasi Paese del mondo c'è bisogno che, pur essendo agli arresti domiciliari, non possa prendere visione o possesso della documentazione riservata del Ministero degli Affari esteri, cosa che nessun cittadino italiano può fare . […]",
+   "sunto": "Diverso appare il caso della signora Salis in cui l'Italia non contesta, ne può contestare la giurisdizione ungherese. […] Il collega Nordio ha, quindi, nuovamente prospettato al signor Salis l'opportunità che il difensore ungherese presenti un'istanza per la concessione degli arresti domiciliari in Ungheria, unico mezzo per consentirne l'esecuzione in Italia.",
+   "temi": [
+    "Sanità",
+    "Unione europea",
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1025,
    "url": "https://www.camera.it/leg19/410?idSeduta=0241&tipo=stenografico#sed0241.stenografico.tit00040.sub00010.int00070"
   },
@@ -763,7 +1031,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'approvvigionamento energetico è cruciale per lo sviluppo del nostro Paese e di tutto il Mediterraneo, e la presenza dell'ENI è importante. L'azienda è quotata in Borsa e opera secondo le regole del mercato. […]",
+   "sunto": "Alla scadenza fissata, luglio 2023, un consorzio, che comprende ENI e altri 2 operatori, ha presentato offerte per 2 zone esplorative fra le 4 messe in gara. […] A fine ottobre il Governo israeliano ha comunicato l'assegnazione della cosiddetta zona G a un consorzio che comprende ENI e altri 2 operatori internazionali.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00030.sub00020.int00040"
   },
@@ -776,7 +1047,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. La priorità del Governo italiano è chiara: fare tutto ciò che è possibile per alleviare le sofferenze della popolazione civile di Gaza. La situazione umanitaria nella Striscia si fa sempre più drammatica e il popolo palestinese sta pagando il prezzo della brutale aggressione di Hamas che degli innocenti continua a farsi scudo. […]",
+   "sunto": "Di fronte all'aggravarsi della crisi umanitaria, abbiamo deciso di incrementare il nostro contributo di 10 milioni di euro, che si aggiungono ai 10 milioni già stanziati a dicembre per la popolazione civile palestinese.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa"
+   ],
    "parole": 425,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00030.sub00030.int00040"
   },
@@ -789,7 +1064,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Giovedì scorso, nella mia informativa alla Camera, ho sottolineato che il Governo si è adoperato fin dall'inizio a tutela della dignità e dei diritti fondamentali della signora Salis. Mi sembra che questo percorso, grazie anche al lavoro puntuale della nostra ambasciata a Budapest, stia dando i suoi frutti. […]",
+   "sunto": "Noi non possiamo chiedere l'estradizione della signora Salis in quanto l'eventuale reato commesso dalla cittadina italiana è stato commesso all'estero, quindi non è possibile chiedere l'estradizione. […] L'ambasciatore ha confermato alle autorità ungheresi la priorità che la tutela della sicurezza della signora Salis riveste per il Governo italiano.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 554,
    "url": "https://www.camera.it/leg19/410?idSeduta=0244&tipo=stenografico#sed0244.stenografico.tit00030.sub00040.int00040"
   },
@@ -802,7 +1080,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Onorevoli colleghi, come è mio costume, ho sempre cercato e cerco anche questa volta di condividere con il Parlamento le motivazioni che hanno indotto il Governo a promuovere le due nuove missioni. È l'undicesima volta, onorevole Quartapelle, che sono in un'Aula parlamentare a parlare di questioni che riguardano il Medio Oriente e la Striscia di Gaza. […]",
+   "sunto": "A febbraio, come ho subito riferito al Parlamento, abbiamo stanziato altri 10 milioni di euro, destinati, appunto, alle Agenzie del polo ONU di Roma, all'Organizzazione mondiale della sanità, all'Agenzia umanitaria dell'Unione europea, ad organizzazioni della società civile.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 3360,
    "url": "https://www.camera.it/leg19/410?idSeduta=0256&tipo=stenografico#sed0256.stenografico.tit00040.sub00030.int00020"
   },
@@ -815,7 +1098,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, a oltre 5 mesi dall'inizio del conflitto, la situazione a Gaza, purtroppo, assume i contorni di una catastrofe umanitaria. L'Italia è sempre stata in prima linea nel portare aiuto alla popolazione civile e ne sono testimonianza i voli umanitari con 16 tonnellate di beni, molti palestinesi curati, come ha ricordato l'interrogante, sulla nave Vulcano , le decine di bambini accolti nei nostri […]",
+   "sunto": "L'Italia è sempre stata in prima linea nel portare aiuto alla popolazione civile e ne sono testimonianza i voli umanitari con 16 tonnellate di beni, molti palestinesi curati, come ha ricordato l'interrogante, sulla nave Vulcano , le decine di bambini accolti nei nostri migliori ospedali pediatrici.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa"
+   ],
    "parole": 416,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00070.int00040"
   },
@@ -828,7 +1115,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, la posizione del Governo è chiara. Chiediamo con forza un immediato cessate il fuoco per consentire un maggiore e più ordinato afflusso di aiuti, in linea con le risoluzioni del Consiglio di sicurezza delle Nazioni Unite e lo abbiamo fatto anche in funzione di Presidenza del G7, perché, in occasione del primo G7, convocato da me a Monaco, è stato elaborato un documento nel quale si chiedeva […]",
+   "sunto": "Chiediamo con forza un immediato cessate il fuoco per consentire un maggiore e più ordinato afflusso di aiuti, in linea con le risoluzioni del Consiglio di sicurezza delle Nazioni Unite e lo abbiamo fatto anche in funzione di Presidenza del G7, perché, in occasione del primo G7, convocato da me…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 523,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00080.int00040"
   },
@@ -841,7 +1132,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'Egitto è un partner ineludibile per il ruolo che svolge nel Mediterraneo, su temi di importanza strategica, di energia, di sicurezza, nel conflitto mediorientale e per quanto riguarda il tema delle migrazioni. […]",
+   "sunto": "L'Egitto è un partner ineludibile per il ruolo che svolge nel Mediterraneo, su temi di importanza strategica, di energia, di sicurezza, nel conflitto mediorientale e per quanto riguarda il tema delle migrazioni.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 440,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00090.int00040"
   },
@@ -854,7 +1148,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. La prima ministeriale esteri sotto la Presidenza italiana ha consentito, come diceva l'interrogante, un dialogo approfondito sui principali temi di attualità internazionale. I risultati sono le tre dichiarazioni congiunte dedicate alla situazione in Medioriente, al sostegno all'Ucraina e alle principali sfide globali. […]",
+   "sunto": "La prima ministeriale esteri sotto la Presidenza italiana ha consentito, come diceva l'interrogante, un dialogo approfondito sui principali temi di attualità internazionale.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 532,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00090.int00060"
   },
@@ -867,7 +1165,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie signor Presidente. La legge sulle influenze straniere è stata approvata ieri dal Parlamento georgiano. Verrà quindi trasmessa alla Presidente della Repubblica, che ha due settimane per promulgarla o porre il veto accompagnato, obbligatoriamente, da proposte di modifica. […]",
+   "sunto": "Le aperture ventilate dalla dirigenza georgiana sono anche frutto di una sensibilizzazione nei confronti del Governo, del Parlamento e del partito di maggioranza svolta da diversi capi-missione dell'Unione europea a Tbilisi.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 415,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00020.int00040"
   },
@@ -880,7 +1181,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signora Presidente. La sicurezza nel Mar Rosso rappresenta una priorità assoluta per l'Italia. La libertà degli scambi e la sicurezza della navigazione sono beni di tutti e dobbiamo difenderli con l'impegno della comunità internazionale. […]",
+   "sunto": "L'Italia è la principale beneficiaria dell'operazione Aspides , lo dimostrano i numeri delle oltre 120 navi mercantili, accompagnate dalle unità partecipanti alle operazioni: il 17 per cento sono di bandiera italiana. […] La missione Aspides è un primo passo, come dicevo, verso la difesa europea e dimostra come questo obiettivo strategico dell'Europa possa avere un impatto concreto e immediato per cittadini ed imprese.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 371,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00030.int00040"
   },
@@ -893,7 +1197,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signora Presidente. Mi consenta, prima di rispondere all'interrogazione, di annunciare la decisione del tribunale del riesame ungherese che ha concesso gli arresti domiciliari a Ilaria Salis, che quindi potrà essere ai domiciliari in Ungheria . Anche a New York l'Italia ha tenuto una posizione di grande equilibrio, abbiamo la presidenza di turno del G7. […]",
+   "sunto": "L'astensione dell'Italia non è una presa di distanza dalla necessità di creare uno Stato palestinese; è, piuttosto, un segnale dell'urgente necessità di un reale e credibile orizzonte politico-negoziale. […] L'Italia sostiene il nuovo Governo dell'Autorità palestinese e lavora per il suo rafforzamento.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 513,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00040.int00040"
   },
@@ -906,7 +1213,11 @@
    "categoria": "Altri argomenti",
    "ruolo": "Vicepresidente del Consiglio dei ministri",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Da questi banchi vorrei ricordare l'azione di governo di Silvio Berlusconi, che è stato il Presidente del Consiglio più longevo nella storia della Repubblica. Ricordo anche, da Ministro degli Affari esteri, il suo ruolo svolto come capo della nostra diplomazia, azione sempre svolta a sostegno della pace, guardando sempre al continente africano con uno sguardo quasi anticipatorio. […]",
+   "sunto": "Se il giudizio morale era così negativo, perché accettare di stare insieme (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al Centro)-MAIE – I deputati dei gruppi…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 938,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00100.int00300"
   },
@@ -919,7 +1230,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, voglio intanto ringraziare tutti i parlamentari, di maggioranza e opposizione, che si sono espressi, anche nelle ultime ore, in sintonia con la linea del Governo sulla situazione in Venezuela, a conferma della posizione unitaria in favore di elezioni libere, credibili e trasparenti in questo Paese, dove vive la terza più grande comunità italiana. […]",
+   "sunto": "A livello internazionale, sono state registrate serie perplessità sul regolare svolgimento delle elezioni, l'ho detto già dalle prime ore di lunedì: i risultati annunciati non sembrano rispecchiare la reale volontà del popolo venezuelano.",
+   "temi": [],
    "parole": 466,
    "url": "https://www.camera.it/leg19/410?idSeduta=0337&tipo=stenografico#sed0337.stenografico.tit00050.sub00020.int00040"
   },
@@ -932,7 +1244,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie. Il Governo ha a cuore l'accertamento della verità sulla tragica imboscata che ha tolto la vita all'ambasciatore Luca Attanasio, al carabiniere scelto, medaglia d'oro al valor militare, Vittorio Iacovacci e al signor Mustapha Milambo. […]",
+   "sunto": "Come Ministero, abbiamo facilitato l'attività investigativa della procura di Roma nei suoi risvolti internazionali, mediante un'opportuna sensibilizzazione nei confronti delle Nazioni Unite e delle autorità di Kinshasa, così come abbiamo contribuito all'accertamento svolto dall'autorità…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 306,
    "url": "https://www.camera.it/leg19/410?idSeduta=0337&tipo=stenografico#sed0337.stenografico.tit00050.sub00030.int00040"
   },
@@ -945,7 +1260,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Fratoianni. Risponderò naturalmente rispetto all'aggiornamento dell'interrogazione, che è legata agli eventi drammatici di queste ultime ore. Noi stiamo continuando a lavorare in queste ore per scongiurare un'estensione del conflitto, alla luce del susseguirsi degli eventi. […]",
+   "sunto": "Lo sforzo di mediazione politica è pari al nostro impegno umanitario: dall'evacuazione della Striscia di oltre 150 palestinesi, in particolare bambini feriti e bisognosi di cure mediche, all'attuazione dell'iniziativa Food for Gaza .",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 550,
    "url": "https://www.camera.it/leg19/410?idSeduta=0337&tipo=stenografico#sed0337.stenografico.tit00050.sub00040.int00040"
   },
@@ -958,7 +1276,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'attenzione mia e del Governo sulla crisi in Venezuela continua a essere altissima. Come ho avuto modo di riferire più volte in Parlamento nelle ultime settimane, ci siamo attivati fin da subito con i nostri partner internazionali per difendere la libertà di voto e richiamare Caracas al rispetto delle regole e dei diritti. […]",
+   "sunto": "La posizione dell'Italia, che ho voluto promuovere anche in ambito G7, forte del mandato unitario ricevuto dal Parlamento, è chiara: l'esito elettorale proclamato dalle autorità venezuelane non ha alcuna legittimità.",
+   "temi": [],
    "parole": 435,
    "url": "https://www.camera.it/leg19/410?idSeduta=0344&tipo=stenografico#sed0344.stenografico.tit00080.sub00030.int00040"
   },
@@ -971,7 +1290,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Fin dall'inizio della crisi, la tutela degli oltre 160.000 connazionali residenti in Venezuela è sempre stata la nostra priorità. Ricordo che si tratta della terza comunità italiana più grande nel mondo, che dalle elezioni di fine luglio vive in un clima di crescente repressione e intimidazione. […]",
+   "sunto": "Fin dall'inizio della crisi, la tutela degli oltre 160.000 connazionali residenti in Venezuela è sempre stata la nostra priorità. […] Sulla base delle richieste di assistenza pervenute dai familiari dall'inizio della crisi, risultano attualmente detenuti in Venezuela 8 doppi cittadini italo-venezuelani.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0344&tipo=stenografico#sed0344.stenografico.tit00080.sub00040.int00040"
   },
@@ -984,7 +1306,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'Italia, come sapete, è parte dello Statuto di Roma e rispetta gli obblighi derivanti dal suo impegno verso la giustizia internazionale. Riconosciamo l'importanza della Corte penale internazionale come istituzione indipendente. Abbiamo preso atto della sua decisione di emettere un mandato di arresto nei confronti del Premier israeliano Netanyahu e dell'ex Ministro della Difesa Gallant. […]",
+   "sunto": "L'Italia, come sapete, è parte dello Statuto di Roma e rispetta gli obblighi derivanti dal suo impegno verso la giustizia internazionale. […] Per questo ribadiamo che il ruolo della Corte penale internazionale deve rimanere esclusivamente giuridico, le sue decisioni non possono diventare strumenti che complicano la ricerca di una soluzione pacifica ai conflitti.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 311,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00010.int00040"
   },
@@ -997,7 +1322,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ho appena avuto modo di esporre, l'Italia ribadisce il proprio sostegno al lavoro della Corte penale internazionale, riconoscendone l'importanza come istituzione giuridica indipendente. Il Governo rispetta la Corte e la sostiene, ma è anche convinto che debba svolgere un ruolo giuridico e non politico. […]",
+   "sunto": "Come ho appena avuto modo di esporre, l'Italia ribadisce il proprio sostegno al lavoro della Corte penale internazionale, riconoscendone l'importanza come istituzione giuridica indipendente.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00020.int00040"
   },
@@ -1010,7 +1338,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Come ho già sottolineato in risposta alle interrogazioni precedenti, l'Italia ribadisce il proprio sostegno alla Corte penale internazionale che deve esercitare un ruolo - insisto - giuridico e non politico. La situazione in Medio Oriente ci impone di intensificare il dialogo per sostenere gli sforzi di mediazione. […]",
+   "sunto": "L'accordo per il cessate il fuoco raggiunto ieri in Libano offre una concreta opportunità per una soluzione duratura al conflitto tra Israele e Hezbollah. […] Ma, come abbiamo ribadito anche ieri al G7, non si possono mettere sullo stesso piano Hamas e Israele: non è corretto sul piano giuridico ed ancor meno sul piano morale e politico.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 489,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00030.int00040"
   },
@@ -1023,7 +1354,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sin dall'inizio del mio mandato ho avviato una forte azione di diplomazia della crescita. Una strategia a 360 gradi di promozione dell' export e dell'internazionalizzazione dei territori. A dicembre terremo gli Stati generali dell' export - che quest'anno ho voluto organizzare a Milano - come momento chiave della riunione annuale dei nostri ambasciatori. […]",
+   "sunto": "Una strategia a 360 gradi di promozione dell' export e dell'internazionalizzazione dei territori. […] Lavoreremo con la nuova amministrazione americana con atteggiamento pragmatico, costruttivo e dialogante, mantenendo la compattezza del fronte europeo: sono fiducioso che lavoreremo bene con la nuova amministrazione come abbiamo lavorato bene con quella esistente.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 494,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00040.int00040"
   },
@@ -1036,7 +1370,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Fin dall'inizio della nostra Presidenza abbiamo voluto promuovere un nuovo modello di G7, sempre più aperto alla costruzione di partenariati politici innovativi. In un mondo interconnesso, segnato da crisi tra loro strettamente legate, il G7 non può essere una fortezza, ma deve saper ascoltare, per trasmettere meglio i propri valori. […]",
+   "sunto": "Questa visione si è riflessa, al Vertice di Borgo Egnazia e nelle varie riunioni ministeriali, nella costruzione di nuovi partenariati con il Medio Oriente, l'Ucraina, l'Indo-Pacifico, l'Africa e l'America Latina.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 500,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00050.int00040"
   },
@@ -1049,7 +1387,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Sono molto lieto di poter condividere con voi oggi, in quest'Aula, la gioia per la liberazione di Cecilia Sala e sono orgoglioso anche del grande lavoro di squadra - insisto, di squadra - che ha portato a questo risultato. […]",
+   "sunto": "A tale riguardo, voglio comunicare a quest'Aula che venerdì mi recherò in missione a Damasco (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia). […] L'Italia continuerà ad essere in prima linea per la stabilità della Siria e dell'intero Medio Oriente (Applausi dei deputati dei gruppi Forza Italia-Berlusconi Presidente-PPE e Fratelli d'Italia).",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 626,
    "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00060.sub00010.int00040"
   },
@@ -1062,7 +1404,10 @@
    "categoria": "Altri argomenti",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, cari familiari dell'ambasciatore Attanasio e del carabiniere scelto Iacovacci, oggi ci ritroviamo a ricordare due esemplari servitori dello Stato, che hanno scelto di dedicare la loro vita al servizio delle istituzioni. […]",
+   "sunto": "Cari familiari dell'ambasciatore Attanasio e del carabiniere scelto Iacovacci, oggi ci ritroviamo a ricordare due esemplari servitori dello Stato, che hanno scelto di dedicare la loro vita al servizio delle istituzioni.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 570,
    "url": "https://www.camera.it/leg19/410?idSeduta=0434&tipo=stenografico#sed0434.stenografico.tit00050.int00220"
   },
@@ -1075,7 +1420,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Ringrazio tutti i gruppi parlamentari che, con la loro iniziativa, ci permettono di approfondire oggi, in quest'Aula, il tema cruciale dei diritti delle donne, un ambito prioritario dell'azione, anche internazionale, del Governo. L'Afghanistan ne costituisce uno degli esempi più evidenti. […]",
+   "sunto": "Alla Conferenza di Doha dello scorso anno abbiamo annunciato un pacchetto umanitario in Afghanistan per un totale di 16,5 milioni di euro per interventi anche a favore delle donne. […] Dobbiamo sederci su quelle panchine e dare il nostro sostegno alle donne contro la violenza e contro ogni forma di discriminazione, a cominciare dall'Afghanistan .",
+   "temi": [],
    "parole": 493,
    "url": "https://www.camera.it/leg19/410?idSeduta=0440&tipo=stenografico#sed0440.stenografico.tit00090.sub00010.int00040"
   },
@@ -1088,7 +1434,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Ci troviamo ad operare in un quadro internazionale particolarmente complesso anche in queste ultime ore, la sfida dei dazi mette alla prova i rapporti commerciali. Con il Presidente del Consiglio siamo in costante contatto con la Commissione europea e il Presidente Meloni sente regolarmente, anche su queste questioni, la Presidente von der Leyen. […]",
+   "sunto": "Per questo motivo, ho voluto lanciare un articolato Piano d'azione del Governo per rafforzare le nostre esportazioni, focalizzandoci su tutti i mercati più promettenti; uno strumento strategico per sostenere ancora di più le eccellenze del saper fare italiano sui mercati globali.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0461&tipo=stenografico#sed0461.stenografico.tit00090.sub00010.int00040"
   },
@@ -1101,7 +1451,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Il Governo è in prima linea nell'impegno prioritario per il cessate il fuoco, per arrivare alla liberazione di tutti gli ostaggi ancora nelle mani di Hamas e per favorire l'accesso dei beni umanitari nella Striscia di Gaza. […]",
+   "sunto": "Il Governo è in prima linea nell'impegno prioritario per il cessate il fuoco, per arrivare alla liberazione di tutti gli ostaggi ancora nelle mani di Hamas e per favorire l'accesso dei beni umanitari nella Striscia di Gaza.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 596,
    "url": "https://www.camera.it/leg19/410?idSeduta=0461&tipo=stenografico#sed0461.stenografico.tit00090.sub00020.int00040"
   },
@@ -1114,7 +1468,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Come Ministro degli Affari esteri e della cooperazione internazionale ho voluto mettere la diplomazia sempre più al servizio della crescita del Paese, in linea con le esigenze del mondo produttivo. […]",
+   "sunto": "La Via del cotone, un corridoio economico e logistico che dall'Italia arriva in India passando per il Medio Oriente, rappresenta una straordinaria opportunità per il nostro Paese.",
+   "temi": [],
    "parole": 380,
    "url": "https://www.camera.it/leg19/410?idSeduta=0461&tipo=stenografico#sed0461.stenografico.tit00090.sub00030.int00040"
   },
@@ -1127,7 +1482,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Le chiedo, prima di intervenire, di far rispettare da quest'Aula un minuto di silenzio per rendere omaggio alle vittime palestinesi e israeliane della guerra di Gaza. Grazie, Presidente. […]",
+   "sunto": "Food for Gaza infatti ha il pieno sostegno di Israele e dell'Autorità nazionale palestinese. […] E voglio ribadirlo anche oggi in quest'Aula con la massima chiarezza: l'espulsione dei palestinesi da Gaza non è e non sarà mai un'opzione accettabile (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 3285,
    "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00030.sub00010.int00020"
   },
@@ -1140,7 +1502,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Le nostre aziende si confrontano oggi con un contesto internazionale complesso e in rapida evoluzione, segnato anche dalla sfida dei dazi. Nell'ambito del negoziato tra Stati Uniti e Unione europea, insieme al Presidente del Consiglio sono in costante contatto con gli altri Governi ai vertici della Commissione europea. […]",
+   "sunto": "E sono costantemente impegnato, da Ministro del commercio internazionale, a far sì che l'Italia possa essere sempre più una potenza dell' export e raggiungere i 700 miliardi di euro totali di esportazioni entro la fine della legislatura.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 346,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00010.int00040"
   },
@@ -1153,7 +1518,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Fin dall'inizio del mio mandato, anche come Ministro del commercio internazionale, ho promosso un'intensa azione di diplomazia della crescita per sostenere le nostre imprese sui mercati esteri, favorire l' export e l'internazionalizzazione dei nostri territori. […]",
+   "sunto": "Fin dall'inizio del mio mandato, anche come Ministro del commercio internazionale, ho promosso un'intensa azione di diplomazia della crescita per sostenere le nostre imprese sui mercati esteri, favorire l' export e l'internazionalizzazione dei nostri territori.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00020.int00040"
   },
@@ -1166,7 +1534,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. La Striscia di Gaza continua purtroppo ad essere teatro di un conflitto devastante, che restituisce ogni giorno immagini di distruzione e sofferenza. In un contesto segnato da una costante sfiducia tra israeliani e palestinesi, acuita da quasi due anni di guerra, servono dialogo, lucidità e visione strategica. […]",
+   "sunto": "Anche grazie alla collaborazione delle autorità israeliane, l'Italia ha potuto, inoltre, essere in prima linea nel sostegno alla popolazione palestinese. […] Lo dimostra il successo dell'iniziativa Food for Gaza, lo dimostrano le evacuazioni di quasi mille persone, tra cui oltre 150 bambini, portate avanti dall'Italia, seconda, in questo, solo ai Paesi Arabi, Egitto e Qatar.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 530,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00030.int00040"
   },
@@ -1179,7 +1551,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Il Governo considera la salute una priorità della propria azione a livello internazionale. Ecco perché ho voluto mettere al centro delle nostre iniziative anche questo settore cruciale, con alcune linee direttrici ben precise: focus sull'Africa, tutela della vita umana, in particolare quella dei bambini, promozione di partenariati pubblico-privati, coinvolgimento attivo del sistema It […]",
+   "sunto": "Come segno tangibile della nostra azione a favore della salute globale, ho recentemente annunciato un nuovo contributo italiano di 250 milioni di euro a favore del GAVI, l'alleanza per i vaccini, che ha già vaccinato oltre 1 miliardo e 100 milioni di bambini e salvato più di 18 milioni di vite.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00040.int00040"
   },
@@ -1192,7 +1568,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Voglio rassicurare gli onorevoli interroganti che la posizione del Governo è univoca. Noi siamo consapevoli della grande importanza politica ed economica dell'accordo di partenariato tra l'Unione europea e il Mercosur. […]",
+   "sunto": "Noi siamo consapevoli della grande importanza politica ed economica dell'accordo di partenariato tra l'Unione europea e il Mercosur. […] Come ribadito da ultimo al nuovo Ministro degli Esteri dell'Uruguay, Lubetkin, in visita a Roma, l'Italia vuole essere la voce in Europa dell'America Latina, sempre tenendo naturalmente conto degli interessi dei nostri settori produttivi come quello dell'agricoltura.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 388,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00050.int00040"
   },
@@ -1205,7 +1584,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, è un'opportunità, questa, di offrire un aggiornamento, alla ripresa dei lavori della Camera, sui temi che sono al centro della nostra azione diplomatica, dai conflitti in Medio Oriente e in Ucraina alle sfide poste dai dazi, che stanno cambiando il panorama del commercio mondiale. […]",
+   "sunto": "Abbiamo favorito la decisione del Consiglio di sicurezza dell'ONU per rinnovare il mandato di UNIFIL fino a fine 2026; rimarrà la missione bilaterale per la formazione dell'esercito libanese, in ogni caso. […] L'obiettivo è quello di garantire tutti insieme la sicurezza dell'Ucraina una volta raggiunta la pace.",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 4379,
    "url": "https://www.camera.it/leg19/410?idSeduta=0528&tipo=stenografico#sed0528.stenografico.tit00020.sub00010.int00020"
   },
@@ -1218,7 +1605,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, ho accolto anche questa volta con piacere l'invito a venire a riferire in Aula sulla situazione del Medio Oriente. Come in tante altre occasioni, anche oggi considero il confronto parlamentare non come un semplice riconoscimento delle richieste dell'opposizione, ma l'occasione per una riflessione che deve essere comune su un tema, come la politica estera, sul quale una g […]",
+   "sunto": "Questa terribile tragedia è nata il 7 ottobre di due anni fa dall'aggressione terroristica orrenda, vile, rivolta contro la parte più pacifica della popolazione civile di Israele, proprio contro la parte della popolazione più incline a dialogare e a collaborare con la gente di Gaza.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 2780,
    "url": "https://www.camera.it/leg19/410?idSeduta=0541&tipo=stenografico#sed0541.stenografico.tit00020.sub00010.int00020"
   },
@@ -1231,7 +1623,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signora Presidente. Io voglio ribadire, ancora una volta, l'impegno del Governo a sostegno delle iniziative degli Stati Uniti, del piano proposto a Israele, ma che ha avuto già il consenso dell'Autorità nazionale palestinese e di tanti altri Paesi. […]",
+   "sunto": "Quando ieri, di fronte alle telecamere, questi signori e queste ragazze, che venivano da Gaza, hanno ringraziato il Governo italiano per tutto ciò che ha fatto per il popolo palestinese questo conta più (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza…",
+   "temi": [
+    "Esteri e difesa",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 2209,
    "url": "https://www.camera.it/leg19/410?idSeduta=0541&tipo=stenografico#sed0541.stenografico.tit00020.sub00040.int00020"
   },
@@ -1244,7 +1641,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio signor Presidente. Onorevoli deputati, fra le tante occasioni nelle quali ho avuto l'onore di riferire alle Aule e alle Commissioni parlamentari, è forse la prima volta, in questi anni turbolenti, che posso condividere con voi un sentimento di sollievo e di speranza per il futuro. […]",
+   "sunto": "È infatti cruciale consolidare ora le condizioni perché la pace resista, nella prospettiva di due Stati che convivono in pace e sicurezza. […] Già dallo scorso anno abbiamo finanziato con 5 milioni la pianificazione per la ricostruzione da parte dell'Autorità nazionale palestinese, mettendo a disposizione le eccellenze dell'università di architettura di Venezia.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 3025,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00020.sub00010.int00020"
   },
@@ -1257,7 +1660,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Rafforzare l'attrattività internazionale dell'Italia è una priorità strategica per il futuro del Paese, su cui il Governo è fortemente impegnato. L'attrazione del capitale umano è una delle componenti principali della diplomazia della crescita. […]",
+   "sunto": "Rafforzare l'attrattività internazionale dell'Italia è una priorità strategica per il futuro del Paese, su cui il Governo è fortemente impegnato.",
+   "temi": [],
    "parole": 455,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00010.int00040"
   },
@@ -1270,7 +1674,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. L'Unione europea è insieme al rapporto transatlantico uno dei cardini della politica estera di questo Governo, perché dall'Europa provengono la sicurezza e il benessere dei nostri cittadini. […]",
+   "sunto": "L'Unione europea è insieme al rapporto transatlantico uno dei cardini della politica estera di questo Governo, perché dall'Europa provengono la sicurezza e il benessere dei nostri cittadini.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 441,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00020.int00040"
   },
@@ -1283,7 +1692,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Come ha sottolineato l'onorevole interrogante, l'Africa rappresenta una priorità strategica assoluta per i nostri interessi nazionali, per la sicurezza dell'Europa e per gli equilibri globali. […]",
+   "sunto": "L'Italia vuole essere sempre più la voce dell'Africa in Europa e lavorare con i partner africani sui tanti temi di interesse comune: i flussi migratori, la lotta al terrorismo, la sicurezza energetica e alimentare ma anche crescita e nuove opportunità economiche.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 480,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00030.int00060"
   },
@@ -1296,7 +1708,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. A due anni e mezzo dallo scoppio della guerra civile, purtroppo la situazione umanitaria in Sudan è sempre più drammatica, una crisi che il Governo ha sempre seguito fin dall'inizio con la massima attenzione. […]",
+   "sunto": "Per la crisi in Sudan abbiamo stanziato oltre 125 milioni di euro per interventi a sostegno dei servizi di base e per le comunità sudanesi nei Paesi confinanti.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 472,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00040.int00040"
   },
@@ -1309,7 +1724,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, sarebbe, di fronte a una tragedia come quella della notte di Capodanno, veramente burocratico e non sufficientemente rispettoso di quest'Aula e, soprattutto, rispettoso nei confronti delle vittime e dei feriti rileggere un intervento che ho già pronunciato nell'Aula del Senato. […]",
+   "sunto": "Devo dire che in quel momento mi sono sentito rappresentante non del Governo, ma di tutta l'Italia, visto il sostegno che ho avuto da tutti i leader politici italiani, a partire dal Presidente del Consiglio, passando ai leader dell'opposizione: l'onorevole Schlein lo ricorda bene, l'onorevole…",
+   "temi": [
+    "Sanità",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1725,
    "url": "https://www.camera.it/leg19/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00110.sub00010.int00020"
   },
@@ -1322,7 +1742,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, stamani sono atterrati, all'aeroporto di Ciampino, Andrea Trentini e Mario Burlo' . Li abbiamo accolti il Presidente del Consiglio ed io. Erano certamente in buone condizioni, anche psicologiche; ci hanno detto di non aver subito torture; certamente erano provati da mesi e mesi di carcere, ma, parlando con loro, anche lì, abbiamo visto - come mi ha detto Burlo' - che la […]",
+   "sunto": "Anche pochi giorni fa, nel corso dell'ultima riunione del G7 Esteri - era il giorno dell'Epifania -, ho ribadito nuovamente la priorità della stabilizzazione del Venezuela, cruciale anche per la presenza di una comunità di 170.000 connazionali e di oltre un milione di persone di origine italiana.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 1706,
    "url": "https://www.camera.it/leg19/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00120.sub00010.int00020"
   },
@@ -1335,7 +1760,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Bergamini, il tema delle materie prime critiche è essenziale per la competitività e la crescita di tutto il nostro tessuto produttivo. L'Italia è la seconda manifattura europea, la quarta potenza esportatrice al mondo, quindi abbiamo bisogno per le nostre imprese di catene di approvvigionamento sicure ed affidabili. […]",
+   "sunto": "Alla riunione ministeriale convocata dal Segretario di Stato Rubio, il 4 febbraio a Washington, a cui lei faceva riferimento, l'Italia ha avuto un ruolo da protagonista e ho espresso lì il nostro sostegno alla nuova alleanza di 55 Paesi sui minerali critici. […] Di queste potenzialità ho già discusso a Washington con le nostre imprese attive negli Stati Uniti e con tutte le imprese della filiera dei minerali critici.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 581,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00060.sub00010.int00060"
   },
@@ -1348,7 +1776,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Grazie, onorevole Della Vedova. L'Europa - lo ha detto anche lei - è a un punto di svolta. Le sfide che dobbiamo fronteggiare - la crescita, la competitività, l'Ucraina, il Medio Oriente, solo per citarne qualcuna - richiedono decisioni rapide ed efficaci. Dipende da noi europei avere il coraggio di far diventare il più grande mercato economico anche un protagonista politico. […]",
+   "sunto": "Quindi, io direi che in questo momento è fondamentale trovare il minimo comune denominatore che permetta agli Stati europei di trovare un accordo per fare tutto ciò che si può insieme, senza prima trovare nuovi sistemi di governance europea. […] Siamo in una fase nuova della storia europea e internazionale, di cui l'Italia è protagonista e vuole essere una delle locomotive dell'Unione europea.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 486,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00060.sub00020.int00040"
   },
@@ -1361,7 +1793,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Onorevole Lupi, le scuole cristiane in Terra Santa sono da sempre portatrici di dialogo e di pace in una regione lacerata dalle divisioni e martoriata da troppi conflitti. Sono un'eccellenza per la qualità dell'istruzione e per il modello di convivenza che esprimono. […]",
+   "sunto": "Onorevole Lupi, le scuole cristiane in Terra Santa sono da sempre portatrici di dialogo e di pace in una regione lacerata dalle divisioni e martoriata da troppi conflitti.",
+   "temi": [
+    "Esteri e difesa",
+    "Scuola e università"
+   ],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00060.sub00030.int00060"
   },
@@ -1374,7 +1810,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, siamo alla vigilia di nuove giornate cruciali per il futuro della Striscia di Gaza e del Medio Oriente. Per questo, con il Presidente del Consiglio, abbiamo ritenuto importante avere questa occasione di confronto con il Parlamento per riferire sull'azione che il Governo sta portando avanti nell'impegno senza sosta per la pace e la stabilità del Medio Oriente. […]",
+   "sunto": "Vorrebbe dire rinnegare il ruolo di primo piano che il nostro Paese ha svolto per il cessate il fuoco fin dall'inizio della crisi, sempre con l'obiettivo di arrivare a due Stati che convivono in pace e in sicurezza. […] Questo è il nostro impegno quotidiano, questo è l'impegno del Governo per la pace e la stabilità di Gaza e dell'intero Medio Oriente.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0617&tipo=stenografico#sed0617.stenografico.tit00030.sub00010.int00020"
   },
@@ -1387,7 +1830,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Io ho ascoltato molte critiche legittime, non condivisibili da parte mia e da parte del Governo, però il dibattito parlamentare serviva e serve anche a questo. Tuttavia, devo fare alcune precisazioni. […]",
+   "sunto": "Poi parteciperanno Paesi come la Romania, la Slovacchia, la Croazia, la Grecia e l'Austria (Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e Alleanza Verdi e Sinistra - Proteste di deputati dei gruppi Fratelli d'Italia e Forza Italia-Berlusconi…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1193,
    "url": "https://www.camera.it/leg19/410?idSeduta=0617&tipo=stenografico#sed0617.stenografico.tit00030.sub00040.int00020"
   },
@@ -1400,7 +1848,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Onorevoli deputati, a 72 ore dall'informativa che abbiamo reso alle Commissioni esteri e difesa di Camera e Senato, con il Ministro Crosetto abbiamo chiesto di tornare a riferire in quest'Aula sugli sviluppi della crisi che sta infiammando il Golfo e il Medio Oriente. Non siamo qui soltanto per un atto formale o solamente per rispondere doverosamente alle richieste del Parlamento. […]",
+   "sunto": "La task force Golfo dedicata all'assistenza dei connazionali, che ho voluto creare presso l'unità di crisi del Ministero degli Esteri, ha gestito ad oggi oltre 14.000 chiamate e diverse migliaia di contatti e-mail .",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2237,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00010.int00020"
   },
@@ -1413,7 +1867,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Per quanto riguarda la situazione internazionale, ricordo che già abbiamo detto molte cose lunedì scorso, quando immediatamente abbiamo dato la nostra disponibilità a riferire in Parlamento anche su quanto accaduto con l'attacco di aerei israeliani e statunitensi per colpire l'Iran. […]",
+   "sunto": "Lo abbiamo detto, ne abbiamo parlato a lungo, c'è stato un lungo dibattito, anche per quanto riguarda il diritto internazionale.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 899,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00040.int00020"
   },
@@ -1426,7 +1884,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Ho detto iraniani… Iraniani, scusate… Va bene, scusate il lapsus. Ho sbagliato. Ho sbagliato: errare humanum est (La deputata Boldrini: “Ma perseverare non tanto!” ) . Infatti, non ho mai perseverato io… Il fatto è che io riconosco quando commetto un errore, ce ne sono altri che gli errori non li riconoscono mai . È stato un errore di parola. […]",
+   "sunto": "Per quanto riguarda tutto il resto, noi continuiamo a lavorare perché, parlando con i nostri alleati, parlando con i nostri interlocutori europei e non, stiamo cercando di ridurre comunque i rischi anche per i nostri connazionali perché non dobbiamo dimenticare che sono circa 100.000 gli…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 614,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00040.int00210"
   },
@@ -1439,7 +1902,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Sulla risoluzione Boschi ed altri n. 6-00237 vi è parere contrario sulle premesse. Sull'impegno 1) vi è parere favorevole. Sull'impegno 2) il parere è favorevole, previa riformulazione con le parole “a continuare ad adottare ogni iniziativa”. Sull'impegno 3) il parere è favorevole, previa riformulazione “a continuare a sostenere”. […]",
+   "sunto": "Sull'impegno 2) il parere è favorevole, previa riformulazione con le parole “a continuare ad adottare ogni iniziativa”. […] Sull'impegno 3) il parere è favorevole, previa riformulazione “a continuare a sostenere”.",
+   "temi": [],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00040.int00600"
   },
@@ -1452,7 +1916,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Quanto sta avvenendo nel Golfo e nello Stretto di Hormuz evidenzia un punto fondamentale, cioè la fragilità delle principali arterie del commercio internazionale e le ripercussioni sulle nostre economie. Di fronte a questa crisi, il Governo è in prima linea nell'impegno per la de-escalation diplomatica e nel sostegno al nostro tessuto produttivo. […]",
+   "sunto": "Stiamo lavorando anche alla prossima edizione della Conferenza Nazionale dell' Export , preceduta da tre tappe di avvicinamento, al Nord, al Sud e al Centro: la prima sarà a Torino il 29 aprile, poi seguirà Bari a giugno e poi Roma ad ottobre.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 635,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00010.int00040"
   },
@@ -1465,7 +1933,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Il Governo segue con la massima attenzione la grave crisi politica, economica e sociale che sta attraversando Cuba. Negli ultimi 5 anni oltre un milione e mezzo di persone ha lasciato il Paese. È il segno questo, evidente, di una situazione non più sostenibile. […]",
+   "sunto": "L'impegno verso Cuba si inserisce nel quadro dell'attenzione prioritaria con cui il Governo segue l'America Latina. […] Anche per questo l'Italia ha designato il Sottosegretario uscente, Giorgio Silli, per l'incarico di segretario generale dell'Organizzazione internazionale italo-latina americana con l'obiettivo di rafforzare, ancora di più, i nostri legami politici ed economici con questa regione cruciale,…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 464,
    "url": "https://www.camera.it/leg19/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00060.sub00040.int00040"
   },
@@ -1478,7 +1949,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. Sin dalla sua presentazione al Parlamento israeliano, ho espresso la mia più profonda condanna per il disegno di legge che prevede un significativo ampliamento della possibilità di imporre la pena di morte in Israele. […]",
+   "sunto": "Sin dalla sua presentazione al Parlamento israeliano, ho espresso la mia più profonda condanna per il disegno di legge che prevede un significativo ampliamento della possibilità di imporre la pena di morte in Israele.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00060.sub00050.int00040"
   },
@@ -1491,7 +1966,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio, signor Presidente. La crisi del Golfo e la situazione nello Stretto di Hormuz hanno un impatto diretto sul sistema economico globale, quindi anche sul nostro Paese. La nostra economia - come lei ha sottolineato - è votata all' export e le tensioni commerciali e l'aumento del prezzo dell'energia sono sfide gravose per le famiglie e per le imprese. […]",
+   "sunto": "La nostra economia - come lei ha sottolineato - è votata all' export e le tensioni commerciali e l'aumento del prezzo dell'energia sono sfide gravose per le famiglie e per le imprese. […] Nel prosieguo del 2026 abbiamo in cantiere iniziative in tutti i continenti, dell'America Latina all'Africa, all'India.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 656,
    "url": "https://www.camera.it/leg19/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00060.sub00060.int00060"
   },
@@ -1504,7 +1984,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Purtroppo, l'appello lanciato dal Presidente del Consiglio italiano e da altri leader internazionali non ha avuto risposta positiva per quanto riguarda il Libano. Vi leggo la notizia che mi è appena giunta: c'è stato il più violento bombardamento israeliano dalla ripresa della guerra. Si parla di 150 aerei impegnati su tutto il Libano. […]",
+   "sunto": "Appena uscito da quest'Aula, chiederò al Ministero degli Affari esteri di chiedere informazioni immediate all'ambasciatore di Israele in Italia su ciò che è accaduto e che ha portato al danneggiamento di un mezzo militare italiano, per ribadire che i soldati italiani in Libano non si toccano .",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 468,
    "url": "https://www.camera.it/leg19/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00060.sub00070.int00060"
   },
@@ -1517,7 +2000,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'Italia è la seconda manifattura europea e la quarta potenza esportatrice al mondo. Negli ultimi 12 mesi, infatti, abbiamo, stabilmente, superato il Giappone: è un risultato straordinario che abbiamo ottenuto grazie a un'intensa strategia di diplomazia della crescita, che abbiamo messo al centro del mio mandato e del Piano per l' export , mirato a diversificare i mercati di sbocco per i no […]",
+   "sunto": "Negli ultimi 12 mesi, infatti, abbiamo, stabilmente, superato il Giappone: è un risultato straordinario che abbiamo ottenuto grazie a un'intensa strategia di diplomazia della crescita, che abbiamo messo al centro del mio mandato e del Piano per l' export , mirato a diversificare i mercati di…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00010.int00040"
   },
@@ -1530,7 +2016,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L' export è la colonna portante della nostra economia. Il Governo, infatti, l'ha posta al centro della propria azione, con un approccio basato su due pilastri: la diversificazione dei mercati e la creazione di nuovi strumenti di sostegno alle imprese esportatrici. I risultati ci danno ragione. Nel 2025, l' export ha raggiunto il record di 643 miliardi, in crescita del 3,3 per cento. […]",
+   "sunto": "A Bari, abbiamo organizzato oltre 500 incontri diretti tra imprese e istituzioni; abbiamo dedicato un focus specifico alle startup ; ho, inoltre, inaugurato la nuova sede Simest, che sarà un punto di riferimento per tutte le imprese pugliesi e per tante imprese del Mezzogiorno.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 654,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00020.int00040"
   },
@@ -1543,7 +2033,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "La ringrazio ancora, signor Presidente. L'intesa raggiunta nella notte di domenica tra Stati Uniti e Iran è uno sviluppo incoraggiante, che abbiamo accolto con favore e speranza. In un quadrante complesso come il Medio Oriente la prudenza ovviamente è d'obbligo, ma per la prima volta, dopo settimane di guerra e negoziati altalenanti, si intravede oggi un concreto spiraglio di pace. […]",
+   "sunto": "L'intesa raggiunta nella notte di domenica tra Stati Uniti e Iran è uno sviluppo incoraggiante, che abbiamo accolto con favore e speranza. […] Oggi parlerò anche con il Ministro degli Esteri iraniano Araghchi e gli confermerò il pieno sostegno del Governo al dialogo per trasformare l'intesa con gli Stati Uniti in una pace duratura.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 616,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00030.int00040"
   },
@@ -1556,7 +2049,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale.",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Il Governo ha sempre mantenuto con Israele un dialogo franco e fermo sui principi, in particolare sul rispetto della dignità della persona e dei diritti umani. Lo abbiamo fatto a Gaza, una tragedia che ha colpito profondamente le coscienze di tutti noi. […]",
+   "sunto": "Ho poi chiesto formalmente all'Alta rappresentante Kallas di portare in Consiglio Affari esteri la proposta di sanzioni contro Ben-Gvir.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 474,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00040.int00040"
   },
@@ -1569,7 +2066,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'America Latina è un quadrante sempre più strategico per gli equilibri globali e rappresenta una priorità della politica estera italiana sul piano politico ed economico. Ci uniscono profondi legami storici, culturali e umani, rafforzati dalla presenza di grandi comunità di origine italiana. […]",
+   "sunto": "Per questo, la scorsa settimana ho guidato in Argentina e Brasile una grande missione politica di sistema insieme al Ministro dell'Istruzione Valditara, a Confindustria, ad altre 100 imprese e a tutti gli attori del sistema Italia. […] Siamo stati il primo Paese europeo a organizzare una missione imprenditoriale nei due principali mercati del Mercosur dall'applicazione dell'Accordo.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 496,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00010.int00040"
   },
@@ -1582,7 +2082,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Di fronte a quanto sta accadendo in Cisgiordania, il Governo ha scelto la linea della fermezza e dell'azione. Abbiamo sempre condannato, anche in quest'Aula, l'espansione degli insediamenti e l'intensificarsi delle violenze dei coloni. Sono iniziative che alimentano l'instabilità e allontanano la prospettiva di una soluzione a due Stati. […]",
+   "sunto": "Un percorso politico che deve essere fondato sul rafforzamento dell'Autorità nazionale palestinese, sul disarmo di Hamas e sul reciproco riconoscimento, e che ribadirò anche la settimana prossima, a New York, all'Assemblea generale delle Nazioni Unite.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 475,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00020.int00040"
   },
@@ -1595,7 +2100,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signora Presidente. Ringrazio gli interroganti perché mi permettono di ribadire la posizione del Governo: l'espansione degli insediamenti è inaccettabile, nessuno può tollerare le violenze dei coloni, nessuno può giustificare iniziative che compromettono la prospettiva della soluzione a due Stati. La questione è capire quali strumenti utilizzare per incidere realmente su queste condotte. […]",
+   "sunto": "Continueremo a confrontarci con i partner dell'Unione per individuare nelle prossime riunioni ulteriori misure, compreso il tema degli insediamenti e delle attività economiche connesse, cercando le soluzioni più efficaci.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 379,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00030.int00040"
   },
@@ -1608,7 +2116,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La tutela dei diritti umani e delle libertà fondamentali è un pilastro della politica estera italiana. Il nostro Paese è da sempre impegnato a difendere la dignità di ogni persona, facendo leva su un dialogo sempre aperto, ma fermo ed esigente sui principi. È con questo spirito che seguiamo con la massima attenzione la situazione dei diritti umani in Iran. […]",
+   "sunto": "Non dimentichiamo la brutale repressione nel sangue da parte del regime delle proteste di tanti giovani scesi pacificamente in piazza a inizio anno per chiedere libertà, diritti e democrazia; una repressione che abbiamo condannato subito, con la massima fermezza.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 473,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00040.int00040"
   },
@@ -1621,7 +2132,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, Signor Presidente. Il sostegno alla Corte penale internazionale è una priorità centrale della nostra politica estera, è un impegno costante e trasversale che nasce dalla lezione degli orrori del Novecento e dalla volontà di impedire che simili atrocità si ripetano. […]",
+   "sunto": "Il sostegno alla Corte penale internazionale è una priorità centrale della nostra politica estera, è un impegno costante e trasversale che nasce dalla lezione degli orrori del Novecento e dalla volontà di impedire che simili atrocità si ripetano.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00020.int00040"
   },
@@ -1634,7 +2148,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro degli Affari esteri e della cooperazione internazionale",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. In un quadro internazionale complesso come quello attuale, la sicurezza delle forniture di materie prime, come ha detto l'interrogante, e la competitività del nostro export sono, per quanto ci riguarda, priorità strategiche che il Governo ha messo al centro della propria azione. […]",
+   "sunto": "In un quadro internazionale complesso come quello attuale, la sicurezza delle forniture di materie prime, come ha detto l'interrogante, e la competitività del nostro export sono, per quanto ci riguarda, priorità strategiche che il Governo ha messo al centro della propria azione. […] Ma, per la prima volta, abbiamo una politica estera delle materie prime critiche.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 593,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00030.int00060"
   }

@@ -130,9 +130,141 @@
     "al": "2022-07-12"
    }
   ],
-  "fonti_verificate": []
+  "fonti_verificate": [],
+  "temi": [
+   {
+    "tema": "Energia e carburanti",
+    "n": 74
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 47
+   },
+   {
+    "tema": "Unione europea",
+    "n": 14
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 12
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 8
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 6
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 4
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 3
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 1
+   },
+   {
+    "tema": "Giustizia",
+    "n": 1
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 1
+    },
+    {
+     "tema": "Unione europea",
+     "n": 1
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 1
+    }
+   ],
+   "2022": [
+    {
+     "tema": "Ambiente e clima",
+     "n": 4
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 2
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 2
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 19
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 13
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 5
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 18
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 11
+    },
+    {
+     "tema": "Unione europea",
+     "n": 4
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 13
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 10
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 2
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 21
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 8
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 4
+    }
+   ]
+  }
  },
- "recap": "Dal 5 novembre 2021 al 9 settembre 2026: 145 interventi nell'Aula della Camera (47.453 parole). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
+ "recap": "Dal 5 novembre 2021 al 9 settembre 2026: 145 interventi nell'Aula della Camera (47.453 parole). Gli argomenti che tornano più spesso nei suoi interventi: energia e carburanti (74), ambiente e clima (47), unione europea (14). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -156,7 +288,11 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli interroganti. Come ha già avuto modo di riferire il Ministro dello Sviluppo economico nell'Aula del Senato sulla medesima questione, durante un question time , nel corso degli ultimi mesi è emersa una grande preoccupazione per l'aumento globale dei prezzi delle materie prime sia per le imprese che per le famiglie. […]",
+   "sunto": "Come ha già avuto modo di riferire il Ministro dello Sviluppo economico nell'Aula del Senato sulla medesima questione, durante un question time , nel corso degli ultimi mesi è emersa una grande preoccupazione per l'aumento globale dei prezzi delle materie prime sia per le imprese che per le…",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 819,
    "url": "https://www.camera.it/leg18/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00040.sub00020.int00040"
   },
@@ -169,7 +305,10 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole Cillis per aver illustrato l'interpellanza. Naturalmente, parlo anche a nome del Ministero delle Politiche agricole, alimentari e forestali e in loro rappresentanza. Faccio preliminarmente presente che è interesse primario del Ministero delle Politiche agricole, alimentari e forestali favorire la disponibilità e l'utilizzo di prodotti e mezzi tecnici a ridotto impatto sull'ambiente quali, ad ese […]",
+   "sunto": "Naturalmente, parlo anche a nome del Ministero delle Politiche agricole, alimentari e forestali e in loro rappresentanza. […] Ciò detto, rilevo che, il 9 aprile scorso, la commissione, nell'esaminare un'istanza specifica relativa all'utilizzo dell'olio di girasole quale corroborante, ha ritenuto necessario richiedere un'integrazione documentale al dossier tecnico per superare le criticità riscontrate durante la…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 317,
    "url": "https://www.camera.it/leg18/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00040.sub00030.int00040"
   },
@@ -182,7 +321,11 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": "Vice Ministro dello Sviluppo economico.",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie agli onorevoli interpellanti. Con l'atto in esame gli onorevoli interpellanti hanno lamentato i disservizi relativi all'affidamento dei lavori per la manutenzione della rete e la realizzazione di infrastrutture di connessione nel territorio reatino, che si ripercuotono anche sui lavoratori. […]",
+   "sunto": "Infratel Italia ha tre rapporti contrattuali in essere con la società MVM Spa: due accordi quadro con un raggruppamento temporaneo di imprese - nel quale MVM Spa è impresa mandante - all'esito di procedura aperta ai sensi dell'articolo 60 del codice dei contratti pubblici, per la progettazione…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 608,
    "url": "https://www.camera.it/leg18/410?idSeduta=0709&tipo=stenografico#sed0709.stenografico.tit00040.sub00010.int00040"
   },
@@ -195,7 +338,8 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie agli onorevoli interroganti. Come ricorda l'onorevole interrogante, con decreto del 23 giugno 2021, il Ministero dello Sviluppo economico ha adottato le “Linee di intervento strategico sulla proprietà industriale per il triennio 2021-2023”. […]",
+   "sunto": "Come ricorda l'onorevole interrogante, con decreto del 23 giugno 2021, il Ministero dello Sviluppo economico ha adottato le “Linee di intervento strategico sulla proprietà industriale per il triennio 2021-2023”.",
+   "temi": [],
    "parole": 377,
    "url": "https://www.camera.it/leg18/410?idSeduta=0724&tipo=stenografico#sed0724.stenografico.tit00020.sub00010.int00020"
   },
@@ -208,7 +352,8 @@
    "categoria": "Interpellanze e interrogazioni",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie agli onorevoli interroganti. Gli onorevoli interroganti richiamano la modifica apportata dal decreto-legge n. 73 del 2021, grazie alla quale vengono stanziati, per l'anno 2022, 40 milioni di euro da destinare ad interventi per le imprese che svolgono attività prevalente nel settore della ristorazione, dell'organizzazione di feste e cerimonie, del catering , dei bar e del settore di gestion […]",
+   "sunto": "Nelle more della messa a punto delle regole operative per le misure in esame, sono intervenute due ulteriori iniziative legislative: il decreto-legge n. 152 del 2021, convertito con legge n. 233 del 2021, che ha introdotto una misura di aiuto a favore di imprese operanti nel settore della…",
+   "temi": [],
    "parole": 758,
    "url": "https://www.camera.it/leg18/410?idSeduta=0724&tipo=stenografico#sed0724.stenografico.tit00020.sub00020.int00020"
   },
@@ -221,7 +366,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Più che una replica è l'espressione, anche da parte del Governo, del ringraziamento ai membri della Commissione e, quindi, ai relatori Saltamartini e Benamati e alla presidente Nardi. Questo non solo a nome del Governo e a nome mio personale, ma anche della collega Caterina Bini che ha fatto coppia con me durante il percorso al Senato e in questo ramo del Parlamento, alla Camera, apprestandoci ora […]",
+   "sunto": "Nella relazione della relatrice, onorevole Saltamartini, sono indicate puntualmente la sostanza di questo provvedimento, che riguarda più temi, tante materie spinose, più Ministeri, tanti soggetti coinvolti, nonché la finalità del disegno di legge “Concorrenza”, che non è solo quella di essere…",
+   "temi": [],
    "parole": 266,
    "url": "https://www.camera.it/leg18/410?idSeduta=0731&tipo=stenografico#sed0731.stenografico.tit00030.sub00020.int00020"
   },
@@ -234,7 +380,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme.",
+   "sunto": "Parere conforme.",
+   "temi": [],
    "parole": 2,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00040.sub00030.int00040"
   },
@@ -247,7 +394,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme.",
+   "sunto": "Parere conforme.",
+   "temi": [],
    "parole": 2,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00040.sub00040.int00040"
   },
@@ -260,7 +408,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore.",
+   "sunto": "Parere conforme al relatore.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00040.sub00050.int00070"
   },
@@ -273,7 +422,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme alla relatrice.",
+   "sunto": "Parere conforme alla relatrice.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00040.sub00060.int00060"
   },
@@ -286,7 +436,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Conforme.",
+   "sunto": "Conforme.",
+   "temi": [],
    "parole": 1,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00040.sub00060.int00220"
   },
@@ -299,7 +450,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore.",
+   "sunto": "Parere conforme al relatore.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00010.int00060"
   },
@@ -312,7 +464,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore.",
+   "sunto": "Parere conforme al relatore.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00020.int00040"
   },
@@ -325,7 +478,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore.",
+   "sunto": "Parere conforme al relatore.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00040.int00040"
   },
@@ -338,7 +492,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Presidente, colleghi, siamo in presenza di una seduta con le Camere sciolte, con la dichiarazione di indizione delle elezioni nazionali, e il Governo è impegnato solo nell'ordinaria amministrazione, e quindi per gli adempimenti contrattuali. […]",
+   "sunto": "Siamo in presenza di una seduta con le Camere sciolte, con la dichiarazione di indizione delle elezioni nazionali, e il Governo è impegnato solo nell'ordinaria amministrazione, e quindi per gli adempimenti contrattuali.",
+   "temi": [],
    "parole": 89,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00300.int00020"
   },
@@ -351,7 +506,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io chiedo al Presidente se sia possibile avere dieci minuti di sospensione, così facciamo il punto proprio sulla parte procedurale, fermo il fatto politico che il Governo ha certamente difficoltà a svolgere alcune valutazioni.",
+   "sunto": "Io chiedo al Presidente se sia possibile avere dieci minuti di sospensione, così facciamo il punto proprio sulla parte procedurale, fermo il fatto politico che il Governo ha certamente difficoltà a svolgere alcune valutazioni.",
+   "temi": [],
    "parole": 36,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00300.int00140"
   },
@@ -364,7 +520,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'ordine del giorno n. 9/3634-A/1 Colletti può essere accolto come raccomandazione, altrimenti invito al ritiro o parere contrario. Gli ordini del giorno nn. 9/3634-A/2 Sapia e 9/3634-A/3 Massimo Enrico Baroni possono essere accolti come raccomandazione, altrimenti invito al ritiro. Sugli ordini del giorno n. 9/3634-A/4 Leda Volpi, n. 9/3634-A/5 Spessotto, n. 9/3634-A/7 Vianello e n. […]",
+   "sunto": "L'ordine del giorno n. 9/3634-A/1 Colletti può essere accolto come raccomandazione, altrimenti invito al ritiro o parere contrario. […] Sull'ordine del giorno n. 9/3634-A/27 Rixi il parere è favorevole, mentre è di invito al ritiro, altrimenti parere contrario sull'ordine del giorno n. 9/3634-A/28 Suriano.",
+   "temi": [],
    "parole": 238,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00300.int00210"
   },
@@ -377,7 +534,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "È accolto come raccomandazione e, quindi, di fatto, è un parere favorevole; altrimenti potremmo prevedere una riformulazione, ma si riapre - come valutazione complessiva - la necessità che non sono state date riformulazioni sugli ordini del giorno precedenti. La invito ad accettarla e valga a verbale anche la mia dichiarazione, dove certamente c'è una condivisione, avendolo accolto come raccomandazione.",
+   "sunto": "È accolto come raccomandazione e, quindi, di fatto, è un parere favorevole; altrimenti potremmo prevedere una riformulazione, ma si riapre - come valutazione complessiva - la necessità che non sono state date riformulazioni sugli ordini del giorno precedenti. […] La invito ad accettarla e valga a verbale anche la mia dichiarazione, dove certamente c'è una condivisione, avendolo accolto come raccomandazione.",
+   "temi": [],
    "parole": 59,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00300.int00310"
   },
@@ -390,7 +548,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Vice Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Erroneamente ho indicato come contrario il parere sull'ordine del giorno n. 9/3634-A/40 Bagnasco che, invece, è accolto come raccomandazione.",
+   "sunto": "Erroneamente ho indicato come contrario il parere sull'ordine del giorno n. 9/3634-A/40 Bagnasco che, invece, è accolto come raccomandazione.",
+   "temi": [],
    "parole": 19,
    "url": "https://www.camera.it/leg18/410?idSeduta=0732&tipo=stenografico#sed0732.stenografico.tit00060.sub00300.int00430"
   },
@@ -403,7 +562,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. Riguardo ai quesiti posti dagli onorevoli interroganti, mi preme sottolineare, come già ho avuto modo di dire anche ieri durante l'esposizione delle linee programmatiche del Ministero, che il dissesto idrogeologico è un'emergenza nazionale che lo Stato non ha saputo, purtroppo, affrontare efficacemente. […]",
+   "sunto": "In merito alle competenze attribuite in materia di dissesto idrogeologico, si ricorda che con il decreto-legge n. 86 del 2018 le attribuzioni sono state assegnate nuovamente al Ministero dell'Ambiente e della sicurezza energetica.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 536,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00080.sub00050.int00040"
   },
@@ -416,7 +578,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie agli interroganti. In merito a quanto rappresentato dagli onorevoli interroganti, innanzitutto, si precisa che per il contrasto al dissesto idrogeologico sul territorio nazionale, il Ministero dell'Ambiente e della sicurezza energetica provvede alla programmazione delle risorse finanziarie rese disponibili dai pertinenti capitoli dello Stato su proposta di regioni e provincie autonome. […]",
+   "sunto": "I criteri di priorità e le procedure finalizzate all'attribuzione delle risorse destinate al finanziamento degli interventi in materia di mitigazione del rischio idrogeologico sono stabiliti dal decreto del Presidente del Consiglio dei ministri del 27 settembre 2021.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 447,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00080.sub00060.int00040"
   },
@@ -429,7 +595,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Riguardo ai quesiti posti dagli onorevoli interroganti, si rappresenta quanto segue. Operare in maniera di garantire la salute del suolo è fondamentale per raggiungere la neutralità climatica. […]",
+   "sunto": "Nel 2021 si è proceduto a sottoporre alle autorità competenti il rapporto preliminare ed è stata svolta la fase di scoping della VAS, che si è conclusa il 3 giugno 2021 con la comunicazione all'autorità competente e la trasmissione del parere VIA-VAS.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00080.sub00070.int00040"
   },
@@ -442,7 +612,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In relazione a quanto esposto dagli onorevoli interroganti, atteso quanto già discusso fino ad ora, è opportuno ribadire l'impegno del Ministero nell'implementare gli strumenti per il contrasto al rischio idrogeologico. […]",
+   "sunto": "Un ulteriore strumento a supporto dell'azione di difesa del suolo è rappresentato dal Progetto Carg, ovvero cartografia geologica e geotematica; il progetto è coordinato dall'ISPRA e realizzato in collaborazione con le regioni, nonché con il supporto scientifico delle università e del CNR.",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00080.sub00080.int00040"
   },
@@ -455,7 +629,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie agli interroganti. Con riferimento alla questione, occorre premettere che la consultazione pubblica in materia di comunità di energia rinnovabile avviata il 28 novembre scorso ha ad oggetto l'adozione di un decreto, ai sensi dell'articolo 8 del decreto legislativo n. 199 del 2021, diverso e ulteriore rispetto al decreto che dovrà adottarsi in attuazione alla Missione 2 del PNRR. […]",
+   "sunto": "Con riferimento alla questione, occorre premettere che la consultazione pubblica in materia di comunità di energia rinnovabile avviata il 28 novembre scorso ha ad oggetto l'adozione di un decreto, ai sensi dell'articolo 8 del decreto legislativo n. 199 del 2021, diverso e ulteriore rispetto al…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti"
+   ],
    "parole": 352,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00080.sub00090.int00060"
   },
@@ -468,7 +646,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. Come è noto, la Sogin ha elaborato la proposta di Carta nazionale delle aree idonee, trasmessa a questo Ministero il 15 marzo 2022, ai sensi del decreto legislativo n. 31 del 2010. […]",
+   "sunto": "Come è noto, la Sogin ha elaborato la proposta di Carta nazionale delle aree idonee, trasmessa a questo Ministero il 15 marzo 2022, ai sensi del decreto legislativo n. 31 del 2010.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00060.int00040"
   },
@@ -481,7 +662,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie ai colleghi interroganti. In merito a quanto rappresentato dagli onorevoli interroganti, innanzitutto bisogna spiegare e rivendicare la scelta politica fatta dal Governo e dalla maggioranza durante l'approvazione della manovra. Quando è stato introdotto il taglio delle accise, a marzo 2022, il prezzo del carburante era ben al di sopra dei 2 euro. […]",
+   "sunto": "Quando è stato introdotto il taglio delle accise, a marzo 2022, il prezzo del carburante era ben al di sopra dei 2 euro. […] Vorrei ricordare, in conclusione, che il prezzo, scontate le accise, all'insediamento del Governo era, per il gasolio, pari a 1,880 euro, mentre il prezzo medio della prima settimana di gennaio, con le accise, era 1,868 euro, quindi inferiore a quello senza accise.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Energia e carburanti"
+   ],
    "parole": 465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00070.int00040"
   },
@@ -494,7 +680,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie all'interrogante. Riguardo alla questione posta dall'onorevole interrogante, si condivide pienamente la necessità di riaffermare la presenza dell'amministrazione centrale nel risanamento del territorio di Crotone, attese le numerose criticità che devono essere affrontate nella gestione del sito di interesse nazionale. […]",
+   "sunto": "Considerata, ormai, l'improcrastinabile necessità ed urgenza di assicurare la prosecuzione delle attività già poste in essere, il Ministero dell'Ambiente, lo scorso gennaio, ha predisposto il necessario schema di DPCM di nomina (decreto del Presidente del Consiglio dei ministri).",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 337,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00080.int00040"
   },
@@ -507,7 +696,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. In merito alla questione esposta dall'onorevole interrogante, il Ministro dell'Ambiente ha prontamente attivato, lo scorso 21 aprile, sulla base delle funzioni di indirizzo riconosciute in materia dall'ordinamento, un tavolo tecnico sull'emergenza orsi in Trentino, presieduto, su delega mia, dal Sottosegretario Barbaro, al fine di garantire, attraverso il coinvolgimento d […]",
+   "sunto": "In merito alla questione esposta dall'onorevole interrogante, il Ministro dell'Ambiente ha prontamente attivato, lo scorso 21 aprile, sulla base delle funzioni di indirizzo riconosciute in materia dall'ordinamento, un tavolo tecnico sull'emergenza orsi in Trentino, presieduto, su delega mia, dal…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 343,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00090.int00040"
   },
@@ -520,7 +712,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In merito al quesito posto dagli onorevoli interroganti, evidenzio come il decreto riguardante la definizione dei criteri per l'individuazione delle aree idonee alla realizzazione di impianti di energia rinnovabile sia in fase di avanzata definizione; difatti, sono in corso le ultime limature del testo con gli altri Ministeri concertanti, il Ministero dell'Agricoltura, della sovranità alimentare e […]",
+   "sunto": "L'obiettivo del decreto è fornire indicazioni precise e univoche alle regioni affinché possano adottare i rispettivi provvedimenti legislativi regionali e adeguare conseguentemente la programmazione regionale alle nuove aree reputate idonee all'installazione di fonti di energia rinnovabile.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 312,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00030.int00040"
   },
@@ -533,7 +728,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. La misura del gas release era stata introdotta con l'articolo 6 del decreto-legge n. 17 del 2022, al fine di rafforzare la sicurezza nazionale dell'approvvigionamento di gas naturale a prezzi allora ragionevoli per i clienti finali industriali a forte consumo di gas. […]",
+   "sunto": "La misura del gas release era stata introdotta con l'articolo 6 del decreto-legge n. 17 del 2022, al fine di rafforzare la sicurezza nazionale dell'approvvigionamento di gas naturale a prezzi allora ragionevoli per i clienti finali industriali a forte consumo di gas.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 337,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00040.int00040"
   },
@@ -546,7 +744,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rivolgo un ringraziamento agli interroganti. In relazione alle misure del PNRR recanti l'installazione di infrastrutture di ricarica elettrica e vista la necessità di rispettare la scadenza della milestone al 30 giugno 2023, che prevede la notifica dell'aggiudicazione di tutti gli appalti pubblici per la costruzione di 2.500 stazioni di ricarica rapida lungo le superstrade e di almeno 4.000 in zon […]",
+   "sunto": "In relazione alle misure del PNRR recanti l'installazione di infrastrutture di ricarica elettrica e vista la necessità di rispettare la scadenza della milestone al 30 giugno 2023, che prevede la notifica dell'aggiudicazione di tutti gli appalti pubblici per la costruzione di 2.500 stazioni di…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 307,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00050.int00040"
   },
@@ -559,7 +761,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie all'interrogante. In relazione al piano nazionale di adattamento ai cambiamenti climatici, attualmente sottoposto a procedimento di valutazione ambientale strategica, è in corso l'attività tecnico-istruttoria volta all'analisi della documentazione presentata e delle numerosissime osservazioni pervenute. […]",
+   "sunto": "In relazione al piano nazionale di adattamento ai cambiamenti climatici, attualmente sottoposto a procedimento di valutazione ambientale strategica, è in corso l'attività tecnico-istruttoria volta all'analisi della documentazione presentata e delle numerosissime osservazioni pervenute.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 256,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00060.int00040"
   },
@@ -572,7 +777,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie agli interroganti. In merito al quesito posto dagli onorevoli interroganti, come ribadito più volte in questi giorni, il problema principale non sono i finanziamenti, ma il meccanismo e le procedure di spesa. […]",
+   "sunto": "Con particolare riferimento alla regione Emilia-Romagna, il Ministero dell'Ambiente, nel periodo 2010-2022, ha finanziato a favore della regione interventi di contrasto al dissesto idrogeologico per oltre 375 milioni.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 320,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00070.int00040"
   },
@@ -585,7 +793,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, ringrazio gli interroganti. Il fondamento della Strategia dell'Unione europea per il suolo, richiamata dagli onorevoli interroganti, risiede proprio nel proposito di fornire al suolo lo stesso livello di protezione che già esiste per l'acqua, l'ambiente marino e l'aria, con l'obiettivo di ottenere l'aumento netto del consumo del suolo pari a zero nel 2050. […]",
+   "sunto": "Il fondamento della Strategia dell'Unione europea per il suolo, richiamata dagli onorevoli interroganti, risiede proprio nel proposito di fornire al suolo lo stesso livello di protezione che già esiste per l'acqua, l'ambiente marino e l'aria, con l'obiettivo di ottenere l'aumento netto del…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0112&tipo=stenografico#sed0112.stenografico.tit00080.sub00080.int00040"
   },
@@ -598,7 +810,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie all'interrogante. In relazione al tema posto dagli onorevoli interroganti, si evidenza come, nonostante i significativi livelli di riduzione degli inquinanti raggiunti in Europa negli ultimi tre decenni, l'inquinamento dell'aria resta un problema rilevante che obbliga gli Stati membri a innalzare i target sulla qualità dell'aria, in linea con le raccomandazioni dell'Organizzazione mondiale […]",
+   "sunto": "In relazione al tema posto dagli onorevoli interroganti, si evidenza come, nonostante i significativi livelli di riduzione degli inquinanti raggiunti in Europa negli ultimi tre decenni, l'inquinamento dell'aria resta un problema rilevante che obbliga gli Stati membri a innalzare i target sulla…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00060.int00040"
   },
@@ -611,7 +826,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente, come evidenziato dagli onorevoli interroganti, l'aggiornamento del Piano nazionale integrato energia e clima è un passaggio fondamentale per delineare la politica energetica e ambientale del nostro Paese, nell'obiettivo della decarbonizzazione nel medio e lungo periodo. […]",
+   "sunto": "Io ringrazio per l'interrogazione, ma con una considerazione: a giorni, entro inizio prossima settimana, tireremo le somme del confronto con i vari stakeholder e naturalmente le simulazioni con la stesura dell'aggiornamento del PNIEC.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00070.int00040"
   },
@@ -624,7 +843,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. Riguardo alle questioni poste, in primo luogo voglio ribadire che lo schema di decreto concernente l'incentivazione delle configurazioni di autoconsumo è stato condiviso con gli uffici della Commissione durante tutta la fase di prenotifica, già quindi dallo scorso febbraio, come citato dall'interrogante, a cui è seguita tutta la procedura di notifica formale, finito il […]",
+   "sunto": "L'approfondito scambio di interlocuzione con la Commissione è stato arricchito dalla necessità di verificare anche la congruità, rispetto alle regole del mercato (quindi, anche con l'AGCM), del cumulo dei benefici nel caso di configurazioni realizzate nei comuni con popolazione al di sotto dei…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 411,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00080.int00040"
   },
@@ -637,7 +859,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e un grazie agli interroganti. In relazione al quesito posto dagli interroganti, siamo ben consapevoli della necessità di incrementare la produzione di energia da fonti rinnovabili per raggiungere i nuovi target di potenza installata e diversificare le fonti di approvvigionamento. […]",
+   "sunto": "In relazione al quesito posto dagli interroganti, siamo ben consapevoli della necessità di incrementare la produzione di energia da fonti rinnovabili per raggiungere i nuovi target di potenza installata e diversificare le fonti di approvvigionamento.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0138&tipo=stenografico#sed0138.stenografico.tit00120.sub00010.int00040"
   },
@@ -650,7 +875,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie all'onorevole interrogante. Con riferimento alla questione posta dall'onorevole interrogante, si osserva che, con la deliberazione della giunta regionale della Liguria dello scorso 18 aprile 2023, è stato adottato lo schema di regolamento che contiene alcune disposizioni attuative del Piano di gestione del rischio di alluvioni nel settore urbanistico. […]",
+   "sunto": "Tale schema è stato oggetto di numerosi confronti e tavoli tecnici preliminari tra gli uffici della regione e i tecnici e dall'Autorità di bacino distrettuale, al fine di verificare la coerenza dello stesso con gli obiettivi del Piano di gestione distrettuale, in una logica di cautela e di…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 303,
    "url": "https://www.camera.it/leg19/410?idSeduta=0138&tipo=stenografico#sed0138.stenografico.tit00120.sub00020.int00040"
   },
@@ -663,7 +891,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Brevemente, Presidente, solo per ringraziare la Camera e i membri delle Commissioni che hanno trattato il tema. Poi prenderò la parola successivamente.",
+   "sunto": "Brevemente, Presidente, solo per ringraziare la Camera e i membri delle Commissioni che hanno trattato il tema.",
+   "temi": [],
    "parole": 22,
    "url": "https://www.camera.it/leg19/410?idSeduta=0139&tipo=stenografico#sed0139.stenografico.tit00040.sub00020.int00040"
   },
@@ -676,7 +905,10 @@
    "categoria": "Fiducia al Governo",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. A nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1183-A: “Conversione in legge del decreto-legge 29 maggio 2023, n. […]",
+   "sunto": "A nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 1183-A: “Conversione in legge del decreto-legge 29 maggio 2023, n. 57, recante misure…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 72,
    "url": "https://www.camera.it/leg19/410?idSeduta=0139&tipo=stenografico#sed0139.stenografico.tit00040.sub00040.int00020"
   },
@@ -689,7 +921,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli interroganti. In relazione a quanto esposto dagli onorevoli interroganti voglio rassicurare che non ci sarà alcuna perdita di risorse finanziarie da destinare agli interventi di dissesto idrogeologico che continuano la loro piena attuazione senza soluzione di continuità all'interno dei programmi di finanziamento originari, in quanto progetti in essere precedentemente finanz […]",
+   "sunto": "In relazione a quanto esposto dagli onorevoli interroganti voglio rassicurare che non ci sarà alcuna perdita di risorse finanziarie da destinare agli interventi di dissesto idrogeologico che continuano la loro piena attuazione senza soluzione di continuità all'interno dei programmi di…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00060.int00040"
   },
@@ -702,7 +938,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Con riferimento al quesito posto si evidenzia che, nel contesto internazionale dettato dalla crisi energetica che ha accelerato i processi di transizione, il ruolo della Commissione PNRR-PNIEC è incrementato notevolmente e ha riguardato ambiti che vanno oltre il settore energetico. […]",
+   "sunto": "Con riferimento al quesito posto si evidenzia che, nel contesto internazionale dettato dalla crisi energetica che ha accelerato i processi di transizione, il ruolo della Commissione PNRR-PNIEC è incrementato notevolmente e ha riguardato ambiti che vanno oltre il settore energetico.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti"
+   ],
    "parole": 341,
    "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00070.int00040"
   },
@@ -715,7 +955,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. Riguardo al quesito posto dall'onorevole interrogante, si rappresenta che il decreto ministeriale avente ad oggetto la perimetrazione e zonizzazione provvisoria del Parco nazionale di Portofino, nonché le relative misure di salvaguardia, risale al 6 agosto 2021, come citato nella sua presentazione, e deriva dall'ottemperanza ad una sentenza del TAR Lazio. […]",
+   "sunto": "Riguardo al quesito posto dall'onorevole interrogante, si rappresenta che il decreto ministeriale avente ad oggetto la perimetrazione e zonizzazione provvisoria del Parco nazionale di Portofino, nonché le relative misure di salvaguardia, risale al 6 agosto 2021, come citato nella sua…",
+   "temi": [],
    "parole": 261,
    "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00080.int00040"
   },
@@ -728,7 +969,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie agli onorevoli interroganti. Il Governo, sia in attuazione degli impegni assunti a livello comunitario per il raggiungimento degli obiettivi di decarbonizzazione al 2030, sia per fronteggiare la crisi energetica scaturita dal conflitto russo-ucraino, sta ponendo in campo ogni possibile misura per sostenere la più ampia diversificazione energetica attraverso lo sviluppo e la diffusione di im […]",
+   "sunto": "L'Italia è infatti tra i leader europei con una potenza nominale superiore a 800 megawatt e una produzione elettrica annua di circa 6 terawattora - vorrei dire che 6 terawattora sono il 2 per cento della produzione nazionale, quindi un dato rilevante -, con ulteriori prospettive di crescita in…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0152&tipo=stenografico#sed0152.stenografico.tit00090.sub00090.int00040"
   },
@@ -741,7 +985,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. Il più recente accordo di programma volto alla realizzazione degli interventi di messa in sicurezza del SIN di Massa e Carrara - che ha richiamato peraltro molti dei temi dell'interrogazione - risale, giustamente, al 7 maggio 2018. […]",
+   "sunto": "Il più recente accordo di programma volto alla realizzazione degli interventi di messa in sicurezza del SIN di Massa e Carrara - che ha richiamato peraltro molti dei temi dell'interrogazione - risale, giustamente, al 7 maggio 2018.",
+   "temi": [],
    "parole": 387,
    "url": "https://www.camera.it/leg19/410?idSeduta=0167&tipo=stenografico#sed0167.stenografico.tit00030.sub00040.int00040"
   },
@@ -754,7 +999,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, e un ringraziamento particolare anche agli onorevoli interroganti. In relazione al quesito posto dall'onorevole interrogante, le linee di intervento italiano, in tema di approvvigionamento di materie prime, si basano sull'analisi della domanda e del potenziale geominerario, sul rafforzamento dell'economia circolare e sulla ricerca e innovazione. […]",
+   "sunto": "In relazione al quesito posto dall'onorevole interrogante, le linee di intervento italiano, in tema di approvvigionamento di materie prime, si basano sull'analisi della domanda e del potenziale geominerario, sul rafforzamento dell'economia circolare e sulla ricerca e innovazione.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 348,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00010.int00040"
   },
@@ -767,7 +1015,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. L'urgenza di una riforma dei SAD è condivisa a livello governativo e lo dimostra l'articolo 12 della recente legge di delega al Governo per la riforma fiscale, che riconosce un ruolo preminente alla fiscalità ambientale nel favorire il raggiungimento degli obiettivi di transizione energetica. […]",
+   "sunto": "L'urgenza di una riforma dei SAD è condivisa a livello governativo e lo dimostra l'articolo 12 della recente legge di delega al Governo per la riforma fiscale, che riconosce un ruolo preminente alla fiscalità ambientale nel favorire il raggiungimento degli obiettivi di transizione energetica.",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 262,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00020.int00060"
   },
@@ -780,7 +1033,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito alle questioni poste dagli onorevoli interroganti, ricordo che l'aggiornamento del Piano nazionale integrato per l'energia e il clima, predisposto a giugno e trasmesso anche al Parlamento per le opportune valutazioni, contiene un ventaglio di azioni che, sulla base del principio della neutralità tecnologica, favoriranno, senza preclusioni dogmatiche, l'utiliz […]",
+   "sunto": "Per quanto riguarda l'accelerazione della produzione da fonti rinnovabili, si ritiene possibile traguardare la quota del 40 per cento dei consumi finali lordi di energia - non solo energia elettrica, dove l'obiettivo deve essere del 65-70 - in linea con il contributo atteso per il raggiungimento…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 411,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00030.int00060"
   },
@@ -793,7 +1050,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie agli onorevoli interroganti. In relazione alla richiesta dell'onorevole interrogante, il Ministero ha da sempre seguito l'evolversi della situazione legata alla procedura di infrazione menzionata, la cui competenza è della regione Campania. […]",
+   "sunto": "Analogamente, un'ulteriore riduzione di un terzo della sanzione giornaliera è stata vincolata, in ragione dell'azzeramento del fabbisogno di discariche, all'entrata in funzione dell'impianto di Giugliano in Campania per il recupero di materia e produzione di combustibile solido secondario da…",
+   "temi": [
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 349,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00040.int00040"
   },
@@ -806,7 +1067,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli onorevoli interroganti. In merito al quesito posto dagli onorevoli interroganti, si rappresenta che siamo nella fase finale dell'interlocuzione con la Commissione europea nell'ambito dell'iter di valutazione della compatibilità della misura proposta con la normativa in materia di aiuti di Stato. È una novità anche a livello europeo. […]",
+   "sunto": "In merito al quesito posto dagli onorevoli interroganti, si rappresenta che siamo nella fase finale dell'interlocuzione con la Commissione europea nell'ambito dell'iter di valutazione della compatibilità della misura proposta con la normativa in materia di aiuti di Stato.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 268,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00050.int00040"
   },
@@ -819,7 +1083,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'interrogante. L'utilizzo dei rigassificatori è una soluzione necessaria per la diversificazione delle fonti energetiche, considerati la scarsità di risorse energetiche del nostro Paese, l'interruzione dei flussi di gas dalla Russia e il passaggio verso fonti di energia rinnovabile, per il quale è necessario un orizzonte temporale di medio e lungo termine. […]",
+   "sunto": "In merito alla procedura relativa al rigassificatore da ricollocare a Vado Ligure, di cui darò i dettagli nella risposta successiva al quesito, si evidenzia che il procedimento di VIA, comprensivo della valutazione d'incidenza, incardinato presso il MASE, è ancora nella fase iniziale.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 309,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00060.int00040"
   },
@@ -832,7 +1099,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'onorevole interrogante. La riduzione della domanda di gas in Italia, richiamata dall'onorevole interrogante, seppure propizia deve comunque essere valutata alla luce di altri elementi, quali l'imprevedibilità del fattore climatico nonché la variabilità nel flusso della risorsa. […]",
+   "sunto": "In relazione a quest'ultima è in corso la fase di consultazione del pubblico, durante la quale chiunque abbia interesse può prendere visione del progetto e del relativo studio ambientale e presentare in forma scritta proprie osservazioni, anche fornendo nuovi o ulteriori elementi conoscitivi e…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 306,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00070.int00040"
   },
@@ -845,7 +1116,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie interrogante. Come evidenziato dall'interrogante, i rigassificatori costituiscono opere strategiche per l'approvvigionamento di gas ai fini della sicurezza energetica nazionale, fermo restando il programma di decarbonizzazione del sistema energetico nazionale. […]",
+   "sunto": "Come evidenziato dall'interrogante, i rigassificatori costituiscono opere strategiche per l'approvvigionamento di gas ai fini della sicurezza energetica nazionale, fermo restando il programma di decarbonizzazione del sistema energetico nazionale.",
+   "temi": [
+    "Energia e carburanti",
+    "Casa e infrastrutture"
+   ],
    "parole": 286,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00080.int00040"
   },
@@ -858,7 +1133,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente, un grazie particolare agli onorevoli interroganti. In merito al quesito posto, lo sviluppo della mobilità elettrica come contributo al progressivo processo di decarbonizzazione del settore trasporti nel nostro Paese non può prescindere dalla capillare diffusione sul territorio nazionale delle infrastrutture di ricarica. […]",
+   "sunto": "In merito al quesito posto, lo sviluppo della mobilità elettrica come contributo al progressivo processo di decarbonizzazione del settore trasporti nel nostro Paese non può prescindere dalla capillare diffusione sul territorio nazionale delle infrastrutture di ricarica.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 323,
    "url": "https://www.camera.it/leg19/410?idSeduta=0176&tipo=stenografico#sed0176.stenografico.tit00090.sub00090.int00040"
   },
@@ -871,7 +1149,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti per la loro istanza. Le tecnologie del nucleare di nuova generazione, oltre a garantire maggiore sicurezza e autonomia energetica, hanno un ruolo importante da svolgere nella transizione verso un'economia a basse emissioni di carbonio e nel futuro mix energetico del Paese. […]",
+   "sunto": "Le tecnologie del nucleare di nuova generazione, oltre a garantire maggiore sicurezza e autonomia energetica, hanno un ruolo importante da svolgere nella transizione verso un'economia a basse emissioni di carbonio e nel futuro mix energetico del Paese.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 394,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00080.int00040"
   },
@@ -884,7 +1166,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. In merito alle specifiche richieste degli interroganti, si rappresenta che l'Italia è già tra i Paesi definiti “amici del Boga”, insieme, tra gli altri, a Finlandia e Lussemburgo, e vi partecipa in qualità di osservatore. […]",
+   "sunto": "A tal proposito, si ricorda che la maggioranza dei Paesi dell'Unione europea non risulta in alcun modo affiliata al Boga, non comparendo né tra i Paesi membri né tra i cosiddetti Paesi amici.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 460,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00090.int00040"
   },
@@ -897,7 +1184,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Signor Presidente, un grazie agli interroganti. In merito alle questioni poste dagli onorevoli interroganti, si rappresenta che l'Italia guarda con interesse allo sviluppo delle nuove tecnologie del nucleare, questo malgrado non sia stata sottoscritta la lettera relativa alla creazione di un'alleanza industriale sugli small modular reactor , firmata da 12 Paesi UE, in occasione del sedicesimo Forum europeo sull'energ […]",
+   "sunto": "In merito alle questioni poste dagli onorevoli interroganti, si rappresenta che l'Italia guarda con interesse allo sviluppo delle nuove tecnologie del nucleare, questo malgrado non sia stata sottoscritta la lettera relativa alla creazione di un'alleanza industriale sugli small modular reactor ,…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 266,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00100.int00040"
   },
@@ -910,7 +1200,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rivolgo un grazie agli interroganti. Riguardo al quesito posto dagli onorevoli interroganti, si rappresenta che è intenzione del Ministero ampliare ancora i termini per la presentazione delle autocandidature, considerato il rinnovato interesse manifestato dalle comunità locali circa i benefici di un deposito nazionale. […]",
+   "sunto": "Quest'ultima, a conclusione del processo di valutazione, predisporrà la proposta di Carta nazionale delle aree autocandidate, entro i 30 giorni successivi e con l'ordine di idoneità. […] Le risultanze dalla VAS permetteranno alla Sogin di aggiornare la Carta nazionale delle aree autocandidate, o della CNAI in caso di mancanza di autocandidature, e il relativo ordine di idoneità.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 320,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00060.int00040"
   },
@@ -923,7 +1216,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rivolgo un grazie agli onorevoli interroganti. Riguardo al quesito posto dagli onorevoli interroganti, si rappresenta che il Ministero dell'Ambiente e della sicurezza energetica sta predisponendo, in stretta collaborazione con il GSE, le regole operative per l'accesso ai benefici previsti dal decreto CER, le quali, una volta pubblicato il decreto in Gazzetta Ufficiale , a valle della registrazione […]",
+   "sunto": "Riguardo al quesito posto dagli onorevoli interroganti, si rappresenta che il Ministero dell'Ambiente e della sicurezza energetica sta predisponendo, in stretta collaborazione con il GSE, le regole operative per l'accesso ai benefici previsti dal decreto CER, le quali, una volta pubblicato il…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 294,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00070.int00040"
   },
@@ -936,7 +1233,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie all'interrogante. In relazione ai due rapporti annuali citati, ossia quello sull'efficienza energetica e quello sulle detrazioni fiscali di Enea, è necessario precisare che gli stessi sono prevalentemente finalizzati a raccogliere i dati connessi ai risparmi di energia finale, ai fini della comunicazione alla Commissione europea del raggiungimento degli obiettivi e vincoli imposti dalla […]",
+   "sunto": "La quantità di energia prodotta dagli impianti da fonti rinnovabili elettriche, ivi incluso l'impiego dei sistemi di accumulo, concorre, invece, ad altri obiettivi, ossia a quelli di produzione di energia da fonte rinnovabile, ai sensi della direttiva sulla promozione dell'uso dell'energia da…",
+   "temi": [
+    "Energia e carburanti",
+    "Casa e infrastrutture"
+   ],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00080.int00040"
   },
@@ -949,7 +1250,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie all'interrogante. Con riferimento a quanto indicato dall'onorevole interrogante in relazione all'EPR tessile, nel relativo schema di decreto ministeriale, sottoposto a consultazione lo scorso anno, è previsto un ruolo attivo dei sistemi EPR nelle varie fasi di raccolta e gestione dei rifiuti, riconoscendo, di fatto, il coinvolgimento dei consorzi anche nella fase di gestione funzionale al […]",
+   "sunto": "Con riferimento a quanto indicato dall'onorevole interrogante in relazione all'EPR tessile, nel relativo schema di decreto ministeriale, sottoposto a consultazione lo scorso anno, è previsto un ruolo attivo dei sistemi EPR nelle varie fasi di raccolta e gestione dei rifiuti, riconoscendo, di…",
+   "temi": [],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00100.int00040"
   },
@@ -962,7 +1264,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente; ringrazio l'interrogante. Con riguardo al quesito posto dall'onorevole interrogante, si ribadisce l'impegno del Governo al monitoraggio dell'andamento dei prezzi dell'energia e all'individuazione di ogni misura atta ad assicurare la massima protezione di cittadini e imprese e, in particolare, dei vulnerabili. […]",
+   "sunto": "Con riguardo al quesito posto dall'onorevole interrogante, si ribadisce l'impegno del Governo al monitoraggio dell'andamento dei prezzi dell'energia e all'individuazione di ogni misura atta ad assicurare la massima protezione di cittadini e imprese e, in particolare, dei vulnerabili.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 404,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00040.int00040"
   },
@@ -975,7 +1280,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. Come evidenziato dagli onorevoli interroganti, il sistema italiano di riciclo degli imballaggi si conferma un'eccellenza consolidata da anni e un asset strategico della manifattura nazionale. […]",
+   "sunto": "Come evidenziato dagli onorevoli interroganti, il sistema italiano di riciclo degli imballaggi si conferma un'eccellenza consolidata da anni e un asset strategico della manifattura nazionale.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00050.int00040"
   },
@@ -988,7 +1296,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, si evidenzia, in prima battuta, come tutte le forme di incentivazione previste per le fonti rinnovabili sono costruite per il raggiungimento degli obiettivi di decarbonizzazione del sistema energetico al 2030 e al 2050. […]",
+   "sunto": "In merito agli strumenti di supporto di più recente promozione, si stima che il decreto sulle CER ai fini della realizzazione di 5 gigawatt di impianti previsti ha un onere di incentivazione annuo compreso tra i 230 e i 340 milioni di euro per 20 anni - da lì il costo totale di 5 miliardi e 700…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 371,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00060.int00040"
   },
@@ -1001,7 +1312,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie agli interroganti. Con riferimento al quesito posto dagli onorevoli interroganti “si evidenzia che ancor prima dell'archiviazione della procedura di infrazione richiamata, è stato assunto, nel contesto del PNRR, uno specifico impegno a rendere obbligatorio lo svolgimento di gare per i contratti di concessione per l'energia idroelettrica, definire il quadro normativo per le concessioni idroe […]",
+   "sunto": "Con riferimento al quesito posto dagli onorevoli interroganti “si evidenzia che ancor prima dell'archiviazione della procedura di infrazione richiamata, è stato assunto, nel contesto del PNRR, uno specifico impegno a rendere obbligatorio lo svolgimento di gare per i contratti di concessione per…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00070.int00040"
   },
@@ -1014,7 +1330,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti, siamo sulla falsariga dell'interrogazione precedente. In relazione al quesito posto dagli onorevoli interroganti si evidenzia che la cosiddetta regionalizzazione della materia idroelettrica avviene entro i limiti posti dai vincoli eurounitari e dal quadro di legislazione nazionale. L'articolo 12 del decreto legislativo n. […]",
+   "sunto": "L'articolo 12 del decreto legislativo n. 79 del 1999, comma 1- ter , ha previsto che il legislatore regionale disciplini le modalità e le procedure di assegnazione delle concessioni di grande derivazione d'acqua a scopo idroelettrico, nel rispetto dell'ordinamento dell'Unione europea e degli…",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 320,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00080.int00040"
   },
@@ -1027,7 +1347,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. Come evidenziato dagli interroganti, i rigassificatori costituiscono opere strategiche per l'approvvigionamento di gas al fine della sicurezza energetica nazionale, fermo restando il programma di decarbonizzazione del sistema energetico nazionale. […]",
+   "sunto": "L'Italia si è attivata per potenziare le infrastrutture per la sicurezza degli approvvigionamenti, aumentando la capacità dei terminali di rigassificazione mediante nuovi FSRU, unità di rigassificazione: quella citata di Piombino e quella di Ravenna, aumentando, quindi, la capacità di…",
+   "temi": [
+    "Energia e carburanti",
+    "Casa e infrastrutture"
+   ],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0257&tipo=stenografico#sed0257.stenografico.tit00010.sub00090.int00040"
   },
@@ -1040,7 +1364,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente. Con riguardo ai quesiti posti dagli onorevoli interroganti si rappresenta quanto segue. Secondo la Commissione europea il piano straordinario per la gestione e il contenimento della fauna selvatica, previsto dalla legge di bilancio per l'anno 2023, non sarebbe conforme con il regime giuridico degli abbattimenti previsti dalla normativa unionale. […]",
+   "sunto": "Secondo la Commissione europea il piano straordinario per la gestione e il contenimento della fauna selvatica, previsto dalla legge di bilancio per l'anno 2023, non sarebbe conforme con il regime giuridico degli abbattimenti previsti dalla normativa unionale.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00070.int00040"
   },
@@ -1053,7 +1380,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La mozione Casasco, Caramanna, Andreuzza, Cavo ed altri n. 1-00253 è tutta accoglibile in ogni sua parte, salvo il punto… non è numerato… Siamo ancora alle premesse. Aspetti… …perché non ce l'ho numerato...",
+   "sunto": "La mozione Casasco, Caramanna, Andreuzza, Cavo ed altri n. 1-00253 è tutta accoglibile in ogni sua parte, salvo il punto… non è numerato… Siamo ancora alle premesse.",
+   "temi": [],
    "parole": 35,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00040.sub00010.int00020"
   },
@@ -1066,7 +1394,10 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Non le ho numerate sull'elaborazione che ho appena ricevuto …È per questo. Il capoverso che inizia con “L'efficacia del meccanismo (…)”. Il capoverso è accoglibile con la seguente riformulazione: espungendo le parole “l'efficacia del”, diventa “il meccanismo, che ha il condivisibile obiettivo di rispecchiare i costi ETS anche per le produzioni derivanti dai Paesi terzi”; poi espungiamo le parole “risulta, quindi, qua […]",
+   "sunto": "Il punto 3) delle premesse è accoglibile con riformulazione. […] Poi il punto successivo, il punto 2) della lettera c) , non è accoglibile.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00040.sub00010.int00090"
   },
@@ -1079,7 +1410,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Riguardo la mozione Ruffino 1-00268 ed altri, sul punto 1) delle premesse c'è un errore di stampa: è carbon border , non car border , c'è una correzione. Allora i punti 2), 3), 4), 5), 6), 7) e 8) sono accoglibili. Il punto 9), lettera a) , è accoglibile. La lettera b) del punto 9) viene riformulata nel seguente modo: “Il CBAM potrebbe esporre le imprese europee al rischio di una contrazione delle esportazioni”. […]",
+   "sunto": "Il punto 10), lettera a) , viene riformulato sostituendo le parole “un danno significativo” con le seguenti: “un possibile impatto sulla competitività delle imprese europee”. […] Poi il punto 3) della lettera b) viene riformulato sostituendo le parole: “eliminazione delle sanzioni” con le seguenti: “la possibile riduzione dell'entità delle sanzioni”.",
+   "temi": [],
    "parole": 300,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00040.sub00010.int00390"
   },
@@ -1092,7 +1424,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "La riformulazione è la seguente: “Il CBAM è concepito quindi per creare condizioni di parità per i produttori extra UE e dell'UE, che già da tempo pagano i permessi (…)”. Sì, per parificare i produttori extra UE e UE.",
+   "sunto": "La riformulazione è la seguente: “Il CBAM è concepito quindi per creare condizioni di parità per i produttori extra UE e dell'UE, che già da tempo pagano i permessi (…)”.",
+   "temi": [],
    "parole": 39,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00040.sub00010.int00490"
   },
@@ -1105,7 +1438,12 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "È lessicale, il concetto è lo stesso, parificare i due soggetti: extra UE e UE. Il senso è lo stesso, collega, di conseguenza possiamo dirlo accolto. Per quanto concerne la mozione Bonelli 1-00272 ed altri, il punto 1) delle premesse è accoglibile con riformulazione che prevede la cancellazione di una parte del capoverso, dalle parole: “la relazione ci dice con chiarezza che, al fine di ridurre la probabilità di even […]",
+   "sunto": "Il punto 9 è accoglibile, mentre sul punto 10 vi è un parere favorevole con la seguente riformulazione: “l'adeguamento del carbonio alle frontiere costituisce uno strumento necessario per promuovere l'adozione, da parte di Paesi extra UE, di meccanismi di tutela ambientale similari a quelli…",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 648,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00040.sub00010.int00540"
   },
@@ -1118,7 +1456,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie agli interroganti. In merito al quesito posto, si rappresenta, in via preliminare, che il Governo, consapevole della necessità di supportare i settori manifatturieri italiani dalla concorrenza internazionale, ha messo in campo molteplici azioni per abbattere il costo dell'energia. […]",
+   "sunto": "Si ricordi, inoltre, che con la misura dell' energy release il MASE intende promuovere, nei settori a forte consumo di energia elettrica, investimenti in autoproduzione di energia rinnovabile.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 381,
    "url": "https://www.camera.it/leg19/410?idSeduta=0289&tipo=stenografico#sed0289.stenografico.tit00060.sub00030.int00040"
   },
@@ -1131,7 +1472,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti, anche per la tempestività dell'interrogazione. In merito al quesito posto, si rappresenta che il Ministero dell'Ambiente e della sicurezza energetica certamente dovrà predisporre, entro i prossimi due anni, il primo Piano nazionale di ripristino, che conterrà e deve contenere le azioni da intraprendere sino a giugno 2032. […]",
+   "sunto": "Lo schema del Piano dovrà essere sottoposto a valutazione ambientale strategica e in tale sede sarà prevista una fase di consultazione e partecipazione pubblica, che garantirà il coinvolgimento di tutti i soggetti interessati.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0310&tipo=stenografico#sed0310.stenografico.tit00010.sub00020.int00040"
   },
@@ -1144,7 +1488,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito al quesito posto, è necessario premettere che lo scenario inserito nel Piano nazionale integrato per l'energia e il clima è un'ipotesi del potenziale ruolo dell'energia nucleare nel percorso al Net-Zero previsto per il 2050. […]",
+   "sunto": "In merito al quesito posto, è necessario premettere che lo scenario inserito nel Piano nazionale integrato per l'energia e il clima è un'ipotesi del potenziale ruolo dell'energia nucleare nel percorso al Net-Zero previsto per il 2050.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 374,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00080.int00040"
   },
@@ -1157,7 +1504,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. Con riferimento all'episodio occorso il 30 luglio e richiamato dagli onorevoli interroganti, è opportuno rassicurare circa le operazioni di messa in sicurezza del sito a seguito dello spegnimento dell'incendio, terminate nel pomeriggio del 5 agosto. […]",
+   "sunto": "A tale proposito, con decreto del Ministero dell'Ambiente e della sicurezza energetica, n. 59 del 2023, è stata normata la disciplina del sistema di tracciabilità dei rifiuti e del Registro elettronico nazionale per la tracciabilità dei rifiuti, anche noto come RENTRI, del quale si sono definiti…",
+   "temi": [
+    "Ambiente e clima",
+    "Sicurezza e criminalità"
+   ],
    "parole": 385,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00090.int00040"
   },
@@ -1170,7 +1521,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie agli interroganti. Con riferimento al quesito posto, si rappresenta che, in base alla legislazione vigente e in base alle risorse finanziarie iscritte nei pertinenti capitoli di bilancio, il MASE provvede, per mezzo di stralci annuali, alla definizione del Piano degli interventi di mitigazione del rischio idrogeologico. […]",
+   "sunto": "Con riferimento al quesito posto, si rappresenta che, in base alla legislazione vigente e in base alle risorse finanziarie iscritte nei pertinenti capitoli di bilancio, il MASE provvede, per mezzo di stralci annuali, alla definizione del Piano degli interventi di mitigazione del rischio…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00060.sub00010.int00040"
   },
@@ -1183,7 +1537,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Ringrazio gli onorevoli interroganti. Con riferimento al quesito posto, è opportuno premettere che il Governo sta rivolgendo la massima attenzione al tema delle terre rare e delle materie critiche, in quanto strettamente correlato alle tecnologie sviluppatesi per la decarbonizzazione energetica, nonché alle nuove forme di mobilità ed alle innovazioni in ambito produttivo e industriale. […]",
+   "sunto": "Con specifico riferimento al quesito posto, si rileva che nel regolamento europeo sulle materie prime critiche sono già precisate le modalità di contemperamento delle esigenze strategiche di estrazione e trasformazione con quelle della tutela all'interno dei siti della rete Natura 2000.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 300,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00030.int00040"
   },
@@ -1196,7 +1553,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. Con riferimento al quesito posto, giova premettere che la distribuzione di gas naturale è un settore regolato da un articolato quadro normativo e regolatorio ancora in via di definizione con cui, a partire dall'entrata in vigore del decreto legislativo n. 164 del 23 maggio 2000, è stato superato il modello di affidamento diretto per introdurre la procedura di gara. […]",
+   "sunto": "Con riferimento al quesito posto, giova premettere che la distribuzione di gas naturale è un settore regolato da un articolato quadro normativo e regolatorio ancora in via di definizione con cui, a partire dall'entrata in vigore del decreto legislativo n. 164 del 23 maggio 2000, è stato superato…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 317,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00040.int00040"
   },
@@ -1209,7 +1569,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Un grazie agli interroganti. In merito al quesito posto dagli onorevoli interroganti, occorre ribadire che l'Italia intende sfruttare i notevoli benefici insiti nella vasta diffusione delle rinnovabili, che risultano centrali nel processo di decarbonizzazione. […]",
+   "sunto": "In merito al quesito posto dagli onorevoli interroganti, occorre ribadire che l'Italia intende sfruttare i notevoli benefici insiti nella vasta diffusione delle rinnovabili, che risultano centrali nel processo di decarbonizzazione.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 332,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00050.int00040"
   },
@@ -1222,7 +1585,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie agli interroganti. Con riferimento al quesito posto, giova premettere che, anche sulla base degli esiti della Piattaforma nazionale per un nucleare sostenibile, un gruppo di lavoro ad hoc sta procedendo a un riordino della legislazione di settore per garantire un nuovo quadro normativo e un sistema di governance finalizzato a supportare il programma di produzione nucleare sostenibile in […]",
+   "sunto": "Con riferimento al quesito posto, giova premettere che, anche sulla base degli esiti della Piattaforma nazionale per un nucleare sostenibile, un gruppo di lavoro ad hoc sta procedendo a un riordino della legislazione di settore per garantire un nuovo quadro normativo e un sistema di governance…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 349,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00060.int00040"
   },
@@ -1235,7 +1601,11 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Inizio dalla mozione Ilaria Fontana ed altri n. 1-00346 . In merito alla premessa è accoglibile con riformulazione il punto a) . La riformulazione… Chiedo scusa, Presidente, rileggo completamente le riformulazioni? Il punto a) viene modificato in tal senso: “la definizione… Parliamo dell'1 a) . […]",
+   "sunto": "Il punto 1 c) , quello che riguarda l'incremento delle risorse destinate al Fondo perdite e danni, è accoglibile con la seguente riformulazione: “la promozione della mobilizzazione di ulteriori risorse, su base volontaria, da destinare alle nuove modalità di finanziamento per supportare i Paesi…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 675,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00080.sub00010.int00020"
   },
@@ -1248,7 +1618,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Questo è un metodo totalmente condivisibile, anche perché, a questo punto, non si esprime parere favorevole alle premesse - che sono il libero pensiero, naturalmente, dei proponenti -, e solo sugli impegni, per quanto riguarda la parte del dispositivo, c'è la posizione del Governo favorevole o contraria.",
+   "sunto": "Questo è un metodo totalmente condivisibile, anche perché, a questo punto, non si esprime parere favorevole alle premesse - che sono il libero pensiero, naturalmente, dei proponenti -, e solo sugli impegni, per quanto riguarda la parte del dispositivo, c'è la posizione del Governo favorevole o…",
+   "temi": [],
    "parole": 47,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00080.sub00010.int00510"
   },
@@ -1261,7 +1632,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Subito, Presidente. Ci arrivo, ci arrivo. Sto cercando il dispositivo. Sulle premesse della prima mozione, la n. 1-00346 Ilaria Fontana e altri, il parere è contrario. L'impegno 5) risulta accoglibile. Sugli impegni 6), 7), 8), 9) e 10) il parere è favorevole. Sull'impegno 17) il parere è favorevole. Sì, è contrario. Sì. Sull'impegno 18) il parere è favorevole. Sull'impegno 19) il parere è contrario. […]",
+   "sunto": "Sugli impegni 19), 20), 21) e 22) il parere è favorevole. […] Sugli impegni 30), 31), 32) e 33) il parere è favorevole.",
+   "temi": [],
    "parole": 427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00080.sub00010.int00580"
   },
@@ -1274,7 +1646,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, per alcune precisazioni. A seguito del fatto che è stato dato parere favorevole su alcuni punti che erano riformulati, ci sono alcuni allineamenti rispetto a identiche formulazioni su più testi. Quindi, il punto 3 della mozione n. 1-00346 Ilaria Fontana ed altri, che era contrario, è favorevole, perché è identico al punto 5 della mozione n. 1-00351 Bonelli ed altri e al punto 2 della mozione n. […]",
+   "sunto": "Il punto 33 della mozione n. 1-00346 Ilaria Fontana ed altri è come il punto 37 della mozione n. 1-00351 Bonelli ed altri e come il punto 32 della mozione n. 1-00352 Braga ed altri. […] Il punto 34 della mozione n. 1-00346 Ilaria Fontana ed altri è come il punto 38 della mozione n. 1-00351 Bonelli ed altri e come il punto 33 della mozione n. 1-00352 Braga ed altri.",
+   "temi": [],
    "parole": 422,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00080.sub00020.int00160"
   },
@@ -1287,7 +1660,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, si evidenzia che, nel negoziato guidato dall'Unione europea a nome dei 27, l'Italia ha portato la sua strategia per la finanza climatica più efficace che riflette i nuovi equilibri globali, veicolando lo spirito del Piano Mattei nell'ambito della COP29. […]",
+   "sunto": "Il significato e la rilevanza dell'importo finale, stabilito in 300 miliardi - era di 100 miliardi precedentemente - vanno considerati alla luce dell'azione negoziale italiana, volta ad allargare la base dei contributori, dando un ruolo maggiore a quei Paesi sin qui non donatori - ricordo che i…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00090.int00060"
   },
@@ -1300,7 +1677,8 @@
    "categoria": "Fiducia al Governo",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie. Signor Presidente, onorevoli colleghi, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti ed articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2164 ​ di conversione in legge, con modificazioni, del decreto-legge 17 ottobre 2024, n. 153, nel testo della Commissione, identico a quello approvato dal Senato.",
+   "sunto": "A nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti ed articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2164 ​ di conversione in legge, con modificazioni, del decreto-legge 17 ottobre 2024,…",
+   "temi": [],
    "parole": 58,
    "url": "https://www.camera.it/leg19/410?idSeduta=0394&tipo=stenografico#sed0394.stenografico.tit00020.sub00040.int00020"
   },
@@ -1313,7 +1691,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. Con riferimento al quesito posto è utile ribadire il valore della misura citata dagli onorevoli interroganti. Si tratta, infatti, di uno degli strumenti funzionali al raggiungimento dell'obiettivo della decarbonizzazione nella produzione di energia, garantendo al contempo la partecipazione attiva dei cittadini al mercato energetico. […]",
+   "sunto": "Sono in corso, altresì, valutazioni sull'innalzamento di soglia di popolazione relativa ai comuni che possono accedere alla misura in conto capitale strettamente legata al PNRR, nonché sulla possibilità di accesso alle garanzie finanziarie.",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 310,
    "url": "https://www.camera.it/leg19/410?idSeduta=0400&tipo=stenografico#sed0400.stenografico.tit00020.sub00010.int00040"
   },
@@ -1326,7 +1708,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie all'interrogante. In merito al quesito posto dagli onorevoli interroganti, confermo la volontà di sottoporre all'esame del Consiglio dei ministri, ad inizio 2025, lo schema di legge delega per dare un quadro giuridico che consenta anche al nucleare sostenibile di concorrere al mix energetico nazionale. […]",
+   "sunto": "In merito al quesito posto dagli onorevoli interroganti, confermo la volontà di sottoporre all'esame del Consiglio dei ministri, ad inizio 2025, lo schema di legge delega per dare un quadro giuridico che consenta anche al nucleare sostenibile di concorrere al mix energetico nazionale.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 312,
    "url": "https://www.camera.it/leg19/410?idSeduta=0400&tipo=stenografico#sed0400.stenografico.tit00020.sub00020.int00060"
   },
@@ -1339,7 +1725,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In merito al quesito posto, si rappresenta che il progetto di collegamento tra la Sicilia e la Calabria è stato sottoposto a procedura di impatto ambientale ai sensi della legge Obiettivo, la quale prevede valutazione sui diversi stadi di affidamento progettuale, il che lascia pochi margini a carenze istruttorie e, piuttosto, guida l'amministrazione verso l'elaborazione di un quadro tanto dettagli […]",
+   "sunto": "In merito al quesito posto, si rappresenta che il progetto di collegamento tra la Sicilia e la Calabria è stato sottoposto a procedura di impatto ambientale ai sensi della legge Obiettivo, la quale prevede valutazione sui diversi stadi di affidamento progettuale, il che lascia pochi margini a…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0400&tipo=stenografico#sed0400.stenografico.tit00020.sub00030.int00040"
   },
@@ -1352,7 +1741,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito al quesito posto dagli onorevoli interroganti, si conferma la rilevanza del settore termico nel raggiungimento degli obiettivi connessi ai processi di decarbonizzazione. […]",
+   "sunto": "Al fine di incentivare il rinnovo dei vecchi impianti con tecnologie più efficienti e meno inquinanti, sono in corso di aggiornamento alcuni strumenti regolatori e misure incentivanti che, mantenendo requisiti prestazionali rigorosi, promuovono soluzioni ad alta efficienza e a basso impatto…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00080.sub00040.int00040"
   },
@@ -1365,7 +1758,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e un grazie agli interroganti. Con riferimento al quesito posto dagli onorevoli interroganti, si rappresenta che la valutazione del rischio sismico non rientra tra i compiti istituzionali del MASE, così come l'eventuale conferimento di mandato ufficiale all'Istituto nazionale di geofisica e vulcanologia per lo svolgimento di questa attività, in considerazione del fatto che la valutazione dell'azio […]",
+   "sunto": "Con riferimento al quesito posto dagli onorevoli interroganti, si rappresenta che la valutazione del rischio sismico non rientra tra i compiti istituzionali del MASE, così come l'eventuale conferimento di mandato ufficiale all'Istituto nazionale di geofisica e vulcanologia per lo svolgimento di…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 347,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00080.sub00050.int00040"
   },
@@ -1378,7 +1774,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, come è noto, nel percorso pragmatico e sostenibile verso la decarbonizzazione delineato dal Governo, la centralità del principio della neutralità tecnologica comporta la necessità di considerare tutte le fonti in grado di garantire zero o basse emissioni di carbonio, incluso il nucleare, il quale, con le attuali […]",
+   "sunto": "Il disegno di legge delega conterrà, dunque, tutti gli elementi ad oggi necessari per abilitare il nuovo nucleare quale tecnologia per la transizione, a partire dall'elaborazione e l'adozione di un programma nazionale per un nucleare sostenibile.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 259,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00080.sub00060.int00040"
   },
@@ -1391,7 +1790,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Signor Presidente, onorevoli colleghi, in relazione al tema dell'informativa, preme rappresentare che l'attuale contesto di mercato è attraversato da fattori di rischio che meritano attenzione. […]",
+   "sunto": "Con riferimento ai mercati all'ingrosso del gas e dell'energia elettrica, inizio, a questo punto, a relazionarvi sulle dinamiche dei costi relativi al gas naturale.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 2842,
    "url": "https://www.camera.it/leg19/410?idSeduta=0415&tipo=stenografico#sed0415.stenografico.tit00020.sub00010.int00020"
   },
@@ -1404,7 +1810,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie agli interroganti. In relazione al tema posto dagli onorevoli interroganti, è costante l'attenzione del Governo e delle autorità locali sulla nota e triste vicenda della Terra dei fuochi. […]",
+   "sunto": "In merito al contenzioso citato in premessa dall'interrogante, si precisa che l'Avvocatura, nel corso del 2024, ha espresso parere favorevole all'avvio di un'azione risarcitoria del danno ambientale.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 335,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00030.int00040"
   },
@@ -1417,7 +1826,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie agli interroganti. In merito al quesito posto dall'onorevole interrogante, giova preliminarmente evidenziare che lo scopo della citata norma è quello di migliorare la sicurezza, l'affidabilità e l'efficienza della rete di distribuzione dell'energia elettrica, che consentirà un più celere raggiungimento degli obiettivi di penetrazione delle fonti rinnovabili, diminuendo, al contempo, la dipen […]",
+   "sunto": "La disposizione affida ad ARERA il compito di elaborare una proposta di decreto relativa alle modalità, ai termini per la presentazione dei piani di investimento e alla determinazione degli oneri in capo ai concessionari del servizio di distribuzione, che avranno beneficiato della rimodulazione.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 246,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00040.int00040"
   },
@@ -1430,7 +1842,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente, e un grazie all'interrogante. In merito al quesito posto dall'onorevole interrogante, è necessario rammentare che, dal 2015, con l'istituzione del tavolo istituzionale permanente, è stato intrapreso un nuovo percorso integrato e organico di azioni di risanamento ambientale finalizzato alla crescita e allo sviluppo del territorio. […]",
+   "sunto": "Il programma di misure a medio e lungo termine predisposto dal commissario straordinario è attuato secondo le disposizioni contenute nel contratto istituzionale di sviluppo di Taranto, nell'ambito del quale le risorse stanziate dal Ministero dell'Ambiente e della sicurezza energetica per…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 314,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00050.int00040"
   },
@@ -1443,7 +1858,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie agli onorevoli interroganti. Il progetto della diga in Val d'Enza, anche nota come diga di Vetto, riveste grande rilievo sotto molteplici aspetti, come evidenziato dall'onorevole interrogante e, in particolare, nell'azione di contrasto alla scarsità idrica e nell'attività di prevenzione del dissesto idrogeologico. […]",
+   "sunto": "L'iter di realizzazione dell'opera è a uno stadio che non vede ancora il Ministero dell'Ambiente e della sicurezza energetica rivestire un ruolo attivo, proattivo.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima",
+    "Casa e infrastrutture"
+   ],
    "parole": 303,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00060.int00040"
   },
@@ -1456,7 +1876,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. Come noto, gli incrementi dei prezzi dell'energia per famiglie e imprese registrate nell'ultimo periodo sono riconducibili all'elevata variabilità del livello dei prezzi sul mercato all'ingrosso delle materie prime energetiche, tendenzialmente in crescita in tutta Europa, che a sua volta dipende da una serie di fattori, tra cui, in particolare, le tensioni geopolitiche […]",
+   "sunto": "Come noto, gli incrementi dei prezzi dell'energia per famiglie e imprese registrate nell'ultimo periodo sono riconducibili all'elevata variabilità del livello dei prezzi sul mercato all'ingrosso delle materie prime energetiche, tendenzialmente in crescita in tutta Europa, che a sua volta dipende…",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 336,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00070.int00040"
   },
@@ -1469,7 +1893,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. In relazione al quesito posto, vorrei rassicurare gli onorevoli interroganti che, per quanto riguarda i nuovi progetti eolici menzionati, verranno prese in considerazione, nell'ambito dei singoli procedimenti di valutazione ambientale, svolti a seconda della potenza dell'impianto in sede regionale o in sede statale, le esigenze di tutela del patrimonio culturale, delle ar […]",
+   "sunto": "In relazione al quesito posto, vorrei rassicurare gli onorevoli interroganti che, per quanto riguarda i nuovi progetti eolici menzionati, verranno prese in considerazione, nell'ambito dei singoli procedimenti di valutazione ambientale, svolti a seconda della potenza dell'impianto in sede…",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00080.int00060"
   },
@@ -1482,7 +1910,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2281-A ​: Conversione in legge del decreto-legge 28 febbraio 2025, n. 19, nel testo approvato dalla Commissione.",
+   "sunto": "Onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2281-A ​: Conversione in legge del decreto-legge 28 febbraio 2025,…",
+   "temi": [],
    "parole": 49,
    "url": "https://www.camera.it/leg19/410?idSeduta=0466&tipo=stenografico#sed0466.stenografico.tit00070.sub00020.int00020"
   },
@@ -1495,7 +1924,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In relazione al quesito posto dagli interroganti, il Governo è da sempre impegnato a garantire stabilità e accessibilità alle forniture di energia, anche mediante il perseguimento degli obiettivi di diversificazione delle fonti di approvvigionamento e di sostenibilità del sistema energetico nazionale. […]",
+   "sunto": "In relazione al quesito posto dagli interroganti, il Governo è da sempre impegnato a garantire stabilità e accessibilità alle forniture di energia, anche mediante il perseguimento degli obiettivi di diversificazione delle fonti di approvvigionamento e di sostenibilità del sistema energetico…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 338,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00090.int00040"
   },
@@ -1508,7 +1940,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito al quesito posto, ormai è nota a tutti l'importanza rivestita dalle comunità energetiche come misura per incentivare una nuova energia da fonti rinnovabili, che garantisce, allo stesso tempo, la partecipazione attiva e consapevole dei cittadini al mercato energetico. […]",
+   "sunto": "In merito al quesito posto, ormai è nota a tutti l'importanza rivestita dalle comunità energetiche come misura per incentivare una nuova energia da fonti rinnovabili, che garantisce, allo stesso tempo, la partecipazione attiva e consapevole dei cittadini al mercato energetico.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 380,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00090.int00040"
   },
@@ -1521,7 +1956,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti sul tema delle aree idonee, stiamo valutando in questi giorni la revisione degli aspetti messi in risalto in una delle sentenze del TAR Lazio. […]",
+   "sunto": "Proprio in tale ottica - e qui giungo alla seconda parte del quesito posto dall'onorevole interrogante - al fine di ridurre il rischio di sovrapproduzione da fonte rinnovabile in alcune fasce orarie e quindi di mancato dispacciamento, sono state adottate misure che promuovono lo sviluppo di…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 289,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00100.int00040"
   },
@@ -1534,7 +1972,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito al quesito posto, si rammenta che il progetto della società Superba prevede la delocalizzazione delle attività di stoccaggio e movimentazione dei prodotti liquidi chimici in un nuovo deposito da realizzare nel Ponte Somalia, all'interno del porto di Genova, tra la Calata Tripoli e la Calata Mogadiscio. […]",
+   "sunto": "Tutto ciò premesso, si evidenzia che il NOF non è un atto propedeutico all'avvio della valutazione di impatto ambientale, ma al rilascio del titolo abilitativo alla costruzione dell'impianto, al pari della VIA.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0496&tipo=stenografico#sed0496.stenografico.tit00010.sub00040.int00040"
   },
@@ -1547,7 +1988,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie agli interroganti. In merito al quesito posto, occorre rammentare che è proprio il rapporto dell'Agenzia internazionale dell'energia citato dall'onorevole interrogante a qualificare il nucleare come fonte necessaria per la transizione, ad integrazione delle altre fonti energetiche rinnovabili. […]",
+   "sunto": "In merito al quesito posto, occorre rammentare che è proprio il rapporto dell'Agenzia internazionale dell'energia citato dall'onorevole interrogante a qualificare il nucleare come fonte necessaria per la transizione, ad integrazione delle altre fonti energetiche rinnovabili.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 403,
    "url": "https://www.camera.it/leg19/410?idSeduta=0496&tipo=stenografico#sed0496.stenografico.tit00010.sub00050.int00040"
   },
@@ -1560,7 +2004,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. In merito al quesito posto dagli onorevoli interroganti, è costantemente al centro dell'attenzione governativa il tema del costo dell'energia. Le costanti tensioni internazionali e i possibili impatti sui mercati energetici ci impongono di mantenere alta la guardia e di continuare lungo la linea intrapresa da tempo per la diversificazione delle fonti di approvvigioname […]",
+   "sunto": "In merito al quesito posto dagli onorevoli interroganti, è costantemente al centro dell'attenzione governativa il tema del costo dell'energia. […] Ulteriori misure di carattere strutturale sono in fase di valutazione, sempre nell'ottica di facilitare l'accesso dei consumatori ai benefici della generazione da fonti rinnovabili e di sganciare il prezzo dell'energia elettrica da quello del gas.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 361,
    "url": "https://www.camera.it/leg19/410?idSeduta=0496&tipo=stenografico#sed0496.stenografico.tit00010.sub00060.int00060"
   },
@@ -1573,7 +2020,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli interroganti, perché il quesito mi consente di illustrare il lavoro svolto dal MASE in relazione alla misura del PNRR volta al rinnovo del parco veicoli privati e commerciali leggeri con veicoli elettrici. […]",
+   "sunto": "In esito alla quinta revisione tecnica del PNRR, sulla base delle indicazioni presenti nella decisione di esecuzione del consiglio ECOFIN del 20 giugno 2025, la misura prevede la concessione di incentivi per l'acquisto di un nuovo veicolo, previa rottamazione di un veicolo termico.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 295,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00080.int00040"
   },
@@ -1586,7 +2036,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito al tema degli approdi crocieristici a Venezia, con riguardo alla realizzazione sia di quelli già operativi nel presente, sia di quelli ipotizzati per il futuro, la loro progettazione deve in ogni caso contemplare i potenziali effetti sull'ambiente in cui essi vengono inseriti. […]",
+   "sunto": "In merito al tema degli approdi crocieristici a Venezia, con riguardo alla realizzazione sia di quelli già operativi nel presente, sia di quelli ipotizzati per il futuro, la loro progettazione deve in ogni caso contemplare i potenziali effetti sull'ambiente in cui essi vengono inseriti.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 369,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00110.sub00030.int00040"
   },
@@ -1599,7 +2052,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e un grazie all'interrogante. Con riferimento al quesito posto, si rappresenta che il Ministero dell'Ambiente e della sicurezza energetica effettua una costante attività di monitoraggio sullo stato di attuazione del servizio idrico integrato. […]",
+   "sunto": "Fino all'approvazione da parte dell'autorità, i gestori del servizio sono quindi tenuti ad applicare le tariffe predisposte dall'ente di governo dell'ambito. […] La differenza tra i costi riconosciuti sulla base delle tariffe provvisorie, da un lato, e i costi riconosciuti sulla base dell'approvazione dell'autorità, dall'altro, è oggetto di conguaglio, successivo all'approvazione da parte dell'autorità stessa.",
+   "temi": [],
    "parole": 357,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00110.sub00040.int00040"
   },
@@ -1612,7 +2066,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e un grazie agli interroganti. In relazione al tema posto dagli interroganti, si rappresenta che presso il Ministero dell'Ambiente e della sicurezza energetica è stato attivato un tavolo tecnico con le regioni, con l'obiettivo, tra l'altro, di pervenire all'ottimizzazione degli strumenti di interscambio dei dati in tema di dissesto idrogeologico, oltre che di snellire ulteriormente, ove possibile, […]",
+   "sunto": "Difatti, per l'attività di programmazione delle risorse del Ministero messe a disposizione dei presidenti di regione in qualità di commissari straordinari, un apposito DPCM già stabiliva criteri che si basavano sull'utilizzo del database ReNDiS, che ormai da 20 anni costituisce lo strumento per…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 323,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00110.sub00050.int00040"
   },
@@ -1625,7 +2082,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie all'interrogante. Come è noto, il Governo ha recentemente approvato in via preliminare lo schema di decreto legislativo per l'attuazione della direttiva dell'Unione europea, la RED III, sulla promozione delle energie da fonti rinnovabili. Il provvedimento adeguerà la disciplina nazionale agli obiettivi più ambiziosi della direttiva. […]",
+   "sunto": "Come è noto, il Governo ha recentemente approvato in via preliminare lo schema di decreto legislativo per l'attuazione della direttiva dell'Unione europea, la RED III, sulla promozione delle energie da fonti rinnovabili.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00100.sub00090.int00040"
   },
@@ -1638,7 +2098,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. Con riferimento al tema del costo dell'energia, confermo che è sempre alta l'attenzione del Governo verso le famiglie e le imprese e che si sta al riguardo valutando l'introduzione di strumenti volti a contrastare, nel breve termine, l'elevato costo delle bollette energetiche, nonché l'adozione di misure di natura più strutturale volte a promuovere, anche attraverso nu […]",
+   "sunto": "Con riferimento al tema del costo dell'energia, confermo che è sempre alta l'attenzione del Governo verso le famiglie e le imprese e che si sta al riguardo valutando l'introduzione di strumenti volti a contrastare, nel breve termine, l'elevato costo delle bollette energetiche, nonché l'adozione…",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 320,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00040.int00040"
   },
@@ -1651,7 +2115,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli onorevoli interroganti. Nell'attuale assetto del mercato dell'energia, ove il prezzo risulta ancora condizionato dal ruolo di generazione a gas nel mix di produzione, l'obiettivo principale resta quello di promuovere e accelerare lo sviluppo e l'integrazione del sistema elettrico della generazione da fonti rinnovabili, in linea con il Piano nazionale integrato energia e clima. […]",
+   "sunto": "Nell'attuale assetto del mercato dell'energia, ove il prezzo risulta ancora condizionato dal ruolo di generazione a gas nel mix di produzione, l'obiettivo principale resta quello di promuovere e accelerare lo sviluppo e l'integrazione del sistema elettrico della generazione da fonti rinnovabili,…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 422,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00050.int00040"
   },
@@ -1664,7 +2131,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In relazione al tema posto, bisogna ricordare che il peso tariffario della distribuzione elettrica in Italia è significativamente più basso della media europea, come certificato anche dai dati Eurostat. Inoltre, le tariffe dei gestori di reti italiane sono di gran lunga inferiori a quelle di Francia e Germania. […]",
+   "sunto": "In relazione al tema posto, bisogna ricordare che il peso tariffario della distribuzione elettrica in Italia è significativamente più basso della media europea, come certificato anche dai dati Eurostat. […] Secondo la vigente normativa all'Autorità è demandata la definizione di un sistema tariffario certo e trasparente per i servizi regolati di trasmissione e distribuzione.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 353,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00060.int00060"
   },
@@ -1677,7 +2147,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito a quanto richiesto, il Governo conferma che è nelle proprie intenzioni proseguire nel processo di transizione energetica, anche attraverso il superamento del carbone, quale fonte per la generazione elettrica. […]",
+   "sunto": "Tutto ciò premesso, restano ancora valide le esigenze relative alla sicurezza energetica, in considerazione proprio - come ha citato lei nel rappresentarlo - dell'attuale incerto contesto geopolitico, forse anche maggiormente incerto rispetto a qualche mese fa.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00070.int00040"
   },
@@ -1690,7 +2165,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. Come già indicato nella precedente risposta, il superamento del carbone, quale fonte energetica, è ormai negli atti trasmessi alla Commissione europea ed è effetto di considerazioni di natura sia ambientale sia economica. Resta perciò fermo il percorso di phase-out dal carbone da tempo avviato dal Governo. […]",
+   "sunto": "Come già indicato nella precedente risposta, il superamento del carbone, quale fonte energetica, è ormai negli atti trasmessi alla Commissione europea ed è effetto di considerazioni di natura sia ambientale sia economica.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 417,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00080.int00040"
   },
@@ -1703,7 +2181,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In merito a quanto richiesto dagli onorevoli interroganti, si evidenzia che l'aggiornamento del Piano di gestione del rischio di alluvioni compete all'Autorità di bacino e che il MASE monitorerà sulla rapida definizione. […]",
+   "sunto": "In merito a quanto richiesto dagli onorevoli interroganti, si evidenzia che l'aggiornamento del Piano di gestione del rischio di alluvioni compete all'Autorità di bacino e che il MASE monitorerà sulla rapida definizione.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00090.int00040"
   },
@@ -1716,7 +2197,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In relazione ai quesiti posti dagli onorevoli interroganti sotto il profilo della sicurezza energetica, già a partire dalla crisi del 2022 il Governo aveva adottato una politica di diversificazione degli approvvigionamenti di gas e delle relative rotte, che, insieme ad un livello di stoccaggi superiore alla media dell'Unione europea, ha rafforzato la resilienza del sis […]",
+   "sunto": "Sono in ogni caso in corso attività di costante monitoraggio rispetto alla sicurezza e alla volatilità dei mercati, in stretta sinergia e coordinamento con l'Unione europea, gli altri Stati membri e con l'Agenzia internazionale dell'energia.",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00050.int00040"
   },
@@ -1729,7 +2215,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. In relazione a quanto evidenziato dagli onorevoli interroganti, come Governo abbiamo rafforzato sin da subito i meccanismi di vigilanza sui prezzi per limitare le conseguenze economiche della crisi in Iran e nel Golfo Persico. […]",
+   "sunto": "Inoltre, l'Autorità di regolazione per energia, reti e ambiente (ARERA) ha annunciato di aver attivato una nuova unità di vigilanza energetica con il compito di controllare l'andamento dei prezzi all'ingrosso e al dettaglio di gas ed elettricità.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00060.int00040"
   },
@@ -1742,7 +2232,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie agli interroganti. In merito al quesito posto, come ricordato anche nella precedente risposta, la politica di diversificazione degli approvvigionamenti di gas e delle relative rotte, portata avanti da questo Governo insieme ad un livello di stoccaggi superiore alla media dell'Unione europea, ha rafforzato la resilienza del sistema energetico nazionale. […]",
+   "sunto": "Il 5 marzo scorso, in una riunione della task force dell'Unione europea convocata dalla Commissione europea, i rappresentanti degli Stati membri e della Commissione hanno discusso di sicurezza e prezzi dell'energia alla luce degli sviluppi in Medio Oriente.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 378,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00070.int00040"
   },
@@ -1755,7 +2249,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie all'interrogante. Come riportato dall'onorevole interrogante, al momento non ci sono conseguenze della crisi sulla sicurezza degli approvvigionamenti nel breve periodo. Questa fase di instabilità si riflette particolarmente sui prezzi e, in particolare, sui prezzi sia quelli a pronti che a termine, soprattutto nei Paesi con stoccaggi meno pieni. […]",
+   "sunto": "Quanto alle azioni che si possono intraprendere sul fronte energetico, si osserva, in primo luogo, che l'aumento del prezzo del gas rende ancor più importante approvare una modalità per sterilizzare l'effetto ETS sul termoelettrico e sul prezzo dell'energia elettrica.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 378,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00080.int00040"
   },
@@ -1768,7 +2266,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. Con riferimento al quesito posto, è doveroso rammentare che lo scorso anno le fonti rinnovabili hanno coperto il 41 per cento della domanda, derivante principalmente dal record annuale di produzione fotovoltaica. […]",
+   "sunto": "Rispetto a quanto previsto dalla normativa sulle aree idonee del 21 giugno 2024, il target fissato per il quinquennio 2021-2025 di nuove installazioni è stato superato di oltre 1.600 megawatt.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 394,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00090.int00040"
   },
@@ -1781,7 +2284,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie all'interrogante. In relazione al quesito posto dagli onorevoli interroganti, la recente disposizione del decreto Bollette introduce innovazioni decisive per garantire che il gas nazionale raggiunga effettivamente le imprese a prezzi competitivi. […]",
+   "sunto": "Dal punto di vista amministrativo, a seguito dell'annullamento del PiTESAI, le strutture del Ministero hanno adottato 62 provvedimenti, di cui 29 decreti, 26 note di ripristino per permessi e istanze di ricerca e 7 note di annullamento dei precedenti vincoli in vigenza di PiTESAI. […] Dall'implementazione del gas release si attende un incremento di gas annuale estratto per circa 600 milioni di metri cubi.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 316,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00100.int00040"
   },
@@ -1794,7 +2301,8 @@
    "categoria": "Fiducia al Governo",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Signor Presidente, onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2809-A ​: Conversione in legge, con modificazioni, del decreto-legge 20 febbraio 2026, n. 21, nel testo approvato dalla Commissione.",
+   "sunto": "Onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2809-A ​: Conversione in legge, con modificazioni, del…",
+   "temi": [],
    "parole": 54,
    "url": "https://www.camera.it/leg19/410?idSeduta=0636&tipo=stenografico#sed0636.stenografico.tit00040.sub00040.int00020"
   },
@@ -1807,7 +2315,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente, un grazie agli interroganti. In merito al quesito posto dall'onorevole interrogante, l'Italia conferma la propria partecipazione alla Conferenza internazionale sulla transizione oltre i combustibili fossili, che si terrà a Santa Marta dal 26 al 29 aprile. […]",
+   "sunto": "In merito al quesito posto dall'onorevole interrogante, l'Italia conferma la propria partecipazione alla Conferenza internazionale sulla transizione oltre i combustibili fossili, che si terrà a Santa Marta dal 26 al 29 aprile.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 352,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00010.int00040"
   },
@@ -1820,7 +2332,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In merito al quesito posto dagli onorevoli interroganti, si rappresenta che il MASE svolge in maniera costante l'attività di supporto tecnico e amministrativo per l'attuazione dell'accordo di programma citato dall'interrogante, monitorando costantemente lo stato di avanzamento degli interventi e valutando, altresì, la possibilità di convocare il comitato di indirizzo e controllo sulla base dei pre […]",
+   "sunto": "In merito al quesito posto dagli onorevoli interroganti, si rappresenta che il MASE svolge in maniera costante l'attività di supporto tecnico e amministrativo per l'attuazione dell'accordo di programma citato dall'interrogante, monitorando costantemente lo stato di avanzamento degli interventi e…",
+   "temi": [],
    "parole": 269,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00020.int00040"
   },
@@ -1833,7 +2346,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, ribadisco che il costo dell'energia per le famiglie e le imprese è al centro dell'attenzione del Governo, che sta monitorando costantemente anche gli effetti degli eventi internazionali in corso, in coordinamento con l'Unione europea e con gli altri Stati membri. […]",
+   "sunto": "Al netto di alcune misure temporanee e delle disposizioni volte a garantire la trasparenza e la concorrenzialità nei mercati, che comunque indirettamente incidono sui costi energetici, già nell'ultimo decreto Bollette sono contenute misure di carattere strutturale volte a ridurre il peso delle…",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 299,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00030.int00040"
   },
@@ -1846,7 +2363,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, il dato del mix energetico del 2025 restituisce la fotografia di un sistema più decarbonizzato e con minore incidenza del fossile. […]",
+   "sunto": "Nel 2025 le fonti rinnovabili hanno coperto il 41 per cento della domanda, con il record annuale di produzione fotovoltaica pari a oltre il 25 per cento in più rispetto all'anno precedente, grazie all'entrata in esercizio di nuova capacità da rinnovabile per oltre 7 gigawatt, trend in crescita…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00040.int00040"
   },
@@ -1859,7 +2379,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie Presidente e un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti sulla vespa velutina, in conformità alle disposizioni vigenti relative alle misure di gestione per le specie esotiche invasive ampiamente diffuse nel territorio nazionale, nel settembre 2022 il Ministero ha adottato il Piano nazionale di gestione delle specie in questione, con la definizione degli obiettivi ges […]",
+   "sunto": "In relazione al quesito posto dagli onorevoli interroganti sulla vespa velutina, in conformità alle disposizioni vigenti relative alle misure di gestione per le specie esotiche invasive ampiamente diffuse nel territorio nazionale, nel settembre 2022 il Ministero ha adottato il Piano nazionale di…",
+   "temi": [],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00050.int00040"
   },
@@ -1872,7 +2393,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. In relazione al quesito posto dagli onorevoli interroganti, come è a conoscenza, il decreto FER2 prevede meccanismi di supporto per l'esercizio di impianti a fonti rinnovabili lontani dalla competitività di mercato o con costi operativi elevati; mediante, quindi, la partecipazione a procedure di aste e registro e la stipula di contratti di differenza a due vie a valere […]",
+   "sunto": "Segnatamente, per la tecnologia dell'eolico offshore il decreto FER2 prevede lo svolgimento di aste competitive con l'obiettivo di allocare un contingente massimo di 3,8 gigawatt. […] Sono, a tal fine, ammissibili i progetti relativi a impianti eolici offshore galleggianti o impianti eolici offshore su fondazioni fisse, questi ultimi con distanza minima dalla costa pari a 12 miglia nautiche.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00060.int00040"
   },
@@ -1885,7 +2409,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Parere conforme.",
+   "sunto": "Parere conforme.",
+   "temi": [],
    "parole": 2,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00100.sub00020.int00080"
   },
@@ -1898,7 +2423,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Nel merito, il parere di contrarietà è che il termine generico “militare” poteva generare equivoci, però io chiederei una sospensione. Se riusciamo a trovare una formulazione, che ho inteso perfettamente . Non c'è alcuna intenzione, la bomba atomica è un'altra roba. Quindi, chiedo solo di soprassedere sul voto e valutarlo.",
+   "sunto": "Nel merito, il parere di contrarietà è che il termine generico “militare” poteva generare equivoci, però io chiederei una sospensione. […] Non c'è alcuna intenzione, la bomba atomica è un'altra roba.",
+   "temi": [],
    "parole": 52,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00100.sub00030.int00320"
   },
@@ -1911,7 +2437,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In relazione all'emendamento 1.1008 Bonelli, si evidenzia che dall'accoglimento dello stesso potrebbero derivare dubbi interpretativi, atteso che il Ministero della Difesa potrebbe essere interessato all'utilizzo dell'energia nucleare sostenibile per finalità non connesse a un diretto uso militare, ma comunque riconducibile allo specifico settore. […]",
+   "sunto": "In relazione all'emendamento 1.1008 Bonelli, si evidenzia che dall'accoglimento dello stesso potrebbero derivare dubbi interpretativi, atteso che il Ministero della Difesa potrebbe essere interessato all'utilizzo dell'energia nucleare sostenibile per finalità non connesse a un diretto uso…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 129,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00120.sub00010.int00020"
   },
@@ -1924,7 +2454,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Sull'ordine del giorno n. 9/2669-A/1 Gusmeroli il parere è favorevole sul primo e sul terzo impegno con la seguente riformulazione: “a favorire, nell'esercizio della delega legislativa di cui al provvedimento in esame, la piena partecipazione dell'industria italiana ai programmi europei e internazionali di sviluppo nucleare, valorizzando il ruolo già svolto dalle imprese, dagli enti di ricerca e dalle università ital […]",
+   "sunto": "Sull'ordine del giorno n. 9/2669-A/2 Zinzi, il parere sull'impegno è favorevole con riformulazione: dopo le parole “valutando l'opportunità”, inserire le seguenti: “compatibilmente con i vincoli di finanza pubblica”.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 505,
    "url": "https://www.camera.it/leg19/410?idSeduta=0668&tipo=stenografico#sed0668.stenografico.tit00120.sub00060.int00020"
   },
@@ -1937,7 +2470,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie ai colleghi interroganti. Come noto, la decisione della Commissione europea dell'8 giugno 2026 ha approvato, in via definitiva, il meccanismo Fer X, consentendo l'avvio della sua attuazione. […]",
+   "sunto": "Di questa capacità, 10 gigawatt riguardano impianti di piccola taglia fino a un megawatt, che accederanno, quindi, direttamente al meccanismo, mentre 27,15 sono destinati a impianti di maggiore dimensione, che saranno selezionati tramite procedure competitive.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 418,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00060.int00040"
   },
@@ -1950,7 +2486,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie agli interroganti. In relazione ai quesiti posti dagli onorevoli interroganti, evidenzio come tutte le iniziative poste in essere dal Governo per ridurre il costo delle bollette energetiche si sviluppino lungo 2 direttrici principali: interventi immediati di contenimento dei costi e misure strutturali orientate alla transizione energetica. […]",
+   "sunto": "In relazione ai quesiti posti dagli onorevoli interroganti, evidenzio come tutte le iniziative poste in essere dal Governo per ridurre il costo delle bollette energetiche si sviluppino lungo 2 direttrici principali: interventi immediati di contenimento dei costi e misure strutturali orientate…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 270,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00070.int00040"
   },
@@ -1963,7 +2502,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie agli interroganti. In relazione al quesito posto dall'onorevole interrogante, si precisa che la comunicazione della Commissione europea in relazione al testo del disegno di legge sulla tutela della fauna selvatica, attualmente in discussione in Senato, contiene osservazioni preventive su disposizioni ancora in corso di esame parlamentare, che non sono da intendersi come una declaratoria di […]",
+   "sunto": "In relazione al quesito posto dall'onorevole interrogante, si precisa che la comunicazione della Commissione europea in relazione al testo del disegno di legge sulla tutela della fauna selvatica, attualmente in discussione in Senato, contiene osservazioni preventive su disposizioni ancora in…",
+   "temi": [],
    "parole": 283,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00080.int00040"
   },
@@ -1976,7 +2516,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie agli interroganti. Per contenere l'impatto dei prezzi dell'energia su famiglie e imprese il Governo ha adottato sin dal suo insediamento una strategia volta ad adottare misure strutturali orientate all'abbattimento dei prezzi energetici. […]",
+   "sunto": "Per contenere l'impatto dei prezzi dell'energia su famiglie e imprese il Governo ha adottato sin dal suo insediamento una strategia volta ad adottare misure strutturali orientate all'abbattimento dei prezzi energetici.",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 361,
    "url": "https://www.camera.it/leg19/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00070.sub00020.int00040"
   },
@@ -1989,7 +2533,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, e un grazie agli interroganti. Con riferimento al quesito posto dall'onorevole interrogante, non ravvisandosi chiaramente competenze del MASE, abbiamo avviato interlocuzioni con la regione Veneto, che ha fornito gli elementi informativi. […]",
+   "sunto": "Inoltre, prima dell'approvazione dovrà essere definito con il comune di Venezia un piano di monitoraggio ambientale per le diverse fasi di attuazione, ossia demolizione, cantierizzazione ed esercizio.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 387,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00070.int00040"
   },
@@ -2002,7 +2549,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, un grazie all'interrogante. Come noto, l'iter per l'istituzione del Parco nazionale di Portofino è stato caratterizzato da un complesso percorso amministrativo e da un articolato contenzioso giuridico, incentrati principalmente sulle modalità di perimetrazione provvisoria dell'area protetta. […]",
+   "sunto": "Come noto, l'iter per l'istituzione del Parco nazionale di Portofino è stato caratterizzato da un complesso percorso amministrativo e da un articolato contenzioso giuridico, incentrati principalmente sulle modalità di perimetrazione provvisoria dell'area protetta.",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00080.int00040"
   },
@@ -2015,7 +2563,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie all'interrogante. In relazione al quesito posto, nel breve tempo a disposizione, cercherò di menzionare quelle che sono le principali linee di azione che il Governo sta portando avanti sul tema della lotta al cambiamento climatico sul quale, collega Patty L'abbate, sono convinto. […]",
+   "sunto": "Le misure del Piano daranno continuità ad azioni già intraprese nell'ambito del PNRR come quelle relative alla tutela e valorizzazione del verde urbano ed extra-urbano, il ripristino della tutela dei fondali e degli habitat marini e la rinaturazione di alcune aree come quella del Po.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 439,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00090.int00060"
   },
@@ -2028,7 +2579,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Ambiente e della sicurezza energetica",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie agli onorevoli interroganti. Il Piano sociale per il clima rappresenta uno strumento fondamentale per accompagnare la transizione energetica, garantendo quindi equità sociale e tutela dei soggetti più vulnerabili. Come riportato nel Piano stesso, il Governo ha già completato la fase nazionale di elaborazione. […]",
+   "sunto": "Il Piano impegna complessivamente 9,3 miliardi di euro - e non rimarrà sulla carta anche per un motivo - di cui circa 7 miliardi di euro provenienti dal Fondo sociale europeo per il clima e oltre 2,3 miliardi di euro di cofinanziamento nazionale.",
+   "temi": [
+    "Energia e carburanti",
+    "Ambiente e clima",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 406,
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00100.int00040"
   }

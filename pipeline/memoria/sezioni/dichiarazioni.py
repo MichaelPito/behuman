@@ -18,6 +18,8 @@ import json
 import logging
 import re
 
+from ..analisi.sunto import sunto as fai_sunto
+from ..analisi.sunto import temi as trova_temi
 from ..fonti import dichiarazioni as dichmod
 from ..fonti import stenografici as stenomod
 
@@ -83,7 +85,8 @@ def intervento_camera(i: dict) -> dict:
         "categoria": categoria(i.get("argomento") or "", i.get("fase") or ""),
         "ruolo": i.get("ruolo"),
         "gruppo": i.get("gruppo"),
-        "estratto": dichmod.estratto(testo.replace("\n\n", " "), ESTRATTO),
+        "sunto": fai_sunto(testo),
+        "temi": trova_temi(testo),
         "parole": len(testo.split()),
         "url": i["url"],
     }
@@ -108,6 +111,11 @@ def riepilogo(camera: list[dict], premier: list[dict], senato: list[dict], verif
     top = sorted(argomenti.items(), key=lambda kv: (-len(kv[1]), kv[1][0]))[:6]
     date = sorted([x["data"] for x in camera + premier + senato + verificate if x.get("data")])
     fonti_verificate = collections.Counter(x.get("fonte_tipo") or "Non indicata" for x in verificate)
+    temi_c = collections.Counter(t for x in camera + premier for t in x.get("temi", []))
+    temi_anno: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
+    for x in camera + premier:
+        for t in x.get("temi", []):
+            temi_anno[x["data"][:4]][t] += 1
     return {
         "totale": len(camera) + len(premier) + sum(x.get("interventi", 1) for x in senato) + len(verificate),
         "camera": len(camera),
@@ -121,6 +129,8 @@ def riepilogo(camera: list[dict], premier: list[dict], senato: list[dict], verif
         "categorie": [{"categoria": c, "n": n} for c, n in categorie.most_common()],
         "argomenti_frequenti": [{"argomento": a, "n": len(d), "dal": d[0], "al": d[-1]} for a, d in top if len(d) > 1],
         "fonti_verificate": [{"fonte": f, "n": n} for f, n in fonti_verificate.most_common()],
+        "temi": [{"tema": t, "n": n} for t, n in temi_c.most_common()],
+        "temi_per_anno": {a: [{"tema": t, "n": n} for t, n in c.most_common(3)] for a, c in sorted(temi_anno.items())},
     }
 
 
@@ -138,6 +148,9 @@ def testo_recap(nome: str, r: dict, dal: str) -> str:
     if r["verificate"]:
         parti.append(f"{r['verificate']} dichiarazioni scelte e verificate da un fact-checker indipendente")
     testo = f"Dal {dichmod_data(r['prima'])} al {dichmod_data(r['ultima'])}: " + ", ".join(parti) + "."
+    if r.get("temi"):
+        top = ", ".join(f"{t['tema'].lower()} ({t['n']})" for t in r["temi"][:3])
+        testo += f" Gli argomenti che tornano più spesso nei suoi interventi: {top}."
     if r["categorie"]:
         c = r["categorie"][0]
         testo += f" In Aula alla Camera l'occasione più frequente è «{c['categoria']}» ({c['n']} interventi)."
@@ -201,7 +214,7 @@ def costruisci(ctx, politici: list[dict]) -> list[dict]:
         premier: list[dict] = []
         if not ctx.offline and p.get("ruolo", "").lower().startswith("presidente del consiglio"):
             try:
-                premier = dichmod.interventi_premier(max(ctx.dal, inizio_gov), noti={x["url"] for x in prec.get("governo", [])})
+                premier = dichmod.interventi_premier(max(ctx.dal, inizio_gov), noti={x["url"] for x in prec.get("governo", []) if x.get("sunto")})
                 ctx.ok("governo_interventi")
             except Exception as e:  # noqa: BLE001
                 ctx.errore(pol.slug, "governo_interventi", e)
@@ -264,9 +277,9 @@ def indice(risultati: list[dict]) -> dict:
         for v in d["verificate"]:
             discusse.append({**base, **v})
         for c in d["camera"][-15:]:
-            recenti.append({**base, "fonte": "Camera", "data": c["data"], "testo": c["estratto"], "contesto": c["argomento"], "url": c["url"]})
+            recenti.append({**base, "fonte": "Camera", "data": c["data"], "testo": c.get("sunto") or c.get("estratto", ""), "contesto": c["argomento"], "url": c["url"]})
         for g in d["governo"][-15:]:
-            recenti.append({**base, "fonte": "Governo", "data": g["data"], "testo": g["estratto"], "contesto": g["titolo"], "url": g["url"]})
+            recenti.append({**base, "fonte": "Governo", "data": g["data"], "testo": g.get("sunto") or g.get("estratto", ""), "contesto": g["titolo"], "url": g["url"]})
     discusse.sort(key=lambda x: (x.get("data") or x["data_verifica"]), reverse=True)
     recenti.sort(key=lambda x: x["data"], reverse=True)
     return {

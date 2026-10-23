@@ -90,9 +90,39 @@
     "fonte": "Senato",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Sanità",
+    "n": 1
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 1
+   },
+   {
+    "tema": "Unione europea",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Sanità",
+     "n": 1
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 1
+    },
+    {
+     "tema": "Unione europea",
+     "n": 1
+    }
+   ]
+  }
  },
- "recap": "Dal 15 dicembre 2021 al 15 ottobre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 84 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
+ "recap": "Dal 15 dicembre 2021 al 15 ottobre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 84 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sanità (1), energia e carburanti (1), unione europea (1). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -166,7 +196,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, signor Presidente. Signor Presidente del Consiglio, la sua relazione ampia ed esaustiva ci consente di approfondire i 6 punti che caratterizzano questo Consiglio europeo che, come tutti gli altri Consigli europei degli ultimi 18 mesi, è caratterizzato dalla preponderanza dell'emergenza COVID. […]",
+   "sunto": "La sua relazione ampia ed esaustiva ci consente di approfondire i 6 punti che caratterizzano questo Consiglio europeo che, come tutti gli altri Consigli europei degli ultimi 18 mesi, è caratterizzato dalla preponderanza dell'emergenza COVID.",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 1055,
    "url": "https://www.camera.it/leg18/410?idSeduta=0615&tipo=stenografico#sed0615.stenografico.tit00020.sub00020.int00320"
   },
@@ -179,7 +214,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "PD",
-   "estratto": "Grazie, signora Presidente. Grazie, Ministra Bonetti. Il decreto-legge 31 luglio 2020, n. 86, come lei ha ricordato, raccolse una sintesi fatta, prima dai movimenti, poi dalle forze politiche; poi, fu anche la sintesi di un grido di allarme, che lo stesso presidente della regione Puglia lanciò al Governo “Conte 2”. […]",
+   "sunto": "Per questa ragione noi insistiamo nella corretta interpretazione dell'articolo 51: tutti i cittadini dell'uno e dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive con condizioni di eguaglianza, che in Sicilia non sono garantite.",
+   "temi": [],
    "parole": 284,
    "url": "https://www.camera.it/leg18/410?idSeduta=0649&tipo=stenografico#sed0649.stenografico.tit00040.sub00040.int00060"
   }

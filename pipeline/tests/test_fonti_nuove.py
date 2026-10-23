@@ -127,3 +127,42 @@ def test_abbina_verifica_pdf_e_incisi():
           "frase": "Il 62 per cento di chi non fa figli dichiara che la scelta ha ragioni economiche"}
     assert dichiarazioni.abbina_verifica(fc, interventi) is interventi[0]
     assert dichiarazioni.abbina_verifica({**fc, "frase": "Frase completamente diversa sulle pensioni minime e sulle accise"}, interventi) is None
+
+
+def test_sunto_estrattivo_senza_cortesie():
+    from memoria.analisi.sunto import sunto, temi
+    t = ("Grazie, Presidente. Onorevoli colleghi, oggi discutiamo delle accise sui carburanti. "
+         "Le accise sui carburanti pesano sulle famiglie e sulle imprese che usano i carburanti ogni giorno. "
+         "Il tempo è bello. "
+         "Per questo chiediamo di ridurre le accise sui carburanti di 10 centesimi al litro. "
+         "Annuncio il voto favorevole del mio gruppo.")
+    s = sunto(t)
+    assert "Grazie" not in s and "Annuncio" not in s and "Il tempo è bello" not in s
+    assert "ridurre le accise" in s
+    assert all(f in t for f in s.split(" […] "))  # solo frasi intere del testo (salvo l'appellativo iniziale)
+    assert "Energia e carburanti" in temi(t) and "Fisco e tasse" in temi(t)
+
+
+def test_richieste_prima_dell_incarico():
+    from memoria.sezioni.impegni import carica_temi
+    T = {t.id: t for t in carica_temi()}
+    acc, red, tasse, sb = T["accise-carburanti"], T["reddito-cittadinanza"], T["tasse"], T["sbarchi"]
+    assert acc.richiesta("Chiediamo che le accise siano progressivamente abolite") == ("abolizione", "abolite")
+    assert acc.richiesta("[Delle sette accise più antiche] la più vecchia è del 1935. [Abolirle tutte e sette] costerebbe poco")[0] == "abolizione"
+    assert acc.richiesta("Noi non abbiamo aumentato le accise, le abbiamo allineate") is None
+    assert acc.richiesta("Il provvedimento di riduzione delle accise è stato traslato sul prezzo finale") is None  # descrizione
+    assert acc.richiesta("Automatica riduzione di Iva e accise.", programma=True) == ("riduzione", "riduzione")
+    assert red.richiesta("Il reddito di cittadinanza è il modo con cui eliminiamo la povertà") is None
+    assert red.richiesta("Sarebbe stato più semplice abolire il reddito di cittadinanza") == ("abolizione", "abolire")
+    assert tasse.richiesta("Nel 2019 le tasse diminuiranno per il 7 per cento delle imprese") is None
+    assert sb.richiesta("Quello che noi proponiamo è un blocco navale") == ("riduzione", "blocco")
+    assert sb.richiesta("Il blocco navale è un atto di guerra, dicono") is None
+
+
+def test_esito_indicatore():
+    from memoria.sezioni.impegni import esito_indicatore
+    m = lambda ini, oggi: {"variazione_dall_incarico": round(100 * (oggi - ini) / ini, 1), "oggi": {"valore": oggi}}
+    assert esito_indicatore("riduzione", m(0.478, 0.673)) == "direzione_opposta"
+    assert esito_indicatore("riduzione", m(92938, 37722)) == "direzione_chiesta"
+    assert esito_indicatore("riduzione", m(100, 100.5)) == "invariato"
+    assert esito_indicatore("abolizione", m(0.7, 0)) == "raggiunto"

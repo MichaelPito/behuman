@@ -18,6 +18,10 @@ collaborative o di terzi.
 | **Corte costituzionale** – `dati.cortecostituzionale.it` | Pronunce che citano una legge (epigrafe e dispositivo) | ZIP JSON per anno | CC BY-SA 3.0 | ✅ integrato |
 | **Ministero della Giustizia – raccolta firme** – `firmereferendum.giustizia.it` | Firme online per referendum e leggi di iniziativa popolare | REST JSON | dati pubblici | ✅ integrato |
 | **Ministero dell'Interno – Eligendo** – `eleapi.interno.gov.it` | Risultati dei referendum (Italia + estero) | REST JSON (serve intestazione da browser) | dati pubblici | ✅ integrato |
+| **MASE – prezzi settimanali dei carburanti** – `sisen.mase.gov.it/dgsaie/api/v1/weekly-prices/report/export` | Accisa su benzina e gasolio dal 2005 (indicatore delle promesse) | CSV | dati pubblici | ✅ integrato |
+| **Eurostat – gov_10a_taxag** | Pressione fiscale (tasse e contributi in % del PIL), annuale | JSON-stat | CC BY 4.0 | ✅ integrato |
+| **UNHCR – arrivi via mare in Italia** – `data.unhcr.org` | Sbarchi mensili (dati del Ministero dell'Interno), somma su 12 mesi | JSON | riuso con citazione (termini UNHCR) | ✅ integrato |
+| **Programmi elettorali 2022** | PDF depositati (OCR con tesseract), programma completo di FdI (sito ufficiale) e della Lega (PDF): testo in `data/programmi/` | PDF / HTML | documenti pubblici | ✅ integrato (estrazione una tantum) |
 | **Pagella Politica** – API WordPress | Quali dichiarazioni sono state scelte per una verifica (segnale di diffusione) | REST JSON | contenuti © Pagella Politica: usiamo frase, data e link, non i testi né i giudizi | ✅ integrato (solo link) |
 | **Wikidata** – `query.wikidata.org` (+ QLever) | Anagrafica, foto (Commons), partiti, altre cariche | SPARQL | CC0 | ✅ integrato, con ripiego |
 | **Ministero dell'Interno – DAIT** | Programmi elettorali 2022 depositati | JSON statico + PDF | documenti pubblici per legge | ✅ integrato (link) |

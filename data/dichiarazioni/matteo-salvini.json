@@ -111,9 +111,117 @@
     "fonte": "Camera",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 80
+   },
+   {
+    "tema": "Unione europea",
+    "n": 16
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 14
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 13
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 9
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 7
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 6
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 5
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 4
+   },
+   {
+    "tema": "Giustizia",
+    "n": 3
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 3
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2023": [
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 19
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 8
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 3
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 24
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 5
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 3
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 19
+    },
+    {
+     "tema": "Unione europea",
+     "n": 5
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 18
+    },
+    {
+     "tema": "Unione europea",
+     "n": 7
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 3
+    }
+   ]
+  }
  },
- "recap": "Dal 18 novembre 2021 al 7 ottobre 2026: 152 interventi nell'Aula della Camera (65.262 parole), 2 interventi nell'Aula del Senato, 52 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (150 interventi).",
+ "recap": "Dal 18 novembre 2021 al 7 ottobre 2026: 152 interventi nell'Aula della Camera (65.262 parole), 2 interventi nell'Aula del Senato, 52 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: casa e infrastrutture (80), unione europea (16), economia e conti pubblici (14). In Aula alla Camera l'occasione più frequente è «Question time» (150 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -558,7 +666,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, preliminarmente - lei lo saprà meglio di me - sottolineo che il dossier Ita è gestito da un altro Ministro e da un altro Ministero. È sul tavolo del Ministero dell'Economia e delle finanze, però rispondo per quanto di mia personale e limitata competenza. […]",
+   "sunto": "Lei ricordava l'intervento di dicembre, l'importante è porre fine a un pozzo senza fondo che, da troppi anni, prevede che siano i cittadini italiani, senza che la compagnia, i dipendenti e la crescita ne abbiano particolare giovamento, a mettere centinaia di milioni di euro nella compagnia di…",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00010.int00040"
   },
@@ -571,7 +680,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per l'interrogazione, a cui rispondo da Ministro delle Infrastrutture e dei trasporti e da padre. Ovviamente non sto ad aggiungere dati a dati sulle mortalità fra pedoni, ciclisti, utenti del monopattino, utenti incolpevoli, che sono più della maggioranza di coloro che perdono la vita per colpa della distrazione - stando buoni - altrui. […]",
+   "sunto": "Innanzitutto, stiamo lavorando su due fronti: sul fronte educazione, educazione stradale vera, stiamo lavorando con il Ministro dell'Istruzione per portare l'educazione stradale in maniera costante sui banchi degli studenti, dando anche un punteggio premiale sulla patente al conseguimento della…",
+   "temi": [
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 406,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00020.int00040"
   },
@@ -584,7 +698,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Mi è assolutamente chiaro il tema dell'emergenza casa, tanto che dal primo mese di insediamento stiamo lavorando perché, nell'arco della legislatura, mi auguro con il contributo dei deputati e dei senatori, abbia vita un nuovo piano casa a livello nazionale. Non è più con un intervento sporadico, una tantum , o con bonus che si può risolvere un problema che, come lei ricordava, riguarda milioni di famiglie. […]",
+   "sunto": "Mi è assolutamente chiaro il tema dell'emergenza casa, tanto che dal primo mese di insediamento stiamo lavorando perché, nell'arco della legislatura, mi auguro con il contributo dei deputati e dei senatori, abbia vita un nuovo piano casa a livello nazionale.",
+   "temi": [
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 503,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00030.int00040"
   },
@@ -597,7 +715,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Vorrei innanzitutto ricordare che il Ministero delle Infrastrutture e dei trasporti è responsabile, nell'ambito PNRR, di 57 tra traguardi e obiettivi, di cui 47 investimenti e 10 riforme. Per quanto riguarda gli investimenti a cui lei faceva cenno in ambito ferroviario, RFI rappresenta il principale soggetto attuatore di questi investimenti con circa 24 miliardi di euro: alta velocità al Sud, alta velocità al […]",
+   "sunto": "Per quanto riguarda gli investimenti a cui lei faceva cenno in ambito ferroviario, RFI rappresenta il principale soggetto attuatore di questi investimenti con circa 24 miliardi di euro: alta velocità al Sud, alta velocità al Nord, connessioni diagonali, potenziamento linee regionali, piano…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00040.int00040"
   },
@@ -610,7 +732,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Come lei ricordava, abbiamo subito convocato al Ministero, lo scorso 9 febbraio, i presidenti delle regioni e la società Autostrade per l'Italia, perché stiamo lavorando per aprire cantieri, però vogliamo avere strade evidentemente moderne e sicure. È già in calendario, per settimana prossima, il 27 febbraio, il tavolo sicurezza permanente A14. […]",
+   "sunto": "Come lei ricordava, abbiamo subito convocato al Ministero, lo scorso 9 febbraio, i presidenti delle regioni e la società Autostrade per l'Italia, perché stiamo lavorando per aprire cantieri, però vogliamo avere strade evidentemente moderne e sicure.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 298,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00050.int00040"
   },
@@ -623,7 +748,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Ringrazio per il quesito e rispondo volentieri, non essendo mia la competenza e, quindi, portando qui competenze di altri Ministeri, di cui porto i pareri che mi sono stati dati per iscritto, perché il MIT su questo c'entra zero. Comunque, per il Governo è importante realizzare una rete delle telecomunicazioni a copertura nazionale, che consenta all'Italia di raggiungere gli obiettivi che si è prefissata. […]",
+   "sunto": "Stiamo parlando di più di 40.000 dipendenti e penso che questo sia un patrimonio di professionalità che sta a cuore a tutto il Parlamento, tenendo anche conto dell'esigenza di mantenere il controllo pubblico dell'infrastruttura di rete, quale asset strategico soggetto ai vincoli del gestore…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00030.int00060"
   },
@@ -636,7 +764,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Grazie. Ringrazio per il quesito perché mi consente di ribadire l'impegno assunto dal Ministero delle Infrastrutture per dare risposte concrete a una delle regioni più produttive d'Europa, quale il Friuli-Venezia Giulia. Posso fare solo un riassunto di quello che stiamo liberando e stiamo mettendo a terra. Mi limito a richiamare alcuni degli interventi prioritari. […]",
+   "sunto": "Parto dal nodo ferroviario di Udine, per un valore complessivo di 203 milioni di euro, di cui lei parlava, atteso da decenni, con una riorganizzazione della circolazione del nodo, che proprio in queste settimane stiamo portando avanti e su cui stiamo reperendo i finanziamenti, da troppi anni attesi.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00040.int00060"
   },
@@ -649,7 +780,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'interrogante, partendo dall'assunto che, se ci sono ritardi infrastrutturali in Sicilia, in Calabria e nel Mezzogiorno, non è colpa né del ponte, che non c'è, né di Salvini, che è al Ministero da 5 mesi . […]",
+   "sunto": "Si può presumere che si risparmierà fra un'ora e un quarto e un'ora e mezza nella percorrenza fra Roma e Reggio Calabria e che, a lavori ultimati - e sono in ballo più di 11 miliardi di euro per la velocizzazione e la modernizzazione della tratta Palermo-Catania-Messina -, si risparmierà fra…",
+   "temi": [],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00050.int00040"
   },
@@ -662,7 +794,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole interrogante e ringrazio chi sta ascoltando in Aula e a casa. Proprio ieri, presso il Ministero che ho l'onore di guidare, si è tenuto un nuovo incontro sul tema sicurezza stradale con i colleghi, nonché amici, Piantedosi e Valditara, con i quali stiamo lavorando per un pacchetto organico di revisione di un codice della strada, che risale a più di 30 anni fa, compresi i dispositivi autovelox, ph […]",
+   "sunto": "Proprio ieri, presso il Ministero che ho l'onore di guidare, si è tenuto un nuovo incontro sul tema sicurezza stradale con i colleghi, nonché amici, Piantedosi e Valditara, con i quali stiamo lavorando per un pacchetto organico di revisione di un codice della strada, che risale a più di 30 anni…",
+   "temi": [],
    "parole": 310,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00010.int00040"
   },
@@ -675,7 +808,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per le domande precise. Cercherò di essere altrettanto preciso. Prolungamento della metropolitana di Brescia: opera di fondamentale importanza, a mio giudizio, per migliorare il servizio di mobilità locale. È giunto il momento di rilanciare il progetto originario, che prevede il prolungamento verso nord e verso est, per arrivare anche in provincia e decongestionare così il traffico cittadino. […]",
+   "sunto": "L'intera tratta Brescia Est-Verona sarà completata - è il nostro impegno - entro il 2026, in linea con gli obiettivi del PNRR.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 293,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00020.int00040"
   },
@@ -688,7 +824,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La linea Milano-Genova è un'infrastruttura strategica interessata da un intenso traffico di merci e pendolari. Gli interventi di velocizzazione, con un investimento PNRR pari a 156 milioni di euro, sono in corso e la conclusione è prevista regolarmente entro il 2026. […]",
+   "sunto": "Gli interventi di velocizzazione, con un investimento PNRR pari a 156 milioni di euro, sono in corso e la conclusione è prevista regolarmente entro il 2026. […] Per la seconda fase, Pieve Emanuele-Pavia, è stata conclusa la valutazione di impatto ambientale, e il costo complessivo dell'intervento è pari a 636 milioni di euro.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 338,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00030.int00040"
   },
@@ -701,7 +840,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, la risposta sarà alla prima e alla seconda interrogazione, che sono sullo stesso tema. No, sto dicendo che il tema è uguale, e quindi invito gli interroganti a fermarsi anche in occasione della seconda risposta, perché andrà ad integrare quanto dirò. Siamo in democrazia, se uno vuole uscire esce, era solo un consiglio sulla risposta. Non volevo rubare tempo, anche perché i secondi sono contati. […]",
+   "sunto": "Ricordo a me stesso e agli interroganti che l'Alta velocità riguarda circa il 20 per cento dell'utenza, il restante 80 per cento di italiani normali viaggia su Intercity, treni regionali o treni locali, su cui verranno destinate tutte le risorse adeguate e necessarie.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0101&tipo=stenografico#sed0101.stenografico.tit00010.sub00030.int00040"
   },
@@ -714,7 +857,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Io avevo un'interrogazione sul ponte crollato in località Longobucco. Se è su questo, io posso dare una risposta, perché, per educazione, io chiedo agli uffici di rispondere alle domande che mi vengono fatte. Se dobbiamo riportare in vita l'epopea dei “no” di Toninelli, allora, quella è un'altra puntata della trasmissione . […]",
+   "sunto": "Ricordo che i numeri - che manderò sulla sua casella e-mail , e ne ho parlato coi sindacati, questa mattina – testimoniano, fra ANAS e RFI, fra opere in corso, opere in avvio nel 2023 e manutenzione in corso o in avvio, di 48 miliardi di euro di investimenti, su tutto il territorio nazionale.",
+   "temi": [],
    "parole": 305,
    "url": "https://www.camera.it/leg19/410?idSeduta=0101&tipo=stenografico#sed0101.stenografico.tit00010.sub00040.int00060"
   },
@@ -727,7 +871,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la precisione della domanda; vedrò di essere altrettanto preciso nella risposta. Nel Contratto di programma con RFI per la manutenzione ordinaria e straordinaria, sono stati stanziati 17 miliardi di euro. Per l'intero Contratto di programma, fino al 2026, per gli investimenti sulla rete ferroviaria alta velocità, treni regionali e interregionali, sono a bilancio 120 miliardi. […]",
+   "sunto": "Per l'intero Contratto di programma, fino al 2026, per gli investimenti sulla rete ferroviaria alta velocità, treni regionali e interregionali, sono a bilancio 120 miliardi.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 315,
    "url": "https://www.camera.it/leg19/410?idSeduta=0101&tipo=stenografico#sed0101.stenografico.tit00010.sub00050.int00060"
   },
@@ -740,7 +887,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il Presidente e gli onorevoli colleghi. Il Ministero, che ho l'onore di accompagnare e di guidare da sette mesi, ha avviato da subito un confronto con le amministrazioni competenti e con le associazioni delle vittime della strada per realizzare un pacchetto di misure normative e amministrative finalizzate a migliorare la sicurezza stradale: 3.120 morti registrati l'anno scorso sono un dato indegno di un Pae […]",
+   "sunto": "Si tratta di modifiche puntuali al codice della strada, insieme a una legge delega per la riforma organica dello stesso codice della strada, che contiamo di portare a breve all'esame di queste Camere.",
+   "temi": [],
    "parole": 389,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00010.int00040"
   },
@@ -753,7 +901,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio anche lei per l'interrogazione e mi ricollego a quanto detto poco fa. Il problema che si riscontra nelle prassi amministrative quotidiane è che alcuni dei dispositivi utilizzati dai comuni non sono omologati e richiedono una manutenzione costante per preservare gli standard prestazionali. […]",
+   "sunto": "Nel 2019 e nell'ottobre 2022 è stato portato all'attenzione della Conferenza unificata uno schema di decreto interministeriale che voleva fornire delle prime risposte al problema, ma non si sono superati i rilievi delle amministrazioni territoriali, in quanto lo schema necessitava di modifiche…",
+   "temi": [],
    "parole": 315,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00020.int00040"
   },
@@ -766,7 +915,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Il nuovo Piano nazionale degli aeroporti è il frutto di un approfondito confronto con i rappresentanti dei vari operatori del comparto e delle organizzazioni sindacali. Le parole chiave del Piano, che contiamo di approvare entro la fine dell'anno con la collaborazione di tutti, sono interconnessione nazionale e internazionale e strutturazione di reti aeroportuali modulate secondo effettive esigenze di mercato […]",
+   "sunto": "Il nuovo Piano nazionale degli aeroporti è il frutto di un approfondito confronto con i rappresentanti dei vari operatori del comparto e delle organizzazioni sindacali.",
+   "temi": [],
    "parole": 402,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00030.int00080"
   },
@@ -779,7 +929,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Il monitoraggio della gestione dei rischi infrastrutturali è un'attività essenziale, di cui ci siamo occupati fin dal primo giorno dell'insediamento, nove mesi fa. Perché io ricordo a quest'Aula che noi siamo qui da nove mesi: se c'è una carenza di manutenzione che risale a qualche decennio passato, evidentemente bisogna andare a bussare ad altre porte. […]",
+   "sunto": "Per le infrastrutture stradali e autostradali è stato di recente approvato un programma di finanziamento riferito al monitoraggio dinamico di ponti e viadotti, con un importo complessivo di 450 milioni di euro.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 376,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00020.int00040"
   },
@@ -792,7 +945,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio, anche se avrei bisogno di mezz'ora per rispondere su tutto quello che stiamo facendo, vedrò di contenere in due minuti la risposta alla sua precisa e articolata interrogazione. Parto dal trasporto ferroviario, perché, ad esempio, proprio domani, partono i lavori della fresa per il passante sotto Firenze, 7 chilometri, che eviterà che un guasto lungo la linea in Italia blocchi tutta l'alta velocità. […]",
+   "sunto": "Parto dal trasporto ferroviario, perché, ad esempio, proprio domani, partono i lavori della fresa per il passante sotto Firenze, 7 chilometri, che eviterà che un guasto lungo la linea in Italia blocchi tutta l'alta velocità.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00030.int00040"
   },
@@ -805,7 +961,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per la stima e la fiducia. In nove mesi abbiamo approvato un nuovo codice dei contratti pubblici, che sta dimostrando nei primi 20 giorni di applicazione quanto erano sbagliati e infondati i timori che bloccasse tutto. Ci sono già più di 30.000 CIG per nuove gare depositati, ci sono quasi 3.000 stazioni qualificate già operative. Al piano casa stiamo lavorando al Ministero. […]",
+   "sunto": "Dico solo che l'Europa ci chiedeva di sistemare 10.000 alloggi popolari, il nostro obiettivo è di sistemarne 15.000 di alloggi popolari, che sicuramente non sono una risposta alla domanda, non solo dell'affitto per le fasce bisognose, ma soprattutto nelle grandi città, penso a Roma e a Milano,…",
+   "temi": [],
    "parole": 403,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00040.int00040"
   },
@@ -818,7 +975,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la domanda e vedo di essere puntuale, perché ridurre il numero degli incidenti sulle strade, da padre oltre che da Ministro, è una mia priorità, però lo è anche ridurre il fenomeno incivile dell'abbandono degli animali, che ha raggiunto numeri, almeno nelle violazioni accertate, già di per sé inaccettabili. […]",
+   "sunto": "Nel merito, riterrei utile che, qualora l'abbandono di animali domestici avvenga su strada, la pena prevista sia aumentata di un terzo rispetto a quello che oggi è già previsto; nel caso di accertamento del reato di abbandono, ove il fatto sia commesso mediante l'uso di veicoli, si possa…",
+   "temi": [],
    "parole": 423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00050.int00040"
   },
@@ -831,7 +989,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Rispondo all'interrogante partendo dal presupposto che il Ministero delle Infrastrutture e dei trasporti non ha la gestione dell'aeroporto di Catania. Questo penso e spero che lei lo sappia, però, ovviamente, mi occupo di tutto quello che accade in Italia e, se richiesto, possiamo dare una tutela, una consulenza, un appoggio, e mandare, tramite ENAC, un'ispezione, perché l'aeroporto di Catania non dipende dal […]",
+   "sunto": "Rispondo all'interrogante partendo dal presupposto che il Ministero delle Infrastrutture e dei trasporti non ha la gestione dell'aeroporto di Catania.",
+   "temi": [],
    "parole": 402,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00060.int00040"
   },
@@ -844,7 +1003,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "In merito all'ipotesi di commissariamento, le indagini per accertare cause e responsabilità sono tuttora in corso, per cui è assolutamente prematura ogni mia valutazione nel merito, visto che faccio un altro mestiere. Attualmente, l'aeroporto di Catania opera i voli esclusivamente presso il terminal C, con una regolazione dei flussi, da oggi, pari a 5 partenze e a 5 arrivi l'ora. […]",
+   "sunto": "Per consentire una più agevole attività operativa, il terminal è stato potenziato mediante la realizzazione di una tensostruttura installata all'ingresso dello stesso, un nuovo gate d'imbarco, che si aggiunge ai quattro esistenti, due ulteriori tensostrutture che fungono da aree di preimbarco.",
+   "temi": [],
    "parole": 266,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00070.int00040"
   },
@@ -857,7 +1017,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per l'interrogazione che mi consente di illustrare, seppur rapidamente, visti i tempi concessi, le politiche a sostegno del sistema marittimo, settore di rilevanza strategica per il nostro Paese dal punto di vista economico e geopolitico. La diga foranea di Genova, di cui ho avuto l'onore di inaugurare l'avvio lavori, è la più grande opera di ingegneria idraulica al mondo. […]",
+   "sunto": "Il regolamento introduce un sistema di monitoraggio che consente all'autorità concedente di verificare eventuali modificazioni negli assetti societari responsabili della gestione dei porti per prevenire concentrazioni e garantire una reale concorrenza del mercato.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 469,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00080.int00040"
   },
@@ -870,7 +1033,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per la domanda. La questione del caro voli è all'attenzione dell'intero Governo. Purtroppo, il Ministero delle Infrastrutture e dei trasporti non ha diretta competenza in materia, quindi le posso dire quello che, con il Ministro Urso, che ne è competente, abbiamo discusso, come linee di indirizzo. […]",
+   "sunto": "Allo stesso tempo, però, in base al Trattato sul funzionamento dell'Unione, sono vietate le pratiche commerciali concordate, che impediscono, restringono o falsano la concorrenza, i cosiddetti cartelli, e mi sembra che i prezzi di queste settimane rientrino in questa fattispecie.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00100.sub00090.int00040"
   },
@@ -883,7 +1049,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio chi ha chiesto e sollecitato questo intervento, visto che, anche ieri pomeriggio, parlando di sicurezza sul lavoro in Senato, abbiamo, ahimè, ricordato altri tre operai che, in contesti diversi, sono morti in Abruzzo nelle ultime ore. […]",
+   "sunto": "Ai sensi del regolamento per la circolazione ferroviaria, i lavori all'infrastruttura che possono arrecare pregiudizio alla sicurezza della circolazione ferroviaria devono essere svolti solo dopo avere inibito la circolazione dei treni sui binari interessati.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Unione europea",
+    "Giustizia",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 2541,
    "url": "https://www.camera.it/leg19/410?idSeduta=0162&tipo=stenografico#sed0162.stenografico.tit00020.sub00010.int00020"
   },
@@ -896,7 +1070,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio, perché siamo di fronte ad un atto di violenza e di arroganza politica e istituzionale da parte di un Governo di un Paese membro dell'Unione europea a cui dobbiamo porre fine. Sin dal mio insediamento ho dato massima priorità al dossier della liberazione del Brennero. […]",
+   "sunto": "Abbiamo deciso, d'intesa con il Governo e il Presidente Meloni, di attivare formalmente la procedura prevista dall'articolo 259 del Trattato sul funzionamento dell'Unione europea, che conferisce ad uno Stato membro la facoltà di presentare ricorso davanti alla Corte di giustizia europea contro…",
+   "temi": [
+    "Unione europea",
+    "Giustizia",
+    "Ambiente e clima"
+   ],
    "parole": 335,
    "url": "https://www.camera.it/leg19/410?idSeduta=0165&tipo=stenografico#sed0165.stenografico.tit00080.sub00010.int00040"
   },
@@ -909,7 +1088,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Innanzitutto, esprimo il mio cordoglio e sicuramente di tutto il Governo e di tutta l'Aula per le vittime del terribile incidente di Mestre, sperando che i feriti, che stanno ancora lottando per la vita, ce la facciano. […]",
+   "sunto": "Venendo a quello di cui lei parlava, le posso rispondere per quello che è competenza del mio Ministero, visto che il bonus trasporti dipende da un altro Ministro e da un altro Ministero, cioè dal Ministero del Lavoro e delle politiche sociali, che decide come erogare, quando erogare e via di…",
+   "temi": [
+    "Energia e carburanti",
+    "Casa e infrastrutture"
+   ],
    "parole": 405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00040.sub00020.int00040"
   },
@@ -922,7 +1105,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli interroganti per il quesito posto, che mi consente di ribadire per l'ennesima volta alcuni punti, visto che se ne leggono di tutti i colori. Innanzitutto l'obiettivo è chiaro, far partire i cantieri entro l'estate del 2024. È un obiettivo sicuramente ambizioso dopo 50 anni di chiacchiere, vista la complessità dell'opera, a cui stanno lavorando centinaia di ingegneri. […]",
+   "sunto": "Quindi, è un'opera, dal mio punto di vista, assolutamente necessaria, che si inserisce in un contesto, dopo anni di incuria, grazie a chi c'era prima, in cui stiamo investendo 18 miliardi su strade, autostrade e ferrovie in Sicilia e altri 18 miliardi su strade, autostrade e ferrovie in Calabria.",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 360,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00040.sub00030.int00040"
   },
@@ -935,7 +1122,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la domanda precisa, che mi permette di dare una risposta precisa, che supera qualche decennio di ritardo e di mancato investimento, a chi evidentemente preferiva il monopattino all'alta velocità ferroviaria . […]",
+   "sunto": "Quindi, l'obiettivo è di andare in 2 ore da Bari a Napoli e in 3 ore da Bari a Roma entro il 2027. […] Infatti, con la prima attivazione prevista, relativa alla tratta Cancello-Frasso Telesino, sarà possibile percorrere la distanza tra Napoli e Bari in 2 ore e 40 minuti, senza necessità di effettuare cambio treno a Caserta.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 283,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00040.sub00040.int00060"
   },
@@ -948,7 +1139,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Vi ringrazio perché anche il tema taxi non è affrontato nelle dovute maniere da troppo tempo. Le disposizioni del decreto Infrastrutture strategiche rappresentano solo un punto di partenza. Ci abbiamo lavorato con il collega Urso, ascoltando tutte le associazioni di categoria. Adesso, vedremo chi passerà dalle parole ai fatti. Nessun comune ha ancora pubblicato i bandi per le licenze incrementali. […]",
+   "sunto": "Io attendo di capire se il sindaco di Roma lo farà, visto che qui c'è un'evidente carenza di mezzi pubblici in servizio, oltre ai problemi legati al traffico locale e a una gestione non sempre particolarmente attenta e brillante del traffico locale a livello romano.",
+   "temi": [],
    "parole": 299,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00040.sub00050.int00040"
   },
@@ -961,7 +1153,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Signori colleghi, grazie a chi è in Aula e a chi ci sta seguendo. È un quesito cui tengo particolarmente, perché, dopo anni di chiacchiere, finalmente, si passa ai fatti. Dal momento dell'insediamento del Governo ci siamo impegnati per migliorare le condizioni delle carceri italiane, sia per gli ospiti che per i lavoratori, ovviamente attraverso un piano mirato di interventi di edilizia pen […]",
+   "sunto": "Si tratta, nello specifico, di 21 interventi di edilizia penitenziaria attesi da anni, per un valore complessivo di 166 milioni di euro. […] Quindi, chi anche in quest'Aula - un giorno sì e un giorno no - parla di carceri, di Polizia penitenziaria e delle condizioni in cui versano i detenuti, da quattro anni non muoveva un dito per migliorare la situazione (Applausi dei deputati del gruppo Lega-Salvini Premier).",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 390,
    "url": "https://www.camera.it/leg19/410?idSeduta=0191&tipo=stenografico#sed0191.stenografico.tit00050.sub00020.int00060"
   },
@@ -974,7 +1171,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Lei ha perfettamente ragione a portare le proteste di una comunità che da anni, anzi, da decenni aspetta una soluzione. Ricordo che proprio in queste ore, ad esempio, sulla Asti-Cuneo, venendo più a Nord, in Piemonte, si è data una risposta e una soluzione a comunità che, anche lì, da anni aspettavano il termine dei lavori. Lei mi chiede quanto tempo. […]",
+   "sunto": "Noi abbiamo chiesto alla società concessionaria che, come lei ricordava, abbiamo convocato più volte - abbiamo anche commissariato l'intervento - e la società concessionaria che sta eseguendo i lavori - che io presso settimanalmente - sulla A14 come sulle autostrade liguri e su altri passanti e…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 477,
    "url": "https://www.camera.it/leg19/410?idSeduta=0191&tipo=stenografico#sed0191.stenografico.tit00050.sub00030.int00060"
   },
@@ -987,7 +1187,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie all'interrogante. Innanzitutto, buona Santa Lucia a tutti. Ringrazio perché il quesito ha un particolare interesse, in questi 13 mesi di mia presenza al Ministero delle Infrastrutture e dei trasporti, non solo come Ministro, ma come genitore. […]",
+   "sunto": "La Commissione trasporti della Camera proprio in questi giorni sta portando avanti l'esame del disegno di legge sulla sicurezza stradale, che contiene rilevanti novità per ridurre il numero di morti e feriti, che sono un dazio assolutamente inaccettabile nelle attuali dimensioni.",
+   "temi": [],
    "parole": 390,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00020.int00040"
   },
@@ -1000,7 +1201,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. I dati di cui adesso parlo sono consultabili da tutti i parlamentari e i cittadini che ci stanno seguendo sulla piattaforma del Ministero dell'Interno. Nel 2022 hanno presentato la relazione prevista per legge 7.216 comuni, 83 amministrazioni provinciali e 14 città metropolitane. Non hanno presentato la relazione, quindi sono inadempienti, 685 comuni e 5 amministrazioni provinciali. […]",
+   "sunto": "Non hanno presentato la relazione, quindi sono inadempienti, 685 comuni e 5 amministrazioni provinciali. […] Il decreto introdurrà vincoli omogenei e chiari applicabili sull'intero territorio nazionale, nella ferma convinzione che l'uso dell'autovelox è fondamentale se ha come finalità esclusiva la tutela della sicurezza della circolazione e della vita umana, non certo per le esigenze di fare cassa da…",
+   "temi": [],
    "parole": 327,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00030.int00040"
   },
@@ -1013,7 +1215,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio, perché mi permette di aggiornare quest'Aula e chi ci segue su quello che si è fatto nei mesi che intercorrono fra aprile e oggi. Parliamo del quadruplicamento per fasi funzionali della Milano-Genova, tra Milano Rogoredo e Pavia. […]",
+   "sunto": "Sono previste due fasi: per la prima fase, tra Rogoredo e Pieve Emanuele, per un costo di 328 milioni di euro, totalmente già finanziati, lo scorso 19 maggio è avvenuta l'aggiudicazione dell'appalto e il successivo 29 maggio sono state consegnate le prestazioni all'appaltatore.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 481,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00040.int00040"
   },
@@ -1026,7 +1231,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "La ringrazio, a nome degli utenti della linea ferroviaria italiana, compreso il Ministro, per l'interrogazione, che mi permette, come lei chiede, di aggiornare su alcuni dati, perché la sicurezza dei lavoratori e dei viaggiatori è prioritaria per il Governo e per il mio Ministero. […]",
+   "sunto": "I dati sulla puntualità, aggiornati al 10 dicembre 2023, riportano: i servizi regionali hanno registrato una puntualità del 90 per cento; i servizi di lunga percorrenza hanno registrato una puntualità dell'85 per cento; i servizi Alta velocità hanno registrato una puntualità del 77 per cento.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 415,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00050.int00040"
   },
@@ -1039,7 +1247,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. La risposta è: il ponte sullo Stretto e la sicurezza. Le due cose possono stare insieme dopo 50 anni di chiacchiere, non vedo onestamente cosa c'entri un'opera con l'altra . Sulla rimodulazione degli investimenti per i servizi di sicurezza (in termini tecnici, Ertms) previsti dal PNRR, siamo dovuti intervenire per l'impossibilità di rispettare i tempi previsti dal piano, giugno 2026, previsti dal suo Governo […]",
+   "sunto": "Sulla rimodulazione degli investimenti per i servizi di sicurezza (in termini tecnici, Ertms) previsti dal PNRR, siamo dovuti intervenire per l'impossibilità di rispettare i tempi previsti dal piano, giugno 2026, previsti dal suo Governo evidentemente.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00060.int00040"
   },
@@ -1052,7 +1264,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Tre miliardi. Ci mettiamo 3 miliardi!",
+   "sunto": "Ci mettiamo 3 miliardi!",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00060.int00090"
   },
@@ -1065,7 +1278,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio perché mi permette di completare il quadro sulle risposte sugli investimenti in sicurezza. Per quanto attiene l'evento del 10 dicembre a Faenza, come ho risposto poc'anzi, sono in corso gli accertamenti per appurarne le cause. […]",
+   "sunto": "Al 31 dicembre 2022, i passaggi a livello esistenti sull'infrastruttura ferroviaria nazionale gestita da RFI risultavano pari a 4.135 unità, 41 in meno dell'anno precedente.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00070.int00040"
   },
@@ -1078,7 +1294,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio, onorevole, perché i chilometri di coda e i ritardi accumulati sono inaccettabili. Non vado a ricostruire quello che lei ha ben sottolineato, perché la necessità di intervenire per sostituire gli impalcati sul viadotto per motivi di sicurezza è evidente, però, c'è modo e modo di intervenire. […]",
+   "sunto": "Quindi, di fronte alla situazione di evidente emergenza, ho disposto un sopralluogo urgente dei tecnici del Ministero, avvenuto lo scorso lunedì 5 febbraio, quindi, l'altro ieri, per rilevare lo stato del traffico e delle code generate dall'attuale configurazione di transito.",
+   "temi": [],
    "parole": 293,
    "url": "https://www.camera.it/leg19/410?idSeduta=0240&tipo=stenografico#sed0240.stenografico.tit00060.sub00020.int00040"
   },
@@ -1091,7 +1308,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio anche per la verve , che si accompagna a una quantità di investimenti in infrastrutture in tutta Italia, in particolare al Centrosud, che non hanno precedenti nella storia repubblicana, questi sono i dati . […]",
+   "sunto": "L'obiettivo di tali interventi è promuovere un riparto più efficiente delle risorse disponibili per il Sud ed evitare che ingenti risorse rimangano non allocate o, peggio ancora, non spese per le debolezze della programmazione.",
+   "temi": [],
    "parole": 335,
    "url": "https://www.camera.it/leg19/410?idSeduta=0240&tipo=stenografico#sed0240.stenografico.tit00060.sub00030.int00040"
   },
@@ -1104,7 +1322,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie a lei, perché mi permette di rispondere su questa, come su altre situazioni che risalgono a 5, 10, 15 o 20 anni fa e che ho trovato a centinaia irrisolte da un Ministero gestito da altri, soprattutto a sinistra, negli ultimi decenni. Si tratta, nel caso che lei citava, di un dossier a cui abbiamo dedicato particolare attenzione, perché il blocco che lei ricordava risale ad anni e anni passati. […]",
+   "sunto": "Per quanto attiene alla questione degli incrementi tariffari, sul punto si è espresso il Consiglio di Stato, riconoscendo a SAT, alla società concessionaria, un incremento tariffario del 12,44 per cento, in seguito a un contenzioso relativo a richieste di incremento tariffario degli anni 2017 e…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0240&tipo=stenografico#sed0240.stenografico.tit00060.sub00040.int00040"
   },
@@ -1117,7 +1338,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio per l'opportunità di chiarire, perché la sicurezza stradale è stata una delle mie priorità dal giorno del giuramento, tanto che proprio quest'Aula, dal 1° marzo - quindi, fra pochi giorni -, prenderà in esame il disegno di legge sulla sicurezza stradale, che si occupa di educazione stradale vera nelle scuole, di maggiori controlli sulle strade e che prevede anche sanzioni per i comportamenti scorretti, c […]",
+   "sunto": "La ringrazio per l'opportunità di chiarire, perché la sicurezza stradale è stata una delle mie priorità dal giorno del giuramento, tanto che proprio quest'Aula, dal 1° marzo - quindi, fra pochi giorni -, prenderà in esame il disegno di legge sulla sicurezza stradale, che si occupa di educazione…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 434,
    "url": "https://www.camera.it/leg19/410?idSeduta=0240&tipo=stenografico#sed0240.stenografico.tit00060.sub00050.int00040"
   },
@@ -1130,7 +1354,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'interrogante e ringrazio le decine di migliaia di lavoratrici e lavoratori dei taxi e degli NCC che ogni giorno offrono un servizio per il quale stiamo lavorando al fine di renderlo ancora più efficiente, superando - ormai siamo al sesto anno - la mancata applicazione della normativa vigente. […]",
+   "sunto": "Già ad agosto dello scorso anno, in sinergia con il collega Urso e confrontandoci più volte con tutte le categorie del settore che ho personalmente incontrato diverse volte al Ministero di Porta Pia, per rafforzare l'offerta taxi, il decreto-legge n. 104 ha previsto tre principali interventi a…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 464,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00010.int00040"
   },
@@ -1143,7 +1370,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per l'interrogazione su un'infrastruttura, fra le tante che gli italiani aspettano da alcuni decenni. Evidenzio in premessa che l'interrogazione ha ad oggetto rapporti contrattuali che riguardano esclusivamente le parti in causa e, come lei sa, la società Stretto di Messina è il contraente generale. […]",
+   "sunto": "Evidenzio in premessa che l'interrogazione ha ad oggetto rapporti contrattuali che riguardano esclusivamente le parti in causa e, come lei sa, la società Stretto di Messina è il contraente generale.",
+   "temi": [],
    "parole": 591,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00020.int00040"
   },
@@ -1156,7 +1384,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Prendo 20 secondi in coda a chi mi ha preceduto, perché a casa ci sono, comunque, persone che sono davanti al televisore. Ritengo di poter rispondere in base a quello che …",
+   "sunto": "Prendo 20 secondi in coda a chi mi ha preceduto, perché a casa ci sono, comunque, persone che sono davanti al televisore. […] Ritengo di poter rispondere in base a quello che …",
+   "temi": [],
    "parole": 33,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00030.int00060"
   },
@@ -1169,7 +1398,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "No, perché qui c'è qualcuno che lascia presupporre che il Governo costruisca un ponte destinato a crollare. È semplicemente folle. È semplicemente folle ! Rispondendo all'interrogante e sono sicuro che all'interrogante …",
+   "sunto": "No, perché qui c'è qualcuno che lascia presupporre che il Governo costruisca un ponte destinato a crollare. […] Rispondendo all'interrogante e sono sicuro che all'interrogante …",
+   "temi": [],
    "parole": 32,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00030.int00120"
   },
@@ -1182,7 +1412,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "C'è il campo largo nervoso oggi pomeriggio. Voglio rispondere all'interrogante …",
+   "sunto": "C'è il campo largo nervoso oggi pomeriggio. […] Voglio rispondere all'interrogante …",
+   "temi": [],
    "parole": 11,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00030.int00230"
   },
@@ -1195,7 +1426,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Se mi permettono di rispondere all'interrogante senza innervosirsi , faccio presente che l'Italia dei piccoli comuni e dei borghi rappresenta la spina dorsale del nostro Paese ed è compito della politica garantire la salvaguardia dei loro territori, non solo nei grandi centri, come Roma e Milano, ma soprattutto nei comuni sotto i 5.000 abitanti, che sono 5.000 comuni sugli 8.000 del nostro Paese. […]",
+   "sunto": "Se mi permettono di rispondere all'interrogante senza innervosirsi , faccio presente che l'Italia dei piccoli comuni e dei borghi rappresenta la spina dorsale del nostro Paese ed è compito della politica garantire la salvaguardia dei loro territori, non solo nei grandi centri, come Roma e…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00030.int00260"
   },
@@ -1208,7 +1442,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'interrogante, perché il problema da lei denunciato è uno dei primi su cui abbiamo cominciato a lavorare e continueremo a lavorare, cercando spazi di bilancio per i bonus , che sicuramente non sono la soluzione definitiva del problema, tanto che per colmare quello che è il problema dell'affitto e della residenza da subito abbiamo istituito tavoli tecnici di lavoro. […]",
+   "sunto": "Sono 4 quelli attualmente operativi sul tema piano casa, con l'ultimo piano casa degno di questo nome risalente agli anni Settanta. […] Il problema, però, è anche quella gran parte di italiani che non sono abbastanza in difficoltà da poter accedere alle graduatorie per le case popolari e non sono abbastanza benestanti, soprattutto nelle grandi città, per poter accedere al libero mercato dell'affitto o della vendita.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 444,
    "url": "https://www.camera.it/leg19/410?idSeduta=0261&tipo=stenografico#sed0261.stenografico.tit00040.sub00040.int00040"
   },
@@ -1221,7 +1458,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio per la concretezza e la chiarezza del quesito, che affronta un tema di particolare importanza, non solo, in Liguria, ma in tutta Italia, quale la messa in sicurezza delle nostre infrastrutture e, in particolare, la riqualificazione delle barriere antirumore per adeguare i livelli delle prestazioni alle più recenti norme tecniche. […]",
+   "sunto": "Sul tema da lei sollevato, Autostrade per l'Italia ha in corso un piano di adeguamento nel quale rientrano gli interventi sulla rete autostradale ligure per circa 39 chilometri.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00010.int00040"
   },
@@ -1234,7 +1474,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'interrogante perché mi permette di dare un aggiornamento puntuale e concreto su un dossier importante che abbiamo preso in mano sin dal giorno dell'insediamento nell'ottobre 2022. Ho considerato, infatti, assolutamente prioritaria la questione della rimozione dei divieti di transito sull'asse del Brennero, che creano caos, traffico, inquinamento, code e concorrenza sleale da parte di un Paese nei confront […]",
+   "sunto": "A fronte dell'inerzia della Commissione pluriennale - e vergognosa - e dell'intransigente posizione austriaca, dopo 4 anni di attesa di una soluzione negoziata, che non è arrivata, insieme al Presidente Meloni, al Ministro Fitto e agli altri Ministri competenti abbiamo, quindi, deciso, per la…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 430,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00020.int00040"
   },
@@ -1247,7 +1490,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli onorevoli interroganti per il quesito che mi consente di ribadire l'impegno di questi mesi assunto dal Ministero delle Infrastrutture, che ho l'onore di accompagnare, per dare risposte concrete a una regione del Mezzogiorno con grandi potenzialità, qual è la regione Basilicata. […]",
+   "sunto": "In particolare, saranno completati entro quest'anno: il primo lotto della statale 655 Bradanica, da lei accennata, del valore di 77 milioni di euro, con termine dei lavori previsto entro l'estate; i lavori di messa in sicurezza del tratto Potenza-Melfi della statale 658, del valore di 15 milioni…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 425,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00030.int00040"
   },
@@ -1260,7 +1506,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la domanda, e la risposta interessa ai cittadini genovesi e liguri, ma all'intero sistema economico italiano, perché la diga di Genova è fondamentale, si farà e rappresenterà uno snodo fondamentale per creare ulteriore lavoro e ricchezza in un territorio straordinario come quello del Nord-Ovest. Mi sento di rassicurare gli interroganti, lei ha fatto una precisa cronistoria. […]",
+   "sunto": "Ricordo anche che all'opera si applicano procedure semplificate volte all'accelerazione della sua realizzazione, già previste con il decreto-legge n. 77 del 2021, e al rispetto delle milestone relative alle opere del Fondo complementare al PNRR. […] Ricordo, tra l'altro, che la delibera dell'Anac non interrompe i lavori, tanto che la stessa Anac chiede di essere informata sullo stato di avanzamento degli stessi lavori.",
+   "temi": [],
    "parole": 468,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00040.int00040"
   },
@@ -1273,7 +1520,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli interroganti e mi ricollego e riprendo la risposta alla domanda precedente per completare la riflessione sulla diga di Genova e fornire elementi di ulteriore tranquillità, oltre a quelli già dati, circa il proseguimento dei lavori e la realizzazione di un'opera simbolo. […]",
+   "sunto": "In riferimento al quesito posto circa il rispetto dei tempi per la realizzazione dell'opera, ho già risposto nel precedente quesito: l'opera prosegue e proseguirà nel pieno rispetto del cronoprogramma previsto.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 491,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00050.int00040"
   },
@@ -1286,7 +1537,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli interroganti per l'ennesimo quesito sul tema ponte sullo Stretto di Messina, che mi consente, sempre nella massima trasparenza, di aggiornare quest'Aula sulle attività funzionali alla realizzazione dell'opera. Parto dal quesito. La direttiva sul controllo analogo sulla società concessionaria Stretto di Messina è stato adottato lo scorso 2 febbraio e registrata dalla Corte dei conti. […]",
+   "sunto": "La direttiva sul controllo analogo sulla società concessionaria Stretto di Messina è stato adottato lo scorso 2 febbraio e registrata dalla Corte dei conti.",
+   "temi": [],
    "parole": 460,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00090.sub00060.int00040"
   },
@@ -1299,7 +1551,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Colleghi, le domande poste mi consentono di aggiornare quest'Aula sulle iniziative intraprese dal Ministero dell'Infrastrutture e dei trasporti per la realizzazione di diverse opere strategiche che interessano tutta Italia, la Liguria e il comune di Genova, da lei citato. In premessa, vorrei sgombrare il campo da alcune preoccupazioni sollevate. […]",
+   "sunto": "Venendo ai quesiti, ritengo che fermare i lavori della diga significherebbe fermare lo sviluppo della Liguria, del nostro territorio e la competitività dell'Italia.",
+   "temi": [],
    "parole": 427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00010.int00040"
   },
@@ -1312,7 +1565,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, ritorno sulla questione sollevata anche nella precedente interrogazione, confermando che l'obiettivo prioritario del Ministero delle Infrastrutture e dei trasporti - che ho l'onore di guidare da un anno e mezzo e poco più - è quello di garantire l'operatività delle attività del porto di Genova, come dei porti di tutta Italia, e di sbloccare progetti infrastrutturali e cantieri che in alcuni casi erano fermi d […]",
+   "sunto": "Per quanto riguarda il primo quesito posto dagli onorevoli interroganti, evidenzio che oggi è stata costituita in seno al Ministero delle Infrastrutture e dei trasporti una commissione ispettiva ministeriale presso l'autorità di sistema portuale del mar Ligure occidentale.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 557,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00020.int00040"
   },
@@ -1325,7 +1581,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio per la domanda, anche da utente del servizio ferroviario, come la maggior parte di chi è in quest'Aula. Vorrei esprimere, anzitutto, la mia personale vicinanza, e penso di tutta l'Aula, al vice ispettore Christian Di Martino, aggredito nella stazione di Lambrate . […]",
+   "sunto": "I dati Trenitalia del 2023 sono stati i seguenti: 132.500 verbali emessi per mancanza o irregolarità nei titoli di viaggio su 400 milioni di passeggeri sul servizio trasporto regionale, più altri 11.377 verbali su un totale di circa 45 milioni di viaggiatori sull'alta velocità.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 562,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00030.int00040"
   },
@@ -1338,7 +1597,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, la ringrazio per il quesito, che riguarda tantissime persone, perché è vero: se oggi pomeriggio qualcuno fa ricorso, in base alla sentenza della Cassazione, il ricorso viene accolto e la multa non esiste. […]",
+   "sunto": "Per regolare il settore, dopo 13 anni di attesa, abbiamo finalmente adottato, in coerenza con l'articolo 142 del codice della strada, il decreto che disciplina le modalità di collocazione e uso di questi autovelox . […] Sì, quindi, agli autovelox dove servono; no agli autovelox trappola senza reali esigenze di sicurezza (Applausi dei deputati del gruppo Lega-Salvini Premier).",
+   "temi": [],
    "parole": 623,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00040.int00040"
   },
@@ -1351,7 +1611,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Presidente, ringrazio l'interrogante e lo “correggo”, lo dico fra virgolette. Nuoro, non è uno fra i pochi capoluoghi non collegati alla rete ferroviaria nazionale, è l'unico capoluogo in Italia, che ho trovato sulla scrivania, nel 2024. […]",
+   "sunto": "Per quanto riguarda la Nuoro-Macomer, che è uno dei dossier che ho preso in mano già 19 mesi fa, linea non connessa alla rete nazionale, come lei ricordava, dall'agosto del 2023 è stato istituito un tavolo tecnico presso la prefettura di Nuoro, che ringrazio, con la partecipazione del MIT, del…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 373,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00030.int00040"
   },
@@ -1364,7 +1627,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente Il quesito mi permette di ribadire in quest'Aula l'impegno già assunto diverse volte rispetto ai cittadini della provincia di Brescia in merito all'ipotesi di apposizione del pedaggio sul collegamento autostradale Corda Molle. Come ricostruito dall'onorevole interrogante, il 1° marzo 2018 aveva avuto avvio la gestione dell'attuale concessionaria Autovia Padana. […]",
+   "sunto": "Come ricostruito dall'onorevole interrogante, il 1° marzo 2018 aveva avuto avvio la gestione dell'attuale concessionaria Autovia Padana.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00040.int00040"
   },
@@ -1377,7 +1643,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie agli interroganti, che mi permettono di riassumere quello che, in questi 19 mesi, stiamo cercando di fare per recuperare gli anni che i Governi precedenti hanno perso. Considero la fruibilità e l'efficienza del trasporto pubblico non di linea una delle priorità del Ministero e del Governo, perché taxi e NCC significano mobilità, turismo, economia, sicurezza urbana e connettività. […]",
+   "sunto": "Nella prospettiva di un'azione sinergica e integrata, ricordo, con specifico riferimento ai servizi taxi, che già ad agosto dello scorso anno, nel decreto-legge Asset, abbiamo previsto misure per rafforzare l'offerta taxi, attraverso tre principali interventi a carattere emergenziale: licenze…",
+   "temi": [],
    "parole": 502,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00050.int00040"
   },
@@ -1390,7 +1657,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie ai colleghi, perché il quesito posto affronta un tema generale e uno territoriale che mi stanno particolarmente a cuore, da Ministro e da milanese, ovviamente. Sono lieto di fornire elementi sul tema, in un momento di estrema attività del Ministero, che ho l'onore di guidare, nel settore dell'edilizia, specialmente dell'edilizia urbana. […]",
+   "sunto": "Sono lieto di fornire elementi sul tema, in un momento di estrema attività del Ministero, che ho l'onore di guidare, nel settore dell'edilizia, specialmente dell'edilizia urbana. […] In autunno, infatti, stiamo lavorando con l'intenzione di presentare un disegno di legge delega per l'integrale riscrittura del testo unico dell'edilizia, nell'ottica della chiarezza e della semplicità delle regole.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 428,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00060.int00040"
   },
@@ -1403,7 +1673,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli interroganti. Vediamo se, dopo 150 anni, riusciamo a dare una risposta alle popolazioni di questo territorio sull'Appennino reggiano. Sin dal momento del mio insediamento ho cercato di colmare un ritardo strutturale evidente, cumulato non negli anni, ma nei decenni, rispetto alle infrastrutture del settore idrico, rilanciando una programmazione di medio e lungo periodo sull'approvvigionamento idrico pri […]",
+   "sunto": "In questa direzione, nel giugno 2023, in attuazione di un investimento PNRR, il MIT ha pubblicato un avviso per raccogliere da tutti i territori italiani proposte progettuali per un piano nazionale, finalmente integrato, di interventi infrastrutturali per la sicurezza nel settore idrico.",
+   "temi": [],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00070.int00040"
   },
@@ -1416,7 +1687,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la domanda. Mi ricollego alla risposta precedente, visto che l'emergenza idrica unisce il Paese, rassicurando in questo caso, dopo i cittadini emiliani, i cittadini siciliani sugli interventi relativi alle reti di distribuzione idrica sul loro territorio. […]",
+   "sunto": "Mi ricollego alla risposta precedente, visto che l'emergenza idrica unisce il Paese, rassicurando in questo caso, dopo i cittadini emiliani, i cittadini siciliani sugli interventi relativi alle reti di distribuzione idrica sul loro territorio.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00080.int00040"
   },
@@ -1429,7 +1703,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio i colleghi per il quesito che riguarda la situazione della carenza di personale degli uffici periferici della motorizzazione civile, diversi dei quali ho avuto modo di visitare personalmente. Si tratta di una questione particolarmente rilevante per il Ministero che rappresento e per i tanti italiani che aspirano a conseguire una patente di guida in tempi civili oppure a revisionare il proprio veicolo. […]",
+   "sunto": "Dall'insediamento dell'attuale Governo abbiamo lavorato in modo incisivo per invertire questa tendenza; di concerto con il Dipartimento della funzione pubblica e il Ministero dell'Economia, abbiamo promosso diverse azioni per trovare le risorse necessarie per un piano di assunzioni per colmare…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00050.sub00090.int00040"
   },
@@ -1442,7 +1719,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio anche gli interroganti. Ci sono sia la cabina di regia, sia il tavolo tecnico, sia i finanziamenti, finalmente, dopo anni di attesa. In particolare, la situazione che riguarda la Sicilia rappresenta un'emergenza nazionale per la quale stiamo mettendo in campo ogni azione utile a superare criticità emerse ed evidenti, ahimè, da anni. […]",
+   "sunto": "Ricordo gli ultimi interventi: il Consiglio dei ministri, il 6 maggio scorso, ha deliberato, per la durata di 12 mesi, la dichiarazione dello stato di emergenza di rilievo nazionale, stanziando, per i primi urgenti interventi, 20 milioni di euro.",
+   "temi": [],
    "parole": 332,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00010.int00040"
   },
@@ -1455,7 +1733,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il Presidente e il parlamentare della Lega per il quesito, che mi permette di ricordare cosa stiamo portando avanti per modernizzare la rete infrastrutturale in Sardegna. In premessa, voglio ricordare che, a fine 2022, regione Sardegna, Ministero, Rete Ferroviaria Italiana e ANAS hanno sottoscritto un protocollo d'intesa finalizzato al consolidamento e allo sviluppo degli interventi per il potenziamento e l […]",
+   "sunto": "A completamento dell'itinerario Olbia-Palau, per i tratti San Giovanni-Arzachena e Palau-Santa Teresa Gallura, è in fase di perfezionamento la redazione del quadro esigenziale per la successiva redazione del documento di fattibilità delle alternative progettuali.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00020.int00040"
   },
@@ -1468,7 +1749,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Ringrazio chi interroga, perché dare finalmente certezze sia agli NCC che ai taxi è un obiettivo del nostro Ministero. Parto dal quesito e dalla recente decisione della Corte costituzionale sulle autorizzazioni NCC da lei richiamata. […]",
+   "sunto": "È una sentenza auto-applicativa, quindi non necessita di nessun momento attuativo, in quanto si limita ad annullare la norma che vietava il rilascio di nuove autorizzazioni NCC nelle more della piena operatività del decreto sul registro elettronico degli operatori di settore.",
+   "temi": [],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00030.int00040"
   },
@@ -1481,7 +1763,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio il collega, perché con il quesito mi consente di fare chiarezza sulla posizione del Ministero circa la sperimentazione, come da lei ricordato, di un nuovo servizio per la riscossione del pedaggio autostradale. […]",
+   "sunto": "Il MIT ha accolto favorevolmente l'iniziativa di sperimentare questo nuovo sistema automatico di esazione del pedaggio, per i possibili vantaggi che l'utenza potrebbe ricavarne sia in termini di velocizzazione dei transiti che in termini di riduzione delle emissioni inquinanti.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00040.int00040"
   },
@@ -1494,7 +1779,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Il nostro sistema infrastrutturale, in tutta Italia, continua a scontare una fragilità causata da troppi anni senza adeguati investimenti. Per contrastare questa situazione, abbiamo cercato di intervenire sia sul trasporto ferroviario che su quello aereo, per sbloccare interventi necessari per rendere il Paese più moderno e veloce. […]",
+   "sunto": "Pur nella consapevolezza di alcune oggettive difficoltà - a partire dall'elevato numero di cantieri aperti, che non vi è mai stato, dall'affollamento ferroviario e dalla grande utenza che c'è sui treni, che sta aumentando di giorno in giorno - i vertici di RFI, Trenitalia e FS stanno…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 451,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00050.int00040"
   },
@@ -1507,7 +1795,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Con riferimento all'interruzione che ha interessato la tratta ferroviaria fra Vallo della Lucania e Sapri, i tecnici sono al lavoro per individuare le cause che hanno determinato l'evento. Intanto, dopodomani, venerdì 26 luglio, è prevista la riapertura della stessa tratta, grazie anche al grande impegno di tutto il personale coinvolto nelle operazioni di rimozione dei vagoni deragliati, personale […]",
+   "sunto": "I due lotti formeranno una nuova linea a doppio binario, con velocità massima pari a 300 chilometri orari - oggi inimmaginabile su quella tratta -, che consentirà la creazione di un'alternativa più veloce all'attuale percorso per raggiungere la Calabria.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00060.int00060"
   },
@@ -1520,7 +1812,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti.",
    "gruppo": null,
-   "estratto": "Grazie. Già con la legge di bilancio 2023 è stato istituito un Fondo per garantire un completo ed efficace sistema di collegamenti con la Sicilia e con la Sardegna, con un finanziamento di 5 milioni di euro per il 2023, poi incrementati di ulteriori 8 milioni, e di 15 milioni di euro annui a decorrere dal 2024 per ogni anno. […]",
+   "sunto": "Già con la legge di bilancio 2023 è stato istituito un Fondo per garantire un completo ed efficace sistema di collegamenti con la Sicilia e con la Sardegna, con un finanziamento di 5 milioni di euro per il 2023, poi incrementati di ulteriori 8 milioni, e di 15 milioni di euro annui a decorrere…",
+   "temi": [],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0332&tipo=stenografico#sed0332.stenografico.tit00040.sub00070.int00040"
   },
@@ -1533,7 +1826,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio, anche da milanese, per l'interrogazione. Il quesito posto riguarda una vicenda che noi, ahimè, ben conosciamo. Premetto che le competenze del Ministero delle Infrastrutture e dei trasporti in merito sono assolutamente residuali, visto che le competenze sono delle regioni e dei comuni. […]",
+   "sunto": "Il comune, con delibera della giunta comunale del 18 aprile scorso, e poi con un'ordinanza sindacale del successivo 12 luglio, ha disposto, come lei ricordava, il trasferimento di 34 nuclei familiari rom, residenti nel campo di via Bonfadini, in alloggi di edilizia residenziale della società…",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 334,
    "url": "https://www.camera.it/leg19/410?idSeduta=0337&tipo=stenografico#sed0337.stenografico.tit00050.sub00010.int00040"
   },
@@ -1546,7 +1844,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per il quesito, che mi consente di fornire a quest'Aula e ai cittadini un aggiornamento sullo stato dei lavori del Terzo Valico dei Giovi, che, a lavori ultimati, unirà in un'ora, con l'alta velocità, Genova-Milano, Genova-Torino e Torino-Milano, e rassicurare i cittadini sulla prosecuzione dei lavori, nonostante le difficoltà legate al contesto geologico e al ritrovamento di giacimenti di gas a cui lei fac […]",
+   "sunto": "Dei 4 fronti di scavo non attivi, 2 si trovano in località Radimero, dove sono in corso le attività di allargamento dello scavo per estrarre le teste delle frese bloccate.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0349&tipo=stenografico#sed0349.stenografico.tit00050.sub00040.int00040"
   },
@@ -1559,7 +1860,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. L'occasione mi è utile per ricordare che stiamo investendo oltre 30 milioni di euro, finanziati anche tramite PNRR, sulla rete ferroviaria nazionale: quantità di investimenti, soprattutto per la sicurezza, che non conosce precedenti nella storia, con migliaia di cantieri aperti per manutenzione, potenziamento e ammodernamento della rete. […]",
+   "sunto": "L'occasione mi è utile per ricordare che stiamo investendo oltre 30 milioni di euro, finanziati anche tramite PNRR, sulla rete ferroviaria nazionale: quantità di investimenti, soprattutto per la sicurezza, che non conosce precedenti nella storia, con migliaia di cantieri aperti per manutenzione,…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0349&tipo=stenografico#sed0349.stenografico.tit00050.sub00050.int00040"
   },
@@ -1572,7 +1877,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rispondo con il sorriso e con educazione a un'interrogazione surreale, però, d'altronde, ognuno fa la sua parte. Alla fine dell'interrogazione, che lei non ha letto evidentemente per pudore, mi chiede se io, prima, o oggi inviti i dipendenti dei miei Ministeri a violare i principi costituzionali e le leggi vigenti. Evidentemente no. […]",
+   "sunto": "Sono orgoglioso del lavoro svolto da Ministro dell'Interno e, ancora oggi, prefetti e questori ricordano quei momenti, così come sono orgoglioso del lavoro svolto oggi al Ministero delle Infrastrutture. […] Il risultato di cui vado più orgoglioso è il fatto che noi riducemmo, durante il nostro mandato al Ministero dell'Interno, del 95 per cento e del 55 per cento i morti e i dispersi nel Mar Mediterraneo .",
+   "temi": [],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0349&tipo=stenografico#sed0349.stenografico.tit00050.sub00060.int00040"
   },
@@ -1585,7 +1891,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il deputato Zanella e il Presidente. Colleghi, la progettazione della diga del Vanoi, come lei ricordava, in Veneto, al confine con la provincia autonoma di Trento, è stata finanziata dal Ministero dell'Agricoltura, nell'ambito di un bando di selezione per la progettazione integrata strategica di interventi nel campo delle infrastrutture irrigue. […]",
+   "sunto": "La progettazione della diga del Vanoi, come lei ricordava, in Veneto, al confine con la provincia autonoma di Trento, è stata finanziata dal Ministero dell'Agricoltura, nell'ambito di un bando di selezione per la progettazione integrata strategica di interventi nel campo delle infrastrutture…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0358&tipo=stenografico#sed0358.stenografico.tit00010.sub00010.int00040"
   },
@@ -1598,7 +1907,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio per il quesito, perché la qualità del lavoro e il diritto al lavoro dei portuali sta a cuore a lei come sta a cuore a me e sta a cuore alla maggioranza - penso assoluta - di quest'Aula. Lei mi consente di fare chiarezza - come dicevo - su un profilo strategico per lo sviluppo del settore portuale su cui stiamo investendo miliardi di euro, cioè, quello relativo alle tutele che devono circondare l'autoprod […]",
+   "sunto": "La ringrazio per il quesito, perché la qualità del lavoro e il diritto al lavoro dei portuali sta a cuore a lei come sta a cuore a me e sta a cuore alla maggioranza - penso assoluta - di quest'Aula.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 411,
    "url": "https://www.camera.it/leg19/410?idSeduta=0358&tipo=stenografico#sed0358.stenografico.tit00010.sub00020.int00040"
   },
@@ -1611,7 +1923,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ovviamente, sia la diga foranea di Genova, che porterà le grandi navi - ciò vuol dire: sviluppo, lavoro, business e infrastrutture - in Liguria e in tutta Italia, sia la Gronda, sono due interventi fondamentali che sono fra le priorità di questo Ministro e di questo Governo. […]",
+   "sunto": "Ovviamente, sia la diga foranea di Genova, che porterà le grandi navi - ciò vuol dire: sviluppo, lavoro, business e infrastrutture - in Liguria e in tutta Italia, sia la Gronda, sono due interventi fondamentali che sono fra le priorità di questo Ministro e di questo Governo.",
+   "temi": [
+    "Ambiente e clima",
+    "Casa e infrastrutture"
+   ],
    "parole": 414,
    "url": "https://www.camera.it/leg19/410?idSeduta=0358&tipo=stenografico#sed0358.stenografico.tit00010.sub00030.int00040"
   },
@@ -1624,7 +1940,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio anche lei per l'interrogazione che mi permette di puntualizzare qual è lo stato dell'arte. La realizzazione del collegamento funiviario tra la stazione marittima e Forte Begato a Genova rientra in un più ampio progetto, come lei parlava, di recupero e rilancio del Sistema dei Forti genovesi, finanziato con il Piano nazionale per gli investimenti complementari nella titolarità del Ministero della cultura. […]",
+   "sunto": "La realizzazione del collegamento funiviario tra la stazione marittima e Forte Begato a Genova rientra in un più ampio progetto, come lei parlava, di recupero e rilancio del Sistema dei Forti genovesi, finanziato con il Piano nazionale per gli investimenti complementari nella titolarità del…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 377,
    "url": "https://www.camera.it/leg19/410?idSeduta=0358&tipo=stenografico#sed0358.stenografico.tit00010.sub00040.int00040"
   },
@@ -1637,7 +1956,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per il tema di assoluto interesse e sensibilità compreso nel nuovo codice degli appalti, che è in vigore da poco più di un anno e che fa risparmiare mediamente fra i 6 e gli 8 mesi di burocrazia sia alle imprese che agli enti locali. L'inserimento lavorativo delle persone con disabilità, anche negli appalti pubblici, è un obiettivo primario, per quello che mi riguarda, economicamente e socialmente. […]",
+   "sunto": "Proprio in riferimento al nuovo codice dei contratti pubblici, che è entrato in vigore il 1° luglio dello scorso anno, ricordo che oggi gli atti di gara devono obbligatoriamente includere clausole sociali che vincolino gli operatori economici a inserire nelle proprie offerte misure orientate a…",
+   "temi": [],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0358&tipo=stenografico#sed0358.stenografico.tit00010.sub00050.int00040"
   },
@@ -1650,7 +1970,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, che bella giornata di sole quella di oggi ! È una constatazione meramente meteorologica. È una presa d'atto, arriva tanta luce da fuori: è solo questo che mi limitavo a sottolineare. Ringrazio per il quesito, che mi consente di ribadire il costante impegno del Ministero nel settore della casa, dal primo giorno dei 2 anni dall'insediamento. […]",
+   "sunto": "Inoltre - e vado a chiudere - nei prossimi mesi sarà adottato il Piano casa Italia, tema che non si affrontava da decenni che, dopo troppo tempo di mancata pianificazione, intende affrontare in chiave organica i problemi del disagio abitativo per una complessiva riorganizzazione del sistema…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 532,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00020.int00040"
   },
@@ -1663,7 +1986,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. In premessa, come lei ricordava, rappresento che, nell'ambito dei collegamenti ferroviari, la direttrice Roma-Pescara riveste un ruolo rilevante e fondamentale nei programmi di sviluppo e di potenziamento infrastrutturale della rete ferroviaria nazionale. […]",
+   "sunto": "Vorrei ricordare che, a causa dei ritardi registrati nella conclusione degli iter autorizzativi e dell'impossibilità di completare i lavori entro il 2026, termine previsto dal PNRR, il Governo si è impegnato a individuare una copertura finanziaria alternativa al PNRR per il finanziamento dell'opera.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima",
+    "Casa e infrastrutture"
+   ],
    "parole": 452,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00030.int00060"
   },
@@ -1676,7 +2004,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il gruppo della Lega per l'interrogazione che mi permette di ricordare che noi abbiamo chiesto e ottenuto i voti per semplificare la vita ai cittadini, non per complicare la vita ai cittadini . Ci manca il dibattito sul portabici. […]",
+   "sunto": "Rappresento che la circolare MIT del settembre 2023 individuava procedure idonee a consentire la circolazione in sicurezza di strutture portabiciclette che occultano le luci e la targa per motivi di sicurezza.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 543,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00040.int00040"
   },
@@ -1689,7 +2020,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il collega che interroga. La delocalizzazione dei depositi per i prodotti chimici in Multedo è un tema affrontato da diversi anni, come lei e i genovesi sanno, in contraddittorio con i gestori degli stessi depositi, nonché con l'amministrazione comunale di Genova, in quanto l'attuale localizzazione presenta una critica convivenza con il contesto urbano residenziale. […]",
+   "sunto": "Per quanto attiene alle recenti iniziative della Capitaneria di porto di Genova, rappresento che il 10 ottobre scorso è stato approvato un nuovo Regolamento di sicurezza del porto, entrato in vigore lo scorso 1° novembre.",
+   "temi": [],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00050.int00040"
   },
@@ -1702,7 +2034,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Innanzitutto, vorrei esprimere la mia personale vicinanza e quella di tutta l'Aula al capotreno Rosario Ventura , aggredito sul treno da lei ricordato, con cui ho avuto modo di dialogare e che, fortunatamente, potrà tornare dalla famiglia, secondo i report medici, entro breve tempo. […]",
+   "sunto": "Nei primi dieci mesi del 2024, rispetto al corrispondente periodo del 2023, si sono registrati - grazie a questi ragazzi, che ringrazio in quest'Aula - i seguenti aumenti: più 35 per cento i controlli a bordo; più 30 per cento i controlli sugli accessi; più 30 per cento i treni controllati; più…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 587,
    "url": "https://www.camera.it/leg19/410?idSeduta=0377&tipo=stenografico#sed0377.stenografico.tit00060.sub00060.int00040"
   },
@@ -1715,7 +2051,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie ai colleghi. Consentitemi, innanzitutto, di esprimere il mio e - immagino - il vostro sostegno ai 92.000 dipendenti del gruppo Ferrovie dello Stato e alle donne e agli uomini delle Forze dell'ordine , che ogni giorno sono impegnati in attività delicate e non meritano le troppe polemiche, insinuazioni e accuse che, a volte, ci sono anche sul loro operato. […]",
+   "sunto": "In data 11 gennaio 2025, alle ore 7,11, il Freccia 9515 si è fermato tra Milano Centrale e Milano Lambrate a causa della disalimentazione della linea elettrica con rottura del filo e pantografo danneggiato; successivamente, alle ore 7,49, l'Italo 8973 all'atto della partenza da Milano Centrale…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 2483,
    "url": "https://www.camera.it/leg19/410?idSeduta=0413&tipo=stenografico#sed0413.stenografico.tit00100.sub00010.int00010"
   },
@@ -1728,7 +2069,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie al collega Manes. Come da lei ricordato, lo scorso 17 ottobre è stato firmato al Ministero delle Infrastrutture e dei trasporti un importante Accordo sul cabotaggio transfrontaliero tra Italia e Svizzera con l'obiettivo di rafforzare i collegamenti tra i due Paesi, migliorando l'accesso a opportunità lavorative e favorendo un'interconnessione più efficace tra Italia e Svizzera, appunto. […]",
+   "sunto": "Per quanto concerne le competenze del MIT, che ho l'onore di presiedere, lo scorso 27 gennaio abbiamo inviato al Ministero degli Affari esteri le integrazioni documentali richieste ai fini del perfezionamento dell' iter di ratifica dell'Accordo.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 334,
    "url": "https://www.camera.it/leg19/410?idSeduta=0435&tipo=stenografico#sed0435.stenografico.tit00060.sub00010.int00040"
   },
@@ -1741,7 +2085,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio, perché la maggioranza dei nostri concittadini abita in piccoli comuni, non abita solo in centro a Milano, a Roma, a Torino o a Napoli. A proposito, colgo l'occasione per salutare e ringraziare tutti i sindaci dei piccoli comuni italiani , a prescindere dal colore politico, che spesso fanno lavoro e volontariato per la propria comunità. […]",
+   "sunto": "Proprio a questo obiettivo è rivolto il Fondo degli investimenti stradali nei piccoli comuni che, come da lei ricordato, intende sostenere i piccoli comuni nella messa in sicurezza di strade, ponti e viadotti, istituito da quando sono arrivato al Ministero.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 433,
    "url": "https://www.camera.it/leg19/410?idSeduta=0435&tipo=stenografico#sed0435.stenografico.tit00060.sub00020.int00040"
   },
@@ -1754,7 +2101,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. A parte il fatto che, se fosse incostituzionale, non saremmo qui a parlarne oggi, però, fatta questa dovuta premessa, il quesito riguarda una delle innovazioni introdotte dal correttivo al codice dei contratti pubblici, entrato in vigore lo scorso 31 dicembre, che, lo ricordo a beneficio di tutti, è stato adottato per fornire risposte ad alcuni precisi obiettivi: promuovere appalti di qualità, favorire la par […]",
+   "sunto": "A parte il fatto che, se fosse incostituzionale, non saremmo qui a parlarne oggi, però, fatta questa dovuta premessa, il quesito riguarda una delle innovazioni introdotte dal correttivo al codice dei contratti pubblici, entrato in vigore lo scorso 31 dicembre, che, lo ricordo a beneficio di…",
+   "temi": [],
    "parole": 502,
    "url": "https://www.camera.it/leg19/410?idSeduta=0435&tipo=stenografico#sed0435.stenografico.tit00060.sub00030.int00040"
   },
@@ -1767,7 +2115,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Colleghi, il quesito posto ci chiede se siamo nelle condizioni di portare presto al CIPESS, quindi all'approvazione del progetto definitivo, le deliberazioni di competenza sul ponte sullo Stretto. La risposta è semplice: sì. Il progetto approderà presto al CIPESS e ci arriverà nel rispetto di tutti gli standard richiesti dalle direttive ambientali di settore. […]",
+   "sunto": "Ricordo che la procedura di compatibilità ambientale del progetto si è completata lo scorso 13 novembre con il parere positivo della Commissione tecnica VIA-VAS, che, lo sottolineo, è una Commissione tecnica e non politica. […] Anche su tali documenti dovrà esprimersi la Commissione tecnica VIA-VAS, prima dell'invio alla Commissione europea, come previsto dalla direttiva Habitat.",
+   "temi": [
+    "Ambiente e clima",
+    "Casa e infrastrutture"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00010.int00040"
   },
@@ -1780,7 +2132,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio gli interroganti che mi permettono di rifare chiarezza, ricordando date e nomi. In data 31 maggio 2017, all'esito di una procedura di gara europea, il Ministero delle Infrastrutture e dei trasporti sottoscrisse un contratto di concessione con la società Autovia Padana per la costruzione, gestione e manutenzione dell'autostrada A21 Piacenza-Cremona-Brescia, inclusa la diramazione per Fiorenzuola d'Arda, e de […]",
+   "sunto": "Come ho più volte spiegato, finanche in una lettera ufficiale al presidente della provincia di Brescia del maggio 2024, ciò non sarebbe potuto avvenire prima che il concessionario avesse terminato i lavori e senza l'approvazione dell'aggiornamento del piano economico-finanziario della concessione.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 343,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00020.int00040"
   },
@@ -1793,7 +2148,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Innanzitutto, ringrazio l'Aula perché i dati rilevati da Polizia stradale e Carabinieri dei primi 3 mesi di entrata in vigore del codice della strada ci dicono che abbiamo lavorato, avete lavorato bene, perché, rispetto agli stessi 3 mesi dell'anno scorso, si sono registrati 61 morti in meno e 800 feriti in meno . […]",
+   "sunto": "Innanzitutto, ringrazio l'Aula perché i dati rilevati da Polizia stradale e Carabinieri dei primi 3 mesi di entrata in vigore del codice della strada ci dicono che abbiamo lavorato, avete lavorato bene, perché, rispetto agli stessi 3 mesi dell'anno scorso, si sono registrati 61 morti in meno e…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00030.int00060"
   },
@@ -1806,7 +2166,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie per la questione che mi permette, innanzitutto, di ringraziare tutte le lavoratrici e i lavoratori delle Ferrovie dello Stato, e poi di ringraziare il mezzo miliardo di viaggiatori che, solo nel 2024, ha scelto i treni del nostro Paese. È una cifra record, mai avuta prima, in crescita assoluta rispetto al passato; un traguardo e una vittoria dell'intero Paese. […]",
+   "sunto": "Secondo i dati forniti dal gruppo FS, nei primi 2 mesi del 2025 la puntualità si attesta all'80,9 per cento per l'alta velocità, all'89,3 per cento per i treni Intercity e al 91,3 per cento per i treni regionali.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00040.int00040"
   },
@@ -1819,7 +2183,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio, Presidente, il collega, che ricorda che i cittadini aspettano da 40 anni. Noi siamo bravini, però fare in 2 anni quello che non hanno fatto in 40 anni è abbastanza ambiziosa come cosa . Però, vado a rispondere sui due quesiti da lei, assolutamente in maniera precisa, sollevati. […]",
+   "sunto": "Con riguardo invece al secondo lotto, tra San Salvatore Telesino e Caianello, oggetto specifico della seconda parte del quesito da lei riportato, confermo che è stato predisposto il progetto definitivo dell'opera da parte di ANAS.",
+   "temi": [],
    "parole": 389,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00050.int00060"
   },
@@ -1832,7 +2197,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. È chiaro che, in premessa, ogni tipo di disservizio sulla linea ferroviaria non può essere accettato come normalità. Precisiamo adesso i numeri, non le opinioni o le impressioni che il suo intervento mi permette di precisare. Nei primi mesi del 2025 è cresciuta la puntualità di tutti i servizi ferroviari erogati. […]",
+   "sunto": "Alla fine del mese di marzo scorso i treni in orario si attestano per l'alta velocità all'82,8 per cento, per gli Intercity all'89,4 per cento, per i regionali al 91,3 per cento.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 491,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00040.int00040"
   },
@@ -1845,7 +2214,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La ringrazio. È chiaro che sono i tecnici, ovviamente, a decidere come e dove cominciano e quanto durano i cantieri e non è la politica. In premessa, ricordo che anche quest'estate la regione Lombardia, la regione Liguria, Trenitalia e Trenord hanno rinnovato il servizio di potenziamento dei collegamenti ferroviari tra le due regioni, servizi aggiuntivi che garantiranno concrete opportunità ai turisti e a tutta l'ute […]",
+   "sunto": "Come da lei ricordato, sulla linea Milano-Genova sono previsti lavori necessari e urgenti di manutenzione straordinaria del ponte sul Po di Bressana Bottarone, volti a garantire la sicurezza dell'infrastruttura, che è prioritaria, e a migliorare il sistema trasportistico dei territori interessati.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 374,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00050.int00040"
   },
@@ -1858,7 +2230,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. È curioso che chi chiede di spendere meno per arrivare in Sicilia sia contro il ponte sullo Stretto di Messina che permetterà di arrivare in Sicilia più velocemente, spendendo meno . Però, lascio a lei le valutazioni. Io rispondo leggendo quello che un altro Ministro ha risposto, perché ha sbagliato indirizzo. Infatti, il Ministro che si occupa di voli e di tariffe aeree è il Ministro Urso. […]",
+   "sunto": "Comunque, il Ministero del collega Urso ha comunicato che gli uffici del Garante per la sorveglianza dei prezzi effettuano un duplice monitoraggio, sia sui prezzi dei biglietti aerei, sia sui prezzi minimi rilevati online .",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 478,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00060.int00040"
   },
@@ -1871,7 +2247,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ricordo - come lei ha giustamente ricordato - che, con il decreto del 2024, finalmente, per la prima volta, dopo anni di vuoto normativo, abbiamo dato un quadro giuridico ai corsi di formazione e ai brevetti per l'attività di assistenti bagnanti. L'interrogazione da lei fatta al Ministro giusto, questa volta, arriva all'inizio della stagione balneare e, quindi, è particolarmente importante. […]",
+   "sunto": "Ricordo - come lei ha giustamente ricordato - che, con il decreto del 2024, finalmente, per la prima volta, dopo anni di vuoto normativo, abbiamo dato un quadro giuridico ai corsi di formazione e ai brevetti per l'attività di assistenti bagnanti.",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00070.int00100"
   },
@@ -1884,7 +2264,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La ringrazio da Ministro e da milanese per l'interrogazione. Come lei osservava in premessa, le vicende giudiziarie e amministrative relative alle operazioni della cosiddetta demo-ricostruzione nel comune di Milano non possono ricadere su 15.000 famiglie che, in completa buona fede, hanno comprato un'abitazione, investendo su tale abitazione tutti i propri risparmi e le proprie aspettative. […]",
+   "sunto": "Dal confronto nacque la proposta emendativa, sostenuta dal mio Ministero nel corso dell'esame del decreto-legge Salva casa - che, poi, è stato convertito in legge - che, purtroppo, per volontà di diverse forze politiche che non la pensavano come me e come la Lega, non ha avuto alcun seguito.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 482,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00090.sub00080.int00040"
   },
@@ -1897,7 +2280,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio. Genova sta vivendo una fase di grande trasformazione infrastrutturale dopo troppi decenni di “no” da parte delle giunte di sinistra che si sono susseguite, con progetti strategici volti a migliorare la connettività della città e la competitività del suo porto, che significa lavoro e ricchezza per i cittadini. […]",
+   "sunto": "Genova sta vivendo una fase di grande trasformazione infrastrutturale dopo troppi decenni di “no” da parte delle giunte di sinistra che si sono susseguite, con progetti strategici volti a migliorare la connettività della città e la competitività del suo porto, che significa lavoro e ricchezza…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 467,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00010.int00040"
   },
@@ -1910,7 +2296,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, anche perché sono due anni che parlate di un pedaggio che ad oggi ancora non c'è. Quindi, sono usciti circa 150 articoli diversi che annunciavano il pedaggio sulla Corda Molle: 2023, 2024; siamo a luglio 2025 e non c'è il pedaggio sulla Corda Molle e per tutto il 2025 non ci sarà nessun pedaggio sulla Corda Molle. […]",
+   "sunto": "Quindi, sono usciti circa 150 articoli diversi che annunciavano il pedaggio sulla Corda Molle: 2023, 2024; siamo a luglio 2025 e non c'è il pedaggio sulla Corda Molle e per tutto il 2025 non ci sarà nessun pedaggio sulla Corda Molle.",
+   "temi": [],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00010.int00040"
   },
@@ -1923,7 +2310,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il deputato per la questione. Assicurare il rispetto delle norme del codice della strada da parte di tutti i conducenti, italiani e stranieri, rappresenta una priorità imprescindibile per garantire la sicurezza sulle nostre strade e tutelare l'incolumità dei cittadini. […]",
+   "sunto": "Assicurare il rispetto delle norme del codice della strada da parte di tutti i conducenti, italiani e stranieri, rappresenta una priorità imprescindibile per garantire la sicurezza sulle nostre strade e tutelare l'incolumità dei cittadini.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 400,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00020.int00040"
   },
@@ -1936,7 +2326,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. In premessa, ringrazio le decine di migliaia di lavoratori e lavoratrici delle Ferrovie dello Stato, che, ogni giorno, danno il massimo per offrire un servizio all'altezza di questo Paese e che non meritano di essere buttati in politica in questa maniera qua. […]",
+   "sunto": "Ci sono più di 1.200 cantieri aperti, frutto anche degli investimenti del PNRR, massimo storico, e, come lei ricordava, proprio perché abbiamo tanti cantieri aperti per recuperare il tempo di chi, i cantieri, non li apriva, nel triennio 2023-2025 le ore di interruzione previste a causa di questi…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Scuola e università",
+    "Casa e infrastrutture"
+   ],
    "parole": 407,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00030.int00040"
   },
@@ -1949,7 +2344,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ricordando che quando si parla di Veneto e di Luca Zaia si parla di una delle regioni meglio amministrate d'Europa, stando a tutte le rilevazioni . Quindi, ringrazio gli amici del MoVimento 5 Stelle per sottolineare questo esempio di buon governo. […]",
+   "sunto": "Per fare un esempio concreto, nel 2025, a fronte dei circa 160 milioni di euro di canone, la regione ha stimato entrate da pedaggio che riducono significativamente l'impegno finanziario netto, pari a circa 42 milioni.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 514,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00040.int00040"
   },
@@ -1962,7 +2360,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'interrogante, così come ne approfitto per ringraziare le imprese e gli operai che anche oggi stanno lavorando sulla Torino-Lione e, ahimè, sono anche costretto a ringraziare gli oltre 400 poliziotti, carabinieri, finanzieri e militari dell'Esercito che sono costretti a presidiare gallerie e mezzi di lavoro. […]",
+   "sunto": "La realizzazione della nuova linea ferroviaria Torino-Lione non è solo - e la mia premessa lo dice - un'opera infrastrutturale, ma è una scelta strategica per il bene e per il futuro dell'Italia e dell'Europa, che unirà l'Italia alla Francia, rilanciando il triangolo industriale…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 389,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00080.sub00010.int00040"
   },
@@ -1975,7 +2376,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole Bonelli, che dà sempre uno stimolo a lavorare sempre di più e meglio. Se avessimo adottato le sue politiche del “no”, non avremmo l'Autostrada del Sole e l'alta velocità, e andremmo in giro a cavallo nel nostro Paese . Fortunatamente i nostri genitori hanno avuto un altro approccio. Come lei ricordava, la Corte dei conti ha deciso di sottoporre la valutazione alla sezione centrale di controllo. […]",
+   "sunto": "Duecentomila tonnellate di CO2 in meno emesse nell'aria all'anno, 6.000 veicoli al giorno e 200 treni al giorno che, invece di alcune ore, attraverseranno lo Stretto in alcuni minuti, nel rispetto anche della direttiva 2014/24/UE sui profili di evidenza pubblica da lei ricordati.",
+   "temi": [],
    "parole": 376,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00080.sub00020.int00040"
   },
@@ -1988,7 +2390,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Che un ponte non abbia interesse pubblico lo scopro oggi . Io poi sto in periferia a Milano, quindi… Però, detto questo, ognuno la vede come vuole. Ripeto, il Partito Comunista Italiano non voleva l'autostrada del Sole, negli anni ‘50 e '60; fortunatamente abbiamo l'autostrada del Sole . Un'opera pubblica che coinvolgerà - ripeto, secondo i dati dei tecnici, non della Lega - 120.000 unità lavoro. […]",
+   "sunto": "Secondo: se si fa il ponte non si fanno tutte le altre opere in Calabria e Sicilia. […] È del tutto infondata poi la tesi di chi sostiene che abbiamo concentrato risorse sul ponte a danno di altre infrastrutture in Calabria, in Sicilia o altrove.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 388,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00080.sub00030.int00040"
   },
@@ -2001,7 +2406,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'onorevole ha assolutamente ragione e lo ringrazio per l'interrogazione. Al di là degli investimenti che, lei sa, stiamo portando avanti tutti insieme in Liguria come gioco di squadra, e non questo Governo o quello di prima, la Lega e chiunque altro, dalla diga foranea al sottopasso, alla benedetta Gronda, su cui mi sto cimentando con gli amici di Autostrade per l'Italia, che era una promessa che […]",
+   "sunto": "Gli uffici del Garante per la sorveglianza dei prezzi, istituito presso tale Ministero, effettuano un duplice monitoraggio, sia sui prezzi dei biglietti aerei, sia sui prezzi minimi rilevati online in corrispondenza dei periodi di potenziale picco della domanda - e si avvicinano le feste di…",
+   "temi": [],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00080.sub00040.int00040"
   },
@@ -2014,7 +2420,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Lei solleva un problema reale e adesso, in un minuto, cerco di spiegarle dov'è l'intoppo, che non è in quest'Aula. Torniamo a parlare di trasporto aereo, in particolare della continuità territoriale per l'aeroporto di Brindisi. È un tema serio, concreto, che riguarda il diritto alla mobilità dei cittadini pugliesi. […]",
+   "sunto": "A gennaio, la regione Puglia ha chiesto di avviare la conferenza dei servizi e il Ministero dell'Infrastrutture subito si è attivato.",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 373,
    "url": "https://www.camera.it/leg19/410?idSeduta=0555&tipo=stenografico#sed0555.stenografico.tit00080.sub00050.int00040"
   },
@@ -2027,7 +2437,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Ringrazio gli interroganti. Parto da una premessa: il ponte sullo Stretto si farà. Milioni di italiani lo vogliono, lo aspettano, lo meritano. Oltretutto, la realizzazione del ponte sullo Stretto di Messina non è un capriccio del Ministro Salvini o del Governo, è una priorità per la stessa Unione europea. […]",
+   "sunto": "Ricordo che già nel 1984, su proposta dell'allora commissario dei trasporti dell'Unione europea, il ponte sullo Stretto venne identificato tra gli anelli mancanti per aumentare i collegamenti tra i Paesi dell'Unione.",
+   "temi": [
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 454,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00100.sub00010.int00040"
   },
@@ -2040,7 +2454,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Mah, fortuna che non avete avuto ragione voi, bloccando i lavori della TAV e hanno avuto ragione gli italiani, che vogliono le opere e gli operai che sono in cantiere. L'obiettivo, ovviamente, è verificare ogni aspetto di quelli da lei sollevati, nella convinzione che si tratti di rilievi suscettibili di chiarimento. […]",
+   "sunto": "Ricordo che, solo per la realizzazione della strada statale 106 Jonica, sono stati stanziati circa 4 miliardi di euro : un miliardo nei passati trent'anni, 4 miliardi in tre anni di questo Governo e con questo Ministero; per la velocizzazione della tratta ferroviaria Salerno-Reggio Calabria sono…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 459,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00100.sub00020.int00040"
   },
@@ -2053,7 +2470,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Innanzitutto mi complimento con la presidente Boschi per la scelta cromatica del vestito con cui si presenta oggi in Aula . Il tema della sostenibilità dei prezzi dei trasporti è oggetto di monitoraggio costante da parte del Governo, specialmente nei periodi come quelli festivi, che lei ricordava. […]",
+   "sunto": "I dati Istat relativi al mese di ottobre evidenziano una diminuzione dell'1 per cento rispetto a ottobre 2024, mentre i dati provvisori di novembre mostrano su base annua una flessione dello 0,6 per cento. […] I dati Istat provvisori dell'ultimo mese di novembre documentano una flessione annua dell'1,4 per cento dei prezzi.",
+   "temi": [
+    "Energia e carburanti",
+    "Casa e infrastrutture"
+   ],
    "parole": 558,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00100.sub00030.int00040"
   },
@@ -2066,7 +2487,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il gruppo della Lega per questo question time . Finalmente, come promesso, dal 28 novembre è online l'elenco ufficiale dei dispositivi di rilevamento della velocità autorizzati in tutta Italia e questo lo dico a chi è in quest'Aula e a chi ci sta con pazienza seguendo da casa. […]",
+   "sunto": "Finalmente, come promesso, dal 28 novembre è online l'elenco ufficiale dei dispositivi di rilevamento della velocità autorizzati in tutta Italia e questo lo dico a chi è in quest'Aula e a chi ci sta con pazienza seguendo da casa. […] I numeri parlano chiaro: al 1° dicembre 2025 risultano censiti 3.496 dispositivi, di cui il 93 per cento dedicati alla velocità istantanea e il 7 per cento alla velocità media.",
+   "temi": [],
    "parole": 390,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00100.sub00040.int00040"
   },
@@ -2079,7 +2501,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringraziando il collega per l'interrogazione, mi prendo i primi 20 secondi per esprimere la vicinanza mia, come Ministro, e dell'intera Aula immagino, alle popolazioni di Calabria, Sicilia e Sardegna, che sono in queste ore vittime del maltempo. […]",
+   "sunto": "Rispondendo al tema della A14, che è uno dei dossier più corposi e per me importanti che ho sulla scrivania, dopo alcuni anni, se non decenni, di attesa, come lei ricordava, questo è l'aggiornamento ad oggi dei lavori: l'importo dei lavori attualmente in corso sulla A14 è di 441 milioni di euro,…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 487,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00060.sub00010.int00040"
   },
@@ -2092,7 +2517,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio l'interrogante. Lei sa meglio di me che il sistema di pedaggiamento di cui lei parlava, attualmente in vigore sulla tangenziale di Napoli, non è stato deciso oggi da questo Governo, ma è stato deciso da una convenzione del 2009, approvata nel 2010, con validità fino al 2037. Questi sono i termini temporali di cui stiamo parlando. […]",
+   "sunto": "Come lei ricordava, è una tratta di 20 chilometri e ogni utente paga una percorrenza forfettaria di 10 chilometri, indipendentemente dai chilometri effettivi percorsi.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 330,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00060.sub00020.int00060"
   },
@@ -2105,7 +2533,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. I veicoli storici, per milioni di italiani, non sono solo un mezzo di trasporto ma sono il simbolo di un patrimonio industriale e culturale tutto italiano e, come tale, vanno assolutamente tutelati e in questa direzione stiamo lavorando. […]",
+   "sunto": "In questo quadro, alcune icone di questo ingegno, tutto italiano, che lei ricordava, come la Fiat 500 e la Vespa, assumono un significato che va oltre quello riservato ai veicoli di epoca nel loro complesso; insomma, sono l'immagine dell'Italia nel mondo.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 350,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00060.sub00030.int00060"
   },
@@ -2118,7 +2549,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. A proposito di trasporto ferroviario, ribadisco, penso a nome di tutti, la nostra vicinanza alle istituzioni e alla popolazione spagnola per quello che è avvenuto, nelle ultime ore, sulle linee di trasporto ferroviario iberiche. […]",
+   "sunto": "Il piano industriale prevede di arrivare a 1.650 nei prossimi tre anni, con 100 uomini di sicurezza di FS Security solo sui treni pendolari e studenti delle Ferrovie Nord Milano. […] Una prima risposta normativa è già arrivata nel decreto Sicurezza, che introduce un'aggravante per i reati commessi in stazioni, metropolitane e a bordo dei treni; altre norme verranno inserite nel decreto sicurezza a cui stiamo lavorando.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 466,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00060.sub00040.int00060"
   },
@@ -2131,7 +2565,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Il ponte sullo Stretto di Messina rappresenta, sin dal 1971, per decisione del Parlamento italiano - io non ero nato nel 1971 -, un'opera strategica di preminente interesse nazionale. Io e l'attuale Governo ne abbiamo semplicemente riaffermato l'utilità e la centralità. Pensiamo ad avere, in queste ore di mare in tempesta, il ponte piuttosto che i traghetti fermi. […]",
+   "sunto": "Su questi aspetti, il Ministero della Difesa - e non il Ministro Salvini - evidenzia che il ponte potrà incrementare, in modo significativo, la capacità di risposta, di resilienza logistica e di efficienza dei processi di messa in sicurezza, questo in piena coerenza con il Piano d'azione sulla…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00060.sub00050.int00040"
   },
@@ -2144,7 +2583,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ricordo a lei - che lo sa -, all'Aula e a chi è a casa, bresciano o non bresciano, che stiamo parlando di un contratto di concessione firmato nel 2017 dall'allora Ministro Graziano Delrio, del Partito Democratico, contratto che nel bando di gara prevedeva, nero su bianco, il pedaggio. […]",
+   "sunto": "Ricordo a lei - che lo sa -, all'Aula e a chi è a casa, bresciano o non bresciano, che stiamo parlando di un contratto di concessione firmato nel 2017 dall'allora Ministro Graziano Delrio, del Partito Democratico, contratto che nel bando di gara prevedeva, nero su bianco, il pedaggio.",
+   "temi": [],
    "parole": 431,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00010.int00040"
   },
@@ -2157,7 +2597,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'onorevole sa benissimo cosa stiamo facendo da anni, quindi repetita iuvant , per carità di Dio. Aggiorniamo i balneari che ci seguono da casa, che stiamo seguendo da anni, nonostante l'Europa e le varie Commissioni europee, con le maggioranze che le sostengono, abbiano massacrato o tentato di massacrare questo settore, evidentemente. […]",
+   "sunto": "Mentre nel mondo succedono cose enormi, ci sono conflitti e problemi economici e sociali, l'Unione europea, la Commissione europea si preoccupa di negare gli indennizzi ai balneari.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea"
+   ],
    "parole": 500,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00020.int00040"
   },
@@ -2170,7 +2614,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ecco, spero di rispondere e non di cianciare. Comunque, ognuno usa i termini che crede. Il tema dell'emergenza abitativa c'è, è evidente. Stiamo lavorando non da qualche mese, ma da tre anni per intervenire, cosa che non si faceva dagli anni Settanta, Ottanta, su un Piano casa, a livello nazionale, degno di questo nome, con diverse linee di intervento. […]",
+   "sunto": "Faccio un esempio piccolissimo, non risolutivo: per la prima volta nella storia in questa legge di bilancio ho chiesto direttamente di inserire una voce che non è mai esistita, che parte da 20 milioni di euro, per il Fondo stabile di sostegno ai genitori separati che, dopo una separazione o un…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00030.int00080"
   },
@@ -2183,7 +2632,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. È giusto tornare sul tema casa soprattutto per quello che riguarda i giovani. Una riflessione: se avessimo potuto avere a disposizione con questo Governo la metà dei soldi che qualcuno ha usato per il superbonus, avremmo sistemato le case popolari di tutta Italia e non avremmo una persona in lista di attesa . Però, ognuno ha speso i soldi come ha ritenuto, poi sta agli italiani giudicare. […]",
+   "sunto": "Una riflessione: se avessimo potuto avere a disposizione con questo Governo la metà dei soldi che qualcuno ha usato per il superbonus, avremmo sistemato le case popolari di tutta Italia e non avremmo una persona in lista di attesa .",
+   "temi": [
+    "Fisco e tasse",
+    "Casa e infrastrutture"
+   ],
    "parole": 409,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00040.int00040"
   },
@@ -2196,7 +2649,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per il quesito che è assolutamente costruttivo. Ho sentito direttamente il proprietario dell'azienda nei mesi passati, mettendolo in contatto con tutta una serie di realtà produttive per evitare che saltasse tutto per aria. Quando un'impresa entra in crisi, che si tratti di liquidazione, concordato o altre situazioni straordinarie, la legge non lascia vuoti. […]",
+   "sunto": "Per quanto riguarda, nel concreto, l'impresa Manelli coinvolta in nove interventi PNRR per oltre un miliardo e mezzo di euro, i miei uffici stanno monitorando - ripeto - da mesi, con un mio contatto diretto e personale con l'imprenditore in questione, la situazione, perché gli interventi…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Casa e infrastrutture"
+   ],
    "parole": 386,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00050.int00040"
   },
@@ -2209,7 +2666,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Nel protocollo che lei ricordava era stata indicata una soluzione tecnico-progettuale per rendere compatibili due progetti, il cui costo, al netto della progettazione, era stato preliminarmente stimato in 45 milioni. Il Ministero ha manifestato disponibilità ad individuare al più presto una copertura nel rispetto dei vincoli di finanza pubblica. […]",
+   "sunto": "Nel protocollo che lei ricordava era stata indicata una soluzione tecnico-progettuale per rendere compatibili due progetti, il cui costo, al netto della progettazione, era stato preliminarmente stimato in 45 milioni. […] Non vi è alcun blocco sine die della metropolitana, ma un necessario coordinamento tecnico, di cui il Ministero si fa garante, in quanto entrambi i progetti sono fondamentali per la città di Genova.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00060.int00040"
   },
@@ -2222,7 +2682,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti che sollevano un problema assolutamente reale, che è uno dei primi dossier che ho affidato ai tecnici al Ministero. Non è accettabile che chi non rispetta le regole scarichi i costi su chi, invece, le rispetta, come gravosità dell'RC auto. Diamo qualche numero e, poi, arriviamo alla soluzione a cui si sta lavorando. […]",
+   "sunto": "Noi oggi possiamo usare le telecamere, le ZTL, area B, area C, area D - quello che vuole lei -, per trattenere la targa in caso di infrazione; se non c'è l'infrazione, io non posso trattenere quel dato.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 400,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00010.int00040"
   },
@@ -2235,7 +2698,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La sicurezza del trasporto pubblico, di cui sono utente come milioni di italiani, è una priorità per me e per l'intero Governo, senza discriminazioni fra lavoratori di un settore o dell'altro. […]",
+   "sunto": "La sicurezza del trasporto pubblico, di cui sono utente come milioni di italiani, è una priorità per me e per l'intero Governo, senza discriminazioni fra lavoratori di un settore o dell'altro.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00020.int00040"
   },
@@ -2248,7 +2716,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, in realtà il Far West l'abbiamo trovato: non si sapeva quanti erano gli autovelox, dove, quanti omologati, quanti non omologati e con quali motivazioni installati. Quindi, preso atto di questa situazione di assoluto non controllo, dell'anarchia dell'autovelox che spuntava dalla sera alla mattina, abbiamo operato. […]",
+   "sunto": "Quindi, preso atto di questa situazione di assoluto non controllo, dell'anarchia dell'autovelox che spuntava dalla sera alla mattina, abbiamo operato.",
+   "temi": [],
    "parole": 407,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00080.sub00030.int00040"
   },
@@ -2261,7 +2730,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie per la puntualità e il garbo. Come lei ricordava, le Olimpiadi non sono state solo un evento sportivo, ma una straordinaria occasione per dimostrare al mondo di cosa è capace l'Italia quando lavora di squadra, con serietà, concretezza e visione. […]",
+   "sunto": "Passando alle richieste da lei fatte, ci tengo a precisare, per correttezza, che la realizzazione delle opere è stata affidata al Ministero delle Infrastrutture e dei trasporti che, attraverso la società Simico, società Milano Cortina, le ha operate, mentre l'organizzazione dei Giochi è stata…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00010.int00040"
   },
@@ -2274,7 +2746,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Premetto che ci sono quattro domande più o meno simili, quindi con gli uffici abbiamo cercato di non dare quattro risposte uguali, altrimenti non faremmo cosa utile. Quindi, nei quattro question time cerco di dosare parti di risposte, per evitare di rispondere sempre la stessa cosa. Le tensioni in aree strategiche per l'energia stanno creando evidentemente instabilità nei mercati. […]",
+   "sunto": "Premetto che ci sono quattro domande più o meno simili, quindi con gli uffici abbiamo cercato di non dare quattro risposte uguali, altrimenti non faremmo cosa utile. […] Questa è la prima parte di quattro risposte che cercherò di diluire in quattro question time (Applausi dei deputati del gruppo Lega-Salvini Premier e di deputati del gruppo Fratelli d'Italia) .",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 538,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00020.int00040"
   },
@@ -2287,7 +2763,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ripeto, per dovere di chiarezza, che la situazione italiana sull'approvvigionamento di jet fuel , allo stato attuale, è più solida rispetto a quella della maggior parte degli altri Paesi europei; il che, ovviamente, non ci tranquillizza, però è un dato di partenza da tenere presente. […]",
+   "sunto": "Penso, ad esempio, al sistema ETS applicato ai settori marittimo e aereo: così com'è oggi rischia di aumentare i costi senza dare alcun beneficio ai cittadini, alle imprese e all'ambiente. […] Senza competitività, senza lavoro e senza crescita non c'è futuro né per l'Italia, né per l'Europa, e conto che alla fine avremo ragione .",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 404,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00030.int00040"
   },
@@ -2300,7 +2779,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Terza parte della risposta sullo stesso tema: posso aggiungere anche l'autotrasporto che lei ha citato. Come i cittadini avranno notato, dallo scoppio della guerra il Governo non è rimasto fermo. Anzi, è stato il primo in Europa, per quantità e rapidità di intervento, a cercare di intervenire per ridurre l'aumento delle accise sui carburanti, sempre nel rispetto dei benedetti vincoli europei. […]",
+   "sunto": "Al 27 aprile, i prezzi medi nazionali alla pompa in modalità self risultano pari a 1,74 euro al litro per la benzina e 2,06 euro al litro per il gasolio; rispetto al 27 febbraio, cioè prima dello scoppio dello sciagurato conflitto, registriamo un aumento di 7 centesimi al litro per la benzina e…",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 488,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00040.int00040"
   },
@@ -2313,7 +2797,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio per il quarto quesito e quindi speriamo di chiudere tutto il quadro. Il quadro normativo vigente - lei sa - impone alle compagnie l'obbligo di comportarsi con correttezza, trasparenza e buona fede nei confronti dei cittadini e su questo vigila l'ENAC, che ringrazio. […]",
+   "sunto": "Da un lato, c'è una crescita significativa su base annua e questa è un'ottima notizia: i voli nazionali aumentano del 12,6 per cento rispetto allo stesso periodo del 2025, quelli europei segnano un 6 per cento.",
+   "temi": [],
    "parole": 424,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00050.int00040"
   },
@@ -2326,7 +2811,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Terzo valico dei Giovi è la dimostrazione concreta di cosa può fare l'Italia quando sceglie di investire davvero in infrastrutture, lavori e sviluppo. Parliamo di un'opera strategica, che collega il cuore produttivo del Nord con il principale sistema portuale del Paese, quello di Genova. Sul fronte operativo veniamo ai dati. […]",
+   "sunto": "Sulla direttrice Milano-Genova stiamo portando avanti un piano concreto di ammodernamento e velocizzazione con investimenti importanti; parliamo di circa 244 milioni di euro, concentrati in particolare sulla tratta Milano-Pavia e sugli interventi di adeguamento del ponte sul Po.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 588,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00060.int00040"
   },
@@ -2339,7 +2827,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Lei ha assolutamente ragione. Noi siamo in torto, molto banalmente. È imbarazzante che a due anni da una firma di accordo si arrivi a maggio senza una soluzione. Stiamo parlando di 50 milioni di euro di opere compensative per 32 interventi su 11 comuni che hanno portato pazienza, hanno resistito, hanno accompagnato un'opera strategica come la TAV nonostante guerriglie, tafferugli, polemiche. […]",
+   "sunto": "Gli uffici hanno messo giù quanto sarà importante quest'opera e non sfugge a nessuno che, nel frattempo, sono state completate 11 opere compensative fra le quali il recupero del Teatro Civico di Susa, la manutenzione straordinaria di un complesso scolastico, alcuni interventi di miglioramento…",
+   "temi": [],
    "parole": 285,
    "url": "https://www.camera.it/leg19/410?idSeduta=0659&tipo=stenografico#sed0659.stenografico.tit00060.sub00010.int00040"
   },
@@ -2352,7 +2841,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Proprio stamattina stavo lavorando con i tecnici del Ministero per il Piano casa. È imminente la nomina del commissario e l'obiettivo è, entro un anno, di mettere sul mercato 60.000 alloggi popolari ad oggi inutilizzati. È il più grande intervento riservato all'edilizia residenziale pubblica e sociale degli ultimi decenni. […]",
+   "sunto": "Siccome l'obiettivo è agevolare chi vive da più tempo in Italia e da più tempo in Italia ha pagato le tasse e ha pagato quelle case, le regioni, di cui è la competenza, stanno già lavorando. […] Quindi, si suppone che chi ha presentato la domanda da più tempo ed è in graduatoria da più tempo sia residente sul territorio da più tempo.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00010.int00040"
   },
@@ -2365,7 +2857,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. No, non intendiamo assolutamente annullare la gara. Il collegamento Roma-Latina rappresenta una delle infrastrutture più attese e strategiche per tutto il Lazio e per l'intero sistema della mobilità del Centro Italia. Per troppo tempo cittadini, lavoratori e imprese hanno dovuto fare i conti con ritardi, rinvii e occasioni mancate. […]",
+   "sunto": "In coerenza con tale quadro normativo, a seguito della presentazione di una proposta per la progettazione e la realizzazione della gestione dell'opera in regime di finanza di progetto e della verifica di interesse pubblico dell'iniziativa, il MIT ha pubblicato, in data 29 maggio 2025, un avviso…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 448,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00020.int00040"
   },
@@ -2378,7 +2873,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'interrogante per il quesito su un'opera strategica. Mi permetto però di partire da un dato di fatto: nell'interrogazione lei fa riferimento a presunte incertezze sullo stato dell'opera, sulle tempistiche e sul percorso amministrativo. È vero esattamente il contrario. Quindi, se lei voleva stimolare, bene: lo stimolo viene raccolto. I presupposti di partenza sono totalmente errati. […]",
+   "sunto": "Si tratta di un passaggio fondamentale, perché sostituisce tutti gli atti di assenso richiesti, determina la localizzazione dell'opera e consente la realizzazione dell'infrastruttura, anche in variante agli strumenti urbanistici.",
+   "temi": [],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00030.int00080"
   },
@@ -2391,7 +2887,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie per l'interrogazione, perché il tema della sicurezza stradale è assolutamente fondamentale. Sono usciti i dati della Polizia stradale e dell'Arma dei carabinieri per i primi cinque mesi di quest'anno e continua il calo del numero di morti dall'approvazione del nuovo codice della strada. Speriamo sia una tendenza costante. […]",
+   "sunto": "Ricordo che sono circa 6.700 i soggetti formatori presenti nel Paese che ogni anno impartiscono circa 120.000 corsi per patenti A e B e 15.000 corsi per patenti superiori e professionali. […] Per quanto riguarda il tema da lei posto relativo all'utilizzo di strumenti digitali nelle autoscuole, ricordo che la normativa vigente allo stato attuale, come lei ricordava, non consente l'impiego di tali modalità.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 460,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00040.int00040"
   },
@@ -2404,7 +2903,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Al quesito, come ai tre che seguono, do risposta con i numeri dei tecnici di Ferrovie dello Stato e spero che almeno sui numeri dei tecnici e degli ingegneri di Ferrovie dello Stato la politica non faccia polemica. Nel giorno medio, rispetto ai 7.600 treni del 2018, viaggiano circa 10.000 treni sulla rete ferroviaria nazionale. […]",
+   "sunto": "Questi investimenti stanno consentendo di realizzare opere epocali: il Terzo Valico, con il 96,6 per cento di scavo delle gallerie, che porterà da Genova a Milano in meno di un'ora; la Roma-Napoli-Bari, con l'avanzamento dell'opera e, dal 1° luglio, il primo collegamento Frecciarossa…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00090.sub00010.int00040"
   },
@@ -2417,7 +2919,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, deputata Boschi. Io ricordo che i lavori a Firenze sono stati concordati con il comune di Firenze; quindi, se ha qualche problema, chiami i suoi compagni di partito in comune a Firenze e mettetevi d'accordo telefonicamente. Repetita iuvant . […]",
+   "sunto": "Poi i numeri possono piacere o non piacere, però i dati sulla puntualità dell'ultimo triennio - li ripeto non tanto per chi è qua e non ha voglia di sentire, ma per chi è a casa e magari è interessato - ci danno un tasso di puntualità cresciuto negli ultimi tre anni dal 74 al 77,7 per cento…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Casa e infrastrutture"
+   ],
    "parole": 587,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00090.sub00020.int00040"
   },
@@ -2430,7 +2936,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Evidentemente, a sinistra avete problemi con i numeri (Proteste di deputati del gruppo Partito Democratico-Italia Democratica e Progressista). Proviamo a ripetere, proviamo. Esercizio: ripeti. Io ripeto. Dati ufficiali di Ferrovie dello Stato, triennio 2024-2025-2026. […]",
+   "sunto": "Puntualità: treni regionali, dall'88,9 per cento al 90,6 per cento ; Intercity , dall'82,6 per cento all'86 per cento; Alta velocità, dal 74 al 77,7 per cento.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 291,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00090.sub00030.int00040"
   },
@@ -2443,7 +2952,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ripeto per la quarta volta i numeri degli ultimi tre anni e non faccio un confronto con il Ministro Toninelli perché sarebbe impietoso , anzi lo faccio. I numeri dicono che nel 2018 l'amico Ministro Toninelli… poi, non dipende dal Ministro il tasso di puntualità, non era colpa di Toninelli, non era colpa di Delrio, diciamocelo; solo a sinistra potete prendervela con il Ministro dei Trasporti se c'è un problema sulla […]",
+   "sunto": "Allora, puntualità del vostro ex Ministro Toninelli: Alta velocità, nel 2018, 68 per cento contro il 77 per cento di oggi; Intercity, 77 per cento contro l'86 per cento di oggi; treni regionali, 86 per cento contro il 90 per cento di oggi.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00090.sub00040.int00040"
   },
@@ -2456,7 +2968,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie. Questo è un tema fondamentale perché la prima causa di morte per i nostri ragazzi è la strada, più della malattia o della droga o di altro. Nel primo anno di entrata in vigore del nuovo codice della strada - che qualcuno da sinistra ha contestato perché eravamo eccessivamente cattivi per le droghe e l'alcol, ma io ritengo che la vita sia sacra, più sacra della voglia di farsi una canna - si registra meno 7 pe […]",
+   "sunto": "Nel primo anno di entrata in vigore del nuovo codice della strada - che qualcuno da sinistra ha contestato perché eravamo eccessivamente cattivi per le droghe e l'alcol, ma io ritengo che la vita sia sacra, più sacra della voglia di farsi una canna - si registra meno 7 per cento di incidenti con…",
+   "temi": [],
    "parole": 479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00090.sub00050.int00060"
   },
@@ -2469,7 +2982,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'interrogante, che saprà sicuramente - magari non lo sanno coloro che hanno la pazienza di seguirci da casa - che i due professori da lei citati erano già stati nominati dal Governo Draghi: il professor Dolce nel 2021, come membro del comitato speciale, poi trasformato in sezione speciale del Consiglio superiore dei lavori pubblici, e il professor Tomasicchio nel 2022, dall'allora Minis […]",
+   "sunto": "Il codice dei contratti identifica nel Consiglio superiore il massimo organo tecnico-consultivo dello Stato; è un organo la cui istituzione risale al 1859.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 346,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00070.sub00010.int00040"
   },
@@ -2482,7 +2998,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "La risposta è “sì”. Sì a un problema che risale al lontano 2014 su cui tutti i Ministri che mi hanno preceduto evidentemente sono stati meno fortunati nella soluzione del problema. Come lei ricordava, la concessione A22 Brennero-Modena è scaduta il 30 aprile del 2014. Siamo a ottobre 2026. […]",
+   "sunto": "Il Ministero sta procedendo celermente - come sto parlando io, ahimè, troppo celermente - secondo il cronoprogramma; l'obiettivo è di valorizzare il rapporto tra A22 e tutti i territori interessati. […] Autonomia significa una cosa molto semplice: una strada percorsa dai veneti, che viene gestita dai veneti, pedaggi pagati dei veneti che vengono reinvestiti per migliorare le strade dei veneti.",
+   "temi": [],
    "parole": 336,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00010.int00060"
   },
@@ -2495,7 +3012,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Stiamo seguendo da mesi il tema del caro carburanti, soprattutto sul tema dell'autotrasporto che lei sta citando. Ricordo che abbiamo introdotto, fin da subito, un contributo straordinario sotto forma di credito d'imposta per sostenere concretamente le imprese dell'autotrasporto di merci e passeggeri. […]",
+   "sunto": "Al Ministero dell'Economia e delle finanze abbiamo chiesto di predisporre le coperture necessarie per far fronte ad ulteriori 50 milioni di euro per richieste aggiuntive di contributi trasmesse dalle imprese beneficiarie per le fatture fino ad agosto.",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 407,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00020.int00040"
   },
@@ -2508,7 +3030,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Ringrazio il gruppo della Lega per aver sollevato un tema di cui mi sto occupando personalmente fin dall'insediamento, quattro anni fa, dopo decenni di assenza, soprattutto da parte dei partiti di sinistra, che oggi scoprono il tema della casa . […]",
+   "sunto": "Lo ribadisco: questo Governo ritiene che il perno delle politiche sulla casa non possa essere considerato l'esproprio delle case altrui, ma la messa a disposizione di nuove case .",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 330,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00030.int00040"
   },
@@ -2521,7 +3046,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro delle Infrastrutture e dei trasporti",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Allora, monopattini: i dati sull'incidentalità - che fornirò al collega che evidentemente non li ha seguiti - confermano che quella che lei definisce mobilità dolce, ovverosia i monopattini, tra il 2022 e il 2025, ha portato a 25 morti e 3.700 feriti. […]",
+   "sunto": "Allora, monopattini: i dati sull'incidentalità - che fornirò al collega che evidentemente non li ha seguiti - confermano che quella che lei definisce mobilità dolce, ovverosia i monopattini, tra il 2022 e il 2025, ha portato a 25 morti e 3.700 feriti.",
+   "temi": [],
    "parole": 353,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00040.int00060",
    "verificata": "https://pagellapolitica.it/fact-checking/quella-che-lei-definisce-mobilita-dolce-ovverosia-i-monopattini-tra-il-2022-e-il-2025-ha-portato-a-25-morti-e-3-700-feriti"

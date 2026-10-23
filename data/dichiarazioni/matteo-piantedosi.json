@@ -100,9 +100,135 @@
     "fonte": "Camera",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 85
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 34
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 15
+   },
+   {
+    "tema": "Unione europea",
+    "n": 13
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 11
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 8
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 7
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 6
+   },
+   {
+    "tema": "Sanità",
+    "n": 4
+   },
+   {
+    "tema": "Giustizia",
+    "n": 4
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 3
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 1
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2022": [
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 4
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 2
+    },
+    {
+     "tema": "Immigrazione",
+     "n": 2
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 12
+    },
+    {
+     "tema": "Immigrazione",
+     "n": 10
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 4
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 23
+    },
+    {
+     "tema": "Immigrazione",
+     "n": 11
+    },
+    {
+     "tema": "Unione europea",
+     "n": 5
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 26
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 4
+    },
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 3
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 20
+    },
+    {
+     "tema": "Immigrazione",
+     "n": 9
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    }
+   ]
+  }
  },
- "recap": "Dal 26 ottobre 2022 al 30 settembre 2026: 133 interventi nell'Aula della Camera (80.184 parole), 10 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (117 interventi).",
+ "recap": "Dal 26 ottobre 2022 al 30 settembre 2026: 133 interventi nell'Aula della Camera (80.184 parole), 10 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sicurezza e criminalità (85), immigrazione (34), esteri e difesa (15). In Aula alla Camera l'occasione più frequente è «Question time» (117 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -154,7 +280,11 @@
    "frase": "Nel 2016, anno in cui era ancora operante l’operazione umanitaria Mare Nostrum, le vittime del Canale di Sicilia furono 4.574",
    "url": "https://pagellapolitica.it/fact-checking/errore-piantedosi-mare-nostrum",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "testo_ufficiale": {
+    "estratto": "Grazie, signor Presidente. Signor Presidente, onorevoli deputati, il Governo ha immediatamente accolto l'invito del Parlamento a riferire in merito al naufragio di un'imbarcazione in legno che trasportava migranti, avvenuto nelle prime ore del mattino del 26 febbraio scorso nel mare antistante la località Steccato di Cutro, in provincia di Crotone. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00040.sub00010.int00020"
+   }
   },
   {
    "data": "2023-08-28",
@@ -207,7 +337,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Signor Presidente e onorevoli deputati, ho accolto con molto favore l'invito a riferire in Parlamento sulla gestione dei flussi migratori e, in particolare, sui recenti interventi svolti da assetti navali privati, gestiti da organizzazioni non governative nel Mediterraneo centrale, in aree SAR non di competenza italiana. […]",
+   "sunto": "La nave Humanity 1 , battente bandiera tedesca, della ONG SOS Humanity , ha eseguito tre interventi di recupero nel periodo dal 22 al 24 ottobre scorso, per un totale di 180 migranti, in aree SAR libiche e maltesi. […] Dopo tre giorni, l'8 novembre, a seguito di valutazione psichiatrica dell' équipe medica dell'azienda sanitaria locale salita a bordo della nave, tutti i migranti sono sbarcati.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 5521,
    "url": "https://www.camera.it/leg19/410?idSeduta=0010&tipo=stenografico#sed0010.stenografico.tit00070.sub00010.int00020"
   },
@@ -220,7 +358,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, la sicurezza delle nostre città è una delle priorità di questo Governo e uno dei miei primi atti è stato riunire il Comitato nazionale per l'ordine e la sicurezza pubblica, per approfondire le linee di intervento prioritarie in questo specifico ambito. […]",
+   "sunto": "Ho voluto anche dare un immediato segnale alle comunità locali, presiedendo i comitati provinciali per l'ordine e la sicurezza pubblica a Napoli e a Milano, due aree metropolitane che, insieme a Roma, pur nelle loro peculiarità, presentano problemi simili e a cui sarà dedicata una particolare e…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00050.int00060"
   },
@@ -233,7 +374,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, il territorio di Foggia è da tempo segnato dalla presenza di un'aggressiva criminalità organizzata che, come è tipico dei sodalizi mafiosi, orienta i suoi interessi verso la vita economica e tende a infiltrare il tessuto sociale e amministrativo locale, col fine di radicarsi e perseguire, in tal modo, i propri fini illeciti. […]",
+   "sunto": "In tal senso, c'è stato un significativo rinforzo delle strutture di contrasto sul territorio con la creazione del reparto Cacciatori di Puglia dell'Arma dei carabinieri, specializzato nel controllo del territorio e nella ricerca dei latitanti; c'è stata l'istituzione, nel comune di San Severo,…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00060.int00040"
   },
@@ -246,7 +390,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Dico immediatamente che la vicenda segnalata dall'onorevole interrogante non ha alcuna attinenza con gli accordi di cooperazione internazionale di Polizia tra l'Italia e la Cina e con l'esecuzione di pattugliamenti congiunti tra personale delle rispettive Polizie. […]",
+   "sunto": "Dico immediatamente che la vicenda segnalata dall'onorevole interrogante non ha alcuna attinenza con gli accordi di cooperazione internazionale di Polizia tra l'Italia e la Cina e con l'esecuzione di pattugliamenti congiunti tra personale delle rispettive Polizie.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 529,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00070.int00040"
   },
@@ -259,7 +406,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "È bene premettere che il cosiddetto decreto Flussi rappresenta solo un elemento della più ampia politica di gestione delle immigrazioni dispiegata dal Governo e che, quindi, deve essere inteso in un'ottica di governo delle dinamiche migratorie, con un focus centrato sulle esigenze del mercato del lavoro e, più in generale, di sostenibilità dell'accoglienza e dell'integrazione. […]",
+   "sunto": "È bene premettere che il cosiddetto decreto Flussi rappresenta solo un elemento della più ampia politica di gestione delle immigrazioni dispiegata dal Governo e che, quindi, deve essere inteso in un'ottica di governo delle dinamiche migratorie, con un focus centrato sulle esigenze del mercato…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione"
+   ],
    "parole": 392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0021&tipo=stenografico#sed0021.stenografico.tit00010.sub00080.int00040"
   },
@@ -272,7 +423,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, come rappresentato anche dall'onorevole interrogante, la procedura di rilascio del passaporto avviene previo appuntamento presso la questura o ufficio di polizia territorialmente competente, attraverso la cosiddetta Agenda OnLine , cui si accede peraltro dal sito della Polizia di Stato. […]",
+   "sunto": "Le cause di tale congestione sono riferibili, da una parte, alla ripresa dei flussi turistici dopo l'emergenza sanitaria da COVID-19 e, dall'altra, all'uscita dall'Unione europea della Gran Bretagna, da sempre una delle mete più frequentate da nostri connazionali per motivi di lavoro, di studio…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 340,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00030.int00040"
   },
@@ -285,7 +439,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ho avuto già modo di esporre in precedenza, l'incremento delle richieste di rilascio del passaporto elettronico è stato determinato da una pluralità di cause, alcune contingenti, come la fine delle restrizioni post COVID, come dicevamo, altre di carattere strutturale, come la Brexit e, ancora, per la difficoltà, registratasi soprattutto nei comuni più popolosi, di conseguire in tempi rapidi l […]",
+   "sunto": "Al fine di superare tali inconvenienti, già dallo scorso mese di giugno, il Ministero dell'Interno ha invitato gli uffici territoriali ad adottare interventi per ridurre i tempi di attesa per la presentazione dell'istanza, che si sono concretizzati nell'organizzazione dei cosiddetti open day,…",
+   "temi": [],
    "parole": 380,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00040.int00040"
   },
@@ -298,7 +453,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Va premesso che l'Osservatorio nazionale per le manifestazioni sportive aveva classificato l'incontro di calcio tra Paganese e Casertana con un livello elevato di rischio e con un insieme di prescrizioni di natura organizzativa a carattere preventivo, che erano state ritenute adeguate al livello medesimo, secondo i criteri di valutazione finora adottati da quel consesso. […]",
+   "sunto": "Le immediate indagini, espletate dalle Forze di Polizia e supportate dalla visione dei filmati registrati dal sistema di videosorveglianza, hanno consentito l'identificazione e l'arresto differito, operato nella serata del 23 gennaio, di sette supporter della Paganese, di cui cinque già…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 571,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00050.int00040"
   },
@@ -311,7 +469,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Consentitemi, innanzitutto, di rinnovare, anche in questa sede, ai magistrati, ai Carabinieri e a tutte le donne e gli uomini delle Forze di Polizia la gratitudine mia personale e del Governo per l'arresto del latitante Matteo Messina Denaro e per il difficile, tenace e silenzioso lavoro dei rappresentanti dello Stato, che hanno portato avanti le indagini oggi culminate in un esito così rilevante. […]",
+   "sunto": "D'altro canto, le nostre Forze dell'ordine esprimono uno straordinario livello di professionalità la cui componente essenziale è costituita da metodiche investigative maturate nel tempo ed imperniate sulla conoscenza e analisi del territorio, nonché sulla capacità di lettura dei dati che ne…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 476,
    "url": "https://www.camera.it/leg19/410?idSeduta=0043&tipo=stenografico#sed0043.stenografico.tit00050.sub00060.int00040"
   },
@@ -324,7 +485,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Signor Presidente, onorevoli deputati, il Governo ha immediatamente accolto l'invito del Parlamento a riferire in merito al naufragio di un'imbarcazione in legno che trasportava migranti, avvenuto nelle prime ore del mattino del 26 febbraio scorso nel mare antistante la località Steccato di Cutro, in provincia di Crotone. […]",
+   "sunto": "Tre ore dopo l'inizio della navigazione, un guasto al motore dell'imbarcazione induce 2 scafisti a contattare, tramite un cellulare, un proprio complice e, dopo altre tre ore di attesa, i migranti sono raggiunti da una seconda imbarcazione pilotata da altri 3 scafisti.",
+   "temi": [
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 6392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0064&tipo=stenografico#sed0064.stenografico.tit00040.sub00010.int00020",
    "verificata": "https://pagellapolitica.it/fact-checking/errore-piantedosi-mare-nostrum"
@@ -338,7 +507,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Consentitemi, innanzitutto, di ritenere confutabili, sulla base dei dati che andrò a rappresentarvi, alcune considerazioni espresse nell'interrogazione. Con riferimento all'affermazione secondo cui la tragedia di Cutro sarebbe stata l'occasione per complicare ancora più le operazioni di soccorso in mare, ritengo si tratti infatti di un'offesa alla professionalità e alla dedizione delle nostre isti […]",
+   "sunto": "È un'opzione, peraltro, alla quale si è fatto ricorso in altre analoghe situazioni anche del recente passato, da ultimo in occasione dell'emergenza determinata dal consistente e concentrato arrivo di profughi provenienti dall'Ucraina per effetto dei noti eventi bellici.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 506,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00040.int00040"
   },
@@ -351,7 +523,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, condivido con gli interroganti l'impostazione in base alla quale in materia di sicurezza delle città sia necessario coniugare gli aspetti di prevenzione e contrasto della criminalità con politiche di rigenerazione urbana. Si tratta, infatti, di mettere a punto un insieme complesso e pluristrutturato di interventi idonei a spezzare il circolo perverso tra degrado e illegalità. […]",
+   "sunto": "Ho avviato queste iniziative d'intesa con i sindaci delle tre città metropolitane più grandi attraverso un apposito forum che si riunisce con frequenza, ed i positivi risultati ottenuti su questo versante mi hanno indotto ad estendere l'innovativo modello alle altre città metropolitane.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 548,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00050.int00040"
   },
@@ -364,7 +539,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il recente decreto Flussi rappresenta solo un elemento della più ampia politica di gestione delle migrazioni posta in essere dall'Esecutivo, in una prospettiva di governo delle dinamiche migratorie funzionale alle esigenze del mercato del lavoro. […]",
+   "sunto": "Il recente decreto Flussi rappresenta solo un elemento della più ampia politica di gestione delle migrazioni posta in essere dall'Esecutivo, in una prospettiva di governo delle dinamiche migratorie funzionale alle esigenze del mercato del lavoro.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione"
+   ],
    "parole": 450,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00060.int00040"
   },
@@ -377,7 +556,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In via preliminare, voglio evidenziare che siamo di fronte a una dichiarazione di emergenza, sostanzialmente e concretamente, diversa da quella decretata in occasione della crisi pandemica, che, come sottolineato all'epoca da autorevoli giuristi e anche costituzionalisti, nel bilanciamento di diritti costituzionalmente tutelati, comportò la compressione di alcune libertà individuali, come il dirit […]",
+   "sunto": "La necessità di intervenire con misure straordinarie, com'è noto, è stata determinata principalmente dall'esigenza di decongestionare, in tempi rapidi, l' hotspot di Lampedusa, che è la struttura di accoglienza maggiormente soggetta a picchi di sovraffollamento.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 412,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00070.int00040"
   },
@@ -390,7 +572,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In Italia, la formazione di atti di nascita recante l'indicazione dei genitori dello stesso sesso, nonché il riconoscimento della filiazione da parte di altro genitore avente lo stesso sesso della madre partoriente, non sono consentiti dalla normativa vigente e tale preclusione è ampiamente suffragata da consolidata giurisprudenza. […]",
+   "sunto": "La preclusione dell'automatica trascrivibilità di siffatti atti di nascita è stata confermata dalla Corte costituzionale che, in particolare, con la sentenza n. 33 del 10 marzo 2021, ha evidenziato che anche la Corte europea dei diritti dell'uomo, pur confermando la necessità del riconoscimento…",
+   "temi": [
+    "Giustizia",
+    "Famiglia e natalità"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00080.int00040"
   },
@@ -403,7 +589,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Signor Presidente, grazie. In questa mia risposta in tema di protezione speciale, permettetemi di partire da un riferimento, a mio avviso, importante e imprescindibile, costituito dalla sentenza n. 194 del 2019 della Corte costituzionale. Il giudice delle leggi, nel pronunciarsi in merito alla questione della legittimità costituzionale del decreto-legge n. […]",
+   "sunto": "Sulla base di questo spazio di discrezionalità politica, il legislatore è intervenuto in più occasioni sulla cosiddetta protezione speciale e non può essere contestato il dato che, con l'intervento operato nel 2020, il decreto-legge n. 130, l'istituto della protezione speciale ha fatto…",
+   "temi": [],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0090&tipo=stenografico#sed0090.stenografico.tit00010.sub00090.int00040"
   },
@@ -416,7 +603,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, preciso immediatamente che il portale “Agenda Online” per il quale si registrano i disagi nella fissazione degli appuntamenti conseguenti all'elevato numero di accessi a tale sistema è soltanto uno degli strumenti di accesso agli uffici delle questure dedicati al rilascio dei passaporti, rivolto peraltro ai casi privi del carattere dell'urgenza. […]",
+   "sunto": "Tutto questo insieme di misure ha fatto sì che da 1.800.000 passaporti emessi in tutto l'anno 2022, quest'anno siamo passati agli oltre 1.340.000 passaporti emessi, in meno dei 6 mesi, appunto, dell'anno in corso, di cui più di 170.000 sono stati stampati, ma non ancora ritirati dai richiedenti.",
+   "temi": [],
    "parole": 507,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00040.int00040"
   },
@@ -429,7 +617,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Signor Presidente. Onorevoli deputati, dico immediatamente che ho impartito direttive affinché fosse predisposto un piano per il potenziamento dei servizi di vigilanza estiva a vantaggio delle località a elevata vocazione turistica. […]",
+   "sunto": "Il piano contempla altresì l'attivazione temporanea di uffici di specialità della Polizia di Stato e di presidio dell'Arma dei Carabinieri, nonché l'allocazione di mezzi navali del Corpo della Guardia di finanza.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 409,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00050.int00040"
   },
@@ -442,7 +633,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, in merito a quanto riportato dagli organi di stampa, il prefetto di Ravenna, su mia specifica richiesta, rivoltagli nell'immediatezza dei fatti, ha sostanzialmente poi smentito, precisando i fatti: lo scorso 20 giugno, si è tenuto un incontro presso la Confederazione nazionale artigianato di Ravenna sul tema dell'alluvione, al quale lo stesso prefetto era stato invitato per ric […]",
+   "sunto": "In tale circostanza, il prefetto ha illustrato gli interventi operativi messi in atto, in stretta sinergia con tutte le componenti istituzionali del sistema di Protezione civile, che hanno permesso di attuare le necessarie misure, finalizzate al soccorso ed assistenza alle popolazioni colpite.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 395,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00070.sub00030.int00040"
   },
@@ -455,7 +649,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, il Ministero dell'Interno, anche grazie alla dichiarazione dello stato di emergenza, ha aumentato la capacità ricettiva delle strutture facenti parti del sistema di accoglienza in generale. […]",
+   "sunto": "In particolare, sono stati già attivati 807 posti di primissima accoglienza per minori stranieri non accompagnati nelle province di Agrigento, Siracusa, Trapani, Crotone e Reggio Calabria, più oltre 500 in altre aree del territorio nazionale.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 428,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00020.int00040"
   },
@@ -468,7 +665,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Con un trend effettivamente in crescita, che si è iniziato a registrare dal 2021, nei primi 8 mesi dell'anno in corso risultano avere fatto ingresso nella regione Friuli-Venezia Giulia circa 13.700 persone, 13.700 migranti. […]",
+   "sunto": "Con un trend effettivamente in crescita, che si è iniziato a registrare dal 2021, nei primi 8 mesi dell'anno in corso risultano avere fatto ingresso nella regione Friuli-Venezia Giulia circa 13.700 persone, 13.700 migranti. […] Tale scelta ha consentito di ampliare la rete nazionale dell'accoglienza straordinaria dei posti e di smistare sul territorio molte migliaia di persone su base giornaliera.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00030.int00040"
   },
@@ -481,7 +681,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Presidente, come ricordato dall'onorevole interrogante, attualmente la procedura riguardante l'accertamento dell'età dei minori stranieri non accompagnati è disciplinata da una legge che, nel caso sussistano dubbi sull'età dichiarata dai medesimi, rimette alle autorità di pubblica sicurezza, coadiuvate da mediatori culturali e alla presenza del tutore o dei tutori provvisori, se già nominati, l'accertamento dell'età […]",
+   "sunto": "Come ricordato dall'onorevole interrogante, attualmente la procedura riguardante l'accertamento dell'età dei minori stranieri non accompagnati è disciplinata da una legge che, nel caso sussistano dubbi sull'età dichiarata dai medesimi, rimette alle autorità di pubblica sicurezza, coadiuvate da…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 409,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00040.int00040"
   },
@@ -494,7 +697,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Premetto che il Governo su Caivano non intende limitarsi a una risposta esclusivamente repressiva, ma sta perseguendo una strategia più ampia, trasversale a tutte le amministrazioni coinvolte, chiamate ad operare in sinergia con investimenti e risorse intesi a superare le condizioni di degrado e marginalità sociale in cui le organizzazioni criminali trovano sicuramente terreno fertile, soprattutto tra i giovani. […]",
+   "sunto": "Ciò premesso, l'operazione interforze svolta a Caivano, a cui fa riferimento lei, onorevole interrogante, è solo un primo passo nella direzione del recupero dell'area sul piano della sicurezza e della qualità della vita; un primo passo, peraltro, che non resterà né isolato, né sporadico.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00050.int00040"
   },
@@ -507,7 +713,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie Presidente. Sulle azioni intraprese a Caivano, ribadisco la linea di fondo del Governo e cioè che in uno Stato di diritto come l'Italia non ci sono, né ci potranno mai essere, zone franche, ossia aree nelle quali il controllo del territorio è in mano a bande criminali. […]",
+   "sunto": "Sulle azioni intraprese a Caivano, ribadisco la linea di fondo del Governo e cioè che in uno Stato di diritto come l'Italia non ci sono, né ci potranno mai essere, zone franche, ossia aree nelle quali il controllo del territorio è in mano a bande criminali.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 483,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00060.int00040"
   },
@@ -520,7 +730,15 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, da molti mesi stiamo subendo una fortissima pressione migratoria attraverso il Mediterraneo centrale, una pressione diretta verso l'Italia e, quindi, verso l'Europa. Alla data di ieri sono arrivate via mare, nel 2023, 140.586 persone, mentre nello stesso periodo degli anni 2021 e 2022 ne erano arrivate rispettivamente 49.764 e 75.833. […]",
+   "sunto": "In occasione del Consiglio affari interni dell'Unione europea dell'8 giugno scorso tenutosi a Lussemburgo è stato raggiunto, infatti, un accordo sugli orientamenti generali relativi ai due testi cardine del nuovo Patto e, cioè, il regolamento sulla gestione dell'asilo e della migrazione e il…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 5787,
    "url": "https://www.camera.it/leg19/410?idSeduta=0179&tipo=stenografico#sed0179.stenografico.tit00040.sub00010.int00020"
   },
@@ -533,7 +751,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La situazione determinata dal difficile contesto internazionale è tale da richiedere un elevatissimo livello di attenzione, in quanto la minaccia terroristica, come ho già avuto modo di dire in più occasioni, si presenta spesso in maniera impalpabile, fluida e non sempre definibile. […]",
+   "sunto": "Ho pertanto immediatamente disposto un rafforzamento di tutti i dispositivi di osservazione e controllo riferiti agli obiettivi sensibili presenti sul territorio nazionale e nella seduta del Comitato nazionale per l'ordine e la sicurezza pubblica del 10 ottobre scorso, convocato d'urgenza, alla…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 435,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00010.int00040"
   },
@@ -546,7 +767,14 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rassicuro l'onorevole interrogante che il Governo, sin dal suo insediamento, ha dedicato la massima attenzione nei confronti delle esigenze delle Forze di Polizia e a ogni possibile potenziamento del sistema della sicurezza pubblica. […]",
+   "sunto": "Questo obiettivo è perfettamente in linea con le esigenze di rafforzamento del sistema sicurezza sul territorio nazionale legate al controllo dei flussi migratori e la stessa Unione europea guarda a tale progetto con interesse.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 618,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00020.int00040"
   },
@@ -559,7 +787,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Governo è fortemente impegnato nell'azione di prevenzione e contrasto degli immobili occupati abusivamente e delle connesse odiose pratiche del racket che, oltre a calpestare i diritti dei cittadini socialmente fragili, costituiscono anche occasione per i sodalizi criminali per imporsi sul territorio ed è qui il forte impulso che ho inteso dare all'attività volta all'esecuzione coattiva degli s […]",
+   "sunto": "Il Governo è fortemente impegnato nell'azione di prevenzione e contrasto degli immobili occupati abusivamente e delle connesse odiose pratiche del racket che, oltre a calpestare i diritti dei cittadini socialmente fragili, costituiscono anche occasione per i sodalizi criminali per imporsi sul…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 380,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00030.int00040"
   },
@@ -572,7 +803,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Signor Presidente, il Protocollo sottoscritto tra Italia e Albania è uno strumento inedito e particolarmente innovativo, in linea con gli obiettivi del Governo in materia migratoria, tra i quali rimane, in primo luogo, quello di fermare le partenze, agendo grazie a una forte iniziativa internazionale ed europea sulle cause che alimentano i flussi, da realizzare con investimenti di ampio respiro a medio e lungo termin […]",
+   "sunto": "Il Protocollo sottoscritto tra Italia e Albania è uno strumento inedito e particolarmente innovativo, in linea con gli obiettivi del Governo in materia migratoria, tra i quali rimane, in primo luogo, quello di fermare le partenze, agendo grazie a una forte iniziativa internazionale ed europea…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione"
+   ],
    "parole": 431,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00040.int00040"
   },
@@ -585,7 +820,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, condivido che lo spirito della commemorazione di tragedie così gravi, come quelle di Acca Larentia, che causò il vile assassinio di giovani vite, che rimane tuttora senza giustizia, sia stato tradito dalla riproposizione di gesti e simboli che rappresentano un'epoca condannata dalla storia. […]",
+   "sunto": "Le Forze di polizia hanno adottato lo stesso modulo operativo seguito nelle analoghe manifestazioni effettuate negli anni scorsi, frutto di esperienze professionali e di competenze tecniche consolidate, che non mutano di fronte a qualsivoglia manifestazione, pur di diverso estremismo ideologico.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 325,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00010.int00040"
   },
@@ -598,7 +836,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ho già avuto modo di riferire in Parlamento sulla problematica delle tempistiche di rilascio dei passaporti, chiarendo come i ritardi registrati siano riconducibili a un aumento esponenziale e ravvicinato del numero di istanze di rilascio, dovuto a diversi fattori. […]",
+   "sunto": "Ho già avuto modo di riferire in Parlamento sulla problematica delle tempistiche di rilascio dei passaporti, chiarendo come i ritardi registrati siano riconducibili a un aumento esponenziale e ravvicinato del numero di istanze di rilascio, dovuto a diversi fattori.",
+   "temi": [],
    "parole": 538,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00010.int00040"
   },
@@ -611,7 +850,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ricordato dall'onorevole interrogante, lo scorso 4 luglio, la Camera dei deputati ha approvato un disegno di legge contenente una delega al Governo per l'adozione di uno o più decreti legislativi volti a disciplinare le modalità dell'esercizio del voto fuori dal comune di residenza, nonché una rimodulazione della tariffa agevolata per coloro che intendono recarsi a votare nel comune di iscriz […]",
+   "sunto": "Come ricordato dall'onorevole interrogante, lo scorso 4 luglio, la Camera dei deputati ha approvato un disegno di legge contenente una delega al Governo per l'adozione di uno o più decreti legislativi volti a disciplinare le modalità dell'esercizio del voto fuori dal comune di residenza, nonché…",
+   "temi": [],
    "parole": 356,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00020.int00040"
   },
@@ -624,7 +864,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le cosiddette baby-gang sono espressione di forme di devianza e di criminalità giovanile riconducibili a una pluralità di fattori, spesso interconnessi, tra i quali il contesto familiare, sociale, economico, la dispersione scolastica, la qualità dell'ambiente urbano e, non ultimo, l'utilizzo improprio delle tecnologie informatiche. […]",
+   "sunto": "Abbiamo pertanto, da tempo, elaborato una strategia integrata, combinando l'intensificazione delle misure di controllo del territorio con iniziative svolte su tutto il territorio nazionale dalle Forze di Polizia e dalla rete delle prefetture, in collaborazione con le scuole, al fine di…",
+   "temi": [
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 500,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00030.int00040"
   },
@@ -637,7 +881,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il centro sociale Askatasuna, riconducibile all'area dell'antagonismo torinese, occupa abusivamente dal 1996 un immobile, come è stato detto, di proprietà del comune, in precedenza destinato a un uso scolastico. […]",
+   "sunto": "Il centro sociale Askatasuna, riconducibile all'area dell'antagonismo torinese, occupa abusivamente dal 1996 un immobile, come è stato detto, di proprietà del comune, in precedenza destinato a un uso scolastico.",
+   "temi": [
+    "Sanità",
+    "Sicurezza e criminalità"
+   ],
    "parole": 532,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00040.int00040"
   },
@@ -650,7 +898,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Va premesso che, con la riduzione delle risorse previste dall'articolo 30, comma 14- bis , del decreto-legge n. 34 del 2019, disposta dall'ultima legge di bilancio, si è inteso dare copertura finanziaria al mancato ritorno al bilancio dello Stato delle risorse straordinarie finalizzate a mitigare gli effetti della congiuntura economico-finanziaria già assegnate agli enti locali nel biennio 2020-20 […]",
+   "sunto": "Pertanto, per l'anno in corso, come ricordato dall'onorevole interrogante, è stato assegnato in favore di ciascuno dei 2.014 comuni con popolazione inferiore a mille abitanti un contributo dell'importo di circa 58.590 euro, al fine di consentire l'inizio dell'esecuzione dei lavori entro il 15…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00010.int00040"
   },
@@ -663,7 +914,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ricordato dall'onorevole interrogante, dall'inizio dell'anno al 19 febbraio scorso, in Italia si registra una netta riduzione del numero dei migranti sbarcati, pari a circa il 65 per cento, ad oggi, rispetto all'analogo periodo dello scorso anno e con un calo anche rispetto ai numeri registrati nel 2022. […]",
+   "sunto": "Come ricordato dall'onorevole interrogante, dall'inizio dell'anno al 19 febbraio scorso, in Italia si registra una netta riduzione del numero dei migranti sbarcati, pari a circa il 65 per cento, ad oggi, rispetto all'analogo periodo dello scorso anno e con un calo anche rispetto ai numeri…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 457,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00020.int00040"
   },
@@ -676,7 +930,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Rispetto all'iniziativa commemorativa dell'attivista Navalny presso i giardini Anna Politkovskaja del 18 febbraio scorso, la questura di Milano ha riferito che l'intervento del personale della Polizia di Stato è stato improntato esclusivamente all'esigenza di assicurare che vi fossero tutte le condizioni di sicurezza per lo svolgimento della manifestazione, a garanzia degli stessi partecipanti e a […]",
+   "sunto": "Rispetto all'iniziativa commemorativa dell'attivista Navalny presso i giardini Anna Politkovskaja del 18 febbraio scorso, la questura di Milano ha riferito che l'intervento del personale della Polizia di Stato è stato improntato esclusivamente all'esigenza di assicurare che vi fossero tutte le…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 402,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00030.int00040"
   },
@@ -689,7 +946,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In relazione ai fatti di Milano ribadisco la ricostruzione e le considerazioni che ho appena svolto in risposta all'onorevole Pastorino. Gli onorevoli interroganti citano poi nelle premesse, accumulandoli, una serie di episodi diversi nelle loro dinamiche e connessi allo svolgimento di distinte manifestazioni pubbliche, rispetto ai quali va subito respinta ogni suggestione che vi sia un disegno de […]",
+   "sunto": "Gli onorevoli interroganti citano poi nelle premesse, accumulandoli, una serie di episodi diversi nelle loro dinamiche e connessi allo svolgimento di distinte manifestazioni pubbliche, rispetto ai quali va subito respinta ogni suggestione che vi sia un disegno del Governo per reprimere il…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00040.int00040"
   },
@@ -702,7 +962,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, io ho immediatamente accolto l'invito a riferire sui recenti scontri che si sono verificati nel corso di manifestazioni di piazza a Pisa e a Firenze, lo scorso 23 febbraio. La visione delle immagini degli scontri di Pisa, circolate sui media , ha turbato anche me. […]",
+   "sunto": "In tale fase, una decina di manifestanti superava la barriera, raggiungendo le spalle dello schieramento degli operatori in servizio e venivano, pertanto, bloccati dal personale delle Forze di Polizia e condotti nell'adiacente piazza dei Cavalieri.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2106,
    "url": "https://www.camera.it/leg19/410?idSeduta=0253&tipo=stenografico#sed0253.stenografico.tit00040.sub00010.int00020"
   },
@@ -715,7 +981,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Il compito delle Forze di Polizia nei complessi scenari in cui sono chiamate ad operare va sostenuto con fiducia e senza pregiudizi, garantendo loro, specie nei servizi di ordine pubblico, la possibilità di operare con la necessaria serenità, condizione imprescindibile per gestire i rischi legati a contesti particolarmente impegnativi. […]",
+   "sunto": "Ritengo, dunque, indispensabile evitare che singoli episodi vengano utilizzati per ricostruzioni distorte della realtà, alimentando, soprattutto da parte di chi è lontano da logiche antagoniste, il rischio che le Forze di Polizia siano rappresentate in contrapposizione ai manifestanti.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 702,
    "url": "https://www.camera.it/leg19/410?idSeduta=0253&tipo=stenografico#sed0253.stenografico.tit00040.sub00010.int00060"
   },
@@ -728,7 +998,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Come il Capo dello Stato, sono convinto anch'io che l'autorevolezza delle Forze di Polizia non si nutra dell'uso della forza. Questa autorevolezza si fonda sul sacrificio di centinaia di caduti nella lotta al terrorismo e alla criminalità (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC, Italia al C […]",
+   "sunto": "Come il Capo dello Stato, sono convinto anch'io che l'autorevolezza delle Forze di Polizia non si nutra dell'uso della forza.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 61,
    "url": "https://www.camera.it/leg19/410?idSeduta=0253&tipo=stenografico#sed0253.stenografico.tit00040.sub00010.int00160"
   },
@@ -741,7 +1014,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "…nella leale difesa delle istituzioni democratiche anche negli anni più bui della Repubblica, nella capacità di accompagnare, con equilibrio e professionalità, lo sviluppo della società italiana. Una storia che merita il rispetto e la riconoscenza da parte di tutti. […]",
+   "sunto": "L'ordine pubblico va lasciato fuori da ogni speculazione e le Forze di Polizia, sempre sottoposte al controllo democratico, devono essere preservate da pericolosi tentativi di strumentalizzazione (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier , Forza Italia-Berlusconi…",
+   "temi": [],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0253&tipo=stenografico#sed0253.stenografico.tit00040.sub00010.int00180"
   },
@@ -754,7 +1028,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La ricostruzione dei fatti relativi alle operazioni di soccorso che hanno coinvolto la motovedetta libica Fezzan e la nave privata Mare Jonio da me fornita lo scorso 11 aprile al Senato è stata effettuata - e lo ribadisco ancora una volta - sulla base di rapporti ufficiali provenienti dalle autorità competenti internazionali ed italiane. […]",
+   "sunto": "La ricostruzione dei fatti relativi alle operazioni di soccorso che hanno coinvolto la motovedetta libica Fezzan e la nave privata Mare Jonio da me fornita lo scorso 11 aprile al Senato è stata effettuata - e lo ribadisco ancora una volta - sulla base di rapporti ufficiali provenienti dalle…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00040.int00040"
   },
@@ -767,7 +1044,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In merito alle asserite criticità del funzionamento del cosiddetto click day per la presentazione delle domande riferite al decreto Flussi di quest'anno dico immediatamente che non risultano essersi verificate disfunzioni del portale dedicato nell'ora di apertura prevista, come conferma il ridotto numero di segnalazioni pervenute all' help desk , pari allo 0,04 per cento, che è una percentuale min […]",
+   "sunto": "In merito alle asserite criticità del funzionamento del cosiddetto click day per la presentazione delle domande riferite al decreto Flussi di quest'anno dico immediatamente che non risultano essersi verificate disfunzioni del portale dedicato nell'ora di apertura prevista, come conferma il…",
+   "temi": [],
    "parole": 361,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00050.int00040"
   },
@@ -780,7 +1058,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Innanzitutto, per quanto concerne la scuola di Polizia di Stato di Brescia, informo che l'attuale sede è oggetto di un contratto di locazione tra l'Agenzia del demanio ed una società privata, e che effettivamente, dal mese di maggio 2023, come ho già avuto modo di rappresentare all'onorevole interrogante in una sua precedente sollecitazione, che mi ha rivolto direttamente, in vista dell'approssima […]",
+   "sunto": "Innanzitutto, per quanto concerne la scuola di Polizia di Stato di Brescia, informo che l'attuale sede è oggetto di un contratto di locazione tra l'Agenzia del demanio ed una società privata, e che effettivamente, dal mese di maggio 2023, come ho già avuto modo di rappresentare all'onorevole…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 338,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00060.int00040"
   },
@@ -793,7 +1074,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Dopo i fatti del 7 ottobre, contestualmente all'innalzamento dei livelli di prevenzione, è stato garantito lo svolgimento di migliaia di manifestazioni dirette tanto a supporto della causa palestinese, quanto a sostegno di Israele. […]",
+   "sunto": "Dall'inizio di quest'anno a ieri, si sono svolte 5.050 manifestazioni, con un aumento di circa il 40 per cento rispetto all'analogo periodo del 2023 e le manifestazioni che hanno registrato criticità, quest'anno, sono state appena il 2,3 per cento del totale.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 333,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00070.int00040"
   },
@@ -806,7 +1091,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il disegno di legge del Governo, ricordato dall'onorevole interrogante, contiene importanti misure per la sicurezza pubblica, che spaziano dalla prevenzione del terrorismo e delle infiltrazioni mafiose alla gestione dei beni sequestrati e confiscati, dalla sicurezza urbana a misure di tutela degli operatori nell'espletamento dei loro compiti. […]",
+   "sunto": "Il disegno di legge del Governo, ricordato dall'onorevole interrogante, contiene importanti misure per la sicurezza pubblica, che spaziano dalla prevenzione del terrorismo e delle infiltrazioni mafiose alla gestione dei beni sequestrati e confiscati, dalla sicurezza urbana a misure di tutela…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 332,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00060.sub00080.int00040"
   },
@@ -819,7 +1107,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Signor Ministro, grazie Presidente. Preciso subito che nessun provvedimento è stato già adottato dal Governo in attuazione della norma della legge di bilancio a cui fanno riferimento gli onorevoli interroganti. Vi è, al momento, soltanto un mero schema di decreto che è stato sottoposto alle valutazioni tecniche del sistema delle autonomie locali e, in vista della Conferenza Stato-città, saranno pertanto approfondite […]",
+   "sunto": "Sottolineo che, secondo quanto espressamente previsto dalla stessa legge di bilancio, per il concorso agli obiettivi di finanza pubblica da parte degli enti locali, sono esclusi gli interventi per l'infanzia, i minori e gli asili nido, per la disabilità, per gli anziani e per i soggetti a…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 458,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00080.sub00030.int00100"
   },
@@ -832,7 +1125,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io respingo subito qualsiasi suggestione circa il clima vessatorio ed anticostituzionale che si registrerebbe verso coloro che manifestano nel nostro Paese. Lo faccio partendo dai dati che ci restituiscono quest'anno un inequivocabile aumento del numero delle manifestazioni. […]",
+   "sunto": "Rammento, infatti, che nell'ordinanza di servizio che viene emanata dal questore per i servizi di ordine e sicurezza pubblica vengono indicati sia il funzionario di pubblica sicurezza responsabile della direzione del servizio che quelli addetti ai singoli settori di impiego.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 475,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00080.sub00040.int00040"
   },
@@ -845,7 +1141,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Nell'ambito dei lavori parlamentari relativi alla conversione del decreto-legge n. 7 del 2024, il cosiddetto decreto Election day , a seguito dell'approvazione di un ordine del giorno, il Governo si è impegnato a valutare ogni utile iniziativa per poter procedere all'introduzione della tessera elettorale digitale, prevedendone anche una modalità di rilascio attraverso il portale dell'Anagrafe nazi […]",
+   "sunto": "Nell'ambito dei lavori parlamentari relativi alla conversione del decreto-legge n. 7 del 2024, il cosiddetto decreto Election day , a seguito dell'approvazione di un ordine del giorno, il Governo si è impegnato a valutare ogni utile iniziativa per poter procedere all'introduzione della tessera…",
+   "temi": [],
    "parole": 263,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00080.sub00010.int00040"
   },
@@ -858,7 +1155,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Presidente, dall'inizio dell'anno alla data odierna gli arrivi via mare dei migranti segnano rispetto allo scorso anno - lo sottolineava l'interrogante - una diminuzione pari a circa il 60 per cento e quello in corso potrebbe essere il nono mese consecutivo di flessione degli arrivi. […]",
+   "sunto": "Dall'inizio dell'anno alla data odierna gli arrivi via mare dei migranti segnano rispetto allo scorso anno - lo sottolineava l'interrogante - una diminuzione pari a circa il 60 per cento e quello in corso potrebbe essere il nono mese consecutivo di flessione degli arrivi.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 455,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00080.sub00020.int00040"
   },
@@ -871,7 +1171,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Lo straordinario impegno profuso per superare le criticità connesse alla tempistica del rilascio dei passaporti ha già consentito, come è stato detto, di raggiungere risultati molto positivi. Nel corso dei primi cinque mesi dell'anno sono stati emessi più di 1.400.000 passaporti, circa 220.000 in più rispetto a quelli emessi nello stesso periodo del 2023. […]",
+   "sunto": "Nel corso dei primi cinque mesi dell'anno sono stati emessi più di 1.400.000 passaporti, circa 220.000 in più rispetto a quelli emessi nello stesso periodo del 2023. […] Un analogo trend positivo si registra sul fronte delle prenotazioni, che nei primi cinque mesi dell'anno in corso hanno raggiunto il numero di 1.640.000, a fronte delle 715.000 circa del 2023.",
+   "temi": [],
    "parole": 346,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00080.sub00030.int00040"
   },
@@ -884,7 +1185,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per fortuna, l'epoca dei social nella quale viviamo mi ha consentito di rendere nota la posizione che ho espresso sui temi oggetto dell'interrogazione, anche attraverso la pubblicazione di un video integrale delle mie dichiarazioni prima ancora che le stesse venissero fatte oggetto di artificiose e fuorvianti letture. […]",
+   "sunto": "Considero il contrasto all'antisemitismo, da qualsiasi parte espresso e con qualsiasi modalità effettuato, un dovere, innanzitutto, etico, oltre che istituzionale, da mettere in pratica in ogni circostanza, sia essa pubblica che privata e a tale principio continuerò a ispirare il mio mandato da…",
+   "temi": [],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0317&tipo=stenografico#sed0317.stenografico.tit00060.sub00090.int00040"
   },
@@ -897,7 +1199,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le analisi degli apparati investigativi impegnati nell'area metropolitana di Napoli evidenziano situazioni talvolta condizionate dalla presenza radicata di associazioni di natura camorristica. Le stesse analisi rilevano come, in alcune zone, la temporanea assenza di gruppi dominanti possa determinare forme di accesa conflittualità all'interno dei contesti criminali. […]",
+   "sunto": "Le analisi degli apparati investigativi impegnati nell'area metropolitana di Napoli evidenziano situazioni talvolta condizionate dalla presenza radicata di associazioni di natura camorristica.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00030.int00040"
   },
@@ -910,7 +1215,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La prefettura di Verona dedica periodicamente sedute del comitato provinciale per l'ordine e la sicurezza pubblica al fine di predisporre dispositivi coordinati di controllo delle Forze di polizia, sia in chiave di prevenzione che di contrasto a ogni forma di illegalità. […]",
+   "sunto": "La prefettura di Verona dedica periodicamente sedute del comitato provinciale per l'ordine e la sicurezza pubblica al fine di predisporre dispositivi coordinati di controllo delle Forze di polizia, sia in chiave di prevenzione che di contrasto a ogni forma di illegalità.",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 444,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00040.int00040"
   },
@@ -923,7 +1232,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'approvazione all'unanimità della legge n. 168 del 2023, cui fanno riferimento gli onorevoli interroganti, su mia iniziativa e dei Ministri Roccella e Nordio, per il contrasto della violenza sulle donne e della violenza domestica rappresenta un segnale di straordinaria importanza per le istituzioni e per il Paese. […]",
+   "sunto": "A questo fine è stato ulteriormente esteso l'ambito di applicazione del braccialetto elettronico, in primis , alla misura della sorveglianza speciale, previo consenso dell'interessato e la verifica della fattibilità tecnica, poi alla misura del divieto di avvicinamento, disposto d'urgenza e in…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00050.int00040"
   },
@@ -936,7 +1248,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "I dati sugli arrivi via mare dei migranti effettivamente registrano non solo una forte diminuzione rispetto allo scorso anno, pari a circa il 63 per cento ad oggi, ma anche una flessione del 20 per cento circa rispetto al 2022, anno in cui era in carica il precedente Governo. […]",
+   "sunto": "I dati sugli arrivi via mare dei migranti effettivamente registrano non solo una forte diminuzione rispetto allo scorso anno, pari a circa il 63 per cento ad oggi, ma anche una flessione del 20 per cento circa rispetto al 2022, anno in cui era in carica il precedente Governo.",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 482,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00060.int00040"
   },
@@ -949,7 +1265,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ho già avuto modo di evidenziare prima, il calo del numero degli arrivi via mare dei migranti è il frutto di precise iniziative che il Governo ha messo in campo per riportare la gestione del fenomeno migratorio in una cornice di piena legalità; tutto questo, all'interno di una più ampia e articolata strategia di rapporti di collaborazione con i Paesi a vocazione migratoria sviluppato dal Pres […]",
+   "sunto": "Come ho già avuto modo di evidenziare prima, il calo del numero degli arrivi via mare dei migranti è il frutto di precise iniziative che il Governo ha messo in campo per riportare la gestione del fenomeno migratorio in una cornice di piena legalità; tutto questo, all'interno di una più ampia e…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00070.int00040"
   },
@@ -962,7 +1281,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ho già detto, i dati sugli arrivi dei migranti via mare - meno 63 per cento rispetto al 2023 e meno 20 per cento rispetto al 2022 -restituiscono in maniera inequivocabile i risultati raggiunti dal Governo, grazie a iniziative ad ampio raggio di carattere normativo, operativo e di cooperazione internazionale. […]",
+   "sunto": "Come ho già detto, i dati sugli arrivi dei migranti via mare - meno 63 per cento rispetto al 2023 e meno 20 per cento rispetto al 2022 -restituiscono in maniera inequivocabile i risultati raggiunti dal Governo, grazie a iniziative ad ampio raggio di carattere normativo, operativo e di…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 325,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00060.sub00080.int00040"
   },
@@ -975,7 +1297,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Effettivamente le dinamiche sindacali del comparto della logistica sono da tempo egemonizzate dalle sigle più oltranziste del sindacalismo di base che, in un'ottica funzionale all'inasprimento delle relazioni industriali, perseguono forme radicali di protesta, con manifestazioni anche a carattere estemporaneo e senza preavviso, nelle quali i partecipanti sono soliti porre in essere azioni che impe […]",
+   "sunto": "Effettivamente le dinamiche sindacali del comparto della logistica sono da tempo egemonizzate dalle sigle più oltranziste del sindacalismo di base che, in un'ottica funzionale all'inasprimento delle relazioni industriali, perseguono forme radicali di protesta, con manifestazioni anche a…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Sicurezza e criminalità"
+   ],
    "parole": 372,
    "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00060.sub00020.int00040"
   },
@@ -988,7 +1314,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ricordato dagli stessi onorevoli interroganti, è già dal gennaio 2022 che sono in uso al personale dei reparti inquadrati impegnati nei servizi operativi le cosiddette bodycam , che costituiscono un utile strumento per documentare gli accadimenti in occasione di eventi di rilievo o a rischio per l'ordine pubblico e per l'identificazione anche degli agenti intervenuti. […]",
+   "sunto": "Come ricordato dagli stessi onorevoli interroganti, è già dal gennaio 2022 che sono in uso al personale dei reparti inquadrati impegnati nei servizi operativi le cosiddette bodycam , che costituiscono un utile strumento per documentare gli accadimenti in occasione di eventi di rilievo o a…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00060.sub00030.int00040"
   },
@@ -1001,7 +1330,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ho già avuto modo di riferire in Parlamento, fin dal mio insediamento ho dedicato una particolare attenzione alla sicurezza nelle città, anche con l'attivazione di un forum con i sindaci delle città metropolitane proprio sui temi della sicurezza urbana e l'individuazione di specifiche linee di intervento finalizzate ad aumentare la presenza delle Forze di polizia, specie nei luoghi ad alta fr […]",
+   "sunto": "Come ho già avuto modo di riferire in Parlamento, fin dal mio insediamento ho dedicato una particolare attenzione alla sicurezza nelle città, anche con l'attivazione di un forum con i sindaci delle città metropolitane proprio sui temi della sicurezza urbana e l'individuazione di specifiche linee…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 493,
    "url": "https://www.camera.it/leg19/410?idSeduta=0354&tipo=stenografico#sed0354.stenografico.tit00060.sub00040.int00040"
   },
@@ -1014,7 +1348,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colgo l'occasione, innanzitutto, per esprimere anche in questa sede l'apprezzamento per l'operato delle Forze di polizia che, come sempre, hanno dimostrato grande professionalità ed equilibrio, garantendo l'ordine pubblico in giornate particolarmente complesse. […]",
+   "sunto": "Colgo l'occasione, innanzitutto, per esprimere anche in questa sede l'apprezzamento per l'operato delle Forze di polizia che, come sempre, hanno dimostrato grande professionalità ed equilibrio, garantendo l'ordine pubblico in giornate particolarmente complesse.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00100.int00040"
   },
@@ -1027,7 +1364,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, le procedure di appalto per la realizzazione dei centri per i migranti in Albania sono regolate dalla legge di ratifica del relativo Protocollo. È quella legge che ha affidato al Genio militare la competenza per la progettazione e l'esecuzione dei lavori, nonché per l'acquisizione delle forniture necessarie per la realizzazione delle strutture, prevedendo la possibilità di svol […]",
+   "sunto": "Gli altri operatori economici con sede in Italia sono stati sottoposti a verifica con esito negativo mediante la predetta banca dati nazionale antimafia o tramite le white list delle prefetture riportanti l'elenco dei fornitori prestatori di servizi ed esecutori di lavori non soggetti a…",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 328,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00090.sub00010.int00040"
   },
@@ -1040,7 +1381,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La linea del Governo in materia di politiche migratorie si muove, sin dal suo insediamento, su un doppio binario: da un lato, la lotta al vergognoso traffico dei migranti e all'immigrazione illegale; dall'altro, la promozione di canali di immigrazione legale con regole certe, semplici e chiare, ragione per cui abbiamo favorito una migliore programmazione degli ingressi regolari con numeri di gran […]",
+   "sunto": "La linea del Governo in materia di politiche migratorie si muove, sin dal suo insediamento, su un doppio binario: da un lato, la lotta al vergognoso traffico dei migranti e all'immigrazione illegale; dall'altro, la promozione di canali di immigrazione legale con regole certe, semplici e chiare,…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 468,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00090.sub00020.int00040"
   },
@@ -1053,7 +1398,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Colucci, essere vicini alle Forze di Polizia non può in alcun modo essere posto in alternativa o, addirittura, in contrapposizione con il Protocollo con l'Albania, un Protocollo che risponde ad esigenze di prevenzione e contrasto dei flussi migratori irregolari e potrà svolgere un'importante funzione di deterrenza rispetto al traffico illecito dei migranti, che quei flussi alimenta, e co […]",
+   "sunto": "Onorevole Colucci, essere vicini alle Forze di Polizia non può in alcun modo essere posto in alternativa o, addirittura, in contrapposizione con il Protocollo con l'Albania, un Protocollo che risponde ad esigenze di prevenzione e contrasto dei flussi migratori irregolari e potrà svolgere…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 486,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00090.sub00030.int00040"
   },
@@ -1066,7 +1416,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'attività di rilascio dei permessi di soggiorno è sicuramente impegnativa, anche per l'elevato carico di lavoro connesso alla presenza e all'ingresso di stranieri sul territorio nazionale. Basti pensare che il numero dei permessi di soggiorno in corso di validità alla data dell'11 ottobre di quest'anno ammonta complessivamente a più di 4.330.000. […]",
+   "sunto": "Basti pensare che il numero dei permessi di soggiorno in corso di validità alla data dell'11 ottobre di quest'anno ammonta complessivamente a più di 4.330.000.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione"
+   ],
    "parole": 440,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00090.sub00040.int00040"
   },
@@ -1079,7 +1433,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le Forze di polizia sono stabilmente impegnate nell'attività di prevenzione e contrasto dell'estremismo e del terrorismo di matrice internazionale. La capillare attività informativa e investigativa, condotta e finalizzata alla continua ricerca di elementi che possono essere sintomatici di un rischio per la sicurezza dello Stato, è stata ulteriormente incrementata a seguito degli attacchi terrorist […]",
+   "sunto": "Le Forze di polizia sono stabilmente impegnate nell'attività di prevenzione e contrasto dell'estremismo e del terrorismo di matrice internazionale.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0366&tipo=stenografico#sed0366.stenografico.tit00090.sub00050.int00040"
   },
@@ -1092,7 +1449,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La disciplina del rapporto di impiego del personale del Corpo nazionale dei vigili del fuoco è stata interessata, con il decreto legislativo n. 217 del 2005, da un'importante riforma, il cui scopo principale è stato quello di affermare la valenza pubblicistica di tale rapporto, superando il disallineamento che sussisteva tra il Corpo, assoggettato in precedenza a regime di diritto privato, e quell […]",
+   "sunto": "La disciplina del rapporto di impiego del personale del Corpo nazionale dei vigili del fuoco è stata interessata, con il decreto legislativo n. 217 del 2005, da un'importante riforma, il cui scopo principale è stato quello di affermare la valenza pubblicistica di tale rapporto, superando il…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 301,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00010.int00040"
   },
@@ -1105,7 +1465,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Indubbiamente, negli anni passati, con Governi precedenti, aver considerato il sistema di sicurezza un fattore di costo e non di investimento si è rivelata una scelta sbagliata, non priva di effetti negativi, che stiamo ora invertendo con le nostre politiche di sicurezza, incentrate sul rafforzamento progressivo e costante degli organici e sull'ammodernamento di mezzi e strutture. […]",
+   "sunto": "La forza effettiva della Polizia di Stato nella provincia di Napoli è di 5.492 unità, mentre l'Arma dei carabinieri dispone di 4.164 militari e la Guardia di finanza di 1.894 unità.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 500,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00020.int00060"
   },
@@ -1118,7 +1481,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per contrastare il fenomeno delle aggressioni al personale sanitario, il Governo già da tempo ha delineato precise linee di intervento, che si sono sviluppate sia sul piano normativo che su quello strettamente operativo. Prima con il decreto-legge n. 34 del 2023 e, da ultimo, con il decreto-legge n. […]",
+   "sunto": "A quest'ottica di costante implementazione delle misure di sicurezza risponde la costituzione di posti fissi della Polizia di Stato presso le strutture ospedaliere dotate di un reparto di urgenza, considerando sia il bacino di utenza che il livello di rischio delle strutture.",
+   "temi": [
+    "Sanità",
+    "Sicurezza e criminalità"
+   ],
    "parole": 349,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00030.int00060"
   },
@@ -1131,7 +1498,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io ho già avuto modo di riferire più volte in Parlamento in merito al Protocollo Italia-Albania, sul quale, lo ribadisco, abbiamo registrato il forte interesse di 15 Paesi europei. Penso di essere in sintonia con la vocazione europeista dell'onorevole interrogante, se ricordo che proprio la presidente della Commissione europea ha espressamente sottolineato l'importanza di continuare a esplorare l' […]",
+   "sunto": "Il costo complessivo dell'iniziativa costituisce un investimento che consentirà di abbattere le spese della gestione dell'accoglienza che, solo nel 2023, sono state di circa 2 miliardi di euro. […] L'efficacia dell'azione del Governo è confermata anche dai 5.054 rimpatri effettuati ad oggi dall'inizio dell'anno, con un aumento del 6 per cento rispetto allo scorso anno e del 17 per cento rispetto al 2022.",
+   "temi": [
+    "Immigrazione",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 502,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00040.int00040"
   },
@@ -1144,7 +1516,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per i servizi di ordine pubblico pianificati per il Capodanno a Milano e ulteriormente rafforzati con l'istituzione delle cosiddette zone rosse sono state impiegate in tutta la città circa 880 unità, assicurando attività di controllo e vigilanza in diverse zone cittadine quali, in particolare, Piazza Duomo, le stazioni ferroviarie e i luoghi della movida. […]",
+   "sunto": "Per i servizi di ordine pubblico pianificati per il Capodanno a Milano e ulteriormente rafforzati con l'istituzione delle cosiddette zone rosse sono state impiegate in tutta la città circa 880 unità, assicurando attività di controllo e vigilanza in diverse zone cittadine quali, in particolare,…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 516,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00060.sub00030.int00040"
   },
@@ -1157,7 +1532,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Noi stiamo dedicando il massimo impegno per elevare i livelli di sicurezza nelle nostre città, mediante una strategia che tende a coniugare l'indispensabile aspetto securitario con misure finalizzate a ridurre il disagio sociale. […]",
+   "sunto": "Noi stiamo dedicando il massimo impegno per elevare i livelli di sicurezza nelle nostre città, mediante una strategia che tende a coniugare l'indispensabile aspetto securitario con misure finalizzate a ridurre il disagio sociale.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 426,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00060.sub00040.int00040"
   },
@@ -1170,7 +1548,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io ritengo una priorità assoluta rilanciare l'azione di prevenzione e contrasto del crimine organizzato nel territorio della Capitanata e per dare un chiaro segnale in tal senso, come ha citato lei, a pochi mesi dal mio insediamento, ho presieduto a Foggia un Comitato provinciale per l'ordine e la sicurezza pubblica, al fine di approfondire le più efficaci strategie di intervento con le autorità p […]",
+   "sunto": "Nello stesso periodo, i dispositivi pianificati dalle autorità provinciali di pubblica sicurezza, in occasione dello svolgimento di manifestazione pubbliche, nonché per tutte le altre esigenze di ordine e sicurezza pubblica, sono stati integrati con 1.675 unità di rinforzo delle Forze mobili di…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 453,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00060.sub00050.int00040"
   },
@@ -1183,7 +1564,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Dopo quanto riferito dal collega Nordio, mi soffermerò sulle questioni di mia più stretta competenza relative all'arresto e alla successiva espulsione del cittadino libico Najeem Osema Almasri Habish. […]",
+   "sunto": "Nella serata del 18 gennaio il funzionario della Corte forniva al citato coordinatore dell'Unità crimini internazionali i contatti dell'agente della Polizia criminale tedesca che aveva trasmesso alla Corte le informazioni sui possibili spostamenti del cittadino libico verso il territorio italiano.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 1845,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00010.int00240"
   },
@@ -1196,7 +1583,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sull'individuazione della data di svolgimento dei cinque referendum abrogativi dichiarati ammissibili dalla Corte costituzionale è da ricordare, come è stato fatto, che la legge n. 352 del 1970 prevede la seguente specifica procedura, che non ammette deroghe estemporanee: dopo aver ricevuto la comunicazione dalla sentenza della Corte costituzionale, il Presidente della Repubblica, su deliberazione […]",
+   "sunto": "Sull'individuazione della data di svolgimento dei cinque referendum abrogativi dichiarati ammissibili dalla Corte costituzionale è da ricordare, come è stato fatto, che la legge n. 352 del 1970 prevede la seguente specifica procedura, che non ammette deroghe estemporanee: dopo aver ricevuto la…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 415,
    "url": "https://www.camera.it/leg19/410?idSeduta=0427&tipo=stenografico#sed0427.stenografico.tit00070.sub00050.int00040"
   },
@@ -1209,7 +1599,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ricordato dall'onorevole interrogante, la Camera dei deputati, il 4 luglio 2023, come ho detto già prima, ha approvato una norma di delega al Governo per la disciplina della materia degli elettori fuori sede e l'esame del provvedimento è attualmente all'attenzione del Senato. In attesa del completamento dell'iter legislativo in fase di conversione del decreto-legge n. […]",
+   "sunto": "Come ricordato dall'onorevole interrogante, la Camera dei deputati, il 4 luglio 2023, come ho detto già prima, ha approvato una norma di delega al Governo per la disciplina della materia degli elettori fuori sede e l'esame del provvedimento è attualmente all'attenzione del Senato.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0427&tipo=stenografico#sed0427.stenografico.tit00070.sub00060.int00040"
   },
@@ -1222,7 +1615,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io ho già riferito più volte in Parlamento in merito al Protocollo Italia-Albania, evidenziando come l'iniziativa abbia riscontrato l'immediato, sin dall'inizio, forte interesse da parte di 15 Paesi europei e anche della stessa Presidente della Commissione europea, che ha espressamente sottolineato l'importanza di continuare ad esplorare l'idea di sviluppare hub di rimpatrio fuori dall'Unione euro […]",
+   "sunto": "Io ho già riferito più volte in Parlamento in merito al Protocollo Italia-Albania, evidenziando come l'iniziativa abbia riscontrato l'immediato, sin dall'inizio, forte interesse da parte di 15 Paesi europei e anche della stessa Presidente della Commissione europea, che ha espressamente…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 342,
    "url": "https://www.camera.it/leg19/410?idSeduta=0427&tipo=stenografico#sed0427.stenografico.tit00070.sub00070.int00040"
   },
@@ -1235,7 +1632,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La prevenzione e il contrasto della violenza contro le donne sono obiettivi condivisi ad ogni livello, come dimostra l'approvazione avvenuta all'unanimità della legge n. 168 del novembre 2023. […]",
+   "sunto": "La prevenzione e il contrasto della violenza contro le donne sono obiettivi condivisi ad ogni livello, come dimostra l'approvazione avvenuta all'unanimità della legge n. 168 del novembre 2023. […] È questa l'impostazione della legge n. 168 che potenzia ulteriormente gli strumenti normativi ed operativi in una logica di costante integrazione tra prevenzione, contrasto alla violenza e protezione delle vittime.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 508,
    "url": "https://www.camera.it/leg19/410?idSeduta=0440&tipo=stenografico#sed0440.stenografico.tit00090.sub00020.int00040"
   },
@@ -1248,7 +1648,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'ambito di utilizzo del cosiddetto braccialetto elettronico è stato notevolmente ampliato dalla legge n. 168 del 2023, approvata, come ho già sottolineato prima, con la più ampia e trasversale convergenza politica, allo scopo di rafforzare la tutela delle donne vittime di violenza. […]",
+   "sunto": "L'ambito di utilizzo del cosiddetto braccialetto elettronico è stato notevolmente ampliato dalla legge n. 168 del 2023, approvata, come ho già sottolineato prima, con la più ampia e trasversale convergenza politica, allo scopo di rafforzare la tutela delle donne vittime di violenza.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 444,
    "url": "https://www.camera.it/leg19/410?idSeduta=0440&tipo=stenografico#sed0440.stenografico.tit00090.sub00030.int00040"
   },
@@ -1261,7 +1664,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In merito alle iniziative finalizzate a migliorare il monitoraggio effettuato mediante l'utilizzo dei braccialetti elettronici, io rinvio a quanto ho appena riferito nella precedente risposta, ribadendo, però, che è intenso e costante lo sforzo da parte di tutti gli attori coinvolti nell'azione di prevenzione. […]",
+   "sunto": "In questa prospettiva, un ruolo chiave è svolto dal personale delle Forze di polizia, che viene appositamente formato in relazione alla prevenzione e al perseguimento dei reati di violenza domestica e contro le donne.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0440&tipo=stenografico#sed0440.stenografico.tit00090.sub00040.int00040"
   },
@@ -1274,7 +1680,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le iniziative intraprese per il quartiere Arghillà, come diceva l'onorevole interrogante, devono inserirsi coerentemente nel quadro degli interventi del Governo per la riqualificazione delle aree periferiche e questo perché il quartiere di Arghillà, nel corso degli anni, ha obiettivamente conosciuto un progressivo degrado urbano e sociale, connotato anche da criticità dal punto di vista ambientale […]",
+   "sunto": "Le iniziative intraprese per il quartiere Arghillà, come diceva l'onorevole interrogante, devono inserirsi coerentemente nel quadro degli interventi del Governo per la riqualificazione delle aree periferiche e questo perché il quartiere di Arghillà, nel corso degli anni, ha obiettivamente…",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00010.int00060"
   },
@@ -1287,7 +1697,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In relazione all'episodio citato di vandalismo perpetrato contro la targa intitolata a Beppe Alfano, sita nell'omonima piazza di Barcellona Pozzo di Gotto, il sindaco lo scorso 8 marzo ha sporto denunzia contro ignoti presso il locale commissariato di pubblica sicurezza, e al momento ci sono delle indagini in corso, anche mediante l'acquisizione delle immagini delle telecamere di videosorveglianza […]",
+   "sunto": "Sempre in occasione di questa ricorrenza, presso la piazza Alfano è stato piantato un albero della memoria e nell'Auditorium Parco Maggiore La Rosa si è tenuto un convegno sui temi della legalità e della memoria, con la partecipazione delle scuole cittadine.",
+   "temi": [
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 480,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00020.int00040"
   },
@@ -1300,7 +1714,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, il Governo ha apprezzato molto la discussione, anche lunga, che c'è stata su questo provvedimento, che per noi è un provvedimento strategico, che introduce strumenti concreti per rafforzare il contrasto alla criminalità, a garantire una maggiore tutela dei cittadini, in particolare delle fasce più vulnerabili, che a lungo sono state evocate in quest'Aula, e valorizzare anche il […]",
+   "sunto": "Infine, grande attenzione è riservata proprio alle Forze dell'ordine, attenzione che è stata invocata ed evocata anche in quest'Aula, e ai Vigili del fuoco, per i quali sono previste maggiori tutele contro le aggressioni e un sostegno economico fino a 10.000 euro per ciascuna fase del…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 408,
    "url": "https://www.camera.it/leg19/410?idSeduta=0485&tipo=stenografico#sed0485.stenografico.tit00070.sub00020.int00020"
   },
@@ -1313,7 +1730,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie ancora agli onorevoli deputati. A nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, senza subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2355 ​, nel testo delle Commissioni riunite, identico a quello presentato dal Governo.",
+   "sunto": "A nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, senza subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2355 ​, nel testo delle Commissioni riunite, identico a quello presentato dal…",
+   "temi": [],
    "parole": 51,
    "url": "https://www.camera.it/leg19/410?idSeduta=0485&tipo=stenografico#sed0485.stenografico.tit00070.sub00040.int00020"
   },
@@ -1326,7 +1744,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La ricostruzione fornita dagli investigatori riconduce i diversi episodi criminosi verificatisi negli ultimi mesi ad aprile, sui quali proseguono specifiche attività di indagine, a forme di conflittualità armata tra gruppi criminali locali e anche stranieri, che si manifestano con atti intimidatori e dimostrativi finalizzati ad ottenere il controllo delle piazze di spaccio. […]",
+   "sunto": "Sempre nell'ambito dell'intensificazione dell'attività di prevenzione, nel comune di Aprilia, dal 2024 ad oggi, sono state effettuate 18 operazioni definite “ad alto impatto”, con la collaborazione della Polizia di Stato, dell'Arma dei carabinieri, della Guardia di finanza e della Polizia locale.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00050.sub00010.int00040"
   },
@@ -1339,7 +1760,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Consentite anche a me, innanzitutto, di rinnovare anche in questa sede, a nome mio e dell'intero Governo, il più sentito cordoglio e la vicinanza alla famiglia del brigadiere Carlo Legrottaglie (Applausi), che è stato ucciso lo scorso 12 giugno mentre con coraggio e altissimo senso del dovere svolgeva un intervento operativo a Francavilla Fontana. […]",
+   "sunto": "In questo impegno, dall'inizio dell'anno ad oggi, sono stati messi a disposizione delle autorità provinciali di pubblica sicurezza di quella regione ben 3.900 equipaggi dei reparti prevenzione crimine della Polizia di Stato, con l'impiego aggiuntivo di oltre 11.000 unità di personale, oltre alle…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 528,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00050.sub00020.int00040"
   },
@@ -1352,7 +1777,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La situazione degli organici del Comando provinciale dei vigili del fuoco di Verona è alla costante attenzione del Ministero dell'Interno, che già nello scorso mese di giugno ha provveduto, per quella sede, all'assegnazione, come nuovi capi squadra, di 17 unità. […]",
+   "sunto": "La situazione degli organici del Comando provinciale dei vigili del fuoco di Verona è alla costante attenzione del Ministero dell'Interno, che già nello scorso mese di giugno ha provveduto, per quella sede, all'assegnazione, come nuovi capi squadra, di 17 unità.",
+   "temi": [],
    "parole": 441,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00050.int00040"
   },
@@ -1365,7 +1791,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sin dal mio insediamento - come ha ricordato - sulle complesse tematiche della sicurezza urbana ho ritenuto indispensabile ascoltare e dare rilievo alle istanze degli amministratori locali e alle variegate componenti della società civile, che questo Governo apprezza e valorizza. […]",
+   "sunto": "In questo quadro di massima attenzione alla realtà locale, ho presieduto comitati per l'ordine e la sicurezza pubblica in decine di città italiane (da ultimo ieri a Piacenza) e attivato forum con i sindaci, in particolare delle città metropolitane, proprio sui temi della sicurezza urbana.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 458,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00060.int00040"
   },
@@ -1378,7 +1807,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Già lo scorso 13 giugno, in quest'Aula, in risposta ad analogo quesito posto dall'onorevole interrogante, il Governo, sulla base di quanto comunicato dalle Forze di polizia, ha evidenziato che nella mattinata del 5 giugno scorso l' ex deputata brasiliana Carla Zambelli, cittadina italo-brasiliana, in compagnia del coniuge, è entrata in Italia con volo proveniente da Miami alle 11,40, quindi prima […]",
+   "sunto": "Già lo scorso 13 giugno, in quest'Aula, in risposta ad analogo quesito posto dall'onorevole interrogante, il Governo, sulla base di quanto comunicato dalle Forze di polizia, ha evidenziato che nella mattinata del 5 giugno scorso l' ex deputata brasiliana Carla Zambelli, cittadina…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 317,
    "url": "https://www.camera.it/leg19/410?idSeduta=0512&tipo=stenografico#sed0512.stenografico.tit00080.sub00070.int00060"
   },
@@ -1391,7 +1823,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, Presidente. L'attenzione sulla sicurezza del territorio della provincia di Cosenza e, in particolare, nel comune di Cetraro, è sicuramente prioritaria e costante ed è testimoniata dalle operazioni di Polizia condotte nei confronti della criminalità organizzata locale che hanno dato luogo a processi e condanne, anche nei confronti dei suoi capi storici. […]",
+   "sunto": "L'attenzione sulla sicurezza del territorio della provincia di Cosenza e, in particolare, nel comune di Cetraro, è sicuramente prioritaria e costante ed è testimoniata dalle operazioni di Polizia condotte nei confronti della criminalità organizzata locale che hanno dato luogo a processi e…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 341,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00010.int00060"
   },
@@ -1404,7 +1839,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Negli ultimi anni il concreto utilizzo del taser si è rivelato sempre più fondamentale per salvaguardare l'efficacia operativa delle Forze di Polizia in scenari critici e rendere inoffensivi i soggetti pericolosi per il tempo necessario a procedere al loro arresto. […]",
+   "sunto": "Negli ultimi anni il concreto utilizzo del taser si è rivelato sempre più fondamentale per salvaguardare l'efficacia operativa delle Forze di Polizia in scenari critici e rendere inoffensivi i soggetti pericolosi per il tempo necessario a procedere al loro arresto.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 298,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00020.int00060"
   },
@@ -1417,7 +1856,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per la verità, i dati aggregati più recenti indicano che nel primo semestre del 2025 si è registrato sul territorio nazionale un calo complessivo del 9 per cento dei reati rispetto all'analogo periodo dell'anno precedente. […]",
+   "sunto": "I risultati che stiamo ottenendo sono frutto della sempre più incisiva attività di controllo del territorio assicurata dalle Forze di Polizia, grazie all'istituzione delle zone a vigilanza rafforzata, le cosiddette “zone rosse”, e allo svolgimento sistematico di operazioni ad alto impatto.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 447,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00030.int00040"
   },
@@ -1430,7 +1873,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La minaccia terroristica conseguente al conflitto mediorientale è costantemente monitorata in sede di Comitato nazionale per l'ordine e la sicurezza pubblica - ho un appuntamento, dopo questa seduta, anche oggi - ai fini di una puntuale e aggiornata ricognizione delle migliaia di obiettivi sensibili in Italia, sui quali è stata intensificata l'attività di prevenzione e vigilanza. […]",
+   "sunto": "Aggiungo che, nell'ambito dei servizi svolti dalle Forze di Polizia per prevenire turbative all'ordine e alla sicurezza pubblica, anche a causa del crescente numero di azioni di intolleranza antisemita, vengono svolti dedicati servizi di prevenzione sia nei confronti delle comunità ebraiche…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 351,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00040.int00040"
   },
@@ -1443,7 +1889,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La situazione della presenza di comunità rom a Lamezia Terme è alla costante attenzione del Ministero dell'Interno che, tramite la rete delle prefetture, persegue l'obiettivo di superare la situazione di illegalità e di degrado tipica dei campi rom, affiancando le amministrazioni locali nelle iniziative di loro competenza. […]",
+   "sunto": "La situazione della presenza di comunità rom a Lamezia Terme è alla costante attenzione del Ministero dell'Interno che, tramite la rete delle prefetture, persegue l'obiettivo di superare la situazione di illegalità e di degrado tipica dei campi rom, affiancando le amministrazioni locali nelle…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 437,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00050.int00040"
   },
@@ -1456,7 +1905,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come evidenziato dagli onorevoli interroganti, è in corso questa inchiesta denominata Affidopoli, con il coordinamento della locale procura della Repubblica, per una serie di affidamenti e contribuzioni erogati dal comune di Pesaro tra il 2020 e il 2024 a favore delle associazioni Opera Maestra e Stella Polare. […]",
+   "sunto": "Come evidenziato dagli onorevoli interroganti, è in corso questa inchiesta denominata Affidopoli, con il coordinamento della locale procura della Repubblica, per una serie di affidamenti e contribuzioni erogati dal comune di Pesaro tra il 2020 e il 2024 a favore delle associazioni Opera Maestra…",
+   "temi": [],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0527&tipo=stenografico#sed0527.stenografico.tit00010.sub00060.int00040"
   },
@@ -1469,7 +1919,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sarà l'autorità giudiziaria ad accertare se esista una regia dietro ai disordini verificatisi nei giorni scorsi in occasione di manifestazioni a sostegno della causa palestinese, ma, in ogni caso, le strutture specialistiche del Ministero dell'Interno sono costantemente impegnate nelle attività di analisi e di prevenzione con riguardo a quelle iniziative che rischiano di degenerare in comportament […]",
+   "sunto": "Dal 7 ottobre 2023 ad oggi, l'Osservatorio per la sicurezza contro gli atti discriminatori, che opera presso il Ministero dell'Interno, ha registrato 733 segnalazioni per atti di antisemitismo, di cui 140 a Roma e 86 a Milano, con un fortissimo incremento rispetto al periodo pre-conflitto.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00110.sub00010.int00040"
   },
@@ -1482,7 +1936,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Dopo l'attacco terroristico perpetrato da Hamas contro israeliani inermi e la conseguente eccessiva reazione di Israele, le dinamiche della drammatica congiuntura internazionale si ripercuotono sulla sicurezza interna. Come ha detto lei, in questo contesto, la libertà di manifestare, legata alla mobilitazione di solidarietà con il popolo palestinese, è certamente legittima. […]",
+   "sunto": "Ricordo, a questo proposito, che, dall'inizio dell'anno al 7 ottobre, si sono tenute 8.674 manifestazioni di rilievo e in 242 casi sono state registrate criticità per l'ordine pubblico, con 330 feriti tra le Forze dell'ordine.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00110.sub00020.int00040"
   },
@@ -1495,7 +1953,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, ho immediatamente accolto l'invito a riferire sul gravissimo attentato posto in essere nei confronti del giornalista Sigfrido Ranucci lo scorso 16 ottobre. Prima di entrare nel merito di quanto avvenuto, consentitemi di esprimere, anche in questa sede, la piena solidarietà, mia e di tutto il Governo, a Sigfrido Ranucci e alla sua famiglia. […]",
+   "sunto": "Merita di essere sottolineato che le competenti articolazioni del Ministero dell'Interno sono impegnate da tempo nei servizi di protezione e tutela del giornalista Sigfrido Ranucci, proprio in ragione dell'esposizione al rischio derivante dalla sua attività di giornalista d'inchiesta.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 1560,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00120.sub00010.int00020"
   },
@@ -1508,7 +1969,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Va innanzitutto precisato che, dal punto di vista statistico, nel nostro Paese si registra una significativa riduzione dei reati nell'ultimo decennio: l'11 per cento in meno nel 2024, in raffronto al 2015. Inoltre, contrariamente a quanto asserito nell'interrogazione, nei primi dieci mesi dell'anno in corso i reati sono calati del 3,58 per cento rispetto all'analogo periodo dell'anno scorso. […]",
+   "sunto": "Inoltre, contrariamente a quanto asserito nell'interrogazione, nei primi dieci mesi dell'anno in corso i reati sono calati del 3,58 per cento rispetto all'analogo periodo dell'anno scorso. […] In concreto, nell'ultimo triennio di Governo hanno vestito la divisa il 50 per cento in più degli operatori che avevano assunto servizio nel triennio 2020-2022.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 483,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00010.int00040"
   },
@@ -1521,7 +1985,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Con le risorse del fondo per le assunzioni, previsto nella legge di bilancio già per l'anno 2023, e gli stanziamenti assicurati ancora per gli anni a seguire, stiamo progressivamente aumentando la presenza delle Forze dell'ordine, ringiovanendo gli organici. […]",
+   "sunto": "La particolare attenzione dedicata alle Forze di Polizia è testimoniata anche da altri specifici impegni concreti che abbiamo mantenuto per riconoscere stipendi più dignitosi alle Forze di Polizia e alle Forze armate.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 406,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00020.int00040"
   },
@@ -1534,7 +2001,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le aree urbane sottoposte a vigilanza rafforzata, le cosiddette zone rosse, rientrano in una più ampia strategia volta a garantire la libera e sicura fruibilità degli spazi pubblici e rappresentano uno strumento in più per le Forze di Polizia e le Polizie locali nell'azione quotidiana di prevenzione che viene molto spesso invocata dai cittadini. […]",
+   "sunto": "Le aree urbane sottoposte a vigilanza rafforzata, le cosiddette zone rosse, rientrano in una più ampia strategia volta a garantire la libera e sicura fruibilità degli spazi pubblici e rappresentano uno strumento in più per le Forze di Polizia e le Polizie locali nell'azione quotidiana di…",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 305,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00030.int00040"
   },
@@ -1547,7 +2018,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Questo Governo ha sempre contrastato e continuerà a farlo con determinazione tutti gli estremismi che sfocino in atti di discriminazione e violenza, perché in uno Stato di diritto la tutela della sicurezza e dell'ordine pubblico compete esclusivamente alle Forze di Polizia. […]",
+   "sunto": "Per quanto più specificatamente riguarda la situazione della città metropolitana di Roma, evidenzio che nei primi dieci mesi dell'anno si registra una flessione dei delitti di maggior rilievo pari al 6,5 per cento rispetto all'analogo periodo dell'anno scorso.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 467,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00040.int00040"
   },
@@ -1560,7 +2034,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'idea che questo Governo non abbia una visione complessiva delle politiche di sicurezza esiste solo nella narrazione dell'opposizione. La realtà è un'altra. In questi tre anni, mentre il Governo rafforzava gli organici, aumentava la presenza dello Stato sui territori e metteva in campo misure concrete di contrasto alla criminalità, dall'opposizione arrivavano solo giudizi ideologici. […]",
+   "sunto": "Sul decreto Sicurezza, per esempio, alcuni esponenti dello stesso gruppo dell'onorevole interrogante parlavano - cito testualmente - di norme di inciviltà, che non danno alcuna garanzia ai cittadini; lo dicevano mentre, nell'ultimo triennio, entravano in servizio oltre 39.000 nuovi operatori…",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 494,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00050.sub00010.int00040"
   },
@@ -1573,7 +2051,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il 27 dicembre lo Stato ha colpito una rete terroristica operante sul nostro territorio, nell'ambito di un'articolata attività investigativa condotta dalla Polizia di Stato e dalla Guardia di finanza e coordinata dalla procura distrettuale di Genova, avviata su impulso della Direzione nazionale antimafia e antiterrorismo. […]",
+   "sunto": "In secondo luogo, sono state approfondite acquisizioni della rete dell' intelligence internazionale e analisi svolte dalla Direzione centrale della Polizia di prevenzione del Ministero dell'Interno sull'attività finanziaria svolta dal cittadino giordano in questione, in ragione di numerose…",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1479,
    "url": "https://www.camera.it/leg19/410?idSeduta=0593&tipo=stenografico#sed0593.stenografico.tit00100.sub00010.int00020"
   },
@@ -1586,7 +2068,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, vorrei partire - consentitemelo - innanzitutto esprimendo, anche in questa sede, a nome mio e di tutto il Governo, la solidarietà agli agenti rimasti feriti negli scontri … Grazie. […]",
+   "sunto": "Solidarietà agli agenti rimasti feriti negli scontri sabato scorso a Torino e, attraverso loro, a tutti gli appartenenti alle Forze di Polizia, impegnati nel difficilissimo compito di tutela dell'ordine pubblico. […] Come sapete, lo scorso sabato, si è svolta a Torino una manifestazione di carattere nazionale, promossa dagli esponenti dell'antagonismo locale, per esprimere solidarietà al centro sociale Askatasuna.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 2477,
    "url": "https://www.camera.it/leg19/410?idSeduta=0607&tipo=stenografico#sed0607.stenografico.tit00050.sub00010.int00020"
   },
@@ -1599,7 +2087,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, mi fa piacere avere l'opportunità di chiarire gli equivoci che da giorni circolano sulla presenza di investigatori dell'Homeland Security Investigations - Sezione investigativa di ICE che, come tutti sanno, ha compiti completamente diversi dalla ERO, vale a dire Enforcement and Removal Operations, che opera sul territorio statunitense; e, come vi illustrerò, la collaborazione d […]",
+   "sunto": "Solo un paio di giorni fa è stata smantellata una rete internazionale di soggetti coinvolti nel grave reato di pedopornografia online grazie al lavoro congiunto tra la nostra Polizia di Stato e proprio gli investigatori dell'Homeland Security Investigations.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 1925,
    "url": "https://www.camera.it/leg19/410?idSeduta=0608&tipo=stenografico#sed0608.stenografico.tit00020.sub00010.int00020"
   },
@@ -1612,7 +2103,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Mi fa piacere riscontrare che anche esponenti di gruppi politici che non sostengono il Governo prendano finalmente in considerazione l'importanza della centralità dei rimpatri nella complessiva strategia di contrasto all'immigrazione irregolare. […]",
+   "sunto": "Ciò detto, confermo in quest'Aula che nel 2025 i rimpatri disposti dall'Italia sono stati 6.097, quelli forzosi, a cui si aggiungono 675 rimpatri volontari assistiti, per un totale di 6.772, vale a dire circa 7.000 rimpatri a cui, semplificando, ho fatto più volte riferimento.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 452,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00020.int00040"
   },
@@ -1625,7 +2119,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie al recente intervento normativo citato dall'interrogante e voluto dal Governo, anche i cittadini italiani residenti all'estero potranno richiedere la carta d'identità elettronica in qualsiasi comune italiano e non più soltanto presso i consolati di competenza. […]",
+   "sunto": "Finora, infatti, i comuni potevano rilasciare ai cittadini iscritti all'anagrafe degli italiani residenti all'estero soltanto il documento cartaceo che - è bene ricordarlo - non sarà più valido dal prossimo 3 agosto.",
+   "temi": [],
    "parole": 242,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00030.int00040"
   },
@@ -1638,7 +2133,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Noi non siamo di fronte ad episodi isolati, siamo di fronte ad una sfida allo Stato di diritto e alle istituzioni democratiche del Paese, come lo stesso interrogante evidenzia. Già lo scorso febbraio, in quest'Aula, in occasione dell'informativa sugli scontri seguiti allo sgombero di Askatasuna a Torino, avevo lanciato un avvertimento preciso: l'anarco-antagonismo violento non è folclore politico, […]",
+   "sunto": "Noi non siamo di fronte ad episodi isolati, siamo di fronte ad una sfida allo Stato di diritto e alle istituzioni democratiche del Paese, come lo stesso interrogante evidenzia.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 354,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00040.int00060"
   },
@@ -1651,7 +2149,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come già ho illustrato rispondendo all'interrogazione precedente, la gravità dell'episodio avvenuto nel casolare del Parco degli acquedotti ha imposto una risposta istituzionale immediata e decisa. […]",
+   "sunto": "Nell'occasione ho avuto conferma che le Forze di Polizia e il sistema di intelligence operano in piena sinergia, con uno sguardo costantemente puntato su uno scenario sempre più complesso, vale a dire quello di una minaccia ibrida, come diceva lei, in cui i rischi interni ed internazionali si…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00050.int00060"
   },
@@ -1664,7 +2165,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io non posso non partire smentendo categoricamente che i dati statistici sulla delittuosità nel nostro Paese facciano registrare l'andamento preoccupante paventato dagli interroganti, che sciorinano dati senza, peraltro, fare alcun riferimento a rilevazioni ufficiali, questi nel testo che mi avete mandato. […]",
+   "sunto": "Se guardiamo ai reati di maggiore allarme sociale, i numeri raccontano risultati ancora più positivi: meno 15 per cento di omicidi volontari - è il dato più basso dell'ultimo decennio -, 6 per cento in meno di furti e 4 per cento in meno di rapine.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 523,
    "url": "https://www.camera.it/leg19/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00060.sub00010.int00040"
   },
@@ -1677,7 +2182,12 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Presidente, il Governo attribuisce una chiara priorità politica a questo provvedimento, che costituisce un ulteriore passo in avanti per dotare il nostro ordinamento e le nostre Forze di Polizia di strumenti per una più efficace gestione della sicurezza pubblica. Il dibattito su argomenti come sicurezza e immigrazione è sempre acceso e, a volte, divisivo. […]",
+   "sunto": "Venerdì scorso, la notizia dell'approvazione al Senato del testo di legge, ora in discussione davanti a questa Camera dei deputati, ci ha raggiunti mentre ero in un importante vertice con i miei colleghi di Francia e Germania: vertice convocato, in un formato ormai consolidato, dai tre maggiori…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 811,
    "url": "https://www.camera.it/leg19/410?idSeduta=0647&tipo=stenografico#sed0647.stenografico.tit00060.sub00020.int00020"
   },
@@ -1690,7 +2200,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. A nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2886 ​, che titola: “Conversione in legge, con modificazioni, del decreto-legge 24 febbraio 2026, n. […]",
+   "sunto": "A nome del Governo e autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2886 ​, che titola: “Conversione in legge, con modificazioni, del decreto-legge 24…",
+   "temi": [],
    "parole": 72,
    "url": "https://www.camera.it/leg19/410?idSeduta=0647&tipo=stenografico#sed0647.stenografico.tit00120.sub00020.int00020"
   },
@@ -1703,7 +2214,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La questura di Monza-Brianza, per fare fronte all'elevato numero di domande, dall'inizio dell'anno ha rimodulato i processi lavorativi per il rilascio dei passaporti, con l'adozione di misure organizzative migliorative. […]",
+   "sunto": "La questura di Monza-Brianza, per fare fronte all'elevato numero di domande, dall'inizio dell'anno ha rimodulato i processi lavorativi per il rilascio dei passaporti, con l'adozione di misure organizzative migliorative.",
+   "temi": [],
    "parole": 336,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00010.int00040"
   },
@@ -1716,7 +2228,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per la sparatoria dello scorso 25 maggio a Palermo, che è stata evocata, in poche ore è stato individuato ed arrestato un giovane anche grazie al sistema di videosorveglianza installato nella zona e assicurare rapidamente alla giustizia gli autori dei fatti è un dato ricorrente la cui importanza viene spesso sottovalutata. […]",
+   "sunto": "Sempre in relazione all'attività di controllo del territorio, nel capoluogo sono svolte periodicamente operazioni interforze ad alto impatto e sono state prorogate fino al 23 ottobre prossimo le aree del centro di Palermo sottoposte a vigilanza rafforzata.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 526,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00020.int00040"
   },
@@ -1729,7 +2244,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il cittadino polacco Ziobro Zbigniew Tadeusz risulta essere stato controllato in uscita dal territorio nazionale dalla frontiera esterna dell'aeroporto di Milano Malpensa lo scorso 9 maggio. Il medesimo viaggiava, unitamente al figlio, a bordo di un volo internazionale inizialmente previsto per le 9,45 e partito poi in ritardo intorno alle 11,10 con direzione Newark, negli Stati Uniti. […]",
+   "sunto": "Il cittadino polacco Ziobro Zbigniew Tadeusz risulta essere stato controllato in uscita dal territorio nazionale dalla frontiera esterna dell'aeroporto di Milano Malpensa lo scorso 9 maggio. […] Il medesimo viaggiava, unitamente al figlio, a bordo di un volo internazionale inizialmente previsto per le 9,45 e partito poi in ritardo intorno alle 11,10 con direzione Newark, negli Stati Uniti.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 115,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00030.int00040"
   },
@@ -1742,7 +2260,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per troppi anni, in Italia, si è parlato di immigrazione senza affrontare il nodo decisivo dell'effettività dei rimpatri degli irregolari, mettendo in discussione l'importanza dei CPR a questo fine. […]",
+   "sunto": "Obiettivo che stiamo perseguendo con risultati crescenti: da quando ci siamo insediati, il numero dei rimpatri totale è cresciuto di oltre il 40 per cento e, in questi primi mesi dell'anno, il dato è ancora in crescita, di più del 30 per cento rispetto allo stesso periodo dello scorso anno.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 432,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00040.int00040"
   },
@@ -1755,7 +2277,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il tema della sicurezza dei giovani richiede una risposta dello Stato che affianchi, all'indispensabile elemento securitario, un profilo non secondario, incentrato su misure capaci di ridurre il disagio giovanile, di spezzare quel legame, sempre pericoloso, tra disagio e criminalità attraverso una più lungimirante politica di prevenzione sul piano sociale, culturale, educativo, in stretta sinergia […]",
+   "sunto": "Il tema della sicurezza dei giovani richiede una risposta dello Stato che affianchi, all'indispensabile elemento securitario, un profilo non secondario, incentrato su misure capaci di ridurre il disagio giovanile, di spezzare quel legame, sempre pericoloso, tra disagio e criminalità attraverso…",
+   "temi": [
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 452,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00050.int00040"
   },
@@ -1768,7 +2294,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Mi permetta, innanzitutto, di esprimere il mio ringraziamento alle donne e agli uomini delle Forze di Polizia che, anche nella circostanza da lei richiamata, degli scontri a Torino, hanno operato con professionalità, equilibrio e senso dello Stato, evitando conseguenze ancora più gravi e garantendo la sicurezza dei cittadini. […]",
+   "sunto": "L'azione di questo Governo, sul tema della sicurezza delle manifestazioni sportive, è fondata su un articolato sistema di prevenzione, di monitoraggio e di contrasto, sviluppato attraverso il lavoro dell'Osservatorio nazionale sulle manifestazioni sportive, del Comitato di analisi per la…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00060.int00040"
   },
@@ -1781,7 +2310,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In questa tragica vicenda il primo pensiero di cordoglio va alle vittime e ai loro familiari. Tuttavia, costituisce un dato importante che desidero sottolineare il fatto che, a poche ore dai fatti, le Forze di polizia abbiano raccolto gli elementi di prova necessari per ricostruirne la dinamica, identificare i presunti autori ed assicurarli alla giustizia. […]",
+   "sunto": "La natura complessa del lavoro agricolo, che incrocia diversi ambiti di intervento, richiede una strategia integrata che stiamo attuando con i colleghi Ministro del Lavoro e Ministro dell'Agricoltura e che va dalla gestione degli ingressi dei cittadini stranieri in Italia per il lavoro…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Sicurezza e criminalità"
+   ],
    "parole": 468,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00010.int00040"
   },
@@ -1794,7 +2327,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io non posso non evidenziare subito che la critica mossa alla legge Bossi-Fini, qualsiasi giudizio se ne voglia dare, non ha alcun rilievo rispetto ai tragici accadimenti di Amendolara. Infatti tutti i cittadini stranieri coinvolti erano in possesso di un titolo di soggiorno che consentiva loro di prestare comunque un'attività lavorativa regolare. […]",
+   "sunto": "Tanto premesso, voglio ribadire che la linea del Governo in materia di politiche migratorie si muove sin dal suo insediamento su un doppio binario: da un lato, la lotta al vergognoso traffico dei migranti e all'immigrazione illegale e, dall'altro, la promozione di canali di immigrazione legale.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Immigrazione"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00020.int00040"
   },
@@ -1807,7 +2344,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Poiché l'argomento dell'atto di sindacato ispettivo riprende il tema del decreto Flussi dei precedenti quesiti, che ho già sviluppato appunto nelle precedenti risposte e che qui richiamo, io mi concentro a ribadire alcuni aspetti salienti. […]",
+   "sunto": "Poiché l'argomento dell'atto di sindacato ispettivo riprende il tema del decreto Flussi dei precedenti quesiti, che ho già sviluppato appunto nelle precedenti risposte e che qui richiamo, io mi concentro a ribadire alcuni aspetti salienti.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 280,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00030.int00040"
   },
@@ -1820,7 +2360,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Per questo Governo le confermo che è stato prioritario aumentare le Forze dell'ordine in strada, quantitativamente e qualitativamente, nonché sul piano della visibilità. A questo scopo, da quando siamo in carica, abbiamo assunto - lo diceva lei - 42.500 operatori delle forze di Polizia e, a tale cifra, si aggiungeranno circa 27.000 nuovi ingressi programmati entro il 2027. […]",
+   "sunto": "Nel 2025 i delitti sono calati complessivamente del 2 per cento rispetto al 2024, ma, se consideriamo i delitti di maggior allarme sociale, i numeri restituiscono risultati ancora più positivi: meno 15 per cento degli omicidi volontari, meno 6 per cento dei furti, meno 4 per cento delle rapine. […] Quest'anno, ad oggi, abbiamo un meno 77 per cento rispetto al 2023 e un meno 52 per cento rispetto al 2025.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 482,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00040.int00040"
   },
@@ -1833,7 +2377,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io sono già intervenuto, proprio in quest'Aula, nei mesi scorsi sul tema dell'operatività, in Italia, di soggetti legati all'organizzazione terroristica di Hamas e, più in generale, dei rapporti, non sempre trasparenti, tra associazioni impegnate ad aiutare la popolazione di Gaza ed elementi, più o meno, direttamente e strettamente collegati ad Hamas. […]",
+   "sunto": "Io sono già intervenuto, proprio in quest'Aula, nei mesi scorsi sul tema dell'operatività, in Italia, di soggetti legati all'organizzazione terroristica di Hamas e, più in generale, dei rapporti, non sempre trasparenti, tra associazioni impegnate ad aiutare la popolazione di Gaza ed elementi,…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 385,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00080.sub00050.int00040"
   },
@@ -1846,7 +2393,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Con riferimento alla vicenda Revolut informo che sono in corso approfondimenti giudiziari e le opportune verifiche da parte delle strutture di sicurezza cibernetica del Ministero dell'Interno, sottoposte, al momento, al più stretto riserbo investigativo. […]",
+   "sunto": "Con riferimento alla vicenda Revolut informo che sono in corso approfondimenti giudiziari e le opportune verifiche da parte delle strutture di sicurezza cibernetica del Ministero dell'Interno, sottoposte, al momento, al più stretto riserbo investigativo.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 429,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00020.int00040"
   },
@@ -1859,7 +2409,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Io ringrazio l'onorevole Benzoni per darmi modo di rispondere, come diceva lui, non so se per la settima o ottava volta, a un quesito sugli organici delle Forze di Polizia, che sono un punto di forza delle politiche del Governo Meloni. Per noi, infatti, è prioritario aumentare le Forze dell'ordine in strada quantitativamente e qualitativamente. […]",
+   "sunto": "A questo numero vanno aggiunte le 10.226 unità della Polizia penitenziaria e sono previste entro la fine del 2027 ulteriori assunzioni per oltre 25.000 unità, tra le tre citate Forze di Polizia, a cui si aggiungono 4.500 unità della Polizia penitenziaria.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 400,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00030.int00040"
   },
@@ -1872,7 +2425,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'onorevole interrogante richiama fatti gravi, criminosi, sui quali è massima l'attenzione del Governo e va evidenziato che si tratta di casi in cui, in brevissimo tempo, le Forze di Polizia hanno individuato i responsabili e li hanno assicurati alla giustizia. […]",
+   "sunto": "Mi limito ai dati del primo semestre del 2026 rispetto allo stesso periodo dello scorso anno: meno 10 per cento di reati, complessivamente considerati; meno 15 per cento di omicidi; meno 11 per cento di furti; meno 12 per cento di rapine; meno 7 per cento di violenze sessuali; meno 9 per cento…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00040.int00040"
   },
@@ -1885,7 +2441,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il quadro normativo di prevenzione e di contrasto dei crimini online e del coinvolgimento di minori in forme di radicalizzazione e di devianza è stato oggetto di più interventi normativi del Governo, anche in recepimento di normative dell'Unione europea che su questi aspetti sta ulteriormente focalizzando la sua attenzione. Rammento, tra questi, la legge n. […]",
+   "sunto": "Ma evidenzio, inoltre, che è proprio grazie alla competenza e all'esperienza delle nostre Forze di Polizia che sono efficaci i sistemi di individuazione delle forme di radicalizzazione online , anche islamiste, che hanno portato all'espulsione di 257 soggetti pericolosi per la sicurezza…",
+   "temi": [
+    "Scuola e università",
+    "Sicurezza e criminalità"
+   ],
    "parole": 422,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00050.int00040"
   },
@@ -1898,7 +2458,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come ha ricordato l'onorevole interrogante, il numero degli sbarchi è calato drasticamente: dal picco del 2023 si è scesi in modo netto nel 2024 e nel 2025 e il trend è ulteriormente in calo anche quest'anno. In due anni abbiamo registrato oltre l'80 per cento di sbarchi in meno. Si tratta di risultati raggiunti grazie alle iniziative che il Governo ha messo in campo. […]",
+   "sunto": "Un tassello fondamentale è costituito dagli accordi stipulati con i Paesi di origine e di transito dei flussi migratori, che abbiamo definito con una paziente e intensa azione negoziale che ha riguardato molti Paesi del Nordafrica, dell'Africa subsahariana e del Sud-Est asiatico.",
+   "temi": [
+    "Immigrazione",
+    "Sicurezza e criminalità"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00060.int00040"
   },
@@ -1911,7 +2475,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Governo ha sempre ritenuto indispensabile una decisa azione europea nella gestione dei fenomeni migratori, nella consapevolezza che il carattere strutturale delle migrazioni contemporanee imponga risposte organiche e sovranazionali. […]",
+   "sunto": "E il vertice straordinario dei Ministri dell'Interno dell'Unione europea, che si è tenuto lo scorso 4 agosto, ha fatto registrare una visione condivisa sulla necessità di continuare a combattere il traffico di esseri umani, di potenziare i rimpatri, di rafforzare le frontiere dell'Unione europea…",
+   "temi": [
+    "Immigrazione",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 377,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00070.int00040"
   },
@@ -1924,7 +2493,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Interno",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Questo Governo ha ben chiaro cosa fare per prevenire e contrastare la devianza giovanile e i comportamenti violenti e criminali commessi dai minori in ogni ambito, a partire da quello scolastico. […]",
+   "sunto": "Questo Governo ha ben chiaro cosa fare per prevenire e contrastare la devianza giovanile e i comportamenti violenti e criminali commessi dai minori in ogni ambito, a partire da quello scolastico. […] In questo modo, la dispersione scolastica è passata dal 14 per cento del 2020 all'8 per cento del 2025, scendendo così sotto la soglia del 9 per cento prevista dall'Agenda 2030 con ben 5 anni di anticipo.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 374,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00080.int00040"
   }

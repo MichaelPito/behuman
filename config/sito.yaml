@@ -32,6 +32,22 @@ fonti:
     url: https://elezioni.interno.gov.it/
     uso: Risultati ufficiali dei referendum
     licenza: Dati pubblici
+  - nome: Ministero dell'Ambiente e della Sicurezza Energetica – prezzi dei carburanti
+    url: https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti
+    uso: Accise su benzina e gasolio, per misurare le promesse sulle accise
+    licenza: Dati pubblici
+  - nome: Eurostat
+    url: https://ec.europa.eu/eurostat/databrowser/view/gov_10a_taxag/default/table
+    uso: Pressione fiscale (entrate fiscali e contributive in % del PIL)
+    licenza: CC BY 4.0
+  - nome: UNHCR – arrivi via mare in Italia
+    url: https://data.unhcr.org/en/situations/mediterranean/location/5205
+    uso: Persone sbarcate (dati del Ministero dell'Interno), somma degli ultimi 12 mesi
+    licenza: Riuso con citazione della fonte (termini d'uso UNHCR)
+  - nome: Programmi elettorali 2022
+    url: https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022
+    uso: Impegni presi prima delle elezioni (PDF depositati, programmi completi pubblicati dai partiti)
+    licenza: Documenti pubblici; si linka l'originale
   - nome: Pagella Politica
     url: https://pagellapolitica.it/
     uso: Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio

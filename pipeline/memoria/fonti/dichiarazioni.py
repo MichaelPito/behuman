@@ -21,6 +21,8 @@ import unicodedata
 
 import requests
 
+from ..analisi.sunto import sunto as fai_sunto
+from ..analisi.sunto import temi as trova_temi
 from ..sparql import CACHE_DIR, USER_AGENT
 from .senato import PREFIX as SEN_PREFIX
 from .senato import SenatoClient
@@ -92,12 +94,23 @@ def interventi_premier(dal: str, max_pagine: int = 80, noti: set[str] | None = N
             if data < dal:
                 vecchi += 1
                 continue
-            out.append({"data": data, "titolo": titolo, "estratto": estratto(testo), "parole": len(testo.split()),
+            out.append({"data": data, "titolo": titolo, "sunto": fai_sunto(testo), "temi": trova_temi(testo), "parole": len(testo.split()),
                         "url": GOV + l, "fonte": "governo.it"})
         if vecchi == len(links):
             break
     log.info("governo.it: %d interventi della Presidente del Consiglio", len(out))
     return out
+
+
+def testo_governo(url: str) -> str | None:
+    """Testo integrale di un intervento su governo.it, solo se già in cache (nessuna richiesta)."""
+    chiave = re.sub(r"[^a-zA-Z0-9]+", "_", url + json.dumps({}, sort_keys=True))[-180:]
+    p = CACHE_DIR / "dichiarazioni" / f"{chiave}.txt"
+    if not p.exists():
+        return None
+    art = p.read_text(encoding="utf-8")
+    corpo = art.split('class="body_intervista"', 1)
+    return _testo(corpo[1].split("</div>", 1)[0].split(">", 1)[-1]) if len(corpo) > 1 else None
 
 
 # ------------------------------------------------------------------ Senato: elenco interventi sui ddl

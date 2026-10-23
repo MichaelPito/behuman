@@ -139,9 +139,153 @@
     "fonte": "X",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Unione europea",
+    "n": 43
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 30
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 13
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 13
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 12
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 12
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 10
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 4
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 4
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 4
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 3
+   },
+   {
+    "tema": "Giustizia",
+    "n": 2
+   },
+   {
+    "tema": "Sanità",
+    "n": 2
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 2
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 3
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 2
+    },
+    {
+     "tema": "Unione europea",
+     "n": 1
+    }
+   ],
+   "2022": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 5
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 4
+    },
+    {
+     "tema": "Unione europea",
+     "n": 3
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Ambiente e clima",
+     "n": 11
+    },
+    {
+     "tema": "Unione europea",
+     "n": 9
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 5
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Unione europea",
+     "n": 14
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 10
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 4
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Unione europea",
+     "n": 12
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 6
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 3
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Unione europea",
+     "n": 4
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 4
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 2
+    }
+   ]
+  }
  },
- "recap": "Dal 3 novembre 2021 al 21 ottobre 2026: 150 interventi nell'Aula della Camera (84.230 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+ "recap": "Dal 3 novembre 2021 al 21 ottobre 2026: 150 interventi nell'Aula della Camera (84.230 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (43), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -222,7 +366,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente, di avermi dato la facoltà di parlare. Intervengo sull'ordine dei lavori, chiedendo un'informativa urgente del Governo, non di un Ministro specifico, ma del Governo in quanto tale, per le diverse situazioni allarmanti che ormai riguardano la libertà di opinione e di manifestazione nella nostra Nazione. […]",
+   "sunto": "Preventivamente si adotta il Daspo verso una persona che, civilmente, in piazza, annuncia la volontà di contestare il green pass , da vaccinato, nemmeno da No-vax, uno degli organizzatori di manifestazioni che io ho visto abbastanza civili nella città di Trieste, certo represse in maniera molto…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 828,
    "url": "https://www.camera.it/leg18/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00040.int00020"
   },
@@ -235,7 +382,11 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie Presidente. Voglio cogliere l'occasione per ringraziare lei per l' incipit di questa Assemblea e per il discorso che ha fatto, che ha toccato tutti noi, ma anche ringraziare la Presidenza tutta, per aver accordato a Fratelli d'Italia di veder raccolta una proposta che riteniamo importante e che oggi, anche negli interventi dei colleghi, cogliamo come unificante della volontà di tutti i cittadini italiani, di s […]",
+   "sunto": "Ma la stessa consapevolezza, che lui raccoglie in quei magnifici versi, è la consapevolezza di tanti uomini, di tante famiglie, di tante donne impiegate, anche come ausiliarie, in quella circostanza, che avevano ragioni profonde, che necessitavano di affrontare quei sacrifici, per l'unità…",
+   "temi": [
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 952,
    "url": "https://www.camera.it/leg18/410?idSeduta=0588&tipo=stenografico#sed0588.stenografico.tit00060.int00110"
   },
@@ -248,7 +399,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Intervengo per chiedere un'informativa urgente del Ministro Orlando su un tema che è oggetto, ormai da qualche tempo, di discussione, cioè sul reddito di cittadinanza e sulla sua attuazione. Si annunciano modifiche, verificheremo nella legge finanziaria quali saranno le modifiche rispetto a questo tipo di strumento nato per ottenere due risultati. […]",
+   "sunto": "Certo, le persone che non possono lavorare, che non hanno la possibilità di lavorare vanno sostenute dallo Stato, ed è per questo che un provvedimento ben diverso dal reddito di cittadinanza doveva aiutare e sostenere i disabili gravi, coloro che non hanno la possibilità di avere un'occupazione…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 817,
    "url": "https://www.camera.it/leg18/410?idSeduta=0590&tipo=stenografico#sed0590.stenografico.tit00040.int00020"
   },
@@ -261,7 +415,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Io credo che la richiesta sia inaccettabile da parte della Presidenza, in quanto è iniziata la fase di dichiarazione di voto sul tema . Non c'è ragione per interrompere i lavori dell'Aula. Ritengo spiacevole per un Governo incapace di decidere - e una maggioranza incapace di decidere -, che ha messo la fiducia sulla base di 10 emendamenti presentati dalla minoranza e di 1 presentato da un collega di Azione, che è sta […]",
+   "sunto": "Ritengo spiacevole per un Governo incapace di decidere - e una maggioranza incapace di decidere -, che ha messo la fiducia sulla base di 10 emendamenti presentati dalla minoranza e di 1 presentato da un collega di Azione, che è stato Ministro di Governi precedenti e che ha appena parlato…",
+   "temi": [],
    "parole": 126,
    "url": "https://www.camera.it/leg18/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00100.sub00010.int02010"
   },
@@ -274,7 +429,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Lei ha citato i precedenti e adesso ce li dice! Lei si deve dimettere dopo questa decisione!",
+   "sunto": "Lei ha citato i precedenti e adesso ce li dice! […] Lei si deve dimettere dopo questa decisione!",
+   "temi": [],
    "parole": 17,
    "url": "https://www.camera.it/leg18/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00100.sub00010.int02110"
   },
@@ -287,7 +443,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Io volevo capire, prima di proseguire, come intendiamo procedere, nel senso che era stato annunciato l'accantonamento di due ordini del giorno, il collega Giachetti è intervenuto puntualmente richiamando… Allora, gli ordini del giorno accantonati, con riguardo specificatamente a questo argomento, sulla vicenda del collegio rispetto al trojan, vorrei capire se, come il collega Giachetti aveva ben a […]",
+   "sunto": "Io volevo capire, prima di proseguire, come intendiamo procedere, nel senso che era stato annunciato l'accantonamento di due ordini del giorno, il collega Giachetti è intervenuto puntualmente richiamando… Allora, gli ordini del giorno accantonati, con riguardo specificatamente a questo…",
+   "temi": [],
    "parole": 142,
    "url": "https://www.camera.it/leg18/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00100.sub00020.int00140"
   },
@@ -300,7 +457,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, le abbiamo chiesto per le vie brevi di rispettare il calendario della seduta di oggi, quindi chiediamo di valutare il tempo e di continuare i lavori come previsto, quindi chiudendo la seduta pomeridiana e lasciando all'Aula di determinarsi, se riprendere nella seduta notturna oppure nella giornata di domani.",
+   "sunto": "Le abbiamo chiesto per le vie brevi di rispettare il calendario della seduta di oggi, quindi chiediamo di valutare il tempo e di continuare i lavori come previsto, quindi chiudendo la seduta pomeridiana e lasciando all'Aula di determinarsi, se riprendere nella seduta notturna oppure nella…",
+   "temi": [],
    "parole": 49,
    "url": "https://www.camera.it/leg18/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00100.sub00020.int00330"
   },
@@ -313,7 +471,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie Presidente. L'ordine del giorno che Fratelli d'Italia presenta credo sia di buon senso, in questo caso, come anche negli altri. È però in controtendenza rispetto agli altri ordini del giorno, in quanto richiede l'estensione del green pass per rendere gli italiani uguali agli altri cittadini del mondo, in particolare ai migranti. […]",
+   "sunto": "È però in controtendenza rispetto agli altri ordini del giorno, in quanto richiede l'estensione del green pass per rendere gli italiani uguali agli altri cittadini del mondo, in particolare ai migranti.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 638,
    "url": "https://www.camera.it/leg18/410?idSeduta=0597&tipo=stenografico#sed0597.stenografico.tit00140.sub00010.int00380"
   },
@@ -326,7 +487,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, solamente per cogliere l'occasione, in questo caso, di ringraziarla perché ho letto le sue dichiarazioni alle agenzie, che spero abbiano un seguito, che richiamano una denuncia, che Fratelli d'Italia fa da tempo, sulla necessità di riportare al centro il Parlamento italiano e le discussioni che riguardano le azioni a tutela e a difesa della nostra Nazione. […]",
+   "sunto": "Solamente per cogliere l'occasione, in questo caso, di ringraziarla perché ho letto le sue dichiarazioni alle agenzie, che spero abbiano un seguito, che richiamano una denuncia, che Fratelli d'Italia fa da tempo, sulla necessità di riportare al centro il Parlamento italiano e le discussioni che…",
+   "temi": [],
    "parole": 161,
    "url": "https://www.camera.it/leg18/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00090.int00020"
   },
@@ -339,7 +501,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Oggi siamo qui, su richiesta di Fratelli d'Italia, per rendere trasparente un dibattito su uno strumento che noi riteniamo un veleno, immesso nell'economia e nella struttura sociale della nostra Nazione. La maggioranza è specializzata in supercazzole . Ora, io questo termine…",
+   "sunto": "Oggi siamo qui, su richiesta di Fratelli d'Italia, per rendere trasparente un dibattito su uno strumento che noi riteniamo un veleno, immesso nell'economia e nella struttura sociale della nostra Nazione.",
+   "temi": [],
    "parole": 43,
    "url": "https://www.camera.it/leg18/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00100.sub00020.int00140"
   },
@@ -352,7 +515,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, mi permetta. Io ho citato il Ministro Orlando e lei mi permetterà di ricordare che il Ministro Orlando in una trasmissione de LA7 disse che la maggioranza, che stava approvando il reddito di cittadinanza e Quota 100, era esperta di supercazzole . […]",
+   "sunto": "Sulle politiche attive del lavoro, rispetto ai 3 milioni di percettori di reddito di cittadinanza, ce ne sono stati 152 mila che in 3 anni hanno trovato lavoro. […] Anzi, forse, ne avrebbero trovato di più, se non ci fosse stato il reddito di cittadinanza con un costo di 50 mila euro a posto di lavoro, rispetto ai 25 mila euro che costa mediamente a un'impresa un occupato.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1189,
    "url": "https://www.camera.it/leg18/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00100.sub00020.int00180"
   },
@@ -365,7 +531,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "(Intervento sull'informativa urgente del Governo sui criteri e le modalità di erogazione del reddito di cittadinanza e sui suoi esiti applicativi). Il reddito di cittadinanza, la misura di sostegno economico, è un provvedimento approvato a metà gennaio 2019 dal primo governo Conte. Situazioni per lavorazione domande il RdC. […]",
+   "sunto": "In Italia le famiglie che ricevono il reddito di cittadinanza sono un milione e 242mila, per un totale di due milioni e 920mila persone coinvolte. […] Navigator. 2500 che dovevano aiutare i percettori del Rdc sono persone rimaste senza lavoro. (fonte: The Post su elaborazione dati Inps) Domande respinte: da aprile 2019 a settembre 2021 respinte più di 1 milione e 200 mila domande di RdC.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 1846,
    "url": "https://www.camera.it/leg18/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00170.int00010"
   },
@@ -378,7 +550,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, intervengo su questo ordine del giorno perché è stato presentato prima di ciò che è accaduto alle 13,40 (ne abbiamo ricevuto informazioni tramite le agenzie). L'Autostrada dei Parchi ha sospeso gli aumenti tariffari previsti per la via di accesso, quasi unica in termini di efficienza, per alcune aree della regione Lazio, soprattutto della regione Abruzzo e per parte della regione Marche. […]",
+   "sunto": "L'Autostrada dei Parchi ha sospeso gli aumenti tariffari previsti per la via di accesso, quasi unica in termini di efficienza, per alcune aree della regione Lazio, soprattutto della regione Abruzzo e per parte della regione Marche.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 676,
    "url": "https://www.camera.it/leg18/410?idSeduta=0619&tipo=stenografico#sed0619.stenografico.tit00070.sub00010.int00280"
   },
@@ -391,7 +566,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Sull'ordine dei lavori, anche per richiamare le ragioni per le quali Fratelli d'Italia, in quasi perfetta solitudine, sta animando un dibattito su un tema che invece nell'opinione pubblica è un tema quotidiano. Siamo al paradosso: delle cose che riguardano il Parlamento si parla ovunque meno che in Parlamento . […]",
+   "sunto": "Sull'ordine dei lavori, anche per richiamare le ragioni per le quali Fratelli d'Italia, in quasi perfetta solitudine, sta animando un dibattito su un tema che invece nell'opinione pubblica è un tema quotidiano.",
+   "temi": [],
    "parole": 611,
    "url": "https://www.camera.it/leg18/410?idSeduta=0628&tipo=stenografico#sed0628.stenografico.tit00040.sub00010.int00420"
   },
@@ -404,7 +580,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie Presidente. Allora, in questo caso mi richiamo non tanto al Governo quanto all'Assemblea; con questo ordine del giorno, del quale credo sia stato presentato un analogo testo anche da colleghi di maggioranza, teso a chiarire qui in Aula quale deve essere la volontà del Parlamento, il ruolo che dobbiamo avere, in una fase delicata come questa. […]",
+   "sunto": "Le elezioni del Presidente della Repubblica sono state codificate nella nostra Costituzione in maniera puntuale, indicando quali siano i meccanismi che portano ad eleggerlo, cioè la compartecipazione di Camera e Senato attraverso i rappresentanti del popolo che siedono al loro interno e i…",
+   "temi": [],
    "parole": 754,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00030.sub00010.int00300"
   },
@@ -417,7 +594,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Già nella fase di illustrazione abbiamo spiegato le ragioni per le cui abbiamo inteso presentare quest'ordine del giorno, che, in realtà, non dice cose eclatanti: sostanzialmente dice e ricorda a noi stessi che siamo un Parlamento sovrano e che dobbiamo permettere ai parlamentari di votare. […]",
+   "sunto": "Già nella fase di illustrazione abbiamo spiegato le ragioni per le cui abbiamo inteso presentare quest'ordine del giorno, che, in realtà, non dice cose eclatanti: sostanzialmente dice e ricorda a noi stessi che siamo un Parlamento sovrano e che dobbiamo permettere ai parlamentari di votare.",
+   "temi": [],
    "parole": 748,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00050.sub00010.int01590"
   },
@@ -430,7 +608,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, io ho ascoltato il collega Valentini, che ha puntualmente ricordato l'esigenza di dar corso a quello che è un indirizzo, nei fatti, che rimuove ogni ostacolo rispetto a un percorso che possa permettere ai grandi elettori, all'Assemblea dei grandi elettori, di poter partecipare all'elezione del Presidente della Repubblica. […]",
+   "sunto": "Io ho ascoltato il collega Valentini, che ha puntualmente ricordato l'esigenza di dar corso a quello che è un indirizzo, nei fatti, che rimuove ogni ostacolo rispetto a un percorso che possa permettere ai grandi elettori, all'Assemblea dei grandi elettori, di poter partecipare all'elezione del…",
+   "temi": [],
    "parole": 550,
    "url": "https://www.camera.it/leg18/410?idSeduta=0630&tipo=stenografico#sed0630.stenografico.tit00130.int00040"
   },
@@ -443,7 +622,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, io intervengo prima del Ministro D'Inca' - perché, come è ovvio, poi immagino chiederà l'ennesima fiducia - per ricordare che pochi giorni fa questo Parlamento ha assistito con grande compiacimento alle indicazioni del neo Presidente Mattarella, che ricordava il ruolo che il Parlamento deve avere all'interno di questa nostra Nazione. […]",
+   "sunto": "Io intervengo prima del Ministro D'Inca' - perché, come è ovvio, poi immagino chiederà l'ennesima fiducia - per ricordare che pochi giorni fa questo Parlamento ha assistito con grande compiacimento alle indicazioni del neo Presidente Mattarella, che ricordava il ruolo che il Parlamento deve…",
+   "temi": [],
    "parole": 457,
    "url": "https://www.camera.it/leg18/410?idSeduta=0638&tipo=stenografico#sed0638.stenografico.tit00090.int00020"
   },
@@ -456,7 +636,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Intervengo anch'io per fare una richiesta specifica al sottosegretario Costa, perché la posizione del Governo è davvero incomprensibile. Il collega Cirielli ha ben spiegato quali sono le ragioni di un ordine del giorno che potrebbe apparire anche ultroneo rispetto alle consuete dinamiche che portano il nostro legislatore e il Parlamento italiano a confrontarsi. […]",
+   "sunto": "Noi chiediamo la pari dignità - siamo arrivati a questo - tra gli immigrati e gli italiani; la chiediamo, però, mettendo gli italiani nella condizione di avere pari dignità rispetto agli immigrati.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 381,
    "url": "https://www.camera.it/leg18/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00060.sub00010.int00140"
   },
@@ -469,7 +652,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, mi scusi, per le parti non assorbite, vorremmo fare una riflessione che ci pone nella condizione di scegliere un voto piuttosto che un altro. Volevo, se era possibile, sapere quali erano le parti assorbite per cui vengono espunte dal testo di maggioranza. Questa è la domanda semplice. ….che viene espunto dalla mozione di maggioranza. Questo era il tema; volevo capire questo.",
+   "sunto": "Mi scusi, per le parti non assorbite, vorremmo fare una riflessione che ci pone nella condizione di scegliere un voto piuttosto che un altro. […] Volevo, se era possibile, sapere quali erano le parti assorbite per cui vengono espunte dal testo di maggioranza.",
+   "temi": [],
    "parole": 62,
    "url": "https://www.camera.it/leg18/410?idSeduta=0640&tipo=stenografico#sed0640.stenografico.tit00130.sub00020.int00020"
   },
@@ -482,7 +666,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, lei ha dato i cinque minuti, posso parlare sull'ordine dei lavori, così intanto approfitto dei cinque minuti, ribadendo una nostra richiesta, che abbiamo già avanzato nelle riunioni dei capigruppo e su cui si è registrata anche la condivisione di alcune forze della maggioranza, come esigenza, credo, di tutto il Parlamento, che è quella di avere il Presidente Draghi e una relazione su quanto sta avvenendo […]",
+   "sunto": "Lei ha dato i cinque minuti, posso parlare sull'ordine dei lavori, così intanto approfitto dei cinque minuti, ribadendo una nostra richiesta, che abbiamo già avanzato nelle riunioni dei capigruppo e su cui si è registrata anche la condivisione di alcune forze della maggioranza, come esigenza,…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 178,
    "url": "https://www.camera.it/leg18/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00070.int00020"
   },
@@ -495,7 +682,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, intendo esplicitare la posizione che terremo nella riunione dei presidenti di gruppo, da qui a poco, con riguardo alla voce che sta circolando. A fronte della richiesta fatta una settimana fa alla Presidenza della Camera e al Governo, di spiegare che cosa stava accadendo e quale fosse il ruolo del Governo nella vicenda della crisi tra Ucraina e Russia, circola la voce che il Presidente Draghi non interver […]",
+   "sunto": "Allora, il Presidente Draghi dovrebbe venire a spiegare, in quest'Aula, a questo Parlamento, qual è la ragione per la quale non ha inteso spendere la sua presunta autorevolezza. […] Perché delle due l'una: o la presunta autorevolezza è presunta, oppure non la sta spendendo e il Parlamento credo ne debba conoscere le ragioni.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 289,
    "url": "https://www.camera.it/leg18/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00030.sub00010.int01880"
   },
@@ -508,7 +698,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Intervengo per questa ragione: il gruppo di Fratelli d'Italia, come al solito, sta entrando nel tema parlando e dando centralità a questo Parlamento. Noi abbiamo attivato un'azione che, in questo caso, era un'azione ostruzionistica, però motivata da un fatto molto rilevante. […]",
+   "sunto": "Noi di Fratelli d'Italia, per primi, una settimana fa, avevamo chiesto la presenza del Presidente Draghi in quest'Aula per conoscere quali fossero le azioni di carattere contingente e di carattere strategico, su due temi: sulle politiche energetiche e sulla vicenda della crisi in Ucraina.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 655,
    "url": "https://www.camera.it/leg18/410?idSeduta=0643&tipo=stenografico#sed0643.stenografico.tit00060.sub00010.int00380"
   },
@@ -521,7 +715,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, come le ho chiesto per le vie brevi in apertura di seduta, noi rinnoviamo la richiesta di un'organizzazione dei lavori che sia coerente anche con il particolare momento che stiamo tutti vivendo con grande apprensione. […]",
+   "sunto": "Noi vorremmo che il Parlamento potesse costituzionalmente dare quel mandato necessario al Presidente Draghi per agire, in Europa e nelle vicende legate alla trattazione dell'argomento in termini internazionali, con la dovuta forza che, secondo la nostra Costituzione, dà il Parlamento.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 791,
    "url": "https://www.camera.it/leg18/410?idSeduta=0645&tipo=stenografico#sed0645.stenografico.tit00050.int00020"
   },
@@ -534,7 +731,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente Fico, colleghi, Presidente Draghi, noi avremmo voluto che questo incontro si fosse svolto qualche giorno fa. Lo abbiamo chiesto il 15 febbraio, con una lettera protocollata al Presidente Fico, lo abbiamo chiesto in ogni Assemblea e l'abbiamo chiesto nelle Conferenze dei presidenti di gruppo come accorato appello per restituire al Parlamento quel ruolo centrale che la Costituzione gli assegna, con un dibatt […]",
+   "sunto": "Hanno applaudito tutti, ma solo Fratelli d'Italia in quei 10 anni non è stata al Governo . […] Lei ha parlato - o altri hanno parlato - di un'Europa meno efficace sul piano internazionale rispetto a un'Italia che è scomparsa.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1659,
    "url": "https://www.camera.it/leg18/410?idSeduta=0646&tipo=stenografico#sed0646.stenografico.tit00020.sub00020.int00120"
   },
@@ -547,7 +749,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Il disegno di legge delega per la riforma fiscale, ormai più noto per l'aspetto che riguarda il riordino del catasto, a nostro avviso, prelude a un aumento di tassazione sugli immobili degli italiani. E non riteniamo solo noi che questo provvedimento possa nascondere una patrimoniale nascosta, ma lo ritengono le associazioni di rappresentanza, lo ritiene parte della sua maggioranza, anzi, se non ci fosse stato qualch […]",
+   "sunto": "Il disegno di legge delega per la riforma fiscale, ormai più noto per l'aspetto che riguarda il riordino del catasto, a nostro avviso, prelude a un aumento di tassazione sugli immobili degli italiani.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 275,
    "url": "https://www.camera.it/leg18/410?idSeduta=0653&tipo=stenografico#sed0653.stenografico.tit00070.sub00090.int00020"
   },
@@ -560,7 +765,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Sì, sull'ordine dei lavori, Presidente, perché volevamo specificare che la votazione per parti separate, che noi avevamo capito si svolgesse per tutti i punti, invece accorpava questi punti, sui quali ci siamo astenuti, pur essendo favorevoli ad alcuni, ma siamo contrari al punto n. 10. Se si fosse votato separatamente, avremmo potuto esprimere voto favorevole sui primi punti e, invece, voto contrario sul punto n. […]",
+   "sunto": "Sì, sull'ordine dei lavori, Presidente, perché volevamo specificare che la votazione per parti separate, che noi avevamo capito si svolgesse per tutti i punti, invece accorpava questi punti, sui quali ci siamo astenuti, pur essendo favorevoli ad alcuni, ma siamo contrari al punto n. 10.",
+   "temi": [],
    "parole": 70,
    "url": "https://www.camera.it/leg18/410?idSeduta=0663&tipo=stenografico#sed0663.stenografico.tit00040.sub00020.int00020"
   },
@@ -573,7 +779,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Non farò perdere molto tempo a quest'Aula ma credo che l'Aula non debba far perdere tempo a tanti amministratori locali, per esempio ai 112 sindaci di Abruzzo e Lazio che chiedono un'attenzione specifica ad una problematica della quale abbiamo più volte parlato, anche presentando atti concreti in quest'Aula, come ordini del giorno, e argomenti tali da mettere in condizione il Governo di agire. […]",
+   "sunto": "Non farò perdere molto tempo a quest'Aula ma credo che l'Aula non debba far perdere tempo a tanti amministratori locali, per esempio ai 112 sindaci di Abruzzo e Lazio che chiedono un'attenzione specifica ad una problematica della quale abbiamo più volte parlato, anche presentando atti concreti…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 489,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00070.int00020"
   },
@@ -586,7 +795,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Non aggiungo nulla di tecnico alle affermazioni del collega Foti, ma solo alcune considerazioni di natura politica su quanto vivono 113 comunità locali, i sindaci che rappresentano e che abbiamo incontrato oggi in un lunghissimo incontro, che non è il primo, ma uno dei tanti che abbiamo svolto per conoscere e condividere insieme a loro non solo le criticità sulla A24 e la A25, ma anche quelle dei […]",
+   "sunto": "Lavoriamo anche adesso in termini finanziari per mettere i cittadini di quei 113 comuni, come già avvenuto, in condizione di viaggiare in condizioni di gratuità per ripagarli delle sofferenze che, fino ad oggi, hanno avuto .",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 531,
    "url": "https://www.camera.it/leg18/410?idSeduta=0687&tipo=stenografico#sed0687.stenografico.tit00070.sub00020.int00150"
   },
@@ -599,7 +811,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "È sempre una questione di difficile interpretazione, questa normativa… Sì, sì, ma è di difficile interpretazione, non ho detto che non sia utile. Intervengo non prendendo il tempo a mia disposizione, perché la presidente Meloni ha già spiegato le ragioni per le quali noi intendiamo discutere di questo argomento. […]",
+   "sunto": "Nella sua riforma costituzionale, non quella televisiva in cui dice che vuole eleggere il sindaco d'Italia, vuole eleggere direttamente qualcuno, ma in quella riforma costituzionale non ce n'era traccia alcuna .",
+   "temi": [],
    "parole": 832,
    "url": "https://www.camera.it/leg18/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00090.sub00010.int00260"
   },
@@ -612,7 +825,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. In queste ore le imprese di turismo, agricoltura ed edilizia sono in grande allarme, perché - sono dati ANPAL - mancano 300 mila unità lavorative, almeno dai calcoli che vengono esplicitati. Questo accade per diverse ragioni, ma quella fondamentale è aver approvato un provvedimento in quest'Aula, nel 2018, che si chiama reddito di cittadinanza. […]",
+   "sunto": "Sospendiamo il reddito di cittadinanza a quelli che possono lavorare per occupare quei 300 mila posti disponibili che oggi non vengono occupati ; quindi, diamo ristoro alle imprese, diamo lavoro e facciamo di questo provvedimento un metodo per aiutare invece quelli che non possono lavorare.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 748,
    "url": "https://www.camera.it/leg18/410?idSeduta=0696&tipo=stenografico#sed0696.stenografico.tit00070.sub00010.int00120"
   },
@@ -625,7 +841,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente Mandelli. Io mi aspettavo almeno di valutare una proposta che noi consideriamo di buon senso, ma che in realtà, in termini numerici, mette insieme tante forze politiche all'interno di questa Assise, al netto del MoVimento 5 Stelle che, irragionevolmente, pur facendo errori, continua a rivendicarne la paternità ed è, alla fine, una posizione che riusciamo anche a comprendere. […]",
+   "sunto": "Attesa l'analisi, condivisa col Ministro Garavaglia, con Forza Italia, con Italia Viva, con quelli che si riempiono la bocca degli errori fatti con il reddito di cittadinanza e con quelli che insultano il MoVimento 5 Stelle che lo difende, troviamo una soluzione. […] Una è quella di chi ha bisogno del reddito di cittadinanza perché non può lavorare.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 872,
    "url": "https://www.camera.it/leg18/410?idSeduta=0696&tipo=stenografico#sed0696.stenografico.tit00130.sub00010.int00940"
   },
@@ -638,7 +857,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente, colleghi, esprimo, a nome del gruppo di Fratelli d'Italia, le condoglianze alla famiglia, al comune di Nusco, del quale Ciriaco De Mita era sindaco, e alla comunità politica che lo ha accompagnato nella sua esistenza terrena. […]",
+   "sunto": "L'onorevole De Mita è stato, senza dubbio, un protagonista della politica nel nostro Paese, tanto da appassionato militante nella sua Irpinia quanto al vertice della Democrazia Cristiana, tra i partiti più importanti della storia repubblicana.",
+   "temi": [],
    "parole": 274,
    "url": "https://www.camera.it/leg18/410?idSeduta=0707&tipo=stenografico#sed0707.stenografico.tit00120.int00110"
   },
@@ -651,7 +871,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Da parte del sottosegretario o Vice Ministro - non ricordo esattamente – c'è stata l'indicazione che, secondo me, è la più corretta su un tema di questo genere. Noi abbiamo cercato, fin dall'inizio, sul piano internazionale l'unità della Nazione, rispetto anche alle differenze di posizionamento sul piano interno. […]",
+   "sunto": "Questa volta, per ragioni che immagino afferiscano a questioni inerenti la maggioranza, non siamo stati coinvolti; nonostante questo, abbiamo scritto esattamente quello che pensiamo, che ritengo compatibile con un voto anche favorevole rispetto alla nostra risoluzione.",
+   "temi": [],
    "parole": 168,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00050.sub00010.int00560"
   },
@@ -664,7 +885,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Io intervengo perché il gruppo voterà contro questa iniziativa, assunta in maniera provocatoria dal collega, onorevole Tommaso Foti. Ci è stato preannunciato che la maggioranza intendeva dare un altro segnale di delegittimazione della Camera, del Parlamento, rispetto a un provvedimento che noi riteniamo importante e un provvedimento importante si discute, si approfondisce. […]",
+   "sunto": "Ci è stato preannunciato che la maggioranza intendeva dare un altro segnale di delegittimazione della Camera, del Parlamento, rispetto a un provvedimento che noi riteniamo importante e un provvedimento importante si discute, si approfondisce.",
+   "temi": [],
    "parole": 235,
    "url": "https://www.camera.it/leg18/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00120.sub00010.int00020"
   },
@@ -677,7 +899,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Dopo una consultazione con il mio gruppo, prendo atto che il collega Foti rappresenta pienamente la volontà del gruppo e mi allineo alle sue volontà (Applausi).",
+   "sunto": "Dopo una consultazione con il mio gruppo, prendo atto che il collega Foti rappresenta pienamente la volontà del gruppo e mi allineo alle sue volontà (Applausi).",
+   "temi": [],
    "parole": 26,
    "url": "https://www.camera.it/leg18/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00120.sub00010.int00120"
   },
@@ -690,7 +913,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, illustro l'ordine del giorno n. 9/3656/50 , ma vorrei anche far riferimento all'ordine del giorno n. 9/3656/48 , a firma della presidente Meloni, che chiede una cosa semplice, banale e che dovremmo chiedere tutti, alla luce di ciò che sta accadendo, ossia una crisi internazionale che si è aggravata e che supera, nei fatti, la crisi pandemica, quindi non solo dal punto di vista sanitario, ma economico. […]",
+   "sunto": "Lo supera in quest'Aula, perché il dibattito è a senso unico: sostanzialmente intervengono solo le forze di opposizione, mancando anche a quel principio che fa di quest'Aula un luogo di visione rispetto alle esigenze dell'intera Nazione.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 844,
    "url": "https://www.camera.it/leg18/410?idSeduta=0715&tipo=stenografico#sed0715.stenografico.tit00060.sub00030.int00800"
   },
@@ -703,7 +929,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, colgo l'occasione dell'intervento sull'ordine dei lavori del collega della Lega per denunciare un fatto. In queste ore, stiamo frettolosamente discutendo del destino degli italiani; si è discusso evidentemente poco. […]",
+   "sunto": "Nell'ordine del giorno che tra poco verrà discusso, abbiamo richiamato la necessità di trattare in termini strategici la vicenda del Piano - non è ancora stato fatto in questo Parlamento - e chiediamo, ovviamente, di trattare un tema così importante, invitando a calendarizzare, a programmare una…",
+   "temi": [],
    "parole": 265,
    "url": "https://www.camera.it/leg18/410?idSeduta=0716&tipo=stenografico#sed0716.stenografico.tit00050.int00040"
   },
@@ -716,7 +943,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente Rosato, non so quanto tempo l'Italia dovrà perdere dietro questa maggioranza che sta dimostrando i suoi limiti, come denunciato da Fratelli d'Italia fin dall'inizio. Forze politiche, che non hanno niente in comune tra loro, non possono dare vita a un Governo che abbia ragionevolmente speranza di condurre questa Nazione fuori dalle secche nelle quali, in genere, ci si trova, ma in questo momento in cui l'in […]",
+   "sunto": "Può usarci, sottosegretaria, la cortesia, venendo in quest'Aula, di rispettare il Parlamento italiano che rappresenta questo popolo e spiegarci le ragioni per le quali i lavori del Parlamento italiano sono sospesi ?",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 347,
    "url": "https://www.camera.it/leg18/410?idSeduta=0719&tipo=stenografico#sed0719.stenografico.tit00070.sub00010.int00040"
   },
@@ -729,7 +959,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Noi abbiamo appena assistito a una situazione tragicomica. Il sottosegretario Bini arriva in Aula. Grazie ancora, Presidente, per la sua puntualizzazione. Abbiamo ascoltato il sottosegretario Bini chiedere un'ora di tempo e abbiamo chiesto le motivazioni per le quali quest'ora di tempo dovesse essere concessa dal nostro Parlamento. […]",
+   "sunto": "Abbiamo ascoltato il sottosegretario Bini chiedere un'ora di tempo e abbiamo chiesto le motivazioni per le quali quest'ora di tempo dovesse essere concessa dal nostro Parlamento.",
+   "temi": [],
    "parole": 454,
    "url": "https://www.camera.it/leg18/410?idSeduta=0719&tipo=stenografico#sed0719.stenografico.tit00070.sub00010.int00120"
   },
@@ -742,7 +973,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Intervengo per proporre al Parlamento di lavorare. Noi ci troviamo, anche questa mattina, in attesa di capire quale sarà il destino di quest'Aula rispetto a preannunciati vertici tra due leader politici mai eletti dal popolo italiano. […]",
+   "sunto": "Queste ore, che si preannunciano di vagabondaggio nei corridoi del Parlamento, siano sostituite in quest'Aula da discussioni su temi che interessano gli italiani !",
+   "temi": [],
    "parole": 461,
    "url": "https://www.camera.it/leg18/410?idSeduta=0720&tipo=stenografico#sed0720.stenografico.tit00030.int00040"
   },
@@ -755,7 +987,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Sì, Presidente. All'esito del voto, avendo appreso che la maggioranza di questo Parlamento non è intenzionata a lavorare e predilige, evidentemente, le passeggiate nei corridoi e le iniziative di dialogo all'interno delle segrete stanze su come poter sopravvivere su questi banchi ancora qualche mese, faccio un'ulteriore proposta a lei, Presidente, perché se ne faccia portatrice al Presidente Fico. […]",
+   "sunto": "Abbiamo provato a portare all'attenzione di quest'Aula un'inversione dell'ordine dei lavori, trattando di un tema che ci dovrebbe accomunare tutti (magari, dividerci sulle soluzioni, ma il problema dell'assenza di lavoratori in agricoltura e nel turismo è un problema che esiste) .",
+   "temi": [],
    "parole": 263,
    "url": "https://www.camera.it/leg18/410?idSeduta=0720&tipo=stenografico#sed0720.stenografico.tit00030.int00130"
   },
@@ -768,7 +1001,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Come vuole, Presidente, grazie di avermi concesso la parola. Non faremo, come le altre volte, una protesta formale rispetto a questa fiducia, perché credo che dobbiamo rispettare alcuni milioni di cittadini italiani. […]",
+   "sunto": "Sono 10.574.000 i cittadini italiani che hanno votato il MoVimento 5 Stelle, un movimento che si è ridotto a piatire per giorni un incontro con il Capo del Governo, con un penultimatum perentorio, rispetto a posizioni chiarissime, nettissime, su grandi temi e grandi battaglie, che avevano…",
+   "temi": [],
    "parole": 383,
    "url": "https://www.camera.it/leg18/410?idSeduta=0720&tipo=stenografico#sed0720.stenografico.tit00070.int00020"
   },
@@ -781,7 +1015,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Grazie, Presidente. Io voglio invitare il Governo a rivedere, possibilmente e cortesemente, la posizione su una valutazione che io credo non stia nelle cose; nel senso che noi chiediamo un tavolo di concertazione, ma può essere anche un tavolo di confronto, utile a mettere in condizione di confrontarsi tutti i protagonisti di una vicenda, sulla quale non entriamo nel merito, noi non entriamo adesso nel merito della v […]",
+   "sunto": "Io voglio invitare il Governo a rivedere, possibilmente e cortesemente, la posizione su una valutazione che io credo non stia nelle cose; nel senso che noi chiediamo un tavolo di concertazione, ma può essere anche un tavolo di confronto, utile a mettere in condizione di confrontarsi tutti i…",
+   "temi": [],
    "parole": 127,
    "url": "https://www.camera.it/leg18/410?idSeduta=0721&tipo=stenografico#sed0721.stenografico.tit00070.sub00020.int01690"
   },
@@ -794,7 +1029,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Sì, sempre sull'ordine dei lavori, Presidente. Intanto una questione, richiamandoci alle regole, senza che me ne voglia il collega Baldelli: gli interventi a titolo personale, per dire che si vota nonostante si è fortemente contrari ad un punto, io li leggo come una novità, ma rientra in questo circo a cui stiamo assistendo in queste ore (Applausi dei deputati del gruppo Fratelli d'Italia). […]",
+   "sunto": "Io ho ascoltato l'intervento del collega Davide Crippa e credo sia davvero un po' troppo tardi per ridarsi un tono da 5 Stelle di lotta, perché il 5 Stelle, dal 2018, è il partito più di Governo che c'è stato (Applausi dei deputati del gruppo Fratelli d'Italia), disponibile a governare davvero…",
+   "temi": [],
    "parole": 908,
    "url": "https://www.camera.it/leg18/410?idSeduta=0723&tipo=stenografico#sed0723.stenografico.tit00040.sub00030.int00040"
   },
@@ -807,7 +1043,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, grazie. Intervengo sull'ordine dei lavori. Io credo che la ricostruzione fatta dagli amici del centrodestra sia una ricostruzione corretta. È terminata la fase nella quale un Governo anomalo rende evidente la denuncia che Fratelli d'Italia aveva fatto sull'impossibilità di portare avanti con serietà alcuni processi e per fortuna, oggi, il centrodestra sta richiamando alla legalità quest'Aula nel suo compl […]",
+   "sunto": "È terminata la fase nella quale un Governo anomalo rende evidente la denuncia che Fratelli d'Italia aveva fatto sull'impossibilità di portare avanti con serietà alcuni processi e per fortuna, oggi, il centrodestra sta richiamando alla legalità quest'Aula nel suo complesso .",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 511,
    "url": "https://www.camera.it/leg18/410?idSeduta=0733&tipo=stenografico#sed0733.stenografico.tit00040.sub00010.int00880"
   },
@@ -820,7 +1059,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Il collega Trancassini ha appena sollevato una questione di merito rispetto a un'affermazione del Governo. Quindi, o il Governo la muta, o c'è un problema. Infatti, o è il collega Trancassini che dice un'inesattezza o, come lui sostiene, la dice il Governo. […]",
+   "sunto": "Il collega Trancassini ha appena sollevato una questione di merito rispetto a un'affermazione del Governo. […] Ma siccome è un punto dirimente, in quanto il Governo motiva il suo parere negativo sulla base di un'affermazione pregiudizievole rispetto a quello che è il contesto, e non vuole entrare nel merito, o il Governo nel merito dà parere contrario - ed è legittimo, anche se mi sembra assurdo, perché…",
+   "temi": [],
    "parole": 134,
    "url": "https://www.camera.it/leg18/410?idSeduta=0733&tipo=stenografico#sed0733.stenografico.tit00040.sub00010.int01590"
   },
@@ -833,7 +1073,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, solo per una precisazione metodologica. Abbiamo sottoscritto una risoluzione al Senato, qui non ci è stata chiesta la firma. Questo perché c'è ancora una maggioranza, qui alla Camera, che non c'è più al Senato o ci sono motivazioni differenti? Per capire. […]",
+   "sunto": "Abbiamo sottoscritto una risoluzione al Senato, qui non ci è stata chiesta la firma. […] È solo una questione metodologica sulla quale, anche in Conferenza dei presidenti di gruppo, avevamo chiesto chiarimenti per comprendere come si volesse procedere.",
+   "temi": [],
    "parole": 67,
    "url": "https://www.camera.it/leg18/410?idSeduta=0734&tipo=stenografico#sed0734.stenografico.tit00060.sub00030.int00040"
   },
@@ -846,7 +1087,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "FDI",
-   "estratto": "Presidente, noi rinunceremo all'intervento per dichiarazione di voto, però vorrei far notare due aspetti che per noi sono importanti; il primo è che siamo stati decisivi per riuscire ad avere in Aula oggi il “decreto Aiuti”, non lo abbiamo condiviso nella sua redazione, non avendo chiesto, in cambio del sostegno agli interventi, una presenza in un Governo che, a nostro avviso, non si è dimostrato all'altezza e la sua […]",
+   "sunto": "Noi rinunceremo all'intervento per dichiarazione di voto, però vorrei far notare due aspetti che per noi sono importanti; il primo è che siamo stati decisivi per riuscire ad avere in Aula oggi il “decreto Aiuti”, non lo abbiamo condiviso nella sua redazione, non avendo chiesto, in cambio del…",
+   "temi": [],
    "parole": 114,
    "url": "https://www.camera.it/leg18/410?idSeduta=0740&tipo=stenografico#sed0740.stenografico.tit00200.sub00010.int00100"
   },
@@ -859,7 +1101,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": null,
-   "estratto": "Intanto voglio congratularmi con tutti gli eletti, lo faccio ufficialmente a nome del gruppo di Fratelli d'Italia. Da oggi credo che l'Ufficio di Presidenza al suo completo potrà iniziare a lavorare. Sento questo intervento che arriva dal maggior partito dell'opposizione rispetto a una grande campionessa italiana, una persona che a nostro avviso non ha alcun colore, salvo quello azzurro della nazionale italiana, l'un […]",
+   "sunto": "Sento questo intervento che arriva dal maggior partito dell'opposizione rispetto a una grande campionessa italiana, una persona che a nostro avviso non ha alcun colore, salvo quello azzurro della nazionale italiana, l'unica cosa che per noi conta .",
+   "temi": [],
    "parole": 205,
    "url": "https://www.camera.it/leg19/410?idSeduta=0002&tipo=stenografico#sed0002.stenografico.tit00090.int00040"
   },
@@ -872,7 +1115,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, mi permetta di ringraziare lei, di salutare quest'Aula, l'opposizione e la maggioranza, e di ringraziare il collega Nevi per avere posto, lui e il suo gruppo, una questione che mi permette di esprimere il mio convincimento sulla necessità di intervenire sulle misure previste dal PNRR in relazione agli interventi volti a migliorare l'efficienza energetica nel settore agricolo. […]",
+   "sunto": "Mi permetta di ringraziare lei, di salutare quest'Aula, l'opposizione e la maggioranza, e di ringraziare il collega Nevi per avere posto, lui e il suo gruppo, una questione che mi permette di esprimere il mio convincimento sulla necessità di intervenire sulle misure previste dal PNRR in…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 369,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00040.sub00050.int00040"
   },
@@ -885,7 +1131,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, colleghi, come lei ha avuto modo di sottolineare e noi di fare, puntualizziamo che il Governo è fortemente contrario a ogni produzione e finanziamento di cibo artificiale e sintetizzato in laboratorio. […]",
+   "sunto": "Quest'anno, secondo le previsioni del Ministero, raggiungeremo la soglia record di esportazioni di 60 miliardi di euro; un valore che dobbiamo proteggere e rafforzare da tutti i tentativi di omologazione, di cui il cibo sintetico rappresenta l'apice e la forma più estrema.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 460,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00040.sub00060.int00040"
   },
@@ -898,7 +1147,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Intanto ringrazio il collega Vaccari, perché è un argomento che ci interessa molto e non da oggi. Prima di entrare nello specifico quesito posto dall'interrogante, ritengo opportuno ricordare a tutti noi che siamo di fronte a un'innegabile emergenza sanitaria - che il collega Vaccari ha sottolineato - che causa enormi danni all'incolumità pubblica e al sistema sanitario e che riguarda evidentemente anche il benessere […]",
+   "sunto": "Con riguardo allo specifico quesito posto dall'interrogante, ricordo che, ai sensi della legge n. 157 del 1992, il Comitato tecnico faunistico-venatorio nazionale rappresenta un organo tecnico consultivo (lei, però, lo ha già puntualmente descritto e, quindi, vi risparmio l'ulteriore descrizione).",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 448,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00040.sub00070.int00060"
   },
@@ -911,7 +1163,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Cerreto e tutto il gruppo che ha presentato questa interrogazione a risposta immediata. È stato richiamato il problema del Nutri-Score. Dico “problema” e vado a definirne le ragioni. La tematica evidenziata dall'onorevole interrogante riveste una rilevanza strategica per il sistema agricolo e agroalimentare italiano. […]",
+   "sunto": "A tal fine, in occasione della mia partecipazione all'Agrifish, il Consiglio dell'Agricoltura e della pesca dell'Unione europea del 21 novembre scorso, ho voluto trattare il tema proprio per esprimere la nostra contrarietà assoluta al Nutri-Score .",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 382,
    "url": "https://www.camera.it/leg19/410?idSeduta=0013&tipo=stenografico#sed0013.stenografico.tit00040.sub00080.int00060"
   },
@@ -924,7 +1179,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Bergamini, non tanto e non solo per il quesito, che mi permette di spiegare l'argomento, ma anche per aver sottolineato quanto sia importante la produzione italiana anche in questo comparto. Il Ministero segue con la massima attenzione gli sviluppi di mercato del settore ortofrutticolo, componente fondamentale dell'agricoltura della nostra Nazione in termini di occupazione, reddito, nonché contri […]",
+   "sunto": "Le organizzazioni di produttori riconosciute sviluppano, inoltre, dei programmi di intervento finalizzati al miglioramento della produzione agricola concertati fra i produttori agricoli associati, per i quali ricevono un contributo dell'Unione europea pari al 50 per cento delle spese.",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 489,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00020.int00040"
   },
@@ -937,7 +1196,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, collega Evi, preliminarmente devo specificare che le questioni legate al benessere degli animali sono competenza primaria del Ministero della Salute, che segue l'elaborazione della normativa a livello europeo, per poi attuarla a livello nazionale, con disposizioni specifiche relative ai piani di controllo. […]",
+   "sunto": "Inoltre, nel 2011, è stato stipulato un protocollo d'intesa tra Ministero dell'Interno e Ministero della Salute, attualmente in fase di revisione, per garantire controlli di polizia sul benessere degli animali vivi durante il trasporto su strada; come lei ha citato, questi controlli…",
+   "temi": [],
    "parole": 513,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00040.int00040"
   },
@@ -950,7 +1210,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Bergamini, grazie di avermi posto il quesito. I fatti riportati nell'interrogazione si riferiscono, come lei ha sottolineato, al mese di agosto 2022 e al territorio, nello specifico, delle province di Ferrara e Modena. […]",
+   "sunto": "Il nuovo sistema di gestione del rischio prevede un primo livello di base (fondo AgriCat) che tutela oltre 700.000 aziende agricole su tutto il territorio nazionale, a cui si aggiunge un secondo livello di copertura assicurativa e mutualistica facoltativo, entrambi finanziati con risorse dello…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 463,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00050.int00040"
   },
@@ -963,7 +1226,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Castiglione, voglio innanzitutto premettere che il Ministero dell'Agricoltura, della sovranità alimentare e delle foreste ha conseguito tutti i target e le milestone fissati dalla Commissione europea per il PNRR al 31 dicembre 2022 e ha, altresì, conseguito l' Interim step previsto per il 31 marzo 2023. Fino a dicembre 2023, non sono stati previsti altri target e milestone. […]",
+   "sunto": "Onorevole Castiglione, voglio innanzitutto premettere che il Ministero dell'Agricoltura, della sovranità alimentare e delle foreste ha conseguito tutti i target e le milestone fissati dalla Commissione europea per il PNRR al 31 dicembre 2022 e ha, altresì, conseguito l' Interim step previsto per…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 718,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00060.int00040"
   },
@@ -976,7 +1243,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Cerreto e il gruppo Fratelli d'Italia per aver posto un tema che mi permette di dare, a loro parlamentari e ai cittadini italiani, alcuni chiarimenti necessari sulle tante chiacchiere che spesso si fanno in televisione, quando alcuni che si dicono esperti in materia proferiscono cose senza senso. Il cibo sintetico è il prodotto finale di varie tecniche di laboratorio. […]",
+   "sunto": "Di fronte a una nuova tecnologia di produzione degli alimenti della quale sono ancora ignoti i rischi per la salute umana, l'ordinamento europeo consente di intervenire con misure precauzionali.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 733,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00070.int00040"
   },
@@ -989,7 +1259,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Alessandro Colucci, ringrazio tutto il gruppo, per avere proposto un quesito di interesse generazionale e, pertanto, di interesse anche generale. Vorrei partire da alcuni numeri: l'occupazione in agricoltura conta 1,2 milioni di lavoratori; il 90 per cento sono rapporti di lavoro a tempo determinato, per un totale di 121 milioni di giornate di lavoro; durante il click day, giorno […]",
+   "sunto": "Vorrei partire da alcuni numeri: l'occupazione in agricoltura conta 1,2 milioni di lavoratori; il 90 per cento sono rapporti di lavoro a tempo determinato, per un totale di 121 milioni di giornate di lavoro; durante il click day, giorno di apertura delle richieste di forza lavoro da parte dei…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 603,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00080.int00040"
   },
@@ -1002,7 +1275,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie. Non ho nulla di cui scusarmi, per la verità, collega Carotenuto, perché non mi pare che ce ne siano le ragioni e spiegherò anche il perché. Voglio solo sottolineare, con riferimento al decreto sulla condizionalità sociale, che probabilmente in molti si sarebbero salvati dallo sfruttamento se l'aveste approvato voi , invece di farlo approvare a me, come primo provvedimento che ho avuto l'onore di firmare, appe […]",
+   "sunto": "Nel contempo, però, centinaia di migliaia di cittadini italiani percepiscono - come lei ricordava - il reddito di cittadinanza, giustificato esclusivamente dall'assenza di offerta lavoro; si tratta cioè di persone che possono lavorare ma dicono che non c'è lavoro.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 775,
    "url": "https://www.camera.it/leg19/410?idSeduta=0083&tipo=stenografico#sed0083.stenografico.tit00010.sub00090.int00040"
   },
@@ -1015,7 +1291,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Gatta e i colleghi di Forza Italia; vi ringrazio dell'interrogazione che mi permette di entrare anche su un tema che noi consideriamo, come Ministero, strategico, ossia quello del comparto dell'olivicoltura, che è strategico nella filiera agroalimentare italiana. […]",
+   "sunto": "Più in particolare, il Piano strategico della PAC prevede un sostegno accoppiato al reddito per i conduttori delle superfici olivicole destinate alla produzione di olio ad indicazione geografica, cui sono stati destinati circa 12 milioni di euro l'anno fino al 2027. […] Per l'attuazione del Piano, il Ministero ha messo a disposizione e trasferito alla regione Puglia 300 milioni di euro.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 472,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00030.int00040"
   },
@@ -1028,7 +1307,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio il deputato Carloni e il gruppo della Lega di avermi sottoposto questa interrogazione. Abbiamo già avuto modo di confrontarci sul tema e lo faccio volentieri anche in questa sede. Il contrasto alle restrizioni sull'attività della pesca e il massimo sostegno al comparto ittico sono un obiettivo strategico per il nostro Ministero. […]",
+   "sunto": "Quanto al piano di azione da lei citato, preciso che, pur condividendo, come è ovvio che sia, le finalità di mantenere gli stock ittici a livelli sostenibili e di ridurre l'impatto della pesca sui fondali marini e sulle specie sensibili, riteniamo che l'obiettivo vada perseguito attraverso il…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 567,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00040.int00040"
   },
@@ -1041,7 +1324,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio lei, collega D'Alessio, e la collega Gadda, prima firmataria dell'interrogazione. I distretti del cibo costituiscono un nuovo modello per sviluppare il sistema agroalimentare italiano e nascono per fornire, a livello nazionale, ulteriori opportunità e risorse per la crescita e il rilancio sia delle filiere, che dei territori. Come lei ha ricordato, all'articolo 1, comma 499, della legge n. […]",
+   "sunto": "I distretti del cibo costituiscono un nuovo modello per sviluppare il sistema agroalimentare italiano e nascono per fornire, a livello nazionale, ulteriori opportunità e risorse per la crescita e il rilancio sia delle filiere, che dei territori. […] Quanto alle risorse disponibili, preciso che al nuovo bando sui distretti del cibo sono destinati 125 milioni.",
+   "temi": [],
    "parole": 570,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00050.int00040"
   },
@@ -1054,7 +1338,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Rossi. Le alluvioni che hanno flagellato l'Emilia-Romagna, come è noto, hanno causato morti, devastato il territorio e messo in ginocchio l'economia di una delle regioni più produttive d'Italia. Il Governo si è attivato immediatamente per dare le prime risposte alle richieste di aiuto provenienti dai territori colpiti. […]",
+   "sunto": "Di questi, 100 milioni di euro sono diretti, attraverso il Fondo AgriCat, a indennizzare le imprese per i danni strutturali e per la perdita della produzione agricola e 75 milioni di euro sono diretti a sostenere le aziende per l'acquisto di nuovi macchinari.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 561,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00060.int00040"
   },
@@ -1067,7 +1354,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Collega Borrelli, io posso anche condividere alcune delle sue affermazioni sulle concause che hanno aggravato quello che gli eventi meteorologici imprevisti hanno prodotto, ma non spetta a me - eventualmente spetterà alla magistratura - verificare se ci sono stati degli atteggiamenti contra legem che hanno portato all'aggravio e alle conseguenze che lei sottolinea essere, per quota parte, responsabilità dell'uomo. […]",
+   "sunto": "A tal proposito intendo richiamare una misura inserita all'interno del decreto-legge, approvato dal Consiglio dei ministri ieri, che io reputo di particolare importanza.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 551,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00070.int00040"
   },
@@ -1080,7 +1370,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Un ringraziamento al collega Malaguti per l'illustrazione e al collega Foti, come primo firmatario a nome del gruppo Fratelli d'Italia. Come ho già detto nelle precedenti risposte sull'argomento, il decreto-legge adottato dal Governo risponde alle esigenze di fornire un aiuto immediato alle imprese agricole gravemente danneggiate dagli eventi alluvionali che hanno interessato l'Emilia-Romagna negli ultimi giorni, in […]",
+   "sunto": "Per quanto riguarda le misure strettamente connesse al Ministero attualmente da me pro tempore occupato, il decreto-legge approvato ieri in Consiglio dei ministri prevede uno stanziamento di 100 milioni di euro a titolo di indennizzo verso le imprese agricole colpite e un'ulteriore disposizione…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 551,
    "url": "https://www.camera.it/leg19/410?idSeduta=0108&tipo=stenografico#sed0108.stenografico.tit00060.sub00080.int00040"
   },
@@ -1093,7 +1387,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie al collega Bruzzone. Il richiamo, ovviamente, è a tutto il gruppo della Lega, che mi permette di discutere di un tema fondamentale, come quello della peste suina. La diffusione della peste suina africana e le sue conseguenze per il comparto agroalimentare sono all'attenzione del Governo tutto, sin dal suo insediamento. […]",
+   "sunto": "Per mitigare gli impatti della fauna selvatica, abbiamo collaborato con il Ministero dell'Ambiente e della sicurezza energetica all'elaborazione di un Piano straordinario per la gestione e il contenimento della fauna selvatica, previsto dall'articolo 19- ter della legge faunistica-venatoria,…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 510,
    "url": "https://www.camera.it/leg19/410?idSeduta=0133&tipo=stenografico#sed0133.stenografico.tit00080.sub00010.int00040"
   },
@@ -1106,7 +1403,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, onorevole Gadda, la ringrazio di avermi posto questo quesito che mi permette di approfondire un tema caro a tutti noi, a prescindere dalle appartenenze politiche, e conosco la sua sensibilità al riguardo. Il Fondo per gli aiuti alimentari agli indigenti prima del 2019 era di 3 milioni di euro, come lei ben sa. […]",
+   "sunto": "Il Fondo per gli aiuti alimentari agli indigenti prima del 2019 era di 3 milioni di euro, come lei ben sa. […] In ultimo, il Governo Meloni attraverso il Ministero dell'Agricoltura e della sovranità alimentare e delle foreste ha messo a disposizione per interventi in favore degli indigenti per quest'anno circa 700 milioni di euro e per il prossimo anno contiamo di arrivare almeno alla stessa cifra.",
+   "temi": [],
    "parole": 622,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00020.int00040"
   },
@@ -1119,7 +1417,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie all'onorevole Caramiello perché oggi mi ha dato la possibilità di descrivere quello che potrà essere il lavoro che ci porterà all'approvazione - lo spero, è il Parlamento che decide - di una legge che ritengo fondamentale; poi, ringrazierò gli altri colleghi che hanno voluto porre question time analoghi, che mi permettono di approfondire ancora meglio il tema. […]",
+   "sunto": "Il disegno di legge che vieta la produzione, la commercializzazione, l'importazione e l'esportazione del cibo sintetico, coltivato, finto, come preferite chiamarlo, nasce da una petizione popolare, firmata anche da autorevolissimi esponenti dell'opposizione, tra i quali l'autorevolissimo mio…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 526,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00030.int00040"
   },
@@ -1132,7 +1434,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
    "gruppo": null,
-   "estratto": "Grazie, collega Della Vedova. La ringrazio per permettermi di completare gli argomenti che ho appena avuto modo di segnalare ai colleghi del MoVimento 5 Stelle, che mi chiedevano: a nome di chi normate? Teoricamente, del popolo italiano che ci ha votato, dei comuni, ma anche degli esponenti del MoVimento 5 Stelle che ci hanno chiesto di farlo. […]",
+   "sunto": "Dalla Commissione europea non abbiamo avuto alcun tipo di considerazione rispetto alla nostra notifica per molto tempo e abbiamo ritenuto che il Governo italiano potesse attendere, per effettuare una nuova notifica, il parere del Parlamento, cioè il voto definitivo di questo progetto di legge.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 638,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00040.int00040"
   },
@@ -1145,7 +1450,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il gruppo Fratelli d'Italia, il collega Foti, primo firmatario, e la collega Almici che ha appena illustrato il quadro del settore ortofrutticolo che rappresenta il primo comparto dell'agroalimentare italiano, con 14,2 miliardi di euro di valore della produzione, pari al 22 per cento dell'intera produzione agricola italiana. […]",
+   "sunto": "Solo quest'anno, sono stati stanziati 181 milioni per gli eventi derivanti da alluvioni, 7 milioni per la peronospora e 9,5 milioni per il mal secco degli agrumi, insieme al Fondo per la sovranità alimentare che aiuta le filiere deboli per 100 milioni.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 531,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00050.int00040"
   },
@@ -1158,7 +1467,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie al gruppo della Lega, al collega Bergamini. La sua interrogazione mi permette di affrontare una questione che desta preoccupazione, come lei rileva, e per la quale, seppure le responsabilità siano strutturalmente ascrivibili a scelte effettuate nel passato, noi vogliamo rispondere e cercare di arrivare a tutti i meccanismi che permettano di non danneggiare il mondo dell'agricoltura, a cui teniamo. […]",
+   "sunto": "È accaduto però che, negli ultimi 8 anni, corrispondenti al periodo di programmazione 2015-2022, la superficie assicurata è cresciuta solo del 4 per cento e, nello stesso periodo, i valori assicurati sono cresciuti del 39 per cento, mentre il fabbisogno finanziario è aumentato del 114 per cento.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 547,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00060.int00040"
   },
@@ -1171,7 +1483,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie al deputato Bicchielli e al primo firmatario, onorevole Maurizio Lupi, di questa interrogazione, che mi permette di parlare di un argomento rilevante. Mi permetto una piccola correzione: il granchio blu è presente nel Mar Mediterraneo da oltre quarant'anni, tanto che, nel rapporto CEE/FAO del 1987, viene indicata come specie non più aliena. […]",
+   "sunto": "Mi permetto una piccola correzione: il granchio blu è presente nel Mar Mediterraneo da oltre quarant'anni, tanto che, nel rapporto CEE/FAO del 1987, viene indicata come specie non più aliena. […] A seguito di quell'incontro, abbiamo stanziato altri 10 milioni, finalizzati alla ristorazione delle imprese e alla protezione dall'invasione del granchio blu.",
+   "temi": [],
    "parole": 490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00130.sub00070.int00060"
   },
@@ -1184,7 +1497,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ci tenevo a ringraziare tutto il Parlamento e, in questa fase in particolare, i colleghi deputati per il dibattito serrato che avviene in quest'Aula, nel luogo più consono per affermare i motivi che spingono ogni forza politica ad assumere una posizione. […]",
+   "sunto": "Abbiamo avuto la possibilità di discutere su questo impegno comune e ho pensato utile, poi, far divenire la Consulta un organismo stabile all'interno del Ministero, affinché ci siano alcuni punti di riferimento che non siano mutevoli, se uno cambia posto nel quale siede all'interno dell'Aula.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 2028,
    "url": "https://www.camera.it/leg19/410?idSeduta=0189&tipo=stenografico#sed0189.stenografico.tit00020.sub00020.int00020"
   },
@@ -1197,7 +1515,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Rispondo sempre volentieri agli appelli accorati, anche a quelli meno accorati, per la verità. Il mio intervento, visto che posso intervenire questa sede, è per ringraziare per il dibattito e gli interessanti spunti. Non entro nel merito di tutte le questioni, avremo tante occasioni per parlarne, perché ho colto argomentazioni molto rilevanti. […]",
+   "sunto": "Se, poi, l'Unione europea dovesse scegliere l'EFSA come soggetto di riferimento per le coltivazioni cellulari, che, a mio avviso, in medicina hanno un'utilità - lo dico con chiarezza - e, quindi, cambiare la procedura, cioè avere un doppio canale di procedura, noi siamo nell'Unione europea e… […] Noi abbiamo un Parlamento europeo e io spero che il Parlamento europeo sia sempre più forte.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 594,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00140"
   },
@@ -1210,7 +1531,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Siccome credo che il collega Bonelli, che considero una persona dall'onestà intellettuale indiscussa, sappia rileggere gli atti nella maniera puntuale, è evidente che la mia affermazione non riguardava l'Unione europea… …nei confronti del sottoscritto e del nostro Governo, di soggiacere alle indicazioni di consorterie o corporazioni; si riferiva, il collega che ha citato le parole, a una associazione di coltivatori. […]",
+   "sunto": "Detto questo, noi abbiamo grande rispetto - ho detto esattamente l'opposto di quello che lei mi imputava - dell'Unione europea e io dico che in Agrifish, cioè nella Commissione competente, abbiamo già proposto questo tema, consegnato questa proposta di legge a tutti i colleghi, affinché possano…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 526,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00240"
   },
@@ -1223,7 +1547,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Purtroppo, collega Magi, nonostante tutto, vivendo fortunatamente in una Nazione che ha una sua Costituzione, le regole non ce le diamo da soli , e quindi non abbiamo possibilità di far influire l'una o l'altra delle forze rappresentative del nostro contesto sociale per indirizzare, perché c'è il Parlamento, e quindi questo modello ci mette nella condizione di fare il nostro dovere. […]",
+   "sunto": "Purtroppo, collega Magi, nonostante tutto, vivendo fortunatamente in una Nazione che ha una sua Costituzione, le regole non ce le diamo da soli , e quindi non abbiamo possibilità di far influire l'una o l'altra delle forze rappresentative del nostro contesto sociale per indirizzare, perché c'è… […] Poi, però, mi perdoni, collega Magi, se vuole le rispondo, altrimenti…",
+   "temi": [],
    "parole": 109,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00340"
   },
@@ -1236,7 +1561,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ma, dopo la petizione a cui lei fa riferimento, ci sono anche 3.000 comuni, che lei riconoscerà come espressione democratica del nostro Stato, che hanno approvato ordini del giorno che chiedevano di vietare il cibo sintetico , e poi ci sono venti regioni, che lei riconoscerà in qualche modo rappresentative del consenso. […]",
+   "sunto": "Facevo riferimento l'altra volta all'ex sindaco di Bari: l'ex sindaco di Bari sottoscrive la petizione, a cui faceva riferimento Coldiretti, di Europa Verde, ed è un ricercatore del CNR.",
+   "temi": [],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00370"
   },
@@ -1249,7 +1575,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. De Luca, scusami, mi permetto di intervenire veramente solo per due fatti, perché almeno la verità la facciamo emergere. Io ho avuto occasione peraltro di ringraziare il presidente De Luca, perché la sua regione fu la prima a chiedere il divieto di carni coltivate (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi c […]",
+   "sunto": "De Luca, scusami, mi permetto di intervenire veramente solo per due fatti, perché almeno la verità la facciamo emergere. […] Io ho avuto occasione peraltro di ringraziare il presidente De Luca, perché la sua regione fu la prima a chiedere il divieto di carni coltivate (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier, Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia,…",
+   "temi": [],
    "parole": 85,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00450"
   },
@@ -1262,7 +1589,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Quanto alla seconda questione, la presenza, il nostro Governo, durante quest'anno, non è stato assente nemmeno in una riunione dell'Agrifish e devo dire che, nella prossima riunione dell'Agrifish, l'Italia capeggerà un gruppo di Nazioni che presenteranno un documento ampiamente condiviso - a cui aderiscono Austria, Finlandia, Francia, Grecia, Lettonia, Polonia, Romania ed altri Stati - per trattare i temi dell'agrico […]",
+   "sunto": "Quanto alla seconda questione, la presenza, il nostro Governo, durante quest'anno, non è stato assente nemmeno in una riunione dell'Agrifish e devo dire che, nella prossima riunione dell'Agrifish, l'Italia capeggerà un gruppo di Nazioni che presenteranno un documento ampiamente condiviso - a cui…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 208,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00050.sub00090.int00470"
   },
@@ -1275,7 +1606,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Presidente! Non lo avevo detto, quindi non ha nulla di cui scusarsi. Ho espresso, nell'eventualità, non dubitando delle parole del collega, quindi preventivamente, prima dell'inizio di questo dibattito, com'è uscito sulle agenzie, la solidarietà al collega Della Vedova, perché non ho alcun problema a dire che la violenza verbale e fisica deve essere sempre lontana dalla politica e dalle istituzioni in particolare . […]",
+   "sunto": "Non entro nel merito delle parole usate dai parlamentari, nonostante io lo sia in quest'Aula, rispetto a qualsiasi rappresentante di corpi sociali e dei singoli. […] Il collega ha correttamente affermato che a rispetto e a tutela della sua posizione sporgerà denuncia, mi pare chiaro che sia un atto non solo legittimo, ma rispetto alle affermazioni è anche ovvio e conseguente.",
+   "temi": [],
    "parole": 152,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00060.int00420"
   },
@@ -1288,7 +1620,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Posso? Collega, io non parlo di correttezza formale, ovviamente, parlo di correttezza di quello che, rispetto alla richiesta, io intendo fare. Perché, come voi avete sottolineato, dietro un'organizzazione, quale essa sia, che si chiami CGIL, che si chiami, CISL, UIL, Coldiretti, Confagricoltura e le tante altre massimamente rappresentative del mondo del lavoro, c'è il rispetto dei lavoratori . […]",
+   "sunto": "Perché, come voi avete sottolineato, dietro un'organizzazione, quale essa sia, che si chiami CGIL, che si chiami, CISL, UIL, Coldiretti, Confagricoltura e le tante altre massimamente rappresentative del mondo del lavoro, c'è il rispetto dei lavoratori .",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 247,
    "url": "https://www.camera.it/leg19/410?idSeduta=0197&tipo=stenografico#sed0197.stenografico.tit00060.int00460"
   },
@@ -1301,7 +1636,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
    "gruppo": null,
-   "estratto": "Signor Presidente, ringrazio il collega Foti per aver presentato questa interrogazione e il collega Cerreto per averla illustrata. Com'è stato ricordato dall'interrogante, lo scorso 24 novembre, gli uffici della Commissione europea hanno approvato la revisione del Piano proposta dal Governo italiano. […]",
+   "sunto": "In particolare, le risorse disponibili sul Piano passano da 3,68 miliardi di euro a 6,53 miliardi di euro e se consideriamo anche le risorse del Piano nazionale complementare si arriva allo stanziamento di 8 miliardi di euro, uno stanziamento di risorse per l' asset primario della nostra Nazione… […] La misura passa così da 1,5 miliardi di euro a 2,35 miliardi di euro.",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00040.int00040"
   },
@@ -1314,7 +1653,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, colleghi. Devo dire che l'interrogazione che avete scritto mi chiede di chiarire se la mia condotta sia ascrivibile - così scrivete - alla normale attività del Dicastero di cui sono responsabile. La risposta è “sì”. L'interrogazione mi permette di ricostruire i termini di una vicenda che nei giorni passati è stata al centro di polemiche che giudico completamente pretestuose. […]",
+   "sunto": "Prima di questo evento era stata organizzata la visita dell'Istituto agrario alberghiero “Morano”, divenuto simbolo di ripristino della legalità a Caivano grazie al lavoro straordinario di studenti e docenti, a cominciare dalla preside, Eugenia Carfora.",
+   "temi": [
+    "Scuola e università",
+    "Ambiente e clima",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 937,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00050.int00040"
   },
@@ -1327,7 +1672,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio la collega Evi che nel quesito si è attenuta a quello che ha mandato per iscritto, a differenza del gruppo che l'ha preceduta, ma li pubblicheremo insieme agli atti, in maniera tale che siano a disposizione dei cittadini per un confronto; a proposito de Il Marchese del Grillo ci sono altre citazioni che potrei fare. Arrivo alla risposta. […]",
+   "sunto": "Ritengo opportuno precisare che le questioni proposte dall'onorevole interrogante attengono a una materia, quella del rispetto del benessere animale da parte degli allevatori che abbiano ricevuto dei ristori in conseguenza dell'abbattimento di maiali colpiti dalla peste suina africana, che non…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 540,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00060.int00040"
   },
@@ -1340,7 +1688,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio la collega, il collega Maurizio Lupi e tutto il gruppo di Noi Moderati, che ha presentato un'interrogazione che mi permette di illustrare il protocollo d'intesa relativo al servizio civile agricolo, siglato lo scorso 22 novembre con il Ministero per lo Sport e i giovani, di durata triennale, che prevede un cofinanziamento di 7 milioni di euro in capo a entrambi i Ministeri sottoscriventi […]",
+   "sunto": "L'obiettivo è la formazione di 1.000 giovani per rafforzare il servizio civile come strumento di promozione e sviluppo dell'agricoltura, in particolare, di quella sociale.",
+   "temi": [],
    "parole": 381,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00070.int00040"
   },
@@ -1353,7 +1702,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Mattia, e grazie ai colleghi del gruppo di Fratelli d'Italia, perché l'interrogazione mi permette di fare chiarezza sugli argomenti, che sono stati ben presentati e che riguardano l'autorizzazione dell'Unione europea alla commercializzazione di alcuni prodotti derivanti da insetti tra il 2021 e il 2023. […]",
+   "sunto": "Il Governo Meloni ha adottato quattro decreti, nel marzo del 2023, che sono stati vagliati attraverso l'istruttoria obbligatoria dell'Unione europea, che nulla ha potuto obiettare rispetto alla nostra volontà di garantire la completa informazione ai cittadini italiani.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 516,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00080.int00040"
   },
@@ -1366,7 +1718,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Pisano. Ringrazio anche l'onorevole Lupi per aver presentato, a nome del suo gruppo, questa interrogazione che permette di entrare nel tema che, negli ultimi anni, sta ovviamente interessando tutti quelli che guardano all'agricoltura come elemento centrale e asset strategico per la nostra economia, oltre che per la nostra alimentazione. […]",
+   "sunto": "Purtroppo, stanno aumentando - solo quest'anno, ne ricordo molte - le criticità alluvionali e, prima di queste, quelle di segno opposto derivanti dalla siccità e ancora: il mal secco degli agrumi, la peronospora, la flavescenza dorata della vite, il cancro batterico del kiwi, il bostrico…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 464,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00090.int00040"
   },
@@ -1379,7 +1734,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Bergamini, perché mi fa parlare di un frutto particolarmente importante, tradizionale, al quale non intendiamo rinunciare, sia nel consumo, sia nella produzione. L'Italia è oggi, come lei ricordava, la prima Nazione europea per produzione di pere e la terza nel mondo. […]",
+   "sunto": "Purtroppo, le imprese del settore hanno dovuto affrontare enormi criticità, causate principalmente dalle avversità climatiche e dalla diffusione di fitopatie e di organismi nocivi estremamente aggressivi che, in alcune aree, hanno comportato addirittura l'azzeramento della produzione ed è per…",
+   "temi": [],
    "parole": 524,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00100.int00040"
   },
@@ -1392,7 +1748,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio la relatrice, perché la sua ricostruzione è stata puntuale. Voglio solo aggiungere una considerazione di carattere generale, ringraziando il Parlamento di un lavoro che è stato fatto in linea con quanto credo debba essere, come procedura, attuato nel maggior numero di casi possibili, cioè, anche quando c'è un'iniziativa di carattere governativa, di permettere un approfondimento ampio, specie se si tratta di […]",
+   "sunto": "Io non dico che abbiamo una cucina, una pasticceria, una produzione olivicola - quella, forse, è oggettiva -, una produzione di vino migliori di quelle francese, ma non credo nemmeno che siamo secondi a loro o ad altre Nazioni d'Europa.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 1004,
    "url": "https://www.camera.it/leg19/410?idSeduta=0226&tipo=stenografico#sed0226.stenografico.tit00050.sub00010.int00050"
   },
@@ -1405,7 +1764,14 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie ai parlamentari che sono intervenuti, perché è evidente che chi interviene in un dibattito ha interesse a discutere del tema in oggetto, ma anche - e, quindi, replico ai colleghi in senso positivo e costruttivo, come è mia abitudine fare - desidero fare un po' il punto su quelli che sono alcuni argomenti qui citati, che esulano anche dalle vicende legate strettamente alla legge. […]",
+   "sunto": "Si può fare sempre di meglio, però noi governiamo da 15-16 mesi e lei ha ricordato, invece, nel suo puntuale intervento le grandi criticità che aggrediscono il nostro mondo e la nostra agricoltura, ha ricordato la crisi che ha portato a perdere negli ultimi 30 anni.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Ambiente e clima",
+    "Sicurezza e criminalità"
+   ],
    "parole": 3028,
    "url": "https://www.camera.it/leg19/410?idSeduta=0226&tipo=stenografico#sed0226.stenografico.tit00050.sub00020.int00040"
   },
@@ -1418,7 +1784,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie ai colleghi e un saluto agli studenti presenti e ai loro docenti. Mi scusi Presidente, non sapevo se l'avesse fatto e mi univo al saluto volentieri. Voglio tranquillizzare, però, il collega Magi rispetto alla sua coraggiosa autodenuncia: non c'è alcuna legge che vieta di chiamare attualmente così come lei ha indicato alcune portate che ha avuto la possibilità di gustare al ristorante della […]",
+   "sunto": "La legge 1° dicembre 2023, n. 172, vieta la produzione, la commercializzazione e l'importazione di alimenti coltivati in laboratorio - che lei non troverà né ora né, speriamo, mai presso il ristorante della Camera - ed è attualmente in vigore in Italia e apprezzata in Europa nei suoi principi,…",
+   "temi": [
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 790,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00070.int00040"
   },
@@ -1431,7 +1801,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie collega Romano di aver, insieme al collega Lupi, presentato un'interrogazione puntuale che va incontro all'esigenza di chiarire quanto si sia fatto e quale sia l'impostazione del Governo italiano nei confronti del mondo dell'agricoltura, che riteniamo un settore strategico. […]",
+   "sunto": "Ciò è oggettivo per il rapporto costante che abbiamo avuto modo di intraprendere fin dall'inizio con le associazioni rappresentative degli agricoltori e con gli agricoltori stessi che, nei presidi, hanno rappresentato la loro forte criticità nell'avere un reddito adeguato, chiedendo anche di…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 671,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00080.int00040"
   },
@@ -1444,7 +1818,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Cara collega e cari colleghi, grazie di avermi permesso di ribadire, con riferimento alle premesse della vostra interrogazione che come sapete mi avete presentato per iscritto, quanto sia da parte nostra utile confermare - ma l'abbiamo già fatto poc'anzi - la nostra forte critica alle politiche dell'Unione europea rispetto alle quali, come tutti sanno, il commissario socialista Timmermans ha, per lungo tempo, condizi […]",
+   "sunto": "E se le imprese agricole negli ultimi anni sono scese mediamente del 24 per cento, in Italia toccano una riduzione del 30 per cento e, purtroppo, nelle aree del Sud anche del 45 per cento. […] Non va meglio nel settore della pesca dove la media europea vede una riduzione del 28 per cento, mentre in Italia è del 40 per cento.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 672,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00090.int00040"
   },
@@ -1457,7 +1834,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, colleghi. Collega, mi dà l'occasione di rispondere anche in relazione al fatto che molti di voi deputati hanno partecipato alla Conferenza di ieri: si trattava di ISMEA, che dà i dati, e AGEA, che fa un'altra cosa in agricoltura. […]",
+   "sunto": "Per fortuna, sia sulla pesca che sull'agricoltura, sia i sindacati dei lavoratori che i sindacati delle imprese, unanimemente, hanno apprezzato il lavoro che stiamo svolgendo in Europa per invertire quella tendenza che, anche nel settore della pesca, lei ha avuto modo di denunciare: meno 28 per…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea"
+   ],
    "parole": 649,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00100.int00040"
   },
@@ -1470,7 +1851,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Pastorino che mi ha posto questo quesito, perché mi consente di fare chiarezza sulle ragioni del provvedimento. Si tratta di una misura che è stata condivisa, preventivamente dal punto di vista tecnico, con il Comando generale della Capitaneria di porto e il Consiglio nazionale delle ricerche, che da quel punto di vista viene considerato un punto di riferimento in termini scientifici. […]",
+   "sunto": "La misura tecnica, che limita a 50 ami che un pescatore sportivo può armare usando il palangaro, è una misura che consideriamo ragionevole, poiché diretta a contrastare la pesca illegale. […] In questi anni non ci si è accorti che mentre i Governi precedenti tutelavano la pesca noi abbiamo perso il nostro 40 per cento delle marinerie, delle nostre tradizioni di pesca e delle nostre produzioni .",
+   "temi": [],
    "parole": 494,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00040.sub00030.int00040"
   },
@@ -1483,7 +1865,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega, per il quesito. In materia di utilizzo dei prodotti fitosanitari in agricoltura l'obiettivo del Governo è quello di pervenire a una graduale riduzione del loro utilizzo, senza tuttavia pregiudicare le produzioni nazionali, già colpite dalle conseguenze di eventi eccezionali, come il conflitto in Ucraina e ora in Medio Oriente, e dal perdurare di situazioni climatiche avverse. […]",
+   "sunto": "In materia di utilizzo dei prodotti fitosanitari in agricoltura l'obiettivo del Governo è quello di pervenire a una graduale riduzione del loro utilizzo, senza tuttavia pregiudicare le produzioni nazionali, già colpite dalle conseguenze di eventi eccezionali, come il conflitto in Ucraina e ora…",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 556,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00040.sub00040.int00040"
   },
@@ -1496,7 +1882,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega. Questa interrogazione ci permette ulteriormente di parlare della peste suina africana, una vera e propria pandemia, che non riguarda evidentemente solo l'Italia, ma riguarda gran parte del nostro continente e riguarda gran parte del continente asiatico, al quale lei faceva riferimento. […]",
+   "sunto": "Questa interrogazione ci permette ulteriormente di parlare della peste suina africana, una vera e propria pandemia, che non riguarda evidentemente solo l'Italia, ma riguarda gran parte del nostro continente e riguarda gran parte del continente asiatico, al quale lei faceva riferimento.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 690,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00040.sub00050.int00040"
   },
@@ -1509,7 +1898,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega La Salandra, ma solo dopo aver ringraziato l'onorevole Foti, che ha sottoscritto questo testo, che ci permette di chiarire come teniamo ai nostri prodotti, come proviamo a difenderli, ovviamente non da soli, ma con un'azione coordinata con chi lo fa quotidianamente, cioè, con le nostre Forze dell'ordine. […]",
+   "sunto": "L'enorme varietà dei prodotti agroalimentari italiani, valorizzata dalla nostra dieta mediterranea, patrimonio dell'UNESCO, e riconosciuta dai cittadini di tutto il mondo, ha reso l'Italia una superpotenza della qualità; è oggettivo.",
+   "temi": [
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 531,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00040.sub00060.int00040"
   },
@@ -1522,7 +1915,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Signor Presidente, collega Ruffino, la ringrazio del quesito. Il Registro unico dei controlli ispettivi sulle imprese agricole, istituito con il decreto - come lei ha ricordato - del 22 luglio 2015, è stato concepito come strumento cruciale per coordinare e ottimizzare i controlli ispettivi sulle imprese agricole. […]",
+   "sunto": "Il Registro unico dei controlli ispettivi sulle imprese agricole, istituito con il decreto - come lei ha ricordato - del 22 luglio 2015, è stato concepito come strumento cruciale per coordinare e ottimizzare i controlli ispettivi sulle imprese agricole.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 582,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00060.int00040"
   },
@@ -1535,7 +1931,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Castiglione. Ringrazio lei e il gruppo di Forza Italia perché mi dà la possibilità di riferire sulle misure di contrasto al fenomeno della siccità, adottate dal Governo Meloni e contenute anche nel decreto Agricoltura, pubblicato il 15 maggio in Gazzetta Ufficiale e ora incardinato al Senato per la conversione. […]",
+   "sunto": "Il Governo Meloni ha sempre affrontato con la massima serenità la crisi idrica, provvedendo ad istituire con uno dei primi decreti-legge adottati nel 2023 un'apposita cabina di regia coordinata, in via principale, dal Ministero delle Infrastrutture e dei trasporti e nominando il dottor Nicola…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 615,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00070.int00060"
   },
@@ -1548,7 +1947,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Foti, i colleghi interroganti e il collega Iaia, che l'ha illustrata, per questa interrogazione, che mi permette di entrare nel merito di una questione molto dibattuta in questi giorni. Il quesito mi fa piacere anche perché ricorda che questo intervento è previsto in via di urgenza nel decreto Agricoltura, appena approvato e in fase di conversione al Senato. […]",
+   "sunto": "È per questo che, con l'articolo 5 del decreto Agricoltura, è ora previsto il divieto assoluto di installazione di impianti fotovoltaici con moduli a terra nelle aree classificate agricole dai piani urbanistici vigenti; ovviamente, sono fatte salve le procedure in corso e gli impianti ubicati…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti"
+   ],
    "parole": 620,
    "url": "https://www.camera.it/leg19/410?idSeduta=0297&tipo=stenografico#sed0297.stenografico.tit00010.sub00080.int00060"
   },
@@ -1561,7 +1964,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Intanto, intervengo per ringraziare il collega e amico Carloni, per la puntuale descrizione del provvedimento, che non ho bisogno di ripetere proprio perché è stata attenta. Credo che il lavoro svolto dal Parlamento nella fase di discussione e di dibattito, avvenuta al Senato e anche qui in Commissione alla Camera, seppure in maniera più ristretta, che nasce però da un confronto ben più ampio con […]",
+   "sunto": "Siamo intervenuti sulla questione dell'equilibrio all'interno delle filiere, che spesso vedono penalizzati gli imprenditori agricoli rispetto addirittura al costo di produzione che risulta essere inferiore al prezzo di vendita dei loro prodotti.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 1092,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00050.sub00010.int00040"
   },
@@ -1574,7 +1980,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il mio intervento è per ringraziare per gli spunti, che ho potuto seguire in parte da qui e in parte dai monitor , che, comunque, ha seguito il collega D'Eramo, che ringrazio per il prezioso lavoro che svolge al Ministero, come anche nella gestione del rapporto costante tra Governo e Parlamento nell'ambito delle Commissioni. […]",
+   "sunto": "Succede che, se noi diminuiamo le nostre produzioni radicalmente, pur avendo un tipo di agricoltura, quella europea, molto più sostenibile dei Paesi terzi, saremo costretti a comprare, per il consumo interno, da Paesi che usano 20 o 30 volte le stesse cose che noi proibiamo ai nostri…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 2228,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00050.sub00020.int00020"
   },
@@ -1587,7 +1997,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Gatta. Ringrazio il gruppo di Forza Italia per avermi proposto questo question time . Sarò ben lieto se il gruppo di Forza Italia si farà, nel prossimo bilancio, latore di questa richiesta al Ministero dell'Economia per ricercare le risorse per un ulteriore intervento in favore del mondo della pesca, perché riteniamo ovviamente eccezionalmente rilevante questo settore per l'economia della Nazione, tan […]",
+   "sunto": "Sarò ben lieto se il gruppo di Forza Italia si farà, nel prossimo bilancio, latore di questa richiesta al Ministero dell'Economia per ricercare le risorse per un ulteriore intervento in favore del mondo della pesca, perché riteniamo ovviamente eccezionalmente rilevante questo settore per…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Energia e carburanti",
+    "Ambiente e clima"
+   ],
    "parole": 492,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00020.int00040"
   },
@@ -1600,7 +2016,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega, di aver nuovamente sottolineato un tema fondamentale, che è il rispetto del diritto dei lavoratori, di ogni nazionalità. Il caporalato, ovviamente, incide molto sui lavoratori immigrati da Paesi terzi, ma non solo, anche sui lavoratori italiani. […]",
+   "sunto": "Abbiamo, però, lavorato in questi mesi, cercando di ragionare sulla vicenda dei flussi previsti dalla legge Bossi-Fini e dalle leggi seguenti che l'hanno modificata, senza riuscire mai nell'obiettivo di pianificare flussi realmente ancorati alla necessità delle imprese, mettendo in condizione i…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 630,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00030.int00040"
   },
@@ -1613,7 +2032,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Presidente, grazie al collega per aver sottolineato che si poteva fare e non si è fatto. Lo fa da forza politica che è stata al Governo di questa Nazione per cinque anni senza fare nulla nei confronti di questo problema . Il primo decreto che il Ministro dell'Agricoltura ha sottoposto, insieme ai suoi colleghi del Lavoro, è proprio quello sulla condizionalità sociale. […]",
+   "sunto": "Io credo che la responsabilità di quanto è accaduto negli ultimi decenni in Italia, e non solo in Italia, rispetto al caporalato - che riguarda certamente cittadini che provengono da Paesi terzi, dai Paesi dell'Unione europea, ma anche tanti italiani - deve vedere una fermezza non solo del…",
+   "temi": [],
    "parole": 481,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00040.int00040"
   },
@@ -1626,7 +2046,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "La ringrazio, collega Pastorino, per aver sollecitato la volta scorsa l'incontro con le associazioni, al quale abbiamo dato puntualmente seguito, aggiungendo alle associazioni della pesca sportiva, che avevano una posizione sulla pesca con il palangaro, le associazioni di pesca professionale che ne avevano una di matrice sostanzialmente opposta. […]",
+   "sunto": "La ringrazio, collega Pastorino, per aver sollecitato la volta scorsa l'incontro con le associazioni, al quale abbiamo dato puntualmente seguito, aggiungendo alle associazioni della pesca sportiva, che avevano una posizione sulla pesca con il palangaro, le associazioni di pesca professionale che…",
+   "temi": [],
    "parole": 490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00050.int00040"
   },
@@ -1639,7 +2060,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste.",
    "gruppo": null,
-   "estratto": "Ringrazio il presidente Molinari e il gruppo della Lega per avere posto all'attenzione del Governo nuovamente questo argomento molto rilevante, quello legato al cambiamento climatico e agli effetti meteorologici estremi che si sono verificati nei giorni scorsi in Piemonte e che hanno colpito fortemente - vorrei ricordarlo - anche la Valle d'Aosta. […]",
+   "sunto": "Con il decreto-legge Agricoltura abbiamo previsto un ulteriore stanziamento di 5 milioni per il potenziamento del Fondo AgriCat, che quest'anno si attiverà per la prima volta con un fondo di 350 milioni di euro per rispondere agli eventi calamitosi.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 469,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00060.int00040"
   },
@@ -1652,7 +2076,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio il collega Bicchielli, il collega Lupi e il gruppo di Noi Moderati per aver proposto il quesito, anche sottolineando la valenza dell'intervento, specie in agricoltura, sui giovani, i giovani che possono e vogliono continuare il lavoro della loro famiglia oppure avere la possibilità di svilupparlo per il futuro. […]",
+   "sunto": "Questi sono un patrimonio fondamentale sul quale lo Stato deve intervenire con un'adeguata formazione, con adeguate risorse per i beni strumentali, ma anche approfittare di quei tanti beni che vengono sottratti, per esempio, alla criminalità e che possono tornare alla redditività attraverso…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00070.int00040"
   },
@@ -1665,7 +2092,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio la collega La Porta e tutto il gruppo di Fratelli d'Italia per aver posto all'attenzione questo quesito che ci mette nella condizione di raccontare e anche di spiegare un po' meglio quello che è apparso in questi giorni come un risultato davvero decisivo per il cambio di passo delle politiche di cooperazione con l'Africa. […]",
+   "sunto": "Eravamo, con la nostra presenza del 6 luglio, insieme ai Ministri algerini dell'Agricoltura, delle Finanze, dell'Energia, delle miniere e dell'industria, della Produzione farmaceutica e dell'Idraulica, 5 Ministri, più il consigliere del Presidente, perché questo evento per loro era fondamentale. […] Chiama l'Italia, perché l'Italia è la Nazione dell'esperienza, delle conoscenze e dell'innovazione.",
+   "temi": [],
    "parole": 681,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00080.int00040"
   },
@@ -1678,7 +2106,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Della Vedova, la voglio rassicurare, intanto, rispetto alla sua interrogazione, perché l'Italia non è esposta in alcun modo al rischio di procedure di infrazione né per la disposizione che stabilisce il divieto di produzione, commercializzazione e importazione della cosiddetta carne sintetica, coltivata - la chiami come vuole, ma ci siamo capiti perfettamente -, né per quella che pone il […]",
+   "sunto": "Onorevole Della Vedova, la voglio rassicurare, intanto, rispetto alla sua interrogazione, perché l'Italia non è esposta in alcun modo al rischio di procedure di infrazione né per la disposizione che stabilisce il divieto di produzione, commercializzazione e importazione della cosiddetta carne…",
+   "temi": [
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 607,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00060.int00040"
   },
@@ -1691,7 +2123,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie ancora, Presidente. Grazie, onorevole Castiglione, perché sollecita uno degli obiettivi principali del Ministero, che è proprio quello di tutelare l'origine dei prodotti, per difendere e promuovere le nostre produzioni agroalimentari, che hanno un valore importante, come lei ricordava. […]",
+   "sunto": "L'Ispettorato centrale della tutela della qualità e repressione frodi dei prodotti agroalimentari ha incaricato di effettuare una serrata attività di controllo sui prodotti DOP, ivi incluso il pistacchio di Bronte.",
+   "temi": [],
    "parole": 531,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00070.int00040"
   },
@@ -1704,7 +2137,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole Gadda perché mi permette di fare il punto sullo stato di attuazione della misura dei contratti di filiera del settore agroalimentare, condividendo come strategico il sostegno alle filiere anche per il contrasto alla disarmonia che nel mercato porta a redditi più bassi. È una misura con una dotazione che oggi è superiore a 2,5 miliardi poiché il Governo ha aggiunto un miliardo e 900 milioni. […]",
+   "sunto": "In definitiva, in assoluta trasparenza e omogeneità delle regole, si sta concedendo a imprese, che sono oggi collocate in graduatoria e che non verrebbero finanziate per assenza di risorse, di poter usufruire dei fondi PNRR ovviamente rispettandone le relative regole.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 659,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00080.int00040"
   },
@@ -1717,7 +2154,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole Pisano, che mi offre la possibilità di affrontare oggi una tematica prioritaria per il Governo Meloni. Sin dal nostro insediamento, ci siamo impegnati per ridare all'imprenditore agricolo la centralità che gli spetta nel sistema economico e sociale della nostra Nazione e per assicurare l'equa distribuzione del valore all'interno della filiera agroalimentare. […]",
+   "sunto": "Sin dal nostro insediamento, ci siamo impegnati per ridare all'imprenditore agricolo la centralità che gli spetta nel sistema economico e sociale della nostra Nazione e per assicurare l'equa distribuzione del valore all'interno della filiera agroalimentare.",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 657,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00090.int00040"
   },
@@ -1730,7 +2171,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Ringrazio l'onorevole Ciaburro e il gruppo di Fratelli d'Italia perché mi danno la possibilità di illustrare i risultati di una misura del Piano nazionale di ripresa e resilienza che considero fondamentale per il settore agricolo, in quanto consente non solo di incrementare la produzione di energia da fonti rinnovabili senza alcun consumo di suolo, ma anche di migliorare la competitività delle imprese agricole, azzer […]",
+   "sunto": "I dati sullo stato di avanzamento della misura sono straordinari: ad oggi, attraverso i tre avvisi pubblicati dal Ministero, sono state finanziate oltre 21.000 aziende, per un ammontare di risorse pari a 2,2 miliardi di euro, che il nostro Governo ha voluto nella revisione del PNRR sul mondo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 597,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00100.int00040"
   },
@@ -1743,7 +2189,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente Ascani. Ringrazio l'onorevole Pierro, per avermi dato l'occasione di rispondere su un tema strategico, come quello dell'ortofrutta e delle sue produzioni in Italia, che arriva a sfiorare i 20 miliardi di euro, circa il 30 per cento dell'intero settore agricolo nazionale. […]",
+   "sunto": "Anche sul kiwi, per la prima volta interveniamo in sostegno delle filiere, con 4 milioni di euro per la moria del kiwi e 5 milioni di euro sul Fondo filiere, che è un Fondo inserito nel 2023. […] Effetto zero in termini di tutela dell'ambiente, effetto zero in termini di salute dei cittadini, se si puntava a questo, e, invece, danno per le nostre imprese.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 602,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00010.int00040"
   },
@@ -1756,7 +2205,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Presidente, grazie. Onorevoli colleghi, posso rispondere che il Governo non è affatto rimasto a guardare in questi mesi e lo dimostrerò. Ma, prima di arrivare a quanto di mia competenza sulla vicenda dei dazi, ci tengo ad informare che l'Italia ha toccato il record di 70 miliardi di export nel settore agroalimentare, con un aumento del 7,5 per cento sul 2023; è il primo produttore di vino al mondo e il primo esportat […]",
+   "sunto": "Ma, prima di arrivare a quanto di mia competenza sulla vicenda dei dazi, ci tengo ad informare che l'Italia ha toccato il record di 70 miliardi di export nel settore agroalimentare, con un aumento del 7,5 per cento sul 2023; è il primo produttore di vino al mondo e il primo esportatore in…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 751,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00080.int00040"
   },
@@ -1769,7 +2224,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Gadda, conosco la sua sensibilità e so che lei in questi giorni ha incontrato molte aziende, per conoscere anche i dati positivi di cui gode il settore del vino italiano, in particolare, in queste ore, con Vinitaly, ma, nel complesso, il nostro export , che quest'anno ha raggiunto i 70 miliardi di euro: record assoluto. […]",
+   "sunto": "Il settore del vino ha registrato un incremento dell' export , giungendo a quota - per la prima volta - di 8,1 miliardi, con un incremento del 5,5 per cento. […] Negli ultimi anni, il numero delle imprese agricole giovanili è cresciuto del 3,2 per cento, mentre le imprenditrici agricole sono oggi 366.000, pari al 31,5 per cento del totale, a fronte della media europea del 29 per cento.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 740,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00090.int00040"
   },
@@ -1782,7 +2241,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Zanella, per il quesito. Voglio chiarire che le indiscrezioni circolate su alcune testate giornalistiche, a cui l'interrogante allude, non trovano riscontro nel testo finale della proposta legislativa. Ciò lascia presumere che l'obiettivo fosse solo quello di alimentare la polemica politica, basandosi su informazioni non verificate, e di offrire una visione pregiudiziale dell'azione del Governo. […]",
+   "sunto": "Si tratta dell'affare assegnato sui danni causati all'agricoltura dall'eccessiva presenza della fauna selvatica ( Atto n. 337 , esaminato dalla Commissione agricoltura del Senato della Repubblica).",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 674,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00020.int00040"
   },
@@ -1795,7 +2257,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie al collega Benzoni per aver illustrato la sua interrogazione, perché mi consente di aggiornare il Parlamento su un tema particolarmente delicato per la filiera agroalimentare italiana: quella della diffusione della peste suina africana. […]",
+   "sunto": "Complessivamente il Governo ha stanziato 70 milioni di euro per l'emergenza peste suina. […] I contributi erogati dal Ministero dell'Agricoltura, della sovranità alimentare e delle foreste ammontano a 19,6 milioni di euro a ristoro dei danni indiretti, a cui si aggiungono altri 10 milioni di euro e poi, ancora, 4 milioni di euro di risorse già disponibili; 3 milioni e mezzo di euro sono…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 551,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00030.int00040"
   },
@@ -1808,7 +2275,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. L'interrogazione che mi viene rivolta dal collega Caramiello mi permette di parlare per quanto di mia competenza, perché il collega sa bene che la competenza sul commercio estero non spetta al mio Ministero e la gran parte della trattativa con gli Stati Uniti è delegata all'Unione europea. […]",
+   "sunto": "Dopo aver toccato il record di 70 miliardi di export nel settore agroalimentare nel 2024, con un aumento del 7,5 per cento sul 2023 nei primi mesi del 2025, l'Italia ha confermato la tendenza positiva, segnando un più 5,9 per cento sul valore del primo trimestre 2024.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 636,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00040.int00040"
   },
@@ -1821,7 +2291,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie al collega Bruzzone per essere tornato su questo argomento e richiamo la necessità oggettiva di rivedere la legge n. 157 perché c'è un mandato parlamentare esplicito a farlo, peraltro assunto sostanzialmente all'unanimità nella legislatura precedente e corroborato da altre iniziative di analogo valore in questa. […]",
+   "sunto": "E un buon Governo questo lo fa, perché quello che denuncia sempre lo stesso documento è che si possono produrre danni sul piano ecologico e ambientale, se non si opera in questo senso, rischi sul piano sanitario, danni all'attività agricola, problemi sul piano civilistico, problemi per la…",
+   "temi": [],
    "parole": 456,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00050.int00040"
   },
@@ -1834,7 +2305,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio la collega La Porta del gruppo di Fratelli d'Italia, perché torna su un argomento molto importante, sul quale si è fatta troppa polemica, ed è giusto oggi chiarire i risultati, perché è nostra abitudine, come Governo, proporre delle iniziative - in questo caso, applicare delle iniziative che hanno una storia molto più lunga - e metterle in pratica. […]",
+   "sunto": "Nonostante tutto questo, in Europa desta particolare allarme il problema del ricambio generazionale: come far tornare non la passione, perché la passione nell'agricoltura ce l'hanno in tanti giovani, ma la capacità di riportarli nella condizione di operare in quel settore.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 544,
    "url": "https://www.camera.it/leg19/410?idSeduta=0491&tipo=stenografico#sed0491.stenografico.tit00050.sub00060.int00040"
   },
@@ -1847,7 +2321,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega Magi, perché mi propone un'interrogazione che mi offre l'occasione per fare chiarezza su un tema che nelle ultime settimane ha generato un ampio dibattito pubblico, ma anche una certa confusione, spesso alimentata da letture parziali e strumentali dell'intervento voluto dal Governo. […]",
+   "sunto": "La norma, infatti, si limita a ribadire il divieto, già esistente nell'ambito dell'ordinamento giuridico italiano, di commercializzazione sotto ogni forma delle infiorescenze della canapa, ossia delle sommità fiorite e fruttifere della pianta di canapa, separate dal resto della pianta, anche se…",
+   "temi": [],
    "parole": 531,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00060.int00060"
   },
@@ -1860,7 +2335,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega Richetti, per avere posto questa questione, che abbiamo già avuto modo di spiegare agli organi di stampa e che nella sede più autorevole, il Parlamento, è giusto definire in maniera coerente con quanto anche il mio collega Tajani ha appena sottolineato. […]",
+   "sunto": "Ben conosciamo, infatti, gli effetti positivi per il settore industriale e anche per una parte molto rilevante del nostro settore agricolo dell'Accordo tra Unione europea e i Paesi del Mercosur, e non c'è dubbio che l'apertura di nuovi mercati sia un obiettivo perseguito dal Governo.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea"
+   ],
    "parole": 650,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00070.int00040"
   },
@@ -1873,7 +2352,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Bof, per il quesito: mi dà la possibilità di illustrare ancora una volta l'azione del Governo Meloni per la tutela e la valorizzazione di un prodotto che è frutto della nostra cultura, della nostra identità, della nostra storia, come lei puntualmente ricordava. […]",
+   "sunto": "Come lei ha ricordato, il 2024 è stato un nuovo anno da record per l'esportazione del vino italiano, con un valore superiore agli 8 miliardi di euro, pari al 10 per cento dell' export agroalimentare nazionale. […] Si fa un riferimento a un problema ancora più rilevante però, che è quello decisivo: l'aggressione al vino, la criminalizzazione costante di questo prodotto, in particolare da Nazioni che non producono vino.",
+   "temi": [],
    "parole": 518,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00080.int00040"
   },
@@ -1886,7 +2366,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie collega. L'Italia ha provato a contribuire attivamente alla trattativa europea per limitare le criticità derivanti dal sistema tariffario proposto dal Governo statunitense. Insieme agli imprenditori italiani, il 2 giugno ho incontrato il Segretario di Stato all'Agricoltura americano Brooke Rollins in Italia. […]",
+   "sunto": "L'obiettivo che ci siamo dati era trovare soluzioni a quello che gli Stati Uniti considerano uno sbilanciamento tra il loro export verso l'Unione europea e l' export europeo verso gli Stati Uniti: sostengono sia un dato di 1,7 miliardi di euro del loro export a fronte di 7 miliardi di…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 585,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00090.int00040"
   },
@@ -1899,7 +2382,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, ringrazio lei, Presidente, per avermi dato la parola, il gruppo di Fratelli d'Italia e l'onorevole Ciaburro per aver illustrato un'interrogazione che mi permette di sottolineare quanto il Governo sta facendo in difesa del settore del riso. […]",
+   "sunto": "La manifestazione è stata di grande successo e lo testimoniano i numeri: 70.000 visitatori, 100.000 persone che hanno visitato i borghi e le aree di produzione del riso nel Vercellese e migliaia di visualizzazioni sui social (si calcola che abbiano superato i 5 milioni di utenti).",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 535,
    "url": "https://www.camera.it/leg19/410?idSeduta=0536&tipo=stenografico#sed0536.stenografico.tit00050.sub00050.int00040"
   },
@@ -1912,7 +2401,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Pisano, di avermi dato la possibilità di rispondere su questo tema che è all'ordine del giorno e impegnerà le strategie europee nei prossimi anni. Come stabilito dai Trattati fondativi dell'Unione, la PAC è uno strumento decisivo e fondamentale per garantire il reddito degli agricoltori e produzioni di qualità accessibili a tutti. […]",
+   "sunto": "Non è possibile ridurre gli investimenti a sostegno dell'agricoltura europea, soprattutto a fronte dell'aumento del bilancio europeo.",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0536&tipo=stenografico#sed0536.stenografico.tit00050.sub00060.int00040"
   },
@@ -1925,7 +2418,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, preliminarmente, voglio chiarire che, contrariamente a quanto fa intendere l'interrogante, la normativa unionale non ha stabilito alcun divieto generale di esercizio dell'attività venatoria sui valichi montani interessati dalle rotte migrazione. […]",
+   "sunto": "Da un lato, provvede a definire meglio i valichi montani nei quali, per le specifiche caratteristiche morfologiche, la caccia va limitata; dall'altro lato, nell'ottica della massima certezza e trasparenza, prevede che, con decreto interministeriale, si proceda all'individuazione cartografica dei…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 414,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00050.int00040"
   },
@@ -1938,7 +2434,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega Bergamini, per avermi dato la possibilità di illustrare quanto il Governo Meloni sta facendo per la filiera della pasta italiana e, di conseguenza, anche per i produttori di grano, che è alla base della maggior parte della produzione italiana, anche con riferimento ovviamente al grano prodotto in Italia, oltre a quello importato. […]",
+   "sunto": "Il mercato degli Stati Uniti è il secondo mercato di riferimento per la pasta italiana, dopo la Germania, e per tale motivo seguiamo con grande attenzione i dossier legati alle azioni anti-dumping dell'amministrazione americana, che potrebbero imporre gravi penalizzazioni ai nostri produttori.",
+   "temi": [],
    "parole": 406,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00060.int00040"
   },
@@ -1951,7 +2448,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Il Governo Meloni è impegnato nella difesa della filiera della pasta nazionale: un comparto fondamentale per l'agroalimentare italiano. La leadership produttiva e del commercio mondiale della pasta italiana è indiscussa. L'Italia è il primo produttore, con una quota del 24 per cento, seguita da Stati Uniti e Turchia, entrambi con il 12. […]",
+   "sunto": "Gli Stati Uniti svolgono un ruolo di primo piano in questo contesto, essendo il secondo mercato di sbocco per la pasta di semola secca italiana, con una quota del 13 per cento sui volumi complessivi, dopo la Germania.",
+   "temi": [],
    "parole": 481,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00070.int00040"
   },
@@ -1964,7 +2462,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie, onorevole Caretta e ringrazio il gruppo di Fratelli d'Italia per aver posto un argomento sottolineando anche quanto il Governo Meloni ha messo in campo in termini di risorse, risultando essere il Governo che nella storia repubblicana ha investito di più nel settore dell'agricoltura. […]",
+   "sunto": "Nel quinto bando, il bando filiere, passiamo da 690 milioni di euro a 4 miliardi e 690 milioni di euro. […] Si vanno ad aggiungere altri 90 milioni di euro per garantire mezzi di produzione più sicuri per i nostri agricoltori, così come i fondi per lo sviluppo della logistica e i fondi garantiti con 450 milioni di euro alla sovranità alimentare per garantire la resilienza del settore.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 482,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00080.int00040"
   },
@@ -1977,7 +2479,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio il collega Forattini per l'interrogazione e anche per aver sottolineato puntualmente che il nostro Governo, con 15 miliardi di stanziamento, è il Governo che, nella storia repubblicana, ha investito di più sull'agricoltura e su un settore che riteniamo entrambi primario. Ci sono alcune cose, però, che sono un po' imprecise, e le vado a sottolineare. […]",
+   "sunto": "La riduzione delle esportazioni totali dell'Italia verso gli USA registrate nel mese di agosto è vero che segna un meno 21 per cento - erano i giorni della trattativa, che si è conclusa il 27 luglio tra l'Europa, che ha la delega per le trattative sul commercio estero, e gli Stati Uniti -, però…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 586,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00050.int00040"
   },
@@ -1990,7 +2495,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Colucci, per l'interrogazione su un'iniziativa di grande successo, il servizio civile agricolo. Non lo diciamo noi, ma i dati parlano chiaro: si tratta di una misura, infatti, che si inserisce nella più ampia attenzione che il Governo Meloni riserva alle nuove generazioni tramite l'istituto del servizio civile universale. […]",
+   "sunto": "Nel 2024 è stata avviata la fase di sperimentazione con l'avviso rivolto agli enti iscritti all'albo del servizio civile universale, che ha consentito di finanziare 82 progetti afferenti a 22 programmi, coinvolgendo 1.057 operatori volontari.",
+   "temi": [],
    "parole": 418,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00060.int00040"
   },
@@ -2003,7 +2509,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'onorevole collega e il gruppo di Fratelli d'Italia, perché mi danno la possibilità di riferire sull'attività di Agea che, negli ultimi due anni, ha mostrato un netto miglioramento operativo e una forte discontinuità rispetto al passato. […]",
+   "sunto": "Per rendersene conto è sufficiente porre a confronto i dati di pagamento dell'Agenzia negli anni 2020, 2021 e 2022 con quelli relativi al 2023 e 2024 (fase di nuova gestione), in materia di aiuti diretti, sviluppo rurale e interventi settoriali (per esempio, vino e olio).",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 448,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00070.sub00070.int00040"
   },
@@ -2016,7 +2525,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie al gruppo di Fratelli d'Italia per aver ricordato che oggi è una giornata straordinaria per la nostra Nazione. La nostra cucina, la cucina italiana, ha ottenuto il riconoscimento di patrimonio immateriale dell'umanità da parte dell'UNESCO. […]",
+   "sunto": "L'Italia conferma la sua leadership nell'agroalimentare, come certificano i dati recentemente presentati nel report Ismea: primo Paese in Europa per valore aggiunto agricolo, in forte crescita sia in valore che in volume; terza in Europa per valore aggiunto dell'industria alimentare; crescita…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 486,
    "url": "https://www.camera.it/leg19/410?idSeduta=0581&tipo=stenografico#sed0581.stenografico.tit00050.sub00070.int00040"
   },
@@ -2029,7 +2541,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Intervengo per ringraziare tutti i gruppi parlamentari. Dalle dichiarazioni di voto, mi è parso di comprendere che non ci saranno voti contrari su un provvedimento che, oggi, nella giornata di tutela del made in Italy , segna un risultato storico. […]",
+   "sunto": "Su questo ci siamo trovati con il mondo associativo, anche per correggere le questioni e le distorsioni che potrebbero derivare da sanzioni eccessive o irrilevanti, come purtroppo le Forze dell'ordine ci segnalavano rispetto ad alcune fattispecie di reato o ad alcune azioni illecite.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 646,
    "url": "https://www.camera.it/leg19/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00040.sub00110.int00200"
   },
@@ -2042,7 +2557,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie alla collega Marino per aver posto il problema. L'Europa ha la competenza per affrontare questi temi. L'Italia, prima, il 7 gennaio, da sola, oggi con la Francia ha chiesto all'Europa di agire. È per questo che, in ogni luogo, comprese le straordinarie manifestazioni come Vinitaly, continuiamo a richiamare l'Europa alle sue responsabilità. […]",
+   "sunto": "Quando parliamo di fertilizzanti, oggi l'Europa può metterci nella condizione di trovare soluzioni adeguate e l'Italia si fa promotrice di queste soluzioni.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 402,
    "url": "https://www.camera.it/leg19/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00060.sub00050.int00040"
   },
@@ -2055,7 +2573,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Ringrazio il gruppo di Fratelli d'Italia. Oggi è stata approvata una legge straordinaria con un solo voto contrario in Parlamento: la maggioranza di centrodestra ha votato a favore, alcune forze politiche dell'opposizione si sono astenute, dicendo che si poteva fare di più, e c'è stato un voto contrario, che non so a chi attribuire. […]",
+   "sunto": "Oggi è stata approvata una legge straordinaria con un solo voto contrario in Parlamento: la maggioranza di centrodestra ha votato a favore, alcune forze politiche dell'opposizione si sono astenute, dicendo che si poteva fare di più, e c'è stato un voto contrario, che non so a chi attribuire.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 378,
    "url": "https://www.camera.it/leg19/410?idSeduta=0644&tipo=stenografico#sed0644.stenografico.tit00060.sub00060.int00040"
   },
@@ -2068,7 +2589,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega Cavandoli, mi permette di specificare e spiegare anche qual è la posizione di una Nazione come l'Italia, che ha una forte vocazione all' export , come lei stessa ricordava. È logico guardare con favore, da questo punto di vista, agli accordi internazionali con i quali si eliminano le barriere tariffarie e non tariffarie, anche con riferimento al Mercosur, che consente il progressiv […]",
+   "sunto": "È logico guardare con favore, da questo punto di vista, agli accordi internazionali con i quali si eliminano le barriere tariffarie e non tariffarie, anche con riferimento al Mercosur, che consente il progressivo abbattimento dei dazi per prodotti come vino, olio extravergine di oliva, formaggi,…",
+   "temi": [
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 456,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00090.int00080"
   },
@@ -2081,7 +2606,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega Malaguti, ringrazio il gruppo di Fratelli d'Italia per aver sottolineato come il nostro Governo sia il Governo che più ha investito nel settore primario, proprio per garantire una resilienza delle nostre imprese anche in fasi difficili come l'attuale. E siamo intervenuti anche nell'attuale con risorse che possono calmierare l'aumento dei costi di produzione. […]",
+   "sunto": "Al riguardo, con il decreto-legge del 26 maggio scorso, è stato previsto un credito d'imposta del 30 per cento, a beneficio delle imprese agricole, per l'acquisto di fertilizzanti nei mesi di marzo, aprile e maggio, con uno stanziamento di 40 milioni di euro.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 564,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00100.int00040"
   },
@@ -2094,7 +2623,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie Presidente. Intervengo su queste identiche proposte emendative nello specifico per tranquillizzare tutti. Allora abbiamo, come la collega Evi forse saprà, portato avanti un intervento che da anni, prima che arrivasse il nostro Governo, giaceva inevaso normando sulla vicenda dei pulcini maschi, per l'ovo selezione, ovviamente non facendo gravare questo intervento sulle imprese italiane. […]",
+   "sunto": "E chiudo (Proteste dei deputati dei gruppi Partito Democratico-Italia Democratica e MoVimento 5 Stelle ) …e chiudo se mi permette, visto che di chiacchiere ne ho sentite tante anche questa mattina (Proteste dei deputati del gruppo Partito Democratico-Italia Democratica e MoVimento 5 Stelle ) ……",
+   "temi": [],
    "parole": 850,
    "url": "https://www.camera.it/leg19/410?idSeduta=0701&tipo=stenografico#sed0701.stenografico.tit00070.sub00090.int00120"
   },
@@ -2107,7 +2637,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Domanda: mica avete fretta, no? Io non ne ho. Sto qui con voi tutto il tempo (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle). Collega Gadda, lei mi ha posto … Mi fa parlare? Grazie, collega Gadda. […]",
+   "sunto": "Sto qui con voi tutto il tempo (Applausi dei deputati del gruppo Fratelli d'Italia - Proteste di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista e MoVimento 5 Stelle).",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 419,
    "url": "https://www.camera.it/leg19/410?idSeduta=0701&tipo=stenografico#sed0701.stenografico.tit00070.sub00090.int00480"
   },
@@ -2120,7 +2653,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega, il Governo Meloni ha posto tra i suoi obiettivi principali il sostegno al comparto agricolo e della pesca con fatti molto concreti. Oltre 17 miliardi di euro stanziati per il settore primario: una cifra che non trova precedenti nella storia repubblicana. L'Italia è tornata protagonista sui tavoli europei. […]",
+   "sunto": "Ma su quel palco forse si sarà reso conto che c'era l'assessore di Fratelli d'Italia Giancarlo Righini e che gli agricoltori hanno ringraziato lo stesso per un piano straordinario di 45 milioni di euro per portare il costo del carburante nella regione Lazio a circa un euro.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 531,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00050.int00060"
   },
@@ -2133,7 +2669,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie ai colleghi di Fratelli d'Italia per avere nuovamente posto una questione cercando di argomentare, a differenza di altri gruppi, gli elementi che possono essere di sostegno al nostro mondo produttivo. Il Governo Meloni ha posto al centro del suo interesse l'agricoltura e la pesca fin dal primo giorno . […]",
+   "sunto": "Abbiamo garantito a 547.000 agricoltori italiani un intervento sui fertilizzanti con 136 milioni di euro, per intervenire sull'aumento dei rincari su produzioni che l'Europa ha smesso di realizzare in maniera cieca nel tempo e che oggi abbiamo bisogno di comprare e dobbiamo tornare a produrre.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 546,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00060.int00040"
   },
@@ -2146,7 +2686,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Cavo, per aver illustrato quello che è stato un intervento che il Governo ha pensato fin dal suo insediamento. Già nella prima finanziaria, finanziammo la carta “Dedicata a te” per aiutare le famiglie che erano in difficoltà a rimanere in una fascia di acquisti, soprattutto di qualità. […]",
+   "sunto": "Quando siamo arrivati, c'erano solo 5 milioni di euro per garantire beni alle famiglie in grande difficoltà, attraverso il Terzo settore. […] Abbiamo messo 50 milioni di euro l'anno, strutturali, che permettono di acquisire sempre generi alimentari italiani per dare qualità alle famiglie meno abbienti e dare risorse anche alle nostre filiere di produzione.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00070.int00040"
   },
@@ -2159,7 +2702,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Agricoltura, della sovranità alimentare e delle foreste",
    "gruppo": null,
-   "estratto": "Grazie, collega Gadda, intanto perché mi permette di esprimere la mia solidarietà alle aziende agricole che in questi giorni si trovano in difficoltà anche a causa dei blocchi stradali che avvengono nelle regioni del Sud e, con loro, alla distribuzione, ai trasformatori e ai cittadini, che rischiano di vedere i prezzi crescere ancora di più al carrello per la mancanza di generi o per la necessità della distribuzione […]",
+   "sunto": "Facciamo parlare i numeri: nel triennio 2023-2025, il Governo Meloni ha stanziato complessivamente 55,3 miliardi di euro, vale a dire il 46 per cento di risorse in più rispetto al triennio precedente.",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti"
+   ],
    "parole": 686,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00100.int00040"
   }
