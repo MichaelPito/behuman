@@ -41,7 +41,7 @@ ORDINE = ("abolizione", "riduzione", "aumento")
 FORMA_RICHIESTA = re.compile(r"[a-zàèéìòù]+?(are|ere|ire|arl[aei]|erl[aei]|irl[aei]|arne|erne|irne|iamo|eremo|iremo|aremo|remo|rò)")
 SEGNALI = re.compile(
     r"\b(chiediamo|chiedo|proponiamo|propongo|vogliamo|voglio|dobbiamo|bisogna|occorre|serve|servono|è necessario|"
-    r"pretendiamo|ci impegniamo|mi impegno|faremo|nostra proposta|l'unica soluzione|è ora di|basta con)\b",
+    r"pretendiamo|ci impegniamo|mi impegno|faremo|nostra proposta|l'unica soluzione|è ora di|basta con|vanno|va|devono essere|deve essere)\b",
     re.I,
 )
 
@@ -153,6 +153,26 @@ def frasi_governo_it(interventi: list[dict], temi: list[Tema]) -> list[dict]:
                     r = t.richiesta(f)
                     out.append({"tema": t.id, "data": x["data"], "fonte": "Intervento pubblicato su governo.it", "frase": _taglia(f),
                                 "url": x["url"], "direzione": r[0] if r else None, "verbo": r[1] if r else None})
+    return out
+
+
+def frasi_manuali(temi: list[Tema]) -> dict[str, list[dict]]:
+    """Frasi aggiunte a mano in contenuti/impegni.yaml (video e post non coperti dalle fonti automatiche)."""
+    p = cfgmod.CONTENUTI / "impegni.yaml"
+    if not p.exists():
+        return {}
+    per_id = {t.id: t for t in temi}
+    out: dict[str, list[dict]] = collections.defaultdict(list)
+    for v in yaml.safe_load(p.read_text(encoding="utf-8")) or []:
+        mancano = [k for k in ("politico", "tema", "data", "frase", "url", "fonte", "verifica") if not v.get(k)]
+        if mancano or v["tema"] not in per_id:
+            raise ValueError(f"contenuti/impegni.yaml: voce incompleta {v.get('frase', '')[:40]!r} (mancano: {mancano or 'tema valido'})")
+        r = per_id[v["tema"]].richiesta(v["frase"])
+        out[v["politico"]].append({
+            "tema": v["tema"], "data": str(v["data"]), "fonte": v["fonte"], "frase": v["frase"], "url": v["url"],
+            "testo_pubblicato": v.get("testo_pubblicato"), "verifica_note": v["verifica"],
+            "direzione": r[0] if r else None, "verbo": r[1] if r else None, "manuale": True,
+        })
     return out
 
 
@@ -297,8 +317,13 @@ def testo_esito(tema: Tema, conta: collections.Counter, dal: str, misure: list[d
     for m in misure:
         v = m["variazione_dall_incarico"]
         segno = "+" if v and v > 0 else ""
-        parti.append(f"{m['nome']}: {_fmt(m['all_incarico']['valore'], m['unita'])} all'inizio dell'incarico, "
-                     f"{_fmt(m['oggi']['valore'], m['unita'])} {_quando(m)} ({segno}{str(v).replace('.', ',')}%).")
+        riga = (f"{m['nome']}: {_fmt(m['all_incarico']['valore'], m['unita'])} all'inizio dell'incarico, "
+                f"{_fmt(m['oggi']['valore'], m['unita'])} {_quando(m)} ({segno}{str(v).replace('.', ',')}%)")
+        p = m.get("alla_prima_richiesta")
+        vp = m.get("variazione_dalla_prima_richiesta")
+        if p and vp is not None and p["data"] < str(int(dal[:4]) - 1) + dal[4:]:
+            riga += f"; rispetto alla prima richiesta ({_data(p['data'])}: {_fmt(p['valore'], m['unita'])}) {'+' if vp > 0 else ''}{str(vp).replace('.', ',')}%"
+        parti.append(riga + ".")
     parti.append(f"Leggi del Governo con il tema nel titolo da allora: {len(leggi)}." if leggi else "Nessuna legge del Governo con il tema nel titolo da allora.")
     return " ".join(parti)
 
@@ -329,6 +354,7 @@ def costruisci(ctx, politici: list[dict]) -> dict:
             x["direzione"], x["verbo"] = (r[0], r[1]) if r else (None, None)
     pagella = {} if ctx.offline else frasi_pagella({p["slug"] for p in politici}, temi)
     programmi = frasi_programmi(temi)
+    manuali = frasi_manuali(temi)
     governo = json.loads((ctx.out / "governo.json").read_text(encoding="utf-8")) if (ctx.out / "governo.json").exists() else {}
     leggi_gov = [l for l in governo.get("leggi", []) if l.get("del_governo")]
 
@@ -339,7 +365,7 @@ def costruisci(ctx, politici: list[dict]) -> dict:
             continue
         dal, carica = inc
         slug = p["slug"]
-        tutte = camera.get(slug, []) + pagella.get(slug, [])
+        tutte = camera.get(slug, []) + pagella.get(slug, []) + manuali.get(slug, [])
         if carica.lower().startswith("presidente del consiglio"):  # anche gli interventi pubblicati da Palazzo Chigi
             dich = json.loads((ctx.out / "dichiarazioni" / f"{slug}.json").read_text(encoding="utf-8")) if (ctx.out / "dichiarazioni" / f"{slug}.json").exists() else {}
             gov_it = _unisci_frasi({slug: frasi_governo_it(dich.get("governo", []), temi)}, archivio.get("governo_it", {}))

@@ -1,0 +1,16 @@
+# Frasi «prima dell'incarico» aggiunte a mano, quando la fonte originale è un video o un post
+# che le fonti automatiche non coprono. Ogni voce deve avere:
+#   politico, tema (id di config/impegni.yaml), data, frase (parole esatte), url (fonte originale),
+#   fonte (descrizione), verifica (come è stata controllata la frase: almeno due riscontri indipendenti).
+# La frase passa comunque dalle stesse regole automatiche degli altri testi (deve contenere una richiesta).
+
+- politico: giorgia-meloni
+  tema: accise-carburanti
+  data: 2019-05-06
+  frase: "Noi pretendiamo che le accise vengano progressivamente abolite"
+  url: https://www.youtube.com/watch?v=xYMUibdBoic&t=50s
+  fonte: Video «Giorgia Meloni - Niente scherzi! Aumenti previsti vanno bloccati e accise esistenti vanno abolite», canale YouTube ufficiale di Fratelli d'Italia (campagna per le elezioni europee 2019)
+  testo_pubblicato: "Niente scherzi! Gli aumenti previsti vanno bloccati e le accise esistenti vanno progressivamente abolite."
+  verifica:
+    - "Descrizione pubblicata con il video sul canale ufficiale di Fratelli d'Italia (data di pubblicazione: 6 maggio 2019)"
+    - "Trascrizione di Pagella Politica, minuto 0:50: https://pagellapolitica.it/fact-checking/meloni-abolizione-accise-benzina"
