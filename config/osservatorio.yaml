@@ -1,0 +1,34 @@
+# Osservatorio: notizie, polemiche e affermazioni sui politici monitorati, confrontate con i dati.
+# Regole uguali per tutti. Cambiarle = proposta pubblica (issue o PR).
+
+# un titolo è una «polemica» se contiene una di queste parole
+polemica: '\b(polemic\w*|bufera|scontro|attacc\w*|insorg\w*|accus\w*|gaffe|indignazion\w*|critich\w*|sfott\w*|caos|furia|ira|insult\w*|offes\w*|scuse|dimission\w*|scandalo|smentit\w*|replica|contestat\w*)\b'
+# …ed è «nata sui social» se contiene anche una di queste
+social: '\b(social|post|video|tweet|instagram|tiktok|facebook|virale|meme|reel|youtube|diretta)\b'
+# polemica «virale»: la stessa storia ripresa da almeno tante testate diverse in 3 giorni
+testate_virale: 3
+
+# affermazioni misurabili: direzione dichiarata di un indicatore.
+# La parola di direzione deve stare attaccata alla parola del tema (entro 30 caratteri, senza virgole
+# né «che» in mezzo): «sbarchi dimezzati», «ha aumentato le accise».
+affermazioni:
+  diminuzione: '\b(ridott\w*|tagliat\w*|dimezzat\w*|diminuit\w*|calat\w*|in calo|scese|scesi|sceso|crollat\w*|abbassat\w*|azzerat\w*|giù)'
+  aumento: '\b(aumentat\w*|cresciut\w*|salit\w*|raddoppiat\w*|alzat\w*|rincarat\w*|in aumento|impennat\w*)\b'
+  assenza: '\b(assent\w*|assenze|non (va|vota|si presenta) in aula|diserta\w*|mai in aula|poche presenze)\b'
+
+# proposizioni del database (config/temi.yaml): parole che le riconoscono in una frase e
+# parole che indicano da che parte sta chi parla. Senza una parola di posizione la frase
+# viene solo collegata al tema, senza dire se è coerente o no.
+proposizioni:
+  ucraina-cessione-armi:
+    parole: '\b(armi|militari|aiuti militari|forniture)\b[^.]{0,60}\bucrain\w*|\bucrain\w*[^.]{0,60}\b(armi|militari|aiuti militari|forniture)\b'
+    a_favore: '\b(continuer\w*|sosterr\w*|sostegno|sosteniamo|al fianco|non lasceremo|giusto|necessari\w*)\b'
+    contro: '\b(basta|stop|no all[ae]?|contrari\w*|fermare|smettere|non più|sbagliat\w*)\b'
+  autonomia-differenziata-legge-calderoli:
+    parole: '\bautonomia differenziata\b'
+    a_favore: '\b(riforma storica|avanti|bene|giusta|sosteniamo|attuare|realizzat\w*|approvat\w*)\b'
+    contro: '\b(spacca\w*|contrari\w*|no all[ae]?|abrog\w*|referendum contro|sbagliat\w*|fermare)\b'
+  separazione-carriere:
+    parole: '\bseparazione delle carriere\b'
+    a_favore: '\b(riforma storica|avanti|sì\b|votate sì|giusta|sosteniamo|necessari\w*)\b'
+    contro: '\b(votate no|no alla|contrari\w*|sbagliat\w*|attacco alla magistratura|pericolos\w*)\b'

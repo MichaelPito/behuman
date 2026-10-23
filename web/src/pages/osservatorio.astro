@@ -1,0 +1,119 @@
+---
+import Base from "../layouts/Base.astro";
+import FiltroLista from "../components/FiltroLista.astro";
+import Icon from "../components/Icon.astro";
+import Storia from "../components/Storia.astro";
+import { dataIt, ESITO_VERIFICA, osservatorio, perCognome } from "../lib/data";
+import { u } from "../lib/url";
+
+const o = osservatorio();
+const pol = Object.values(o.politici).sort(perCognome);
+const storie = pol.flatMap((p) => p.storie.map((s) => ({ ...s, slug: p.slug, nome: p.nome, schieramento: p.schieramento })))
+  .sort((a, b) => b.data.localeCompare(a.data) || b.n_testate - a.n_testate);
+const fc = pol.flatMap((p) => p.fact_check.map((f) => ({ ...f, slug: p.slug, nome: p.nome })))
+  .sort((a, b) => b.data.localeCompare(a.data));
+const conta = (f: (s: (typeof storie)[number]) => boolean) => storie.filter(f).length;
+const contrasto = (s: (typeof storie)[number]) => s.confronti.some((c) => c.esito === "in_contrasto");
+const gruppi = [
+  {
+    chiave: "tipo",
+    titolo: "Tipo",
+    opzioni: [
+      ["polemica", "Polemiche", conta((s) => s.polemica)],
+      ["social", "Nate sui social", conta((s) => s.social)],
+      ["virale", "Riprese da 3+ testate", conta((s) => s.virale)],
+      ["citazione", "Con sue parole tra virgolette", conta((s) => s.citazioni.length > 0)],
+      ["verifica", "Confrontate con i dati", conta((s) => s.verifiche.length > 0)],
+      ["contrasto", "In contrasto con posizioni o promesse", conta(contrasto)],
+    ] as [string, string, number][],
+  },
+  { chiave: "schieramento", titolo: "Schieramento", opzioni: [["governo", "Maggioranza", conta((s) => s.schieramento === "governo")], ["opposizione", "Opposizione", conta((s) => s.schieramento === "opposizione")]] as [string, string, number][] },
+  { chiave: "politico", titolo: "Politico", opzioni: pol.map((p) => [p.slug, p.nome, conta((s) => s.slug === p.slug)] as [string, string, number]) },
+];
+const tipi = (s: (typeof storie)[number]) =>
+  [s.polemica && "polemica", s.social && "social", s.virale && "virale", s.citazioni.length && "citazione", s.verifiche.length && "verifica", contrasto(s) && "contrasto"].filter(Boolean).join(" ");
+const tot = { storie: storie.length, polemiche: conta((s) => s.polemica), virali: conta((s) => s.virale), fc: fc.length };
+---
+<Base title="Notizie e polemiche" description="Ogni giorno: notizie e polemiche sui politici monitorati, confrontate con le loro posizioni documentate e con i dati ufficiali.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Ogni giorno · aggiornato il {dataIt(o.aggiornato_il?.slice(0, 10))}</span>
+      <h1>Notizie e <span class="grad">polemiche</span></h1>
+      <p class="muted prose">
+        Raccogliamo ogni giorno i titoli delle notizie sui politici monitorati e li raggruppiamo per storia: quante più testate la riprendono, più è
+        diffusa. Quando un titolo riporta le loro parole o un'affermazione misurabile («sbarchi dimezzati», «accise aumentate») la confrontiamo con
+        le posizioni già documentate e con i dati ufficiali, con regole fisse. Le verifiche dei fact-checker sui contenuti virali sono riportate con il
+        loro giudizio. <a href={u("/faq/#polemiche")}>Come funziona</a>
+      </p>
+    </div>
+    <div class="stats">
+      <div class="stat"><span class="v">{tot.storie}</span><span class="l">storie raccolte (notizie degli ultimi 45 giorni e polemiche in archivio)</span></div>
+      <div class="stat"><span class="v">{tot.polemiche}</span><span class="l">polemiche</span></div>
+      <div class="stat"><span class="v">{tot.virali}</span><span class="l">storie riprese da almeno 3 testate</span></div>
+      <div class="stat"><span class="v">{tot.fc}</span><span class="l">verifiche dei fact-checker su frasi e contenuti virali</span></div>
+    </div>
+  </section>
+
+  {fc.length > 0 && (
+    <section class="section" id="fact-check">
+      <div class="section-head"><h2>Contenuti virali verificati</h2><span class="small muted">dal più recente</span></div>
+      <p class="muted small prose">Frasi e contenuti circolati molto, verificati da Facta, Open o Pagella Politica. Il giudizio è del fact-checker; sotto, quando possibile, il nostro confronto automatico con i dati ufficiali.</p>
+      <div class="grid fc">
+        {fc.slice(0, 18).map((f) => (
+          <article class="card fc-card">
+            <div class="row" style="gap:6px">
+              <a class="chi" href={u(`/politici/${f.slug}/`)}>{f.nome}</a>
+              <span class="tiny mono muted">{dataIt(f.data)}</span>
+              <span class="pill sky">{f.fonte}</span>
+            </div>
+            <p class="titolo">{f.titolo}</p>
+            {f.giudizio && <p class="small">Giudizio di {f.fonte}: <strong>{f.giudizio}</strong></p>}
+            {f.verifica_dati && (
+              <p class:list={["small", "dati", ESITO_VERIFICA[f.verifica_dati.esito]?.[1]]}>
+                Confronto con i dati: <strong>{ESITO_VERIFICA[f.verifica_dati.esito]?.[0]}</strong>
+                {f.verifica_dati.misure?.map((m) => <span class="tiny"> · {m.nome} {m.variazione > 0 ? "+" : ""}{m.variazione.toLocaleString("it-IT")}% ({dataIt(m.da.data)} → {dataIt(m.a.data)})</span>)}
+              </p>
+            )}
+            <div class="row" style="gap:12px">
+              <a class="small" href={f.url} target="_blank" rel="noopener">Verifica <Icon name="ext" class="tiny" /></a>
+              {f.fonte_originale && <a class="small" href={f.fonte_originale} target="_blank" rel="noopener">Fonte originale <Icon name="ext" class="tiny" /></a>}
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="section" id="storie">
+    <div class="section-head"><h2>Le storie</h2><span class="small muted">dalla più recente</span></div>
+    {storie.length === 0 ? <p class="callout neutral">Ancora nessuna notizia raccolta: arriveranno con il prossimo aggiornamento quotidiano.</p> : (
+      <>
+        <FiltroLista id="storie" gruppi={gruppi} predefiniti={{ tipo: ["polemica", "virale", "verifica", "contrasto"] }} placeholder="Cerca nei titoli: carceri, accise, Ucraina…" nome={["storia", "storie"]} limite={30}
+          nota="All'apertura vedi polemiche, storie molto riprese, affermazioni confrontate con i dati e frasi in contrasto: togli i filtri per vedere tutte le notizie." />
+        <div class="lista" data-lista="storie">
+          {storie.map((s) => (
+            <div data-item data-testo={`${s.titolo} ${s.citazioni.join(" ")} ${s.nome}`} data-f-tipo={tipi(s)} data-f-schieramento={s.schieramento} data-f-politico={s.slug}>
+              <Storia s={s} mostraNome />
+            </div>
+          ))}
+        </div>
+        <button type="button" class="btn ghost altri" data-altri="storie" hidden>Mostra altre</button>
+        <p class="callout neutral" data-vuoto="storie" hidden>Nessuna storia corrisponde a questi filtri.</p>
+      </>
+    )}
+  </section>
+</Base>
+
+<style>
+  .fc { grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); align-items: start; }
+  .fc-card { display: grid; gap: 8px; padding: 16px; border-top: 3px solid var(--sky); }
+  .fc-card .chi { font-weight: 700; color: var(--ink); text-decoration: none; }
+  .titolo { font: 500 1rem/1.45 var(--f-display); margin: 0; }
+  .dati { padding: 8px 10px; border-radius: 8px; background: var(--surface-2); margin: 0; }
+  .dati.accent { background: var(--accent-wash); }
+  .dati.plum { background: var(--plum-wash); }
+  .dati.sky { background: var(--sky-wash); }
+  .dati.sun { background: var(--sun-wash); }
+  .lista { display: grid; gap: 12px; margin-top: 16px; }
+  .altri { margin-top: 14px; }
+</style>

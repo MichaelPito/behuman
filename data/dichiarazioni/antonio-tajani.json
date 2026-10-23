@@ -276,7 +276,8 @@
    "frase": "Pace fiscale è: “Tu devi mille euro allo Stato, decidi di pagare domani mattina: ne paghi 500 [...]”. È una pace fiscale, perché tu paghi, il condono vuol dire che non paghi nulla",
    "url": "https://pagellapolitica.it/fact-checking/tajani-pace-fiscale-condono",
    "fonte_originale": "https://www.la7.it/la-corsa-al-voto/rivedila7/la-corsa-al-voto-puntata-del-10082022-11-08-2022-448017",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "L’affermazione del vicepresidente di Forza Italia è fuorviante."
   },
   {
    "data": "2022-11-16",
@@ -284,7 +285,8 @@
    "frase": "L’Africa avrà 3 miliardi di abitanti nel 2030",
    "url": "https://pagellapolitica.it/fact-checking/tajani-popolazione-africa-2030",
    "fonte_originale": "https://www.ilgiornale.it/news/politica/codice-tajani-ong-salvino-vite-umane-non-facciano-i-taxi-dei-2085667.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La stima del ministro degli Esteri è esagerata."
   },
   {
    "data": "2023-05-01",
@@ -292,7 +294,8 @@
    "frase": "Siamo il Paese che cresce di più in Europa",
    "url": "https://pagellapolitica.it/fact-checking/crescita-pil-italia-ue-2023",
    "fonte_originale": "https://www.liberoquotidiano.it/news/politica/35668417/antonio-tajani-gela-elly-schlein-perde-voti-moderati-vengono-noi.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I dati finora a disposizione dicono che Tajani esagera."
   },
   {
    "data": "2023-07-10",
@@ -300,7 +303,8 @@
    "frase": "Nel programma di Alternative für Deutschland c’è l’uscita dall’euro e in quello della Le Pen si ipotizza l’uscita dalla Nato",
    "url": "https://pagellapolitica.it/fact-checking/tajani-lega-afd-le-pen-uscita-euro-nato",
    "fonte_originale": "https://www.liberoquotidiano.it/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il vicepresidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "data": "2024-08-21",
@@ -308,7 +312,8 @@
    "frase": "Non c’è stata nessuna trasformazione di Forza Italia, lo ius scholae lo voleva già Berlusconi",
    "url": "https://pagellapolitica.it/fact-checking/tajani-berlusconi-ius-scholae",
    "fonte_originale": "https://www.repubblica.it/politica/2024/08/21/news/antonio_tajani_intervista_ius_scholae-423455065/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro degli Esteri ha sostanzialmente ragione"
   },
   {
    "data": "2025-02-17",
@@ -316,7 +321,8 @@
    "frase": "Siamo il Paese che, dopo gli Stati Uniti, ha il maggior numero di uomini e mezzi impegnati nelle missioni Nato",
    "url": "https://pagellapolitica.it/fact-checking/italia-seconda-truppe-nato-tajani",
    "fonte_originale": "https://www.lastampa.it/esteri/2025/02/17/news/antonio_tajani_non_si_fa_la_pace_senza_europa-15006978/?ref=LSHA-BH-P1-S1-T1",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro degli Esteri ha sostanzialmente ragione."
   },
   {
    "data": "2026-03-17",
@@ -324,7 +330,8 @@
    "frase": "L’attuale ordinamento giudiziario è quello voluto dal fascismo, cioè il processo dove l’imputato è considerato colpevole, dove c’è l’unione delle carriere, cioè la carriera dei magistrati giudicanti è la stessa della pubblica accusa.",
    "url": "https://pagellapolitica.it/fact-checking/lattuale-ordinamento-giudiziario-e-quello-voluto-dal-fascismo-cioe-il-processo-dove-limputato-e-considerato-colpevole-dove-ce-lunione-delle-carriere-cioe-la-carr",
    "fonte_originale": "https://www.facebook.com/share/v/18CfwiAjEc/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": null
   },
   {
    "data": "2026-05-09",
@@ -332,7 +339,8 @@
    "frase": "L’Italia è il Paese che dà il maggiore contributo alle operazioni di pace internazionali, sia con l’Onu che con la Nato",
    "url": "https://pagellapolitica.it/fact-checking/litalia-e-il-paese-che-da-il-maggiore-contributo-alle-operazioni-di-pace-internazionali-sia-con-lonu-che-con-la-nato",
    "fonte_originale": "https://www.esteri.it/it/sala_stampa/archivionotizie/interviste/2026/05/tajani-noi-solidi-alleati-non-con-un-leader-ma-con-lamerica/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-06-21",
@@ -340,7 +348,8 @@
    "frase": "Il nostro export ha superato quello del Giappone, nonostante guerre e dazi",
    "url": "https://pagellapolitica.it/fact-checking/il-nostro-export-ha-superato-quello-del-giappone-nonostante-guerre-e-dazi",
    "fonte_originale": "https://roma.corriere.it/notizie/politica/26_giugno_21/tajani-intervista-italia-non-suddita-8d28e373-2af7-4cfd-8a23-8bcf69afcxlk.shtml#:~:text=L%E2%80%99Italia%20ha%20superato,il%20nostro%20Paese%C2%BB.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-07-30",
@@ -348,7 +357,8 @@
    "frase": "La scelta del governo di Madrid di dare la cittadinanza spagnola (...) ad oltre 500 mila immigrati irregolari è profondamente sbagliata e incentiva il traffico di esseri umani",
    "url": "https://pagellapolitica.it/fact-checking/la-scelta-del-governo-di-madrid-di-dare-la-cittadinanza-spagnola-ad-oltre-500-mila-immigrati-irregolari-e-profondamente-sbagliata-e-incentiva-il-traffico-di-esseri-umani",
    "fonte_originale": "https://x.com/Antonio_Tajani/status/2082898655833432131",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": null
   },
   {
    "data": "2026-09-01",
@@ -356,7 +366,8 @@
    "frase": "(La tassa sugli extraprofitti) è una tassa da cultura comunista, che in Europa non sta mettendo nessuno",
    "url": "https://pagellapolitica.it/fact-checking/la-tassa-sugli-extraprofitti-e-una-tassa-da-cultura-comunista-che-in-europa-non-sta-mettendo-nessuno",
    "fonte_originale": "https://www.corriere.it/politica/26_agosto_31/tajani-c-e-il-pericolo-jihadista-e-agiamo-per-la-nostra-sicurezza-la-ue-a-volte-sbaglia-4cfe6c1d-5cd2-4441-86d2-9f34f2c51xlk.shtml?refresh_ce",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   }
  ],
  "camera": [

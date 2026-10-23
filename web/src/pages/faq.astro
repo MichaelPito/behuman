@@ -11,7 +11,7 @@ const fmt = (n: number | null | undefined) => (n == null ? "n.d." : `${String(n)
 const BREVE: Record<string, string> = {
   presenza: "Presenza al voto", mediana: "Mediana dell'Aula", fedelta: "Voti come il gruppo", cambi: "Cambi di posizione",
   coerenza: "Coerenza", partito: "Posizione dei partiti", orientamento: "Orientamento", sesso: "Sesso", sintesi: "Sintesi",
-  dichiarazioni: "Dichiarazioni", sunto: "Sunto", virali: "Più discusse", promesse: "Prima e dopo l'incarico", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
+  dichiarazioni: "Dichiarazioni", sunto: "Sunto", virali: "Più discusse", polemiche: "Notizie e polemiche", promesse: "Prima e dopo l'incarico", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
 };
 type Q = { id: string; q: string; a: string[]; formula?: string; esempio?: string };
 const gruppi: { titolo: string; voci: Q[] }[] = [
@@ -138,8 +138,21 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         a: [
           "Visualizzazioni e condivisioni sui social non sono accessibili in modo libero e verificabile, e premiano chi ha più follower. Per questo non usiamo «mi piace» né visualizzazioni.",
           "Usiamo un segnale pubblico e controllabile: una dichiarazione è «discussa» quando Pagella Politica, fact-checker indipendente, l'ha scelta per una verifica. Lo fa per le frasi che circolano di più nel dibattito pubblico.",
-          "Riportiamo la frase del politico, la data, dove l'ha detta e i link alla fonte originale e alla verifica. Non riportiamo il giudizio del fact-checker (vero, falso…): resta sul loro sito, a un clic.",
+          "Riportiamo la frase, la data, dove è stata detta, i link alla fonte originale e alla verifica e il giudizio del fact-checker, sempre indicato come suo. Quando la frase è un'affermazione misurabile, aggiungiamo il nostro confronto automatico con i dati ufficiali.",
           "Se la fonte originale è un resoconto della Camera che abbiamo, mostriamo anche il passaggio ufficiale.",
+        ],
+      },
+      {
+        id: "polemiche",
+        q: "Come funziona la pagina «Notizie e polemiche»?",
+        a: [
+          "Ogni giorno raccogliamo da Google News i titoli degli ultimi giorni che nominano ciascun politico monitorato. Non copiamo gli articoli: titolo, testata, data e link.",
+          "I titoli che parlano della stessa storia (molte parole in comune, entro 3 giorni) vengono raggruppati. Il numero di testate diverse è il nostro segnale di diffusione: da 3 in su la storia è «diffusa». Una storia è una «polemica» se i titoli contengono parole come polemica, bufera, scontro, attacco, gaffe; è «nata sui social» se parlano anche di post, video, tweet, Instagram, TikTok. Gli elenchi di parole sono pubblici (config/osservatorio.yaml).",
+          "Le parole del politico vengono prese solo dai titoli che le riportano tra virgolette subito dopo il suo nome («Nordio: “…”»). I titoli con più nomi insieme non vengono attribuiti a nessuno.",
+          "Confronto con i dati: quando una frase afferma che un indicatore è salito o sceso («sbarchi dimezzati», «ha aumentato le accise»), con la parola di direzione attaccata a quella del tema, la confrontiamo con il dato ufficiale dall'inizio del governo al giorno in cui è stata detta. «I dati la confermano» se il dato è andato nella direzione detta (oltre ±1%), «la smentiscono» se è andato nella direzione opposta, «non mostrano variazioni rilevanti» se è rimasto entro ±1%. Per le accuse di assenza in Aula guardiamo la presenza al voto rispetto alla mediana dei colleghi.",
+          "Confronto con le posizioni: se una frase tocca una proposizione del database (es. invio di armi all'Ucraina) e contiene parole che indicano chiaramente da che parte sta, la confrontiamo con la sua ultima posizione documentata (voto o dichiarazione verificata). Se le parole non bastano a capire la posizione, colleghiamo solo il tema e lasciamo il confronto a chi legge. Lo stesso per le promesse fatte prima dell'incarico.",
+          "Contenuti virali verificati: riportiamo le verifiche di Facta, Open e Pagella Politica che riguardano i politici monitorati, con il loro giudizio indicato come loro, e accanto il nostro confronto con i dati quando possibile.",
+          "Sono regole automatiche: possono sbagliare su frasi ironiche o complesse. Ogni voce ha il link alla fonte: se trovi un errore, segnalalo e correggiamo la regola per tutti.",
         ],
       },
       {

@@ -48,9 +48,17 @@ fonti:
     url: https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022
     uso: Impegni presi prima delle elezioni (PDF depositati, programmi completi pubblicati dai partiti)
     licenza: Documenti pubblici; si linka l'originale
+  - nome: Google News
+    url: https://news.google.com/
+    uso: Titoli delle notizie sui politici monitorati, per l'osservatorio quotidiano (solo titolo, testata, data e link)
+    licenza: Si linka l'articolo originale
+  - nome: Facta e Open Fact-checking
+    url: https://www.facta.news/
+    uso: Verifiche di contenuti virali sui social che riguardano i politici monitorati (giudizio attribuito a loro)
+    licenza: Si linka la verifica originale
   - nome: Pagella Politica
     url: https://pagellapolitica.it/
-    uso: Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio
+    uso: Quali dichiarazioni sono state scelte per una verifica («le più discusse»); frase, data, link e loro giudizio, attribuito a loro
     licenza: "Contenuti © Pagella Politica, non ne riproduciamo i testi"
   - nome: Wikidata
     url: https://www.wikidata.org/

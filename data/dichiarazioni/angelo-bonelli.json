@@ -301,7 +301,8 @@
    "frase": "In Francia le centrali sono ferme per la siccità",
    "url": "https://pagellapolitica.it/fact-checking/bonelli-energia-nucleare-siccita",
    "fonte_originale": "https://www.ilgiornale.it/news/politica/lammucchiata-sar-inevitabile-calenda-incompetente-2054518.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il portavoce di Europa Verde esagera"
   },
   {
    "data": "2022-08-23",
@@ -309,7 +310,8 @@
    "frase": "Il consumo di suolo in Italia viaggia a due metri quadri al secondo",
    "url": "https://pagellapolitica.it/fact-checking/consumo-suolo-italia",
    "fonte_originale": "https://www.raiplay.it/video/2022/08/Filorosso---Puntata-del-23082022-13c7d176-a00d-413b-87f2-26e496ea0512.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il dato citato dal co-portavoce di Europa verde è corretto."
   },
   {
    "data": "2022-11-05",
@@ -317,7 +319,8 @@
    "frase": "Nei nostri mari abbiamo solo 37 miliardi di metri cubi di gas, la metà del nostro fabbisogno annuale",
    "url": "https://pagellapolitica.it/fact-checking/quanto-gas-mare-italia-bonelli",
    "fonte_originale": "https://twitter.com/AngeloBonelli1/status/1588780251236433920",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa verde è un po’ impreciso."
   },
   {
    "data": "2022-11-21",
@@ -325,7 +328,8 @@
    "frase": "In Qatar gli omosessuali sono puniti con sette anni di prigione",
    "url": "https://pagellapolitica.it/fact-checking/qatar-carcere-omosessuali-legge",
    "fonte_originale": "https://europaverde.it/2022/11/21/mondiali-qatar/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il co-portavoce di Europa Verde ha sostanzialmente ragione."
   },
   {
    "data": "2022-12-08",
@@ -333,7 +337,8 @@
    "frase": "Le pensioni da 2.100 euro lordi avranno una decurtazione di 100 euro mensili",
    "url": "https://pagellapolitica.it/fact-checking/pensioni-tagli-legge-bilancio-meloni",
    "fonte_originale": "https://twitter.com/europaverde_it/status/1601209186167140354",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa verde sbaglia."
   },
   {
    "data": "2022-12-13",
@@ -341,7 +346,12 @@
    "frase": "Lo sa chi è che ha voluto che l’Italia diventasse un unico porto in Europa? Siete stati voi, la vostra maggioranza, che ha approvato quel Trattato di Dublino",
    "url": "https://pagellapolitica.it/fact-checking/regolamento-dublino-voto-governi-italiani",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il co-portavoce di Europa verde omette alcuni passaggi.",
+   "testo_ufficiale": {
+    "estratto": "Grazie, signor Presidente. Signora Presidente Meloni, oggi, nell'introduzione della sua relazione, lei ha affermato che il suo Governo ha sfatato il racconto disfattista, che veniva fatto all'estero, del nostro Paese. Le voglio ricordare, però, che lei, pochi anni fa, da leader del suo partito, diceva che l'Europa è un comitato di affari e di usurai. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00100"
+   }
   },
   {
    "data": "2022-12-21",
@@ -349,7 +359,8 @@
    "frase": "Un emendamento introduce nella manovra economica la caccia a tutti gli animali nei parchi, nelle città, a ogni ora ed in ogni periodo",
    "url": "https://pagellapolitica.it/fact-checking/legge-bilancio-caccia-cinghiali",
    "fonte_originale": "https://twitter.com/AngeloBonelli1/status/1605469560466915329",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa omette alcuni dettagli essenziali."
   },
   {
    "data": "2023-03-15",
@@ -357,7 +368,12 @@
    "frase": "Il lago di Garda è pieno di acqua solo al 25 per cento, il lago di Como solo al 17 per cento",
    "url": "https://pagellapolitica.it/fact-checking/laghi-garda-como-maggiore-livello-acqua",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il co-portavoce di Europa verde sbaglia a leggere i dati.",
+   "testo_ufficiale": {
+    "estratto": "Grazie, signor Presidente. Signora Presidente Meloni, l'Italia sta subendo una profonda crisi ambientale legata ai cambiamenti climatici, allo smog e alle politiche dannose per il territorio, con conseguenze economiche e sociali elevatissime. Come lei ben sa, la siccità ha portato e porterà una crisi idrica senza precedenti. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0069&tipo=stenografico#sed0069.stenografico.tit00070.sub00020.int00020"
+   }
   },
   {
    "data": "2023-03-24",
@@ -365,7 +381,8 @@
    "frase": "Tutte le industrie automobilistiche del mondo hanno deciso di produrre solo elettrico: chi nel 2030 e chi nel 2035. Stellantis produrrà solo elettrico dal 2030, Volvo 2030, Peugeot 2030, Ford 2030",
    "url": "https://pagellapolitica.it/fact-checking/case-automobolistiche-auto-elettriche-2035",
    "fonte_originale": "https://www.huffingtonpost.it/blog/2023/03/23/news/meloni_non_e_mose_ma_su_clima_ed_energia_non_sa_o_dice_bugie-11653985/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il co-portavoce di Europa verde esagera."
   },
   {
    "data": "2023-04-14",
@@ -373,7 +390,8 @@
    "frase": "Il Def dice che il ponte sullo Stretto costa 14,6 miliardi di euro (Salvini aveva detto 10 miliardi) e che non ci sono soldi a copertura del progetto",
    "url": "https://pagellapolitica.it/fact-checking/def-costo-ponte-stretto",
    "fonte_originale": "https://twitter.com/AngeloBonelli1/status/1646848637761204226",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa verde ha ragione."
   },
   {
    "data": "2023-06-14",
@@ -381,7 +399,8 @@
    "frase": "Quando Aldo Moro fu assassinato dalle Brigate Rosse il giorno dopo i lavori d’aula della Camera e del Senato continuarono",
    "url": "https://pagellapolitica.it/fact-checking/morte-moro-sospensione-parlamento",
    "fonte_originale": "https://twitter.com/AngeloBonelli1/status/1668934814907465730",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa Verde ha ragione."
   },
   {
    "data": "2023-08-28",
@@ -389,7 +408,8 @@
    "frase": "Il mercato della cannabis, in Italia, vale 6 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/bonelli-cannabis-mercato-italia",
    "fonte_originale": "https://www.facebook.com/photo/?fbid=719663043525544&set=a.322876809870838",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il co-portavoce di Europa Verde ha ragione."
   },
   {
    "data": "2023-10-02",
@@ -397,7 +417,8 @@
    "frase": "In questo Paese ci sono 69 persone che hanno patrimoni pari a 233 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/numero-miliardari-italia",
    "fonte_originale": "https://www.raiplay.it/video/2023/09/Restart---Puntata-del-02102023-cd442980-49ca-400c-b308-597990f45c09.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il co-portavoce di Europa Verde è impreciso."
   },
   {
    "data": "2023-10-11",
@@ -405,7 +426,8 @@
    "frase": "A Gaza l’80 per cento delle persone vive in una situazione di deprivazione umana, sociale, di povertà. A Gaza il 47 per cento della popolazione sono bambini",
    "url": "https://pagellapolitica.it/fact-checking/poverta-bambini-striscia-gaza",
    "fonte_originale": "https://www.raiplay.it/video/2023/10/Porta-a-Porta-d89c41f7-a95b-4b7c-9b0c-f16cdf5d600c.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il co-portavoce di Europa Verde ha sostanzialmente ragione."
   }
  ],
  "camera": [

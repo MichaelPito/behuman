@@ -4,10 +4,11 @@ import Cambio from "../../components/Cambio.astro";
 import Coerenza from "../../components/Coerenza.astro";
 import Discussa from "../../components/Discussa.astro";
 import Promesse from "../../components/Promesse.astro";
+import Storia from "../../components/Storia.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import PresenzeChart from "../../components/PresenzeChart.astro";
-import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
+import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, osservatorio, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -25,6 +26,11 @@ const perProp = Object.entries(
 );
 const dich = datiDichiarazioni(p.slug);
 const prom = impegni().politici[p.slug];
+const oss = osservatorio().politici[p.slug];
+// storie da mostrare: prima quelle con confronti o verifiche, poi polemiche e storie molto riprese
+const storieTop = (oss?.storie ?? [])
+  .filter((s) => s.polemica || s.virale || s.verifiche.length || s.confronti.some((c) => c.esito))
+  .slice(0, 5);
 // le tre più recenti tra le più discusse, mostrate in ordine cronologico
 const discusse = (dich?.verificate ?? []).filter((v) => v.data).slice(-3);
 const dichiarazioni = ordinaPerData(p.posizioni.filter((x) => x.tipo === "dichiarazione"));
@@ -54,6 +60,7 @@ const sezioni: [string, string][] = [
   ...(Object.keys(p.parlamento).length ? ([["presenze", "Presenze"], ["voti", "Voti finali"]] as [string, string][]) : []),
   ["posizioni", "Posizioni per tema"],
   ["dichiarazioni", "Dichiarazioni"],
+  ...(oss ? ([["notizie", "Notizie e polemiche"]] as [string, string][]) : []),
   ["atti", "Atti ufficiali"],
 ];
 ---
@@ -230,6 +237,18 @@ const sezioni: [string, string][] = [
       <p class="callout neutral">Nessuna dichiarazione raccolta ancora per {p.nome}. <a href={u("/faq/#dichiarazioni")}>Quali fonti usiamo</a></p>
     )}
   </section>
+
+  {oss && (
+    <section class="section" id="notizie">
+      <div class="section-head"><h2>Notizie e polemiche</h2><a class="small" href={u(`/osservatorio/?politico=${p.slug}`)}>Tutte le notizie →</a></div>
+      <p class="small muted">
+        Ultimi {oss.conteggi.giorni} giorni: {oss.conteggi.storie ?? 0} storie, {oss.conteggi.polemiche ?? 0} polemiche, {oss.conteggi.virali ?? 0} riprese da almeno 3 testate.
+        Le affermazioni misurabili sono confrontate con i dati ufficiali, le sue frasi con le posizioni documentate. <a href={u("/faq/#polemiche")}>Come</a>
+      </p>
+      {storieTop.length === 0 && <p class="callout neutral">Nessuna polemica o storia molto ripresa nel periodo.</p>}
+      <div class="stack">{storieTop.map((s) => <Storia s={s} />)}</div>
+    </section>
+  )}
 
   <section class="section" id="atti">
     <div class="section-head"><h2>Atti e comunicati ufficiali che lo/la citano</h2><span class="small muted">dal più vecchio al più recente</span></div>

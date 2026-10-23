@@ -143,7 +143,8 @@
    "frase": "Sulla riforma dell’autonomia differenziata la Commissione esprime dubbi e riserve nelle sue raccomandazioni",
    "url": "https://pagellapolitica.it/fact-checking/commissione-ue-raccomandazioni-autonomia",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": "Il capogruppo al Senato del Partito democratico è impreciso."
   },
   {
    "data": "2022-04-04",
@@ -151,7 +152,8 @@
    "frase": "Alle amministrative di giugno siamo uniti ovunque. L’alleanza progressista-riformista [tra Pd e M5s] è in tutti i 25 capoluoghi il 12 giugno",
    "url": "https://pagellapolitica.it/fact-checking/boccia-esagera-alleanza-pd-m5s-comunali",
    "fonte_originale": "https://www.raiplay.it/video/2022/03/Oggi-e-un-altro-giorno---Puntata-del-04042022-3e8759f2-58cb-488b-bfc2-1149b4debc8f.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il deputato del Pd esagera."
   },
   {
    "data": "2022-08-19",
@@ -159,7 +161,8 @@
    "frase": "Gelmini e Carfagna, con Bignami, hanno votato contro il Pnrr il 15 luglio 2020",
    "url": "https://pagellapolitica.it/fact-checking/boccia-bignami-centrodestra-pnrr",
    "fonte_originale": "https://www.la7.it/omnibus/rivedila7/il-gran-ballo-delle-liste-omnibus-19082022-19-08-2022-448679",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "L’ex ministro del Pd è impreciso e fuorviante."
   },
   {
    "data": "2023-05-30",
@@ -167,7 +170,8 @@
    "frase": "Alle elezioni comunali di giugno del 2022 vincemmo ovunque",
    "url": "https://pagellapolitica.it/fact-checking/boccia-pd-comunali-2022",
    "fonte_originale": "https://askanews.it/2023/05/30/boccia-schlein-ha-trovato-le-alleanze-gia-fatte-il-pd-e-la-prima-lista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il capogruppo del Partito Democratico al Senato sbaglia."
   },
   {
    "data": "2023-06-28",
@@ -175,7 +179,8 @@
    "frase": "Quei decreti ci hanno fatto passare a 60 mila immigrati arrivati entro giugno: il triplo dell’anno scorso, cinque volte quelli di due anni fa",
    "url": "https://pagellapolitica.it/fact-checking/boccia-esagera-aumento-sbarchi",
    "fonte_originale": "https://webtv.senato.it/webtv_aula_hq?seduta_assemblea=25285",
-   "fonte_tipo": "Senato"
+   "fonte_tipo": "Senato",
+   "giudizio": "L’aumento indicato dal capogruppo del PD al Senato è esagerato."
   },
   {
    "data": "2025-02-05",
@@ -183,7 +188,8 @@
    "frase": "Ricordo che il “no” agli accordi con la Guardia costiera libica era uno dei punti scolpiti nella mozione di Elly Schlein",
    "url": "https://pagellapolitica.it/fact-checking/schlein-contraria-accordi-libia",
    "fonte_originale": "https://www.repubblica.it/politica/2025/02/05/news/intervista_francesco_boccia_almasri_schlein_pd-423982442/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il capogruppo del Partito Democratico al Senato ha ragione"
   }
  ],
  "camera": [

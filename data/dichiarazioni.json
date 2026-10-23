@@ -654,6 +654,7 @@
    "url": "https://pagellapolitica.it/fact-checking/il-62-per-cento-di-italiani-e-di-italiane-che-non-fanno-figli-dichiarano-che-la-scelta-di-non-fare-figli-ha-ragioni-di-carattere-economico",
    "fonte_originale": "https://www.camera.it/Leg19/410?idSeduta=0727&tipo=stenografico#:~:text=%C3%88%20inverno%20pieno%2C%20inverno%20demografico.%20Il%2062%20per%20cento%20di%20italiani%20e%20di%20italiane%20che%20non%20fanno%20figli%20e%20che%20sono%20stati%20intervistati%20su%20questo%20punto%20dichiarano%20%2D%20pensi%20un%20po%27%20%2D%20che%20la%20scelta%20di%20non%20fare%20figli%20ha%20ragioni%20di%20carattere%20economico%3A%20non%20se%20lo%20possono%20permettere",
    "fonte_tipo": "Camera",
+   "giudizio": null,
    "testo_ufficiale": {
     "estratto": "Grazie, signor Presidente. Signora Presidente del Consiglio, anche oggi alla fine delle repliche ha consegnato al Parlamento della Repubblica il suo comizio abituale, un comizio dai toni alti, sempre più alti, momento dopo momento. È il segno di un nervosismo. Io la capisco, signora Presidente: è comprensibile. […]",
     "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00210"
@@ -674,6 +675,7 @@
    "url": "https://pagellapolitica.it/fact-checking/quella-che-lei-definisce-mobilita-dolce-ovverosia-i-monopattini-tra-il-2022-e-il-2025-ha-portato-a-25-morti-e-3-700-feriti",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#:~:text=Allora%2C%20monopattini%3A%20i%20dati%20sull%27incidentalit%C3%A0%20%2D%20che%20fornir%C3%B2%20al%20collega%20che%20evidentemente%20non%20li%20ha%20seguiti%20%2D%20confermano%20che%20quella%20che%20lei%20definisce%20mobilit%C3%A0%20dolce%2C%20ovverosia%20i%20monopattini%2C%20tra%20il%202022%20e%20il%202025%2C%20ha%20portato%20a%2025%20morti%20e%203.700%20feriti.",
    "fonte_tipo": "Camera",
+   "giudizio": null,
    "testo_ufficiale": {
     "estratto": "Grazie, Presidente. Allora, monopattini: i dati sull'incidentalità - che fornirò al collega che evidentemente non li ha seguiti - confermano che quella che lei definisce mobilità dolce, ovverosia i monopattini, tra il 2022 e il 2025, ha portato a 25 morti e 3.700 feriti. […]",
     "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00040.int00060"
@@ -693,7 +695,8 @@
    "frase": "Il rapporto debito pubblico/PIL in Grecia è migliore in questo 2026 del rapporto debito pubblico/PIL in Italia",
    "url": "https://pagellapolitica.it/fact-checking/il-rapporto-debito-pubblico-pil-in-grecia-e-migliore-in-questo-2026-del-rapporto-debito-pubblico-pil-in-italia",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -709,7 +712,8 @@
    "frase": "Nel 2023 nell’Italia di Giorgia Meloni sono entrati più migranti di quanti ne siano arrivati nel 2015",
    "url": "https://pagellapolitica.it/fact-checking/nel-2023-nellitalia-di-giorgia-meloni-sono-entrati-piu-migranti-di-quanti-ne-siano-arrivati-nel-2015",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "nicola-fratoianni",
@@ -725,7 +729,8 @@
    "frase": "Con Meloni hai perso uno stipendio all’anno",
    "url": "https://pagellapolitica.it/fact-checking/con-meloni-hai-perso-uno-stipendio-allanno",
    "fonte_originale": "https://www.instagram.com/p/DdwEgB-m80H/?utm_source=ig_embed&ig_rid=AlbgtlFm_RWfvLOqCc6PA3s",
-   "fonte_tipo": "Instagram"
+   "fonte_tipo": "Instagram",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -741,7 +746,8 @@
    "frase": "Abbiamo portato il Fondo di finanziamento ordinario per le università al suo livello più alto di sempre",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-portato-il-fondo-di-finanziamento-ordinario-per-le-universita-al-suo-livello-piu-alto-di-sempre",
    "fonte_originale": "https://www.youtube.com/live/vAEDLyrttUo?t=1350s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -757,7 +763,8 @@
    "frase": "Abbiamo la crescita che rasenta allo zero. Siamo ultimi tra i Paesi del G20 nonostante il contributo del PNRR",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-la-crescita-che-rasenta-allo-zero-siamo-ultimi-tra-i-paesi-del-g20-nonostante-il-contributo-del-pnrr",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -773,7 +780,8 @@
    "frase": "I nostri insegnanti sono tra i meno pagati d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/i-nostri-insegnanti-sono-tra-i-meno-pagati-deuropa",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -789,7 +797,8 @@
    "frase": "Un altro record è quello di 6 milioni di italiani che rinunciano a curarsi perché le liste d’attesa sono troppo lunghe o perché non se lo possono permettere",
    "url": "https://pagellapolitica.it/fact-checking/un-altro-record-e-quello-di-6-milioni-di-italiani-che-rinunciano-a-curarsi-perche-le-liste-dattesa-sono-troppo-lunghe-o-perche-non-se-lo-possono-permettere",
    "fonte_originale": "https://www.youtube.com/watch?v=cBUaMRrYtb0",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -805,7 +814,8 @@
    "frase": "Alla sinistra (...) devo ricordare che non è credibile (sul tema della preferenze) chi non le ha mai volute in questi 35 anni",
    "url": "https://pagellapolitica.it/fact-checking/alla-sinistra-devo-ricordare-che-non-e-credibile-sul-tema-della-preferenze-chi-non-le-ha-mai-volute-in-questi-35-anni",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/posts/pfbid02Y2CNNKtXoXPCNdMDYJ5HTEuF8w6VoYFKw6k2cJnzx3MxXL8qo8pUh6gDx1HEknQ4l",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": null
   },
   {
    "slug": "antonio-tajani",
@@ -821,7 +831,8 @@
    "frase": "(La tassa sugli extraprofitti) è una tassa da cultura comunista, che in Europa non sta mettendo nessuno",
    "url": "https://pagellapolitica.it/fact-checking/la-tassa-sugli-extraprofitti-e-una-tassa-da-cultura-comunista-che-in-europa-non-sta-mettendo-nessuno",
    "fonte_originale": "https://www.corriere.it/politica/26_agosto_31/tajani-c-e-il-pericolo-jihadista-e-agiamo-per-la-nostra-sicurezza-la-ue-a-volte-sbaglia-4cfe6c1d-5cd2-4441-86d2-9f34f2c51xlk.shtml?refresh_ce",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "adolfo-urso",
@@ -837,7 +848,8 @@
    "frase": "Stellantis è sulla strada giusta, come dimostra la crescita nel primo semestre della produzione italiana, aumentata del 13,7 per cento, con le autovetture a +27,7 per cento",
    "url": "https://pagellapolitica.it/fact-checking/stellantis-e-sulla-strada-giusta-come-dimostra-la-crescita-nel-primo-semestre-della-produzione-italiana-aumentata-del-137-per-cento-con-le-autovetture-a-277-per-cento",
    "fonte_originale": "https://www.avvenire.it/attualita/serve-un-mercato-ue-dellenergia-i-nuovi-data-center-risponderemo-ai-dubbi-delle-comunita_112360",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -853,7 +865,8 @@
    "frase": "Pensi al Superbonus: finiremo di pagarlo solo nel 2027 e alla fine ci costerà la bellezza di 174 miliardi, quattro volte in più di quanto preventivato",
    "url": "https://pagellapolitica.it/fact-checking/pensi-al-superbonus-finiremo-di-pagarlo-solo-nel-2027-e-alla-fine-ci-costera-la-bellezza-di-174-miliardi-quattro-volte-in-piu-di-quanto-preventivato",
    "fonte_originale": "https://www.milanofinanza.it/news/giorgia-meloni-l-italia-piu-forte-di-prima-202608140834229835",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -869,7 +882,8 @@
    "frase": "Quando ci siamo insediati (...) lo spread era a 240 punti, tre volte più alto dei valori attuali. Oggi il quadro è molto diverso",
    "url": "https://pagellapolitica.it/fact-checking/quando-ci-siamo-insediati-lo-spread-era-a-240-punti-tre-volte-piu-alto-dei-valori-attuali-oggi-il-quadro-e-molto-diverso",
    "fonte_originale": "https://www.milanofinanza.it/news/giorgia-meloni-l-italia-piu-forte-di-prima-202608140834229835",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -885,7 +899,8 @@
    "frase": "Abbiamo regolato gli affitti brevi",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-regolato-gli-affitti-brevi",
    "fonte_originale": "https://www.chimagazine.it/interviste/giorgia-meloni-figlia-ginevra-intervista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -901,7 +916,8 @@
    "frase": "Gli ultimi decreti per cercare di abbassare il costo del gasolio rappresentano un unicum in Europa. Nessun altro governo europeo è intervenuto così",
    "url": "https://pagellapolitica.it/fact-checking/gli-ultimi-decreti-per-cercare-di-abbassare-il-costo-del-gasolio-rappresentano-un-unicum-in-europa-nessun-altro-governo-europeo-e-intervenuto-cosi",
    "fonte_originale": "https://www.chimagazine.it/interviste/giorgia-meloni-figlia-ginevra-intervista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "antonio-tajani",
@@ -917,7 +933,8 @@
    "frase": "La scelta del governo di Madrid di dare la cittadinanza spagnola (...) ad oltre 500 mila immigrati irregolari è profondamente sbagliata e incentiva il traffico di esseri umani",
    "url": "https://pagellapolitica.it/fact-checking/la-scelta-del-governo-di-madrid-di-dare-la-cittadinanza-spagnola-ad-oltre-500-mila-immigrati-irregolari-e-profondamente-sbagliata-e-incentiva-il-traffico-di-esseri-umani",
    "fonte_originale": "https://x.com/Antonio_Tajani/status/2082898655833432131",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -933,7 +950,8 @@
    "frase": "In un Paese che ha 4 milioni di lavoratori poveri, anche se hanno un lavoro",
    "url": "https://pagellapolitica.it/fact-checking/in-un-paese-che-ha-4-milioni-di-lavoratori-poveri-anche-se-hanno-un-lavoro",
    "fonte_originale": "youtube.com/watch?si=FxOvyWGYlEmHNtia&t=830&v=70aBB7lwOOo&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -949,7 +967,8 @@
    "frase": "Non hanno messo un euro nel decreto che doveva ridurre le liste d’attesa",
    "url": "https://pagellapolitica.it/fact-checking/non-hanno-messo-un-euro-nel-decreto-che-doveva-ridurre-le-liste-dattesa",
    "fonte_originale": "https://www.youtube.com/watch?si=ttsnEmLUnkRozY88&t=541&v=hPu5PabEysE&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -965,7 +984,8 @@
    "frase": "Caro Piantedosi, riporta indietro 600 tra agenti della polizia, tra finanzieri e carabinieri, riportali indietro da quell’inutile centro dei migranti, che ci è costato quasi un miliardo di euro",
    "url": "https://pagellapolitica.it/fact-checking/caro-piantedosi-riporta-indietro-600-tra-agenti-della-polizia-tra-finanzieri-e-carabinieri-riportali-indietro-da-quellinutile-centro-dei-migranti-che-ci-e-costato-quasi-un-miliardo-di-eur",
    "fonte_originale": "https://www.youtube.com/watch?si=XYh5fB6aGh6kMDhu&t=122&v=l062TWYYesg&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -981,7 +1001,8 @@
    "frase": "La sinistra si è divisa, si è divisa nel 2022. Se la sinistra non si fosse divisa, la Meloni non avrebbe vinto. Lo dicono i numeri",
    "url": "https://pagellapolitica.it/fact-checking/la-sinistra-si-e-divisa-si-e-divisa-nel-2022-se-la-sinistra-non-si-fosse-divisa-la-meloni-non-avrebbe-vinto-lo-dicono-i-numeri",
    "fonte_originale": "youtube.com/watch?si=9VtFlclhOK_9bqoc&t=568&v=l062TWYYesg&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -997,7 +1018,8 @@
    "frase": "Non è detto che non possa superarsi anche questo altro grande tabù, di avere un presidente della Repubblica che è non di centrosinistra",
    "url": "https://pagellapolitica.it/fact-checking/non-e-detto-che-non-possa-superarsi-anche-questo-altro-grande-tabu-di-avere-un-presidente-della-repubblica-che-e-non-di-centrosinistra",
    "fonte_originale": "https://www.youtube.com/watch?v=0XhXgyOV1CM&t=769s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -1013,7 +1035,8 @@
    "frase": "Io ho presentato il salario minimo nel 2018 quando la CGIL era contraria",
    "url": "https://pagellapolitica.it/fact-checking/io-ho-presentato-il-salario-minimo-nel-2018-quando-la-cgil-era-contraria",
    "fonte_originale": "youtube.com/watch?si=xG5eAa3hnOkEjUeF&t=1367&v=XIVzNR3XrTc&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -1029,7 +1052,8 @@
    "frase": "La pressione fiscale sta al 43 per cento, i salari reali diminuiscono dell’8 per cento",
    "url": "https://pagellapolitica.it/fact-checking/la-pressione-fiscale-sta-al-43-per-cento-i-salari-reali-diminuiscono-dell8-per-cento",
    "fonte_originale": "https://www.youtube.com/watch?si=pj6H2Sy80glu4dLr&t=79&v=XIVzNR3XrTc&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "antonio-tajani",
@@ -1045,7 +1069,8 @@
    "frase": "Il nostro export ha superato quello del Giappone, nonostante guerre e dazi",
    "url": "https://pagellapolitica.it/fact-checking/il-nostro-export-ha-superato-quello-del-giappone-nonostante-guerre-e-dazi",
    "fonte_originale": "https://roma.corriere.it/notizie/politica/26_giugno_21/tajani-intervista-italia-non-suddita-8d28e373-2af7-4cfd-8a23-8bcf69afcxlk.shtml#:~:text=L%E2%80%99Italia%20ha%20superato,il%20nostro%20Paese%C2%BB.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1061,7 +1086,8 @@
    "frase": "Con il nostro governo abbiamo raggiunto il massimo storico di energia elettrica prodotta da fonti rinnovabili",
    "url": "https://pagellapolitica.it/fact-checking/con-il-nostro-governo-abbiamo-raggiunto-il-massimo-storico-di-energia-elettrica-prodotta-da-fonti-rinnovabili",
    "fonte_originale": "https://www.youtube.com/watch?v=eLSE8nWfDSk&t=1354s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1077,7 +1103,8 @@
    "frase": "Il fronte è praticamente fermo, dal 1° gennaio 2026 ad oggi Mosca non è riuscita a incrementare la percentuale di territorio ucraino sotto il suo controllo",
    "url": "https://pagellapolitica.it/fact-checking/il-fronte-e-praticamente-fermo-dal-1-gennaio-2026-ad-oggi-mosca-non-e-riuscita-a-incrementare-la-percentuale-di-territorio-ucraino-sotto-il-suo-controllo",
    "fonte_originale": "https://www.youtube.com/watch?v=eLSE8nWfDSk&t=80s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1093,7 +1120,8 @@
    "frase": "Tra il 2014 e il 2016 sono sbarcati in Italia più di mezzo milione di immigrati irregolari. Sapete quanto ci è costato in termini di accoglienza? Tra gli 8 e i 10 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/tra-il-2014-e-il-2016-sono-sbarcati-in-italia-piu-di-mezzo-milione-di-immigrati-irregolari-sapete-quanto-ci-e-costato-in-termini-di-accoglienza-tra-gli-8-e-i-10-miliardi-di-euro",
    "fonte_originale": "https://www.youtube.com/live/1uGWFtT5ZtE?si=v7ok6D8lr1GJxewe&t=1218",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1109,7 +1137,8 @@
    "frase": "È quello che abbiamo fatto dall’inizio per esempio della guerra in Iran, lei ricordava il taglio delle accise sul carburante, che è stato un modo per impedire che esplodesse l’aumento dei prezzi (...) da noi il costo del carburante è cresciuto sensibilmente meno di quanto non sia accaduto per esempio in Francia, per esempio in Germania",
    "url": "https://pagellapolitica.it/fact-checking/e-quello-che-abbiamo-fatto-dallinizio-per-esempio-della-guerra-in-iran-lei-ricordava-il-taglio-delle-accise-sul-carburante-che-e-stato-un-modo-per-impedire-che-esplodesse-laumento",
    "fonte_originale": "https://www.youtube.com/watch?v=8DwktJ9kC-k&t=90s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1125,7 +1154,8 @@
    "frase": "Nel 2022 ogni 100 immigrati illegali che sbarcavano in Italia ne venivano rimpatriati circa 4, oggi ne vengono rimpatriati almeno 35",
    "url": "https://pagellapolitica.it/fact-checking/nel-2022-ogni-100-immigrati-illegali-che-sbarcavano-in-italia-ne-venivano-rimpatriati-circa-4-oggi-ne-vengono-rimpatriati-almeno-35",
    "fonte_originale": "https://www.youtube.com/watch?v=8DwktJ9kC-k&t=1295s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1141,7 +1171,8 @@
    "frase": "Sono stati messi 12 miliardi in un anno di spese aggiuntive per la difesa (nel 2025)",
    "url": "https://pagellapolitica.it/fact-checking/sono-stati-messi-12-miliardi-in-un-anno-di-spese-aggiuntive-per-la-difesa-nel-2025",
    "fonte_originale": "https://www.youtube.com/watch?v=gyMOi9YB9IQ&t=498s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1157,7 +1188,8 @@
    "frase": "PNRR ad oggi l’Italia ha incassato 153 miliardi e sarà liquidata la nona rata nelle prossime settimane. Al 31 marzo 2026 la spesa certificata ammonta a 117 miliardi, pari al 76 per cento del totale, a cui si aggiungono 24 miliardi di strumenti finanziari. Direi che abbiamo fatto un buon lavoro",
    "url": "https://pagellapolitica.it/fact-checking/pnrr-ad-oggi-litalia-ha-incassato-153-miliardi-e-sara-liquidata-la-nona-rata-nelle-prossime-settimane-al-31-marzo-2026-la-spesa-certificata-ammonta-a-117-miliardi-pari-al-76-per-cento-del-t",
    "fonte_originale": "https://www.youtube.com/watch?v=9GI7VpIMWXg&t=1017s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1173,7 +1205,8 @@
    "frase": "Questo governo negli ultimi tre anni sulla lotta all’evasione ha recuperato circa 100 miliardi di euro in tre anni",
    "url": "https://pagellapolitica.it/fact-checking/questo-governo-negli-ultimi-tre-anni-sulla-lotta-allevasione-ha-recuperato-circa-100-miliardi-di-euro-in-tre-anni",
    "fonte_originale": "https://www.youtube.com/watch?v=9GI7VpIMWXg&t=5160s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "antonio-tajani",
@@ -1189,7 +1222,8 @@
    "frase": "L’Italia è il Paese che dà il maggiore contributo alle operazioni di pace internazionali, sia con l’Onu che con la Nato",
    "url": "https://pagellapolitica.it/fact-checking/litalia-e-il-paese-che-da-il-maggiore-contributo-alle-operazioni-di-pace-internazionali-sia-con-lonu-che-con-la-nato",
    "fonte_originale": "https://www.esteri.it/it/sala_stampa/archivionotizie/interviste/2026/05/tajani-noi-solidi-alleati-non-con-un-leader-ma-con-lamerica/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "adolfo-urso",
@@ -1205,7 +1239,8 @@
    "frase": "Lo scorso anno, malgrado i dazi, le esportazioni italiane negli Stati Uniti sono cresciute del 7,2 per cento: la migliore performance tra i Paesi Ue",
    "url": "https://pagellapolitica.it/fact-checking/lo-scorso-anno-malgrado-i-dazi-le-esportazioni-italiane-negli-stati-uniti-sono-cresciute-del-72-per-cento-la-migliore-performance-tra-i-paesi-ue",
    "fonte_originale": "https://www.ilmessaggero.it/politica/adolfo_urso_transizione_5_0_intervista_oggi-9497226.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -1221,7 +1256,8 @@
    "frase": "Con il governo Meloni ci sono stati meno rimpatri che con il governo Renzi",
    "url": "https://pagellapolitica.it/fact-checking/con-il-governo-meloni-ci-sono-stati-meno-rimpatri-che-con-il-governo-renzi",
    "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "matteo-renzi",
@@ -1237,7 +1273,8 @@
    "frase": "Riprendere i cervelli che se ne sono andati, sono 200 mila lo scorso anno, e riportarli in Italia",
    "url": "https://pagellapolitica.it/fact-checking/riprendere-i-cervelli-che-se-ne-sono-andati-sono-200-mila-lo-scorso-anno-e-riportarli-in-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=z6JrHvt6O5o",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1253,7 +1290,8 @@
    "frase": "Il decreto-legge che lo introdusse (il reddito di cittadinanza), il 28 gennaio 2019, passò in Parlamento con i voti favorevoli di M5S e Lega, e con il voto contrario di tutti gli altri gruppi parlamentari. Ma la Lega stessa, un attimo dopo avere approvato la riforma, l’ha abiurata, andando a infittire la lunga lista dei nemici del reddito di cittadinanza. Matteo Salvini, durante l’estate del 2021, ha ribadito più volte che la misura andava abolita, arrivando a dichiarare, il 28 agosto a Pinzolo, che «in manovra economica l’emendamento per farlo lo metto io, avrà la mia prima firma. Dobbiamo assolutamente cancellare il reddito di cittadinanza",
    "url": "https://pagellapolitica.it/fact-checking/il-decreto-legge-che-lo-introdusse-il-reddito-di-cittadinanza-il-28-gennaio-2019-passo-in-parlamento-con-i-voti-favorevoli-di-m5s-e-lega-e-con-il-voto-contrario-di-tutti-gli-altri-gruppi-parlamen",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1269,7 +1307,8 @@
    "frase": "La pressione fiscale al 43,1 per cento del PIL, il livello più alto degli ultimi vent’anni, secondo solo al governo tecnico di Mario Monti",
    "url": "https://pagellapolitica.it/fact-checking/la-pressione-fiscale-al-431-per-cento-del-pil-il-livello-piu-alto-degli-ultimi-ventanni-secondo-solo-al-governo-tecnico-di-mario-monti",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "carlo-calenda",
@@ -1285,7 +1324,8 @@
    "frase": "A eccezione degli Stati Uniti, nei prossimi venticinque anni il numero delle persone in età da lavoro diminuirà in tutte le grandi potenze, con un crollo particolarmente drammatico in Cina (-250 milioni di lavoratori). Da questo scenario si distacca solo l’Africa che nel 2100 arriverà a 3,8 miliardi di persone",
    "url": "https://pagellapolitica.it/fact-checking/a-eccezione-degli-stati-uniti-nei-prossimi-venticinque-anni-il-numero-delle-persone-in-eta-da-lavoro-diminuira-in-tutte-le-grandi-potenze-con-un-crollo-particolarmente-drammatico-in-cina-250-milio",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1301,7 +1341,8 @@
    "frase": "Abbiamo ridotto gli sbarchi e aumentato sensibilmente i rimpatri, rafforzato il controllo delle frontiere, combattuto i trafficanti di esseri umani. E soprattutto abbiamo ridotto le morti nel Mediterraneo",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-ridotto-gli-sbarchi-e-aumentato-sensibilmente-i-rimpatri-rafforzato-il-controllo-delle-frontiere-combattuto-i-trafficanti-di-esseri-umani-e-soprattutto-abbiamo-ridotto-le-morti-nel-mediterr",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1317,7 +1358,8 @@
    "frase": "L’azione del governo che ha portato il fondo sanitario nazionale al livello più alto di sempre: 143 miliardi nel 2026, 17 miliardi in più rispetto all’insediamento",
    "url": "https://pagellapolitica.it/fact-checking/lazione-del-governo-che-ha-portato-il-fondo-sanitario-nazionale-al-livello-piu-alto-di-sempre-143-miliardi-nel-2026-17-miliardi-in-piu-rispetto-allinsediamento",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1333,7 +1375,8 @@
    "frase": "Nel secondo trimestre 2025 il tasso di occupazione tra i 15 e i 64 anni nel Sud ha raggiunto il dato più alto delle serie storiche dell’ISTAT. Non era mai successo",
    "url": "https://pagellapolitica.it/fact-checking/nel-secondo-trimestre-2025-il-tasso-di-occupazione-tra-i-15-e-i-64-anni-nel-sud-ha-raggiunto-il-dato-piu-alto-delle-serie-storiche-dellistat-non-era-mai-successo",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "guido-crosetto",
@@ -1349,7 +1392,8 @@
    "frase": "L’applicazione degli accordi sull’uso delle basi militari americane in Italia è sempre stata caratterizzata da un’assoluta coerente continuità da oltre 75 anni",
    "url": "https://pagellapolitica.it/fact-checking/lapplicazione-degli-accordi-sulluso-delle-basi-militari-americane-in-italia-e-sempre-stata-caratterizzata-da-unassoluta-coerente-continuita-da-oltre-75-anni",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1365,7 +1409,8 @@
    "frase": "Il governo italiano sarà costretto a fare retromarcia sulla cancellazione dell’abuso di ufficio.",
    "url": "https://pagellapolitica.it/fact-checking/il-governo-italiano-sara-costretto-a-fare-retromarcia-sulla-cancellazione-dellabuso-di-ufficio",
    "fonte_originale": "https://x.com/GiuseppeConteIT/status/2037129962067579047",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -1381,7 +1426,8 @@
    "frase": "Le oltre 14 milioni di persone che hanno votato no, 5 milioni in più di quelle che avevano scelto PD, M5S e AVS alle Europee, dimostrano che esiste una maggioranza diversa da quella in carica",
    "url": "https://pagellapolitica.it/fact-checking/le-oltre-14-milioni-di-persone-che-hanno-votato-no-5-milioni-in-piu-di-quelle-che-avevano-scelto-pd-m5s-e-avs-alle-europee-dimostrano-che-esiste-una-maggioranza-diversa-da-quella-in-carica",
    "fonte_originale": "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1397,7 +1443,8 @@
    "frase": "Nella stragrande maggioranza dei Paesi europei l’aumento [dei prezzi della benzina] è stato maggiore di quello che c’è stato da noi",
    "url": "https://pagellapolitica.it/fact-checking/nella-stragrande-maggioranza-dei-paesi-europei-laumento-dei-prezzi-della-benzina-e-stato-maggiore-di-quello-che-ce-stato-da-noi",
    "fonte_originale": "https://www.youtube.com/watch?v=mWs_KNoc5AI&t=1275s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1413,7 +1460,8 @@
    "frase": "Per la prima volta nella storia d’Italia anche i magistrati quando sbagliano saranno giudicati da organismo terzo, come accade per tutto il genere umano",
    "url": "https://pagellapolitica.it/fact-checking/per-la-prima-volta-nella-storia-ditalia-anche-i-magistrati-quando-sbagliano-saranno-giudicati-da-organismo-terzo-come-accade-per-tutto-il-genere-umano",
    "fonte_originale": "https://www.youtube.com/watch?v=mWs_KNoc5AI&t=2688s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "antonio-tajani",
@@ -1429,7 +1477,8 @@
    "frase": "L’attuale ordinamento giudiziario è quello voluto dal fascismo, cioè il processo dove l’imputato è considerato colpevole, dove c’è l’unione delle carriere, cioè la carriera dei magistrati giudicanti è la stessa della pubblica accusa.",
    "url": "https://pagellapolitica.it/fact-checking/lattuale-ordinamento-giudiziario-e-quello-voluto-dal-fascismo-cioe-il-processo-dove-limputato-e-considerato-colpevole-dove-ce-lunione-delle-carriere-cioe-la-carr",
    "fonte_originale": "https://www.facebook.com/share/v/18CfwiAjEc/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": null
   },
   {
    "slug": "carlo-nordio",
@@ -1445,7 +1494,8 @@
    "frase": "Noi abbiamo ancora quello che è il residuo di un decreto fascista del 1941 dell’ordine Grandi, che aveva disciplinato l’ordine esattamente come è adesso.",
    "url": "https://pagellapolitica.it/fact-checking/noi-abbiamo-ancora-quello-che-e-il-residuo-di-un-decreto-fascista-del-1941-dellordine-grandi-che-aveva-disciplinato-lordine-esattamente-come-e-adesso",
    "fonte_originale": "https://tg24.sky.it/politica/2026/03/17/referendum-giustizia-2026-nordio-grosso-confronto-su-sky",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1461,7 +1511,8 @@
    "frase": "Il Partito Democratico che sosteneva la separazione delle carriere, che dovrebbe dire? Il Movimento 5 Stelle che sosteneva il sorteggio per i membri del CSM, che dovrebbe dire? Nicola Gratteri che sosteneva il sorteggio per i membri del CSM, che dovrebbe dire?",
    "url": "https://pagellapolitica.it/fact-checking/il-partito-democratico-che-sosteneva-la-separazione-delle-carriere-che-dovrebbe-dire-il-movimento-5-stelle-che-sosteneva-il-sorteggio-per-i-membri-del-csm-che-dovrebbe-dire-nicola-gratteri-c",
    "fonte_originale": "https://youtu.be/xJvRAiAWWfs?si=c-GBMKYEz-pMPN-u&t=128",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1477,7 +1528,8 @@
    "frase": "Noi abbiamo speso dagli anni Novanta a oggi quasi un miliardo di euro per risarcimenti per ingiusta detenzione in questa nazione",
    "url": "https://pagellapolitica.it/fact-checking/noi-abbiamo-speso-dagli-anni-novanta-a-oggi-quasi-un-miliardo-di-euro-per-risarcimenti-per-ingiusta-detenzione-in-questa-nazione",
    "fonte_originale": "https://youtu.be/xJvRAiAWWfs?si=HrUfyJA5qTiLMfLU&t=782",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "carlo-nordio",
@@ -1493,7 +1545,8 @@
    "frase": "Quello della nostra riforma non sarà un sorteggio anomalo. Sarà un sorteggio nell’ambito di un canestro di magistrati, soprattutto di magistrati, in grande maggioranza sia nell’Alta Corte disciplinare sia nei due Consigli superiori della magistratura, formati da magistrati in misura maggiore di quanto non lo siano oggi rispetto ai rappresentanti eletti dal Parlamento",
    "url": "https://pagellapolitica.it/fact-checking/quello-della-nostra-riforma-non-sara-un-sorteggio-anomalo-sara-un-sorteggio-nellambito-di-un-canestro-di-magistrati-soprattutto-di-magistrati-in-grande-maggioranza-sia-nella",
    "fonte_originale": "https://youtu.be/IkJbRD-adQE?si=S_K9qKbvQVlMS6qx&t=331",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1509,7 +1562,8 @@
    "frase": "Con la separazione netta delle carriere sarà inevitabile che i pm finiscano sotto il governo",
    "url": "https://pagellapolitica.it/fact-checking/con-la-separazione-netta-delle-carriere-sara-inevitabile-che-i-pm-finiscano-sotto-il-governo",
    "fonte_originale": "https://www.youtube.com/watch?v=tLFagvq-dkM&t=183s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1525,7 +1579,8 @@
    "frase": "Mentre i magistrati che compongono i due nuovi CSM e l’Alta Corte sono presi a casaccio con il sorteggio puro, i laici che rappresentano la politica sono scelti accuratamente dal Parlamento. Il loro sorteggio è una finzione e vanno lì con un mandato politico ben preciso",
    "url": "https://pagellapolitica.it/fact-checking/mentre-i-magistrati-che-compongono-i-due-nuovi-csm-e-lalta-corte-sono-presi-a-casaccio-con-il-sorteggio-puro-i-laici-che-rappresentano-la-politica-sono-scelti-accuratamente-dal-parlame",
    "fonte_originale": "https://www.youtube.com/watch?v=tLFagvq-dkM&t=20s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1541,7 +1596,8 @@
    "frase": "La riforma sostituisce questo modello [quello di elezione del CSM], che è in mano alle correnti ideologizzate e ai partiti politici, con un sorteggio. Ovviamente un sorteggio tra quelli che hanno i requisiti per ricoprire quell’incarico. Significa che noi avremo domani due CSM, uno per la magistratura inquirente e uno per la magistratura giudicante, composte da persone che non hanno dovuto chiedere il voto a chi devono poi promuovere o meno, trasferire o meno, e che non sono state scelte dai partiti",
    "url": "https://pagellapolitica.it/fact-checking/la-riforma-sostituisce-questo-modello-quello-di-elezione-del-csm-che-e-in-mano-alle-correnti-ideologizzate-e-ai-partiti-politici-con-un-sorteggio-ovviamente-un-sorteggio-tra-quelli-che-hann",
    "fonte_originale": "https://www.youtube.com/watch?v=4EcN7bqZaJA&t",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1557,7 +1613,8 @@
    "frase": "Visti i toni apocalittici che sto ascoltando da parte di chi, diciamo, non sembra avere molti argomenti contro questa riforma, tipo l’accusa di scivolamento verso un sistema illiberale, io penso che sia utile che gli italiani abbiano questo dato: nella gran parte dei Paesi europei la separazione delle carriere già esiste».",
    "url": "https://pagellapolitica.it/fact-checking/visti-i-toni-apocalittici-che-sto-ascoltando-da-parte-di-chi-diciamo-non-sembra-avere-molti-argomenti-contro-questa-riforma-tipo-laccusa-di-scivolamento-verso-un-sistema-illiberale",
    "fonte_originale": "https://www.youtube.com/watch?v=4EcN7bqZaJA&t",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "elly-schlein",
@@ -1573,7 +1630,8 @@
    "frase": "Vi ricordate quando Giorgia Meloni faceva i video dal benzinaio per promettere di abolire le accise? Sappiamo tutti com’è andata. Le accise non le ha abolite. Anzi, nell’ultima manovra ha addirittura alzato quelle sul diesel.",
    "url": "https://pagellapolitica.it/fact-checking/vi-ricordate-quando-giorgia-meloni-faceva-i-video-dal-benzinaio-per-promettere-di-abolire-le-accise-sappiamo-tutti-come-andata-le-accise-non-le-ha-abolite-anzi-nellultima-manovra",
    "fonte_originale": "https://www.instagram.com/reel/DVlUJB2gkT1/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
-   "fonte_tipo": "Instagram"
+   "fonte_tipo": "Instagram",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1589,7 +1647,8 @@
    "frase": "Cioè a uno che è entrato clandestinamente in Italia, si è messo a spacciare, ha violentato una donna in gruppo, noi non lo possiamo trattenere, non lo possiamo mandare in Albania, non lo possiamo rimpatriare e quasi quasi gli dobbiamo dare la protezione internazionale.",
    "url": "https://pagellapolitica.it/fact-checking/cioe-a-uno-che-e-entrato-clandestinamente-in-italia-si-e-messo-a-spacciare-ha-violentato-una-donna-in-gruppo-noi-non-lo-possiamo-trattenere-non-lo-possiamo-mandare-in-albania-non-lo-possiamo-rimp",
    "fonte_originale": "https://www.youtube.com/watch?v=2M-EtvyuiRU&t=1842s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -1605,7 +1664,8 @@
    "frase": "Si dice che noi vogliamo sottomettere la giustizia alla politica. Solo che è falso, perché la riforma fa esattamente il contrario. Toglie la facoltà al Parlamento e ai partiti di indicare una parte del CSM, cioè l’organo di autogoverno della magistratura e toglie la facoltà alle correnti ideologizzate di decidere sull’altra parte dei membri del CSM».",
    "url": "https://pagellapolitica.it/fact-checking/si-dice-che-noi-vogliamo-sottomettere-la-giustizia-alla-politica-solo-che-e-falso-perche-la-riforma-fa-esattamente-il-contrario-toglie-la-facolta-al-parlamento-e-ai-partiti-di-indicare-una-pa",
    "fonte_originale": "https://youtu.be/RYgdqcg_1Q8?si=t2-y3qRoQ4i3AM4u&t=159",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "giuseppe-conte",
@@ -1621,7 +1681,8 @@
    "frase": "il 72 per cento della popolazione mondiale vive in autocrazie e regimi illiberali».",
    "url": "https://pagellapolitica.it/fact-checking/il-72-per-cento-della-popolazione-mondiale-vive-in-autocrazie-e-regimi-illiberali",
    "fonte_originale": "youtube.com/watch?si=FYAtgVFrz6LriJqN&t=218&v=THz942oJRbU&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "slug": "adolfo-urso",
@@ -1637,7 +1698,8 @@
    "frase": "Lo scorso anno abbiamo superato la Corea del Sud come quinto Paese esportatore",
    "url": "https://pagellapolitica.it/fact-checking/errore-urso-classifica-italia-export",
    "fonte_originale": "https://www.quotidiano.net/politica/il-ministro-adolfo-urso-siamo-15b60682",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del ministro delle Imprese non è supportata dai numeri."
   },
   {
    "slug": "elly-schlein",
@@ -1653,7 +1715,8 @@
    "frase": "A parte che su le pensioni erano quelli che dicevano che le avrebbero aumentate a mille euro le minime, le hanno aumentate di 1,50 euro",
    "url": "https://pagellapolitica.it/fact-checking/schlein-minimizza-aumento-pensioni-minime",
    "fonte_originale": "https://www.la7.it/dimartedi/rivedila7/dimartedi-15-10-2025-615568",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico è fuorviante."
   },
   {
    "slug": "elly-schlein",
@@ -1669,7 +1732,8 @@
    "frase": "A Gaza c’è l’inferno in terra con più di 50.000 morti, tra cui 15.000 bambini",
    "url": "https://pagellapolitica.it/fact-checking/numero-morti-gaza-oltre-50-mila",
    "fonte_originale": "https://youtu.be/L03h7WHJPok?si=zUiSny_6Yy07l2o7",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri citati dalla segretaria del PD sono attendibili."
   },
   {
    "slug": "giorgia-meloni",
@@ -1685,7 +1749,8 @@
    "frase": "Lo spread oggi è sotto i 100 punti base: significa che i titoli di Stato italiani vengono considerati più sicuri dei titoli di Stato tedeschi",
    "url": "https://pagellapolitica.it/fact-checking/errore-meloni-spread-question-time",
    "fonte_originale": "https://www.youtube.com/live/TBarKaZGja0?si=Iy0ZkhtVPCKrrpNw&t=3114",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio sbaglia."
   },
   {
    "slug": "elly-schlein",
@@ -1701,7 +1766,8 @@
    "frase": "Cinque milioni di lavoratori stanno ancora aspettando i rinnovi contrattuali",
    "url": "https://pagellapolitica.it/fact-checking/lavoratori-attesa-rinnovo-contratto-collettivo-nazionale",
    "fonte_originale": "https://www.youtube.com/watch?v=cfDW9zVNMoM&t=78s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il numero corretto è un po’ più alto."
   },
   {
    "slug": "carlo-nordio",
@@ -1717,7 +1783,8 @@
    "frase": "L’Italia, tra l’altro, non è certo al primo posto tra i suicidi [in carcere] in Europa, anzi è verso gli ultimi» (min. 16:20)",
    "url": "https://pagellapolitica.it/fact-checking/suicidi-carcere-italia-europa-numeri",
    "fonte_originale": "https://www.raiplaysound.it/audio/2025/04/ZAPPING-0e36a448-0966-42ef-99b2-7916730a204d.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione del ministro della Giustizia non è supportata dai numeri."
   },
   {
    "slug": "giorgia-meloni",
@@ -1733,7 +1800,8 @@
    "frase": "Il mercato degli Stati Uniti vale il 10 per cento complessivo delle nostre esportazioni",
    "url": "https://pagellapolitica.it/fact-checking/peso-stati-uniti-export-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=vjXbTKQojug&t=28s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La percentuale della presidente del Consiglio è corretta."
   },
   {
    "slug": "francesco-lollobrigida",
@@ -1749,7 +1817,8 @@
    "frase": "L’Italia vanta il record di esportazioni di vino a livello mondiale",
    "url": "https://pagellapolitica.it/fact-checking/esportazioni-vino-mondo-classifica",
    "fonte_originale": "https://www.liberoquotidiano.it/news/politica/41963985/francesco-lollobrigida-cibo-italiano-migliora-vita-inaugurato-villaggio-agricoltura/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro dell’Agricoltura ha ragione solo se si guarda un dato specifico."
   },
   {
    "slug": "nicola-fratoianni",
@@ -1765,7 +1834,8 @@
    "frase": "Il governo annuncia 40 mila soldati in più",
    "url": "https://pagellapolitica.it/fact-checking/governo-annuncio-40-mila-soldati",
    "fonte_originale": "https://www.facebook.com/Fratoianni/posts/pfbid034x6oSijhXxA67PSrxYx9b2hD9nfRvPJp8Ap2DZfAEHP5WRm17eHA5UwxjWAZJ1uUl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del leader di Sinistra Italiana è scorretta."
   },
   {
    "slug": "matteo-salvini",
@@ -1781,7 +1851,8 @@
    "frase": "Oggi l’Italia ha già quasi 8 mila soldati in missione nel mondo, per un costo superiore al miliardo di euro all’anno",
    "url": "https://pagellapolitica.it/fact-checking/salvini-soldati-italiani-missioni-internazionali",
    "fonte_originale": "https://www.laverita.info/salvini-guerra-finita-riaprire-mosca-2671249739.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I due numeri citati dal leader della Lega sono corretti."
   },
   {
    "slug": "antonio-tajani",
@@ -1797,7 +1868,8 @@
    "frase": "Siamo il Paese che, dopo gli Stati Uniti, ha il maggior numero di uomini e mezzi impegnati nelle missioni Nato",
    "url": "https://pagellapolitica.it/fact-checking/italia-seconda-truppe-nato-tajani",
    "fonte_originale": "https://www.lastampa.it/esteri/2025/02/17/news/antonio_tajani_non_si_fa_la_pace_senza_europa-15006978/?ref=LSHA-BH-P1-S1-T1",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro degli Esteri ha sostanzialmente ragione."
   },
   {
    "slug": "elly-schlein",
@@ -1813,7 +1885,8 @@
    "frase": "Con le altre opposizioni abbiamo persino trovato le coperture: abbiamo suggerito al governo dove prendere 5 miliardi e mezzo in più da mettere subito sulla sanità pubblica per assumere medici e infermieri che mancano",
    "url": "https://pagellapolitica.it/fact-checking/schlein-pd-coperture-spesa-sanitaria",
    "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/caffe-domenica/puntata/trasmissione-16-febbraio-2025-083000-2366088484701514",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "In realtà, la proposta del PD resta vaga sulle coperture."
   },
   {
    "slug": "carlo-calenda",
@@ -1829,7 +1902,8 @@
    "frase": "Secondo i sondaggi, più della metà della popolazione è favorevole [al nucleare]",
    "url": "https://pagellapolitica.it/fact-checking/calenda-italiani-favorevoli-nucleare",
    "fonte_originale": "https://www.facebook.com/photo.php?fbid=1164035535094231&set=pb.100044633850227.-2207520000&type=3",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il dato riportato da Calenda cambia in base al sondaggio di riferimento"
   },
   {
    "slug": "francesco-boccia",
@@ -1845,7 +1919,8 @@
    "frase": "Ricordo che il “no” agli accordi con la Guardia costiera libica era uno dei punti scolpiti nella mozione di Elly Schlein",
    "url": "https://pagellapolitica.it/fact-checking/schlein-contraria-accordi-libia",
    "fonte_originale": "https://www.repubblica.it/politica/2025/02/05/news/intervista_francesco_boccia_almasri_schlein_pd-423982442/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il capogruppo del Partito Democratico al Senato ha ragione"
   },
   {
    "slug": "matteo-piantedosi",
@@ -1861,7 +1936,8 @@
    "frase": "Mi rifaccio a quelli che sono gli indici statistici di chi sonda la fiducia dei cittadini italiani, che per quanto riguarda le nostre forze dell’ordine è ai massimi livelli, è l’istituzione che più riscuote la fiducia dei cittadini",
    "url": "https://pagellapolitica.it/fact-checking/fiducia-cittadini-istituzioni-forze-ordine",
    "fonte_originale": "https://www.raiplay.it/video/2025/01/XXI-Secolo-Quando-il-presente-diventa-futuro---Puntata-del-13012025-10c294ad-332c-4515-a486-047084581aa5.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il ministro dell’Interno ha sostanzialmente ragione."
   },
   {
    "slug": "matteo-piantedosi",
@@ -1877,7 +1953,8 @@
    "frase": "Da quando si è insediato il governo Meloni [...] l’Europa ha incominciato in tutti gli appuntamenti del Consiglio europeo a porre al primo posto nelle agende di ogni riunione quello della risoluzione del problema migratorio incontrollato e insostenibile",
    "url": "https://pagellapolitica.it/fact-checking/no-limmigrazione-non-e-al-centro-dei-consigli-europei-grazie-a-meloni",
    "fonte_originale": "https://www.raiplay.it/video/2025/01/XXI-Secolo-Quando-il-presente-diventa-futuro---Puntata-del-13012025-10c294ad-332c-4515-a486-047084581aa5.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il ministro dell’Interno ha torto."
   },
   {
    "slug": "riccardo-magi",
@@ -1893,7 +1970,8 @@
    "frase": "Finalmente un primato per Giorgia Meloni, se pur triste: in due anni la presidente del Consiglio ha chiesto ben 73 voti di fiducia, quasi 3 al mese, più di qualsiasi altro governo, più di ogni esecutivo tecnico",
    "url": "https://pagellapolitica.it/fact-checking/meloni-record-voti-fiducia",
    "fonte_originale": "https://www.instagram.com/p/DDRso0hupqb/",
-   "fonte_tipo": "Instagram"
+   "fonte_tipo": "Instagram",
+   "giudizio": "Non è vero: almeno due governi hanno chiesto di più la fiducia."
   },
   {
    "slug": "giorgia-meloni",
@@ -1909,7 +1987,8 @@
    "frase": "Il numero dei femminicidi rimane sostanzialmente immutato",
    "url": "https://pagellapolitica.it/fact-checking/meloni-numero-femminicidi-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=SSMO1-F0ADc&t=142s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è corretta, in base ai dati disponibili."
   },
   {
    "slug": "giorgia-meloni",
@@ -1925,7 +2004,8 @@
    "frase": "Da quando c’è questo governo, abbiamo votato in 11 tra regioni e province autonome, forse 12 tra regioni e province autonome. È finita 11 a uno",
    "url": "https://pagellapolitica.it/fact-checking/elezioni-regionali-vittoria-centrodestra-governo-meloni",
    "fonte_originale": "https://youtu.be/hH4CV085EFA?si=Km7J3rio8Y2UL8uZ&t=47",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "slug": "giorgia-meloni",
@@ -1941,7 +2021,8 @@
    "frase": "Le agenzie di rating per la prima volta, due agenzie di rating, per la prima volta hanno rivisto in positivo le stime sull’Italia. Dal 1989 questa cosa è accaduta tre volte in Italia",
    "url": "https://pagellapolitica.it/fact-checking/meloni-agenzie-rating-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=OBRz7y9BKSs&t=689s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Questa cosa è avvenuta più volte rispetto al numero indicato da Meloni."
   },
   {
    "slug": "guido-crosetto",
@@ -1957,7 +2038,8 @@
    "frase": "Il Libano è una nazione che ha due milioni di profughi. Ha una percentuale di profughi sulla popolazione che non ha nessun altro Paese al mondo",
    "url": "https://pagellapolitica.it/fact-checking/classifica-paesi-numero-rifugiati-mondo",
    "fonte_originale": "https://youtu.be/qmvPw0-fhIM?si=crmdHuZeKMtytDcA&t=1651",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del ministro della Difesa è supportata dai numeri."
   },
   {
    "slug": "carlo-calenda",
@@ -1973,7 +2055,8 @@
    "frase": "Con tutte le coalizioni di centrodestra la pressione fiscale è aumentata",
    "url": "https://pagellapolitica.it/fact-checking/andamento-pressione-fiscale-governi-centrodestra",
    "fonte_originale": "https://www.facebook.com/watch/?v=1570434363558417",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Azione esagera."
   },
   {
    "slug": "matteo-renzi",
@@ -1989,7 +2072,8 @@
    "frase": "Nel Piano strutturale di bilancio c’è scritto che le accise sul gasolio aumenteranno",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-aumento-accise-diesel-gasolio",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1201758407816289",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia Viva dice la verità."
   },
   {
    "slug": "giuseppe-conte",
@@ -2005,7 +2089,8 @@
    "frase": "Con il secondo governo Conte, la prima cosa che abbiamo fatto è stato cambiare i decreti “Sicurezza",
    "url": "https://pagellapolitica.it/fact-checking/conte-modifica-decreti-sicurezza",
    "fonte_originale": "https://www.lastampa.it/politica/2024/09/16/news/giuseppe_conte_draghi_guerra_armi_ucraina-14635682/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il presidente del Movimento 5 Stelle dice una cosa falsa."
   },
   {
    "slug": "elly-schlein",
@@ -2021,7 +2106,8 @@
    "frase": "Con i due anni della Meloni sono aumentati i contratti a termine",
    "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-aumento-contratti-determinato-governo-meloni",
    "fonte_originale": "https://www.repubblica.it/politica/2024/09/13/news/schelin_stipendio_insegnanti_manovra_governo_intervista-423494322/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione della segretaria del PD non è supportata dai dati Istat."
   },
   {
    "slug": "matteo-renzi",
@@ -2037,7 +2123,8 @@
    "frase": "Penso che Giuli sia il primo ministro della Cultura non laureato della storia italiana",
    "url": "https://pagellapolitica.it/fact-checking/giuli-ministri-cultura-senza-laurea",
    "fonte_originale": "https://youtu.be/h-UfyOmM3T0?si=rHRjFFjBIHslTIP1&t=462",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Ci sono altri due casi di ministri della Cultura senza laurea."
   },
   {
    "slug": "carlo-calenda",
@@ -2053,7 +2140,8 @@
    "frase": "Siamo un Paese vecchio, dove in metà delle regioni i pensionati superano i lavoratori",
    "url": "https://pagellapolitica.it/fact-checking/numero-pensionati-lavoratori-regioni",
    "fonte_originale": "https://x.com/CarloCalenda/status/1829075277634269567",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione del leader di Azione non è supportata dai numeri."
   },
   {
    "slug": "antonio-tajani",
@@ -2069,7 +2157,8 @@
    "frase": "Non c’è stata nessuna trasformazione di Forza Italia, lo ius scholae lo voleva già Berlusconi",
    "url": "https://pagellapolitica.it/fact-checking/tajani-berlusconi-ius-scholae",
    "fonte_originale": "https://www.repubblica.it/politica/2024/08/21/news/antonio_tajani_intervista_ius_scholae-423455065/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro degli Esteri ha sostanzialmente ragione"
   },
   {
    "slug": "adolfo-urso",
@@ -2085,7 +2174,8 @@
    "frase": "Quest’estate il costo della benzina e del gasolio si è ridotto rispetto allo scorso anno",
    "url": "https://pagellapolitica.it/fact-checking/calo-prezzi-benzina-gasolio-estate",
    "fonte_originale": "https://www.lastampa.it/economia/2024/08/14/news/imprese_economia_ministro_urso_riconversione-14555242/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri danno ragione al ministro delle Imprese e del Made in Italy."
   },
   {
    "slug": "giuseppe-conte",
@@ -2101,7 +2191,8 @@
    "frase": "Siamo a quasi tre morti sul lavoro al giorno nei primi sei mesi del 2024, in aumento rispetto allo stesso periodo dello scorso anno",
    "url": "https://pagellapolitica.it/fact-checking/aumento-morti-lavoro-2024",
    "fonte_originale": "https://x.com/GiuseppeConteIT/status/1821850998903562661",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione del presidente del Movimento 5 Stelle è supportata dai dati più aggiornati."
   },
   {
    "slug": "carlo-nordio",
@@ -2117,7 +2208,8 @@
    "frase": "Gli stranieri sono quasi la metà dei detenuti, in maggioranza extracomunitari",
    "url": "https://pagellapolitica.it/fact-checking/numeri-detenuti-stranieri-italia",
    "fonte_originale": "https://www.ilmessaggero.it/politica/nordio_toti_dimissioni_riforma_giustizia_intervista_oggi-8266593.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La prima parte della dichiarazione è esagerata, mentre la seconda è corretta."
   },
   {
    "slug": "adolfo-urso",
@@ -2133,7 +2225,8 @@
    "frase": "Noi siamo il Paese che, all’interno dell’Unione europea, nel confronto con gli altri Paesi industriali avanzati, ha accresciuto di più il proprio export negli ultimi quattro anni",
    "url": "https://pagellapolitica.it/fact-checking/urso-aumento-export-italiano",
    "fonte_originale": "https://www.facebook.com/watch/?v=1222898392393154",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy ha ragione a metà."
   },
   {
    "slug": "carlo-nordio",
@@ -2149,7 +2242,8 @@
    "frase": "Il 30 per cento dei detenuti è in carcere in attesa di giudizio, e statisticamente almeno la metà poi viene assolta",
    "url": "https://pagellapolitica.it/fact-checking/nordio-detenuti-attesa-giudizio-assolti",
    "fonte_originale": "https://www.radio24.ilsole24ore.com/programmi/24mattino-le-interviste/puntata/trasmissione-10-luglio-2024-081000-2383576007381722",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro della Giustizia esagera."
   },
   {
    "slug": "elly-schlein",
@@ -2165,7 +2259,8 @@
    "frase": "È stato un voto fondamentale innanzitutto per i francesi che hanno risposto con una partecipazione senza precedenti",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-affluenza-elezioni-francia",
    "fonte_originale": "https://roma.corriere.it/notizie/politica/24_luglio_10/schlein-intervista-e3094bf2-f8b8-4fe9-a406-9afecf682xlk.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico esagera."
   },
   {
    "slug": "elly-schlein",
@@ -2181,7 +2276,8 @@
    "frase": "2011, referendum sui beni pubblici comuni: l’acqua e contro il nucleare. Attenzione però: il dato che mi interessa è che la partecipazione in quel referendum è stata maggiore a quella delle elezioni politiche",
    "url": "https://pagellapolitica.it/fact-checking/schlein-errore-affluenza-referendum-2011-acqua-nucleare",
    "fonte_originale": "https://www.la7.it/in-onda/rivedila7/dalla-francia-allitalia-prove-di-fronte-popolare-in-onda-puntata-872024-09-07-2024-551119",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico sbaglia."
   },
   {
    "slug": "giorgia-meloni",
@@ -2197,7 +2293,8 @@
    "frase": "I calciatori italiani nella Serie A sono sempre di meno: nel 2024 i calciatori italiani nella Serie A sono il 35 per cento",
    "url": "https://pagellapolitica.it/fact-checking/meloni-calciatori-stranieri-serie-a",
    "fonte_originale": "https://youtu.be/ovbODmlCIts?si=adoV2HmkkmyqdKpl&t=2051",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è supportata dai numeri."
   },
   {
    "slug": "matteo-renzi",
@@ -2213,7 +2310,8 @@
    "frase": "Poi escono i dati Istat e si vede che la pressione fiscale è aumentata dello 0,8 per cento rispetto allo scorso anno",
    "url": "https://pagellapolitica.it/fact-checking/pressione-fiscale-aumento-governo-meloni",
    "fonte_originale": "https://www.lastampa.it/politica/2024/07/03/news/renzi_autonomie_schlein_accordo-14442608/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del leader di Italia Viva è corretta, ma fa riferimento a un periodo specifico."
   },
   {
    "slug": "matteo-salvini",
@@ -2229,7 +2327,8 @@
    "frase": "Il 2023, che si è appena concluso, è stato l’anno record mondiale storico delle emissioni di CO2 [...] Nel 2023 siamo arrivati a 37,5 miliardi di tonnellate di emissioni di CO2 da fossile",
    "url": "https://pagellapolitica.it/fact-checking/2023-anno-record-emissioni-co2-mondo",
    "fonte_originale": "https://x.com/matteosalvinimi/status/1808096058817622279",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti dice la verità."
   },
   {
    "slug": "elly-schlein",
@@ -2245,7 +2344,12 @@
    "frase": "Ventunomila medici sono già andati all’estero perché non ci sono più le condizioni, non riescono più a lavorare",
    "url": "https://pagellapolitica.it/fact-checking/errore-numero-medici-italiani-estero",
    "fonte_originale": "https://documenti.camera.it/leg19/resoconti/assemblea/html/sed0314/stenografico.pdf#page=133",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il numero citato dalla segretaria del PD è una sovrastima, frutto di un errore di lettura.",
+   "testo_ufficiale": {
+    "estratto": "Grazie, Presidente. Care colleghe e colleghi, è così allora: oggi, definitivamente, state gettando la maschera. Sono mesi che vi diciamo che state smantellando la sanità pubblica; con i vostri tagli, con il definanziamento e, con questo voto, oggi voi lo certificate. Mi rivolgo alla maggioranza, per suo tramite, Presidente, mi rivolgo all'onorevole Foti, che prima ho ascoltato attentamente. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.sub00020.int00020"
+   }
   },
   {
    "slug": "giorgia-meloni",
@@ -2261,7 +2365,8 @@
    "frase": "Nel 2023 il Prodotto interno lordo delle regioni del Mezzogiorno è cresciuto più della media italiana, cioè è cresciuto dell’1,3 per cento quando la media italiana era una crescita dello 0,9 per cento [...]. Gli occupati nel Mezzogiorno sono aumentati del 2,6 per cento su base annua, anche qui dato superiore alla media nazionale, che invece cresce dell’1,8 per cento",
    "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-pil-occupati-mezzogiorno",
    "fonte_originale": "https://www.youtube.com/watch?v=25y0i3bCB-E&t=749s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio cita statistiche corrette."
   },
   {
    "slug": "carlo-nordio",
@@ -2277,7 +2382,8 @@
    "frase": "L’indice di sovraffollamento delle nostre carceri è di poco superiore a quello degli ultimi anni, e inferiore rispetto al periodo 2010-2015",
    "url": "https://pagellapolitica.it/fact-checking/aumento-sovraffollamento-detenuti-carceri-italia",
    "fonte_originale": "https://www.ilmessaggero.it/politica/abuso_ufficio_stop_nordio_cosa_dice-8198035.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro della Giustizia è impreciso."
   },
   {
    "slug": "giorgia-meloni",
@@ -2293,7 +2399,8 @@
    "frase": "Questo G7, per la prima volta nella storia, ha parlato anche di governo dei flussi migratori",
    "url": "https://pagellapolitica.it/fact-checking/meloni-governo-immigrazione-g7-puglia",
    "fonte_originale": "https://www.youtube.com/watch?v=LvmWTzD8SFs&t=171s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è esagerata."
   },
   {
    "slug": "guido-crosetto",
@@ -2309,7 +2416,8 @@
    "frase": "Gli episodi di violenza in Puglia, in un anno, stanno ampiamente sotto quelli mensili in una grande città degli Stati Uniti",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-omicidi-puglia-citta-stati-uniti",
    "fonte_originale": "Se si guarda il numero degli omicidi, il ministro della Difesa ha ragione.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Se si guarda il numero degli omicidi, il ministro della Difesa ha ragione."
   },
   {
    "slug": "adolfo-urso",
@@ -2325,7 +2433,8 @@
    "frase": "Giorgia Meloni è l’unica leader che vince nella Ue, come partito e come governo",
    "url": "https://pagellapolitica.it/fact-checking/meloni-unico-leader-vittoria-elezioni-europee-ue",
    "fonte_originale": "https://www.agenzianova.com/en/news/europee-urso-dalle-urne-esce-un-governo-rafforzato/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera."
   },
   {
    "slug": "elly-schlein",
@@ -2341,7 +2450,8 @@
    "frase": "Il Partito Democratico è il partito che è cresciuto di più dalle scorse elezioni politiche, con cinque punti in più",
    "url": "https://pagellapolitica.it/fact-checking/crescita-pd-elezioni-europee-2024",
    "fonte_originale": "https://www.youtube.com/watch?v=0iKqtKywmuM&t=165s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "In realtà c’è chi ha fatto meglio del PD."
   },
   {
    "slug": "giorgia-meloni",
@@ -2357,7 +2467,8 @@
    "frase": "L’Italia è la prima nazione europea per realizzazione del Pnrr, nonostante abbia il piano più corposo di tutti i Paesi europei",
    "url": "https://pagellapolitica.it/fact-checking/classifica-attuazione-pnrr-paesi-europei",
    "fonte_originale": "https://www.youtube.com/watch?v=Z-qt_0KobK4&t=1170s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio esagera."
   },
   {
    "slug": "matteo-salvini",
@@ -2373,7 +2484,8 @@
    "frase": "Siamo uno dei Paesi europei dove l’età media per andare in pensione è più alta",
    "url": "https://pagellapolitica.it/fact-checking/eta-media-pensione-italia-europa",
    "fonte_originale": "https://www.youtube.com/watch?v=jnQHX4e-LiM&t=1572s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del leader della Lega non è supportata dai dati."
   },
   {
    "slug": "giuseppe-conte",
@@ -2389,7 +2501,8 @@
    "frase": "Guardando i dati dell’occupazione di cui si vantano, sono aumentati i lavori a termine e i cassintegrati",
    "url": "https://pagellapolitica.it/fact-checking/conte-sbaglia-aumento-occupati-a-termine-cassa-integrazione",
    "fonte_originale": "https://www.corriere.it/politica/24_maggio_21/conte-dal-pd-attacchi-proditori-gentiloni-sul-pnrr-non-rispetta-la-verita-8c89a11b-2fd6-45f3-b833-cbbac35e2xlk.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri danno torto al presidente del Movimento 5 Stelle."
   },
   {
    "slug": "carlo-calenda",
@@ -2405,7 +2518,8 @@
    "frase": "Nel Parlamento europeo oggi l’Italia è venticinquesima su ventisette Paesi per influenza, eppure siamo il terzo Paese più grande e più potente in termini economici",
    "url": "https://pagellapolitica.it/fact-checking/classifica-influenza-parlamentari-europei",
    "fonte_originale": "https://youtu.be/rNUAjxSQKxE?si=jxEVtisKODgmV4DP&t=82",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il leader di Azione cita correttamente una classifica di un centro studi."
   },
   {
    "slug": "elly-schlein",
@@ -2421,7 +2535,8 @@
    "frase": "Il superamento del Jobs Act era un punto fondante del programma con cui mi sono presentata alle primarie per la segreteria, oltre un anno fa, in linea con scelte anche personali fatte in passato. Vorrei ricordare che io ero in piazza con la Cgil nel 2015 contro l’abolizione dell’articolo 18",
    "url": "https://pagellapolitica.it/fact-checking/schlein-coerente-referendum-contro-jobs-act",
    "fonte_originale": "https://www.repubblica.it/politica/2024/05/07/news/schlein_intervista_sicurezza_lavoro-422846622/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del PD dice la verità."
   },
   {
    "slug": "matteo-salvini",
@@ -2437,7 +2552,8 @@
    "frase": "Nella riforma del codice della strada c’è il cosiddetto “ergastolo della patente” e poi c’è il codice penale [...]. Nei casi gravi di reiterazione tu la patente non la puoi più vedere",
    "url": "https://pagellapolitica.it/fact-checking/ergastolo-patente-riforma-codice-strada-salvini",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=959700385440676",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del ministro delle Infrastrutture e dei Trasporti è scorretta."
   },
   {
    "slug": "matteo-salvini",
@@ -2453,7 +2569,8 @@
    "frase": "Gli studi della Società Stretto di Messina calcolano che dall’apertura del cantiere del ponte sullo Stretto saranno creati 120 mila posti di lavoro",
    "url": "https://pagellapolitica.it/fact-checking/ponte-stretto-120-mila-posti-lavoro-falso",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/959700385440676/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La stima citata da Salvini è sbagliata."
   },
   {
    "slug": "elly-schlein",
@@ -2469,7 +2586,8 @@
    "frase": "Sapete quanto si stima – sono stime, si prendono con le pinze – che possa valere l’elusione fiscale in Europa ogni anno? Alcuni studi, cito il professore Richard Murphy, parlano di 700-800 miliardi di euro all’anno",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-elusione-fiscale-multinazionali-ue",
    "fonte_originale": "https://www.youtube.com/watch?v=Ras4YRIFJL4&t=5050s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La stima della segretaria del PD è esagerata."
   },
   {
    "slug": "giuseppe-conte",
@@ -2485,7 +2603,8 @@
    "frase": "Siamo la forza politica italiana più green! Per la Ong francese Bloom la delegazione italiana del M5S all’Europarlamento risulta “ecologicamente esemplare”, classificandosi al primo posto tra le delegazioni italiane che hanno maggiormente sostenuto le politiche ecologiche e il Green Deal",
    "url": "https://pagellapolitica.it/fact-checking/movimento-5-stelle-partito-piu-green-parlamento-ue",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": "Le cose non stanno proprio come dice il presidente del Movimento 5 Stelle."
   },
   {
    "slug": "giuseppe-conte",
@@ -2501,7 +2620,8 @@
    "frase": "Tagliandosi lo stipendio, il Movimento 5 Stelle ha restituito 100 milioni alla comunità",
    "url": "https://pagellapolitica.it/fact-checking/movimento-5-stelle-restituzioni-100-milioni",
    "fonte_originale": "https://www.lastampa.it/politica/2024/04/14/news/giuseppe_conte_intervista-14223540/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La cifra citata dall’ex presidente del Consiglio è corretta."
   },
   {
    "slug": "carlo-nordio",
@@ -2517,7 +2637,8 @@
    "frase": "L’esame psico-attitudinale per i magistrati lo fa praticamente tutta l’Europa: la Francia lo ha un po’ ridotto, in Germania è rigorosissimo, in Belgio, in Portogallo, in Olanda si fa",
    "url": "https://pagellapolitica.it/fact-checking/nordio-test-psicoattitudinali-magistrati-europa",
    "fonte_originale": "https://www.youtube.com/watch?v=p4w-eBUB_kM&t=3009s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il ministro della Giustizia esagera."
   },
   {
    "slug": "giorgia-meloni",
@@ -2533,7 +2654,8 @@
    "frase": "L’Italia oggi è, tra le nazioni del G7, la nazione che ha il tasso di inflazione più basso",
    "url": "https://pagellapolitica.it/fact-checking/meloni-inflazione-italia-piu-bassa-g7",
    "fonte_originale": "https://www.youtube.com/watch?v=QmqNEGS0i28&t=1931s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è corretta."
   },
   {
    "slug": "matteo-salvini",
@@ -2549,7 +2671,8 @@
    "frase": "Gli anni di governo dei repubblicani a Washington sono sempre coincisi con anni di pace e di prosperità",
    "url": "https://pagellapolitica.it/fact-checking/salvini-guerre-presidenti-repubblicani-stati-uniti",
    "fonte_originale": "https://www.youtube.com/live/a4zLvxtVHH8?si=XaI_JGc0AaY7Hvto&t=5132",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del leader della Lega è scorretta."
   },
   {
    "slug": "elly-schlein",
@@ -2565,7 +2688,8 @@
    "frase": "L’Erasmus ha riguardato solo 9-10 milioni di studenti e studentesse europee",
    "url": "https://pagellapolitica.it/fact-checking/schlein-numero-studenti-erasmus",
    "fonte_originale": "https://www.youtube.com/live/2v7TrX00SxQ?si=7fvCWNWnrhN4xmyO&t=8478",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La segretaria del Partito Democratico è imprecisa."
   },
   {
    "slug": "giuseppe-conte",
@@ -2581,7 +2705,8 @@
    "frase": "Ci sono 2 milioni di famiglie che stanno perdendo casa per la vendita all’asta perché non riescono a pagare il mutuo",
    "url": "https://pagellapolitica.it/fact-checking/conte-famiglie-perdono-casa-mutuo",
    "fonte_originale": "https://www.youtube.com/watch?v=RhJnTwEoCEU&t=485s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il dato citato da Conte è parecchio esagerato."
   },
   {
    "slug": "carlo-calenda",
@@ -2597,7 +2722,8 @@
    "frase": "La Basilicata produce il 70 per cento del petrolio italiano, il 14 per cento del gas",
    "url": "https://pagellapolitica.it/fact-checking/basilicata-produzione-gas-petrolio",
    "fonte_originale": "https://www.facebook.com/ccalenda/videos/255227300994962/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Le percentuali corrette sono un po’ più alte."
   },
   {
    "slug": "matteo-renzi",
@@ -2613,7 +2739,8 @@
    "frase": "Nell’ultimo decreto-legge sul Pnrr, Giorgia Meloni “regala” al Cnel due dirigenti, otto funzionari e sette assistenti per Brunetta: più di un milione di euro all’anno a regime",
    "url": "https://pagellapolitica.it/fact-checking/decreto-pnrr-assunzioni-cnel",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1769281792769491423",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": null
   },
   {
    "slug": "giorgia-meloni",
@@ -2629,7 +2756,8 @@
    "frase": "L’Africa è un continente che attualmente detiene il 60 per cento di terre rare e il 60 per cento di terre arabili",
    "url": "https://pagellapolitica.it/fact-checking/meloni-terre-rare-arabili-africa",
    "fonte_originale": "https://www.youtube.com/watch?v=J7Gtuz2dbo8&t=338s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Le percentuali indicate dalla presidente del Consiglio sono esagerate."
   },
   {
    "slug": "elly-schlein",
@@ -2645,7 +2773,8 @@
    "frase": "Nel 2023 sono morte nel Mediterraneo oltre 3 mila persone, quasi 2.300 solo sulla rotta del Mediterraneo centrale, un numero di morti più alto del 60 per cento rispetto al 2022",
    "url": "https://pagellapolitica.it/fact-checking/schlein-migranti-morti-mediterraneo-2023",
    "fonte_originale": "https://www.facebook.com/100044181531459/posts/955074419308600",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La segretaria del PD ha ragione."
   },
   {
    "slug": "elly-schlein",
@@ -2661,7 +2790,8 @@
    "frase": "Il PD ha raddoppiato i voti rispetto all’11 per cento delle precedenti regionali abruzzesi, recuperando quasi 4 punti sulle politiche di un anno e mezzo fa",
    "url": "https://pagellapolitica.it/fact-checking/partito-democratico-voti-elezioni-regionali-abruzzo",
    "fonte_originale": "https://www.repubblica.it/politica/2024/03/12/news/schlein_intervista_elezioni_abruzzo-422292763/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "I numeri supportano la dichiarazione di Schlein, ma i confronti vanno fatti con attenzione."
   },
   {
    "slug": "giorgia-meloni",
@@ -2677,7 +2807,8 @@
    "frase": "Con il Superbonus sono stati ristrutturati anche sei castelli privati, per un costo totale di un miliardo",
    "url": "https://pagellapolitica.it/fact-checking/meloni-superbonus-castelli-miliardo-euro",
    "fonte_originale": "https://www.rainews.it/rubriche/tg2post/video/2024/02/TG2-Post-del-28022024-fdf1e58c-4cac-4ae8-b2a6-f5f7262cf00f.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La cifra indicata dalla leader di Fratelli d’Italia è completamente sbagliata."
   },
   {
    "slug": "matteo-salvini",
@@ -2693,7 +2824,8 @@
    "frase": "In Gran Bretagna vietato ai minori di 12 anni guardare Mary Poppins per presunto “linguaggio discriminatorio",
    "url": "https://pagellapolitica.it/fact-checking/salvini-censura-mary-poppins-regno-unito",
    "fonte_originale": "https://www.facebook.com/100050527747831/posts/947108606983389",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega non la racconta giusta."
   },
   {
    "slug": "matteo-salvini",
@@ -2709,7 +2841,8 @@
    "frase": "Nel codice della strada ho previsto il ritiro della patente per chi viene trovato alla guida drogato",
    "url": "https://pagellapolitica.it/fact-checking/salvini-ritiro-patete-guida-droga",
    "fonte_originale": "https://www.youtube.com/watch?v=lfvCOeHgtFs&t=1086s&ab_channel=MatteoSalvini",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti è fuorviante."
   },
   {
    "slug": "matteo-piantedosi",
@@ -2725,7 +2858,8 @@
    "frase": "Un richiedente asilo non può finire all’interno dei CPR",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-richiedenti-asilo-cpr",
    "fonte_originale": "https://youtu.be/hKqpqiR4ses?si=DCirh4W-pdQpHTkR&t=74",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del ministro dell’Interno è scorretta."
   },
   {
    "slug": "giorgia-meloni",
@@ -2741,7 +2875,8 @@
    "frase": "Il reddito disponibile delle famiglie, secondo l’Ocse, è aumentato in Italia sei volte di più di quanto sia aumentato nella media delle altre nazioni",
    "url": "https://pagellapolitica.it/fact-checking/meloni-fuorviante-aumento-reddito-famiglie-ocse",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1757129523592651099",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione della presidente del Consiglio è fuorviante."
   },
   {
    "slug": "carlo-nordio",
@@ -2757,7 +2892,8 @@
    "frase": "Abbiamo oltre duemila cittadini in carceri straniere",
    "url": "https://pagellapolitica.it/fact-checking/numero-detenuti-italiani-estero",
    "fonte_originale": "https://www.corriere.it/politica/24_febbraio_06/nordio-giudici-ungheresi-sovrani-caso-salis-stato-fa-possibile-c84be816-c532-11ee-8abe-da9fee8eb737.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro della Giustizia cita un numero corretto."
   },
   {
    "slug": "giorgia-meloni",
@@ -2773,7 +2909,8 @@
    "frase": "Le risorse del Pnrr dedicate al mondo degli agricoltori [...] passano da 5 a 8 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/aumento-soldi-pnrr-agricoltura",
    "fonte_originale": "https://www.youtube.com/watch?v=QS248y3rh1E&t=554s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "slug": "giuseppe-conte",
@@ -2789,7 +2926,8 @@
    "frase": "Noi abbiamo una produzione industriale che è calata da dieci mesi",
    "url": "https://pagellapolitica.it/fact-checking/conte-calo-produzione-industriale",
    "fonte_originale": "https://www.facebook.com/watch/?v=755942089720899",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il presidente del Movimento 5 Stelle ha ragione se si guarda la variazione tendenziale dell’indice della produzione industriale."
   },
   {
    "slug": "matteo-renzi",
@@ -2805,7 +2943,8 @@
    "frase": "Il governo ha tagliato 25 milioni di euro del fondo per il contrasto dei disturbi alimentari",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-taglia-fondo-disturbi-alimentari",
    "fonte_originale": "https://www.ilriformista.it/anoressia-e-bulimia-altro-che-pistoleri-leditoriale-di-matteo-renzi-402648/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il presidente di Italia Viva omette un dettaglio importante: più che tagliare, il governo non ha rinnovato una misura."
   },
   {
    "slug": "giuseppe-conte",
@@ -2821,7 +2960,8 @@
    "frase": "Ancora una volta il Movimento 5 Stelle costituisce un’eccezione: abbiamo votato No all’invio di ulteriori forniture militari per l'Ucraina",
    "url": "https://pagellapolitica.it/fact-checking/voto-parlamento-contro-invio-armi-ucraina",
    "fonte_originale": "https://www.facebook.com/GiuseppeConte64/videos/1035184207548189/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il presidente del Movimento 5 Stelle non dice che altri due partiti hanno votato contro."
   },
   {
    "slug": "matteo-renzi",
@@ -2837,7 +2977,8 @@
    "frase": "Siamo gli unici che continuano a chiedere le dimissioni di Delmastro",
    "url": "https://pagellapolitica.it/fact-checking/partiti-richieste-dimissioni-delmastro",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1744994425925722519",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il presidente di Italia Viva dice una cosa falsa."
   },
   {
    "slug": "nicola-fratoianni",
@@ -2853,7 +2994,8 @@
    "frase": "Quel che non dicono è che l’aumento dell’occupazione che si registra nel mese prima di Natale di solito è legato proprio alla stagionalità",
    "url": "https://pagellapolitica.it/fact-checking/fratoianni-errore-crescita-occupati-natale",
    "fonte_originale": "https://www.ansa.it/sito/notizie/economia/pmi/2024/01/09/lavoro-fratoianni-destra-smetta-con-propaganda-sui-dati-istat_f4b8f6e8-57bd-4d41-a672-565006d12df1.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Le cose non stanno come dice il segretario di Sinistra Italiana."
   },
   {
    "slug": "giuseppe-conte",
@@ -2869,7 +3011,8 @@
    "frase": "A Gaza il numero dei morti civili palestinesi, tra cui molte donne e bambini, ha ormai superato i 20 mila",
    "url": "https://pagellapolitica.it/fact-checking/gaza-persone-morte",
    "fonte_originale": "https://www.facebook.com/GiuseppeConte64/posts/pfbid0EGT1pSWR2tf63Vew7ckKNRfnH93PWS883PUdgDK3CqP83t9D75daonFmSmmkFcUPl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il numero citato dal presidente del Movimento 5 Stelle è attendibile."
   },
   {
    "slug": "francesco-lollobrigida",
@@ -2885,7 +3028,8 @@
    "frase": "Dopo il nostro stop al cibo sintetico, anche la Francia ha avanzato una proposta di legge per vietare la produzione, lavorazione e commercializzazione di carne sintetica",
    "url": "https://pagellapolitica.it/fact-checking/proposta-legge-francia-carne-coltivata",
    "fonte_originale": "https://agricolae.eu/editoriale-2023-francesco-lollobrigida-italia-che-fa-sistema-e-quella-che-fa-la-differenza-grazie-a-chi-lavora-senza-condizionamenti-ideologici/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La dichiarazione del ministro dell’Agricoltura è fuorviante."
   },
   {
    "slug": "matteo-renzi",
@@ -2901,7 +3045,8 @@
    "frase": "In un giorno pago [di tasse] il triplo di quello che Giuseppe Conte ha pagato in un anno",
    "url": "https://pagellapolitica.it/fact-checking/dichiarazioni-redditi-renzi-conte-tasse",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1740328349984051495",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione del leader di Italia Viva è esagerata e va contestualizzata."
   },
   {
    "slug": "giancarlo-giorgetti",
@@ -2917,7 +3062,8 @@
    "frase": "Questo Paese ha il 140 per cento di debito sul Pil [...]. Tutti gli altri Paesi Ue, al netto della Grecia, arrivano al massimo a 100",
    "url": "https://pagellapolitica.it/fact-checking/classifica-debito-pubblico-paesi-europei",
    "fonte_originale": "https://webtv.camera.it/evento/24201",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il ministro dell’Economia e delle Finanze ha sostanzialmente ragione."
   },
   {
    "slug": "matteo-renzi",
@@ -2933,7 +3079,8 @@
    "frase": "L’immunità parlamentare non copre gli insulti",
    "url": "https://pagellapolitica.it/fact-checking/immunita-parlamentare-insulti",
    "fonte_originale": "https://www.lastampa.it/politica/2023/12/23/news/renzi_gasparri_intervista-13951465/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "In linea di massima il leader di Italia Viva ha ragione."
   },
   {
    "slug": "adolfo-urso",
@@ -2949,7 +3096,8 @@
    "frase": "Il tabellone sul prezzo medio dei carburanti ha portato a una costante riduzione del prezzo di gasolio e benzina",
    "url": "https://pagellapolitica.it/fact-checking/urso-sbaglia-tabellone-prezzo-benzina",
    "fonte_originale": "https://twitter.com/adolfo_urso/status/1732055984816738407",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy si prende meriti che non ha."
   },
   {
    "slug": "elly-schlein",
@@ -2965,7 +3113,8 @@
    "frase": "La maggioranza vuole abbassare l’Iva sugli integratori alimentari e sulla chirurgia estetica",
    "url": "https://pagellapolitica.it/fact-checking/schlein-taglio-iva-chirurgia-estetica",
    "fonte_originale": "https://www.ansa.it/sito/videogallery/italia/2023/12/02/sanita-pubblica-schlein-aiutiamo-regioni-con-assunzioni_5b7a73cf-084a-472a-b392-19929fb60595.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico omette un dettaglio importante."
   },
   {
    "slug": "matteo-salvini",
@@ -2981,7 +3130,8 @@
    "frase": "La Cgil non fece sciopero quando la Fornero approvò la sua legge",
    "url": "https://pagellapolitica.it/fact-checking/salvini-sciopero-cgil-contro-riforma-fornero",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1777651692661458",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega dice una cosa falsa."
   },
   {
    "slug": "matteo-renzi",
@@ -2997,7 +3147,8 @@
    "frase": "Uno dei primi provvedimenti di questo governo è la proroga dei navigator",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-proroga-contratti-navigator",
    "fonte_originale": "https://www.la7.it/laria-che-tira/rivedila7/laria-che-tira-03112022-03-11-2022-458394",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il leader di Italia viva sbaglia."
   },
   {
    "slug": "matteo-salvini",
@@ -3013,7 +3164,8 @@
    "frase": "Dal 1° gennaio grazie a questa manovra 14 milioni di lavoratori e lavoratrici, che guadagnano fino a 35 mila euro all’anno, avranno una busta paga più ricca",
    "url": "https://pagellapolitica.it/fact-checking/salvini-fuorviante-taglio-cuneo-fiscale-2024",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=723122326518570",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il messaggio del segretario della Lega è fuorviante."
   },
   {
    "slug": "elly-schlein",
@@ -3029,7 +3181,8 @@
    "frase": "Nella legge di Bilancio non c’è nulla sui servizi pubblici essenziali come sanità, casa e diritto allo studio",
    "url": "https://pagellapolitica.it/fact-checking/schlein-esagera-legge-bilancio-2024",
    "fonte_originale": "https://www.lastampa.it/politica/2023/11/02/news/schlein_tutta_lopposizione_in_piazza_contro_il_governo-13825602/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La segretaria del Partito Democratico esagera."
   },
   {
    "slug": "giorgia-meloni",
@@ -3045,7 +3198,8 @@
    "frase": "[L’astensione sulla risoluzione Onu su Gaza] è stata la posizione della gran parte dei Paesi del Consiglio europeo, dei Paesi europei e di quelli del G7",
    "url": "https://pagellapolitica.it/fact-checking/meloni-astensione-italia-risoluzione-onu-gaza",
    "fonte_originale": "https://corporate.ansa.it/sito/notizie/politica/2023/10/28/meloni-astensione-allonu-per-evitare-lescalation-le-opposizioni-grave-errore_0fa365b4-c075-41d3-a361-6dd33a884847.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "slug": "nicola-fratoianni",
@@ -3061,7 +3215,8 @@
    "frase": "Il 63 per cento delle famiglie italiane fatica ad arrivare alla fine del mese. Un record negativo in Europa, certificato da una ricerca di Eurostat",
    "url": "https://pagellapolitica.it/fact-checking/fratoianni-famiglie-fatica-arrivare-fine-mese",
    "fonte_originale": "https://www.facebook.com/Fratoianni/posts/pfbid0252x7ZS1ntLzB3BJSTT83ud2xRahntAtxC1npUgcwKMsegyoYz81SYHAZwPyPS9WBl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il segretario di Sinistra Italiana cita correttamente la percentuale, che però è del 2022 e non è un record."
   },
   {
    "slug": "elly-schlein",
@@ -3077,7 +3232,8 @@
    "frase": "Nei Paesi come la Germania, dove si è adottato il salario minimo, anche le altre retribuzioni si sono alzate",
    "url": "https://pagellapolitica.it/fact-checking/schlein-sbaglia-effetti-salario-minimo",
    "fonte_originale": "https://www.la7.it/dimartedi/video/lintervista-a-elly-schlein-17-10-2023-508542",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione della segretaria del PD non è supportata dai fatti."
   },
   {
    "slug": "angelo-bonelli",
@@ -3093,7 +3249,8 @@
    "frase": "A Gaza l’80 per cento delle persone vive in una situazione di deprivazione umana, sociale, di povertà. A Gaza il 47 per cento della popolazione sono bambini",
    "url": "https://pagellapolitica.it/fact-checking/poverta-bambini-striscia-gaza",
    "fonte_originale": "https://www.raiplay.it/video/2023/10/Porta-a-Porta-d89c41f7-a95b-4b7c-9b0c-f16cdf5d600c.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il co-portavoce di Europa Verde ha sostanzialmente ragione."
   },
   {
    "slug": "elly-schlein",
@@ -3109,7 +3266,8 @@
    "frase": "L’Unione europea riconosce già Hamas come un’organizzazione terroristica, quindi non può ricevere in nessun caso fondi per la cooperazione allo sviluppo e aiuti umanitari",
    "url": "https://pagellapolitica.it/fact-checking/schlein-ue-hamas-terrorista",
    "fonte_originale": "https://www.raiplay.it/video/2023/10/Porta-a-Porta-a6176aae-6cfd-4085-9ccb-0343981117d3.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La segretaria del Partito Democratico dice la verità."
   },
   {
    "slug": "carlo-calenda",
@@ -3125,7 +3283,8 @@
    "frase": "Il Superbonus ci è costato 150 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/calenda-superbonus-costi",
    "fonte_originale": "https://www.facebook.com/100044633850227/posts/868890677942053",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il numero citato dal segretario di Azione è esagerato."
   },
   {
    "slug": "angelo-bonelli",
@@ -3141,7 +3300,8 @@
    "frase": "In questo Paese ci sono 69 persone che hanno patrimoni pari a 233 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/numero-miliardari-italia",
    "fonte_originale": "https://www.raiplay.it/video/2023/09/Restart---Puntata-del-02102023-cd442980-49ca-400c-b308-597990f45c09.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Il co-portavoce di Europa Verde è impreciso."
   },
   {
    "slug": "giorgia-meloni",
@@ -3157,7 +3317,8 @@
    "frase": "L’Italia è una nazione che ha una previsione di crescita superiore a quella della media europea anche per il prossimo anno, superiore a quella della Francia e della Germania anche per il prossimo anno",
    "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-pil-italia-2024",
    "fonte_originale": "https://www.youtube.com/watch?v=o-gAUmnfUlo&t=551s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "In base alle previsioni aggiornate, la presidente del Consiglio sembra un po’ troppo ottimista."
   },
   {
    "slug": "matteo-salvini",
@@ -3173,7 +3334,8 @@
    "frase": "Torna l’operazione “Strade sicure”, cancellata in questi anni dalla sinistra",
    "url": "https://pagellapolitica.it/fact-checking/salvini-operazione-strade-sicure",
    "fonte_originale": "https://twitter.com/matteosalvinimi/status/1707110393355575311",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il ministro delle Infrastrutture e dei Trasporti sbaglia."
   },
   {
    "slug": "giorgia-meloni",
@@ -3189,7 +3351,8 @@
    "frase": "Oggi al mondo non esiste attività criminale più profittevole del traffico di migranti",
    "url": "https://pagellapolitica.it/fact-checking/meloni-traffico-migranti-droga-armi",
    "fonte_originale": "https://www.governo.it/it/articolo/intervento-del-presidente-meloni-alla-78ma-assemblea-generale-delle-nazioni-unite/23620#:~:text=davvero%20possiamo%20fingere%20di%20non%20vedere%20che%20oggi%20al%20mondo%20non%20esiste%20attivita%20criminale%20piu%20profittevole%20del%20traffico%20di%20migranti%2C%20quando%20proprio%20i%20rapporti%20onu%20certificano%20come%20questo%20business%20abbia%20raggiunto%20per%20volumi%20di%20denaro%20il%20traffico%20di%20droga%2C%20e%20ampiamente%20superato%20quello%20delle%20armi%3F",
-   "fonte_tipo": "Governo"
+   "fonte_tipo": "Governo",
+   "giudizio": "La dichiarazione della presidente del Consiglio non è supportata dai dati."
   },
   {
    "slug": "nicola-fratoianni",
@@ -3205,7 +3368,8 @@
    "frase": "In un anno abbiamo accolto oltre 500 mila cittadini ucraini",
    "url": "https://pagellapolitica.it/fact-checking/rifugiati-ucraini-italia-dati",
    "fonte_originale": "https://www.facebook.com/Fratoianni/posts/pfbid02Y6cEbZPsimXBXzhhyftJuqtYTEv4cXm85Bt2eYsbcGLDjQ2zJbfszqeuNFpXwdMql",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il numero citato dal segretario di Sinistra Italiana è esagerato."
   },
   {
    "slug": "nicola-fratoianni",
@@ -3221,7 +3385,8 @@
    "frase": "Il 2 per cento del Pil nazionale in spese militari vuol dire, rispetto a quanto spendiamo oggi, 13 miliardi di euro in più ogni anno",
    "url": "https://pagellapolitica.it/fact-checking/fratoianni-aumento-spese-militari-nato",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=999947274561399",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Al momento la cifra corretta è un paio di miliardi di euro più bassa."
   },
   {
    "slug": "elly-schlein",
@@ -3237,7 +3402,8 @@
    "frase": "Questo governo ha ridotto il fondo nazionale sui nidi",
    "url": "https://pagellapolitica.it/fact-checking/schlein-fondo-asili-nido",
    "fonte_originale": "https://www.la7.it/otto-e-mezzo/rivedila7/otto-e-mezzo-14-09-2023-502856",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "Al momento l’accusa mossa dalla segretaria del PD è scorretta."
   },
   {
    "slug": "matteo-salvini",
@@ -3253,7 +3419,8 @@
    "frase": "L’Italia è l’unico Paese europeo che sta vivendo un’immigrazione con queste dimensioni",
    "url": "https://pagellapolitica.it/fact-checking/richieste-asilo-paesi-ue",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/1250344872340822/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader della Lega esagera."
   },
   {
    "slug": "matteo-renzi",
@@ -3269,7 +3436,8 @@
    "frase": "Greta Thunberg diceva: “Il mondo finirà nel 2023",
    "url": "https://pagellapolitica.it/fact-checking/renzi-thunberg-fine-mondo-2023",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1077479879914851",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il leader di Italia Viva si sbaglia."
   },
   {
    "slug": "giuseppe-conte",
@@ -3285,7 +3453,8 @@
    "frase": "Il Superbonus ha creato un milione di posti di lavoro",
    "url": "https://pagellapolitica.it/fact-checking/conte-superbonus-milione-posti-lavoro",
    "fonte_originale": "https://www.corriere.it/politica/23_settembre_08/conte-superbonus-intervista-a509f142-4e7a-11ee-b064-b6ec7165b1a5.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il risultato rivendicato dal presidente del Movimento 5 Stelle è parecchio esagerato."
   },
   {
    "slug": "matteo-piantedosi",
@@ -3301,7 +3470,8 @@
    "frase": "Nei mesi centrali dell’estate – luglio, agosto e settembre – abbiamo registrato sbarchi di 68 mila persone a Lampedusa",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-esagera-sbarchi-lampedusa",
    "fonte_originale": "https://www.youtube.com/watch?v=cWDMYHJDnkw&t=714s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri dicono che il ministro dell’Interno esagera."
   },
   {
    "slug": "adolfo-urso",
@@ -3317,7 +3487,8 @@
    "frase": "Il Superbonus è una misura che ha provocato diverse occasioni di truffa: si parla di un ammontare di 12 miliardi di euro allo Stato",
    "url": "https://pagellapolitica.it/fact-checking/urso-truffe-superbonus",
    "fonte_originale": "https://www.quotidiano.net/economia/extraprofitti-manovra-ministro-urso-dd7d12c2",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera."
   },
   {
    "slug": "adolfo-urso",
@@ -3333,7 +3504,8 @@
    "frase": "La borsa italiana è cresciuta del 21,1 per cento dal 1° gennaio, più di qualunque borsa europea",
    "url": "https://pagellapolitica.it/fact-checking/urso-borsa-milano-crescita-ftse",
    "fonte_originale": "https://www.corriere.it/economia/aziende/23_settembre_03/urso-imprese-indebitate-lavoriamo-un-intervento-crediti-deteriorati-a273bf70-4a25-11ee-9131-905355f2bbbe.shtml#:~:text=Aggiungo%20che%20questo%20governo%20dall,2022%20ai%20164%20di%20oggi%C2%BB.",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il dato citato dal ministro delle Imprese e del Made in Italy è corretto."
   },
   {
    "slug": "giorgia-meloni",
@@ -3349,7 +3521,8 @@
    "frase": "Siamo l’unico Paese del G7 ad aver aderito alla Via della Seta ma non siamo affatto il Paese del G7 o il Paese europeo con il maggior interscambio con la Cina",
    "url": "https://pagellapolitica.it/fact-checking/commercio-italia-cina-g7",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/posts/pfbid02hQkXVz715rd3Cy6tLLREVL2gx8YY9XCPeiPrWNpicxGHbJDhD97SeP3kx1QBEqFVl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "slug": "matteo-piantedosi",
@@ -3365,7 +3538,8 @@
    "frase": "A meno del 10 per cento di coloro che arrivano in Italia viene riconosciuto lo status di rifugiato. Oltre il 90 per cento è spinto solo da ragioni economiche",
    "url": "https://pagellapolitica.it/fact-checking/piantedosi-sminuisce-migranti-protezione-italia",
    "fonte_originale": "https://www.agenzianova.com/news/migranti-piantedosi-rafforzare-la-collaborazione-con-i-paesi-di-partenza/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Le percentuali del ministro dell’Interno sono sbagliate."
   },
   {
    "slug": "angelo-bonelli",
@@ -3381,7 +3555,8 @@
    "frase": "Il mercato della cannabis, in Italia, vale 6 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/bonelli-cannabis-mercato-italia",
    "fonte_originale": "https://www.facebook.com/photo/?fbid=719663043525544&set=a.322876809870838",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Il co-portavoce di Europa Verde ha ragione."
   },
   {
    "slug": "matteo-renzi",
@@ -3397,7 +3572,8 @@
    "frase": "Quando ho lasciato Chigi tra stipendi e spese la Pa costava 300 miliardi di euro. Dopo i governi Conte e le nuove assunzioni siamo a 350 miliardi».",
    "url": "https://pagellapolitica.it/fact-checking/renzi-costi-pubblica-amministrazione",
    "fonte_originale": "https://www.repubblica.it/politica/2023/08/20/news/matteo_renzi_intervista-411666839/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Italia Viva omette alcuni dettagli importanti."
   },
   {
    "slug": "adolfo-urso",
@@ -3413,7 +3589,8 @@
    "frase": "A dicembre dell’anno scorso l’inflazione era quasi al 12 per cento. A luglio di quest’anno era al 5,9 per cento. Si è dimezzata l’inflazione da quando il governo ha realizzato il decreto “Trasparenza” in gennaio",
    "url": "https://pagellapolitica.it/fact-checking/urso-calo-inflazione-decreto-carburanti",
    "fonte_originale": "https://www.raiplay.it/video/2023/08/E-state-a-secco---Agora-Estate-del-18082023-24abf2a8-8b0a-4458-be9d-3073fc2bf991.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "È vero che l’aumento dei prezzi è rallentato, ma la dichiarazione del ministro delle Imprese e del Made in Italy è scorretta."
   },
   {
    "slug": "giuseppe-conte",
@@ -3429,7 +3606,8 @@
    "frase": "L’anno prossimo, ce lo dicono tutte le stime delle fonti internazionali più accreditate, cresceremo meno di Francia e Germania",
    "url": "https://pagellapolitica.it/fact-checking/crescita-italia-francia-germania-2024",
    "fonte_originale": "https://www.la7.it/in-onda/rivedila7/in-onda-estate-11-08-2023-498283",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione del presidente del Movimento 5 Stelle è corretta."
   },
   {
    "slug": "giuseppe-conte",
@@ -3445,7 +3623,8 @@
    "frase": "Tutti i Paesi che hanno introdotto il salario minimo – tutti, a partire dalla Germania, l’esempio forse più clamoroso – hanno portato complessivamente un aumento degli stipendi e del Pil, e una maggiore occupazione",
    "url": "https://pagellapolitica.it/fact-checking/salario-minimo-benefici-occupazione",
    "fonte_originale": "https://youtu.be/XSDNd4LwYeg?t=235",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il presidente del Movimento 5 Stelle esagera con l’entusiasmo."
   },
   {
    "slug": "guido-crosetto",
@@ -3461,7 +3640,8 @@
    "frase": "La Cina ha triplicato in tre anni le esportazioni in Italia",
    "url": "https://pagellapolitica.it/fact-checking/crosetto-esportazioni-importazioni-italia-cina",
    "fonte_originale": "https://www.corriere.it/politica/23_luglio_30/crosetto-intervista-5df81a76-2e3c-11ee-a52d-5015ada51aef.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "L’affermazione del ministro della Difesa non è supportata dai dati"
   },
   {
    "slug": "matteo-renzi",
@@ -3477,7 +3657,8 @@
    "frase": "La benzina tocca prezzi record",
    "url": "https://pagellapolitica.it/fact-checking/renzi-prezzi-record-benzina",
    "fonte_originale": "https://twitter.com/matteorenzi/status/1685560974755893248",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "L’affermazione del leader di Italia Viva non è supportata dai dati."
   },
   {
    "slug": "adolfo-urso",
@@ -3493,7 +3674,8 @@
    "frase": "Il costo industriale dei carburanti, depurato dalle accise, è oggi tra i più bassi d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/urso-prezzo-carburanti-italia-europa",
    "fonte_originale": "https://www.corriere.it/economia/aziende/23_luglio_23/urso-patto-anti-inflazione-contro-caro-prezzi-migranti-opportunita-solo-se-collegati-esigenze-reali-imprese-94f08e12-298e-11ee-959b-09ae609f1902.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il ministro delle Imprese e del Made in Italy esagera"
   },
   {
    "slug": "carlo-calenda",
@@ -3509,7 +3691,8 @@
    "frase": "Il salario minimo ce l’hanno tutti i Paesi dell’Ocse",
    "url": "https://pagellapolitica.it/fact-checking/salario-minimo-paesi-ocse",
    "fonte_originale": "https://www.corriere.it/politica/23_luglio_19/salario-minimo-calenda-ma-quale-misura-urss-ce-l-hanno-francia-usa-4736d41a-2669-11ee-8645-4a254f4192ac.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il leader di Azione esagera."
   },
   {
    "slug": "giorgia-meloni",
@@ -3525,7 +3708,8 @@
    "frase": "Le forze dell’ordine negli ultimi otto mesi hanno arrestato più di 1.300 mafiosi, 29 latitanti sono stati assicurati alla giustizia",
    "url": "https://pagellapolitica.it/fact-checking/arresti-mafia-dati-2023-meloni",
    "fonte_originale": "https://www.youtube.com/watch?v=wyhu-k5Uu_g&t=107s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il dato citato dalla presidente del Consiglio è corretto, se guardiamo solo agli arresti senza aspettare i processi"
   },
   {
    "slug": "francesco-lollobrigida",
@@ -3541,7 +3725,8 @@
    "frase": "La carta “Dedicata a te” equivale sostanzialmente a un mese di spesa alimentare gratuita",
    "url": "https://pagellapolitica.it/fact-checking/lollobrigida-carta-dedicata-a-te-mese-spesa-gratis",
    "fonte_originale": "https://ilsole24ore.com/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "A grandi linee la dichiarazione di Lollobrigida è corretta."
   },
   {
    "slug": "giuseppe-conte",
@@ -3557,7 +3742,8 @@
    "frase": "Il piano straordinario di Biden di sostegno alle imprese, poderosissimo, si basa sul sistema di cessione e di negoziazione dei crediti d’imposta. Ci stanno copiando",
    "url": "https://pagellapolitica.it/fact-checking/conte-biden-piano-inflazione-superbonus",
    "fonte_originale": "https://www.youtube.com/watch?v=nXj7a-yRNNw&t=939s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il presidente del Movimento 5 Stelle non la racconta giusta."
   },
   {
    "slug": "antonio-tajani",
@@ -3573,7 +3759,8 @@
    "frase": "Nel programma di Alternative für Deutschland c’è l’uscita dall’euro e in quello della Le Pen si ipotizza l’uscita dalla Nato",
    "url": "https://pagellapolitica.it/fact-checking/tajani-lega-afd-le-pen-uscita-euro-nato",
    "fonte_originale": "https://www.liberoquotidiano.it/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il vicepresidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "slug": "giorgia-meloni",
@@ -3589,7 +3776,8 @@
    "frase": "Ci sono 2 milioni di posti di lavoro che il mercato non è attualmente in grado di soddisfare per carenza di profili adeguati",
    "url": "https://pagellapolitica.it/fact-checking/meloni-esagera-posti-lavoro-disponibili",
    "fonte_originale": "https://www.youtube.com/live/SQl3BjjdreM?feature=share&t=1610",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il numero indicato dalla presidente del Consiglio è esagerato."
   },
   {
    "slug": "carlo-calenda",
@@ -3605,7 +3793,8 @@
    "frase": "Siamo l’unico Paese del G7 che non ha il salario minimo",
    "url": "https://pagellapolitica.it/fact-checking/italia-g7-salario-minimo",
    "fonte_originale": "https://www.repubblica.it/politica/2023/07/02/news/calenda_terzo_polo_salario_minimo-406347782/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il segretario di Azione ha ragione."
   },
   {
    "slug": "giuseppe-conte",
@@ -3621,7 +3810,12 @@
    "frase": "Con questo vostro decreto la platea dei percettori del reddito di cittadinanza verrà dimezzata e anche 100 mila famiglie, con al proprio interno disabili, minori e anziani, perderanno una rete di protezione sociale",
    "url": "https://pagellapolitica.it/fact-checking/beneficiari-assegno-inclusione-reddito-cittadinanza",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "Il presidente del Movimento 5 Stelle è un po’ impreciso.",
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, onorevoli colleghi, signora Ministra, lo scorso 17 giugno, 20.000 persone hanno sfilato per le strade di Roma e hanno lanciato un messaggio chiaro a questo Governo, che si diletta sadicamente ad ignorare il grido di sofferenza di chi non arriva a fine mese, di chi è costretto a stringere sempre di più la propria cinghia; 20.000 persone hanno gridato: basta vite precarie! E non è uno slogan , è un g […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00200"
+   }
   },
   {
    "slug": "giorgia-meloni",
@@ -3637,7 +3831,8 @@
    "frase": "Noi siamo l’unica nazione in Europa che sta all’interno della Via della Seta",
    "url": "https://pagellapolitica.it/fact-checking/paesi-europa-via-seta-cina",
    "fonte_originale": "https://www.youtube.com/live/rmvcnnrolPI?feature=share&t=1944",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è sbagliata."
   },
   {
    "slug": "francesco-boccia",
@@ -3653,7 +3848,8 @@
    "frase": "Quei decreti ci hanno fatto passare a 60 mila immigrati arrivati entro giugno: il triplo dell’anno scorso, cinque volte quelli di due anni fa",
    "url": "https://pagellapolitica.it/fact-checking/boccia-esagera-aumento-sbarchi",
    "fonte_originale": "https://webtv.senato.it/webtv_aula_hq?seduta_assemblea=25285",
-   "fonte_tipo": "Senato"
+   "fonte_tipo": "Senato",
+   "giudizio": "L’aumento indicato dal capogruppo del PD al Senato è esagerato."
   },
   {
    "slug": "giorgia-meloni",
@@ -3669,7 +3865,8 @@
    "frase": "In uno spinello di oggi c’è una percentuale di THC enormemente più grande della quantità di principio attivo che c’era nello stesso spinello di 20, 30, 40 anni fa",
    "url": "https://pagellapolitica.it/fact-checking/meloni-aumento-thc-cannabis",
    "fonte_originale": "https://www.youtube.com/watch?v=GHgbkCngVO8",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "slug": "matteo-salvini",
@@ -3685,7 +3882,8 @@
    "frase": "Per i giovani fra i 15 e i 29 anni la prima causa di morte è la strada",
    "url": "https://pagellapolitica.it/fact-checking/incidenti-stradali-prima-causa-morte-giovani",
    "fonte_originale": "https://www.facebook.com/salviniofficial/videos/2256103104576195/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del Ministro delle Infrastrutture e dei Trasporti è corretta."
   },
   {
    "slug": "guido-crosetto",
@@ -3701,7 +3899,8 @@
    "frase": "Chi finora ha utilizzato il Mes ne è uscito massacrato",
    "url": "https://pagellapolitica.it/fact-checking/conseguenze-mes-aiuti-grecia",
    "fonte_originale": "https://www.corriere.it/politica/23_giugno_26/crosetto-russia-italia-kiev-diplomazia-56973356-138f-11ee-994f-7a96a4226047.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Al di là dell’iperbole, la dichiarazione del ministro della Difesa è comunque esagerata."
   },
   {
    "slug": "carlo-nordio",
@@ -3717,7 +3916,8 @@
    "frase": "Su 5 mila processi arrivano solo nove condanne per abuso d’ufficio",
    "url": "https://pagellapolitica.it/fact-checking/nordio-condanne-abuso-ufficio",
    "fonte_originale": "https://www.corriere.it/politica/23_giugno_22/nordio-intervista-0865887c-1065-11ee-bc1e-12c4aba14b7e.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il numero delle condanne è un po’ impreciso, anche se l’ordine di grandezza è corretto."
   },
   {
    "slug": "matteo-salvini",
@@ -3733,7 +3933,8 @@
    "frase": "La metà degli incidenti stradali accade per distrazione",
    "url": "https://pagellapolitica.it/fact-checking/distrazione-causa-incidenti-stradali",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=195673506786337",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione del ministro delle Infrastrutture e dei Trasporti non è supportata dai numeri."
   },
   {
    "slug": "giuseppe-conte",
@@ -3749,7 +3950,8 @@
    "frase": "Nel Sud c’è sempre meno occupazione",
    "url": "https://pagellapolitica.it/fact-checking/conte-occupati-sud-italia",
    "fonte_originale": "https://www.youtube.com/live/Wu5PhPT4RyY?feature=share&t=275",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il presidente del Movimento 5 Stelle sbaglia."
   },
   {
    "slug": "angelo-bonelli",
@@ -3765,7 +3967,8 @@
    "frase": "Quando Aldo Moro fu assassinato dalle Brigate Rosse il giorno dopo i lavori d’aula della Camera e del Senato continuarono",
    "url": "https://pagellapolitica.it/fact-checking/morte-moro-sospensione-parlamento",
    "fonte_originale": "https://twitter.com/AngeloBonelli1/status/1668934814907465730",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Il co-portavoce di Europa Verde ha ragione."
   },
   {
    "slug": "giuseppe-conte",
@@ -3781,7 +3984,8 @@
    "frase": "La Cina detiene il 90 per cento delle terre rare, che sono 17 materiali chimici fondamentali, dal litio in giù",
    "url": "https://pagellapolitica.it/fact-checking/conte-terre-rare-cina",
    "fonte_originale": "https://www.youtube.com/live/iDb4PmT9mCM?feature=share&t=988",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione del presidente del Movimento 5 Stelle contiene tre errori."
   },
   {
    "slug": "giorgia-meloni",
@@ -3797,7 +4001,8 @@
    "frase": "Gli sbarchi sono sensibilmente diminuiti in Italia nel mese di maggio rispetto a quello che era accaduto a marzo e ad aprile",
    "url": "https://pagellapolitica.it/fact-checking/meloni-calo-sbarchi-maggio",
    "fonte_originale": "https://www.youtube.com/watch?v=3NBU4h9MzJA&feature=youtu.be&t=343",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri danno ragione alla presidente del Consiglio."
   },
   {
    "slug": "elly-schlein",
@@ -3813,7 +4018,8 @@
    "frase": "I dati sull’occupazione femminile nelle regioni del Sud del nostro Paese sono i peggiori d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/regioni-sud-occupazione-femminile-europa",
    "fonte_originale": "https://www.raiplay.it/video/2023/05/cartabianca---Puntata-del-06062023-4267795e-95fc-4b0c-b5dd-d7ce2f4fc480.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La dichiarazione della segretaria del Partito Democratico è corretta."
   },
   {
    "slug": "francesco-boccia",
@@ -3829,7 +4035,8 @@
    "frase": "Alle elezioni comunali di giugno del 2022 vincemmo ovunque",
    "url": "https://pagellapolitica.it/fact-checking/boccia-pd-comunali-2022",
    "fonte_originale": "https://askanews.it/2023/05/30/boccia-schlein-ha-trovato-le-alleanze-gia-fatte-il-pd-e-la-prima-lista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Il capogruppo del Partito Democratico al Senato sbaglia."
   },
   {
    "slug": "francesco-boccia",
@@ -3845,7 +4052,8 @@
    "frase": "Sulla riforma dell’autonomia differenziata la Commissione esprime dubbi e riserve nelle sue raccomandazioni",
    "url": "https://pagellapolitica.it/fact-checking/commissione-ue-raccomandazioni-autonomia",
    "fonte_originale": null,
-   "fonte_tipo": "Non indicata"
+   "fonte_tipo": "Non indicata",
+   "giudizio": "Il capogruppo al Senato del Partito democratico è impreciso."
   }
  ],
  "recenti": [

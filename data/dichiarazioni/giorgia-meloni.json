@@ -303,7 +303,8 @@
    "frase": "Il governo sembra perseverare investendo ulteriori 220 mila euro per i servizi di assistenza dell’applicazione Immuni",
    "url": "https://pagellapolitica.it/fact-checking/meloni-sbaglia-il-governo-non-spendera-altri-220-mila-euro-per-immuni",
    "fonte_originale": "https://www.facebook.com/38919827644/posts/10159534325592645",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Nì"
   },
   {
    "data": "2021-12-13",
@@ -311,7 +312,8 @@
    "frase": "Nel 2020, se confrontate i dati tra vivi e morti, scoprirete che abbiamo perso 300 mila persone, una città come Catania o una città come Verona» (min: 52.50)",
    "url": "https://pagellapolitica.it/fact-checking/nel-2020-litalia-ha-perso-una-citta-grande-come-catania",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/598525951264533",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "Vero"
   },
   {
    "data": "2021-12-22",
@@ -319,7 +321,8 @@
    "frase": "[Il governo ha stanziato] 800 mila euro per celebrare la fondazione del Partito comunista italiano",
    "url": "https://pagellapolitica.it/fact-checking/800-mila-euro-centenario-partito-comunista-italiano",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1473645507528511490",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "Meloni ha ragione."
   },
   {
    "data": "2022-02-08",
@@ -327,7 +330,8 @@
    "frase": "Quante sono le possibilità che un ragazzo tra 0 e 19 anni muoia di Covid? 0,006 per cento. Qual è la possibilità di morire colpiti da un fulmine? La stessa",
    "url": "https://pagellapolitica.it/fact-checking/fulmini-e-covid-19-cosa-non-torna-nei-dati-di-meloni",
    "fonte_originale": "https://www.lastampa.it/rubriche/30-minuti-al-massimo/2022/02/08/video/30_minuti_al_massimo_la_crisi_dei_partiti_la_rottura_del_centrodestra_le_difficolta_del_governo_draghi_la_pandemia_mass-2850800/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente di Fratelli d'Italia fa un confronto fuorviante."
   },
   {
    "data": "2022-02-15",
@@ -335,7 +339,8 @@
    "frase": "In Italia ci sono decine di migliaia di chilometri di costa che non sono sottoposte a concessione» (min. 18:09)",
    "url": "https://pagellapolitica.it/fact-checking/no-litalia-non-ha-decine-di-migliaia-di-chilometri-di-coste-libere-da-dare-in-concessione",
    "fonte_originale": "https://www.facebook.com/watch/?v=1095483267899720",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente di Fratelli d'Italia sbaglia."
   },
   {
    "data": "2022-03-09",
@@ -343,7 +348,8 @@
    "frase": "Il governo vara un Dpcm […] per prorogare il green pass di 18 mesi, ulteriormente prorogabili di altri 18» (min. 0:30)",
    "url": "https://pagellapolitica.it/fact-checking/meloni-proroga-green-pass-2025",
    "fonte_originale": "https://www.facebook.com/watch/?v=484844453302263",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La proroga riguarda la validità del documento digitale, non il suo effettivo utilizzo"
   },
   {
    "data": "2022-04-12",
@@ -351,7 +357,8 @@
    "frase": "Fratelli d’Italia è l’unico partito che l’aumento delle spese militari ce l’ha nel programma dall’inizio della sua nascita» (min. 10:08)",
    "url": "https://pagellapolitica.it/fact-checking/fratelli-italia-spese-militari-programma-elettorale",
    "fonte_originale": "https://www.facebook.com/watch/?ref=search&v=297035129281607&external_log_id=416db2de-d7e3-42cf-bd40-f6cefeae8240&q=giorgia%20meloni",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La leader di Fratelli d’Italia si sbaglia."
   },
   {
    "data": "2022-04-29",
@@ -359,7 +366,8 @@
    "frase": "Nessuna delle nazioni europee rispetta l’impegno preso con la Nato di investire il 2 per cento del suo Pil in difesa",
    "url": "https://pagellapolitica.it/fact-checking/quanti-paesi-ue-rispettano-impegni-nato",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La leader di Fratelli d’Italia esagera."
   },
   {
    "data": "2022-05-10",
@@ -367,7 +375,12 @@
    "frase": "Negli ultimi vent’anni la Francia ha avuto quattro capi di governo, l’Italia ha avuto undici presidenti del Consiglio",
    "url": "https://pagellapolitica.it/fact-checking/meloni-confronto-governi-francia-italia",
    "fonte_originale": "https://documenti.camera.it/leg18/resoconti/assemblea/html/sed0691/stenografico.pdf#page=23",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "La leader di Fratelli d’Italia è imprecisa.",
+   "testo_ufficiale": {
+    "estratto": "La ringrazio, Presidente. Penso che sia una grande occasione quella che oggi, grazie a questa proposta di legge costituzionale, Fratelli d'Italia offre a questo Parlamento. Il tema dell'elezione diretta del Presidente della Repubblica, più genericamente il tema del presidenzialismo, sicuramente rappresenta una battaglia storica della destra italiana, rappresenta una battaglia storica del centrodestra che oggi, col vo […]",
+    "url": "https://www.camera.it/leg18/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00090.sub00010.int00020"
+   }
   },
   {
    "data": "2022-05-30",
@@ -375,7 +388,8 @@
    "frase": "Trentamila aziende italiane vengono letteralmente espropriate e mandate all’asta",
    "url": "https://pagellapolitica.it/fact-checking/meloni-gara-concessioni-balneari",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/702218957713436/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La leader di Fratelli d’Italia esagera."
   },
   {
    "data": "2022-08-05",
@@ -383,7 +397,8 @@
    "frase": "[Sono] la prima donna a guidare un partito politico europeo» (min. 1:29)",
    "url": "https://pagellapolitica.it/fact-checking/meloni-prima-donna-presidente-partito-europeo",
    "fonte_originale": "https://www.facebook.com/watch/?v=594925998809504",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La leader di Fratelli d’Italia ha torto."
   },
   {
    "data": "2022-08-06",
@@ -391,7 +406,8 @@
    "frase": "Il blocco navale europeo [...] altro non è che l’attuazione di quanto proposto dall’Unione europea già nel 2017",
    "url": "https://pagellapolitica.it/fact-checking/blocco-navale-fdi-ue-2017",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/posts/pfbid03tdcdS5XFwK6PoTt5pV4RGUeSV19KxcHfVkYXgHJ2QyBp8mAgD2jb2RT5AcfAUigl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La questione è più sfumata di come la presenta la leader di Fratelli d’Italia."
   },
   {
    "data": "2022-08-12",
@@ -399,7 +415,8 @@
    "frase": "Un’altra folle sentenza Ue ci obbliga a garantire vitto, alloggio e sussidio agli immigrati che si sono resi responsabili di “reati e atti violenti",
    "url": "https://pagellapolitica.it/fact-checking/sentenza-ue-immigrati",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1558170903636230145?t=gy6xW4a6f9znMIFBmmrZXA&s=19",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La presidente di Fratelli d’Italia sbaglia."
   },
   {
    "data": "2022-08-27",
@@ -407,7 +424,8 @@
    "frase": "Negli ultimi 20 anni la Francia ha avuto quattro capi di governo, che coincide con il presidente della Repubblica. Il Regno Unito ha avuto cinque primi ministri, la Germania tre cancellieri, l’Italia 11 presidenti del Consiglio",
    "url": "https://pagellapolitica.it/fact-checking/meloni-presidenzialismo-governi-europei",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1563441028027191296",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La leader di Fratelli d’Italia è imprecisa."
   },
   {
    "data": "2022-08-30",
@@ -415,7 +433,8 @@
    "frase": "Negli ultimi 15 mesi il debito pubblico italiano è cresciuto di 116 miliardi",
    "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-debito-pubblico",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/603404504779812/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La cifra citata dalla leader di Fratelli d’Italia è corretta."
   },
   {
    "data": "2022-09-01",
@@ -423,7 +442,8 @@
    "frase": "Noi abbiamo 700 mila persone che lavorano nel campo dell’automotive",
    "url": "https://pagellapolitica.it/fact-checking/meloni-esagera-occupati-automotive",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/2873033316325345/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente di Fratelli d’Italia esagera."
   },
   {
    "data": "2022-09-06",
@@ -431,7 +451,8 @@
    "frase": "La tassazione [sul lavoro in Italia] è al 46,5 per cento: la quinta più cara nell’Ocse, la quinta più cara in Europa, 15 per cento di più rispetto alla media europea",
    "url": "https://pagellapolitica.it/fact-checking/meloni-cuneo-fiscale",
    "fonte_originale": "https://www.raiplay.it/video/2022/09/Porta-a-Porta-a0d1ea4a-dd12-4c6e-8e31-5674279b729c.html",
-   "fonte_tipo": "TV"
+   "fonte_tipo": "TV",
+   "giudizio": "La leader di Fratelli d’Italia ha ragione solo in parte."
   },
   {
    "data": "2022-09-08",
@@ -439,7 +460,8 @@
    "frase": "Volume di esportazione dell’Italia con la Russia: 1,5 per cento. Volume di esportazione dell’Italia con l’Occidente: circa l’80 per cento",
    "url": "https://pagellapolitica.it/fact-checking/meloni-export-italia-russia",
    "fonte_originale": "https://www.youtube.com/watch?t=4571&v=f-pSAoam404&feature=youtu.be",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Le percentuali citate dalla presidente di Fratelli d’Italia sono corrette."
   },
   {
    "data": "2022-09-19",
@@ -447,7 +469,8 @@
    "frase": "La maggiore spesa in difesa ce l’ho nel programma dal 2013",
    "url": "https://pagellapolitica.it/fact-checking/fratelli-italia-spese-difesa-programma",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/676721107008271/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente di Fratelli d’Italia sbaglia."
   },
   {
    "data": "2022-09-19",
@@ -455,7 +478,8 @@
    "frase": "Sono il primo segretario donna di un partito in Italia",
    "url": "https://pagellapolitica.it/fact-checking/meloni-primo-segretario-donna",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/676721107008271/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente di Fratelli d’Italia sbaglia."
   },
   {
    "data": "2022-10-25",
@@ -463,7 +487,12 @@
    "frase": "L’imposta fissa di 100 mila euro che sostituisce per 15 anni l’Irpef sui redditi prodotti all’estero per gli ipermilionari stranieri che trasferiscono la residenza in Italia è stata introdotta proprio dal Partito democratico",
    "url": "https://pagellapolitica.it/fact-checking/pd-tassa-fissa-redditi-milionari",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico",
-   "fonte_tipo": "Camera"
+   "fonte_tipo": "Camera",
+   "giudizio": "La presidente del Consiglio ha ragione.",
+   "testo_ufficiale": {
+    "estratto": "Soumahoro… scusami… che tutti ci sentiamo scolari della storia, sai ? Altrimenti, saremmo ignoranti, saremmo ignoranti del presente, saremmo senza futuro … Non ho dato del “tu” a nessuno… Chiedo scusa all'onorevole collega… Va bene, va bene, va bene… Ah, era il “sai”… scusi, ha ragione, “sai” “sai”… ha ragione, ha ragione, avete ragione, errore mio … calmi, chiedo scusa. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00020.int00040"
+   }
   },
   {
    "data": "2022-10-26",
@@ -471,7 +500,8 @@
    "frase": "Non c’è correlazione tra intensità del limite del contante e diffusione dell’economia sommersa",
    "url": "https://pagellapolitica.it/fact-checking/tetto-contante-evasione-fiscale-governo-meloni",
    "fonte_originale": "https://www.senato.it/japp/bgt/showdoc/frame.jsp?tipodoc=hotresaula&part=doc_dc",
-   "fonte_tipo": "Senato"
+   "fonte_tipo": "Senato",
+   "giudizio": "La presidente del Consiglio la fa troppo semplice."
   },
   {
    "data": "2022-11-16",
@@ -479,7 +509,8 @@
    "frase": "Al G20 l’Italia era l’unica nazione rappresentata da un capo di Stato o di governo donna",
    "url": "https://pagellapolitica.it/fact-checking/meloni-unica-donna-leader-g20-indonesia",
    "fonte_originale": "https://youtu.be/prOEkU6ppIc?t=314",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2022-11-29",
@@ -487,7 +518,8 @@
    "frase": "Noi di Fratelli d’Italia fummo molto critici nei confronti del condono su Ischia inserito nel decreto sul ponte Morandi. È agli atti",
    "url": "https://pagellapolitica.it/fact-checking/voto-fratelli-italia-condono-ischia",
    "fonte_originale": "https://www.corriere.it/politica/22_novembre_29/meloni-intervista-a753a50c-6f68-11ed-9e97-468f31203204.shtml",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2022-12-15",
@@ -495,7 +527,8 @@
    "frase": "Siamo tra le nazioni che hanno avuto il giudizio migliore dalla Commissione Ue",
    "url": "https://pagellapolitica.it/fact-checking/meloni-giudizio-commissione-ue-legge-bilancio",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1603310102781595648",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La presidente del Consiglio esagera."
   },
   {
    "data": "2023-01-15",
@@ -503,7 +536,8 @@
    "frase": "La Lombardia è la regione che produce il sesto Pil più alto d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/pil-lombardia-regioni-europa",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/videos/3558748604359165/",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente del Consiglio è imprecisa."
   },
   {
    "data": "2023-01-16",
@@ -511,7 +545,8 @@
    "frase": "Matteo Messina Denaro andrà al “carcere duro” perché quell’istituto esiste ancora grazie a questo governo",
    "url": "https://pagellapolitica.it/fact-checking/meloni-carcere-duro-messina-denaro",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=928860121444169",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente del Consiglio confonde il “carcere duro” con l’ergastolo ostativo."
   },
   {
    "data": "2023-01-29",
@@ -519,7 +554,8 @@
    "frase": "Negli ultimi 100 giorni lo spread è sceso da 236 a 175 punti base",
    "url": "https://pagellapolitica.it/fact-checking/calo-spread-governo-meloni",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=872575537294306",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "I numeri citati dalla presidente del Consiglio sono sostanzialmente corretti."
   },
   {
    "data": "2023-02-02",
@@ -527,7 +563,8 @@
    "frase": "Alfredo Cospito nel 1991 era già in carcere: decise di fare lo sciopero della fame e venne graziato. Lui è uscito ed è andato a sparare a della gente» (min 11:49)",
    "url": "https://pagellapolitica.it/fact-checking/meloni-cospito-1991-sciopero-fame-grazia",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1017602192977508",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente del Consiglio omette alcuni dettagli importanti."
   },
   {
    "data": "2023-02-03",
@@ -535,7 +572,8 @@
    "frase": "Il calo del 34,2 per cento della bolletta del gas sul mercato tutelato per i consumi di gennaio è un risultato raggiunto grazie alle concrete misure attuate dal governo",
    "url": "https://pagellapolitica.it/fact-checking/calo-bolletta-gas-meriti-governo",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1621434283867897857",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La presidente del Consiglio dà al suo governo meriti che non ha."
   },
   {
    "data": "2023-02-09",
@@ -543,7 +581,8 @@
    "frase": "In questi anni il tax gap è sempre rimasto invariato",
    "url": "https://pagellapolitica.it/fact-checking/meloni-calo-evasione-fiscale",
    "fonte_originale": "https://www.ilsole24ore.com/art/meloni-2023-rivoluzione-fiscale-piu-titoli-stato-detenuti-italiani-AEtOT3jC",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "Le stime del Ministero dell’Economia dicono il contrario."
   },
   {
    "data": "2023-02-27",
@@ -551,7 +590,8 @@
    "frase": "Noi non spendiamo soldi per comprare armi che mandiamo agli ucraini",
    "url": "https://pagellapolitica.it/fact-checking/meloni-costi-armi-ucraina",
    "fonte_originale": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=1219037708743226",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La dichiarazione della presidente del Consiglio è parziale e fuorviante."
   },
   {
    "data": "2023-03-22",
@@ -559,7 +599,8 @@
    "frase": "Sono andata a guardare la percentuale di quante persone non si è riusciti a salvare in rapporto alle persone che sbarcavano. I dati di questo governo sono i più bassi",
    "url": "https://pagellapolitica.it/fact-checking/governo-meloni-morti-mare",
    "fonte_originale": "https://www.youtube.com/live/uLYrye8I7xY?feature=share&t=405",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2023-03-31",
@@ -567,7 +608,8 @@
    "frase": "A marzo l’Istat stima un aumento sia dell’indice di fiducia dei consumatori, sia dell’indice di fiducia delle imprese",
    "url": "https://pagellapolitica.it/fact-checking/meloni-fiducia-consumatori-imprese",
    "fonte_originale": "https://ilpiccolo.gelocal.it/speciale/elezioni-regionali-friuli-venezia-giulia-2023/2023/03/31/news/meloni_in_friuli_venezia_giulia_italia_di_nuovo_protagonista_nei_balcani_trieste-12729872/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2023-04-15",
@@ -575,7 +617,8 @@
    "frase": "La protezione speciale è una protezione ulteriore rispetto a quello che accade nel resto d’Europa",
    "url": "https://pagellapolitica.it/fact-checking/protezione-speciale-italia-unione-europea",
    "fonte_originale": "https://www.youtube.com/watch?v=_su35Xiz6AM&t=359s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Le cose non stanno come dice la presidente del Consiglio."
   },
   {
    "data": "2023-04-22",
@@ -583,7 +626,8 @@
    "frase": "Per la prima volta nella storia delle grandi aziende quotate e partecipate dallo Stato abbiamo una donna amministratore delegato",
    "url": "https://pagellapolitica.it/fact-checking/meloni-amministratrici-delegate-aziende-pubbliche-donne",
    "fonte_originale": "https://www.milanofinanza.it/news/giorgia-meloni-cosi-curero-l-economia-italiana-il-mio-primo-maggio-un-consiglio-dei-ministri-sul-lavoro-202304212219579283?refresh_cens",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente del Consiglio è imprecisa"
   },
   {
    "data": "2023-04-26",
@@ -591,7 +635,8 @@
    "frase": "L’Italia è il terzo partner commerciale dell’Ucraina",
    "url": "https://pagellapolitica.it/fact-checking/commercio-italia-ucraina",
    "fonte_originale": "https://www.youtube.com/live/T8w65Gu6dfQ?feature=share&t=665",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio è imprecisa."
   },
   {
    "data": "2023-05-01",
@@ -599,7 +644,8 @@
    "frase": "Oggi destiniamo l’intero ammontare di quel tesoretto al più importante taglio delle tasse sul lavoro degli ultimi decenni",
    "url": "https://pagellapolitica.it/fact-checking/taglio-cuneo-fiscale-governo-meloni-primato",
    "fonte_originale": "https://www.governo.it/it/articolo/consiglio-dei-ministri-del-1-maggio-il-videomessaggio-del-presidente-meloni/22501",
-   "fonte_tipo": "Governo"
+   "fonte_tipo": "Governo",
+   "giudizio": "La presidente del Consiglio è smentita dai numeri."
   },
   {
    "data": "2023-06-06",
@@ -607,7 +653,8 @@
    "frase": "Gli sbarchi sono sensibilmente diminuiti in Italia nel mese di maggio rispetto a quello che era accaduto a marzo e ad aprile",
    "url": "https://pagellapolitica.it/fact-checking/meloni-calo-sbarchi-maggio",
    "fonte_originale": "https://www.youtube.com/watch?v=3NBU4h9MzJA&feature=youtu.be&t=343",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "I numeri danno ragione alla presidente del Consiglio."
   },
   {
    "data": "2023-06-26",
@@ -615,7 +662,8 @@
    "frase": "In uno spinello di oggi c’è una percentuale di THC enormemente più grande della quantità di principio attivo che c’era nello stesso spinello di 20, 30, 40 anni fa",
    "url": "https://pagellapolitica.it/fact-checking/meloni-aumento-thc-cannabis",
    "fonte_originale": "https://www.youtube.com/watch?v=GHgbkCngVO8",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "data": "2023-06-28",
@@ -623,7 +671,8 @@
    "frase": "Noi siamo l’unica nazione in Europa che sta all’interno della Via della Seta",
    "url": "https://pagellapolitica.it/fact-checking/paesi-europa-via-seta-cina",
    "fonte_originale": "https://www.youtube.com/live/rmvcnnrolPI?feature=share&t=1944",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è sbagliata."
   },
   {
    "data": "2023-07-03",
@@ -631,7 +680,8 @@
    "frase": "Ci sono 2 milioni di posti di lavoro che il mercato non è attualmente in grado di soddisfare per carenza di profili adeguati",
    "url": "https://pagellapolitica.it/fact-checking/meloni-esagera-posti-lavoro-disponibili",
    "fonte_originale": "https://www.youtube.com/live/SQl3BjjdreM?feature=share&t=1610",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il numero indicato dalla presidente del Consiglio è esagerato."
   },
   {
    "data": "2023-07-19",
@@ -639,7 +689,8 @@
    "frase": "Le forze dell’ordine negli ultimi otto mesi hanno arrestato più di 1.300 mafiosi, 29 latitanti sono stati assicurati alla giustizia",
    "url": "https://pagellapolitica.it/fact-checking/arresti-mafia-dati-2023-meloni",
    "fonte_originale": "https://www.youtube.com/watch?v=wyhu-k5Uu_g&t=107s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Il dato citato dalla presidente del Consiglio è corretto, se guardiamo solo agli arresti senza aspettare i processi"
   },
   {
    "data": "2023-08-30",
@@ -647,7 +698,8 @@
    "frase": "Siamo l’unico Paese del G7 ad aver aderito alla Via della Seta ma non siamo affatto il Paese del G7 o il Paese europeo con il maggior interscambio con la Cina",
    "url": "https://pagellapolitica.it/fact-checking/commercio-italia-cina-g7",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/posts/pfbid02hQkXVz715rd3Cy6tLLREVL2gx8YY9XCPeiPrWNpicxGHbJDhD97SeP3kx1QBEqFVl",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2023-09-20",
@@ -655,7 +707,8 @@
    "frase": "Oggi al mondo non esiste attività criminale più profittevole del traffico di migranti",
    "url": "https://pagellapolitica.it/fact-checking/meloni-traffico-migranti-droga-armi",
    "fonte_originale": "https://www.governo.it/it/articolo/intervento-del-presidente-meloni-alla-78ma-assemblea-generale-delle-nazioni-unite/23620#:~:text=davvero%20possiamo%20fingere%20di%20non%20vedere%20che%20oggi%20al%20mondo%20non%20esiste%20attivita%20criminale%20piu%20profittevole%20del%20traffico%20di%20migranti%2C%20quando%20proprio%20i%20rapporti%20onu%20certificano%20come%20questo%20business%20abbia%20raggiunto%20per%20volumi%20di%20denaro%20il%20traffico%20di%20droga%2C%20e%20ampiamente%20superato%20quello%20delle%20armi%3F",
-   "fonte_tipo": "Governo"
+   "fonte_tipo": "Governo",
+   "giudizio": "La dichiarazione della presidente del Consiglio non è supportata dai dati."
   },
   {
    "data": "2023-09-28",
@@ -663,7 +716,8 @@
    "frase": "L’Italia è una nazione che ha una previsione di crescita superiore a quella della media europea anche per il prossimo anno, superiore a quella della Francia e della Germania anche per il prossimo anno",
    "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-pil-italia-2024",
    "fonte_originale": "https://www.youtube.com/watch?v=o-gAUmnfUlo&t=551s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "In base alle previsioni aggiornate, la presidente del Consiglio sembra un po’ troppo ottimista."
   },
   {
    "data": "2023-10-28",
@@ -671,7 +725,8 @@
    "frase": "[L’astensione sulla risoluzione Onu su Gaza] è stata la posizione della gran parte dei Paesi del Consiglio europeo, dei Paesi europei e di quelli del G7",
    "url": "https://pagellapolitica.it/fact-checking/meloni-astensione-italia-risoluzione-onu-gaza",
    "fonte_originale": "https://corporate.ansa.it/sito/notizie/politica/2023/10/28/meloni-astensione-allonu-per-evitare-lescalation-le-opposizioni-grave-errore_0fa365b4-c075-41d3-a361-6dd33a884847.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2024-02-02",
@@ -679,7 +734,8 @@
    "frase": "Le risorse del Pnrr dedicate al mondo degli agricoltori [...] passano da 5 a 8 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/aumento-soldi-pnrr-agricoltura",
    "fonte_originale": "https://www.youtube.com/watch?v=QS248y3rh1E&t=554s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha ragione."
   },
   {
    "data": "2024-02-12",
@@ -687,7 +743,8 @@
    "frase": "Il reddito disponibile delle famiglie, secondo l’Ocse, è aumentato in Italia sei volte di più di quanto sia aumentato nella media delle altre nazioni",
    "url": "https://pagellapolitica.it/fact-checking/meloni-fuorviante-aumento-reddito-famiglie-ocse",
    "fonte_originale": "https://twitter.com/GiorgiaMeloni/status/1757129523592651099",
-   "fonte_tipo": "X"
+   "fonte_tipo": "X",
+   "giudizio": "La dichiarazione della presidente del Consiglio è fuorviante."
   },
   {
    "data": "2024-02-28",
@@ -695,7 +752,8 @@
    "frase": "Con il Superbonus sono stati ristrutturati anche sei castelli privati, per un costo totale di un miliardo",
    "url": "https://pagellapolitica.it/fact-checking/meloni-superbonus-castelli-miliardo-euro",
    "fonte_originale": "https://www.rainews.it/rubriche/tg2post/video/2024/02/TG2-Post-del-28022024-fdf1e58c-4cac-4ae8-b2a6-f5f7262cf00f.html",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": "La cifra indicata dalla leader di Fratelli d’Italia è completamente sbagliata."
   },
   {
    "data": "2024-03-15",
@@ -703,7 +761,8 @@
    "frase": "L’Africa è un continente che attualmente detiene il 60 per cento di terre rare e il 60 per cento di terre arabili",
    "url": "https://pagellapolitica.it/fact-checking/meloni-terre-rare-arabili-africa",
    "fonte_originale": "https://www.youtube.com/watch?v=J7Gtuz2dbo8&t=338s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Le percentuali indicate dalla presidente del Consiglio sono esagerate."
   },
   {
    "data": "2024-03-25",
@@ -711,7 +770,8 @@
    "frase": "L’Italia oggi è, tra le nazioni del G7, la nazione che ha il tasso di inflazione più basso",
    "url": "https://pagellapolitica.it/fact-checking/meloni-inflazione-italia-piu-bassa-g7",
    "fonte_originale": "https://www.youtube.com/watch?v=QmqNEGS0i28&t=1931s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è corretta."
   },
   {
    "data": "2024-06-01",
@@ -719,7 +779,8 @@
    "frase": "L’Italia è la prima nazione europea per realizzazione del Pnrr, nonostante abbia il piano più corposo di tutti i Paesi europei",
    "url": "https://pagellapolitica.it/fact-checking/classifica-attuazione-pnrr-paesi-europei",
    "fonte_originale": "https://www.youtube.com/watch?v=Z-qt_0KobK4&t=1170s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio esagera."
   },
   {
    "data": "2024-06-14",
@@ -727,7 +788,8 @@
    "frase": "Questo G7, per la prima volta nella storia, ha parlato anche di governo dei flussi migratori",
    "url": "https://pagellapolitica.it/fact-checking/meloni-governo-immigrazione-g7-puglia",
    "fonte_originale": "https://www.youtube.com/watch?v=LvmWTzD8SFs&t=171s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è esagerata."
   },
   {
    "data": "2024-06-25",
@@ -735,7 +797,8 @@
    "frase": "Nel 2023 il Prodotto interno lordo delle regioni del Mezzogiorno è cresciuto più della media italiana, cioè è cresciuto dell’1,3 per cento quando la media italiana era una crescita dello 0,9 per cento [...]. Gli occupati nel Mezzogiorno sono aumentati del 2,6 per cento su base annua, anche qui dato superiore alla media nazionale, che invece cresce dell’1,8 per cento",
    "url": "https://pagellapolitica.it/fact-checking/meloni-crescita-pil-occupati-mezzogiorno",
    "fonte_originale": "https://www.youtube.com/watch?v=25y0i3bCB-E&t=749s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio cita statistiche corrette."
   },
   {
    "data": "2024-07-04",
@@ -743,7 +806,8 @@
    "frase": "I calciatori italiani nella Serie A sono sempre di meno: nel 2024 i calciatori italiani nella Serie A sono il 35 per cento",
    "url": "https://pagellapolitica.it/fact-checking/meloni-calciatori-stranieri-serie-a",
    "fonte_originale": "https://youtu.be/ovbODmlCIts?si=adoV2HmkkmyqdKpl&t=2051",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è supportata dai numeri."
   },
   {
    "data": "2024-10-30",
@@ -751,7 +815,8 @@
    "frase": "Da quando c’è questo governo, abbiamo votato in 11 tra regioni e province autonome, forse 12 tra regioni e province autonome. È finita 11 a uno",
    "url": "https://pagellapolitica.it/fact-checking/elezioni-regionali-vittoria-centrodestra-governo-meloni",
    "fonte_originale": "https://youtu.be/hH4CV085EFA?si=Km7J3rio8Y2UL8uZ&t=47",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio ha sostanzialmente ragione."
   },
   {
    "data": "2024-10-30",
@@ -759,7 +824,8 @@
    "frase": "Le agenzie di rating per la prima volta, due agenzie di rating, per la prima volta hanno rivisto in positivo le stime sull’Italia. Dal 1989 questa cosa è accaduta tre volte in Italia",
    "url": "https://pagellapolitica.it/fact-checking/meloni-agenzie-rating-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=OBRz7y9BKSs&t=689s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "Questa cosa è avvenuta più volte rispetto al numero indicato da Meloni."
   },
   {
    "data": "2024-11-25",
@@ -767,7 +833,8 @@
    "frase": "Il numero dei femminicidi rimane sostanzialmente immutato",
    "url": "https://pagellapolitica.it/fact-checking/meloni-numero-femminicidi-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=SSMO1-F0ADc&t=142s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La dichiarazione della presidente del Consiglio è corretta, in base ai dati disponibili."
   },
   {
    "data": "2025-04-04",
@@ -775,7 +842,8 @@
    "frase": "Il mercato degli Stati Uniti vale il 10 per cento complessivo delle nostre esportazioni",
    "url": "https://pagellapolitica.it/fact-checking/peso-stati-uniti-export-italia",
    "fonte_originale": "https://www.youtube.com/watch?v=vjXbTKQojug&t=28s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La percentuale della presidente del Consiglio è corretta."
   },
   {
    "data": "2025-05-14",
@@ -783,7 +851,8 @@
    "frase": "Lo spread oggi è sotto i 100 punti base: significa che i titoli di Stato italiani vengono considerati più sicuri dei titoli di Stato tedeschi",
    "url": "https://pagellapolitica.it/fact-checking/errore-meloni-spread-question-time",
    "fonte_originale": "https://www.youtube.com/live/TBarKaZGja0?si=Iy0ZkhtVPCKrrpNw&t=3114",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": "La presidente del Consiglio sbaglia."
   },
   {
    "data": "2026-03-02",
@@ -791,7 +860,8 @@
    "frase": "Si dice che noi vogliamo sottomettere la giustizia alla politica. Solo che è falso, perché la riforma fa esattamente il contrario. Toglie la facoltà al Parlamento e ai partiti di indicare una parte del CSM, cioè l’organo di autogoverno della magistratura e toglie la facoltà alle correnti ideologizzate di decidere sull’altra parte dei membri del CSM».",
    "url": "https://pagellapolitica.it/fact-checking/si-dice-che-noi-vogliamo-sottomettere-la-giustizia-alla-politica-solo-che-e-falso-perche-la-riforma-fa-esattamente-il-contrario-toglie-la-facolta-al-parlamento-e-ai-partiti-di-indicare-una-pa",
    "fonte_originale": "https://youtu.be/RYgdqcg_1Q8?si=t2-y3qRoQ4i3AM4u&t=159",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-05",
@@ -799,7 +869,8 @@
    "frase": "Cioè a uno che è entrato clandestinamente in Italia, si è messo a spacciare, ha violentato una donna in gruppo, noi non lo possiamo trattenere, non lo possiamo mandare in Albania, non lo possiamo rimpatriare e quasi quasi gli dobbiamo dare la protezione internazionale.",
    "url": "https://pagellapolitica.it/fact-checking/cioe-a-uno-che-e-entrato-clandestinamente-in-italia-si-e-messo-a-spacciare-ha-violentato-una-donna-in-gruppo-noi-non-lo-possiamo-trattenere-non-lo-possiamo-mandare-in-albania-non-lo-possiamo-rimp",
    "fonte_originale": "https://www.youtube.com/watch?v=2M-EtvyuiRU&t=1842s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-09",
@@ -807,7 +878,8 @@
    "frase": "La riforma sostituisce questo modello [quello di elezione del CSM], che è in mano alle correnti ideologizzate e ai partiti politici, con un sorteggio. Ovviamente un sorteggio tra quelli che hanno i requisiti per ricoprire quell’incarico. Significa che noi avremo domani due CSM, uno per la magistratura inquirente e uno per la magistratura giudicante, composte da persone che non hanno dovuto chiedere il voto a chi devono poi promuovere o meno, trasferire o meno, e che non sono state scelte dai partiti",
    "url": "https://pagellapolitica.it/fact-checking/la-riforma-sostituisce-questo-modello-quello-di-elezione-del-csm-che-e-in-mano-alle-correnti-ideologizzate-e-ai-partiti-politici-con-un-sorteggio-ovviamente-un-sorteggio-tra-quelli-che-hann",
    "fonte_originale": "https://www.youtube.com/watch?v=4EcN7bqZaJA&t",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-09",
@@ -815,7 +887,8 @@
    "frase": "Visti i toni apocalittici che sto ascoltando da parte di chi, diciamo, non sembra avere molti argomenti contro questa riforma, tipo l’accusa di scivolamento verso un sistema illiberale, io penso che sia utile che gli italiani abbiano questo dato: nella gran parte dei Paesi europei la separazione delle carriere già esiste».",
    "url": "https://pagellapolitica.it/fact-checking/visti-i-toni-apocalittici-che-sto-ascoltando-da-parte-di-chi-diciamo-non-sembra-avere-molti-argomenti-contro-questa-riforma-tipo-laccusa-di-scivolamento-verso-un-sistema-illiberale",
    "fonte_originale": "https://www.youtube.com/watch?v=4EcN7bqZaJA&t",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-16",
@@ -823,7 +896,8 @@
    "frase": "Il Partito Democratico che sosteneva la separazione delle carriere, che dovrebbe dire? Il Movimento 5 Stelle che sosteneva il sorteggio per i membri del CSM, che dovrebbe dire? Nicola Gratteri che sosteneva il sorteggio per i membri del CSM, che dovrebbe dire?",
    "url": "https://pagellapolitica.it/fact-checking/il-partito-democratico-che-sosteneva-la-separazione-delle-carriere-che-dovrebbe-dire-il-movimento-5-stelle-che-sosteneva-il-sorteggio-per-i-membri-del-csm-che-dovrebbe-dire-nicola-gratteri-c",
    "fonte_originale": "https://youtu.be/xJvRAiAWWfs?si=c-GBMKYEz-pMPN-u&t=128",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-16",
@@ -831,7 +905,8 @@
    "frase": "Noi abbiamo speso dagli anni Novanta a oggi quasi un miliardo di euro per risarcimenti per ingiusta detenzione in questa nazione",
    "url": "https://pagellapolitica.it/fact-checking/noi-abbiamo-speso-dagli-anni-novanta-a-oggi-quasi-un-miliardo-di-euro-per-risarcimenti-per-ingiusta-detenzione-in-questa-nazione",
    "fonte_originale": "https://youtu.be/xJvRAiAWWfs?si=HrUfyJA5qTiLMfLU&t=782",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-19",
@@ -839,7 +914,8 @@
    "frase": "Nella stragrande maggioranza dei Paesi europei l’aumento [dei prezzi della benzina] è stato maggiore di quello che c’è stato da noi",
    "url": "https://pagellapolitica.it/fact-checking/nella-stragrande-maggioranza-dei-paesi-europei-laumento-dei-prezzi-della-benzina-e-stato-maggiore-di-quello-che-ce-stato-da-noi",
    "fonte_originale": "https://www.youtube.com/watch?v=mWs_KNoc5AI&t=1275s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-03-19",
@@ -847,7 +923,8 @@
    "frase": "Per la prima volta nella storia d’Italia anche i magistrati quando sbagliano saranno giudicati da organismo terzo, come accade per tutto il genere umano",
    "url": "https://pagellapolitica.it/fact-checking/per-la-prima-volta-nella-storia-ditalia-anche-i-magistrati-quando-sbagliano-saranno-giudicati-da-organismo-terzo-come-accade-per-tutto-il-genere-umano",
    "fonte_originale": "https://www.youtube.com/watch?v=mWs_KNoc5AI&t=2688s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-04-09",
@@ -855,7 +932,8 @@
    "frase": "Abbiamo ridotto gli sbarchi e aumentato sensibilmente i rimpatri, rafforzato il controllo delle frontiere, combattuto i trafficanti di esseri umani. E soprattutto abbiamo ridotto le morti nel Mediterraneo",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-ridotto-gli-sbarchi-e-aumentato-sensibilmente-i-rimpatri-rafforzato-il-controllo-delle-frontiere-combattuto-i-trafficanti-di-esseri-umani-e-soprattutto-abbiamo-ridotto-le-morti-nel-mediterr",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-04-09",
@@ -863,7 +941,8 @@
    "frase": "L’azione del governo che ha portato il fondo sanitario nazionale al livello più alto di sempre: 143 miliardi nel 2026, 17 miliardi in più rispetto all’insediamento",
    "url": "https://pagellapolitica.it/fact-checking/lazione-del-governo-che-ha-portato-il-fondo-sanitario-nazionale-al-livello-piu-alto-di-sempre-143-miliardi-nel-2026-17-miliardi-in-piu-rispetto-allinsediamento",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-04-09",
@@ -871,7 +950,8 @@
    "frase": "Nel secondo trimestre 2025 il tasso di occupazione tra i 15 e i 64 anni nel Sud ha raggiunto il dato più alto delle serie storiche dell’ISTAT. Non era mai successo",
    "url": "https://pagellapolitica.it/fact-checking/nel-secondo-trimestre-2025-il-tasso-di-occupazione-tra-i-15-e-i-64-anni-nel-sud-ha-raggiunto-il-dato-piu-alto-delle-serie-storiche-dellistat-non-era-mai-successo",
    "fonte_originale": "https://www.youtube.com/watch?v=1PvhNUI-uhU",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-05-13",
@@ -879,7 +959,8 @@
    "frase": "PNRR ad oggi l’Italia ha incassato 153 miliardi e sarà liquidata la nona rata nelle prossime settimane. Al 31 marzo 2026 la spesa certificata ammonta a 117 miliardi, pari al 76 per cento del totale, a cui si aggiungono 24 miliardi di strumenti finanziari. Direi che abbiamo fatto un buon lavoro",
    "url": "https://pagellapolitica.it/fact-checking/pnrr-ad-oggi-litalia-ha-incassato-153-miliardi-e-sara-liquidata-la-nona-rata-nelle-prossime-settimane-al-31-marzo-2026-la-spesa-certificata-ammonta-a-117-miliardi-pari-al-76-per-cento-del-t",
    "fonte_originale": "https://www.youtube.com/watch?v=9GI7VpIMWXg&t=1017s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-05-13",
@@ -887,7 +968,8 @@
    "frase": "Questo governo negli ultimi tre anni sulla lotta all’evasione ha recuperato circa 100 miliardi di euro in tre anni",
    "url": "https://pagellapolitica.it/fact-checking/questo-governo-negli-ultimi-tre-anni-sulla-lotta-allevasione-ha-recuperato-circa-100-miliardi-di-euro-in-tre-anni",
    "fonte_originale": "https://www.youtube.com/watch?v=9GI7VpIMWXg&t=5160s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-05-28",
@@ -895,7 +977,8 @@
    "frase": "È quello che abbiamo fatto dall’inizio per esempio della guerra in Iran, lei ricordava il taglio delle accise sul carburante, che è stato un modo per impedire che esplodesse l’aumento dei prezzi (...) da noi il costo del carburante è cresciuto sensibilmente meno di quanto non sia accaduto per esempio in Francia, per esempio in Germania",
    "url": "https://pagellapolitica.it/fact-checking/e-quello-che-abbiamo-fatto-dallinizio-per-esempio-della-guerra-in-iran-lei-ricordava-il-taglio-delle-accise-sul-carburante-che-e-stato-un-modo-per-impedire-che-esplodesse-laumento",
    "fonte_originale": "https://www.youtube.com/watch?v=8DwktJ9kC-k&t=90s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-05-28",
@@ -903,7 +986,8 @@
    "frase": "Nel 2022 ogni 100 immigrati illegali che sbarcavano in Italia ne venivano rimpatriati circa 4, oggi ne vengono rimpatriati almeno 35",
    "url": "https://pagellapolitica.it/fact-checking/nel-2022-ogni-100-immigrati-illegali-che-sbarcavano-in-italia-ne-venivano-rimpatriati-circa-4-oggi-ne-vengono-rimpatriati-almeno-35",
    "fonte_originale": "https://www.youtube.com/watch?v=8DwktJ9kC-k&t=1295s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-11",
@@ -911,7 +995,8 @@
    "frase": "Con il nostro governo abbiamo raggiunto il massimo storico di energia elettrica prodotta da fonti rinnovabili",
    "url": "https://pagellapolitica.it/fact-checking/con-il-nostro-governo-abbiamo-raggiunto-il-massimo-storico-di-energia-elettrica-prodotta-da-fonti-rinnovabili",
    "fonte_originale": "https://www.youtube.com/watch?v=eLSE8nWfDSk&t=1354s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-11",
@@ -919,7 +1004,8 @@
    "frase": "Il fronte è praticamente fermo, dal 1° gennaio 2026 ad oggi Mosca non è riuscita a incrementare la percentuale di territorio ucraino sotto il suo controllo",
    "url": "https://pagellapolitica.it/fact-checking/il-fronte-e-praticamente-fermo-dal-1-gennaio-2026-ad-oggi-mosca-non-e-riuscita-a-incrementare-la-percentuale-di-territorio-ucraino-sotto-il-suo-controllo",
    "fonte_originale": "https://www.youtube.com/watch?v=eLSE8nWfDSk&t=80s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-11",
@@ -927,7 +1013,8 @@
    "frase": "Tra il 2014 e il 2016 sono sbarcati in Italia più di mezzo milione di immigrati irregolari. Sapete quanto ci è costato in termini di accoglienza? Tra gli 8 e i 10 miliardi di euro",
    "url": "https://pagellapolitica.it/fact-checking/tra-il-2014-e-il-2016-sono-sbarcati-in-italia-piu-di-mezzo-milione-di-immigrati-irregolari-sapete-quanto-ci-e-costato-in-termini-di-accoglienza-tra-gli-8-e-i-10-miliardi-di-euro",
    "fonte_originale": "https://www.youtube.com/live/1uGWFtT5ZtE?si=v7ok6D8lr1GJxewe&t=1218",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-06-29",
@@ -935,7 +1022,8 @@
    "frase": "Non è detto che non possa superarsi anche questo altro grande tabù, di avere un presidente della Repubblica che è non di centrosinistra",
    "url": "https://pagellapolitica.it/fact-checking/non-e-detto-che-non-possa-superarsi-anche-questo-altro-grande-tabu-di-avere-un-presidente-della-repubblica-che-e-non-di-centrosinistra",
    "fonte_originale": "https://www.youtube.com/watch?v=0XhXgyOV1CM&t=769s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   },
   {
    "data": "2026-08-12",
@@ -943,7 +1031,8 @@
    "frase": "Abbiamo regolato gli affitti brevi",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-regolato-gli-affitti-brevi",
    "fonte_originale": "https://www.chimagazine.it/interviste/giorgia-meloni-figlia-ginevra-intervista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-08-12",
@@ -951,7 +1040,8 @@
    "frase": "Gli ultimi decreti per cercare di abbassare il costo del gasolio rappresentano un unicum in Europa. Nessun altro governo europeo è intervenuto così",
    "url": "https://pagellapolitica.it/fact-checking/gli-ultimi-decreti-per-cercare-di-abbassare-il-costo-del-gasolio-rappresentano-un-unicum-in-europa-nessun-altro-governo-europeo-e-intervenuto-cosi",
    "fonte_originale": "https://www.chimagazine.it/interviste/giorgia-meloni-figlia-ginevra-intervista/",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-08-14",
@@ -959,7 +1049,8 @@
    "frase": "Pensi al Superbonus: finiremo di pagarlo solo nel 2027 e alla fine ci costerà la bellezza di 174 miliardi, quattro volte in più di quanto preventivato",
    "url": "https://pagellapolitica.it/fact-checking/pensi-al-superbonus-finiremo-di-pagarlo-solo-nel-2027-e-alla-fine-ci-costera-la-bellezza-di-174-miliardi-quattro-volte-in-piu-di-quanto-preventivato",
    "fonte_originale": "https://www.milanofinanza.it/news/giorgia-meloni-l-italia-piu-forte-di-prima-202608140834229835",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-08-14",
@@ -967,7 +1058,8 @@
    "frase": "Quando ci siamo insediati (...) lo spread era a 240 punti, tre volte più alto dei valori attuali. Oggi il quadro è molto diverso",
    "url": "https://pagellapolitica.it/fact-checking/quando-ci-siamo-insediati-lo-spread-era-a-240-punti-tre-volte-piu-alto-dei-valori-attuali-oggi-il-quadro-e-molto-diverso",
    "fonte_originale": "https://www.milanofinanza.it/news/giorgia-meloni-l-italia-piu-forte-di-prima-202608140834229835",
-   "fonte_tipo": "Stampa o altro"
+   "fonte_tipo": "Stampa o altro",
+   "giudizio": null
   },
   {
    "data": "2026-09-10",
@@ -975,7 +1067,8 @@
    "frase": "Alla sinistra (...) devo ricordare che non è credibile (sul tema della preferenze) chi non le ha mai volute in questi 35 anni",
    "url": "https://pagellapolitica.it/fact-checking/alla-sinistra-devo-ricordare-che-non-e-credibile-sul-tema-della-preferenze-chi-non-le-ha-mai-volute-in-questi-35-anni",
    "fonte_originale": "https://www.facebook.com/giorgiameloni.paginaufficiale/posts/pfbid02Y2CNNKtXoXPCNdMDYJ5HTEuF8w6VoYFKw6k2cJnzx3MxXL8qo8pUh6gDx1HEknQ4l",
-   "fonte_tipo": "Facebook"
+   "fonte_tipo": "Facebook",
+   "giudizio": null
   },
   {
    "data": "2026-09-20",
@@ -983,7 +1076,8 @@
    "frase": "Abbiamo portato il Fondo di finanziamento ordinario per le università al suo livello più alto di sempre",
    "url": "https://pagellapolitica.it/fact-checking/abbiamo-portato-il-fondo-di-finanziamento-ordinario-per-le-universita-al-suo-livello-piu-alto-di-sempre",
    "fonte_originale": "https://www.youtube.com/live/vAEDLyrttUo?t=1350s",
-   "fonte_tipo": "Video"
+   "fonte_tipo": "Video",
+   "giudizio": null
   }
  ],
  "camera": [
