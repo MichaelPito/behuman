@@ -11,7 +11,7 @@ const fmt = (n: number | null | undefined) => (n == null ? "n.d." : `${String(n)
 const BREVE: Record<string, string> = {
   presenza: "Presenza al voto", mediana: "Mediana dell'Aula", fedelta: "Voti come il gruppo", cambi: "Cambi di posizione",
   coerenza: "Coerenza", partito: "Posizione dei partiti", orientamento: "Orientamento", sesso: "Sesso", sintesi: "Sintesi",
-  dichiarazioni: "Dichiarazioni", virali: "Più discusse", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
+  dichiarazioni: "Dichiarazioni", sunto: "Sunto", virali: "Più discusse", promesse: "Prima e dopo l'incarico", governo: "Pagina Governo", aggiornamento: "Aggiornamenti", errori: "Errori",
 };
 type Q = { id: string; q: string; a: string[]; formula?: string; esempio?: string };
 const gruppi: { titolo: string; voci: Q[] }[] = [
@@ -123,6 +123,16 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "sunto",
+        q: "Come fate il sunto di un intervento?",
+        a: [
+          "Il sunto è estrattivo: scegliamo 2 o 3 frasi intere dal testo ufficiale, con le parole dell'oratore. Nessuna riscrittura e nessun modello linguistico.",
+          "Si scartano formule di cortesia e di procedura («Grazie, Presidente», «annuncio il voto…») e gli appellativi iniziali. Ogni frase riceve un punteggio: quanto contiene le parole su cui l'oratore torna più spesso in quell'intervento (somma delle frequenze divisa per la radice della lunghezza), con un piccolo bonus per numeri e per la prima frase di merito. Le migliori restano nell'ordine originale.",
+          "«Di cosa parla più spesso» conta gli interventi che toccano un'area (economia, fisco, lavoro e pensioni, immigrazione, sanità, energia, esteri e difesa, giustizia…) con un elenco pubblico di parole chiave: servono almeno due parole dell'area nello stesso intervento.",
+          "Accanto a ogni sunto c'è il link al testo ufficiale integrale: è quello che fa fede.",
+        ],
+      },
+      {
         id: "virali",
         q: "Come scegliete le dichiarazioni «più discusse»?",
         a: [
@@ -130,6 +140,18 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
           "Usiamo un segnale pubblico e controllabile: una dichiarazione è «discussa» quando Pagella Politica, fact-checker indipendente, l'ha scelta per una verifica. Lo fa per le frasi che circolano di più nel dibattito pubblico.",
           "Riportiamo la frase del politico, la data, dove l'ha detta e i link alla fonte originale e alla verifica. Non riportiamo il giudizio del fact-checker (vero, falso…): resta sul loro sito, a un clic.",
           "Se la fonte originale è un resoconto della Camera che abbiamo, mostriamo anche il passaggio ufficiale.",
+        ],
+      },
+      {
+        id: "promesse",
+        q: "Come confrontate cosa chiedevano prima dell'incarico con cosa è successo dopo?",
+        a: [
+          "Vale per i politici monitorati che hanno oggi un incarico di governo. «Prima» vuol dire prima della data di inizio di quell'incarico (dati della Camera dei Deputati).",
+          "Le frasi vengono da fonti con data: resoconti dell'Aula della Camera dal 2018, dichiarazioni scelte da Pagella Politica (qualsiasi data) e il programma del loro partito per le elezioni del 25 settembre 2022 (il PDF depositato al Ministero dell'Interno e, dove esiste, il programma completo del partito).",
+          "Una frase conta come richiesta solo se contiene la parola del tema (es. «accise») e, poco prima, un verbo che indica cosa si chiede (ridurre, tagliare, abolire, fermare…). Nei discorsi il verbo deve essere una richiesta («tagliare», «aboliremo», «chiediamo che siano abolite»): le descrizioni («le tasse diminuiranno», «abbiamo ridotto») e le frasi con «non» subito prima non contano. Temi, parole e verbi sono in un file pubblico, uguale per tutti.",
+          "Ogni tema ha un indicatore ufficiale: accise su benzina e gasolio (Ministero dell'Ambiente e della Sicurezza Energetica, settimanale), pressione fiscale in % del PIL (Eurostat, annuale), persone sbarcate negli ultimi 12 mesi (UNHCR su dati del Ministero dell'Interno). Pensioni/legge Fornero e reddito di cittadinanza non hanno un indicatore numerico semplice: mostriamo solo le leggi.",
+          "L'esito è una regola fissa sul valore all'inizio dell'incarico e sull'ultimo dato: «nella direzione chiesta» se l'indicatore è sceso di oltre l'1% quando si chiedeva di ridurlo, «quasi invariato» entro ±1%, «nella direzione opposta» se è salito di oltre l'1%, «obiettivo raggiunto» se si chiedeva di abolire e il valore è zero. Mostriamo anche il valore di un anno prima dell'incarico, per vedere misure temporanee in corso all'insediamento (es. il taglio delle accise del 2022).",
+          "Non diciamo se una promessa è stata «mantenuta»: un indicatore dipende anche da fattori esterni (prezzi internazionali, guerre, economia). Mostriamo le frasi, i numeri e le leggi, con le fonti; il giudizio resta a chi legge.",
         ],
       },
       {
@@ -173,7 +195,7 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
   <section class="section">
     <div class="stack">
       <span class="eyebrow">Domande frequenti</span>
-      <h1>Come calcoliamo i numeri</h1>
+      <h1>Come calcoliamo i <span class="grad">numeri</span></h1>
       <p class="muted prose">Ogni indicatore è un rapporto tra conteggi presi da fonti ufficiali, con regole scritte prima di guardare i dati e uguali per tutti. Qui trovi formule, eccezioni e limiti.</p>
     </div>
     <nav class="row indice" aria-label="Argomenti">

@@ -122,9 +122,75 @@
     "al": "2025-07-08"
    }
   ],
-  "fonti_verificate": []
+  "fonti_verificate": [],
+  "temi": [
+   {
+    "tema": "Sanità",
+    "n": 6
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 4
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 3
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 2
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 2
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2024": [
+    {
+     "tema": "Fisco e tasse",
+     "n": 3
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 3
+    },
+    {
+     "tema": "Sanità",
+     "n": 1
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Sanità",
+     "n": 4
+    },
+    {
+     "tema": "Scuola e università",
+     "n": 1
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 1
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Fisco e tasse",
+     "n": 1
+    },
+    {
+     "tema": "Sanità",
+     "n": 1
+    }
+   ]
+  }
  },
- "recap": "Dal 27 ottobre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 133 interventi nell'Aula del Senato. In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "recap": "Dal 27 ottobre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 133 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -149,7 +215,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli presentatori, perché mi consentono di affrontare il tema dell'attuazione della legge n. 112 del 2016, la cosiddetta legge «sul dopo di noi», che, come sappiamo, riveste un ruolo centrale per la tutela dei diritti delle persone con disabilità, indispensabile per la loro piena inclusione ed effettiva partecipazione sociale, e che ha permesso l'avvio di tanti progetti ed esper […]",
+   "sunto": "La forte eterogeneità a livello regionale nella gestione ed erogazione delle risorse, nonché i ritardi e i casi di mancata rendicontazione al Ministero del Lavoro da parte di diverse regioni, costituiscono indubbiamente un fattore di criticità, cui si sono aggiunti i ritardi causati dalla pandemia.",
+   "temi": [],
    "parole": 417,
    "url": "https://www.camera.it/leg19/410?idSeduta=0038&tipo=stenografico#sed0038.stenografico.tit00050.sub00030.int00040"
   },
@@ -162,7 +229,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Le compartecipazioni sono espressamente previste fra le fonti di finanziamento di regioni ed enti locali dall'articolo 119, secondo comma, della Costituzione, e costituiscono uno dei perni del federalismo fiscale, la cui completa attuazione è prevista nell'ambito del PNRR entro il primo trimestre del 2026. […]",
+   "sunto": "Circa i paventati rischi per la finanza pubblica legati alla variabilità delle risorse attribuite alle regioni, che hanno natura più generale rispetto al tema dell'autonomia differenziata, segnalo che l'adeguatezza delle risorse regionali rispetto alle funzioni attribuite è garantita dal…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00050.sub00050.int00040"
   },
@@ -175,7 +245,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli interroganti. In relazione alla vicenda riportata nell'interrogazione, sulla base di una verifica da parte del Ministero dell'Interno - peraltro, già oggetto di altre interrogazioni - svolta tramite le questure competenti, risulta che i suddetti manifesti, recanti simbolo e logo dell'ente regione, siano effettivamente collocati in diverse aree del capoluogo e delle altre province cam […]",
+   "sunto": "La correttezza dell'importo indicato è stata contestata, in sede di replica, da parte dell'interrogante, che ha indicato un importo ben superiore, credo superiore ai 150.000 euro. […] Nonostante il tema dell'autonomia differenziata venga richiamato dall'assessore competente in sede di risposta all'interrogazione presentata in consiglio regionale, esso non risulta esplicitamente menzionato nei manifesti affissi.",
+   "temi": [],
    "parole": 364,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00020.int00040"
   },
@@ -188,7 +259,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Visto che sono stato anche accusato di essere afasico, non ho fatto la replica alla fine della discussione preliminare in Commissione, perché, il venerdì di 15 giorni fa, alla conclusione dalla stessa, eravamo presenti io e l'onorevole Auriemma, che ha condiviso con me e con l'onorevole Stefani, che non c'erano le condizioni per replicare. […]",
+   "sunto": "Visto che sono stato anche accusato di essere afasico, non ho fatto la replica alla fine della discussione preliminare in Commissione, perché, il venerdì di 15 giorni fa, alla conclusione dalla stessa, eravamo presenti io e l'onorevole Auriemma, che ha condiviso con me e con l'onorevole Stefani,… […] Direi che è abbastanza simile a quell'occasione con i rapporti numerici…",
+   "temi": [],
    "parole": 67,
    "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00020.int00020"
   },
@@ -201,7 +273,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Io mi giro dove voglio, mi scusi, perché l'articolo 67 vige anche per me… Grazie, Presidente. Mi viene in mente, alla fine di questa discussione generale, un film che ho visto 3 anni fa, Don't Look Up , in cui il Presidente degli Stati Uniti, Meryl Streep, alla luce dell'arrivo di un meteorite che minacciava la Terra, previsto da tutti gli scienziati, aveva risolto il problema dicendo: guardate per terra, non guardat […]",
+   "sunto": "Lo dico non sulla base di numeri modello, perché ciascuno dice cifre diverse e probabilmente non sempre coincidenti, perché da un deputato all'altro cambia la durata media della vita, la diversità tra il Nord e il Sud, la spesa pubblica a livello territoriale e a livello regionale.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Sanità",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 3379,
    "url": "https://www.camera.it/leg19/410?idSeduta=0285&tipo=stenografico#sed0285.stenografico.tit00080.sub00020.int00050"
   },
@@ -214,7 +293,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore per la maggioranza.",
+   "sunto": "Parere conforme al relatore per la maggioranza.",
+   "temi": [],
    "parole": 7,
    "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00150.sub00020.int00140"
   },
@@ -227,7 +307,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme al relatore di maggioranza.",
+   "sunto": "Conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 5,
    "url": "https://www.camera.it/leg19/410?idSeduta=0304&tipo=stenografico#sed0304.stenografico.tit00170.sub00010.int00320"
   },
@@ -240,7 +321,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore di maggioranza.",
+   "sunto": "Parere conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00030.sub00010.int00320"
   },
@@ -253,7 +335,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme al relatore per la maggioranza.",
+   "sunto": "Conforme al relatore per la maggioranza.",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00130.sub00020.int00040"
   },
@@ -266,7 +349,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e colleghi. Ho chiesto la parola su questo emendamento 2.8 per motivare anche il parere contrario su altri emendamenti che tratterò in un'unica sede. L'emendamento 2.8 Iaria è finalizzato all'esclusione della materia delle grandi reti di trasporto e di navigazione da quelle che potrebbero essere di riferibilità di ulteriori forme e condizioni particolari di autonomia. […]",
+   "sunto": "Le 23 materie, 3 esclusive dello Stato, ai sensi del secondo comma dell'articolo 117, e le altre 20 materie concorrenti non sono state introdotte dalla legge oggi in discussione, ma nascono dal combinato disposto dell'articolo 116, terzo comma, e dell'articolo 117, secondo e terzo comma. […] Da un punto di vista procedurale, il percorso è identico sia per le materie LEP sia per le non materie LEP.",
+   "temi": [],
    "parole": 1420,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00070.sub00010.int00020"
   },
@@ -279,7 +363,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Parere conforme a quello del relatore di maggioranza. Lo voglio motivare, perché l'articolo 3 non è quello della proposta di legge di iniziativa governativa iniziale ma è frutto di un emendamento interamente sostitutivo di iniziativa parlamentare al Senato, che il Governo ha condiviso, così come è stato condiviso da tutta la maggioranza.",
+   "sunto": "Parere conforme a quello del relatore di maggioranza. […] Lo voglio motivare, perché l'articolo 3 non è quello della proposta di legge di iniziativa governativa iniziale ma è frutto di un emendamento interamente sostitutivo di iniziativa parlamentare al Senato, che il Governo ha condiviso, così come è stato condiviso da tutta la maggioranza.",
+   "temi": [],
    "parole": 54,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00020.int00040"
   },
@@ -292,7 +377,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie.",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore di maggioranza.",
+   "sunto": "Parere conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00030.int00040"
   },
@@ -305,7 +391,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme al relatore di maggioranza.",
+   "sunto": "Conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 5,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00040.int00060"
   },
@@ -318,7 +405,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore di maggioranza.",
+   "sunto": "Parere conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00050.int00060"
   },
@@ -331,7 +419,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore per la maggioranza.",
+   "sunto": "Parere conforme al relatore per la maggioranza.",
+   "temi": [],
    "parole": 7,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00060.int00060"
   },
@@ -344,7 +433,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": null,
-   "estratto": "Ministro per gli Affari regionali e le autonomie. Conforme al relatore di maggioranza.",
+   "sunto": "Ministro per gli Affari regionali e le autonomie. […] Conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 13,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00070.int00060"
   },
@@ -357,7 +447,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme al relatore per la maggioranza.",
+   "sunto": "Conforme al relatore per la maggioranza.",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00080.int00050"
   },
@@ -370,7 +461,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme al relatore di maggioranza.",
+   "sunto": "Conforme al relatore di maggioranza.",
+   "temi": [],
    "parole": 5,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00090.int00050"
   },
@@ -383,7 +475,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Il parere è conforme al relatore di maggioranza. Passiamo alla votazione dell'emendamento 11.10 Sarracino. Indìco la votazione nominale, mediante procedimento elettronico, sull'emendamento 11.10 Sarracino, con il parere contrario della Commissione e del Governo e favorevole del relatore di minoranza. Dichiaro aperta la votazione. (Segue la votazione). Dichiaro chiusa la votazione. La Camera respinge . […]",
+   "sunto": "Indìco la votazione nominale, mediante procedimento elettronico, sull'emendamento 11.10 Sarracino, con il parere contrario della Commissione e del Governo e favorevole del relatore di minoranza. […] Indìco la votazione nominale, mediante procedimento elettronico, sull'emendamento 11.22 Sarracino, con il parere contrario della Commissione e del Governo e favorevole del relatore di minoranza.",
+   "temi": [],
    "parole": 264,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00100.int00060"
   },
@@ -396,7 +489,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Sull'ordine del giorno n. 9/1665/1 Bonelli, il parere è favorevole, a condizione che vengano espunti le premesse e il secondo impegno. Sull'ordine del giorno n. 9/1665/2 Ghirra, il parere è favorevole a condizione che vengano espunte le premesse e che l'impegno sia così riformulato: “a promuovere un programma nazionale pluriennale di investimenti che integri le risorse vigenti e finalizzato a garantire la continuità […]",
+   "sunto": "Sull'ordine del giorno n. 9/1665/71 Morfino il parere è contrario. […] Sull'ordine del giorno n. 9/1665/72 Orrico il parere è contrario. […] Sull'ordine del giorno n. 9/1665/73 Amato il parere è contrario.",
+   "temi": [],
    "parole": 1305,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00130.sub00110.int00020"
   },
@@ -409,7 +503,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un grazie anche agli interroganti. Sulla base dell'articolo 17 della legge di contabilità, ciascuna legge che comporta nuovi o maggiori oneri indica espressamente le risorse per far fronte alla relativa copertura. Tale disposizione è espressamente richiamata dall'articolo 9 della legge n. 86 del 2024, ai fini del finanziamento dei LEP sulla base dei relativi costi e fabbisogni standard. […]",
+   "sunto": "Sulla base dell'articolo 17 della legge di contabilità, ciascuna legge che comporta nuovi o maggiori oneri indica espressamente le risorse per far fronte alla relativa copertura. […] Tale disposizione è espressamente richiamata dall'articolo 9 della legge n. 86 del 2024, ai fini del finanziamento dei LEP sulla base dei relativi costi e fabbisogni standard.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 483,
    "url": "https://www.camera.it/leg19/410?idSeduta=0322&tipo=stenografico#sed0322.stenografico.tit00070.sub00100.int00040"
   },
@@ -422,7 +519,11 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Mi scuso anticipatamente se non sarò breve, ma siamo di fronte a mozioni che, complessivamente, prevedono 81 premesse e 39 impegni. Onorevole Presidente, onorevoli deputati, permettetemi di dissentire dal contenuto delle mozioni in discussione, con cui vengono reiterate, già nelle articolate premesse, varie critiche al processo di attuazione dell'autonomia differenziata. […]",
+   "sunto": "Basti ricordare la relazione tecnica che, sulla base della legge n. 86, deve essere allegata allo schema di intesa preliminare e che consentirà alle Camere di valutare la congruità delle risorse a trasferire, rispetto ai fabbisogni di spesa delle materie LEP e non LEP oggetto di attribuzione.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse"
+   ],
    "parole": 2370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0360&tipo=stenografico#sed0360.stenografico.tit00040.sub00020.int00020"
   },
@@ -435,7 +536,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Presidente, mi scuso, ma sono a richiederle una breve sospensione, perché il testo mi è stato consegnato qualche minuto fa. Un quarto d'ora. Dipende dalla lunghezza.",
+   "sunto": "Mi scuso, ma sono a richiederle una breve sospensione, perché il testo mi è stato consegnato qualche minuto fa.",
+   "temi": [],
    "parole": 26,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.int00030"
   },
@@ -448,7 +550,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il primo impegno della mozione unitaria chiede di non procedere alla stipula di nuove intese… Mi è stata consegnata, ma è rimasta di là. Se è quella che mi ha consegnato la funzionaria, allora sì. È quella con i tre impegni, l'unica rimasta. Parere contrario. […]",
+   "sunto": "Pur in attesa di conoscere la sentenza della Corte costituzionale, non posso non rilevare come quanto emerga dal comunicato abbia un impatto limitato sulle materie non LEP e sia perfettamente coerente con il negoziato avviato, che allo stato riguarda soltanto una specifica materia non LEP.",
+   "temi": [],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00110.sub00010.int00020"
   },
@@ -461,7 +564,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'editoriale della rivista The Lancet , autorevole rivista, ma non nuova a controversie rilevanti e molto discutibili, affronta principalmente il tema della raccolta e utilizzazione dei dati relativi alla tutela della salute nel nostro Paese. […]",
+   "sunto": "Quanto alle disparità tra le regioni nella ripartizione della spesa sanitaria, l'editoriale, e con esso l'interrogazione, trascura poi meccanismi di riparto del fabbisogno sanitario nazionale, peraltro oggetto di intesa fra lo Stato e tutte le regioni.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 427,
    "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00060.sub00050.int00040"
   },
@@ -474,7 +580,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, è mia intenzione conseguire proprio quanto suggerito dagli interroganti. L'autonomia differenziata può effettivamente rappresentare - testualmente - un volano per lo sviluppo dei territori, consentendo di realizzare una migliore e più efficiente allocazione delle funzioni e delle relative risorse. […]",
+   "sunto": "Quanto invece alle materie LEP, sulla base della medesima legge, come ribadito dalla Corte costituzionale, l'attribuzione di funzioni alle regioni presuppone la previa determinazione dei livelli essenziali delle prestazioni. […] Sarà presentato a breve alle Camere un corposo disegno di legge di delega al Governo per la definizione dei LEP nelle materie di cui all'articolo 3, comma 3, della legge n. 86 del 2024.",
+   "temi": [],
    "parole": 424,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00030.sub00100.int00040"
   },
@@ -487,7 +594,12 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Anche per porre qualche puntino sulle “i” sia rispetto al passaggio in Commissione sia rispetto al passaggio in Aula. Diversi colleghi hanno ricordato l'articolo 44 della Costituzione: “La legge dispone provvedimenti a favore delle zone montane”, uno dei tanti punti della Costituzione che non trova ancora attuazione perché le leggi a favore della montagna o sono state abrogate o hanno esaurito gli […]",
+   "sunto": "Partiamo da quello che citava l'onorevole Ferrari in merito alla definizione e al riconoscimento della montagna, di cos'è montagna, perché è ora di finirla di giocare con le parole. […] Altri canali serviranno, per esempio, per le aree interne, per le altre zone di difficoltà, ma non sicuramente i soldi della montagna.",
+   "temi": [
+    "Scuola e università",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 1245,
    "url": "https://www.camera.it/leg19/410?idSeduta=0468&tipo=stenografico#sed0468.stenografico.tit00110.sub00020.int00020"
   },
@@ -500,7 +612,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie agli interroganti perché mi danno l'occasione di affrontare un argomento che, secondo me, può rappresentare veramente una svolta storica del nostro Paese, per quello che è consentito in tre minuti. […]",
+   "sunto": "Il disegno di legge delinea finalmente, a 24 anni dalla riforma del Titolo V, un percorso organico di determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che debbono essere garantiti su tutto il territorio nazionale.",
+   "temi": [],
    "parole": 442,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00010.int00040"
   },
@@ -513,7 +626,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Il parere del Ministro è conforme a quello della relatrice. Insisto anch'io sulla necessità di un approfondimento sul subemendamento 0.4.200.1 Boschi e, nonostante ci si sia già espressi in sede di Comitato dei nove, un ulteriore approfondimento sull'articolo aggiuntivo 14.01000 Bruzzone.",
+   "sunto": "Il parere del Ministro è conforme a quello della relatrice. […] Insisto anch'io sulla necessità di un approfondimento sul subemendamento 0.4.200.1 Boschi e, nonostante ci si sia già espressi in sede di Comitato dei nove, un ulteriore approfondimento sull'articolo aggiuntivo 14.01000 Bruzzone.",
+   "temi": [],
    "parole": 41,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00110.sub00010.int00160"
   },
@@ -526,7 +640,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme.",
+   "sunto": "Parere conforme.",
+   "temi": [],
    "parole": 2,
    "url": "https://www.camera.it/leg19/410?idSeduta=0503&tipo=stenografico#sed0503.stenografico.tit00090.sub00030.int00080"
   },
@@ -539,7 +654,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Conforme.",
+   "sunto": "Conforme.",
+   "temi": [],
    "parole": 1,
    "url": "https://www.camera.it/leg19/410?idSeduta=0504&tipo=stenografico#sed0504.stenografico.tit00050.sub00090.int00040"
   },
@@ -552,7 +668,8 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Sull'ordine del giorno n. 9/2126-A/1 Dori, il parere è contrario. Sull'ordine del giorno n. 9/2126-A/2 Bonelli, il parere è favorevole a condizione che vengano espunte le premesse e che gli impegni siano tutti riformulati, premettendo le seguenti parole: “valutare, nel rispetto degli equilibri di finanza pubblica, l'opportunità di”. Sugli ordini del giorno n. 9/2126-A/3 Zanella e n. […]",
+   "sunto": "Sull'ordine del giorno n. 9/2126-A/8 Ghio, il parere è favorevole, a condizione che nell'impegno le parole: “da adottare” siano sostituite dalle seguenti “a valutare l'adozione”. […] Sull' ordine del giorno n. 9/2126-A/26 Sottanelli il parere è favorevole, a condizione che nell'impegno si premettano le seguenti parole: “a valutare l'opportunità di”.",
+   "temi": [],
    "parole": 1181,
    "url": "https://www.camera.it/leg19/410?idSeduta=0504&tipo=stenografico#sed0504.stenografico.tit00050.sub00290.int00020"
   },
@@ -565,7 +682,10 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. C'è stata una rivalutazione dell'ordine del giorno n. 9/2126-A/12 Girelli, su cui intendiamo modificare il parere da contrario a favorevole, condizionatamente a che vengano espunte le premesse e che gli impegni siano sostituiti dal seguente: “a valutare l'opportunità di ulteriormente valorizzare la telemedicina nelle zone montane quale strumento essenziale per consentire la cura costante delle per […]",
+   "sunto": "C'è stata una rivalutazione dell'ordine del giorno n. 9/2126-A/12 Girelli, su cui intendiamo modificare il parere da contrario a favorevole, condizionatamente a che vengano espunte le premesse e che gli impegni siano sostituiti dal seguente: “a valutare l'opportunità di ulteriormente valorizzare…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 104,
    "url": "https://www.camera.it/leg19/410?idSeduta=0506&tipo=stenografico#sed0506.stenografico.tit00050.int00020"
   },
@@ -578,7 +698,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In poche parole, questo provvedimento pone parzialmente rimedio a un mio intervento legislativo del 2011, con un decreto-legge che aveva determinato dei tagli legati al negativo ciclo economico che stavamo vivendo allora. […]",
+   "sunto": "In poche parole, questo provvedimento pone parzialmente rimedio a un mio intervento legislativo del 2011, con un decreto-legge che aveva determinato dei tagli legati al negativo ciclo economico che stavamo vivendo allora. […] Ho sentito la collega dei 5 Stelle riprenderci perché non abbiamo affrontato il calo demografico in generale, ma riferito a determinate aree, come le aree interne, piuttosto che le aree marginali.",
+   "temi": [],
    "parole": 338,
    "url": "https://www.camera.it/leg19/410?idSeduta=0522&tipo=stenografico#sed0522.stenografico.tit00020.sub00020.int00020"
   },
@@ -591,7 +712,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere contrario sugli emendamenti. Essendo gli ordini del giorno attinenti al medesimo spunto degli emendamenti, parere contrario anche su tutti gli ordini del giorno.",
+   "sunto": "Essendo gli ordini del giorno attinenti al medesimo spunto degli emendamenti, parere contrario anche su tutti gli ordini del giorno.",
+   "temi": [],
    "parole": 24,
    "url": "https://www.camera.it/leg19/410?idSeduta=0524&tipo=stenografico#sed0524.stenografico.tit00120.sub00010.int00040"
   },
@@ -604,7 +726,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Non ho cambiato idea e, quindi, esprimo parere contrario su tutti gli ordini del giorno.",
+   "sunto": "Non ho cambiato idea e, quindi, esprimo parere contrario su tutti gli ordini del giorno.",
+   "temi": [],
    "parole": 17,
    "url": "https://www.camera.it/leg19/410?idSeduta=0524&tipo=stenografico#sed0524.stenografico.tit00120.sub00040.int00020"
   },
@@ -617,7 +740,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'interrogazione ha ad oggetto mie dichiarazioni dello scorso 30 agosto riferite a vicende del 1996, cioè, a quasi trent'anni fa. Si tratta di fatti che hanno anche formato oggetto di procedimenti penali a mio carico, dai quali sono uscito sempre assolto. […]",
+   "sunto": "Dico, quindi, sì, all'unità del Paese ma, insieme, sì, anche all'autonomia e al decentramento. […] Il sottoscritto, accusato di essere un secessionista o, meglio, un ex secessionista, a ben vedere nei fatti ha sempre avuto a cuore gli interessi di tutto il Paese, affrontando i problemi delle aree interne e delle zone svantaggiate, indipendentemente che fossero al Nord o al Sud; penso alla…",
+   "temi": [],
    "parole": 362,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00180.sub00030.int00040"
   },
@@ -630,7 +754,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie. Alcune considerazioni, anche alla luce del dibattito in Commissione. Sono un po' sorpreso perché, se devo valutare l'atteggiamento delle opposizioni, c'è chi dice che abbiamo fatto troppo poco e chi troppo tanto, a fronte di emendamenti che avrebbero soppresso molte delle materie che, invece, venivano attribuite alle province. […]",
+   "sunto": "Credo che abbiamo ottemperato a quella richiesta che è giunta nell'ottobre del 2022 al Festival delle regioni a Torino, dove i cinque presidenti delle province e delle regioni a statuto speciale consegnarono alla Presidente Meloni e al sottoscritto una proposta di legge in cui si riformavano i…",
+   "temi": [],
    "parole": 757,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00030.sub00020.int00040"
   },
@@ -643,7 +768,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Pochissime parole per ringraziare la relatrice e le deputate intervenute quest'oggi. Credo che questa modifica costituzionale rappresenti un'espressione di leale collaborazione fra Stato e regione, perché è un progetto di legge che nasce su iniziativa del consiglio regionale, modificato in Parlamento e che, fosse prevista o meno l'intesa, noi abbiamo chiesto il parere al consiglio regionale e dubi […]",
+   "sunto": "Credo che questa modifica costituzionale rappresenti un'espressione di leale collaborazione fra Stato e regione, perché è un progetto di legge che nasce su iniziativa del consiglio regionale, modificato in Parlamento e che, fosse prevista o meno l'intesa, noi abbiamo chiesto il parere al… […] Però, se dovevamo dire “rimettiamo le province”, chiamiamole province e non enti di area vasta, perché a me viene l'allergia .",
+   "temi": [],
    "parole": 203,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00040.sub00020.int00020"
   },
@@ -656,7 +782,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Mandi , perché è friulano… forse in Venezia Giulia non lo apprezzano…",
+   "sunto": "Mandi , perché è friulano… forse in Venezia Giulia non lo apprezzano…",
+   "temi": [],
    "parole": 12,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00040.sub00020.int00050"
   },
@@ -669,7 +796,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Parere conforme al relatore.",
+   "sunto": "Parere conforme al relatore.",
+   "temi": [],
    "parole": 4,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00130.sub00010.int00040"
   },
@@ -682,7 +810,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il parere è contrario su tutti gli ordini del giorno. Ci sono spunti interessanti, che però non si concretizzano nella riforma costituzionale e potranno essere più utili nella sua fase di attuazione.",
+   "sunto": "Il parere è contrario su tutti gli ordini del giorno. […] Ci sono spunti interessanti, che però non si concretizzano nella riforma costituzionale e potranno essere più utili nella sua fase di attuazione.",
+   "temi": [],
    "parole": 34,
    "url": "https://www.camera.it/leg19/410?idSeduta=0543&tipo=stenografico#sed0543.stenografico.tit00130.sub00020.int00020"
   },
@@ -695,7 +824,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Non posso che dolermi per la drammatica vicenda di malasanità che ha portato al decesso di una povera donna; lo faccio come uomo, come politico, come medico e, ahimè, come paziente oncologico. Esprimo la sentita vicinanza del Governo e la solidarietà mia personale alla famiglia. Io stesso ho subìto, in altra regione, una vicenda dai contorni analoghi. […]",
+   "sunto": "All'esito dell'iniziativa la regione siciliana è stata invitata a porre in essere azioni correttive delle criticità rilevate, articolate su più livelli e ambiti prioritari, e a fornire un riscontro al Ministero.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 305,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00090.int00040"
   },
@@ -708,7 +840,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Gli interroganti reiterano nelle loro premesse le stesse critiche infondate già da loro formulate in varie sedi, cui ho già replicato in molteplici occasioni. Osservo che la Corte costituzionale non ha demolito l'impianto della legge n. 86 del 2024, ma l'ha invece dichiarata legittima, limitandosi a censurarne specifici profili. […]",
+   "sunto": "Il Governo ha già dato seguito ai rilievi della Corte anche con l'introduzione, nel disegno di legge di bilancio, dei LEP nelle materie del federalismo fiscale e con la presentazione al Senato del disegno di legge delega per la determinazione dei LEP, il cui esame inizierà entro la fine del…",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 336,
    "url": "https://www.camera.it/leg19/410?idSeduta=0564&tipo=stenografico#sed0564.stenografico.tit00090.sub00010.int00040"
   },
@@ -721,7 +856,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "La legge n. 131 del 2025 prevede la classificazione dei comuni montani sulla base dei criteri altimetrico e della pendenza. L'obiettivo, dichiarato dallo stesso legislatore, è quello di ridurre l'attuale elenco di oltre 4.000 comuni che contiene realtà, quali Roma e Bologna, che, con altimetria media di, rispettivamente, 67 e 82 metri, non hanno certo le caratteristiche geografiche della montagna. […]",
+   "sunto": "La legge n. 131 del 2025 prevede la classificazione dei comuni montani sulla base dei criteri altimetrico e della pendenza.",
+   "temi": [],
    "parole": 335,
    "url": "https://www.camera.it/leg19/410?idSeduta=0586&tipo=stenografico#sed0586.stenografico.tit00010.sub00090.int00040"
   },
@@ -734,7 +870,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come evidenziato dall'interrogante, il nuovo elenco ricomprende 3.715 comuni montani, a fronte degli oltre 4.000 contenuti nel precedente. I comuni non inclusi non soddisfano le caratteristiche di altimetria e pendenza individuati in attuazione della legge sulla montagna. […]",
+   "sunto": "In proposito, con l'accordo richiamato nell'interrogazione adottato all'unanimità in sede di Conferenza unificata e pubblicato sul relativo sito Internet, le medesime regioni si sono impegnate a tener conto delle esigenze dei comuni non più inclusi nell'elenco dei comuni montani.",
+   "temi": [],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0622&tipo=stenografico#sed0622.stenografico.tit00010.sub00100.int00040"
   },
@@ -747,7 +884,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio il relatore Urzi', che ha rappresentato puntualmente tutti i contenuti. Volevo fare una piccola cronistoria di questa riforma. Nasce da un incontro del sottoscritto e della Presidente Meloni al Festival delle regioni nel dicembre 2022, laddove il Presidente Kompatscher, a nome di tutti i presidenti delle regioni e delle province autonome presenti all'incontro, presentò una loro proposta […]",
+   "sunto": "Nasce da un incontro del sottoscritto e della Presidente Meloni al Festival delle regioni nel dicembre 2022, laddove il Presidente Kompatscher, a nome di tutti i presidenti delle regioni e delle province autonome presenti all'incontro, presentò una loro proposta di revisione dei rispettivi…",
+   "temi": [],
    "parole": 460,
    "url": "https://www.camera.it/leg19/410?idSeduta=0629&tipo=stenografico#sed0629.stenografico.tit00030.sub00010.int00040"
   },
@@ -760,7 +898,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La sentenza della Corte n. 192 del 2024 non ha - come sostengono gli interroganti - sonoramente bocciato la legge n. 86 del 2024, piuttosto ne ha confermato l'impianto, fornendo anche indicazioni precise per lo svolgimento del percorso negoziale per l'attribuzione di forme e condizioni particolari di autonomia. […]",
+   "sunto": "La sentenza della Corte n. 192 del 2024 non ha - come sostengono gli interroganti - sonoramente bocciato la legge n. 86 del 2024, piuttosto ne ha confermato l'impianto, fornendo anche indicazioni precise per lo svolgimento del percorso negoziale per l'attribuzione di forme e condizioni…",
+   "temi": [],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0651&tipo=stenografico#sed0651.stenografico.tit00090.sub00090.int00040"
   },
@@ -773,7 +912,11 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Se me lo consente, io articolerei la mia replica in fasi diverse. Una replica generale, che è la stessa che ho fatto in sede di Commissione, dove ho replicato oralmente e non ho depositato un testo: quindi, a quello rinvio e deposito alla Presidenza quella replica. La integro con una parte generale, e poi replicherò ai singoli interventi. […]",
+   "sunto": "Sono risorse che comunque devono appartenere alle regioni stesse, e quindi in alcun modo possono andare a danneggiare le altre regioni. […] Quindi, le risorse che vanno alle regioni, che abbiano o meno l'autonomia differenziata, sono quelle del Fondo sanitario nazionale, e quindi né un euro in più andrà alle regioni con l'autonomia differenziata, né un euro in meno andrà alle altre.",
+   "temi": [
+    "Fisco e tasse",
+    "Sanità"
+   ],
    "parole": 3539,
    "url": "https://www.camera.it/leg19/410?idSeduta=0693&tipo=stenografico#sed0693.stenografico.tit00060.sub00030.int00020"
   },
@@ -786,7 +929,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il parere è favorevole sulla risoluzione Alessandro Colucci, Urzi', Iezzi, Paolo Emilio Russo n. 6-00268 . Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00272 e Richetti e altri n. 6-00276 .",
+   "sunto": "Il parere è favorevole sulla risoluzione Alessandro Colucci, Urzi', Iezzi, Paolo Emilio Russo n. 6-00268 . […] Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00272 e Richetti e altri n. 6-00276 .",
+   "temi": [],
    "parole": 54,
    "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00060.sub00010.int00020"
   },
@@ -799,7 +943,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il parere è favorevole sulla risoluzione Iezzi, Urzi', Paolo Emilio Russo e Alessandro Colucci n. 6-00269 . Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00273 e Richetti ed altri n. 6-00277 .",
+   "sunto": "Il parere è favorevole sulla risoluzione Iezzi, Urzi', Paolo Emilio Russo e Alessandro Colucci n. 6-00269 . […] Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00273 e Richetti ed altri n. 6-00277 .",
+   "temi": [],
    "parole": 55,
    "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00090.sub00010.int00020"
   },
@@ -812,7 +957,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sulla risoluzione Paolo Emilio Russo, Urzi', Iezzi e Alessandro Colucci n. 6-00270 il parere è favorevole. Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00274 e Richetti ed altri n. 6-00278 .",
+   "sunto": "Sulla risoluzione Paolo Emilio Russo, Urzi', Iezzi e Alessandro Colucci n. 6-00270 il parere è favorevole. […] Il parere è contrario, per le ragioni già evidenziate in sede di replica nella seduta di ieri, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00274 e Richetti ed altri n. 6-00278 .",
+   "temi": [],
    "parole": 54,
    "url": "https://www.camera.it/leg19/410?idSeduta=0694&tipo=stenografico#sed0694.stenografico.tit00100.sub00010.int00020"
   },
@@ -825,7 +971,8 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Esprimo parere favorevole sulla risoluzione Urzi', Iezzi, Paolo Emilio Russo e Alessandro Colucci n. 6-00271 e parere contrario, per le ragioni già evidenziate in sede di replica, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00275 e Richetti ed altri 6-00279 .",
+   "sunto": "Esprimo parere favorevole sulla risoluzione Urzi', Iezzi, Paolo Emilio Russo e Alessandro Colucci n. 6-00271 e parere contrario, per le ragioni già evidenziate in sede di replica, sulle risoluzioni Braga, Riccardo Ricciardi, Zanella, Boschi, Magi ed altri n. 6-00275 e Richetti ed altri 6-00279 .",
+   "temi": [],
    "parole": 47,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00050.sub00010.int00020"
   },
@@ -838,7 +985,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro per gli Affari regionali e le autonomie",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sul primo quesito posto dagli interroganti, rappresento che è in corso l'interlocuzione con Istat, da cui attendo elementi tecnici ai fini della predisposizione del regolamento previsto dall'articolo 2, comma 2, della legge n. 131 del 2025. Rassicuro sul fatto che conto di perfezionare il regolamento ben prima della scadenza dei 90 giorni che, sulla base della legge, decorrono dal 22 luglio. […]",
+   "sunto": "Permettetemi, infine, di prendere atto con stupore della proposta del PD che, da un lato, sopprime i criteri di classificazione previsti dalla mia legge, ma, dall'altro, adotta integralmente il nuovo elenco dei 3.715 comuni montani, aggiungendo a questi ultimi 630 su 633 comuni del vecchio elenco.",
+   "temi": [],
    "parole": 434,
    "url": "https://www.camera.it/leg19/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00070.sub00030.int00040"
   }

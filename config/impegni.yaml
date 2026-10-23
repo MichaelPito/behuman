@@ -1,0 +1,53 @@
+# Promesse prima dell'incarico, misurate dopo.
+#
+# Per ogni tema:
+#   parole:    espressione che riconosce il tema in una frase
+#   direzioni: verbi che indicano cosa si chiede (nella stessa frase, entro 90 caratteri dalla parola del tema).
+#              Una frase con «non»/«mai» subito prima del verbo è scartata (non si sa cosa chieda).
+#   indicatori: serie ufficiali con cui misurare cosa è successo (vedi pipeline/memoria/fonti/indicatori.py)
+#   leggi:     espressione sul titolo delle leggi del Governo che riguardano il tema
+#
+# La regola è la stessa per tutti i politici e tutti i partiti. Aggiungere un tema = una proposta
+# pubblica (issue o PR) con indicatore ufficiale; nessun tema va aggiunto per colpire una persona.
+
+- id: accise-carburanti
+  nome: Accise sui carburanti
+  parole: '\baccis[ae]\b'
+  direzioni:
+    abolizione: '\b(abol\w*|elimin\w*|cancell\w*|azzer\w*)'
+    riduzione: '\b(tagli\w*|ridu\w*|ridurr\w*|abbass\w*|sterilizz\w*|diminu\w*|alleggerir\w*)'
+  indicatori: [accisa-benzina, accisa-gasolio]
+  leggi: '\b(accis\w*|carburant\w*)'
+
+- id: tasse
+  nome: Livello delle tasse
+  parole: '\b(tasse|pressione fiscale|carico fiscale|tassazione|imposte)\b'
+  direzioni:
+    riduzione: '\b(abbass\w*|ridu\w*|ridurr\w*|tagli\w*|diminu\w*|allegger\w*|meno tasse)'
+  indicatori: [pressione-fiscale]
+  leggi: '\b(fiscal\w*|tribut\w*|irpef|imposta|imposte)\b'
+
+- id: sbarchi
+  nome: Sbarchi e immigrazione irregolare
+  parole: '\b(sbarch\w*|immigrazione (clandestina|illegale|irregolare)|blocco navale|partenze irregolari|clandestin\w*)'
+  direzioni:
+    riduzione: '\b(ferm\w*|blocc\w*|ridu\w*|ridurr\w*|stop\w*|azzer\w*|impedir\w*|contrast\w*|diminu\w*|limitar\w*|arrest\w*)'
+  indicatori: [sbarchi-12-mesi]
+  leggi: '\b(immigra\w*|migra\w*|protezione internazionale|asilo|frontier\w*|rimpatri\w*)'
+
+- id: legge-fornero
+  nome: Pensioni e legge Fornero
+  parole: '\bfornero\b'
+  direzioni:
+    abolizione: '\b(abol\w*|cancell\w*|superar\w*|smont\w*|elimin\w*|archiv\w*|cambiar\w*)'
+  indicatori: []
+  leggi: '\b(pension\w*|previdenz\w*)'
+
+- id: reddito-cittadinanza
+  nome: Reddito di cittadinanza
+  parole: '\breddito di cittadinanza\b'
+  direzioni:
+    abolizione: '\b(abol\w*|cancell\w*|elimin\w*|togli\w*|superar\w*)'
+    aumento: '\b(difend\w*|rafforz\w*|estender\w*|potenzi\w*)'
+  indicatori: []
+  leggi: '\b(reddito di cittadinanza|inclusione)\b'

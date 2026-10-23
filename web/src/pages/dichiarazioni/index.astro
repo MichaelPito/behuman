@@ -31,7 +31,7 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
   <section class="section">
     <div class="stack">
       <span class="eyebrow">Ultimi 5 anni</span>
-      <h1>Cosa hanno detto</h1>
+      <h1>Cosa hanno <span class="grad">detto</span></h1>
       <p class="muted prose">
         {totale.toLocaleString("it-IT")} dichiarazioni con data e fonte: interventi in Aula (parola per parola dai resoconti ufficiali),
         discorsi pubblicati da Palazzo Chigi e le frasi più discusse, cioè quelle che un fact-checker indipendente ha scelto di verificare.
@@ -92,8 +92,8 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
         <li>
           <span class="when">{dataIt(r.data)} · {r.fonte === "Camera" ? "Aula della Camera" : "governo.it"}</span>
           <div class="what"><a href={u(`/dichiarazioni/${r.slug}/`)}>{r.nome}</a> <span class="muted small">— {r.contesto}</span></div>
-          <p class="small estratto">{r.testo}</p>
-          <a class="tiny" href={r.url} target="_blank" rel="noopener">Testo completo <Icon name="ext" class="tiny" /></a>
+          <p class="small estratto"><span class="etichetta">In sintesi, con le sue parole</span> «{r.testo}»</p>
+          <a class="tiny" href={r.url} target="_blank" rel="noopener">Testo ufficiale integrale <Icon name="ext" class="tiny" /></a>
         </li>
       ))}
     </ol>
@@ -110,5 +110,6 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
   .recap-card .vai { color: var(--accent-ink); font-weight: 600; }
   .recap-card .vai :global(svg) { transition: transform 0.25s var(--spring); }
   .recap-card:hover .vai :global(svg) { transform: translateX(4px); }
-  .estratto { margin: 4px 0; color: var(--ink-2); max-width: 75ch; }
+  .estratto { margin: 6px 0 4px; color: var(--ink); max-width: 75ch; border-left: 3px solid var(--accent-wash); padding-left: 10px; }
+  .etichetta { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); margin-bottom: 2px; }
 </style>

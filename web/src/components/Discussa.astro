@@ -13,7 +13,7 @@ const { v, nome, slug } = Astro.props;
   <div class="row testa">
     {nome && slug && <a class="chi" href={u(`/dichiarazioni/${slug}/`)}>{nome}</a>}
     <span class="tiny muted mono">{v.data ? dataIt(v.data) : `verificata il ${dataIt(v.data_verifica)}`}</span>
-    <span class="pill">{v.fonte_tipo}</span>
+    <span class="pill sun">{v.fonte_tipo}</span>
   </div>
   <blockquote>«{v.frase}»</blockquote>
   {v.testo_ufficiale && (
@@ -30,7 +30,7 @@ const { v, nome, slug } = Astro.props;
 </article>
 
 <style>
-  .discussa { display: grid; gap: 10px; padding: 16px 18px; align-content: start; transition: transform 0.25s var(--spring), box-shadow 0.25s; }
+  .discussa { display: grid; gap: 10px; padding: 16px 18px; align-content: start; border-top: 3px solid var(--sun); transition: transform 0.25s var(--spring), box-shadow 0.25s; }
   .discussa:hover { transform: translateY(-2px); box-shadow: var(--shadow-lift); }
   .testa { gap: 8px; align-items: center; }
   .chi { font-weight: 700; text-decoration: none; color: var(--ink); }

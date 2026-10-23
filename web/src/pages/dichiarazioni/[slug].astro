@@ -2,9 +2,10 @@
 import Base from "../../layouts/Base.astro";
 import Coerenza from "../../components/Coerenza.astro";
 import Discussa from "../../components/Discussa.astro";
+import Promesse from "../../components/Promesse.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, dichiarazioni, politici } from "../../lib/data";
+import { dataIt, dichiarazioni, impegni, politici } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -12,22 +13,34 @@ export function getStaticPaths() {
 }
 const d = dichiarazioni(Astro.params.slug!)!;
 const r = d.riepilogo;
+const prom = impegni().politici[d.slug];
 
+// Per question time e interpellanze il titolo della seduta è generico: l'oggetto vero è nella riga sotto.
+const generico = (a: string) => /^(svolgimento di |seguito dello svolgimento di )?(interrogazioni|interpellanze)/i.test(a || "");
+const titoloCamera = (c: { argomento: string; fase: string | null }) => {
+  if (generico(c.argomento) && c.fase) return c.fase.length > 200 ? c.fase.slice(0, 197).replace(/\s\S*$/, "") + "…" : c.fase;
+  return c.argomento || "Intervento in Aula";
+};
 // Un'unica cronologia, dalla più vecchia alla più recente.
-type Voce = { data: string; fonte: "camera" | "senato" | "governo" | "discussa"; titolo: string; testo?: string; url?: string; extra?: string; categoria?: string; verificata?: string };
+type Voce = { data: string; fonte: "camera" | "senato" | "governo" | "discussa"; titolo: string; testo?: string; url?: string; extra?: string; categoria?: string; verificata?: string; temi?: string[] };
 const voci: Voce[] = [
-  ...d.camera.map((c) => ({ data: c.data, fonte: "camera" as const, titolo: c.argomento || "Intervento in Aula", testo: c.estratto, url: c.url, extra: [c.fase, c.ruolo, `${c.parole.toLocaleString("it-IT")} parole`].filter(Boolean).join(" · "), categoria: c.categoria, verificata: c.verificata })),
+  ...d.camera.map((c) => ({ data: c.data, fonte: "camera" as const, titolo: titoloCamera(c), testo: (c as any).sunto ?? c.estratto, temi: (c as any).temi ?? [], url: c.url, extra: [generico(c.argomento) ? c.argomento.replace(/\.$/, "") : c.fase, c.ruolo, `${c.parole.toLocaleString("it-IT")} parole`].filter(Boolean).join(" · "), categoria: c.categoria, verificata: c.verificata })),
   ...d.senato.map((s) => ({ data: s.data, fonte: "senato" as const, titolo: s.ddl.length ? s.ddl.map((x) => `${x.fase} — ${x.titolo}`).join("; ") : "Intervento in Aula", extra: `Seduta n. ${s.seduta} · ${s.interventi} ${s.interventi === 1 ? "intervento" : "interventi"}`, url: s.ddl[0]?.url })),
-  ...d.governo.map((g) => ({ data: g.data, fonte: "governo" as const, titolo: g.titolo, testo: g.estratto, url: g.url, extra: `${g.parole.toLocaleString("it-IT")} parole` })),
+  ...d.governo.map((g) => ({ data: g.data, fonte: "governo" as const, titolo: g.titolo, testo: (g as any).sunto ?? g.estratto, temi: (g as any).temi ?? [], url: g.url, extra: `${g.parole.toLocaleString("it-IT")} parole` })),
   ...d.verificate.filter((v) => v.data).map((v) => ({ data: v.data!, fonte: "discussa" as const, titolo: `«${v.frase}»`, url: v.url, extra: `Fonte: ${v.fonte_tipo}` })),
 ].sort((a, b) => a.data.localeCompare(b.data));
 const ETICHETTA = { camera: "Aula della Camera", senato: "Aula del Senato", governo: "Palazzo Chigi", discussa: "Più discussa" };
 const anni = [...new Set(voci.map((v) => v.data.slice(0, 4)))].sort();
 const conta = (f: (v: Voce) => boolean) => voci.filter(f).length;
 const categorie = [...new Set(voci.map((v) => v.categoria).filter(Boolean))] as string[];
+const temiVoci = [...new Set(voci.flatMap((v) => v.temi ?? []))];
+const slugTema = (t: string) => t.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, "-").toLowerCase();
+const temiR: { tema: string; n: number }[] = (r as any).temi ?? [];
+const maxTema = Math.max(1, ...temiR.map((t) => t.n));
 const gruppi = [
   { chiave: "fonte", titolo: "Fonte", opzioni: (Object.keys(ETICHETTA) as Voce["fonte"][]).map((k) => [k, ETICHETTA[k], conta((v) => v.fonte === k)] as [string, string, number]).filter((x) => x[2] > 0) },
   { chiave: "anno", titolo: "Anno", opzioni: anni.map((a) => [a, a, conta((v) => v.data.startsWith(a))] as [string, string, number]) },
+  { chiave: "tema", titolo: "Argomento", opzioni: temiVoci.map((t) => [slugTema(t), t, conta((v) => (v.temi ?? []).includes(t))] as [string, string, number]).sort((a, b) => b[2] - a[2]) },
   { chiave: "occasione", titolo: "Occasione (Camera)", opzioni: categorie.map((c) => [c.replace(/\W+/g, "-"), c, conta((v) => v.categoria === c)] as [string, string, number]).sort((a, b) => b[2] - a[2]) },
 ];
 const maxAnno = Math.max(1, ...r.per_anno.map((a) => a.camera + a.senato + a.governo + a.verificate));
@@ -51,18 +64,25 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
               <li>
                 <span class="mono small">{a.anno}</span>
                 <span class="barra" style={`--t:${(t / maxAnno) * 100}%`} title={`Camera ${a.camera}, Senato ${a.senato}, Palazzo Chigi ${a.governo}, più discusse ${a.verificate}`}>
-                  <i style={`flex:${a.camera}; background:var(--accent)`}></i><i style={`flex:${a.senato}; background:var(--neutral)`}></i><i style={`flex:${a.governo}; background:var(--plum)`}></i><i style={`flex:${a.verificate}; background:var(--ink-2)`}></i>
+                  <i style={`flex:${a.camera}; background:var(--accent)`}></i><i style={`flex:${a.senato}; background:var(--sky)`}></i><i style={`flex:${a.governo}; background:var(--plum)`}></i><i style={`flex:${a.verificate}; background:var(--sun)`}></i>
                 </span>
                 <span class="mono small">{t}</span>
               </li>
             );
           })}
         </ul>
-        <span class="legend small"><span><i style="background:var(--accent)"></i>Camera</span><span><i style="background:var(--neutral)"></i>Senato</span><span><i style="background:var(--plum)"></i>Palazzo Chigi</span><span><i style="background:var(--ink-2)"></i>Più discusse</span></span>
+        <span class="legend small"><span><i style="background:var(--accent)"></i>Camera</span><span><i style="background:var(--sky)"></i>Senato</span><span><i style="background:var(--plum)"></i>Palazzo Chigi</span><span><i style="background:var(--sun)"></i>Più discusse</span></span>
       </div>
       <div class="stack">
         <Coerenza v={d.valutazione_coerenza} />
         <a class="small" href={u(`/politici/${d.slug}/#cambi`)}>Vedi i cambi di posizione e le fonti <Icon name="arrow" class="tiny" /></a>
+        {temiR.length > 0 && (
+          <div class="card stack">
+            <span class="eyebrow">Di cosa parla più spesso</span>
+            <ul class="temi-bar">{temiR.slice(0, 6).map((t) => <li><span>{t.tema}</span><span class="b" style={`--w:${(t.n / maxTema) * 100}%`}></span><span class="mono small">{t.n}</span></li>)}</ul>
+            <p class="tiny muted">Numero di interventi (Camera e Palazzo Chigi) che toccano ogni area, contati con un elenco pubblico di parole chiave. <a href={u("/faq/#sunto")}>Come</a></p>
+          </div>
+        )}
         {r.argomenti_frequenti.length > 0 && (
           <div class="card stack">
             <span class="eyebrow">Argomenti con più interventi alla Camera</span>
@@ -72,6 +92,13 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
       </div>
     </div>
   </section>
+
+  {prom && (
+    <section class="section" id="promesse">
+      <div class="section-head"><h2>Prima e dopo l'incarico</h2></div>
+      <Promesse d={prom} />
+    </section>
+  )}
 
   {d.verificate.length > 0 && (
     <section class="section" id="discusse">
@@ -99,14 +126,15 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
               <summary><span><span class="mono">{a}</span> <span class="muted small">· {perAnno[a].length} dichiarazioni</span></span><Icon name="chev" class="chev" /></summary>
               <div class="body"><ol class="timeline">
                 {perAnno[a].map((v) => (
-                  <li data-item data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
-                    data-f-fonte={v.fonte} data-f-anno={a} data-f-occasione={v.categoria?.replace(/\W+/g, "-") ?? ""}>
+                  <li data-item data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : v.fonte === "discussa" ? "sun" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
+                    data-f-fonte={v.fonte} data-f-anno={a} data-f-occasione={v.categoria?.replace(/\W+/g, "-") ?? ""} data-f-tema={(v.temi ?? []).map(slugTema).join(" ")}>
                     <span class="when">{dataIt(v.data)} · {ETICHETTA[v.fonte]}</span>
                     <div class="what">{v.titolo}</div>
-                    {v.testo && <p class="small estratto">{v.testo}</p>}
+                    {v.testo && (v.fonte === "camera" || v.fonte === "governo") && <p class="small estratto"><span class="etichetta">In sintesi, con le sue parole</span> «{v.testo}»</p>}
+                    {(v.temi ?? []).length > 0 && <div class="row temi-voce">{v.temi!.map((t) => <span class="pill sky">{t}</span>)}</div>}
                     <div class="tiny muted">
                       {v.extra}
-                      {v.url && <> · <a href={v.url} target="_blank" rel="noopener">{v.fonte === "discussa" ? "Verifica" : v.fonte === "senato" ? "Scheda del ddl" : "Testo completo"} <Icon name="ext" class="tiny" /></a></>}
+                      {v.url && <> · <a href={v.url} target="_blank" rel="noopener">{v.fonte === "discussa" ? "Verifica" : v.fonte === "senato" ? "Scheda del ddl" : v.fonte === "camera" ? "Resoconto ufficiale integrale" : "Testo integrale su governo.it"} <Icon name="ext" class="tiny" /></a></>}
                       {v.verificata && <> · <a href={v.verificata} target="_blank" rel="noopener">verificata da Pagella Politica</a></>}
                     </div>
                   </li>
@@ -119,7 +147,8 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
       </>
     )}
     <p class="tiny muted" style="margin-top:16px">
-      Camera: resoconti stenografici (camera.it), estratto dell'inizio di ogni intervento. Senato: elenco degli interventi da dati.senato.it, senza testo
+      Camera: resoconti stenografici (camera.it). Il sunto è fatto solo di frasi intere scelte dal testo ufficiale, con un metodo automatico
+      descritto nella <a href={u("/faq/#sunto")}>FAQ</a>. Senato: elenco degli interventi da dati.senato.it, senza testo
       (il sito non ne consente il download automatico). Palazzo Chigi: interventi pubblicati su governo.it (CC BY 3.0 IT).
     </p>
   </section>
@@ -142,7 +171,13 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
   .salti a { padding: 4px 10px; border-radius: 999px; background: var(--surface-2); text-decoration: none; color: var(--ink-2); font-weight: 600; }
   .salti a:hover { background: var(--accent-wash); color: var(--accent-ink); }
   .anno { margin-top: 10px; scroll-margin-top: 90px; }
-  .estratto { margin: 4px 0; color: var(--ink-2); max-width: 75ch; }
+  .estratto { margin: 6px 0 4px; color: var(--ink); max-width: 75ch; border-left: 3px solid var(--accent-wash); padding-left: 10px; }
+  .etichetta { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); margin-bottom: 2px; }
+  .temi-voce { gap: 4px; margin: 4px 0; }
+  .temi-voce .pill { font-size: 0.72rem; }
+  .temi-bar { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .temi-bar li { display: grid; grid-template-columns: minmax(0, 12rem) 1fr 2.5rem; gap: 10px; align-items: center; font-size: 0.9rem; }
+  .temi-bar .b { height: 10px; border-radius: 999px; width: var(--w); background: linear-gradient(90deg, var(--sky), var(--accent)); transform-origin: left; animation: cresci 0.9s var(--ease) both; }
 </style>
 
 <script>

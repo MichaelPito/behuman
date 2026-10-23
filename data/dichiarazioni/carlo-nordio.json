@@ -116,9 +116,125 @@
     "fonte": "TV",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Giustizia",
+    "n": 81
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 32
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 12
+   },
+   {
+    "tema": "Sanità",
+    "n": 10
+   },
+   {
+    "tema": "Unione europea",
+    "n": 10
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 7
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 5
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 5
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 2
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 2
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 1
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 1
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 1
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2023": [
+    {
+     "tema": "Giustizia",
+     "n": 22
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 10
+    },
+    {
+     "tema": "Sanità",
+     "n": 5
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Giustizia",
+     "n": 29
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 12
+    },
+    {
+     "tema": "Sanità",
+     "n": 4
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Giustizia",
+     "n": 17
+    },
+    {
+     "tema": "Sicurezza e criminalità",
+     "n": 8
+    },
+    {
+     "tema": "Unione europea",
+     "n": 3
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Giustizia",
+     "n": 13
+    },
+    {
+     "tema": "Unione europea",
+     "n": 3
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 2
+    }
+   ]
+  }
  },
- "recap": "Dal 24 ottobre 2022 al 21 ottobre 2026: 115 interventi nell'Aula della Camera (80.681 parole), 10 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (95 interventi).",
+ "recap": "Dal 24 ottobre 2022 al 21 ottobre 2026: 115 interventi nell'Aula della Camera (80.681 parole), 10 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (81), sicurezza e criminalità (32), esteri e difesa (12). In Aula alla Camera l'occasione più frequente è «Question time» (95 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -224,7 +340,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, e grazie all'onorevole collega. Che questi fenomeni di suicidio rappresentino un intollerabile fardello di dolore è stato enunciato già nel discorso programmatico della nostra Presidente del Consiglio, quando ha rilevato questo numero impressionante di suicidi. Le cifre lei le ha già descritte, io le avevo qui e quindi guadagno tempo non ripetendole. […]",
+   "sunto": "Per il triennio 2022-2024 è stata anche stanziata la somma di un milione di euro destinata al supporto psicologico a favore del personale del Corpo di polizia penitenziaria.",
+   "temi": [
+    "Sanità",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 440,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00020.int00040"
   },
@@ -237,7 +358,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, e grazie a lei, onorevole collega. In effetti, questa riforma parte da lontano, dal 2011, quando la razionalizzazione della dislocazione territoriale degli uffici giudiziari di primo grado doveva essere attuata garantendo la permanenza dei tribunali nei comuni capoluogo di provincia e assicurando la permanenza di almeno tre tribunali, e delle relative procure della Repubblica, in ogni distr […]",
+   "sunto": "In effetti, questa riforma parte da lontano, dal 2011, quando la razionalizzazione della dislocazione territoriale degli uffici giudiziari di primo grado doveva essere attuata garantendo la permanenza dei tribunali nei comuni capoluogo di provincia e assicurando la permanenza di almeno tre…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 316,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00030.int00040"
   },
@@ -250,7 +374,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie ancora, Presidente. Grazie a lei, onorevole collega, in effetti, i fatti che lei ha enunciato, sono fatti di estrema gravità. L'Amministrazione, a mezzo del DAP, già a suo tempo, ha provveduto alla doverosa attivazione delle procedure disciplinari previste dalla legge, adottando i consequenziali provvedimenti a carico degli operatori coinvolti. […]",
+   "sunto": "Ad oggi, 70 appartenenti al Corpo della polizia penitenziaria, nonché 3 dirigenti penitenziari, in ragione della gravità dei reati contestati, risultano ancora cautelativamente sospesi dal servizio, secondo l'articolo 7 del decreto legislativo del 1992. […] Esso è un reato che è stato introdotto a seguito dell'esecuzione della Convenzione di New York, che nel nostro Paese è stata ratificata nel 1988.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 369,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00040.int00040"
   },
@@ -263,7 +390,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'onorevole collega. L'opinione di questo Ministro sulle intercettazioni è già stata ampiamente espressa nella relazione davanti alla Camere, al Senato, che lei, collega, in questo momento ha avuto la cortesia di rievocare. Per quanto riguarda le cifre, esse oscillano, ma queste sono per difetto, tra i 160 e i 180 milioni di euro l'anno, euro che sono spesi per queste intercettazioni. […]",
+   "sunto": "Dico subito - lo specifico e lo riaffermo per la millesima o milionesima volta – che, quando intendo riferirmi alla necessità di cambiare la disciplina e i costi delle intercettazioni, non mi riferisco minimamente ai reati di grave allarme sociale, come la mafia e il terrorismo.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0033&tipo=stenografico#sed0033.stenografico.tit00030.sub00050.int00040"
   },
@@ -276,7 +407,16 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie, onorevoli colleghi. Come ho fatto ieri al Senato, vorrei esordire con un ringraziamento alla magistratura e a tutte le Forze dell'ordine per la brillante operazione . È stato un grande momento per lo Stato, per la legalità. […]",
+   "sunto": "Invece, in Italia abbiamo avuto molto spesso l'impressione che questo concetto fosse stato invertito e che la regola, in base a un malinteso diritto di informazione, fosse quella di lasciare pubblicare tutto a tutti, anche attraverso i brogliacci della Polizia che - ripeto ancora una volta -…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 5882,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00020.sub00010.int00020"
   },
@@ -289,7 +429,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "A me pare che, quando si parla dello stato generale della Giustizia, si debbano comprendere anche gli errori giudiziari . Io ringrazio voi dell'applauso, ringrazio anche l'opposizione e spero che questo nostro programma venga al più presto attuato, con il concorso, ovviamente, di chi fa parte di questa coalizione, ma io auspico anche con il concorso altrui .",
+   "sunto": "A me pare che, quando si parla dello stato generale della Giustizia, si debbano comprendere anche gli errori giudiziari . […] Io ringrazio voi dell'applauso, ringrazio anche l'opposizione e spero che questo nostro programma venga al più presto attuato, con il concorso, ovviamente, di chi fa parte di questa coalizione, ma io auspico anche con il concorso altrui .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 58,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00020.sub00010.int00080"
   },
@@ -302,7 +445,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, grazie ancora ai colleghi, grazie soprattutto ai colleghi dell'opposizione. La replica sarà breve, ma necessaria, perché sono state poste anche alcune domande. Naturalmente non posso rispondere a tutte proprio per ragioni di tempo. […]",
+   "sunto": "Il collega Dori - che magari non è presente; no, è qui, chiedo scusa -, che ringrazio anche per la cortesia che non sempre si sente in queste Aule - ieri abbiamo assistito a delle affermazioni abbastanza eccentriche pronunciate da appartenenti all'Assemblea del Senato - chiede quali siano le…",
+   "temi": [],
    "parole": 119,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00020.sub00040.int00020"
   },
@@ -315,7 +459,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Dicevo appunto che noi abbiamo un codice di procedura penale, firmato dal professor Giuliano Vassalli e dal professor Pisapia, papà di Giuliano - quindi firmato, ripeto, da un eroe della Resistenza poi passato alla Corte costituzionale -, ispirato al procedimento anglosassone, quello cosiddetto accusatorio. […]",
+   "sunto": "Fino al 1988 avevamo un codice inquisitorio firmato da Rocco, da Benito Mussolini e da Vittorio Emanuele III: era un codice inquisitorio e scritto.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1631,
    "url": "https://www.camera.it/leg19/410?idSeduta=0039&tipo=stenografico#sed0039.stenografico.tit00020.sub00040.int00060"
   },
@@ -328,7 +476,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie, onorevoli colleghi, per la vostra attenzione. Mantenendo fede agli impegni assunti nei vostri confronti il 1° febbraio 2023, vi rassegno gli esiti della compiuta istruttoria svolta dalle articolazioni ministeriali. […]",
+   "sunto": "Nei suoi confronti sono, per così dire, pendenti due situazioni: una di competenza esclusivamente giurisdizionale, che viene trattata davanti alla Corte di cassazione, e una di competenza di questo Ministero, a seguito della richiesta di revoca che è stata inoltrata dal difensore del Cospito per…",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2978,
    "url": "https://www.camera.it/leg19/410?idSeduta=0052&tipo=stenografico#sed0052.stenografico.tit00100.sub00010.int00020"
   },
@@ -341,7 +496,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente e grazie al collega Costa. In effetti, la legge 17 giugno 2022, n. 71 ha attribuito al Governo questa delega, di cui lei ha fatto ampio ed esauriente riassunto. Naturalmente, la disciplina del Consiglio superiore della magistratura è regolata dalla Costituzione e una sua eventuale revisione, che pure è nei programmi del Governo, richiederà una ovvia procedura, prevista appunto dalla Carta de […]",
+   "sunto": "Questo Governo e anche e, soprattutto, questo Ministro, per chi ha letto i miei interventi anche in momenti precedenti, sono profondamente convinti che, soprattutto dopo gli scandali emersi a suo tempo nel cosiddetto affare Palamara, vi sia la necessità di una profonda revisione dell'ordinamento…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 274,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00060.int00040"
   },
@@ -354,7 +512,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie a lei, onorevole, per la domanda. Breve riassunto: ho già riferito a questa onorevolissima Assemblea la natura dell'atto che è stato oggetto di contestazione. Aggiungo che la classificazione della natura - segreta, riservata, riservatissima o altro - per legge appartiene all'autorità che forma il documento e, quindi, spetta al Ministero, come abbiamo fatto, definire la qualifica degl […]",
+   "sunto": "Tutti sanno che la norma penale può essere interpretata in modo estensivo soltanto in bonam partem , quindi quello che è segreto è segreto, quello che non è segreto non rientra tra gli atti dei quali si sta oggi parlando.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 312,
    "url": "https://www.camera.it/leg19/410?idSeduta=0056&tipo=stenografico#sed0056.stenografico.tit00010.sub00070.int00040"
   },
@@ -367,7 +528,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente e grazie all'onorevole interrogante. Posso rispondere, senza “se” e senza “ma”, che il Governo non ha alcuna intenzione di abrogare il reato di tortura. Come già ho avuto occasione di spiegare l'11 gennaio di quest'anno, vi è soltanto un aspetto tecnico che deve essere rimodulato per una ragione molto semplice, cioè che il reato di tortura, così com'è strutturato, ha delle carenze tecniche d […]",
+   "sunto": "Posso rispondere, senza “se” e senza “ma”, che il Governo non ha alcuna intenzione di abrogare il reato di tortura. […] Come già ho avuto occasione di spiegare l'11 gennaio di quest'anno, vi è soltanto un aspetto tecnico che deve essere rimodulato per una ragione molto semplice, cioè che il reato di tortura, così com'è strutturato, ha delle carenze tecniche di specificità e tipicità che devono connotare la…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00010.int00040"
   },
@@ -380,7 +544,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In effetti, come è stato ricordato, quella spending review , datata oltre 10 anni, era stata orientata verso una razionalizzazione delle spese, una riduzione degli uffici giudiziari, per implementare, come si dice, la loro efficienza. […]",
+   "sunto": "In effetti, come è stato ricordato, quella spending review , datata oltre 10 anni, era stata orientata verso una razionalizzazione delle spese, una riduzione degli uffici giudiziari, per implementare, come si dice, la loro efficienza.",
+   "temi": [
+    "Sanità",
+    "Giustizia"
+   ],
    "parole": 312,
    "url": "https://www.camera.it/leg19/410?idSeduta=0085&tipo=stenografico#sed0085.stenografico.tit00060.sub00010.int00060"
   },
@@ -393,7 +561,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. La problematica che lei ha posto, ovviamente, estremamente complessa, si inserisce in quella più vasta, del sistema carcerario. Ho già illustrato, a suo tempo, le linee programmatiche di questo Ministero e di questo Governo per quanto riguarda il trattamento della Polizia penitenziaria, l'ampliamento delle carceri e gli investimenti. […]",
+   "sunto": "Per quanto riguarda la seconda parte, se è vero che nella situazione carceraria generale il problema è quello degli spazi, a maggior ragione ciò è vero per quanto riguarda la criminalità e la detenzione minorile.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 453,
    "url": "https://www.camera.it/leg19/410?idSeduta=0085&tipo=stenografico#sed0085.stenografico.tit00060.sub00020.int00040"
   },
@@ -406,7 +578,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente e onorevoli colleghi. Nell'ordine logico dell'attività discorsiva dell'intelletto, l'esposizione degli eventi dovrebbe anteporsi alle conclusioni. Tuttavia, in questo caso, preferisco anticiparle sinteticamente, affinché l'onorevole Assemblea possa pienamente comprendere lo svolgimento, in diritto e in fatto, di questa vicenda, tenendo presente l'obiettivo di chiarire le competenze e le riso […]",
+   "sunto": "In data 7 novembre, il Ministero dell'Interno indirizzava al Dipartimento per gli affari di giustizia, alla procura generale presso la corte d'appello di Milano e alla corte di appello di Milano, la richiesta di estradizione pervenuta dall'organo collaterale russo.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 5683,
    "url": "https://www.camera.it/leg19/410?idSeduta=0091&tipo=stenografico#sed0091.stenografico.tit00070.int00030"
   },
@@ -419,7 +596,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie all'onorevole interrogante. Sin dal primo momento dell'illustrazione del piano per la riforma della giustizia da parte di questo Ministero, abbiamo posto in rilievo la fondamentale necessità di rivedere completamente la disciplina della segretezza degli atti istruttori e, in particolare, delle intercettazioni. […]",
+   "sunto": "Sin dal primo momento dell'illustrazione del piano per la riforma della giustizia da parte di questo Ministero, abbiamo posto in rilievo la fondamentale necessità di rivedere completamente la disciplina della segretezza degli atti istruttori e, in particolare, delle intercettazioni. […] L'articolo 15 della Costituzione dice che la segretezza e la libertà sono indissolubili, come del resto dice la stessa Costituzione.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 249,
    "url": "https://www.camera.it/leg19/410?idSeduta=0104&tipo=stenografico#sed0104.stenografico.tit00120.sub00030.int00040"
   },
@@ -432,7 +612,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie al collega. Siccome è correttamente riportato da lei, richiamo quanto a suo tempo è stato riferito dal Sottosegretario per l'Interno, Wanda Ferro, il 17 marzo 2023 in tema di realizzazione della piattaforma digitale per la raccolta delle firme degli elettori, firme che sono necessarie per i referendum e le iniziative popolari. Le novità, in sintesi, sono queste. […]",
+   "sunto": "Dopo il DPCM del 9 settembre 2022, che è stato pubblicato il 26 novembre, il 5 maggio 2023, quindi pochi giorni fa, il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei ministri e il preposto Dipartimento per la transizione digitale del Ministero della Giustizia,…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 354,
    "url": "https://www.camera.it/leg19/410?idSeduta=0104&tipo=stenografico#sed0104.stenografico.tit00120.sub00040.int00040"
   },
@@ -445,7 +628,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie, collega. Sono due problemi differenti. Per quanto riguarda l'accelerazione dei processi, sappiamo - l'abbiamo detto tante volte - che i ritardi della nostra giustizia costano all'economia italiana un 2 per cento del PIL. […]",
+   "sunto": "Per quanto riguarda l'accelerazione dei processi, sappiamo - l'abbiamo detto tante volte - che i ritardi della nostra giustizia costano all'economia italiana un 2 per cento del PIL.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Giustizia"
+   ],
    "parole": 227,
    "url": "https://www.camera.it/leg19/410?idSeduta=0104&tipo=stenografico#sed0104.stenografico.tit00120.sub00050.int00040"
   },
@@ -458,7 +645,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e, grazie, collega. In effetti, questa problematica è già stata affrontata qualche settimana fa in questa stessa sede. Noi possiamo ribadire che l'obiettivo della legge delega del 2011, che era - nell'ottica di una spending review - di allocare al meglio le risorse e di velocizzare i processi, non ha avuto gli effetti sperati. […]",
+   "sunto": "La priorità del nostro intervento ha, quindi, imposto l'inserimento di un disegno di legge già collegato alla legge di bilancio del 2023, quindi, nel Documento di economia e finanza licenziato dal Consiglio dei ministri.",
+   "temi": [
+    "Sanità",
+    "Giustizia"
+   ],
    "parole": 334,
    "url": "https://www.camera.it/leg19/410?idSeduta=0104&tipo=stenografico#sed0104.stenografico.tit00120.sub00060.int00040"
   },
@@ -471,7 +662,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie al collega. La problematica della violenza contro le donne, in particolare, come sapete, è all'attenzione di questo Governo e ne costituisce una priorità. Vorrei brevemente ridurre questo mio intervento in due settori. […]",
+   "sunto": "La problematica della violenza contro le donne, in particolare, come sapete, è all'attenzione di questo Governo e ne costituisce una priorità.",
+   "temi": [],
    "parole": 291,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00070.int00060"
   },
@@ -484,7 +676,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie collega, grazie anche al vostro gruppo per il sostegno che date alle nostre iniziative di riforma. Come abbiamo anticipato nel nostro discorso sul programma di giustizia - che intendiamo riformare radicalmente nell'arco della legislatura - esso si sarebbe svolto in tre momenti: un momento breve, che scadrà potrei dire la prossima settimana; un momento medio-breve, che dovremmo fissare alla […]",
+   "sunto": "Come abbiamo anticipato nel nostro discorso sul programma di giustizia - che intendiamo riformare radicalmente nell'arco della legislatura - esso si sarebbe svolto in tre momenti: un momento breve, che scadrà potrei dire la prossima settimana; un momento medio-breve, che dovremmo fissare alla…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 314,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00080.int00040"
   },
@@ -497,7 +692,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie, collega. Dopo il chiarimento di carattere programmatico strategico che ho fatto nell'intervento precedente, ora dovrò passare all'aridità dell'esposizione di alcuni numeri. Prima, però, vorrei, per intervenire adesivamente a quello che lei ha detto, sottolineare che condivido pienamente l'analisi che ha fatto sull'importanza del personale amministrativo. […]",
+   "sunto": "Abbiamo assunto 8.625 risorse umane nell'intero territorio nazionale, cui dovrebbero essere aggiunte anche 11.919 unità relative ai profili di addetto all'ufficio del processo, giungendo così al numero, direi cospicuo, di 20.500 assunzioni.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0115&tipo=stenografico#sed0115.stenografico.tit00060.sub00090.int00060"
   },
@@ -510,7 +708,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie ai colleghi. Non è un ringraziamento di facciata, ma un ringraziamento sincero, perché mi danno l'opportunità di chiarire, nella sede più adeguata e più solenne, i termini del problema e, soprattutto, di poterlo fare nel giorno della commemorazione della morte di Paolo Borsellino e della sua scorta, che abbiamo ricordato stamattina, con tutto lo staff del Ministero, in una cerimonia religio […]",
+   "sunto": "Il problema, tuttavia, è sorto a causa dell'incertezza applicativa del concorso esterno, tanto che la Cassazione, a suo tempo, ha cambiato indirizzo. […] Ora, è vero che, per il concorso esterno, esiste una giurisprudenza abbastanza consolidata, ma, come ben sapete, nel nostro ordinamento non esiste il principio dello stare decisis , e la stessa Cassazione, come ho detto, talvolta ha cambiato indirizzo.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 575,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00010.int00040"
   },
@@ -523,7 +725,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole. Credo che mi si possa dare atto che, sin dal primo momento dell'insediamento in questo Governo, una delle priorità di questo Ministero è stata la tutela dell'onorabilità dei cittadini e della riservatezza delle comunicazioni che riguardano indagini in corso. […]",
+   "sunto": "Credo che mi si possa dare atto che, sin dal primo momento dell'insediamento in questo Governo, una delle priorità di questo Ministero è stata la tutela dell'onorabilità dei cittadini e della riservatezza delle comunicazioni che riguardano indagini in corso.",
+   "temi": [],
    "parole": 341,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00070.int00040"
   },
@@ -536,7 +739,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La condizione dei giudici onorari in Italia è da decenni - e uso un eufemismo - inaccettabile, ma vorrei usare degli aggettivi più rigorosi. Ho già detto, e lei ha avuto la cortesia di ricordarlo, che lo Stato ha trattato e tratta i giudici onorari in un modo che, se fosse rivolto verso dei lavoratori privati, esporrebbe l'imprenditore a tutta una serie di sanzioni. […]",
+   "sunto": "Noi qualcosa abbiamo già fatto, perché, dal punto di vista fiscale - mi permetto di leggere perché si tratta di specifici articoli -, abbiamo posto fine alle incertezze interpretative del regime fiscale dei compensi erogati ai magistrati con la legge di conversione del decreto-legge del 22…",
+   "temi": [
+    "Fisco e tasse",
+    "Giustizia"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00080.int00040"
   },
@@ -549,7 +756,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie, collega. Per l'amor del cielo, nessuno vuole ripetere quegli anni, quasi di piombo, dei conflitti tra magistratura e politica. Non mi pare nemmeno, peraltro, che sia in atto uno scontro istituzionale o che le espressioni della Presidente del Consiglio abbiano come oggetto uno scontro istituzionale. […]",
+   "sunto": "Qui è stata citata una sentenza della Corte costituzionale del 1988 su un conflitto di attribuzione e, in un obiter dictum , è stato definito il rapporto tra la legislazione nazionale e la legislazione sovranazionale - all'epoca era la CEE - ed effettivamente si dice che il giudice può…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 446,
    "url": "https://www.camera.it/leg19/410?idSeduta=0171&tipo=stenografico#sed0171.stenografico.tit00040.sub00010.int00040"
   },
@@ -562,7 +772,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie a lei. La lentezza del processo penale è effettivamente intollerabile. Justice delayed is justice denied dicono gli americani. È una delle nostre priorità e stiamo intervenendo con alcuni correttivi sul cosiddetto decreto Cartabia, ma soprattutto abbiamo istituito una commissione che, entro i prossimi 6 mesi - è stata istituita qualche mese fa -, provvederà a redigere un nuovo progetto di c […]",
+   "sunto": "È una delle nostre priorità e stiamo intervenendo con alcuni correttivi sul cosiddetto decreto Cartabia, ma soprattutto abbiamo istituito una commissione che, entro i prossimi 6 mesi - è stata istituita qualche mese fa -, provvederà a redigere un nuovo progetto di codice di procedura penale.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 316,
    "url": "https://www.camera.it/leg19/410?idSeduta=0191&tipo=stenografico#sed0191.stenografico.tit00050.sub00040.int00060"
   },
@@ -575,7 +788,19 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie signor Presidente e grazie colleghi. La legge sull'ordinamento giudiziario prevede che, all'inizio di ciascun anno, il Ministro della Giustizia renda comunicazioni alle Camere su quello che si chiama lo stato dell'amministrazione ma, al di là di questa normativa, ritengo che comunque sia doveroso, come manifestazione di rispetto verso il Parlamento, effettuare un primo bilancio, dopo un anno di Governo, delle […]",
+   "sunto": "Però, è anche vero che una giustizia lenta è sempre una non giustizia, è sempre una giustizia denegata. […] Per quanto riguarda i target statistici di abbattimento dell'arretrato civile, com'è noto, la misura prevedeva originariamente la riduzione del 65 per cento dell'arretrato presso i tribunali e del 55 per cento dell'arretrato presso le corti d'appello entro dicembre 2024 e la riduzione del 90 per…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 9313,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00030.sub00010.int00020"
   },
@@ -588,7 +813,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Guardi, non solo è perdonatissimo, ma è compreso. Solo che la riforma - come lei sa - se la si vuol fare con un minimo sindacale, si può fare - e già ci ha provato la mia precedente collega Cartabia, che ha avanzato di molto i limiti della separazione delle carriere - ma, se vogliamo farla seriamente, occorre una riforma costituzionale. […]",
+   "sunto": "Togliere a questo tavolo a tre gambe la gamba della difesa, lasciando, in base a questa cosiddetta cultura della giurisdizione, il monopolio al pubblico ministero e al giudice, con l'unità delle carriere, significa vulnerare questo concetto che - ripeto - si riduce a una banalità enfatica.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 963,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00030.sub00010.int00050"
   },
@@ -601,7 +830,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Avrei voluto e vorrei - mi piacerebbe - replicare a tutte le osservazioni che sono state fatte. Purtroppo, come mi è stato anche fatto notare, il tempo è tiranno e già avevo sforato la parte che mi spettava. Quindi, le mie repliche saranno proprio limitatissime o, forse, non ci saranno affatto. Vorrei partire, però, da quest'ultimo piccolo incidente che è avvenuto. […]",
+   "sunto": "È una delle criticità, nel nostro sistema, del pubblico ministero, il quale, quando abbandona un fascicolo e chiede l'archiviazione per varie ragioni, se ne trattiene un pezzetto, forma un modello 44 e su quello clona un nuovo processo, che peraltro sfila da una competenza, da un giudice…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1206,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00050.sub00020.int00020"
   },
@@ -614,7 +847,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Il Ministero della Giustizia è diretto dal sottoscritto, l'indirizzo politico lo do io: chi è soddisfatto dell'indirizzo politico del Ministro esegue e chi non è soddisfatto ritorna a fare il magistrato. Ma posso assicurare che all'interno del Ministero nessuno si permette di remare contro. […]",
+   "sunto": "Noi stiamo, addirittura, cercando di capire se la carcerazione preventiva, quantomeno per quei 7, 8 giorni che passano dall'arresto in flagranza alla liberazione, possa essere contenuta in stabilimenti diversi dal carcere. […] Quindi, il parere è contrario sulle risoluzioni Zanella ed altri n. 6-00085 , D'Orso ed altri n. 6-00086 , Braga ed altri n. 6-00087 , Soumahoro n. 6-00088 .",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 664,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00050.sub00020.int00110"
   },
@@ -627,7 +863,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie. Come detto l'anno scorso, il fardello di dolore che emerge da queste situazioni carcerarie, dove si sviluppano situazioni di autolesionismo fino al suicidio, è intollerabile in uno Stato civile. È anche vero - l'ho detto stamattina, rispondendo su un altro punto - che, purtroppo, i suicidi in carcere sono diffusi in tutto il mondo perché lo shock psicologico della detenzione, della privazione della libertà e […]",
+   "sunto": "Questo non significa sottovalutare il fenomeno, non significa, tanto meno, essere rassegnati al fenomeno ma significa prendere atto che è un fenomeno che esiste, come la malattia e come tante altre negatività della nostra esistenza.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 458,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00010.int00040"
   },
@@ -640,7 +879,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Chiedo scusa, sarò ancora più breve. Faccio quello che si dice un rinvio recettizio a quanto detto pochi minuti fa al nostro onorevole collega e a quanto ho detto stamattina all'intera Camera. Rinvio recettizio vuol dire che mi riporto integralmente a quello che ho detto. Aggiungo una cosa: non capisco le critiche quando noi cerchiamo, in tutti i modi, di allargare gli spazi per poter consentire il lavoro. […]",
+   "sunto": "Perché la struttura carceraria sia adatta occorre che abbia gli spazi, per avere spazi occorre costruire un carcere. […] Poi vi è l'impegno che noi abbiamo, ripeto, l'ho già esposto varie volte: il nostro obiettivo è trovare spazi, che siano caserme dismesse, che siano altri luoghi, dove consentire il lavoro e lo sport, che sono le uniche due soluzioni verso una rieducazione del condannato.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 259,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00020.int00060"
   },
@@ -653,7 +895,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Non si discuterà mai abbastanza di questo dolorosissimo momento di tragicità. Lo ripeto, io ho vissuto il problema dei suicidi in carcere, da magistrato, ho vissuto il problema dei suicidi di indagati non in carcere, da magistrato, ho vissuto il problema dei suicidi di persone agli arresti domiciliari, da magistrato; non è solo il carcere che provoca il suicidio, anche un'ingiusta indagine, un'ing […]",
+   "sunto": "Lo ripeto, io ho vissuto il problema dei suicidi in carcere, da magistrato, ho vissuto il problema dei suicidi di indagati non in carcere, da magistrato, ho vissuto il problema dei suicidi di persone agli arresti domiciliari, da magistrato; non è solo il carcere che provoca il suicidio, anche…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 432,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00030.int00040"
   },
@@ -666,7 +912,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole, ricordo che in effetti il diritto all'abitazione, tutelato dall'articolo 42 della Costituzione, è valutato positivamente dall'ordinamento penale, che tutela il bene giuridico protetto, e devo dire che, anche nella mia esperienza, anche qui, di magistrato, non sempre ho visto da parte della magistratura il rispetto della legge. La legge c'è, bisogna applicarla. […]",
+   "sunto": "Si prevede l'arresto facoltativo in flagranza, ma soprattutto l'arresto obbligatorio in caso di inottemperanza all'ordine di rilascio dell'immobile e si stabilisce che gli ufficiali e gli agenti di Polizia giudiziaria che ricevano la denuncia del reato di occupazione arbitraria debbano…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Giustizia"
+   ],
    "parole": 339,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00040.int00040"
   },
@@ -679,7 +929,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia.",
    "gruppo": null,
-   "estratto": "Grazie Presidente. Ringrazio la collega. Come lei stesso ha detto, si tratta di una decisione che non entra minimamente nel merito delle accuse che sono state rivolte e che sono state anche giudicate nei confronti di questo sacerdote, ma trae applicazione dalla norma, di cui all'articolo 697, comma 1- ter del codice di procedura penale, che dice che - leggo testualmente, così siamo sicuri – “Il Ministro della Giustiz […]",
+   "sunto": "Come lei stesso ha detto, si tratta di una decisione che non entra minimamente nel merito delle accuse che sono state rivolte e che sono state anche giudicate nei confronti di questo sacerdote, ma trae applicazione dalla norma, di cui all'articolo 697, comma 1- ter del codice di procedura…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0228&tipo=stenografico#sed0228.stenografico.tit00080.sub00050.int00040"
   },
@@ -692,7 +946,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. E grazie a lei, collega, per la domanda. Ripeto quello che ho detto alla stampa, ossia la reazione di sdegno e di dolore per quanto abbiamo assistito, e la confermo. Naturalmente, la responsabilità penale è personale, come ben sapete, e quindi sarà compito dell'autorità giudiziaria accertare quelle relative. […]",
+   "sunto": "Vorrei dire che il problema del reato di tortura è un problema esclusivamente tecnico, nel senso che noi ci siamo adeguati alla Convenzione di New York, ratificata con la legge n. 498 del 1988, ma il reato di tortura, così come è stato individuato dalla Convenzione di New York, presuppone il…",
+   "temi": [],
    "parole": 350,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00060.int00040"
   },
@@ -705,7 +960,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie a lei, collega. In effetti, io stesso ho avuto una lunga esperienza come pubblico ministero che partecipava a questi colloqui tra il giudice e l'interdicendo, ai quali il giudice poi rispondeva con la nomina di un amministratore di sostegno e non, come accadeva una volta, con quella di un tutore. […]",
+   "sunto": "In effetti, io stesso ho avuto una lunga esperienza come pubblico ministero che partecipava a questi colloqui tra il giudice e l'interdicendo, ai quali il giudice poi rispondeva con la nomina di un amministratore di sostegno e non, come accadeva una volta, con quella di un tutore.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 308,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00070.int00040"
   },
@@ -718,7 +976,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie a lei, collega, in effetti sono situazioni abbastanza diverse. Per quanto riguarda la schermatura, parto dall'aspetto forse più delicato, abbiamo avviato una sperimentazione con l'impiego dei jammer reattivi, che sono quelli che dovrebbero appunto schermare. […]",
+   "sunto": "Bisogna intervenire essenzialmente sui controlli preventivi per evitare che vengano introdotti questi telefonini e su questo devo dire che abbiamo provveduto, sin dal 2021, ad acquistare tutta una serie di apparecchiature denominate metal self on detector da utilizzare per impedire proprio…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 342,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00080.int00040"
   },
@@ -731,7 +992,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie a lei, collega. È quasi banale dire quanto sia sensibile questo Governo a questa problematica. Potrei iniziare dicendo quello che è stato fatto, quantomeno fino adesso: l'inserimento della previsione dell'obbligo per i datori di lavoro di nominare il medico competente, se richiesto dalla valutazione dei rischi, l'introduzione dell'obbligo di formazione specifica in capo al datore di lavor […]",
+   "sunto": "Potrei iniziare dicendo quello che è stato fatto, quantomeno fino adesso: l'inserimento della previsione dell'obbligo per i datori di lavoro di nominare il medico competente, se richiesto dalla valutazione dei rischi, l'introduzione dell'obbligo di formazione specifica in capo al datore di…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 394,
    "url": "https://www.camera.it/leg19/410?idSeduta=0249&tipo=stenografico#sed0249.stenografico.tit00100.sub00090.int00040"
   },
@@ -744,7 +1008,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie collega. Una volta di più, affrontiamo, in pochi mesi, quello che ho già definito un fardello di dolore. Si è sedimentato nel corso di questi anni, non è purtroppo nuovo ora. Naturalmente, non è facile porre un rimedio rapido a un fenomeno che si è, appunto, sedimentato, però qualcosa stiamo facendo. […]",
+   "sunto": "In considerazione proprio dell'aumento dei suicidi nell'anno 2022, questo Ministero, attraverso il Dipartimento dell'amministrazione penitenziaria, ha ribadito a tutti i provveditorati e direttori di istituto la necessità di rafforzare le iniziative attuate in questo ambito.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 434,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00030.int00040"
   },
@@ -757,7 +1024,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Questo è un tema al quale siamo particolarmente sensibili, come voi sapete, perché sin dal primo momento dell'illustrazione del piano per la riforma della giustizia abbiamo manifestato un orientamento di stampo garantista, finalizzato a rendere effettivo il principio di presunzione di non colpevolezza. […]",
+   "sunto": "Questo è un tema al quale siamo particolarmente sensibili, come voi sapete, perché sin dal primo momento dell'illustrazione del piano per la riforma della giustizia abbiamo manifestato un orientamento di stampo garantista, finalizzato a rendere effettivo il principio di presunzione di non…",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 303,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00040.int00040"
   },
@@ -770,7 +1040,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie collega. Come sapete, la separazione delle carriere è nel programma di Governo e abbiamo più volte ribadito il concetto che essa sarà presentata. Aggiungo che la separazione delle carriere è consustanziale a una riforma, peraltro, forse, ancora più importante, che è quella del Consiglio superiore della magistratura, in quanto per ovvie ragioni una separazione delle carriere comporta due C […]",
+   "sunto": "Come sapete, la separazione delle carriere è nel programma di Governo e abbiamo più volte ribadito il concetto che essa sarà presentata.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 237,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00050.int00040"
   },
@@ -783,7 +1056,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie a lei. In effetti per effetto della riforma del Titolo V della Costituzione queste norme non sono state attuate e questo Ministero - il mio Ministero - per raggiungere le stesse finalità che avrebbero dovuto conseguire questi consigli ha potenziato gli interventi finalizzati al reinserimento sociale delle persone detenute stringendo numerose intese con la rete locale. […]",
+   "sunto": "Aggiungo, per conto mio, che stiamo lavorando molto alacremente su questo, sia per portare il lavoro in carcere sia, soprattutto, per trovare accordi con delle benemerite associazioni - primo sarà il CNEL, ma ci sono anche associazioni private - per trovare il lavoro ai detenuti una volta liberati.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00060.int00040"
   },
@@ -796,7 +1072,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Effettivamente, questo diritto è sancito, dovrei dire, dall'etica, dal buonsenso e, da un punto di vista del diritto positivo, dalla sentenza della Corte costituzionale che lei ha citato. Converremo, però, tutti che si tratta di dare esecuzione a un principio che, ripeto, io stesso condivido, ma che nella pratica non è così facile da realizzare per varie ragioni logistiche e di sicurezza, vorrei dire anche di stessa […]",
+   "sunto": "Noi abbiamo istituito un gruppo di lavoro multidisciplinare che prevede, come componenti, appartenenti del nostro Ministero, del Garante nazionale per i detenuti, questa è una figura estremamente importante, della magistratura di sorveglianza, altrettanto importante, e dell'architettura… […] Vi saranno anche appartenenti del Consiglio nazionale forense e del Consiglio nazionale dell'ordine degli psicologi.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00070.int00040"
   },
@@ -809,7 +1088,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie collega. Come ho già detto varie volte - e lo ripeto - tre parole d'ordine per la rieducazione del detenuto secondo l'orientamento e il dettato costituzionale: l'educazione, lo sport all'interno delle carceri e il lavoro. […]",
+   "sunto": "Alcune cifre: sono stati organizzati 952 corsi scolastici di primo livello cui hanno partecipato 11.025 detenuti, sono stati promossi alla classe successiva 4.410 detenuti; nell'anno scolastico 2022-2023 sono stati attivati 808 corsi di secondo livello cui hanno partecipato 8.300 detenuti, sono…",
+   "temi": [
+    "Giustizia",
+    "Scuola e università"
+   ],
    "parole": 381,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00080.int00040"
   },
@@ -822,7 +1105,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie collega, buon pomeriggio anche a lei e agli altri colleghi. Condivido il suo grido di dolore e di quasi imbarazzo di fronte a episodi di questo tipo. Come voi sapete, il Ministero non ha alcun potere nei confronti della giurisdizione sovrana, questo è quasi banale ricordarlo, però è anche utile, perché qualche volta si può anche essere indotti in errore su queste eventuali responsabilità. […]",
+   "sunto": "Posso dire che, subito, noi - e questo è il mio Ministero - appena saputo, attraverso la stampa, che oggi è il modo più immediato per avere notizie comunque ufficiose e ipotetiche, abbiamo disposto accertamenti per il tramite dell'Ispettorato generale presso le autorità coinvolte.",
+   "temi": [],
    "parole": 272,
    "url": "https://www.camera.it/leg19/410?idSeduta=0281&tipo=stenografico#sed0281.stenografico.tit00040.sub00020.int00040"
   },
@@ -835,7 +1119,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie, collega. Innanzitutto, vorrei manifestare la mia soddisfazione per la notizia che abbiamo ricevuto pochi attimi fa, della concessione degli arresti domiciliari a Ilaria Salis . Per quanto riguarda l'immobilismo rispondo in modo molto chiaro, tra l'altro tenendo lontana la cartella che lei vede davanti a me. […]",
+   "sunto": "Ha avuto una lunga discussione, soprattutto in Commissione al Senato, è stato approvato nell'Aula del Senato, adesso è stato approvato in Commissione in questa Camera e arriverà qui in Aula nei prossimi giorni.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 306,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00050.int00040"
   },
@@ -848,7 +1135,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente, e grazie alla collega. Sì, ribadisco che, anche come ex magistrato, ho perfettamente presente la grande e impegnativa opera della magistratura onoraria, senza la quale l'amministrazione della giustizia sarebbe ancora più sofferente di quanto già non sia adesso. […]",
+   "sunto": "Una prima particolare procedura di stabilizzazione della magistratura onoraria, com'è stato ricordato, è stata prevista da questa amministrazione già con la legge di conversione del decreto-legge del 22 giugno 2023, dove è stabilita l'assimilazione ai fini fiscali al reddito da lavoro dipendente…",
+   "temi": [
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0293&tipo=stenografico#sed0293.stenografico.tit00070.sub00060.int00060"
   },
@@ -861,7 +1152,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio il collega. La situazione carceraria globale è così complessa che sarà oggetto di ampi dibattiti, anche in futuro, lo sarà anche nella domanda successiva alla sua. Mi limiterò, in questo caso, alle aride cifre per quanto riguarda la situazione della Valle d'Aosta. […]",
+   "sunto": "Abbiamo ereditato, in effetti, un problema di carenza di personale impiegato; su un organico previsto di 149 unità, risultano presenti 129, con una scopertura quindi di 20 unità nei diversi ruoli.",
+   "temi": [],
    "parole": 558,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00030.int00040"
   },
@@ -874,7 +1166,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia.",
    "gruppo": null,
-   "estratto": "Grazie a lei. Credo che lei, collega, abbia giustamente prospettato due problemi, che sono distinti però: il problema dei suicidi e il problema del sovraffollamento carcerario. Non esiste un rapporto causale diretto tra i due, nel senso che, se è vero che il sovraffollamento carcerario aumenta il rischio di suicidi, è anche vero che noi abbiamo esperienza di momenti di sovraffollamento, negli anni passati, dove i sui […]",
+   "sunto": "Credo che lei, collega, abbia giustamente prospettato due problemi, che sono distinti però: il problema dei suicidi e il problema del sovraffollamento carcerario.",
+   "temi": [
+    "Sanità",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 633,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00040.int00040"
   },
@@ -887,7 +1184,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie, collega. Come ha detto lei, l'indipendenza e l'autonomia della magistratura sono sovrane. Faccio anche presente che, se in carcere entrano molte persone, non è per volontà del Governo, ma è per decisione della magistratura. […]",
+   "sunto": "Se l'ordinanza di custodia cautelare è facoltativa, le persone finiscono in carcere non perché la legge la rende facoltativa, ma perché la magistratura la rende, in questo caso, opportuna e doverosa.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 254,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00050.int00040"
   },
@@ -900,7 +1200,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Innanzitutto, dico che noi non sappiamo quali siano questi fenomeni che sono stati oggi indicati. Non ne abbiamo notizia, se non attraverso asserite notizie di stampa, che io, peraltro, non leggo e che, comunque, dovrebbero essere coperte da segreto istruttorio. Quindi, stiamo discutendo di vuota metafisica dell'intelletto. […]",
+   "sunto": "Nell'esperienza mia, di pubblico ministero e di modesto studioso del diritto, ho assistito troppe volte a emissione di ordinanze di custodia cautelare che poi sono state ribaltate dal tribunale della libertà o, addirittura, annullate dalla Corte di cassazione, perché non erano state tenute…",
+   "temi": [],
    "parole": 262,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00060.sub00010.int00040"
   },
@@ -913,7 +1214,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie a lei. Ci sono due questioni: la prima riguarda il Protocollo concluso tra il Governo della Repubblica italiana e il Consiglio dei ministri della Repubblica di Albania per il rafforzamento della collaborazione in materia migratoria, ratificato con la legge n. 14 del 2024. […]",
+   "sunto": "Ci sono due questioni: la prima riguarda il Protocollo concluso tra il Governo della Repubblica italiana e il Consiglio dei ministri della Repubblica di Albania per il rafforzamento della collaborazione in materia migratoria, ratificato con la legge n. 14 del 2024.",
+   "temi": [
+    "Immigrazione",
+    "Unione europea",
+    "Giustizia"
+   ],
    "parole": 425,
    "url": "https://www.camera.it/leg19/410?idSeduta=0371&tipo=stenografico#sed0371.stenografico.tit00070.sub00060.int00040"
   },
@@ -926,7 +1232,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, e grazie collega. In effetti, la lettera inviata sulla e-mail desta non poco stupore e, come ex magistrato, desta anche un certo dolore. Affermare, appunto, che il Presidente del Consiglio, proprio perché non ha inchieste giudiziarie in corso a suo carico, è un pericolo maggiore di quello dell'onorevole Berlusconi e che dobbiamo porvi rimedio - frase di una gravità, secondo me, da prendere in cons […]",
+   "sunto": "A dispetto di quanto sta accadendo per il buon funzionamento e per il servizio da rendere al Paese, è necessario, secondo noi e anche in un clima di collaborazione, che ogni istituzione collabori secondo il proprio mandato costituzionale anche nella diversità di opinioni e di divisioni.",
+   "temi": [
+    "Giustizia",
+    "Ambiente e clima"
+   ],
    "parole": 295,
    "url": "https://www.camera.it/leg19/410?idSeduta=0371&tipo=stenografico#sed0371.stenografico.tit00070.sub00070.int00040"
   },
@@ -939,7 +1249,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie collega. Intanto vi ringrazio, perché è una questione sempre cruciale. Come sapete, la disciplina del codice di procedura penale, sin dall'inizio, prevedeva - in realtà, prevede ancora - che le intercettazioni vengano raccolte e trascritte dalla Polizia giudiziaria, ma che poi vengano esaminate, nella forma della perizia e, quindi, nel contraddittorio delle parti, davanti al giudice delle i […]",
+   "sunto": "In considerazione della rilevanza proprio del contenuto delle intercettazioni, con la legge n. 114 del 2024, abbiamo potenziato il controllo e la vigilanza preventiva da parte del PM e dei giudici dell'udienza stralcio.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 298,
    "url": "https://www.camera.it/leg19/410?idSeduta=0374&tipo=stenografico#sed0374.stenografico.tit00030.sub00030.int00040"
   },
@@ -952,7 +1266,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie alla collega. Preliminarmente, sulle specifiche vicende dei cosiddetti “dossieraggi”, rappresento che i due procedimenti penali - uno presso la procura di Perugia e l'altro presso la procura di Milano - sono, ovviamente, coperti dal segreto istruttorio. […]",
+   "sunto": "L'Agenzia per la cybersicurezza nazionale sta promuovendo una serie di incontri sul territorio nazionale volti proprio ad aumentare la consapevolezza del rischio dei dipendenti delle pubbliche amministrazioni e ad adottare i dispositivi e le prassi di tutela.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 384,
    "url": "https://www.camera.it/leg19/410?idSeduta=0374&tipo=stenografico#sed0374.stenografico.tit00030.sub00040.int00040"
   },
@@ -965,7 +1282,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole, credo che siano due questioni completamente diverse. Le riforme, che abbiamo fatto e stiamo facendo sul trojan e sulla invasività delle intercettazioni, sono volte a coniugare l'articolo 15, che riguarda la riservatezza delle comunicazioni, con la necessità di combattere la delinquenza, soprattutto quella criminalizzata. […]",
+   "sunto": "Le riforme, che abbiamo fatto e stiamo facendo sul trojan e sulla invasività delle intercettazioni, sono volte a coniugare l'articolo 15, che riguarda la riservatezza delle comunicazioni, con la necessità di combattere la delinquenza, soprattutto quella criminalizzata.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 389,
    "url": "https://www.camera.it/leg19/410?idSeduta=0374&tipo=stenografico#sed0374.stenografico.tit00030.sub00050.int00040"
   },
@@ -978,7 +1299,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Innanzitutto, trovo abbastanza singolare che si debbano spiegare le motivazioni per le quali lo Stato non lasci respiro alla criminalità organizzata, anche dotando la Polizia penitenziaria dei mezzi che consentono la sicurezza nel trasporto. […]",
+   "sunto": "Però, collega Giachetti, lei mi ha chiesto di rispondere da storico, quale modestissimo sono: beh, vorrei ricordarle che, quando si parla di un nemico mortale, quando si tratta di un nemico mortale, nelle democrazie più avanzate sono sempre state adottate delle formule estremamente crude, crudeli. […] Sono parole forti, ma sono le parole usate contro un nemico mortale.",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 278,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00060.int00040"
   },
@@ -991,7 +1316,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega, risponderò con delle cifre di quello che è stato fatto, sempre dando conto della nostra consapevolezza della drammaticità della situazione. Il Governo ha potenziato e rafforzato il sistema carcerario, occupandosi in modo organico ed incisivo non solo dei detenuti, ma anche di chi opera quotidianamente per la loro sicurezza. Allora, abbiamo il decreto Carcere sicuro n. […]",
+   "sunto": "Sono state previste mille nuove extra-assunzioni di Polizia penitenziaria, che, sommate alle mille della legge di bilancio del 2023, la prima del Governo Meloni, porta a un totale di 2.000 extra-assunzioni di Polizia penitenziaria in soli 24 mesi. […] Lo stesso sostegno viene fornito al Corpo di Polizia penitenziaria.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 313,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00070.int00040"
   },
@@ -1004,7 +1334,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie. Premetto che sono particolarmente sensibile a questa materia, anche perché, fino ad assumere questo alto incarico, anch'io ho collaborato, come forse sapete, come editorialista a varie testate. Siamo consapevoli che il sistema elettorale dei rappresentanti dell'ordine dei giornalisti sia complesso, presenti delle notevoli criticità e appartenga a un sistema obsoleto. […]",
+   "sunto": "In particolare, il 6 novembre scorso, quindi di recente, il consiglio nazionale dell'ordine ha fatto pervenire al Ministero della Giustizia una proposta di modifica del regolamento sulle procedure elettorali con modalità mista telematica e in presenza per il rinnovo degli organi dell'ordine dei…",
+   "temi": [],
    "parole": 174,
    "url": "https://www.camera.it/leg19/410?idSeduta=0388&tipo=stenografico#sed0388.stenografico.tit00070.sub00080.int00060"
   },
@@ -1017,7 +1348,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie collega. No, la differenza non la fa il Ministro - a parte che anche nel calendario della Polizia penitenziaria vi sono rappresentazioni, per così dire, “pacifiche”, e anche negli altri calendari vi sono rappresentazioni di elementi armati -, la differenza la fa l'immagine della giustizia. La giustizia, come sapete, reca la bilancia e la spada. […]",
+   "sunto": "La bilancia senza la spada sarebbe impotente, ma la spada senza la bilancia sarebbe arbitria. […] Risuona, nientemeno, che nel nostro Inno nazionale : “dell'elmo di Scipio s'è cinta la testa” è l'elmo di Scipione l'Africano, di un guerriero, non è l'elmo dei Vigili del fuoco; “stringiamoci a coorte, siam pronti alla morte”, la coorte era il battaglione o era, comunque, la compagnia…",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
    "parole": 278,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00030.int00040"
   },
@@ -1030,7 +1365,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "L'Inno d'Italia? Non lo so, se vuole mandare al macero l'Inno di Mameli …",
+   "sunto": "Non lo so, se vuole mandare al macero l'Inno di Mameli …",
+   "temi": [],
    "parole": 14,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00030.int00070"
   },
@@ -1043,7 +1379,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Allora, stavo appunto concludendo, se mi è data la cortesia di concludere, che la giustizia è rappresentata - ripeto - non solo dalla bilancia e dalla spada, ma da un motto latino, che è inciso in molti palazzi di giustizia, a cominciare da quello di Parigi: “Gladius legis custos” , ossia che la spada che è custode della legge. […]",
+   "sunto": "Allora, stavo appunto concludendo, se mi è data la cortesia di concludere, che la giustizia è rappresentata - ripeto - non solo dalla bilancia e dalla spada, ma da un motto latino, che è inciso in molti palazzi di giustizia, a cominciare da quello di Parigi: “Gladius legis custos” , ossia che la…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 138,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00030.int00120"
   },
@@ -1056,7 +1396,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Purtroppo, ancora una volta, rispondiamo a una situazione che si è posta nella sua gravità maggiore durante il periodo estivo, quando le proiezioni lasciavano supporre addirittura il superamento della soglia del centinaio di suicidi. Per fortuna, questo trend si è rallentato, ma questo certo non rallenta, invece, la nostra attenzione per un fenomeno così drammatico. […]",
+   "sunto": "Finisco per quanto riguarda l'istruzione: solo per gli studi universitari, nell'anno accademico 2023-2024 sono risultati iscritti 1.509 detenuti, di cui 177 stranieri, per complessivi 586 corsi universitari, con un incremento di iscrizioni ai corsi universitari di oltre il 18 per cento.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 375,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00040.int00040"
   },
@@ -1069,7 +1412,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie. Di tutte le cose che mi sorprendono, vi è l'accusa a questo Governo di avere ceduto sull'ergastolo ostativo. Tutti ricorderete che abbiamo esordito, un paio d'anni fa, proprio tenendo fermissima la barra dritta, il timone, per quanto riguardava il caso Cospito sull'ergastolo ostativo. […]",
+   "sunto": "Con il decreto n. 162 del 2022 abbiamo regolamentato in modo più incisivo e stringente gli strumenti di lotta alla criminalità a disposizione della magistratura, definendo, a differenza del passato, i confini della concessione dei benefici penitenziari per chi è in regime di carcere duro.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 330,
    "url": "https://www.camera.it/leg19/410?idSeduta=0397&tipo=stenografico#sed0397.stenografico.tit00050.sub00050.int00040"
   },
@@ -1082,7 +1429,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie a voi. Naturalmente, il rammarico è anche mio di non aver potuto partecipare a tutte le udienze, delle quali peraltro sono stato sempre informato … Un vecchio magistrato deve avere il suo ruolo . Semel magistrato, semper magistrato. Come potete immaginare, questi sono giorni concitati. […]",
+   "sunto": "Tutte le cose che oggi si discutono sono qui dentro da 27 anni: patrocinio, separazione delle carriere, il sorteggio del Consiglio superiore della magistratura, l'istituzione dell'Alta Corte . […] Sul sorteggio: il sorteggio è consustanziale al nostro sistema giudiziario.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 1519,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00050.sub00020.int02620"
   },
@@ -1095,7 +1445,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Scusate sì, poiché sono stati chiesti degli impegni. Allora, quod dixi, dixi, quod scripsi, scripsi . La riforma costituzionale che noi proponiamo è di una semplicità elementare, c'è scritto tutto: l'indipendenza della magistratura giudicante e requirente è inserita nella proposta di riforma, tutto il resto, come direbbe Shakespeare, è silenzio. […]",
+   "sunto": "Se poi lei mi chiede che ne sarà un domani, a parte che il domani risiede nel grembo di Giove, io posso dire che not in my name - tanto per usare una frase inglese-, una sottoposizione del pubblico ministero all'Esecutivo non sarebbe mai, mai approvata.",
+   "temi": [],
    "parole": 177,
    "url": "https://www.camera.it/leg19/410?idSeduta=0410&tipo=stenografico#sed0410.stenografico.tit00040.sub00010.int00440"
   },
@@ -1108,7 +1459,16 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie ai colleghi che mi ascoltano. L'esordio ora è pari a quello fatto stamattina al Senato, con un ringraziamento per il lavoro svolto dai colleghi che mi hanno coadiuvato nell'indirizzo politico del Ministero della Giustizia, cioè il Vice Ministro Sisto, i Sottosegretari Delmastro Delle Vedove e Ostellari, tutte le strutture ministeriali, i Dipartimenti e gli uffici. […]",
+   "sunto": "Vorrei dire che - e vi risparmio anche qui tutta una serie di numeri che potrebbero sembrarvi noiosi -, per la prima volta da quando io stesso sono entrato in magistratura, riusciremo a colmare, entro la fine del 2026, gli organici dei magistrati.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 3365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00110.sub00010.int00020"
   },
@@ -1121,7 +1481,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Se non vi sono persone… Ho l'impressione che stiamo confondendo i criteri della logica. Se una norma è stata introdotta perché questo tipo di comportamento devastante era stato prima tenuto ed è stato tenuto con grave danno di poveri agricoltori, che avevano coltivato con fatica i loro campi, e poi non si è ripetuto , significa che, una volta tanto, l'efficacia deterrente della pena ha funzionato e significa anche ch […]",
+   "sunto": "La riforma costituzionale riguarda, come sapete, la separazione delle carriere, l'istituzione di un'Alta Corte disciplinare e soprattutto il sorteggio per quanto riguarda i membri del Consiglio superiore della magistratura.",
+   "temi": [
+    "Unione europea",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1670,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00110.sub00010.int00050"
   },
@@ -1134,7 +1499,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie a voi. Farò una breve replica, poi i pareri li darà il Vice Ministro Sisto per una mia breve assenza di cinque minuti. Naturalmente, è stata messa così tanta carne al fuoco che è praticamente impossibile rispondere in modo esaustivo a tutto. In realtà, gran parte di queste problematiche era già stata scritta nella relazione alla quale ho rimandato. […]",
+   "sunto": "La circolare del 12 febbraio 2024 ha ulteriormente sensibilizzato tutti i provveditorati regionali e i direttori penitenziari al coinvolgimento di tutti gli operatori che lavorano negli istituti e che sono in quotidiano contatto con i ristretti, affinché si prosegua in tutte le azioni utili allo…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1072,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00110.sub00040.int00020"
   },
@@ -1147,7 +1516,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, grazie a voi, grazie anche ai gentili telespettatori che ci ascoltano in diretta. Una breve ricostruzione dei fatti preliminari. Il 18 gennaio 2025, la Corte penale internazionale emetteva un mandato di arresto internazionale nei confronti di Osema Almasri Najeem per una serie di reati di cui vi parlerò dopo. […]",
+   "sunto": "Il 18 gennaio 2025, la Corte penale internazionale emetteva un mandato di arresto internazionale nei confronti di Osema Almasri Najeem per una serie di reati di cui vi parlerò dopo.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1613,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00010.int00020"
   },
@@ -1160,7 +1534,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Guardi, questa è la Camera preliminare… Ma, poi, onorevole Bonelli, sa cosa? Che lei sarà smentito dalla stessa Corte, perché poi glielo spiego, quindi abbia pazienza, vedrà . Perché, vedete, la cosa che più mi stupisce è che non avete letto le carte . Avete discusso sul nulla, non avete letto le carte, non sapevate neanche di cosa steste parlando . […]",
+   "sunto": "Le ha lette le carte o no, Bonelli ( Commenti di deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra - Il deputato Bonelli: “Le ho lette, le ho lette!”)?",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 1783,
    "url": "https://www.camera.it/leg19/410?idSeduta=0422&tipo=stenografico#sed0422.stenografico.tit00020.sub00010.int00060"
   },
@@ -1173,7 +1551,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie al collega. Effettivamente, i dati che abbiamo - e che lei ha illustrato - sono allarmanti: i detenuti ristretti con posizione giuridica in attesa di primo giudizio sono complessivamente 9.531 su un totale di detenuti pari a 62.000, quindi, in misura percentuale pari al 15 per cento. […]",
+   "sunto": "Effettivamente, i dati che abbiamo - e che lei ha illustrato - sono allarmanti: i detenuti ristretti con posizione giuridica in attesa di primo giudizio sono complessivamente 9.531 su un totale di detenuti pari a 62.000, quindi, in misura percentuale pari al 15 per cento.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00020.int00040"
   },
@@ -1186,7 +1567,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie a lei. È un argomento drammatico che viene periodicamente portato alla nostra attenzione ed è giusto che sia così, proprio per la drammaticità della situazione, ma è altrettanto vero che, a distanza di pochi mesi, non è che si possano produrre o rivelare delle soluzioni rivoluzionarie, però possiamo dire quello che stiamo facendo. […]",
+   "sunto": "È un argomento drammatico che viene periodicamente portato alla nostra attenzione ed è giusto che sia così, proprio per la drammaticità della situazione, ma è altrettanto vero che, a distanza di pochi mesi, non è che si possano produrre o rivelare delle soluzioni rivoluzionarie, però possiamo… […] Fino ad oggi, in effetti, abbiamo già nove suicidi, questi risultano a noi per questo anno….",
+   "temi": [],
    "parole": 73,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00030.int00040"
   },
@@ -1199,7 +1581,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Nove.",
+   "sunto": "Nove.",
+   "temi": [],
    "parole": 1,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00030.int00060"
   },
@@ -1212,7 +1595,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "No, a noi risultano nove .",
+   "sunto": "No, a noi risultano nove .",
+   "temi": [],
    "parole": 6,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00030.int00080"
   },
@@ -1225,7 +1609,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Questo è … Noi abbiamo fatto l'accertamento, a seguito delle notizie che ne riportavano dodici, e a noi ne risultano nove. Adesso ne faremo un altro e vedremo quanti saranno. Quindi, diciamo che nell'immediatezza c'è stata una iniezione di risorse finanziarie che sono tutte mirate al benessere - si fa per dire - di chi è privato della libertà personale e la dimostrazione è quella di potenziare - la cosa più important […]",
+   "sunto": "In tale ottica, ho istituito, nell'ambito della Direzione generale dei detenuti, la promozione e il coordinamento del lavoro penitenziario come articolazione interna altamente strategica per perseguire l'obiettivo di strutturare sempre di più il lavoro penitenziario con meccanismi stabili che…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 420,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00030.int00120"
   },
@@ -1238,7 +1625,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie alla collega. Allora, darò alcune cifre per mettere gli appartenenti al Corpo in condizione di esercitare questo difficile compito. Con la legge di bilancio n. 207 del 2024, abbiamo stanziato: 2 miliardi e 104 milioni per il 2025; 2 miliardi e 100 milioni per il 2026; 2 miliardi e 280 milioni per il 2027. […]",
+   "sunto": "Con la legge di bilancio n. 207 del 2024, abbiamo stanziato: 2 miliardi e 104 milioni per il 2025; 2 miliardi e 100 milioni per il 2026; 2 miliardi e 280 milioni per il 2027. […] Per l'acquisto di tecnologie di sicurezza, droni, apparati per il contrasto all'introduzione di oggetti non consentiti all'interno degli istituti (come i metal detector a portale, eccetera), sono previsti 15 milioni e 300.000 euro circa.",
+   "temi": [],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00040.int00040"
   },
@@ -1251,7 +1639,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, così ho anche l'occasione di rispondere alla domanda precedente. Allora deve essere chiaro (Commenti)…",
+   "sunto": "Grazie, così ho anche l'occasione di rispondere alla domanda precedente. […] Allora deve essere chiaro (Commenti)…",
+   "temi": [],
    "parole": 15,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00050.int00040"
   },
@@ -1264,7 +1653,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "I tempi questi sono. Come sapete, lo svolgimento delle attività di intercettazione, e quindi anche quelle condotte sia dal Nucleo investigativo centrale sia dal Gruppo operativo mobile, è sempre delegato, secondo l'articolo 370 del codice di procedura penale, dalle autorità giudiziarie, quindi, dalle procure ordinarie e DDA, nel rispetto e con le modalità previste dal codice di procedura penale. […]",
+   "sunto": "Nessuna persona, tra l'altro, - e aggiungo - è mai stata intercettata da strutture finanziate dal Ministero della Giustizia nel 2024; nessuna persona è mai stata intercettata dalla Polizia penitenziaria; poi, se qualche stampa, non so perché, inventandosi queste cose, insinua delle situazioni…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 302,
    "url": "https://www.camera.it/leg19/410?idSeduta=0431&tipo=stenografico#sed0431.stenografico.tit00010.sub00050.int00070"
   },
@@ -1277,7 +1670,10 @@
    "categoria": "Mozioni",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie ai colleghi. La questione di sfiducia che ho letto riguarda essenzialmente l'inerzia del Ministro della Giustizia nell'approcciare la Corte di appello di Roma per chiedere la convalida dell'arresto di Almasri. Nondimeno, nella seduta precedente, sono stati svolti così tanti e tali argomenti per i quali almeno un minimo di cenno deve essere fatto. […]",
+   "sunto": "Il dottor Dubolino, presidente di sezione emerito della Corte di cassazione, ha detto che più che atto dovuto era un atto incompleto e, anche qui, ha bacchettato un po' tutti; certo ha bacchettato anche il Governo, ma ha bacchettato anche la Corte.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 2355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00020.sub00010.int00020"
   },
@@ -1290,7 +1686,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie al collega. Ci rendiamo conto che la legge Severino confligge, almeno teoricamente, con il principio di presunzione di innocenza. D'altro canto, questo principio di presunzione è già affievolito in altre situazioni del nostro codice di procedura penale, basti pensare alla possibilità della carcerazione preventiva. Quindi, è una praesumptio non iuris et de iure ma iuris tantum . […]",
+   "sunto": "Ci rendiamo conto che la legge Severino confligge, almeno teoricamente, con il principio di presunzione di innocenza. […] Faccio presente che, quando siamo stati chiamati in Europa per spiegare le ragioni dell'abrogazione del reato di abuso di ufficio, abbiamo spiegato l'arsenale normativo per la lotta contro la corruzione, e con queste 17 norme di legge, che non vi sto a spiegare perché le conosciamo tutti,…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 359,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00020.int00040"
   },
@@ -1303,7 +1702,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. La ringrazio per avere sollevato una questione così delicata, così importante e anche di così grande emotività. Ho provveduto subito a chiedere informazioni all'autorità giudiziaria competente sulla vicenda, naturalmente dobbiamo avere tutti i dati completi. […]",
+   "sunto": "Tenuto conto dell'età del bambino quando è stato affidato e naturalmente poi quando è stato sottratto, dobbiamo domandarci, e faremo degli approfondimenti, se siamo di fronte ad una lacuna normativa o a una cattiva applicazione delle norme esistenti o a entrambe.",
+   "temi": [],
    "parole": 233,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00030.int00080"
   },
@@ -1316,7 +1716,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ricordo bene la questione che è stata posta varie volte in questa sede. Umanamente parlando e anche giuridicamente, condivido le vostre perplessità. È una sentenza storica, che si allinea anche con una normativa più evoluta della nostra, che è orientata a quel principio di umanizzazione della pena. […]",
+   "sunto": "Lo ripeto ancora una volta: è triste dover ammettere che tante volte la realtà confligge con quello che è il dato normativo o quello che è il dato giurisprudenziale.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 435,
    "url": "https://www.camera.it/leg19/410?idSeduta=0464&tipo=stenografico#sed0464.stenografico.tit00060.sub00040.int00040"
   },
@@ -1329,7 +1732,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie al collega. Si tratta di un problema anche più complesso di come viene rappresentato. Approfittando del fatto che anche il successivo question time riguarda, più o meno, lo stesso argomento, magari quello che non riuscirò a dire in questi tre minuti lo integrerò dopo. L'informazione di garanzia è un istituto che risale a cinquant'anni fa. […]",
+   "sunto": "È nato come avviso di garanzia, poi è diventato avviso di reità, poi informazione di reità, poi informazione di garanzia e, come ha detto un mio illustre predecessore, il professor Flick, da informazione di garanzia si è trasformato in garanzia di informazione, nel senso che chi è raggiunto da…",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 454,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00050.sub00040.int00040"
   },
@@ -1342,7 +1749,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, collega. Come ho detto prima, siamo di fronte a un'anomalia di questo istituto che, nato a garanzia di chi è sottoposto o può essere sottoposto a un'indagine, si è trasformato in una sorta di condanna anticipata. Rispondo subito, questa volta in modo netto, dicendo che noi siamo al lavoro, molto avanzato, proprio per risolvere questa anomalia. […]",
+   "sunto": "Nella situazione attuale, con il nostro codice penale, il carabiniere che agisca usando legittimamente le armi, sapete come lo definisce il codice? […] Parallelamente nel codice di procedura penale - ho già detto prima: avete perfettamente ragione - questo istituto delle informazioni di garanzia, che è atto dovuto, conseguente all'iscrizione nel registro degli indagati, va cambiato, va mutato.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0499&tipo=stenografico#sed0499.stenografico.tit00050.sub00050.int00040"
   },
@@ -1355,7 +1765,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Per quanto riguarda la sentenza della Corte di giustizia europea, la Grande Chambre del 4 ottobre 2024 ha concluso - leggo testualmente - che la normativa nazionale che concede alle autorità competenti la possibilità di accedere ai dati contenuti in un telefono cellulare non è contraria alla direttiva 2016/680, quando definisce in modo sufficientemente preciso la natura o le categ […]",
+   "sunto": "Per quanto riguarda la sentenza della Corte di giustizia europea, la Grande Chambre del 4 ottobre 2024 ha concluso - leggo testualmente - che la normativa nazionale che concede alle autorità competenti la possibilità di accedere ai dati contenuti in un telefono cellulare non è contraria alla…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 301,
    "url": "https://www.camera.it/leg19/410?idSeduta=0516&tipo=stenografico#sed0516.stenografico.tit00040.sub00090.int00040"
   },
@@ -1368,7 +1781,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie a lei. Allora, sul caso Almasri, dove io sono indagato, e, quindi, tenuto al segreto istruttorio, per quanto riguarda tutti gli atti di cui voi non siete a conoscenza, né potreste essere a conoscenza, e di cui non capisco come possano essere a conoscenza, sia pure in modo parziale e inesatto, certi organi di stampa - e su questo dovremmo fare un chiarimento -, ho già reso un'informativa in […]",
+   "sunto": "Allora, sul caso Almasri, dove io sono indagato, e, quindi, tenuto al segreto istruttorio, per quanto riguarda tutti gli atti di cui voi non siete a conoscenza, né potreste essere a conoscenza, e di cui non capisco come possano essere a conoscenza, sia pure in modo parziale e inesatto, certi…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 279,
    "url": "https://www.camera.it/leg19/410?idSeduta=0516&tipo=stenografico#sed0516.stenografico.tit00040.sub00100.int00040"
   },
@@ -1381,7 +1797,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Per prima cosa, ricordo che anche nelle precedenti legislature sono state introdotte misure analoghe, persino con procedure semplificate e accelerate che, proprio per ragioni di celerità, non sono neanche state sottoposte al parere del Consiglio di Stato e delle Commissioni parlamentari. […]",
+   "sunto": "Il regolamento, peraltro già munito di bollinatura della Ragioneria generale dello Stato, del parere favorevole del Consiglio di Stato e del concerto del Ministero per la Pubblica amministrazione, ha ottenuto, nella giornata di ieri, il parere favorevole della Commissione giustizia del Senato.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00010.int00040"
   },
@@ -1394,7 +1813,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie anche agli onorevoli colleghi perché per la prima volta si riconosce, nel testo dell'interrogazione, appunto, che il sistema penitenziario italiano versa in uno stato di crisi strutturale. È una crisi, abbiamo detto, che si è sedimentata nei decenni. […]",
+   "sunto": "Diamo anche alcune cifre: con il Governo Renzi, nel 2014, il dato del sovraffollamento era pari al 108 per cento; nel 2015 al 105 per cento; nel 2016 al 109 per cento e, a seguito delle politiche dello stesso Governo messe in atto nel solo 2017, il dato del sovraffollamento è aumentato al 114…",
+   "temi": [],
    "parole": 352,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00020.int00040"
   },
@@ -1407,7 +1827,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie collega. In effetti, l'istituto della prescrizione è nato come giustificazione del principio che lo Stato perde interesse a punire, una volta decorso un termine ragionevole di tempo. A questo però, poi, si è affiancato il secondo principio costituzionale della ragionevole durata del processo, per cui vi è un interesse soggettivo da parte dell'imputato a vedere definita la propria posizione a […]",
+   "sunto": "In effetti, l'istituto della prescrizione è nato come giustificazione del principio che lo Stato perde interesse a punire, una volta decorso un termine ragionevole di tempo. […] Le riforme precedenti hanno trasformato questa forma di estinzione sostanziale in estinzione procedurale e questo è stato, secondo noi, un gravissimo errore.",
+   "temi": [],
    "parole": 231,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00030.int00040"
   },
@@ -1420,7 +1841,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Grazie alla collega. In effetti, come ho avuto occasione di dire pochi minuti fa, in risposta a un altro quesito, la detenzione differenziata dei tossicodipendenti non ubbidisce soltanto all'esigenza di ridurre il sovraffollamento carcerario - che peraltro è un effetto, sarà un effetto secondario, ma importante -, ma proprio a quella di attuare il principio, che lei ha giustamente enunciato […]",
+   "sunto": "In effetti, come ho avuto occasione di dire pochi minuti fa, in risposta a un altro quesito, la detenzione differenziata dei tossicodipendenti non ubbidisce soltanto all'esigenza di ridurre il sovraffollamento carcerario - che peraltro è un effetto, sarà un effetto secondario, ma importante -,…",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0548&tipo=stenografico#sed0548.stenografico.tit00070.sub00040.int00040"
   },
@@ -1433,7 +1858,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Sì, purtroppo sono costretto a confermare questi dati, che corrispondono a quelli indicati nell'ultima relazione al Parlamento sulle misure cautelari personali e sulla riparazione per ingiusta detenzione. […]",
+   "sunto": "In particolare, i dati più alti si registrano presso la corte di appello di Reggio Calabria, con 77 indennizzi liquidati per 5.486.000 euro, e presso la corte di Catanzaro, con 126 indennizzi, per un rapporto di 4.311.000 euro. […] Seguono Palermo, con 32 istanze liquidate per un importo di 2.905.000, e Roma, con 40 istanze liquidate per un importo di 2.552.000 euro.",
+   "temi": [],
    "parole": 322,
    "url": "https://www.camera.it/leg19/410?idSeduta=0572&tipo=stenografico#sed0572.stenografico.tit00040.sub00010.int00060"
   },
@@ -1446,7 +1872,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie alla collega. In effetti, sì, la ringrazio per avere sollevato questo tema delicatissimo, che è quello della stabilità affettiva del minore, che il legislatore e i magistrati devono garantire. Personalmente, ho provveduto subito ad approfondire con urgenza la vicenda tramite l'Ispettorato, chiedendo la trasmissione di copia integrale di tutti gli atti, che non sono ancora pervenuti. […]",
+   "sunto": "È chiaro che il prelievo forzoso di un minore e i presupposti che lo legittimano non possono mai prescindere dal dovuto e difficile bilanciamento tra l'interesse del minore in prospettiva futura e quello attuale al mantenimento dello status quo .",
+   "temi": [],
    "parole": 247,
    "url": "https://www.camera.it/leg19/410?idSeduta=0572&tipo=stenografico#sed0572.stenografico.tit00040.sub00020.int00060"
   },
@@ -1459,7 +1886,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Collega, sì, in effetti, fermo restando che la misura cautelare dovrebbe essere un'eccezione proprio tenuto conto della presunzione di innocenza prevista dalla Costituzione, con i sistemi informatici attuali, nelle 24 ore trascorse dalla presentazione di questo question time , non è possibile al Ministero fornire i dati disaggregati delle misure cautelari che sono detenuti a livello locale. […]",
+   "sunto": "Quello che comunque possiamo già dirvi è che - adesso leggo - le misure cautelari personali coercitive emesse in Italia nel 2024 sono state 94.168, di cui 48.900 sono custodiali (cioè custodia cautelare in carcere, arresti domiciliari o luogo di cura).",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0572&tipo=stenografico#sed0572.stenografico.tit00040.sub00030.int00060"
   },
@@ -1472,7 +1902,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie collega. Innanzitutto, sono ben lieto che vengano a emergere ancora una volta tutte le varie contraddizioni del nostro sistema giudiziario, per cui magari iniziano processi nei confronti di una persona, poi ne iniziano nei confronti di una seconda e magari finiscono nei confronti di una terza. […]",
+   "sunto": "Innanzitutto, sono ben lieto che vengano a emergere ancora una volta tutte le varie contraddizioni del nostro sistema giudiziario, per cui magari iniziano processi nei confronti di una persona, poi ne iniziano nei confronti di una seconda e magari finiscono nei confronti di una terza.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 262,
    "url": "https://www.camera.it/leg19/410?idSeduta=0572&tipo=stenografico#sed0572.stenografico.tit00040.sub00040.int00040"
   },
@@ -1485,7 +1918,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie collega. Ovviamente sono anch'io sorpreso dalle fantasiose ricostruzioni che ho appreso dai giornali. Evidentemente, chi ha fatto queste illazioni, insinuando un possibile collegamento tra l'attentato e il Governo, lo ha fatto senza alcun elemento oggettivo. […]",
+   "sunto": "Comunque, nella sua assoluta indipendenza e autonomia, la magistratura sta andando avanti nelle indagini e noi auspichiamo che pervenga a una celere conclusione di questa indagine che, ovviamente, si presenta complessa.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 244,
    "url": "https://www.camera.it/leg19/410?idSeduta=0572&tipo=stenografico#sed0572.stenografico.tit00040.sub00050.int00060"
   },
@@ -1498,7 +1934,17 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie ai colleghi che ci ascoltano. È un grande onore, in questo momento solenne, attuare la normativa vigente riferendo al Parlamento lo stato, i risultati e gli intendimenti del Ministero della Giustizia. […]",
+   "sunto": "Allora, le cifre: sono stati rendicontati, al 31 dicembre 2025 su un totale di 2,7 miliardi di euro di risorse PNRR assegnate al Ministero della Giustizia, come amministrazione titolare, pagamenti per un totale di 1,98 miliardi, pari al 72,91 per cento.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 5475,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00030.sub00010.int00020"
   },
@@ -1511,7 +1957,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie ai colleghi, soprattutto a quelli che sono intervenuti in modo critico. Ho preso degli appunti, ma, naturalmente, vi sarà qualche omissione - chiedo scusa - che non sarà dolosa, semmai sarà colposa. […]",
+   "sunto": "Allora mi permetto di dire che l'interrogatorio preventivo, che ovviamente non riguarda i reati commessi in flagranza - questo è ovvio -, ma non riguarda minimamente i reati più gravi (i reati di mafia, i reati di terrorismo), che sono completamente estranei alla normativa sull'arresto preventivo.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Sicurezza e criminalità"
+   ],
    "parole": 2623,
    "url": "https://www.camera.it/leg19/410?idSeduta=0598&tipo=stenografico#sed0598.stenografico.tit00030.sub00040.int00020"
   },
@@ -1524,7 +1976,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Veramente pensavo che la prima interrogazione fosse in riferimento soltanto a Delmastro. In questo rispondo che, avendo il Sottosegretario già rassegnato le dimissioni, viene meno, come si dice, la materia del contendere, e quanto ai chiarimenti che sono stati richiesti al medesimo, si è dichiarato disposto a darli nelle sedi opportune. […]",
+   "sunto": "In questo rispondo che, avendo il Sottosegretario già rassegnato le dimissioni, viene meno, come si dice, la materia del contendere, e quanto ai chiarimenti che sono stati richiesti al medesimo, si è dichiarato disposto a darli nelle sedi opportune.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 105,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00060.int00060"
   },
@@ -1537,7 +1992,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Come sapete, la dottoressa Bartolozzi ha dato ieri le dimissioni e ha sempre, secondo il mio giudizio, incessantemente svolto le sue funzioni con dignità ed onore. Il suo gesto spontaneo dimostra un grande senso di responsabilità e confido che cessino definitivamente le strumentali polemiche che hanno investito la sua persona e tutto il Ministero. […]",
+   "sunto": "A lei va il mio più sentito ringraziamento per lo straordinario impegno che ha profuso in questi tre anni e mezzo, sia come vice capo di gabinetto sia come capo di gabinetto. […] Naturalmente, provvederemo quanto prima alla sua sostituzione, sempre tenendo conto che il nostro obiettivo fondamentale è quello dell'efficienza del nostro Ministero e dell'attuazione del programma governativo .",
+   "temi": [],
    "parole": 113,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00070.int00040"
   },
@@ -1550,7 +2006,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ma è proprio perché quelle dimissioni sono state spontanee e in un certo senso inattese che io la mattina stessa ho detto che non sarebbe cambiato nulla nella compagine ministeriale. La decisione del pomeriggio è per questo motivo insindacabile e non posso che riaffermare la mia gratitudine per la sensibilità istituzionale con la quale le dimissioni sono state date. […]",
+   "sunto": "Ma è proprio perché quelle dimissioni sono state spontanee e in un certo senso inattese che io la mattina stessa ho detto che non sarebbe cambiato nulla nella compagine ministeriale. […] La decisione del pomeriggio è per questo motivo insindacabile e non posso che riaffermare la mia gratitudine per la sensibilità istituzionale con la quale le dimissioni sono state date.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 121,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00080.int00060"
   },
@@ -1563,7 +2022,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Io ammetto che le mie risposte possano essere ripetitive, ma sono ripetitive anche le domande che mi vengono fatte (Applausi dei deputati del gruppo Fratelli d'Italia e di deputati del gruppo Lega-Salvini Premier - Commenti di deputati del gruppo MoVimento 5 Stelle). […]",
+   "sunto": "Io ammetto che le mie risposte possano essere ripetitive, ma sono ripetitive anche le domande che mi vengono fatte (Applausi dei deputati del gruppo Fratelli d'Italia e di deputati del gruppo Lega-Salvini Premier - Commenti di deputati del gruppo MoVimento 5 Stelle).",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 202,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00090.int00080"
   },
@@ -1576,7 +2038,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie. Allora, parliamo di numeri. Il Governo ha intrapreso un'azione strutturale per affrontare l'emergenza del sovraffollamento carcerario, che attualmente vede gli istituti attestati su un indice medio del 135 per cento. […]",
+   "sunto": "Quanto al DAP, gli interventi sono focalizzati sul ripristino della funzionalità delle sezioni attualmente fuori uso con l'obiettivo di recuperare 2.600 posti di detenzione tramite manutenzioni ordinarie, con un impegno finanziario di 70 milioni di euro.",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 278,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00060.sub00100.int00120"
   },
@@ -1589,7 +2054,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Collega, il problema della gestione dei dati personali contenuti nei telefonini e negli smartphone vorrei dire che va anche ben oltre e al di là di quelli che lei oggi ha prospettato, perché in questi aggeggi non sono contenute soltanto dichiarazioni, intercettazioni, conversazioni, ma vi sono intere vite. […]",
+   "sunto": "Collega, il problema della gestione dei dati personali contenuti nei telefonini e negli smartphone vorrei dire che va anche ben oltre e al di là di quelli che lei oggi ha prospettato, perché in questi aggeggi non sono contenute soltanto dichiarazioni, intercettazioni, conversazioni, ma vi sono…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 286,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00070.int00040"
   },
@@ -1602,7 +2070,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Potrei rispondere subito con un “sì”: è nostra fermissima intenzione quella di potenziare questo strumento deflattivo. Vorrei prima, però, premettere che gli obiettivi che sono stati proposti dal PNRR sono in grandissima parte già stati raggiunti. […]",
+   "sunto": "Vorrei proprio citare alcune cifre: i dati ufficiali al 31 dicembre 2025 mostrano che l'abbattimento dell'arretrato civile pendente al 31 dicembre 2022 si attestava su una riduzione dell'86 per cento presso i tribunali e dell'86,7 per cento presso le corti d'appello.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Giustizia"
+   ],
    "parole": 300,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00080.int00040"
   },
@@ -1615,7 +2087,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie. Ancora una volta, in premessa, vorrei dire che quando si parla e si è parlato di “modeste mazzette” e, ancora una volta, si è attribuito a questo Ministro un linguaggio cosiddetto di strada, vorrei ricordare che il concetto di tenuità o di modestia è inserito nel nostro ordinamento giuridico. […]",
+   "sunto": "Si parla di tenuità del fatto addirittura per escludere la punibilità di un reato; si parla di modesta quantità nella detenzione di sostanze stupefacenti e nelle circostanze attenuanti vi sono le particolari esigenze di lievità, di tenuità del fatto.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 387,
    "url": "https://www.camera.it/leg19/410?idSeduta=0648&tipo=stenografico#sed0648.stenografico.tit00010.sub00090.int00040"
   },
@@ -1628,7 +2103,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie collega. Ma è esattamente il contrario - se lei mi permette - rispetto a quello che lei ha detto, perché lei sa che l'ufficio per il processo era stato costituito per vincoli molto rigidi con l'Unione europea, in una situazione di assunzione a tempo determinato di queste persone. Abbiamo cercato anche di rendere più flessibile questo vincolo, ma ci è stato opposto un rifiuto. […]",
+   "sunto": "L'avviso del 16 marzo 2026 riguarda le restanti figure professionali, assunte nell'ambito del PNRR e qui vengono le cifre buone: 6.919 unità da inquadrarsi nei profili di addetti all'ufficio per il processo; 712 nel profilo di tecnico dell'amministrazione; 1.488 nel profilo di operatore di data…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 461,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00070.int00040"
   },
@@ -1641,7 +2119,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie a lei, collega. Naturalmente la situazione delle carceri è nota in Italia e purtroppo si è sedimentata nei decenni, come è stato rilevato addirittura ufficialmente dalla Corte dei conti nella relazione del 2025. Pensare che possa essere risolta o anche ridotta drasticamente con provvedimenti improvvisi è molto difficile. […]",
+   "sunto": "Il piano carceri si sta concludendo e lo stiamo portando a termine con numeri estremamente significativi: nel primo trimestre 2026 risultano già consegnati 793 posti, con un saldo attivo per i posti ripristinati, ma soprattutto la definitiva attuazione di questo piano carceri, attraverso il…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 443,
    "url": "https://www.camera.it/leg19/410?idSeduta=0666&tipo=stenografico#sed0666.stenografico.tit00070.sub00080.int00040"
   },
@@ -1654,7 +2135,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Allora, mi riesce sempre difficile, soprattutto dopo il caso Minetti, rispondere a delle domande fondate su agenzie di stampa più o meno corrette. Il caso Minetti avrebbe dovuto insegnare una maggiore cautela nel fidarsi di notizie che poi si sono rivelate clamorosamente fasulle e inventate. […]",
+   "sunto": "È una continuità, iniziata con l'onorevole Delmastro, proseguita ora con l'onorevole Balboni e mantenuta ferma da questo Ministro, che proprio oggi si è consolidata e manifestata in un provvedimento che vorrei dire quasi epocale, al quale penso forse avreste fatto anche un riferimento nella…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 332,
    "url": "https://www.camera.it/leg19/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00070.sub00010.int00040"
   },
@@ -1667,7 +2151,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Sì, è un argomento che conosco, anche perché li ho visti all'opera. Partiamo, innanzitutto, dal dato normativo. L'articolo 73 del decreto-legge n. 69 del 2013 prevede che il tirocinio formativo presso gli uffici giudiziari sia a titolo gratuito. […]",
+   "sunto": "Per questa ragione è stata svolta un'accurata indagine di ricognizione e posso assicurare che è stato assicurato l'impiego di risorse straordinarie, reperite nell'ambito dei fondi residui gestiti dal Ministero per l'esercizio finanziario 2026, al fine di assicurare un'adeguata copertura alle…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00090.int00040"
   },
@@ -1680,7 +2167,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. Una questione di estrema delicatezza, grazie per averla anche sollevata. Partiamo, innanzitutto, da quanto abbiamo finora parzialmente acquisito: sono elementi che delineano un quadro preciso. Le intercettazioni sono state autorizzate nell'ambito di un procedimento penale riguardante una professionista forense indagata per gravi ipotesi di reato. […]",
+   "sunto": "Poiché l'intercettazione tra un indagato e il suo difensore riveste un carattere sacrale, come quella del confessore e del penitente, una sua captazione colposa sarebbe, dal punto di vista religioso, quantomeno un peccato mortale; se fosse dolosa, cioè fatta volontariamente, sarebbe un sacrilegio.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 436,
    "url": "https://www.camera.it/leg19/410?idSeduta=0717&tipo=stenografico#sed0717.stenografico.tit00050.sub00100.int00040"
   },
@@ -1693,7 +2183,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, collega. La conferma credo sia arrivata ieri con il decreto-legge che è stato approvato dal Consiglio dei ministri e che già in parte è stato spiegato nell'intervento precedente. Si tratta, ovviamente, di una questione molto complessa. Prendo anche lo spunto dal fatto che, dopo questa domanda, ce ne sarà un'altra di un altro gruppo, quindi cercherò di integrarle. […]",
+   "sunto": "Accanto a questo, vi è stato il provvedimento di arresto differito anche per i minori e, soprattutto - qui sarà bene anche porre attenzione ad alcune imperfezioni che abbiamo letto sui giornali sull'imputabilità -, l'imputabilità rimane fissa tra i 14 e i 18 anni per quanto riguarda i minori:…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 393,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00050.int00040"
   },
@@ -1706,7 +2199,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Giustizia",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie collega. Naturalmente, la solidarietà del Governo e mia personale nei confronti delle Forze dell'ordine è incondizionata, intera e soprattutto affettuosa. Per quanto riguarda i provvedimenti adottati - l'abbiamo sentito ripetere prima dal collega Ciriani e, poi, l'ho ripetuto nel precedente intervento -, sono quelli già ampiamente noti. […]",
+   "sunto": "Lasciatemi, però, anche una seconda parte, sia pure molto breve, di questo intervento, per quanto riguarda anche l'intervento preventivo nei confronti della delinquenza minorile, perché sappiamo che dietro una situazione di disagio e anche di scarsa maturazione di senso civico, molto spesso…",
+   "temi": [],
    "parole": 352,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00060.int00040"
   }

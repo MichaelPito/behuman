@@ -3,10 +3,11 @@ import Base from "../../layouts/Base.astro";
 import Cambio from "../../components/Cambio.astro";
 import Coerenza from "../../components/Coerenza.astro";
 import Discussa from "../../components/Discussa.astro";
+import Promesse from "../../components/Promesse.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import PresenzeChart from "../../components/PresenzeChart.astro";
-import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
+import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -23,6 +24,7 @@ const perProp = Object.entries(
   ordinaPerData(p.posizioni).reduce<Record<string, typeof p.posizioni>>((acc, x) => ((acc[x.proposizione] ||= []).push(x), acc), {}),
 );
 const dich = datiDichiarazioni(p.slug);
+const prom = impegni().politici[p.slug];
 // le tre più recenti tra le più discusse, mostrate in ordine cronologico
 const discusse = (dich?.verificate ?? []).filter((v) => v.data).slice(-3);
 const dichiarazioni = ordinaPerData(p.posizioni.filter((x) => x.tipo === "dichiarazione"));
@@ -46,6 +48,7 @@ function votiPerAnno(voti: any[]): [string, any[]][] {
 const missione = (camera: string) => (p.parlamento[camera]?.presenze_mensili || []).reduce((n, m: any) => n + (m.missione || 0), 0);
 const sezioni: [string, string][] = [
   ["sintesi", "In breve"],
+  ...(prom ? ([["promesse", "Prima e dopo l'incarico"]] as [string, string][]) : []),
   ["cambi", "Cambi di posizione"],
   ["percorso", "Percorso"],
   ...(Object.keys(p.parlamento).length ? ([["presenze", "Presenze"], ["voti", "Voti finali"]] as [string, string][]) : []),
@@ -115,6 +118,13 @@ const sezioni: [string, string][] = [
       </div>
     </div>
   </section>
+
+  {prom && (
+    <section class="section" id="promesse">
+      <div class="section-head"><h2>Prima e dopo l'incarico</h2><span class="small muted">cosa chiedeva, cosa dicono i dati ufficiali</span></div>
+      <Promesse d={prom} />
+    </section>
+  )}
 
   <section class="section" id="cambi">
     <div class="section-head"><h2>Cambi di posizione</h2><span class="small muted">dal più vecchio al più recente</span></div>

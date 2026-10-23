@@ -122,9 +122,131 @@
     "fonte": "Non indicata",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Esteri e difesa",
+    "n": 53
+   },
+   {
+    "tema": "Unione europea",
+    "n": 21
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 9
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 6
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 5
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 5
+   },
+   {
+    "tema": "Sanità",
+    "n": 4
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 4
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 4
+   },
+   {
+    "tema": "Giustizia",
+    "n": 3
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 2
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2022": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 2
+    },
+    {
+     "tema": "Unione europea",
+     "n": 2
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 2
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 8
+    },
+    {
+     "tema": "Unione europea",
+     "n": 3
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 2
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 10
+    },
+    {
+     "tema": "Unione europea",
+     "n": 4
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 2
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 15
+    },
+    {
+     "tema": "Unione europea",
+     "n": 6
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 2
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 18
+    },
+    {
+     "tema": "Unione europea",
+     "n": 6
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 5
+    }
+   ]
+  }
  },
- "recap": "Dal 3 maggio 2022 al 23 settembre 2026: 63 interventi nell'Aula della Camera (57.876 parole), 9 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (36 interventi).",
+ "recap": "Dal 3 maggio 2022 al 23 settembre 2026: 63 interventi nell'Aula della Camera (57.876 parole), 9 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (53), unione europea (21), energia e carburanti (9). In Aula alla Camera l'occasione più frequente è «Question time» (36 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -221,7 +343,18 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Presidente, onorevoli colleghi, lasciatemi iniziare con un'affermazione che ritengo sia condivisa da ognuno di noi: tutti, all'interno di quest'Aula e, chiaramente, al di fuori di quest'Aula, siamo per la pace e tutti ripudiamo la guerra come strumento di offesa alla libertà degli altri popoli e come mezzo di risoluzione delle controversie internazionali. […]",
+   "sunto": "Certo, è più facile rappresentare il Ministero della Difesa come Ministero della guerra, che non magari Ministero della difesa, della pace e delle missioni di pace, ma la verità è che si tratta di un'organizzazione che nasce per preservare la pace ovunque.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Giustizia",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 4541,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00090.sub00010.int00020"
   },
@@ -234,7 +367,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevoli deputati. Ringrazio il Parlamento per gli interventi ascoltati oggi, ognuno degli intervenuti e i gruppi che rappresentano, per la serietà con cui si è svolto il dibattito. Proprio per rispondere in modo serio, vorrei riprendere alcune delle cose dette da voi, rispondere ad alcune e condividerne altre. […]",
+   "sunto": "E, se oggi in Kosovo esistono un credito, quando io e il Ministro Tajani andavamo, come ieri, quando andava un altro rappresentante del Governo, e un rispetto, in Kosovo e in Serbia, per l'Italia, è perché da vent'anni abbiamo Forze armate che, al confine di quel Paese, presidiano la pace; sono…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 2001,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00090.sub00040.int00020"
   },
@@ -247,7 +385,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Un accenno all'ultima: no, l'Italia non ha alcuna intenzione di inviare truppe sul campo. I quesiti posti dall'onorevole interrogante, che ringrazio, investono diversi aspetti sui quali mi preme fare la necessaria chiarezza. […]",
+   "sunto": "E - lo dico incidentalmente - a tale scopo l'Unione europea ha autorizzato l'accesso allo European peace facility (EPF), istituito nel marzo 2021 al fine di reintegrare economicamente lo sforzo profuso dagli Stati membri a supporto dell'Ucraina a seguito dell'aggressione subita da parte della…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 571,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00030.sub00020.int00040"
   },
@@ -260,7 +402,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio del quesito l'onorevole interrogante anche perché, senza questo quesito, non avrei mai dedicato tempo ed energia per occuparmi delle elucubrazioni personali di un ex Segretario generale della NATO attualmente senza alcun incarico pubblico, né in patria né a livello internazionale. […]",
+   "sunto": "Non mi pare ci sia molto da commentare oltre su queste parole, ma ricordo che il Trattato del Nord Atlantico prevede che ogni decisione in ambito NATO debba essere adottata con il consenso di tutti gli alleati, non solo di uno o due e neanche di tutti meno uno.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00010.int00040"
   },
@@ -273,7 +418,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Ghirra, rispetto alla sua domanda, con la sincerità dovuta al Parlamento, voglio spiegare che l'attuale quadro strategico non consente di ragionare in termini di riduzione delle attività addestrative delle Forze armate. […]",
+   "sunto": "Ciò detto, il Governo e la Difesa assicureranno, per contro, ogni possibile contributo per lo sviluppo sostenibile della regione Sardegna attraverso ulteriori investimenti volti ad incrementare la ricerca scientifica, lo sviluppo tecnologico, l'innovazione, anche in chiave duale, nonché… […] Quelle che lei chiama servitù militari non gravano solo sulla Sardegna, anche sulla Sardegna.",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 508,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00020.int00040"
   },
@@ -286,7 +435,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Comba. Come è noto, nel 2014, al summit del Galles, i Capi di Stato e di Governo assunsero l'impegno, definito Defence investment pledge , di mirare, entro il 2024, al conseguimento del 2 per cento del rapporto spese per la difesa-PIL e del 20 per cento delle spese militari dedicate all'investimento e di contribuire alle operazioni e alle missioni a sostegno della sicurezza nazio […]",
+   "sunto": "Come è noto, nel 2014, al summit del Galles, i Capi di Stato e di Governo assunsero l'impegno, definito Defence investment pledge , di mirare, entro il 2024, al conseguimento del 2 per cento del rapporto spese per la difesa-PIL e del 20 per cento delle spese militari dedicate all'investimento e…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 546,
    "url": "https://www.camera.it/leg19/410?idSeduta=0123&tipo=stenografico#sed0123.stenografico.tit00040.sub00030.int00040"
   },
@@ -299,7 +453,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio l'interrogante innanzitutto per avere fornito l'opportunità di affrontare questo tema. Venendo allo specifico quesito postomi, innanzitutto vorrei puntualizzare che il GCAP rappresenta una necessità dettata da sfide di tipo militare poste sia dal continuo mutamento e inasprimento della minaccia espressa negli scenari operativi sia dall'esigenza di un graduale e bilanciato aggiornamento e […]",
+   "sunto": "Per garantire l'efficacia operativa del velivolo fino al 2045-2050, per l'Italia, infatti, sarà necessario prevedere ulteriori fasi di sviluppo, dette long term evolution , che daranno vita alle fasi 5 e 6.",
+   "temi": [],
    "parole": 450,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00050.int00040"
   },
@@ -312,7 +467,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Inizio rassicurando l'onorevole Fratoianni, perché ho letto la sua interrogazione sul rispetto, da parte del Governo, della normativa vigente per l'avvio dei programmi di ammodernamento e rinnovamento Difesa. La informo che i sommergibili U-222 erano stati approvati e sono passati al vaglio parlamentare. Uno, nello specifico, con il n. 2 del 2019, che riguardava la prima tranche , e il secondo, il n. […]",
+   "sunto": "Per quanto riguarda le spese, come ho detto prima - è finita adesso un'informativa presso le Commissioni difesa e affari esteri - il bilancio italiano della Difesa quest'anno si attesta all'1,46 e nel 2024 a legislazione vigente sarà all'1,43.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa"
+   ],
    "parole": 463,
    "url": "https://www.camera.it/leg19/410?idSeduta=0142&tipo=stenografico#sed0142.stenografico.tit00090.sub00060.int00040"
   },
@@ -325,7 +484,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Zanella. In merito al terribile incidente che lo scorso 16 settembre a Torino ha coinvolto un velivolo della pattuglia acrobatica nazionale, provocando il decesso della piccola Laura, una bimba di 5 anni, il ferimento del suo fratellino Andrea, lo strazio di un'intera famiglia, del padre Paolo Origliasso e della madre Veronica Vernetto, voglio innanzitutto esprimere anche in questa sede le mie più p […]",
+   "sunto": "Queste cifre vanno rapportate al valore aggiunto rappresentato dalla qualità e dalla quantità dell'addestramento acquisito, fondamentale per la prontezza del personale dell'unità, i cui benefici riguardano l'intera Forza armata.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 649,
    "url": "https://www.camera.it/leg19/410?idSeduta=0165&tipo=stenografico#sed0165.stenografico.tit00080.sub00020.int00040"
   },
@@ -338,7 +500,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio gli onorevoli interroganti per il quesito posto. All' excursus in premessa desidero aggiungere poche brevi considerazioni. La prima è che al summit di Vilnius, in realtà nel luglio scorso, è stato introdotto un ulteriore vincolo. Il parametro del 2 per cento non sarà considerato come un traguardo, ma come una base di partenza per le rinnovate esigenze dell'Alleanza atlantica. […]",
+   "sunto": "Noi abbiamo deciso di far parte di una famiglia - la famiglia della NATO - e il prossimo anno quei Paesi che lei ha elencato raddoppieranno e quasi tutti i Paesi della NATO raggiungeranno e supereranno il 2 per cento.",
+   "temi": [
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 433,
    "url": "https://www.camera.it/leg19/410?idSeduta=0165&tipo=stenografico#sed0165.stenografico.tit00080.sub00030.int00040"
   },
@@ -351,7 +517,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Intervengo, onorevoli deputati e onorevole Magi, ancora una volta sul caso del generale Vannacci. Credevo di avere fornito ogni chiarimento possibile, per ultimo con una nota dettagliata, volutamente burocratica, affidata alla stampa appena due giorni fa, ma mi sono sbagliato, evidentemente. Quindi ribadisco alcune precisazioni. […]",
+   "sunto": "Nel frattempo, parallelamente alla vicenda che lo ha riguardato, sul generale Vannacci era stata disposta un'inchiesta sommaria, in base all'articolo 552 del testo unico dell'ordinamento militare, da parte del Capo di stato maggiore dell'Esercito, aperta il 18 agosto e conclusa il 16 ottobre.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 512,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00050.sub00100.int00040"
   },
@@ -364,7 +533,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli parlamentari, ringrazio per l'occasione offertami di poter relazionare sulle iniziative umanitarie intraprese dalla Difesa a seguito dell'insorgenza del conflitto in Medio Oriente e di effettuare un'informativa a questa Camera. […]",
+   "sunto": "Per questo, assieme ai colleghi degli Esteri, abbiamo immediatamente realizzato un ponte aereo umanitario verso l'Egitto, inviato nell'area un ospedale imbarcato e avviata la pianificazione e la ricognizione per lo schieramento - auspichiamo il prima possibile - di un ospedale da campo nella…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 2663,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00070.sub00010.int00020"
   },
@@ -377,7 +553,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie onorevoli parlamentari. È la seconda volta che sono in quest'Aula a parlare di questo tema, di un tema che non mi riguarda - e mi scuso con il mio collega, il Ministro della Giustizia Nordio, che è qui a fianco a me -, a seguito non di un atto normativo, non di un intervento legislativo, non di qualcosa che riguardi la mia attività di Governo, ma di un'intervista nell'ambito della quale, al […]",
+   "sunto": "E il mio non è stato un attacco alla magistratura - perché ho profondo rispetto per l'ordine della magistratura -, le mie sono state riflessioni e preoccupazioni riguardo ad alcune tendenze che vedo emergere nelle discussioni dei magistrati, emergere non in modo carbonaro, ma in modo molto evidente. […] La rappresentanza per la Costituzione appartiene a quest'Aula e a nessun altro, né al Governo, né alla magistratura.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 2011,
    "url": "https://www.camera.it/leg19/410?idSeduta=0216&tipo=stenografico#sed0216.stenografico.tit00020.sub00010.int00020"
   },
@@ -390,7 +569,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "…perché ci sarà un domani… …ci sarà un domani nel quale di queste cose dovremo rispondere, perché è importante, perché sono le regole basilari della democrazia, che dovrebbero interessare non me, ma tutti noi. Questo è tutto ciò che ho da dirvi, non molto di più. Ripeto, sono alcune delle opinioni che ho su un tema fondamentale, ma ve ne aggiungo un'altra. […]",
+   "sunto": "…perché ci sarà un domani… …ci sarà un domani nel quale di queste cose dovremo rispondere, perché è importante, perché sono le regole basilari della democrazia, che dovrebbero interessare non me, ma tutti noi.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 451,
    "url": "https://www.camera.it/leg19/410?idSeduta=0216&tipo=stenografico#sed0216.stenografico.tit00020.sub00010.int00040"
   },
@@ -403,7 +585,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, quella di oggi è un'occasione per fornire un punto di situazione sul conflitto in Ucraina, su ciò che l'Italia ha fatto, fa e farà a supporto del Governo ucraino, con particolare riferimento alla proroga al 31 dicembre 2024 dell'autorizzazione per la fornitura di aiuti, anche militari, a Kiev. […]",
+   "sunto": "Purtroppo la controffensiva estiva dell'Ucraina non ha dato i risultati sperati e l'Esercito di Kiev sta ora affrontando un nuovo inverno di guerra, dovendo, a sua volta, fare fronte alla prevedibile, violenta reazione russa, per lo più basata su lancio di missili e droni dall'est del Paese.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 3145,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00020.sub00010.int00020"
   },
@@ -416,7 +603,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Signor Presidente, ringrazio tutti i parlamentari che sono intervenuti per il contributo che hanno dato a questa discussione. C'è una cosa che, però - devo dirvelo con la stessa sincerità con cui ho effettuato la mia relazione - mi colpisce sempre. […]",
+   "sunto": "Così come se qualcuno avesse avuto l'interesse a guardare qual è stata la reale posizione, quali sono state le parole assunte in questo anno nei consessi internazionali e non solo da parte mia su questa vicenda, molte delle parole dette oggi come accuse non sarebbero state espresse.",
+   "temi": [],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00020.sub00040.int00020"
   },
@@ -429,7 +617,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Come a Gaza. Parleremo, quando volete, anche di Gaza, però adesso stiamo parlando di un'altra cosa (Commenti del deputato Grimaldi), no, oggi stiamo parlando di Ucraina. Guardate, io capisco che non interessi la verità, ma la posizione di questo Governo è stata identica sull'Ucraina quanto su Gaza e il lavoro che questo Governo ha compiuto in questi mesi per cercare di affiancare agli aiuti militari la costruzione di […]",
+   "sunto": "Certo che esiste un evidente protagonismo europeo nella politica estera, certo che la politica di difesa europea è in ritardo, ma voi non pensate che la costruzione di un'Europa della difesa si faccia in un anno o in due.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1681,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00020.sub00040.int00040"
   },
@@ -442,7 +634,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Scusate, avevo dimenticato una precisazione: sulla risoluzione Braga ed altri n. 6-00080 vi è una riformulazione al quarto impegno, espungendo: “dell'Ungheria”; se non si accetta la riformulazione, parere favorevole sugli altri impegni e contrario sul quarto.",
+   "sunto": "Scusate, avevo dimenticato una precisazione: sulla risoluzione Braga ed altri n. 6-00080 vi è una riformulazione al quarto impegno, espungendo: “dell'Ungheria”; se non si accetta la riformulazione, parere favorevole sugli altri impegni e contrario sul quarto.",
+   "temi": [],
    "parole": 36,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00040.int00020"
   },
@@ -455,7 +648,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Sì, avevo detto prima che avremmo dato parere contrario, come Governo, al 4° capoverso del dispositivo della risoluzione n. 6-00080 Braga ed altri, qualora non fosse stata accettata la riformulazione. Invece, non mi pare il caso di dare parere contrario e mi rimetto all'Assemblea su tutta risoluzione del Partito Democratico, n. 6-00080 Braga ed altri. […]",
+   "sunto": "Sì, avevo detto prima che avremmo dato parere contrario, come Governo, al 4° capoverso del dispositivo della risoluzione n. 6-00080 Braga ed altri, qualora non fosse stata accettata la riformulazione.",
+   "temi": [],
    "parole": 130,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00040.sub00010.int00290"
   },
@@ -468,7 +662,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, il quesito mi offre l'occasione per riprendere quanto già detto in occasione delle comunicazioni rese al Parlamento sulla proroga del sostegno all'Ucraina il 10 gennaio scorso. […]",
+   "sunto": "In questo quadro - e vengo al quesito -, anche al fine di assicurare a Kiev un adeguato livello quantitativo e qualitativo di equipaggiamento per affrontare lo sforzo bellico, la Difesa ha aderito all'iniziativa europea che prevede il sostegno all'incremento della capacità di produzione…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 465,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00010.int00040"
   },
@@ -481,7 +679,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. In premessa, esprimo un po' di rammarico e di perplessità sui contenuti dell'interrogazione, che è abbastanza strumentale, perché rappresenta l'aumento delle spese per la Difesa quale espressione della cultura bellicistica. […]",
+   "sunto": "In premessa, esprimo un po' di rammarico e di perplessità sui contenuti dell'interrogazione, che è abbastanza strumentale, perché rappresenta l'aumento delle spese per la Difesa quale espressione della cultura bellicistica.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa"
+   ],
    "parole": 550,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00020.int00040"
   },
@@ -494,7 +696,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie. Devo necessariamente richiamare quanto dichiarato nella risposta alla precedente interrogazione e affermato già il 10 gennaio. La situazione in atto e la minaccia che essa pone all'ordine e alla stabilità europea e globale confermano quanto sia importante continuare a sostenere lo sforzo del popolo e delle Forze armate ucraine, affinché siano in grado di resistere a un'aggressione. […]",
+   "sunto": "Quindi, ad oggi, la sua risposta ha la risposta in sé nel bilancio e non potranno esserci spese che non siano già previste in bilancio.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 574,
    "url": "https://www.camera.it/leg19/410?idSeduta=0252&tipo=stenografico#sed0252.stenografico.tit00060.sub00030.int00040"
   },
@@ -507,7 +712,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Pellegrini, io prendo atto con stupore, per l'ennesima volta, della perdurante tendenza a rivolgere alla Difesa quesiti che, in buona parte, esulano dalle competenze della Difesa, però mi sono quasi abituato. […]",
+   "sunto": "Nel caso specifico dell'Ucraina, diversamente da quanto prospettato da lei, la fornitura di armi a Kiev, che sta esercitando il diritto all'autodifesa previsto dall'articolo 51 della Carta ONU, non è vietata dalla legge n. 185 del 1990. […] Già all'indomani dell'aggressione russa del febbraio 2022, pertanto, sono state autorizzate diverse esportazioni da parte di aziende italiane ai sensi della legge n. 185 del 1990.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 461,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00010.int00040"
   },
@@ -520,7 +728,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Tralascio i commenti sulle dichiarazioni estere. Voglio rispondere ai contenuti dell'interrogazione e mi scuso se lo faccio esclusivamente attraverso la verità. Capisco che la verità possa infastidire, ma la verità è innegabile. […]",
+   "sunto": "Le procedure che io e noi seguiamo discendono, infatti, dal decreto-legge n. 14 e dal decreto-legge n. 16 del 2022, con cui fu autorizzata, per la prima volta, la cessione di materiale bellico all'Ucraina.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 401,
    "url": "https://www.camera.it/leg19/410?idSeduta=0301&tipo=stenografico#sed0301.stenografico.tit00080.sub00020.int00040"
   },
@@ -533,7 +744,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie Presidente e ringrazio l'onorevole interrogante. Oggi ci confrontiamo con uno scenario sfidante, nel quale vecchie e nuove potenze operano per ridisegnare le loro sfere di influenza e anche il contesto sociale, economico e culturale è profondamente mutato. […]",
+   "sunto": "Nel solco di queste linee di indirizzo, la Difesa ha già fatto qualcosa, ha realizzato una serie di iniziative: la riconfigurazione dello strumento militare dal modello 150.000 a quello 160.000, che però non è ancora sufficiente, voglio dirlo con chiarezza; l'emanazione di bandi specifici…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 414,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00080.sub00040.int00040"
   },
@@ -546,7 +760,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Presidente, onorevoli deputati, prendo la parola per un rapido, quanto doveroso, punto della situazione sugli eventi che hanno recentemente interessato il personale e le basi della missione UNIFIL in Libano. Mi scuso con voi, l'ho già fatto in Senato, per la ristrettezza dei tempi e per aver dovuto interrompere il vostro dibattito, ma questa mattina è iniziato un importante vertice NATO a Bruxelles, che dovrò raggiun […]",
+   "sunto": "Allo stesso tempo, con la stessa forza, chiediamo a Israele di attenersi in modo rigoroso alle regole del diritto internazionale, a Gaza come in Libano, come della convivenza civile tra Nazioni e Paesi, di proteggere l'incolpevole popolazione civile e di rispettare il personale e le basi di…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima",
+    "Sicurezza e criminalità"
+   ],
    "parole": 3299,
    "url": "https://www.camera.it/leg19/410?idSeduta=0367&tipo=stenografico#sed0367.stenografico.tit00040.sub00010.int00020"
   },
@@ -559,7 +780,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, rispondo al quesito dell'onorevole interrogante partendo da un rapido punto di situazione relativo ai recenti sviluppi del conflitto in Ucraina. Dopo mille giorni di guerra, scatenata - è bene ribadirlo - dalla Federazione Russa, in dispregio di ogni regola del diritto internazionale, la situazione resta difficile. […]",
+   "sunto": "Nelle ultime settimane la Russia ha ulteriormente incrementato il ritmo e l'intensità delle operazioni, effettuando attacchi di inusitata violenza, come quello del 18 novembre scorso, quando ben 120 missili e 90 droni sono stati lanciati contro la parte occidentale dell'Ucraina.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Casa e infrastrutture"
+   ],
    "parole": 504,
    "url": "https://www.camera.it/leg19/410?idSeduta=0384&tipo=stenografico#sed0384.stenografico.tit00050.sub00050.int00040"
   },
@@ -572,7 +798,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, onorevole Fratoianni. Desidero preliminarmente ricordare, come lei stesso ha riferito, che la Presidenza del Consiglio dei Ministri ha già smentito con una nota che siano stati firmati contratti o siano stati conclusi accordi tra il Governo italiano e la società SpaceX. Colgo poi l'opportunità per precisare che anche la Difesa non ha approvato alcun accordo al riguardo. […]",
+   "sunto": "Ne consegue che la Difesa è interessata - anzi obbligata, forse - a integrare tale capacità con quelle fornite da satelliti in orbita bassa, che offrono maggiore continuità, copertura e minor tempo di latenza.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 453,
    "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00060.sub00040.int00040"
   },
@@ -585,7 +814,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli, ringrazio per l'opportunità che mi è data oggi di fare il punto sul conflitto in Ucraina e sulle iniziative a sostegno del Paese, con un focus particolare sulla proroga al 31 dicembre 2025 dell'autorizzazione per la fornitura di aiuti, inclusi quelli militari, anche alla luce della mia recente visita a Kiev. […]",
+   "sunto": "Noi abbiamo scelto di fare in modo che qualcuna di quelle bombe non cadesse , perché io vi assicuro che in questi due anni e mezzo, essendo stato una delle persone che più si è spesa per l'avvio di una soluzione diplomatica, mi sono chiesto cosa sarebbe successo se l'Occidente avesse deciso di…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Casa e infrastrutture"
+   ],
    "parole": 1965,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00010.int00020"
   },
@@ -598,7 +832,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "È successo e noi piangiamo…vede, onorevole Bonelli, noi piangiamo quei 50.000 morti, che non dipendono da questo Parlamento, come lei sa, ma siamo contenti che adesso magari quei morti non aumentino ed è quello che vorremmo anche in Ucraina . Piangiamo quelli che ci sono stati fino adesso e vorremmo che si interrompa questa guerra e anche in quel Paese si raggiunga la pace. Sarà facile? Non lo so. […]",
+   "sunto": "Ieri alla Camera qualcuno ha attaccato me perché dice che nel 2022 c'erano le condizioni, c'era un tavolo di pace attivato e Putin fu lasciato andar via. […] Ma Putin non fu lasciato andar via, Putin andò via perché voleva andar via, perché era falso quel tavolo di pace, perché era il tentativo per giustificare un attacco e dire che non si era potuto interromperlo per volontà di terzi.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 659,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00010.int00050"
   },
@@ -611,7 +848,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Onorevole, a parte che non è una discussione a due, come sa, perché non funziona così il Parlamento. Amo quello inglese per questo, ma il nostro Parlamento non funziona così. Se cambiamo, sarei molto lieto di fare queste discussioni all'inglese, ma purtroppo non funziona così qui. […]",
+   "sunto": "Non parliamo del mondo di tre anni fa: parliamo di 10.000 soldati coreani che sono andati in Russia a combattere e non ho sentito nessuno scandalizzarsi; parliamo di Cina e Iran che continuano a fornire in modo massiccio aiuti; parliamo di una produzione militare russa che è aumentata molto di…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 896,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00010.int00070"
   },
@@ -624,7 +865,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio tutti gli intervenuti e risponderò nell'unico modo che so fare: con la verità. Perché tutto mi piace, tranne che l'ipocrisia. Il bello di alcune delle nostre discussioni e di alcune nostre posizioni negli anni è che rimangono agli atti e che sono scritte, come quella dell'onorevole Baldino che votò questa risoluzione uguale e identica nel 2022 . […]",
+   "sunto": "Il bello di alcune delle nostre discussioni e di alcune nostre posizioni negli anni è che rimangono agli atti e che sono scritte, come quella dell'onorevole Baldino che votò questa risoluzione uguale e identica nel 2022 . […] Lo fece tutto il gruppo del PD e, mi scusi il PD, lo fece il gruppo di Fratelli d'Italia allora . […] L'Europa manca, ma se manca l'Europa non è perché manca l'Italia.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 811,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00040.int00020"
   },
@@ -637,7 +883,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Potete chiedere benissimo come questo Governo, sempre, non ha mai nascosto nulla, anche dei dubbi, delle perplessità. Non l'ha mai nascosto a nessuna riunione della NATO, di Ramstein, o europea. Noi abbiamo sempre saputo che la via della pace era l'unico modo per affrontare questo problema e non ho mai detto che la Russia ha vinto la guerra. […]",
+   "sunto": "Ho detto che la Russia ha conquistato il 18 per cento del terreno ucraino e che la Russia è molto più forte perché parliamo di due Stati con due popolazioni completamente diverse: una per cui non contano né i morti né il tempo e l'altra per cui i morti contano. […] Una cosa, questa è più personale: la proposta di difesa europea il Ministro della Difesa l'ha mandata in Europa ai suoi colleghi 26 mesi fa.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 644,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00040.int00040"
   },
@@ -650,7 +900,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Questo perché l'unica idea possibile è l'interoperabilità, allo stesso modo in cui avviene con la NATO. Non ho avuto risposta, perché? Perché ci sono le elezioni, perché ogni Paese ha i suoi dibattiti parlamentari, alla fine perché se un Governo di centrosinistra non risponde al Governo di centrodestra è perché ci sono delle logiche che uccidono, in questo momento, la realtà per giochi politici. […]",
+   "sunto": "Sulla risoluzione Faraone ed altri n. 6-00152 il parere è contrario alle premesse e favorevole agli impegni 1), 3), 4) e 6); favorevole con riformulazione all'impegno 2), espungendo “anche attraverso la nomina di un inviato speciale per la pace”; favorevole con riformulazione dell'impegno 5),…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 745,
    "url": "https://www.camera.it/leg19/410?idSeduta=0414&tipo=stenografico#sed0414.stenografico.tit00040.sub00040.int00060"
   },
@@ -663,7 +917,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie per la domanda, onorevole Della Vedova. Io spero che rispondere per l'ennesima volta confermi che la posizione del Governo è una e una sola. Io non devo rispondere sui desiderata, nel senso che io capisco che il progetto politico, che lei da una vita porta avanti, è quello di una federazione di Stati europei com'è quella americana, quindi con una difesa europea, ma non siamo una federazione di Stati e io sono […]",
+   "sunto": "E' quello che ci obbliga a costruire una difesa con obblighi di investimenti minimi che ci dà la nostra grande Alleanza atlantica, che, ad oggi, è l'unico ombrello difensivo utilizzabile domani mattina - in qualunque caso negativo - grazie alla deterrenza americana, grazie all'articolo 5 della NATO.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 541,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00060.int00060"
   },
@@ -676,7 +934,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ringrazio per l'interrogazione che mi fornisce la possibilità di una risposta. A carattere generale, durante la recente audizione sulla Cyber Defence , ho condiviso in modo esaustivo le riflessioni circa l'urgenza di intraprendere un percorso dedicato, per rivedere il vigente quadro normativo con l'intento di: abilitare le azioni e le capacità della Difesa all'identificazione, mitigazione e contra […]",
+   "sunto": "Con tale visione è stato istituito il Polo Formativo Cyber della Difesa, presso il Centro Alti Studi della Difesa, che rappresenta il punto di riferimento per la formazione specialistica cyber interforze, e riconosciuto quale struttura a supporto dell'Agenzia per la cybersicurezza nazionale.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 579,
    "url": "https://www.camera.it/leg19/410?idSeduta=0456&tipo=stenografico#sed0456.stenografico.tit00050.sub00070.int00040"
   },
@@ -689,7 +950,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Marattin. Purtroppo, con l'imposizione delle mani non sono in grado di fare null'altro che muovere un po' di aria. Se potessi creare risorse avremmo risolto tutti i problemi, non solo quello del suo nuovo partito, anche quelli di tutti i capitoli di bilancio, non solo quelli della difesa, ma non è così. […]",
+   "sunto": "Di conseguenza, i piani della NATO per la difesa europea resteranno sguarniti e noi dovremo compensare, facendoci carico di ripianare le capacità che mancheranno, possono mancare, nei prossimi anni.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 504,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00020.int00040"
   },
@@ -702,7 +967,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Penso ci sia un limite anche ai toni che si usano nelle interrogazioni. Io? Io non decido nulla. Io sono il Ministro della Difesa. Il bilancio del Ministero della Difesa viene deciso dal Parlamento, viene approvato nella manovra finanziaria e, quando c'è la disponibilità, il Ministero della Difesa - un'organizzazione con oltre 300.000 persone - gestisce le risorse che lo Stato e il Parlamento gli […]",
+   "sunto": "Il bilancio del Ministero della Difesa viene deciso dal Parlamento, viene approvato nella manovra finanziaria e, quando c'è la disponibilità, il Ministero della Difesa - un'organizzazione con oltre 300.000 persone - gestisce le risorse che lo Stato e il Parlamento gli mettono a disposizione.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 604,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00030.int00040"
   },
@@ -715,7 +983,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Sì, io mi ritengo amico di Israele, come della Palestina e distinguo Israele dalle scelte del Governo attuale, che, come ho avuto modo di ribadire oggi, non condivido (Applausi dei deputati dei gruppi Fratelli d'Italia, Forza Italia-Berlusconi Presidente-PPE, Noi Moderati (Noi con l'Italia, Coraggio Italia, UDC e Italia al Centro)-MAIE-Centro Popolare e del deputato Marattin). L'ho detto chiaramente oggi. […]",
+   "sunto": "Sì, io mi ritengo amico di Israele, come della Palestina e distinguo Israele dalle scelte del Governo attuale, che, come ho avuto modo di ribadire oggi, non condivido (Applausi dei deputati dei gruppi Fratelli d'Italia, Forza Italia-Berlusconi Presidente-PPE, Noi Moderati (Noi con l'Italia,…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 466,
    "url": "https://www.camera.it/leg19/410?idSeduta=0483&tipo=stenografico#sed0483.stenografico.tit00070.sub00040.int00060"
   },
@@ -728,7 +999,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, colgo l'opportunità odierna per formulare un aggiornamento in merito alla situazione di sicurezza dei nostri connazionali impegnati nell'ambito dell'iniziativa Global Sumud Flotilla e su quanto in corso nel fronte Est europeo. Comincio dal primo tema che, vista l'attualità, desidero trattare con precedenza. […]",
+   "sunto": "Nella notte tra il 23 e 24 settembre, secondo quanto denunciato dagli organizzatori della Global Sumud Flotilla e riportato da più fonti di stampa, il convoglio umanitario diretto a Gaza è stato oggetto di un attacco in acque internazionali, a sud di Creta, al momento non rivendicato.",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
    "parole": 2358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0537&tipo=stenografico#sed0537.stenografico.tit00020.sub00010.int00020"
   },
@@ -741,7 +1018,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie onorevole Rosato. Il Ministero della Difesa ha già presentato al Parlamento il documento programmatico pluriennale che illustra i programmi di investimento, le priorità di sviluppo, le linee di modernizzazione dello strumento militare e il quadro di riferimento su cui si basa la pianificazione delle risorse e delle capacità operative della difesa alle dimensioni finanziarie attuali. […]",
+   "sunto": "Il Ministero della Difesa ha già presentato al Parlamento il documento programmatico pluriennale che illustra i programmi di investimento, le priorità di sviluppo, le linee di modernizzazione dello strumento militare e il quadro di riferimento su cui si basa la pianificazione delle risorse e…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa"
+   ],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0564&tipo=stenografico#sed0564.stenografico.tit00090.sub00020.int00040"
   },
@@ -754,7 +1035,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. E grazie per l'interrogazione che mi consente di fare alcune precisazioni. “Strade sicure” è stata avviata nel 2008, la avviai io, da Sottosegretario, con l'allora Ministro La Russa, fu una nostra invenzione, e rappresenta da oltre 15 anni una risposta concreta alle esigenze di presidio del territorio. […]",
+   "sunto": "Oggi impieghiamo circa 6.000 militari in 58 province su circa 1.000 siti sensibili, a cui si aggiungono 800 unità dedicate al dispositivo “Stazioni sicure” per un totale di 6.800 donne e uomini delle Forze armate al servizio alla collettività.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 396,
    "url": "https://www.camera.it/leg19/410?idSeduta=0564&tipo=stenografico#sed0564.stenografico.tit00090.sub00030.int00040"
   },
@@ -767,7 +1051,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La minaccia ibrida è una guerra continua che ci colpisce, giorno e notte, ogni giorno. Prende di mira le nostre infrastrutture critiche, i servizi essenziali, le industrie strategiche, le reti di comunicazione, le istituzioni democratiche, minando la fiducia dei cittadini e la stabilità stessa del Paese. […]",
+   "sunto": "In questi termini ho elaborato un non-paper , cioè un documento di lavoro, che metterò a disposizione del Parlamento, nel quale abbiamo delineato le principali direttrici normative e operative necessarie per rendere la difesa più moderna, efficace e pronta al contrasto delle minacce ibride.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0564&tipo=stenografico#sed0564.stenografico.tit00090.sub00040.int00040"
   },
@@ -780,7 +1067,14 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Signori, onorevoli deputati, vi ringrazio per l'opportunità che mi concedete di aggiornare il Parlamento sull'evoluzione della situazione in Ucraina e sulle iniziative che il Governo continua a portare avanti a sostegno di quel Paese, in particolare per quanto riguarda la proroga fino al 31 dicembre 2026 dell'autorizzazione alle forniture di aiuti. […]",
+   "sunto": "E questo non riguarderebbe solo l'Ucraina, ma anche noi, riguarderebbe l'Europa, l'ordine internazionale che ha garantito al nostro continente oltre 70 anni di pace. […] Dobbiamo investire nel rafforzamento delle capacità di difesa e di deterrenza dell'Ucraina, perché la pace ottenuta sia una pace stabile. […] Aiutare Kiev significa garantire la sicurezza dell'Ucraina insieme a quella dell'Europa.",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 3157,
    "url": "https://www.camera.it/leg19/410?idSeduta=0594&tipo=stenografico#sed0594.stenografico.tit00060.sub00010.int00020"
   },
@@ -793,7 +1087,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevoli deputati, grazie per i vostri interventi. Io sono stato molti anni in questo Parlamento, non ci sono per scelta in questo mandato. Io mi sono sempre relazionato. Il vantaggio di questo luogo è che tutto ciò che noi diciamo, tutti i modi con cui lo facciamo, è filmato ed è scritto. […]",
+   "sunto": "Se parlo di Russia e Ucraina, parlo di Russia, ma quando parlo d'Italia, parlo in modo generico, parlo della necessità della difesa italiana; e se parlo di leva o di leva obbligatoria o di necessità di riserva, lo faccio perché faccio il Ministro della Difesa e devo portare in Parlamento le mie…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 2949,
    "url": "https://www.camera.it/leg19/410?idSeduta=0594&tipo=stenografico#sed0594.stenografico.tit00060.sub00040.int00020"
   },
@@ -806,7 +1104,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sulla risoluzione del gruppo +Europa, Magi e Della vedova n. 6-00225 , il parere è contrario sulle premesse e favorevole sugli impegni, previa riformulazione: dell'impegno 1), come di seguito: “a ribadire con fermezza, in tutte le sedi internazionali e in particolare all'interno delle istituzioni dell'Unione europea, il sostegno dell'Italia all'Ucraina, al diritto internazionale e alla condanna se […]",
+   "sunto": "Sulla risoluzione del gruppo +Europa, Magi e Della vedova n. 6-00225 , il parere è contrario sulle premesse e favorevole sugli impegni, previa riformulazione: dell'impegno 1), come di seguito: “a ribadire con fermezza, in tutte le sedi internazionali e in particolare all'interno delle…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 189,
    "url": "https://www.camera.it/leg19/410?idSeduta=0594&tipo=stenografico#sed0594.stenografico.tit00060.sub00050.int00280"
   },
@@ -819,7 +1121,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, voglio essere chiaro. Noi sosteniamo l'Ucraina perché è un Paese aggredito, perché il diritto internazionale riconosce il diritto all'autodifesa. Questa linea non è mai stata messa in discussione e non sarà messa in discussione dall'eliminazione di un aggettivo. Continueremo a fare ciò che possiamo fare, come l'abbiamo fatto fino ad oggi. […]",
+   "sunto": "Noi sosteniamo l'Ucraina perché è un Paese aggredito, perché il diritto internazionale riconosce il diritto all'autodifesa. […] Il nostro sostegno all'Ucraina - per concludere - non è fatto di slogan o retorica ma di atti concreti, coerenti, responsabili ed è esattamente questa coerenza che continuo a garantire dentro e fuori quest'Aula.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 342,
    "url": "https://www.camera.it/leg19/410?idSeduta=0603&tipo=stenografico#sed0603.stenografico.tit00070.sub00010.int00060"
   },
@@ -832,7 +1137,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come dico da tempo, viviamo una fase segnata dal ritorno alla competizione tra potenze, da conflitti ad alta intensità alle porte dell'Europa, da minacce ibride, cyber e tecnologiche che non conoscono confini nazionali e territoriali. In questo contesto la sicurezza non è più una variabile accessoria, è la condizione necessaria per garantire libertà e democrazia. […]",
+   "sunto": "Oggi conta oltre 215.000 militari professionisti, con un obiettivo dichiarato di superare le 500.000 unità negli anni, affiancando alle Forze armate un vasto programma di addestramento di civili e di riservisti.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 441,
    "url": "https://www.camera.it/leg19/410?idSeduta=0603&tipo=stenografico#sed0603.stenografico.tit00070.sub00020.int00040"
   },
@@ -845,7 +1153,8 @@
    "categoria": "Fiducia al Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2754-A ​: conversione in legge, con modificazioni, del decreto-legge 31 dicembre 2025, n. 201, nel testo approvato dalle Commissioni riunite.",
+   "sunto": "Onorevoli deputati, a nome del Governo e autorizzato dal Consiglio dei ministri pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 2754-A ​: conversione in legge, con modificazioni, del…",
+   "temi": [],
    "parole": 54,
    "url": "https://www.camera.it/leg19/410?idSeduta=0612&tipo=stenografico#sed0612.stenografico.tit00020.sub00020.int00020"
   },
@@ -858,7 +1167,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Come sapete, ho profondo rispetto per il Parlamento. Non considero il tema di porre la fiducia un modo per scappare dalla discussione degli emendamenti. È molto più forte porre il tema della fiducia rispetto a una discussione e a un voto sui singoli emendamenti, perché obbliga tutti i rappresentanti della maggioranza a dire se, su un tema politico così rilevante, continuano ad appoggiare il Governo. […]",
+   "sunto": "È molto più forte porre il tema della fiducia rispetto a una discussione e a un voto sui singoli emendamenti, perché obbliga tutti i rappresentanti della maggioranza a dire se, su un tema politico così rilevante, continuano ad appoggiare il Governo.",
+   "temi": [],
    "parole": 239,
    "url": "https://www.camera.it/leg19/410?idSeduta=0612&tipo=stenografico#sed0612.stenografico.tit00030.int00160"
   },
@@ -871,7 +1181,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli, onorevole. Osservo che l'interrogazione riguarda un disegno di legge su una materia che non rientra nelle specifiche competenze del Ministero della Difesa. Mi si chiede conto di ipotetiche regole d'ingaggio che discenderebbero da un disegno di legge che non è ancora stato presentato in Parlamento, non è ancora stato discusso in Parlamento, non è ancora approvato, quindi non è ancora leg […]",
+   "sunto": "Osservo che l'interrogazione riguarda un disegno di legge su una materia che non rientra nelle specifiche competenze del Ministero della Difesa. […] Mi si chiede conto di ipotetiche regole d'ingaggio che discenderebbero da un disegno di legge che non è ancora stato presentato in Parlamento, non è ancora stato discusso in Parlamento, non è ancora approvato, quindi non è ancora legge.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 156,
    "url": "https://www.camera.it/leg19/410?idSeduta=0618&tipo=stenografico#sed0618.stenografico.tit00090.sub00020.int00060"
   },
@@ -884,7 +1197,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli, l'interrogazione afferisce a un disegno di legge che non è ancora stato presentato al Parlamento ed è attualmente oggetto di approfondimento. Com'è noto agli interroganti, proprio il comitato strategico cui si fa riferimento ha il compito di elaborare gli elementi fondanti della riforma futura, lavorando alla definizione del nuovo modello di organizzazione ed impiego dello strumento mil […]",
+   "sunto": "Com'è noto agli interroganti, proprio il comitato strategico cui si fa riferimento ha il compito di elaborare gli elementi fondanti della riforma futura, lavorando alla definizione del nuovo modello di organizzazione ed impiego dello strumento militare quale base del successivo intervento normativo.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 269,
    "url": "https://www.camera.it/leg19/410?idSeduta=0618&tipo=stenografico#sed0618.stenografico.tit00090.sub00030.int00040"
   },
@@ -897,7 +1213,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, fornisco un aggiornamento rispetto a quanto già riferito alle Camere e in Commissione al Senato due giorni fa su quelle che sono le evoluzioni, soprattutto viste le domande che mi sono state fatte in relazione ai nostri contingenti nazionali. […]",
+   "sunto": "A Erbil, nel nord dell'Iraq, nella regione autonoma del Kurdistan, avevamo già agito prima dell'inizio del conflitto, operando una riduzione significativa e una dispersione del personale, facendo rientrare in Italia 102 militari e trasferendone in Giordania 75.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 2280,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00010.int00040"
   },
@@ -910,7 +1231,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, fatemi fare una premessa: io sono stato molti anni in questo Parlamento e tutte le volte che ero seduto nei banchi di maggioranza o all'opposizione ho sempre avuto lo stesso atteggiamento testimoniabile da chiunque sia stato qua con me, che è quello di cercare di mettermi nei panni dell'interlocutore, che si chiamasse Di Maio, che si chiamasse Conte, che si chiamasse Guerini, c […]",
+   "sunto": "Fatemi fare una premessa: io sono stato molti anni in questo Parlamento e tutte le volte che ero seduto nei banchi di maggioranza o all'opposizione ho sempre avuto lo stesso atteggiamento testimoniabile da chiunque sia stato qua con me, che è quello di cercare di mettermi nei panni…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 272,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00040.int00410"
   },
@@ -923,7 +1247,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Certo che è stata al di fuori delle regole del diritto internazionale … L'ha detto anche… Scusate, l'ha detto prima… L'ha detto prima… L'ha detto prima il Ministro Tajani, solo che volevate criticarlo (Proteste dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista, MoVimento 5 Stelle e Alleanza Verdi e Sinistra )… Sì! Però veramente… Sto facendo una riflessione. […]",
+   "sunto": "Certo che è stata al di fuori delle regole del diritto internazionale … L'ha detto anche… Scusate, l'ha detto prima… L'ha detto prima… L'ha detto prima il Ministro Tajani, solo che volevate criticarlo (Proteste dei deputati dei gruppi Partito Democratico-Italia Democratica e Progressista,…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 1303,
    "url": "https://www.camera.it/leg19/410?idSeduta=0627&tipo=stenografico#sed0627.stenografico.tit00020.sub00040.int00430"
   },
@@ -936,7 +1264,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, sono venuto qui per riferire in merito all'informativa urgente sugli accordi che regolano l'uso delle basi militari in Italia da parte delle Forze armate statunitensi e sulla loro applicazione da parte di questo Esecutivo e dei Governi precedenti. […]",
+   "sunto": "Di questi 525, 43 erano catalogati come hot cargo , cioè trasportavano materiale da trattare con cautela e armamento; 120 volte sono stati autorizzati al transito velivoli da combattimento degli Stati Uniti di quattro tipologie diverse; 35 volte sono transitati elicotteri.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 2503,
    "url": "https://www.camera.it/leg19/410?idSeduta=0639&tipo=stenografico#sed0639.stenografico.tit00030.sub00010.int00020"
   },
@@ -949,7 +1280,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Rosato. Nel merito del quesito posto appare opportuno preliminarmente richiamare il quadro generale entro il quale si collocano le recenti discussioni sviluppatesi in ambito NATO. Vado al punto. Attira l'attenzione il parametro del 5 per cento del PIL - anche i giornali di oggi ne sono pieni, tra l'altro. Occorre fare chiarezza di questo 5 per cento. […]",
+   "sunto": "Quindi, non si tratta di finanziamenti aggiuntivi e non si tratta di spese per capacità di difesa nazionale. […] Per questo impegno, l'Italia parte da un formale 2,09 per cento - valore sul quale tornerò a breve -, il che significa che si tratta di un impegno per un ulteriore 1,41 per cento da raggiungere nel 2035, senza ratei obbligati o fissi.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 604,
    "url": "https://www.camera.it/leg19/410?idSeduta=0664&tipo=stenografico#sed0664.stenografico.tit00100.sub00080.int00040"
   },
@@ -962,7 +1299,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli deputati, in via preliminare si evidenzia che sulla questione il Governo ha già fornito chiarimenti sia in sede parlamentare che in altre molteplici occasioni. La prima è nella seduta della Camera dei deputati del 15 aprile 2026. […]",
+   "sunto": "Rispondendo a un quesito dell'onorevole Grimaldi sullo stesso argomento, il Ministro per i Rapporti con il Parlamento, Luca Ciriani, ha precisato che il Ministero Difesa, d'intesa con il Presidente del Consiglio e con il Ministro degli Affari esteri e della cooperazione internazionale, ha…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 347,
    "url": "https://www.camera.it/leg19/410?idSeduta=0664&tipo=stenografico#sed0664.stenografico.tit00100.sub00090.int00080"
   },
@@ -975,7 +1315,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie per la domanda. È difficilissimo, nell'epoca in cui viviamo, garantire la sicurezza e la difesa di un Paese. Diventa ogni giorno più difficile. Sono cambiate profondamente le minacce, è cambiato il modo stesso di concepire la difesa. Lo schema di difesa che era stato ipotizzato fino a dieci anni fa, fino a cinque anni fa, è cambiato profondamente negli ultimi anni. […]",
+   "sunto": "È difficilissimo, nell'epoca in cui viviamo, garantire la sicurezza e la difesa di un Paese. […] Non penso che esista un solo cittadino romano… mi capita spesso di passare in alcuni quartieri e di vedere le finestre con le inferriate: nessuno di quei cittadini ha investito nelle inferriate; ha investito nella difesa della propria famiglia, nella sicurezza della propria famiglia.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 991,
    "url": "https://www.camera.it/leg19/410?idSeduta=0664&tipo=stenografico#sed0664.stenografico.tit00100.sub00100.int00040"
   },
@@ -988,7 +1333,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Rosato, la risposta per quanto riguarda il Ministero della Difesa e il Ministro della Difesa è molto chiara. È stato predisposto tutto ciò che serve per affrontare i tempi e gli impegni che noi abbiamo preso in ambito NATO con i nostri alleati. […]",
+   "sunto": "Tuttavia il Ministro della Difesa e il Ministero della Difesa si fermano qui: come ripeto tutte le volte, la scelta di aderire o non aderire alla SAFE non è una decisione che può prendere il Ministro della Difesa. […] Per ora, ripeto, la difesa è pronta e ha ben chiaro cos'è necessario da costruire non per il mandato di Guido Crosetto come Ministro della Difesa, ma per la difesa del Paese nei prossimi decenni.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 381,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00050.int00040"
   },
@@ -1001,7 +1349,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Sarà probabilmente la più breve della storia delle interrogazioni. Non ho preso nessun impegno. I Ministri della Difesa non prendono impegni, li prendono i Governi e semmai i Parlamenti e sul PURL la risposta è sempre la stessa: noi abbiamo detto di “no” dall'inizio e continua a essere “no”.",
+   "sunto": "Sarà probabilmente la più breve della storia delle interrogazioni. […] I Ministri della Difesa non prendono impegni, li prendono i Governi e semmai i Parlamenti e sul PURL la risposta è sempre la stessa: noi abbiamo detto di “no” dall'inizio e continua a essere “no”.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 51,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00060.int00040"
   },
@@ -1014,7 +1365,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Mi scuso in precedenza, oggi sembro cattivo, ma mi disegnano così, non lo sono. La materia oggetto del quesito non attiene ai compiti militari dell'Arma dei carabinieri. Ricordo che, ai sensi dell'articolo 162 del codice dell'ordinamento militare, l'Arma dei carabinieri dipende dal Ministero della Difesa per quanto riguarda compiti militari ed è funzionalmente dipendente dal Ministero dell'Interno […]",
+   "sunto": "Ricordo che, ai sensi dell'articolo 162 del codice dell'ordinamento militare, l'Arma dei carabinieri dipende dal Ministero della Difesa per quanto riguarda compiti militari ed è funzionalmente dipendente dal Ministero dell'Interno per l'esercizio delle funzioni di tutela dell'ordine e della…",
+   "temi": [
+    "Esteri e difesa",
+    "Sicurezza e criminalità"
+   ],
    "parole": 123,
    "url": "https://www.camera.it/leg19/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00050.sub00070.int00040"
   },
@@ -1027,7 +1382,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro della Difesa",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. No, nessuno sostiene alcuna guerra, lei lo sa perfettamente. Voglio essere netto su un punto perché è il presupposto di tutto ciò che dirò: la presenza dei nostri militari nell'area poggia su un quadro giuridico chiaro e un percorso parlamentare totalmente trasparente. […]",
+   "sunto": "Cito un passaggio dell'audizione del Capo di Stato maggiore della difesa: Fornitura di aiuti difensivi a favore dei Paesi coinvolti dagli attacchi iraniani e nello specifico Arabia Saudita, Kuwait, Emirati Arabi Uniti, Qatar, Bahrein, che hanno chiesto a Paesi amici, tra cui l'Italia, supporto…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 655,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00080.int00040"
   }

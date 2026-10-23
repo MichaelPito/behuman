@@ -214,3 +214,16 @@ def raccogli(persone: set[str], dal: str, max_nuove: int | None = None, gia_lett
             n += 1
     log.info("Stenografici: %d interventi delle persone monitorate (%d sedute nuove scaricate)", len(out), nuove)
     return out, lette
+
+
+def sedute_in_cache():
+    """Tutte le sedute già scaricate (tutti gli oratori), senza rete."""
+    viste = set()
+    for p in sorted((CACHE_DIR / "steno").glob("*.json*")):
+        m = re.match(r"(\d+)_(\d+)\.json", p.name)
+        if not m or (int(m.group(1)), int(m.group(2))) in viste:
+            continue
+        viste.add((int(m.group(1)), int(m.group(2))))
+        d = _leggi_cache(int(m.group(1)), int(m.group(2)))
+        if d and d.get("data"):
+            yield d

@@ -109,9 +109,145 @@
     "fonte": "Camera",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 28
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 26
+   },
+   {
+    "tema": "Unione europea",
+    "n": 24
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 18
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 17
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 16
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 12
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 8
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 5
+   },
+   {
+    "tema": "Sanità",
+    "n": 3
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 3
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 1
+   }
+  ],
+  "temi_per_anno": {
+   "2021": [
+    {
+     "tema": "Unione europea",
+     "n": 2
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 1
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 1
+    }
+   ],
+   "2022": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 6
+    },
+    {
+     "tema": "Fisco e tasse",
+     "n": 4
+    },
+    {
+     "tema": "Ambiente e clima",
+     "n": 3
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Energia e carburanti",
+     "n": 3
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 3
+    },
+    {
+     "tema": "Casa e infrastrutture",
+     "n": 3
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Fisco e tasse",
+     "n": 9
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 7
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 5
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 8
+    },
+    {
+     "tema": "Unione europea",
+     "n": 6
+    },
+    {
+     "tema": "Fisco e tasse",
+     "n": 6
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Unione europea",
+     "n": 10
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 8
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 8
+    }
+   ]
+  }
  },
- "recap": "Dal 24 novembre 2021 al 13 ottobre 2026: 119 interventi nell'Aula della Camera (55.647 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Question time» (109 interventi).",
+ "recap": "Dal 24 novembre 2021 al 13 ottobre 2026: 119 interventi nell'Aula della Camera (55.647 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: economia e conti pubblici (28), fisco e tasse (26), unione europea (24). In Aula alla Camera l'occasione più frequente è «Question time» (109 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -144,7 +280,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie ai colleghi interroganti. Il question time in parola verte, in particolare, sul cosiddetto ecobonus auto, previsto originariamente dalla legge n. 145 del 2018 al fine di incentivare l'acquisto di veicoli a basse emissioni di CO2. […]",
+   "sunto": "Quindi, qui cominciamo in qualche modo a comprendere che si tratta di una misura dichiaratamente rivolta alla riduzione delle emissioni inquinanti e in qualche modo parzialmente impattante sul sistema produttivo nazionale e su tutto il settore dell' automotive .",
+   "temi": [
+    "Economia e conti pubblici",
+    "Ambiente e clima"
+   ],
    "parole": 640,
    "url": "https://www.camera.it/leg18/410?idSeduta=0602&tipo=stenografico#sed0602.stenografico.tit00010.sub00040.int00040"
   },
@@ -157,7 +297,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie collega. Allora, con riferimento al gruppo Stellantis, come ho avuto modo di ribadire in diverse sedi, l'impegno del Ministro dello Sviluppo economico è massimo per garantire la continuità produttiva sul territorio nazionale. […]",
+   "sunto": "In particolare, in occasione dell'incontro dell'11 ottobre scorso, l'azienda ha presentato il piano sul distretto di Torino, che diventerà il centro strategico del processo di elettrificazione del gruppo, dove, insieme agli investimenti di sviluppo, tecnologia e formazione, si realizzeranno i…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 474,
    "url": "https://www.camera.it/leg18/410?idSeduta=0602&tipo=stenografico#sed0602.stenografico.tit00010.sub00050.int00040"
   },
@@ -170,7 +313,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il collega Fassina pone un tema di grande interesse, di grande delicatezza, come osservato, trattandosi di società quotata, e di grande complessità. Quello che posso dire oggi, in quest'Aula, è che, al momento, siamo in presenza di una manifestazione di interesse; non si tratta, quindi, di un'offerta vincolante. […]",
+   "sunto": "Il collega Fassina pone un tema di grande interesse, di grande delicatezza, come osservato, trattandosi di società quotata, e di grande complessità.",
+   "temi": [],
    "parole": 456,
    "url": "https://www.camera.it/leg18/410?idSeduta=0602&tipo=stenografico#sed0602.stenografico.tit00010.sub00060.int00040"
   },
@@ -183,7 +327,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Come è noto, in data 19 novembre 2021, KKR, operatore internazionale di private equity con sede a New York, ha formalizzato al consiglio di amministrazione di TIM una manifestazione d'interesse volta a valutare un'offerta pubblica di acquisto su TIM e, in data 21 novembre, il Governo, prendendo atto dell'interesse manifestato da KKR, ha costituito un gruppo di lavoro per seguire i diversi aspetti […]",
+   "sunto": "Cassa depositi e prestiti è entrata nel capitale di TIM nell'aprile del 2018, acquisendo una quota di circa il 5 per cento, tramite acquisti sul mercato e, a marzo del 2019, Cassa depositi e prestiti ha incrementato la propria quota in TIM a circa il 10 per cento del capitale, sempre tramite…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Casa e infrastrutture"
+   ],
    "parole": 1829,
    "url": "https://www.camera.it/leg18/410?idSeduta=0608&tipo=stenografico#sed0608.stenografico.tit00090.sub00010.int00020"
   },
@@ -196,7 +345,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Polverini, come ricordato con l'atto in discussione, uno dei numerosi strumenti messi in campo per far fronte alle crisi d'impresa del Paese è l'istituzione, presso il MiSE, della struttura per la crisi di impresa, prevista per garantire, in forma di cooperazione organica con il Ministero del Lavoro e delle politiche sociali, le regioni, gli enti locali, le organizzazioni sindaca […]",
+   "sunto": "Posso aggiungere che i dati relativi al numero dei tavoli di crisi saranno oggetto anche di un apposito report che la struttura sta redigendo ai sensi dell'articolo 5 della direttiva 14 ottobre 2021 che ho emanato e che, appunto, richiede in modo puntuale l'esito delle riunioni con una cadenza…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 420,
    "url": "https://www.camera.it/leg18/410?idSeduta=0620&tipo=stenografico#sed0620.stenografico.tit00030.sub00090.int00040"
   },
@@ -209,7 +361,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole De Lorenzo, con il question time viene descritta la situazione occupazionale dello stabilimento della Pfizer di Catania specializzato nella produzione di antibiotici parenterali di prima linea per uso ospedaliero, penicillinici e non penicillinici. […]",
+   "sunto": "Ciò premesso, voglio ricordare che quando mi sono insediato al Ministero dello Sviluppo economico ho cercato di mettere ordine nella gestione delle attività relative alle crisi aziendali sia dotando la struttura che gestisce le citate crisi con competenze professionali qualificate, al fine di…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 387,
    "url": "https://www.camera.it/leg18/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00090.sub00050.int00040"
   },
@@ -222,7 +377,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente, grazie onorevole Vallascas. Il tema ovviamente alimenta preoccupazione crescente, anche in relazione al protrarsi della situazione di crisi e delle sue evoluzioni prospettiche. Oltre ai rincari di energia e carburanti, dobbiamo registrare anche i rincari delle materie prime in generale, registrati sul mercato globale, che hanno avuto un impatto rilevante sui costi complessivi delle imprese nonché […]",
+   "sunto": "Ricordo: il decreto-legge n. 130 del 2021, che ha consentito di mitigare l'impatto dei rialzi, contenendo gli effetti dell'aumento dei prezzi all'ingrosso; l'istituzione del Fondo per il sostegno alla transizione industriale (articolo 1, comma 478, della legge di bilancio); il “decreto-legge…",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti"
+   ],
    "parole": 503,
    "url": "https://www.camera.it/leg18/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00090.sub00060.int00040"
   },
@@ -235,7 +394,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, anche all'onorevole Sut, con cui c'è un fitto scambio di corrispondenza sul tema. Naturalmente, il decreto non è un decreto del Ministro dello Sviluppo economico, ma è un decreto del Presidente del Consiglio dei Ministri, dove c'è stato il concerto, faticosamente raggiunto, di quattro Ministeri. […]",
+   "sunto": "Proprio in riscontro di uno dei quesiti degli interroganti, è in tal senso possibile osservare che il limite di 35 mila euro, IVA esclusa, sui prezzi di vendita delle auto elettriche per le quali è possibile fruire dell'incentivo ha lo scopo di ampliare quanto più possibile la platea degli…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 732,
    "url": "https://www.camera.it/leg18/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00090.sub00070.int00040"
   },
@@ -248,7 +410,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole D'Alessandro, come è noto i componenti elettronici e i semiconduttori, i cosiddetti microchip , sono essenziali in moltissimi settori produttivi - telefonia, informatica, trasporti, macchinari industriale, difesa, eccetera - e la loro carenza ha un impatto trasversale sul sistema produttivo nazionale ed europeo. […]",
+   "sunto": "Stiamo parlando in totale di circa 2,2 miliardi di euro destinati dal Ministero dello Sviluppo economico al sostegno della competitività delle filiere industriali strategiche del Paese, che è tra le priorità indicate dal Piano nazionale di ripresa e resilienza.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 815,
    "url": "https://www.camera.it/leg18/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00090.sub00080.int00040"
   },
@@ -261,7 +428,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e grazie della solidarietà, onorevole D'Ettore. Lei ha posto il tema dell'intelligenza artificiale e dell'utilizzo della blockchain . Al riguardo, informo che, nell'ambito di competenza, con decreto ministeriale del 24 marzo, sono stati assegnati i primi finanziamenti al partenariato di imprese e centri di ricerca promosso nell'ambito dell'iniziativa Key Digital Technologies Joint Undertaking, di c […]",
+   "sunto": "Lei ha posto il tema dell'intelligenza artificiale e dell'utilizzo della blockchain . […] Come ho già avuto modo di sottolineare presso gli Stati Generali 2022 dell'Intelligenza Artificiale, il Governo ha finanziato complessivamente 15 progetti su intelligenza artificiale e blockchain , per 73 milioni di euro.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 694,
    "url": "https://www.camera.it/leg18/410?idSeduta=0677&tipo=stenografico#sed0677.stenografico.tit00090.sub00090.int00040"
   },
@@ -274,7 +444,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie. Onorevole Bonomo, il Governo ritiene l' automotive un settore strategico per il Paese e, come è stato ricordato nell'interrogazione, abbiamo dotato di 700 milioni di euro e di un miliardo di euro ciascuno gli anni dal 2023 al 2050, somme destinate al settore per la transizione verde, la ricerca e gli investimenti nella filiera del settore dell' automotive e finalizzate all'insediamento, riconversione e riqual […]",
+   "sunto": "Onorevole Bonomo, il Governo ritiene l' automotive un settore strategico per il Paese e, come è stato ricordato nell'interrogazione, abbiamo dotato di 700 milioni di euro e di un miliardo di euro ciascuno gli anni dal 2023 al 2050, somme destinate al settore per la transizione verde, la ricerca…",
+   "temi": [],
    "parole": 386,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00050.sub00020.int00040"
   },
@@ -287,7 +458,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'onorevole Fornaro pone l'attenzione sulla dinamica dei prezzi del carburante, che, ovviamente, interessa numerosissimi cittadini, anche operatori economici. Come è stato ricordato, il prezzo è liberalizzato, quindi la dinamica spetta al mercato, però spetta al Governo e, in particolare, al Ministero dello Sviluppo economico valutare e monitorare l'andamento dei prezzi al fine di prevenire eventu […]",
+   "sunto": "L'onorevole Fornaro pone l'attenzione sulla dinamica dei prezzi del carburante, che, ovviamente, interessa numerosissimi cittadini, anche operatori economici.",
+   "temi": [
+    "Fisco e tasse",
+    "Energia e carburanti"
+   ],
    "parole": 331,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00050.sub00030.int00040"
   },
@@ -300,7 +475,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie onorevoli colleghi. Il tema delle delocalizzazioni, secondo me, va inquadrato nell'esatta prospettiva. Anche i casi ricordati sono diversi tra di loro. L'unico comune denominatore è il fatto che qui non si tratta di casi di crisi aziendale conclamata, ma di opportunità - tra virgolette - da parte dell'azienda di ridimensionare o chiudere dei siti produttivi. […]",
+   "sunto": "In altri casi, come Pfizer - in cui la questione non è regionale perché l'ha deciso il Ministero dello Sviluppo economico -, semplicemente, la gestione della crisi parte secondo le procedure a livello regionale, potrà arrivare a livello nazionale, ma, in quel caso, la motivazione è la scadenza…",
+   "temi": [],
    "parole": 361,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00050.sub00040.int00040"
   },
@@ -313,7 +489,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico.",
    "gruppo": null,
-   "estratto": "Grazie, onorevole Presidente. Onorevole Battilocchio, lei ha ricordato la vicenda delle centrali elettriche site nei territori di Civitavecchia e Brindisi, destinate alla chiusura entro il 2025, in coerenza con il Piano nazionale integrato per l'energia e il clima 2030. […]",
+   "sunto": "Tra gli strumenti che ritengo maggiormente funzionali allo scopo, metto ai primi posti gli IPCEI, gli importanti progetti di comune interesse europeo che consentono di agevolare i soggetti interessati allo sviluppo di progetti di rilevanza tecnologica e di innovazione a livello europeo.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 413,
    "url": "https://www.camera.it/leg18/410?idSeduta=0679&tipo=stenografico#sed0679.stenografico.tit00050.sub00050.int00040"
   },
@@ -326,7 +505,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente e onorevoli colleghi. Con riferimento alla piattaforma informatica “Incentivi.Gov”, il suo obiettivo primario è quello di migliorare la trasparenza, la comprensione e le procedure di accesso e di erogazione degli incentivi di cui le imprese possono beneficiare, soprattutto in un momento storico di grande incertezza, come quello attuale. […]",
+   "sunto": "Con riferimento alla piattaforma informatica “Incentivi.Gov”, il suo obiettivo primario è quello di migliorare la trasparenza, la comprensione e le procedure di accesso e di erogazione degli incentivi di cui le imprese possono beneficiare, soprattutto in un momento storico di grande incertezza,…",
+   "temi": [],
    "parole": 594,
    "url": "https://www.camera.it/leg18/410?idSeduta=0696&tipo=stenografico#sed0696.stenografico.tit00090.sub00020.int00040"
   },
@@ -339,7 +519,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'industria automotive in cui opera il gruppo Stellantis è considerata una delle industrie strategiche per l'economia nazionale e il Governo sta ponendo in essere tutti gli sforzi necessari per sostenerla in questo difficile periodo storico caratterizzato da gravi difficoltà dovute alla crisi pandemica, all'aumento dei costi energetici e all'approvvigionamento, in particolare nell'industria automo […]",
+   "sunto": "L'industria automotive in cui opera il gruppo Stellantis è considerata una delle industrie strategiche per l'economia nazionale e il Governo sta ponendo in essere tutti gli sforzi necessari per sostenerla in questo difficile periodo storico caratterizzato da gravi difficoltà dovute alla crisi…",
+   "temi": [],
    "parole": 615,
    "url": "https://www.camera.it/leg18/410?idSeduta=0696&tipo=stenografico#sed0696.stenografico.tit00090.sub00030.int00040"
   },
@@ -352,7 +533,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Fornaro, come giustamente lei ha ricordato, in occasione di un precedente question-time abbiamo già trattato questo argomento, il 20 aprile. Nel frattempo è stato approvato il decreto-legge che ha fornito il Garante per la sorveglianza dei prezzi, costituito presso il Ministero dello Sviluppo economico, di un'apposita unità di missione, che è in fase di costituzione e di reclutamento del […]",
+   "sunto": "Questo incremento che stiamo verificando da qualche settimana è imputabile principalmente all'aumento della quotazione internazionale del prodotto raffinato e, di conseguenza, al margine di raffinazione, che è più che raddoppiato rispetto a metà aprile e più che quadruplicato rispetto all'inizio…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 538,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00060.sub00030.int00040"
   },
@@ -365,7 +549,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Romano, sulla tematica di Piombino si premette che lo stabilimento si trovava in uno stato di prolungata inerzia già prima dell'acquisizione da parte di Jindal e che il presupposto dell'accordo del 2018 sono proprio le difficoltà sperimentate nella realizzazione del piano industriale. […]",
+   "sunto": "Onorevole Romano, sulla tematica di Piombino si premette che lo stabilimento si trovava in uno stato di prolungata inerzia già prima dell'acquisizione da parte di Jindal e che il presupposto dell'accordo del 2018 sono proprio le difficoltà sperimentate nella realizzazione del piano industriale.",
+   "temi": [],
    "parole": 632,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00060.sub00040.int00040"
   },
@@ -378,7 +563,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il tema del rilancio produttivo di questo sito siderurgico è fondamentale sia per l'Italia che per l'Europa, tanto più in questi tempi. Come ho già avuto modo di riferire in quest'Aula, la questione richiamata è complessa e, a livello governativo, ha come soggetto principalmente competente, per quanto riguarda la decarbonizzazione, il Ministero della Transizione ecologica. […]",
+   "sunto": "Tra gli obiettivi vi è un piano di interventi ambientali e industriali di circa 1,7 miliardi di euro fino al 2026 per la progressiva decarbonizzazione della produzione e l'assorbimento dei lavoratori impegnati negli stabilimenti del gruppo.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 526,
    "url": "https://www.camera.it/leg18/410?idSeduta=0712&tipo=stenografico#sed0712.stenografico.tit00060.sub00050.int00040"
   },
@@ -391,7 +579,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dello Sviluppo economico",
    "gruppo": null,
-   "estratto": "Grazie Presidente, grazie onorevole Timbro. Come ho già avuto modo di sottolineare in occasione di un precedente question time, il settore della chimica riveste un carattere strategico per il sistema Paese. Tengo a precisare di avere istituito un apposito tavolo, presso il Ministero dello Sviluppo economico, volto a fare il punto sulle principali questioni legate alla chimica nazionale e a creare un confronto con gli […]",
+   "sunto": "In particolare, l'ENI ha annunciato che il piano di trasformazione di tale sito prevede una serie di investimenti, per un totale di 500 milioni di euro, che hanno l'obiettivo di accelerare la transizione energetica e lo sviluppo della chimica da economia circolare e che permetterà di assicurare…",
+   "temi": [
+    "Esteri e difesa",
+    "Ambiente e clima"
+   ],
    "parole": 650,
    "url": "https://www.camera.it/leg18/410?idSeduta=0720&tipo=stenografico#sed0720.stenografico.tit00090.sub00050.int00040"
   },
@@ -404,7 +596,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, come è noto il Meccanismo europeo di stabilità è stato previsto quale strumento di salvaguardia della stabilità finanziaria della zona euro nel suo complesso e di sostegno alla stabilità dei Paesi aderenti all'Unione europea che dovessero trovarsi in gravi difficoltà finanziarie. […]",
+   "sunto": "Come è noto il Meccanismo europeo di stabilità è stato previsto quale strumento di salvaguardia della stabilità finanziaria della zona euro nel suo complesso e di sostegno alla stabilità dei Paesi aderenti all'Unione europea che dovessero trovarsi in gravi difficoltà finanziarie.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 507,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00030.int00040"
   },
@@ -417,7 +612,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Fenu, con riferimento alla richiesta di conoscere l'ammontare dei crediti fiscali incagliati e quali iniziative urgenti il Ministro intenda adottare per rimuovere gli ostacoli che limitano l'accesso alla detrazione fiscale del cosiddetto superbonus, nella forma della cessione del credito, mi preme, in primo luogo, ricordare che, seppure tale misura si sia rilevata uno strumento utile a co […]",
+   "sunto": "Per quanto concerne, infine, la richiesta di conoscere quale sia l'ammontare dei crediti fiscali incagliati, mi corre l'obbligo di precisare che l'Agenzia delle entrate conosce l'ammontare dei crediti, ma non è in grado di stabilire i motivi in base ai quali i contribuenti abbiano deciso di…",
+   "temi": [
+    "Fisco e tasse",
+    "Casa e infrastrutture"
+   ],
    "parole": 484,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00040.int00040"
   },
@@ -430,7 +629,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole De Bertoldi, il cuneo fiscale, ovvero la somma delle imposte dirette e indirette dei contributi previdenziali, è nel nostro Paese ancora molto alto, con conseguenze pregiudizievoli per i lavoratori dipendenti, autonomi e liberi professionisti, nonché fattore determinante della perdita di competitività delle nostre aziende. […]",
+   "sunto": "Basti pensare che, a titolo indicativo, la riduzione di un punto percentuale del cuneo contributivo dei dipendenti pubblici e privati, al netto degli effetti fiscali, vale circa 3,5 miliardi, e che la riduzione di un punto sull'aliquota media di prelievo Irpef dei dipendenti pubblici e privati…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00050.int00040"
   },
@@ -443,7 +647,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Pastorino, con riferimento al quesito posto, con il quale si chiede al Governo come intenda intervenire a tutela e salvaguardia delle attività sportive e ricreative legate alle tradizioni locali, svolte in forma singola o associata senza scopo di lucro, nonché a sostegno delle attività con fini di interesse pubblico, individuate e deliberate dagli enti locali territorialmente comp […]",
+   "sunto": "Onorevole Pastorino, con riferimento al quesito posto, con il quale si chiede al Governo come intenda intervenire a tutela e salvaguardia delle attività sportive e ricreative legate alle tradizioni locali, svolte in forma singola o associata senza scopo di lucro, nonché a sostegno delle attività…",
+   "temi": [],
    "parole": 303,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00060.int00040"
   },
@@ -456,7 +661,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, con riferimento alla questione della progressiva chiusura degli sportelli bancari in alcune aree del Paese si evidenzia che tale fenomeno, riguardante peraltro tutto il territorio europeo, ha diverse cause, tra le quali vanno annoverate le mutate strategie industriali di contenimento dei costi intermediari, nonché la progressiva digitalizzazione del mercato bancario e finanziari […]",
+   "sunto": "Tuttavia, tenuto conto delle possibili difficoltà di accesso delle fasce più deboli della popolazione, il Ministero dell'Economia e delle finanze, unitamente alla Banca d'Italia e alle altre amministrazioni competenti, sta valutando alcune possibili proposte per limitare, nel rispetto delle…",
+   "temi": [],
    "parole": 363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00070.int00040"
   },
@@ -469,7 +675,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Grimaldi, con riferimento al quesito posto dagli onorevoli interroganti in merito alle entrate connesse al contributo, a titolo di prelievo straordinario, posto a carico di produttori, importatori e rivenditori di energia elettrica e di gas, nonché di prodotti petroliferi, ai sensi del decreto-legge n. […]",
+   "sunto": "Onorevole Grimaldi, con riferimento al quesito posto dagli onorevoli interroganti in merito alle entrate connesse al contributo, a titolo di prelievo straordinario, posto a carico di produttori, importatori e rivenditori di energia elettrica e di gas, nonché di prodotti petroliferi, ai sensi del…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 378,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00080.int00040"
   },
@@ -482,7 +691,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Presidente, onorevole Sala, le disposizioni in materia di payback si inseriscono nel contesto della normativa consolidata, che nel settore sanitario ha introdotto specifici parametri di governo delle principali aree della spesa, tali da garantire un efficiente utilizzo delle risorse ed evitare distorsioni nell'erogazione dei livelli essenziali di assistenza, assicurando l'effettività e l'universalità del diritto alla […]",
+   "sunto": "Nello specifico settore dei dispositivi medici, l'articolo 17 del decreto-legge n. 98 del 2011 e l'articolo 15, comma 13, del decreto-legge n. 95 del 2012 hanno introdotto un tetto di spesa a livello nazionale.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 411,
    "url": "https://www.camera.it/leg19/410?idSeduta=0025&tipo=stenografico#sed0025.stenografico.tit00080.sub00090.int00040"
   },
@@ -495,7 +707,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 889-A/R: Conversione in legge, con modificazioni, del decreto-legge 16 febbraio 2023, n. […]",
+   "sunto": "Onorevoli deputati, a nome del Governo, autorizzato dal Consiglio dei ministri, pongo la questione di fiducia sull'approvazione, senza emendamenti, subemendamenti e articoli aggiuntivi, dell'articolo unico del disegno di legge n. 889-A/R: Conversione in legge, con modificazioni, del…",
+   "temi": [],
    "parole": 86,
    "url": "https://www.camera.it/leg19/410?idSeduta=0078&tipo=stenografico#sed0078.stenografico.tit00050.sub00040.int00020"
   },
@@ -508,7 +721,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Premetto che sono sempre venuto in Parlamento quando il Parlamento me l'ha chiesto, come prevede il Regolamento. Ho un grande rispetto per il Parlamento e non l'ho vista quando sono andato a spiegare il DEF in audizione al Senato, le avrei potuto spiegare la vicenda del buco del superbonus. […]",
+   "sunto": "Infine, è stata ripristinata per le categorie di soggetti più vulnerabili la norma del 2012 che permette di trasformare il mutuo ipotecario da tasso variabile a tasso fisso, al fine di attenuare l'impatto degli aumenti dei tassi di interesse sui mutui a tasso variabile.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 484,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00020.int00040"
   },
@@ -521,7 +740,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Sì, signor Presidente. Onorevole Bonelli, con riferimento al quesito posto - che non è nuovo, ricordo la precedente interrogazione - connesso al contributo a titolo di prelievo straordinario posto a carico di produttori importatori e rivenditori di energia elettrica e di gas, nonché di prodotti petroliferi previsto dal decreto-legge n. […]",
+   "sunto": "Onorevole Bonelli, con riferimento al quesito posto - che non è nuovo, ricordo la precedente interrogazione - connesso al contributo a titolo di prelievo straordinario posto a carico di produttori importatori e rivenditori di energia elettrica e di gas, nonché di prodotti petroliferi previsto…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 215,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00030.int00040"
   },
@@ -534,7 +756,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Faraone, il Governo, nel Documento di economia e finanza, ha confermato la volontà di potenziare i servizi educativi per l'infanzia, promuovere iniziative di conciliazione dei tempi lavoro-famiglia, incrementare i congedi parentali anche attuando la legge n. 32 del 2022. […]",
+   "sunto": "Va in questa direzione l'ultima legge di bilancio, che prevede un aumento dell'importo dell'indennità di congedo parentale dal 30 all'80 per cento per un mese, da utilizzare entro il sesto anno di vita del bambino.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità"
+   ],
    "parole": 369,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00040.int00040"
   },
@@ -547,7 +774,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze.",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Pastorino, la vicenda effettivamente è stata già trattata. Io voglio semplicemente ricordare che, in tema di canone minimo demaniale marittimo, l'articolo 100 del decreto-legge n. 104 del 14 agosto 2020 ha stabilito che, a partire dal 1° gennaio 2021, l'importo annuo del canone dovuto, quale corrispettivo dell'autorizzazione di aree di pertinenza demaniale marittima, non può essere infer […]",
+   "sunto": "Quindi, solo per il 2021, ai sensi dell'articolo 6- bis del decreto-legge n. 73 del 2021, è stato previsto che tale importo, nel caso in cui l'utilizzo dei beni demaniali avvenga per attività sportive e ricreative legate a tradizioni locali, svolte in forma singola o associata, senza scopi di…",
+   "temi": [],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00050.int00040"
   },
@@ -560,7 +788,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze.",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Bicchielli, ritengo che gli episodi di crisi registratisi negli USA e in Svizzera rappresentino elementi legati alle caratteristiche specifiche degli intermediari coinvolti, non sintomatici dello stato di salute del sistema bancario italiano. […]",
+   "sunto": "Onorevole Bicchielli, ritengo che gli episodi di crisi registratisi negli USA e in Svizzera rappresentino elementi legati alle caratteristiche specifiche degli intermediari coinvolti, non sintomatici dello stato di salute del sistema bancario italiano.",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00050.sub00060.int00040"
   },
@@ -573,7 +802,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, in primo luogo, in relazione alle premesse formulate dagli interroganti in merito all'impatto macroeconomico positivo dell'agevolazione in esame, occorre precisare che se anche diverse istituzioni, associazioni e centri di ricerca hanno rilevato il carattere espansivo del superbonus e delle altre misure di incentivazione edilizia, gli stessi studi hanno sottolineato come le valu […]",
+   "sunto": "In primo luogo, in relazione alle premesse formulate dagli interroganti in merito all'impatto macroeconomico positivo dell'agevolazione in esame, occorre precisare che se anche diverse istituzioni, associazioni e centri di ricerca hanno rilevato il carattere espansivo del superbonus e delle…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0161&tipo=stenografico#sed0161.stenografico.tit00110.sub00010.int00040"
   },
@@ -586,7 +818,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Boschi, prima di tutto è utile ricordare quanto negli anni scorsi è stato stigmatizzato dalla Corte costituzionale, con la sentenza n. 30 del 2015, in ordine al susseguirsi di norme che hanno sospeso prolungatamente la contrattazione collettiva. Sottolineo, invece, come il Governo, sin dal suo insediamento, abbia dato impulso alle trattative per avviare la stagione dei rinnovi. […]",
+   "sunto": "Nello specifico, a novembre 2022 sono stati conclusi quelli relativi ai comparti sanità, scuola ed enti locali, con un investimento di quasi 3,7 miliardi di euro destinati a circa 2 milioni di dipendenti pubblici, pari all'84 per cento del personale coperto dalla contrattazione nazionale.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Scuola e università"
+   ],
    "parole": 268,
    "url": "https://www.camera.it/leg19/410?idSeduta=0167&tipo=stenografico#sed0167.stenografico.tit00030.sub00010.int00040"
   },
@@ -599,7 +836,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, confermo che il Governo continua a monitorare con attenzione sia le decisioni prese dalle istituzioni europee sui tassi d'interesse sia l'andamento dei prezzi al fine di adottare eventuali interventi di sostegno per le famiglie più svantaggiate e garantire la competitività delle imprese. […]",
+   "sunto": "Sempre a tutela del potere di acquisto delle famiglie, con il decreto-legge approvato lo scorso 25 settembre sono stati prorogati, sino a fine anno, la riduzione delle bollette dell'energia elettrica e del gas a favore dei nuclei familiari economicamente più disagiati o con componenti in…",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 407,
    "url": "https://www.camera.it/leg19/410?idSeduta=0167&tipo=stenografico#sed0167.stenografico.tit00030.sub00020.int00040"
   },
@@ -612,7 +854,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Borrelli, preliminarmente posso rispondere sulle cose che fa il Governo, non su notizie che appaiono sui giornali ma che il Governo non ha adottato e che probabilmente non ha neanche intenzione di adottare. […]",
+   "sunto": "Ai fini dell'applicazione della disposizione, infatti, è decisiva la distinzione tra l'atto di constatazione e la contestazione delle violazioni degli obblighi in materia di certificazione dei corrispettivi.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 276,
    "url": "https://www.camera.it/leg19/410?idSeduta=0167&tipo=stenografico#sed0167.stenografico.tit00030.sub00030.int00040"
   },
@@ -625,7 +870,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signora Presidente. Grazie, onorevole Marattin. Nell'interrogazione si richiama il dettato dell'articolo 6 del decreto-legge n. 23 del 2020, che reca previsioni di favore per le società in ragione della crisi economica connessa alla diffusione del COVID. […]",
+   "sunto": "In particolare, quest'articolo, nell'attuale formulazione, dispone che la riduzione del capitale, prevista dagli articoli 2446, 2447, 2482- bis e 2482- ter del codice civile, possa essere rinviata, in relazione alle perdite emerse nell'esercizio in corso proprio alla data del 31 dicembre 2022,…",
+   "temi": [],
    "parole": 365,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00010.int00040"
   },
@@ -638,7 +884,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, in riferimento al quesito posto, tengo a precisare che, lo scorso 25 gennaio, il Consiglio dei ministri, in conformità a quanto previsto dalla normativa in materia di privatizzazioni di cui al decreto-legge n. […]",
+   "sunto": "In particolare, relativamente a Poste italiane, la quota di partecipazione del MEF e della Cassa depositi e prestiti è pari, complessivamente, al 64,26 per cento (il 35 per cento detenuto da CDP e il 29,26 per cento dal Ministero), mentre la restante quota è detenuta dal mercato (35,74 per cento).",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00050.int00040"
   },
@@ -651,7 +898,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, più volte nell'intervento si è ricorso al verbo svendere. Credo che qualcun altro abbia svenduto, in passato, importanti asset del Paese, ma certamente non lo farà questo Governo . […]",
+   "sunto": "Questo si verifica in aziende importanti e strategiche per il Paese e si verifica da tanti anni, in forma, diciamo così, diversa, diretta, indiretta, anche attraverso Cassa depositi e prestiti, basta citare ENI, basta citare ENEL, basta citare Leonardo; lo stesso modello verrà replicato, con lo…",
+   "temi": [],
    "parole": 267,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00060.int00060"
   },
@@ -664,7 +912,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, vedo che faccio fatica, evidentemente, a esprimermi, probabilmente è anche colpa mia, ma qui nessuno svende niente a nessuno. Qualcuno ha testé ricordato il caso di TIM, ecco, non faremo come è stato fatto con TIM, possiamo garantirvelo . […]",
+   "sunto": "Se, oggi, i piccoli uffici postali possono continuare a esistere nei piccoli comuni, non è perché c'è un controllo pubblico, è perché evidentemente il perimetro di attività di Poste può garantire una redditività oltre a quella che è la caratteristica attività di Poste, che evidentemente è stata…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 314,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00070.int00040"
   },
@@ -677,7 +928,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole De Palma, con riferimento al quesito posto, ricordo che l'ordinamento prevede diverse agevolazioni fiscali in favore delle persone diversamente abili, quali, tra l'altro, la detrazione Irpef del 19 per cento della spesa sostenuta per l'acquisto di autoveicoli e altri mezzi d'ausilio e l'applicazione dell'aliquota IVA ridotta al 4 per cento per l'acquisto di questi beni. […]",
+   "sunto": "Con riferimento al quesito posto, in merito al comma 37 dell'articolo 1 della legge n. 296 del 2006, che disciplina i casi di restituzione dei benefici fiscali ricevuti, prevedendo che l'agevolazione permanga nel caso in cui il disabile ceda il proprio veicolo per acquistarne un altro su cui…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 319,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00080.int00060"
   },
@@ -690,7 +944,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, onorevole Marattin, per avere riportato di attualità una misura che credo, oggi - siamo al 31 gennaio -, tanti milioni di italiani finalmente hanno potuto concretamente vedere in busta paga nel suo significato, con una riduzione di 6 punti percentuali fino a 25.000 euro di reddito e di 7 punti fino a 35.000 euro. […]",
+   "sunto": "Ricordo che lo sforzo maggiore fatto, in occasione della legge di bilancio, dal Governo, e dal Parlamento che l'ha approvata, è stato esattamente destinare questi 15 miliardi di euro a beneficio di questi lavoratori.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 300,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00090.int00040"
   },
@@ -703,7 +961,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Ringrazio l'onorevole Centemero, per avere acceso un po' i riflettori rispetto alla disciplina del sistema di finanziamento delle autorità amministrative indipendenti, ivi inclusa la Consob, che è un sistema volto a garantire la piena indipendenza e autonomia di giudizio e valutazione di cui godono, sotto il profilo normativo. […]",
+   "sunto": "In particolare, la Consob, come la gran parte delle altre autorità indipendenti, determina l'entità della contribuzione con propria deliberazione, nel rispetto dei limiti massimi previsti per legge, contribuzione che è versata direttamente alla medesima autorità.",
+   "temi": [],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0237&tipo=stenografico#sed0237.stenografico.tit00050.sub00100.int00040"
   },
@@ -716,7 +975,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, con riferimento al quesito posto dagli onorevoli interroganti mi preme segnalare che lo spot a cui si fa riferimento è parte di una più ampia campagna tesa a promuovere le emissioni di titoli di Stato dedicati ai risparmiatori individuali. […]",
+   "sunto": "Con riferimento al quesito posto dagli onorevoli interroganti mi preme segnalare che lo spot a cui si fa riferimento è parte di una più ampia campagna tesa a promuovere le emissioni di titoli di Stato dedicati ai risparmiatori individuali.",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 276,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00010.int00040"
   },
@@ -729,7 +991,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, gli onorevoli interroganti mettono in evidenza la distonia sussistente tra la disciplina delle sanzioni applicabile ai tributi locali e quella relativa ai tributi erariali nell'ipotesi di omesso o tardivo versamento e di omessa o infedele dichiarazione. […]",
+   "sunto": "Gli onorevoli interroganti mettono in evidenza la distonia sussistente tra la disciplina delle sanzioni applicabile ai tributi locali e quella relativa ai tributi erariali nell'ipotesi di omesso o tardivo versamento e di omessa o infedele dichiarazione.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00020.int00040"
   },
@@ -742,7 +1007,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, gli onorevoli interroganti fanno riferimento alla cosiddetta imposta sugli extraprofitti delle banche, imposta straordinaria sull'incremento del margine di interesse, introdotta nel 2023 in considerazione dell'incremento dei margini di profitto registrati nel settore bancario, il cui gettito avrebbe dovuto essere destinato a misure di sostegno per famiglie e imprese. […]",
+   "sunto": "Gli onorevoli interroganti fanno riferimento alla cosiddetta imposta sugli extraprofitti delle banche, imposta straordinaria sull'incremento del margine di interesse, introdotta nel 2023 in considerazione dell'incremento dei margini di profitto registrati nel settore bancario, il cui gettito…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 302,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00030.int00040"
   },
@@ -755,7 +1023,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Pastorino, mi preme ricordare che tale tema è stato già oggetto di altre interrogazioni ed è un tema la cui importanza è riconosciuta, per il ruolo che tali realtà svolgono nel nostro Paese, riconosciuto anche dalla famosa direttiva Bolkestein, al considerando 35, dedicato specificamente alle attività sportive amatoriali senza scopo di lucro, in cui è evidenziata la notevole importanza so […]",
+   "sunto": "Onorevole Pastorino, mi preme ricordare che tale tema è stato già oggetto di altre interrogazioni ed è un tema la cui importanza è riconosciuta, per il ruolo che tali realtà svolgono nel nostro Paese, riconosciuto anche dalla famosa direttiva Bolkestein, al considerando 35, dedicato…",
+   "temi": [],
    "parole": 280,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00040.int00040"
   },
@@ -768,7 +1037,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, il tema è anche di estrema attualità oltre che di giustizia ed equità. Come è stato ricordato, la web tax è stata introdotta nel 2019. Con il decreto legislativo n. 209 del 2023 noi abbiamo attuato e introdotto nella legislazione nazionale il Pillar 2, l'accordo assunto a livello OCSE per quanto riguarda la tassazione di questa base imponibile. […]",
+   "sunto": "Come evidenziato, già nell'ottobre del 2021, Italia, Francia, Spagna, Regno Unito e Austria avevano raggiunto un accordo transitorio con gli Stati Uniti sull'imposta sui servizi digitali, nelle more dell'accordo internazionale.",
+   "temi": [],
    "parole": 339,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00050.int00060"
   },
@@ -781,7 +1051,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, con riferimento al quesito posto, si deve segnalare che l'operato del Ministero dell'Economia e delle finanze è costantemente volto a garantire la sostenibilità del debito pubblico, anche al fine di ottenere la piena fiducia degli investitori, siano essi di grandi dimensioni, come quelli istituzionali, o di dimensioni minori, come i piccoli risparmiatori. […]",
+   "sunto": "Il nostro Paese, seppur caratterizzato da un elevato debito pubblico, si connota per un basso debito privato e sulla propensione delle famiglie al risparmio. […] Inoltre, anche al fine di rendere il debito sostenibile, tra gli obiettivi di gestione del debito pubblico, vi è quello di aumentare la vita media del debito stesso.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0266&tipo=stenografico#sed0266.stenografico.tit00050.sub00060.int00040"
   },
@@ -794,7 +1067,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, con riferimento al quesito posto in merito all'esistenza di una presunta trattativa tra ENI e Angelucci per la cessione di AGI, mi pare doveroso sottolineare in primo luogo che il Ministero dell'Economia e delle finanze, che ha appreso da fonti di stampa la notizia, non è l'autorità deputata a rispondere a tale domanda. […]",
+   "sunto": "Con riferimento al quesito posto in merito all'esistenza di una presunta trattativa tra ENI e Angelucci per la cessione di AGI, mi pare doveroso sottolineare in primo luogo che il Ministero dell'Economia e delle finanze, che ha appreso da fonti di stampa la notizia, non è l'autorità deputata a…",
+   "temi": [],
    "parole": 328,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00090.int00050"
   },
@@ -807,7 +1081,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevoli colleghi, ovviamente rimane fermo quanto ho detto in precedenza. In riferimento alla richiesta formulata dagli interroganti su quali azioni il Governo intenda mettere in campo a tutela del pluralismo dell'informazione, anche alla luce dei chiarimenti già forniti, il vero quesito da porsi - lo ribadisco - è se sia corretto che società partecipate dello Stato posseggano un'agenzia di infor […]",
+   "sunto": "In senso stretto, il Ministero dell'Economia e delle finanze, come azionista di ENI, non ha un interesse a detenere alcuna forma di partecipazione in un'agenzia di stampa. […] Altri aspetti inerenti conflitti di interessi, concentrazione di poteri inerenti all'informazione e incompatibilità parlamentari non attengono, evidentemente, alle competenze di questo Ministero.",
+   "temi": [],
    "parole": 166,
    "url": "https://www.camera.it/leg19/410?idSeduta=0271&tipo=stenografico#sed0271.stenografico.tit00060.sub00100.int00040"
   },
@@ -820,7 +1095,16 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Soddisfo subito la sua richiesta: il Governo esprime parere favorevole sulla risoluzione Foti, Molinari, Barelli e Lupi n. 6-00108 ed esprime parere contrario su tutte le altre. Vorrei replicare brevemente, per chiarire i contorni di questo Documento di economia e finanza. […]",
+   "sunto": "Che bello sarebbe il superbonus che fa schizzare il PIL in alto; ma che brutto è il superbonus che crea un grave dilemma a chi deve prendere le decisioni: se mettere i soldi sul superbonus o limitare i trasferimenti alla sanità, alla scuola, alla cultura ; e, purtroppo, chi ha deciso questo tipo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 954,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00020.sub00030.int00020"
   },
@@ -833,7 +1117,10 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Patto di stabilità: il Patto di stabilità che è stato approvato ieri - alla crescita vengo dopo, adesso parlo del Patto di stabilità - è, sicuramente, un compromesso; non è la proposta italiana, la proposta che il sottoscritto ha portato avanti ripetutamente in sede europea e, ahimè, l'opposizione alla proposta italiana non arrivava da Governi sovranisti, pericolosamente sovranisti, governati dagli amici della Lega o […]",
+   "sunto": "Patto di stabilità: il Patto di stabilità che è stato approvato ieri - alla crescita vengo dopo, adesso parlo del Patto di stabilità - è, sicuramente, un compromesso; non è la proposta italiana, la proposta che il sottoscritto ha portato avanti ripetutamente in sede europea e, ahimè,…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0284&tipo=stenografico#sed0284.stenografico.tit00020.sub00030.int00090"
   },
@@ -846,7 +1133,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, con riferimento alla richiesta formulata dagli interroganti, ricordo che l'articolo 26 del decreto-legge 10 agosto 2023, n. 104, ha introdotto, per l'anno 2023, un'imposta straordinaria a carico delle banche, calcolata sull'incremento del margine di interesse. […]",
+   "sunto": "Con riferimento alla richiesta formulata dagli interroganti, ricordo che l'articolo 26 del decreto-legge 10 agosto 2023, n. 104, ha introdotto, per l'anno 2023, un'imposta straordinaria a carico delle banche, calcolata sull'incremento del margine di interesse.",
+   "temi": [],
    "parole": 194,
    "url": "https://www.camera.it/leg19/410?idSeduta=0289&tipo=stenografico#sed0289.stenografico.tit00060.sub00010.int00040"
   },
@@ -859,7 +1147,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Grimaldi. Io ribadisco che non abbiamo fatto niente di diverso rispetto a quello che hanno fatto praticamente tutti gli altri Governi dei Paesi europei. Non avendo regole su cui costruire il profilo del DEF, abbiamo deciso di aspettare due mesi per costruire il percorso che sarà su basi certe, che in questo momento mancano. […]",
+   "sunto": "Per quanto riguarda le coperture, è evidente che queste potranno essere definite esattamente in quella sede, perché quella è la sede che la normativa prevede, ma soprattutto le regole contabili prevedono che complessivamente dovranno essere trovate, per le misure e le politiche individuate, le…",
+   "temi": [],
    "parole": 281,
    "url": "https://www.camera.it/leg19/410?idSeduta=0289&tipo=stenografico#sed0289.stenografico.tit00060.sub00020.int00060"
   },
@@ -872,7 +1161,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, coerentemente con quanto già evidenziato in sede di risposta al quesito posto dai medesimi interroganti il 20 marzo, si evidenzia che è stato recentemente emanato il decreto legislativo 14 giugno 2024, n. 87, recante la revisione del sistema sanzionatorio tributario. […]",
+   "sunto": "Pertanto, in coerenza con la nuova disciplina delle sanzioni tributarie previste dal suddetto decreto, si sta procedendo alla definizione delle norme attuative dei principi di delega relativi al sistema fiscale dei comuni, delle città metropolitane e delle province.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 238,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00060.int00040"
   },
@@ -885,7 +1177,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Pella, lei chiede di conoscere quale sia lo stato di attuazione dei principi dettati dalla legge delega per la riforma fiscale in materia di federalismo fiscale regionale e di revisione del sistema fiscale dei comuni, delle città metropolitane e delle province. […]",
+   "sunto": "Onorevole Pella, lei chiede di conoscere quale sia lo stato di attuazione dei principi dettati dalla legge delega per la riforma fiscale in materia di federalismo fiscale regionale e di revisione del sistema fiscale dei comuni, delle città metropolitane e delle province.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 297,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00070.int00040"
   },
@@ -898,7 +1193,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie signor, Presidente. Onorevole Marattin, ben ritrovato su questi temi, su cui lei è affezionato, ma vorrei dirle che ne discuteremo, ne discuteremo presto quando il Piano strutturale di bilancio di medio termine sarà presentato in base a quelle che sono le nuove regole della governance europea e, chiaramente, interventi legati alla sostenibilità del sistema pensionistico dovranno essere valutati all'interno e i […]",
+   "sunto": "Onorevole Marattin, ben ritrovato su questi temi, su cui lei è affezionato, ma vorrei dirle che ne discuteremo, ne discuteremo presto quando il Piano strutturale di bilancio di medio termine sarà presentato in base a quelle che sono le nuove regole della governance europea e, chiaramente,…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00080.int00040"
   },
@@ -911,7 +1210,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente, onorevole Zanella. È chiaro che la questione delle spese militari si inserisce nel più ampio ragionamento rispetto alla prossima legge di bilancio, dove si confronteranno quelli che sono impegni assunti con il Patto di stabilità europeo, la nuova governance europea, rispetto agli impegni politici richiesti in sede NATO, di adeguare l'impegno dell'Italia come quello dei nostri alleati, al fi […]",
+   "sunto": "È chiaro che la questione delle spese militari si inserisce nel più ampio ragionamento rispetto alla prossima legge di bilancio, dove si confronteranno quelli che sono impegni assunti con il Patto di stabilità europeo, la nuova governance europea, rispetto agli impegni politici richiesti in sede…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 380,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00090.int00040"
   },
@@ -924,7 +1227,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze.",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, gli onorevoli interroganti, richiamando i dati contenuti nel comunicato Istat quanto agli effetti dei provvedimenti fiscali sulle imprese in vigore nel 2024, lamentano le ricadute negative per le imprese derivanti dall'abolizione, a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023, della disciplina relativa all'aiuto alla crescita economica (cosid […]",
+   "sunto": "Gli onorevoli interroganti, richiamando i dati contenuti nel comunicato Istat quanto agli effetti dei provvedimenti fiscali sulle imprese in vigore nel 2024, lamentano le ricadute negative per le imprese derivanti dall'abolizione, a decorrere dal periodo d'imposta successivo a quello in corso al…",
+   "temi": [],
    "parole": 368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0327&tipo=stenografico#sed0327.stenografico.tit00080.sub00100.int00040"
   },
@@ -937,7 +1241,14 @@
    "categoria": "Altri argomenti",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Approfitto per una breve replica al dibattito e, comunque, annuncio il parere favorevole sulla risoluzione Lucaselli, Comaroli, Pella e Romano n. 6-00132 e il parere contrario alle rimanenti. Breve replica perché vorrei fare una riflessione con voi in occasione del Piano strutturale di bilancio, cioè di come guardiamo al futuro, partendo da una riflessione sulla crescita. […]",
+   "sunto": "Un Paese come il nostro, che decresce in termini di numeri, perché noi perdiamo 300.000, 350.000 o forse 400.000, non lo so, cittadini italiani ogni anno, non può immaginare una crescita dell'ordine del 3, del 4 o del 5 per cento. […] Chiudo, partendo dall'avanzo primario per arrivare al problema vero, al problema vero che abbiamo noi in Italia che è il debito, ripeto, che è il debito.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 1112,
    "url": "https://www.camera.it/leg19/410?idSeduta=0362&tipo=stenografico#sed0362.stenografico.tit00020.sub00030.int00020"
   },
@@ -950,7 +1261,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Ruffino, con riferimento ai quesiti posti, devo premettere che le scelte in tema di articolazione territoriale sono demandate alla libera iniziativa imprenditoriale degli intermediari bancari che, negli ultimi anni, analogamente a quanto avviene negli altri Paesi europei, hanno razionalizzato la rete distributiva in un'ottica di contenimento dei costi, facendo anche leva sull'utilizzo dei […]",
+   "sunto": "In particolare, dagli ultimi dati a disposizione e pubblicati dalla Banca d'Italia il 29 marzo 2024, riferiti al 2023, emerge che il fenomeno della riduzione delle filiali e degli sportelli aperti al pubblico ha interessato l'intero territorio italiano, con la chiusura di 825 sportelli bancari…",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 366,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00020.int00040"
   },
@@ -963,7 +1277,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Della Vedova, con riferimento a questo quesito confermo che è compito del Ministero dell'Economia e delle finanze monitorare lo stato di attuazione del PNRR a livello finanziario, fisico e procedurale, e, pertanto, le informazioni che noi riceviamo mensilmente dalle amministrazioni centrali responsabili per l'attuazione delle singole misure del Piano sono processate e verificate nella lo […]",
+   "sunto": "Onorevole Della Vedova, con riferimento a questo quesito confermo che è compito del Ministero dell'Economia e delle finanze monitorare lo stato di attuazione del PNRR a livello finanziario, fisico e procedurale, e, pertanto, le informazioni che noi riceviamo mensilmente dalle amministrazioni…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 325,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00030.int00040"
   },
@@ -976,7 +1293,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Gusmeroli. Opportunamente è stato ricordato che una delle principali misure introdotte dal Governo per semplificare gli adempimenti posti a carico dei contribuenti era quella relativa alla proroga del secondo acconto dovuto per il periodo d'imposta 2023 dalle persone fisiche titolari di partita IVA, con contestuale possibilità di rateizzare l'importo in 5 quote mensili a partire dal mese […]",
+   "sunto": "Opportunamente è stato ricordato che una delle principali misure introdotte dal Governo per semplificare gli adempimenti posti a carico dei contribuenti era quella relativa alla proroga del secondo acconto dovuto per il periodo d'imposta 2023 dalle persone fisiche titolari di partita IVA, con…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 261,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00040.int00040"
   },
@@ -989,7 +1309,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, nell'interrogazione si fa riferimento alle prime stime delle entrate provenienti dall'adesione al concordato preventivo biennale. In proposito, sono richiamate opportunamente disposizioni dell'articolo 1, commi 3 e 4, della legge n. […]",
+   "sunto": "Tale possibilità di aderire al concordato, presentando apposita dichiarazione dei redditi integrativa, sarà riconosciuta fino al 12 dicembre 2024 a quei contribuenti che hanno presentato la dichiarazione dei redditi entro il termine del 31 ottobre 2024 e che, pur avendone i requisiti, non hanno…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00050.int00040"
   },
@@ -1002,7 +1325,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie per questa interrogazione, perché permette di evidenziare uno dei pilastri della nostra azione di politica di bilancio, quello relativo alle nuove generazioni e alla famiglia, con le diverse misure che abbiamo ulteriormente rafforzato quest'anno. […]",
+   "sunto": "Ricordo i congedi parentali estesi al terzo anno, ricordo l'incremento degli assegni per sostenere il pagamento degli asili nido, ricordo la decontribuzione per le lavoratrici madri - che abbiamo esteso anche ai due figli -, oltre che, naturalmente, per le lavoratrici autonome, e ricordo…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità"
+   ],
    "parole": 274,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00060.int00040"
   },
@@ -1015,7 +1342,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, colleghi, in riferimento al quesito posto, riguardante alcune dichiarazioni rese dall'amministratore delegato di Leonardo Spa, Roberto Cingolani, il 7 novembre 2024, in occasione della comunicazione dei dati al terzo trimestre del 2024, sentiti i competenti organi di Leonardo, faccio presente che, come confermato dalla stessa società, l'amministratore delegato non ha mai fatto riferimento a un even […]",
+   "sunto": "In riferimento al quesito posto, riguardante alcune dichiarazioni rese dall'amministratore delegato di Leonardo Spa, Roberto Cingolani, il 7 novembre 2024, in occasione della comunicazione dei dati al terzo trimestre del 2024, sentiti i competenti organi di Leonardo, faccio presente che, come…",
+   "temi": [],
    "parole": 275,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00070.int00040"
   },
@@ -1028,7 +1356,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Del Barba, con il documento in esame si fa riferimento alla disciplina introdotta all'articolo 1, commi 64-67, della legge di bilancio 2024, che ha previsto una nuova ipotesi di plusvalenze immobiliari imponibili derivanti dalle cessioni di immobili oggetto degli interventi ammessi al superbonus. […]",
+   "sunto": "Onorevole Del Barba, con il documento in esame si fa riferimento alla disciplina introdotta all'articolo 1, commi 64-67, della legge di bilancio 2024, che ha previsto una nuova ipotesi di plusvalenze immobiliari imponibili derivanti dalle cessioni di immobili oggetto degli interventi ammessi al…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Casa e infrastrutture"
+   ],
    "parole": 413,
    "url": "https://www.camera.it/leg19/410?idSeduta=0381&tipo=stenografico#sed0381.stenografico.tit00060.sub00080.int00040"
   },
@@ -1041,7 +1374,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Pastorino, la vicenda è nota, sicuramente a noi due. Gli elementi nuovi quali sono? Gli elementi nuovi sono che con il decreto-legge 16 settembre 2024, n. 13, recante disposizioni urgenti per l'attuazione di obblighi derivanti da atti dell'Unione europea e da procedure di infrazione e pre-infrazione pendenti nei confronti dello Stato italiano, convertito nella legge n. […]",
+   "sunto": "Gli elementi nuovi sono che con il decreto-legge 16 settembre 2024, n. 13, recante disposizioni urgenti per l'attuazione di obblighi derivanti da atti dell'Unione europea e da procedure di infrazione e pre-infrazione pendenti nei confronti dello Stato italiano, convertito nella legge n. 166 del…",
+   "temi": [],
    "parole": 329,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00060.sub00060.int00040"
   },
@@ -1054,7 +1388,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Innanzitutto, ringrazio l'onorevole Bagnai per aver posto l'accento su quello che è più importante, credo per tutti noi e sicuramente per la politica, per quanto riguarda il sistema del credito: più che Risiko, attività di credito a favore dell'economia reale. […]",
+   "sunto": "È molto difficoltoso recuperare informazioni in proposito, ma quello che possiamo dire è che, sulla base delle informazioni acquisite, risulta che, a settembre scorso, i primi dieci gruppi bancari per totale dell'attivo di bilancio detenevano una quota di mercato nazionale di prestiti alle…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 586,
    "url": "https://www.camera.it/leg19/410?idSeduta=0409&tipo=stenografico#sed0409.stenografico.tit00060.sub00070.int00040"
   },
@@ -1067,7 +1404,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, in riferimento al quesito posto dagli onorevoli interroganti riguardante alcune criticità che il rinnovo del contratto collettivo nazionale di lavoro per le lavoratrici e i lavoratori delle cooperative sociali potrebbe determinare sugli appalti di servizi in corso, premetto che si tratta di tematica che coinvolge in via prevalente aspetti giuridici connessi al riconoscimento dei […]",
+   "sunto": "Osservo che la vigente disciplina ha confermato l'obbligatorietà dell'inserimento di clausole di revisione prezzi e con il decreto legislativo correttivo n. 209 del 2024 ha differenziato le soglie tra appalti di lavori e appalti di servizi e forniture e riconosciuto espressamente per le stazioni…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00030.int00040"
   },
@@ -1080,7 +1420,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, colleghi, l'ovvia premessa è che l'attuale panorama geopolitico è caratterizzato da una complessità e un'incertezza che non possono essere fronteggiati articolando una risposta priva, ovviamente, di una coerenza con gli altri Stati membri dell'Unione europea. […]",
+   "sunto": "E, in tale contesto, il piano cosiddetto ReArm Europe , annunciato dalla Commissione, che prevede la mobilizzazione di risorse complessive fino a 800 miliardi di euro per rafforzare la sicurezza e la difesa europea, reso pubblico dalla Presidente von der Leyen, si articola su cinque pilastri,…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 487,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00040.int00040"
   },
@@ -1093,7 +1438,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Fratoianni, rispondo a lei e le dico che cosa ho detto lunedì e martedì, in sede europea. È quello che pensa il Governo italiano e che penso io. Per quanto riguarda la clausola di flessibilità sul Patto di stabilità, l'abbiamo chiesta per 2 anni, solitari; ce la riconoscono, ce l'hanno riconosciuta e non possiamo che valutarla positivamente. […]",
+   "sunto": "Ho detto che occorre distinguere tra quelli che sono bisogni immediati, che fanno riferimento alla situazione ucraina, rispetto alla necessità di garantire sicurezza e difesa all'Europa, che richiede un ragionamento di lungo periodo rispetto alle effettive necessità.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 415,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00050.int00040"
   },
@@ -1106,7 +1455,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Gadda, se fossi in grado di dirimere l'incertezza che in questo momento grava in termini geoeconomici e geopolitici, mi candiderei a diventare santo subito. Nessuno sa oggettivamente quello che ci aspetta. […]",
+   "sunto": "Sicuramente è innegabile che la politica di introduzione dei dazi annunciata dall'Amministrazione americana potrebbe danneggiare l'economia italiana come l'economia europea, e, con un effetto a catena, il commercio globale.",
+   "temi": [],
    "parole": 258,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00060.int00040"
   },
@@ -1119,7 +1469,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, in riferimento al quesito posto dagli onorevoli interroganti, appare opportuno preliminarmente chiarire il funzionamento della normativa in materia di poteri speciali. Nel settore finanziario la normativa golden power impone l'obbligo di notifica, indipendentemente dalla nazionalità italiana o straniera del soggetto acquirente, nel caso in cui l'operazione di acquisizione abbia ad oggetto attivi di […]",
+   "sunto": "Nel settore finanziario la normativa golden power impone l'obbligo di notifica, indipendentemente dalla nazionalità italiana o straniera del soggetto acquirente, nel caso in cui l'operazione di acquisizione abbia ad oggetto attivi di rilevanza strategica e nel settore finanziario sono ritenuti…",
+   "temi": [],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0445&tipo=stenografico#sed0445.stenografico.tit00070.sub00070.int00080"
   },
@@ -1132,7 +1483,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Sì, grazie, Presidente. L'onorevole Marattin, ovviamente, ha interpellato Marco, Paolo e Silvia, ma basa i suoi ragionamenti sul rapporto OCSE che, in qualche modo, denuncia questa situazione, ma che credo debba essere contestato e debba essere, soprattutto, contestato in relazione ai provvedimenti che ha assunto questo Governo con le due precedenti leggi di bilancio, che vanno esattamente nella direzione auspicata d […]",
+   "sunto": "L'onorevole Marattin, ovviamente, ha interpellato Marco, Paolo e Silvia, ma basa i suoi ragionamenti sul rapporto OCSE che, in qualche modo, denuncia questa situazione, ma che credo debba essere contestato e debba essere, soprattutto, contestato in relazione ai provvedimenti che ha assunto…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse"
+   ],
    "parole": 289,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00020.int00040"
   },
@@ -1145,7 +1500,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, il quesito attiene alle iniziative che il Governo intende assumere in riferimento alle problematiche evidenziate da inchieste giornalistiche sul tema delle frodi nell'ambito del rilascio di fideiussioni previste in materia di realizzazione di opere pubbliche. […]",
+   "sunto": "Il quesito attiene alle iniziative che il Governo intende assumere in riferimento alle problematiche evidenziate da inchieste giornalistiche sul tema delle frodi nell'ambito del rilascio di fideiussioni previste in materia di realizzazione di opere pubbliche.",
+   "temi": [],
    "parole": 349,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00030.int00080"
   },
@@ -1158,7 +1514,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Faraone, innanzitutto faccio presente che esiste nell'ordinamento italiano - e non esiste in altri ordinamenti europei - un'imposta sui servizi digitali, che è stata conformata esattamente alle proposte contenute nel Digital taxation package , presentato dalla Commissione europea il 21 marzo 2018, al fine di affrontare le sfide poste dalla tassazione dei profitti dell'economia digitale. […]",
+   "sunto": "Onorevole Faraone, innanzitutto faccio presente che esiste nell'ordinamento italiano - e non esiste in altri ordinamenti europei - un'imposta sui servizi digitali, che è stata conformata esattamente alle proposte contenute nel Digital taxation package , presentato dalla Commissione europea il 21…",
+   "temi": [],
    "parole": 281,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00040.int00040"
   },
@@ -1171,7 +1528,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Zaratti, lei chiede quali siano le modalità previste per la quantificazione delle risorse necessarie per i LEP e per la definizione dei meccanismi perequativi - tematica riguardante il disegno di legge delega sui livelli essenziali delle prestazioni, che sarà approvato a breve dal Consiglio dei ministri - e, inoltre, richiede informazioni circa l'ammontare delle risorse già stanziate e r […]",
+   "sunto": "Onorevole Zaratti, lei chiede quali siano le modalità previste per la quantificazione delle risorse necessarie per i LEP e per la definizione dei meccanismi perequativi - tematica riguardante il disegno di legge delega sui livelli essenziali delle prestazioni, che sarà approvato a breve dal…",
+   "temi": [],
    "parole": 296,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00050.int00040"
   },
@@ -1184,7 +1542,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Tremaglia, lei giustamente ha ricordato la legge n. 111 del 9 agosto 2023, che ha delegato il Governo ad adottare, entro 24 mesi da quella data, uno o più decreti legislativi al fine di revisionare il sistema tributario. […]",
+   "sunto": "E, appunto, per quanto riguarda le tempistiche che il Governo si prefigge per dare completa attuazione alla delega fiscale, ricordo che dapprima, con la legge n. 122 dell'8 agosto 2024, è stato prorogato il termine per il riordino organico delle disposizioni che regolano il sistema tributario…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00060.int00040"
   },
@@ -1197,7 +1558,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, colleghi, le diverse proposte contenute nel Libro bianco sulla difesa europea sono volte a supportare, su base volontaria, gli Stati membri nell'eventuale incremento delle spese per la capacità di difesa fino a un massimo totale stimato pari a 800 miliardi di euro; di questi, 150 miliardi tramite la creazione dello strumento SAFE, per finanziare attraverso prestiti il potenziamento delle capacità m […]",
+   "sunto": "Le diverse proposte contenute nel Libro bianco sulla difesa europea sono volte a supportare, su base volontaria, gli Stati membri nell'eventuale incremento delle spese per la capacità di difesa fino a un massimo totale stimato pari a 800 miliardi di euro; di questi, 150 miliardi tramite la…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 489,
    "url": "https://www.camera.it/leg19/410?idSeduta=0476&tipo=stenografico#sed0476.stenografico.tit00070.sub00070.int00060"
   },
@@ -1210,7 +1575,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Della Vedova, una premessa mi pare fondamentale. Nel mutato contesto geopolitico, la sicurezza della Repubblica deve essere affrontata in chiave moderna ed evolutiva, assicurando una progressiva centralità al tema della sicurezza economica, quale autonoma componente delle tradizionali categorie della sicurezza pubblica e della sicurezza nazionale, e conferma la bontà della scelta […]",
+   "sunto": "Nel mutato contesto geopolitico, la sicurezza della Repubblica deve essere affrontata in chiave moderna ed evolutiva, assicurando una progressiva centralità al tema della sicurezza economica, quale autonoma componente delle tradizionali categorie della sicurezza pubblica e della sicurezza…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea",
+    "Sicurezza e criminalità"
+   ],
    "parole": 578,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00030.int00060"
   },
@@ -1223,7 +1593,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Boschi, come è noto, il 27 luglio in Scozia è stato raggiunto un Accordo politico tra Unione europea e Stati Uniti per definire i parametri chiave delle relazioni commerciali tra le due aree. Quindi, il dato del 15 per cento, evidentemente, presenta elementi che avranno un impatto molto diverso tra settori produttivi in Italia. […]",
+   "sunto": "Considerato che una considerevole quota delle esportazioni italiane è destinata al mercato statunitense, l'Accordo avrà un impatto non trascurabile sull'economia nazionale ed europea, la cui entità dipenderà ovviamente dai dettagli dell'Accordo, che saranno definiti nelle prossime settimane.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 410,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00040.int00040"
   },
@@ -1236,7 +1610,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, riprendo il contenuto dell'interrogazione precedente per ribadire un fatto che si collega anche alla pubblicazione dei dati Istat di oggi. Il Governo, quando ha predisposto, nella scorsa primavera, le previsioni macroeconomiche per l'incremento del PIL, ha fatto delle previsioni prudenziali, ipotizzando un impatto sull'economia italiana dell'ordine di grandezza che lei h […]",
+   "sunto": "Io ricordo che la tariffa del 15 per cento - e questo è un aspetto che non è di dettaglio - ricomprende i precedenti dazi base, pari a circa il 5 per cento - il 4,8 per cento -, quindi l'incremento non è esattamente un incremento del 15 per cento.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00050.int00040"
   },
@@ -1249,7 +1626,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Carfagna, nell'ultimissimo periodo sono arrivati segnali positivi, non solo con riguardo ai prestiti bancari alle famiglie, che si sono incrementati in modo significativo, ma anche con riferimento a quella che avevo già definito come una delle principali criticità, il credito alle imprese. […]",
+   "sunto": "Onorevole Carfagna, nell'ultimissimo periodo sono arrivati segnali positivi, non solo con riguardo ai prestiti bancari alle famiglie, che si sono incrementati in modo significativo, ma anche con riferimento a quella che avevo già definito come una delle principali criticità, il credito alle imprese.",
+   "temi": [],
    "parole": 456,
    "url": "https://www.camera.it/leg19/410?idSeduta=0520&tipo=stenografico#sed0520.stenografico.tit00080.sub00060.int00040"
   },
@@ -1262,7 +1640,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Presidente, onorevoli colleghi, la questione posta dagli onorevoli interroganti attiene al possibile ripristino, in alternativa alle detrazioni fiscali, dell'opzione dello sconto in fattura per la realizzazione, in edifici già esistenti, di interventi finalizzati al superamento e all'eliminazione delle barriere architettoniche. […]",
+   "sunto": "La questione posta dagli onorevoli interroganti attiene al possibile ripristino, in alternativa alle detrazioni fiscali, dell'opzione dello sconto in fattura per la realizzazione, in edifici già esistenti, di interventi finalizzati al superamento e all'eliminazione delle barriere architettoniche.",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00010.int00040"
   },
@@ -1275,7 +1654,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, il bilancio di previsione dello Stato - quello definitivo e non le bozze che sono circolate in questi giorni, su cui ho visto una montagna di commenti, anche a sproposito, non nella materia… però, devo dirlo - prevede, appunto, interventi in materia previdenziale. Vorrei precisare, però, alcune cose. […]",
+   "sunto": "Al riguardo, evidenzio che la prestazione Ape sociale non è una prestazione prevista strutturalmente a legislazione vigente, mentre la norma inserita nel disegno di legge di bilancio 2026 tutela strutturalmente i soggetti indicati, escludendoli dall'incremento di 3 mesi.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 485,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00020.int00040"
   },
@@ -1288,7 +1671,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Gusmeroli, lei ha opportunamente ricordato che, per quanto riguarda il 2023 e il 2024, seppure in extremis , si è riusciti a introdurre questa rateizzazione relativamente all'acconto. Questa possibilità, ovviamente, è sempre stata rimessa a una valutazione rispetto alla sostenibilità degli effetti di cassa in relazione al momento in cui veniva fatta la valutazione. […]",
+   "sunto": "Devo dire che, purtroppo, al momento la possibilità di prorogare la misura in argomento, con queste verifiche, non è possibile, perché posticiperebbe il gettito che in questo momento, in base alle nostre previsioni, si rende necessario.",
+   "temi": [],
    "parole": 119,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00030.int00040"
   },
@@ -1301,7 +1685,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, vorrei evidenziare che il Governo si è insediato nel momento in cui la spinta inflattiva aveva raggiunto i massimi livelli e che, per contrastare la perdita di potere di acquisto delle famiglie, sono state adottate misure specifiche mirate al sostegno del reddito, con particolare attenzione alle famiglie dei lavoratori dipendenti. […]",
+   "sunto": "La legge di bilancio per il 2023 ha introdotto, infatti, una riduzione dell'aliquota contributiva dei dipendenti pari a due punti percentuali per le retribuzioni inferiori a 35.000 euro, elevata a tre punti per le retribuzioni inferiori a 25.000 euro.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Famiglia e natalità"
+   ],
    "parole": 394,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00040.int00040"
   },
@@ -1314,7 +1704,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Castiglione, come ricordato, il decreto legislativo di revisione delle disposizioni in materia di accise, emanato lo scorso marzo, ha introdotto nel testo unico la disciplina sulla produzione di alcole etilico ottenuto a seguito di processi di dealcolazione. […]",
+   "sunto": "Onorevole Castiglione, come ricordato, il decreto legislativo di revisione delle disposizioni in materia di accise, emanato lo scorso marzo, ha introdotto nel testo unico la disciplina sulla produzione di alcole etilico ottenuto a seguito di processi di dealcolazione.",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 198,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00050.int00040"
   },
@@ -1327,7 +1720,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Pastorino, io sono convinto che prima o poi ci arriveremo. Quello che le voglio dire è che il Governo risulta tuttora impegnato a dare attuazione alle disposizioni primarie di riferimento, emanate sulla scorta di un dialogo intrapreso con la Commissione europea e, al contempo, a fornire risposte idonee rispetto alle esigenze rassegnate dagli enti concedenti e dagli operatori economici del […]",
+   "sunto": "Il decreto interministeriale previsto dalla normativa primaria, che deve disciplinare aspetti qualificanti dell'affidamento delle concessioni, potrà infatti aggiornare e adeguare anche l'entità dei canoni.",
+   "temi": [],
    "parole": 255,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00060.int00060"
   },
@@ -1340,7 +1734,12 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Colleghi, gli onorevoli interroganti fanno riferimento al dato di 9,7 milioni di unità abitative inutilizzate, però vale la pena evidenziare come, di queste, circa 5,8 milioni sono immobili dichiarati a disposizione da parte dei rispettivi proprietari, includendo le seconde case possedute nei luoghi turistici. […]",
+   "sunto": "Gli onorevoli interroganti fanno riferimento al dato di 9,7 milioni di unità abitative inutilizzate, però vale la pena evidenziare come, di queste, circa 5,8 milioni sono immobili dichiarati a disposizione da parte dei rispettivi proprietari, includendo le seconde case possedute nei luoghi…",
+   "temi": [
+    "Fisco e tasse",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
    "parole": 403,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00070.int00040"
   },
@@ -1353,7 +1752,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Diciamo che potrei continuare io, onorevole Silvestri, immagino che cosa volesse dire. Allora, con riferimento ai quesiti posti dagli interroganti, posso confermare che il disegno di legge recante il bilancio di previsione dello Stato per l'anno finanziario 2026 e il bilancio pluriennale per il triennio 2026-2028, in corso di trasmissione al Parlamento, reca anche previsioni dirette ad assicurare un sostanziale contr […]",
+   "sunto": "Infatti, in capo a banche e assicurazioni, che hanno beneficiato dell'azione politica portata avanti in questi 3 anni dell'Esecutivo, la cui efficacia è ben evidenziata dal positivo andamento dello spread e del rating , vengono ora previste articolate misure che consentono di reperire risorse…",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 297,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00080.int00060"
   },
@@ -1366,7 +1768,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Grazie, colleghi. Non ripeto gli interventi perché sono stati già richiamati nell'illustrazione. Allora do qualche numero: in termini di effetti aggregati, nel periodo di riferimento sono state complessivamente redistribuite risorse per 8,1 miliardi nel 2023, 16,3 miliardi nel 2024, 18 miliardi a partire dal 2025, in attesa, ovviamente, delle misure che il Parlamento auspico approverà per il 2026. […]",
+   "sunto": "Quanto agli effetti redistributivi con riferimento alla sola platea dei contribuenti con reddito prevalente da lavoro dipendente, si stimano i seguenti effetti: nel 2023 il beneficio medio si attesta a 260 euro, nel 2024 circa 20,7 milioni di contribuenti favoriti e il beneficio in media è pari…",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00130.sub00090.int00060"
   },
@@ -1379,7 +1785,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. La presente informativa è volta a fornire un quadro di insieme dell'intervento pubblico nella Banca Monte dei Paschi di Siena Spa dal salvataggio del 2016 ad oggi, evidenziando il ruolo svolto dal MEF nell'acquisizione e successiva dismissione della partecipazione di controllo, nonché i dati economico-finanziari dell'operazione che, anche grazie all'oculato lavoro del management , ha portato a un […]",
+   "sunto": "La presente informativa è volta a fornire un quadro di insieme dell'intervento pubblico nella Banca Monte dei Paschi di Siena Spa dal salvataggio del 2016 ad oggi, evidenziando il ruolo svolto dal MEF nell'acquisizione e successiva dismissione della partecipazione di controllo, nonché i dati…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 3199,
    "url": "https://www.camera.it/leg19/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00100.sub00010.int00020"
   },
@@ -1392,7 +1801,16 @@
    "categoria": "Altri argomenti",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Affido questo compito al Sottosegretario Albano, io svolgo la replica. Grazie, colleghi deputati, a coloro che sono intervenuti e a chi è presente per questa occasione. Innanzitutto, faccio una premessa. […]",
+   "sunto": "Quindi, con realismo, serietà e - qualcuno ironizza - con prudenza, noi dobbiamo scrivere delle previsioni che sono realistiche (Applausi dei deputati dei gruppi Fratelli d'Italia, Lega-Salvini Premier , Forza Italia-Berlusconi Presidente-PPE e Noi Moderati (Noi con l'Italia, Coraggio Italia,…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1953,
    "url": "https://www.camera.it/leg19/410?idSeduta=0652&tipo=stenografico#sed0652.stenografico.tit00030.sub00030.int00020"
   },
@@ -1405,7 +1823,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, con l'interrogazione in oggetto si chiede se il Governo intenda assumere iniziative normative per introdurre un meccanismo di indicizzazione dei parametri Irpef al fine di evitare l'aumento della pressione fiscale a causa del drenaggio fiscale. […]",
+   "sunto": "Al riguardo giova innanzitutto rammentare che il Governo si è insediato in un momento in cui la spinta inflattiva aveva raggiunto i massimi livelli e che, per contrastare la perdita di potere di acquisto delle famiglie, sono state adottate misure specifiche, anche a carattere straordinario e…",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Famiglia e natalità"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0659&tipo=stenografico#sed0659.stenografico.tit00060.sub00020.int00040"
   },
@@ -1418,7 +1842,13 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, durante il summit della NATO di giugno 2025, tenutosi all'Aia, si è concordato un progressivo aumento della spesa in difesa, che dovrebbe raggiungere il 5 per cento del PIL, secondo la definizione NATO, entro il 2035, di cui il 3,5 per cento per spese strettamente legate alla difesa e il restante 1,5 per cento relativo a misure per la sicurezza, intesa in senso più ampio […]",
+   "sunto": "Durante il summit della NATO di giugno 2025, tenutosi all'Aia, si è concordato un progressivo aumento della spesa in difesa, che dovrebbe raggiungere il 5 per cento del PIL, secondo la definizione NATO, entro il 2035, di cui il 3,5 per cento per spese strettamente legate alla difesa e il…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 439,
    "url": "https://www.camera.it/leg19/410?idSeduta=0659&tipo=stenografico#sed0659.stenografico.tit00060.sub00030.int00040"
   },
@@ -1431,7 +1861,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, gli interroganti, dopo avere illustrato la disposizione contenuta nell'articolo 1, comma 853, della legge n. 199 del 2025, diretta a fornire un'interpretazione autentica dell'applicazione delle esenzioni dall'IMU delle scuole paritarie, chiedono di sapere se si intendano adottare iniziative di competenza per fornire ulteriori indicazioni operative, volte ad accompagnare gli enti […]",
+   "sunto": "Gli interroganti, dopo avere illustrato la disposizione contenuta nell'articolo 1, comma 853, della legge n. 199 del 2025, diretta a fornire un'interpretazione autentica dell'applicazione delle esenzioni dall'IMU delle scuole paritarie, chiedono di sapere se si intendano adottare iniziative di…",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 243,
    "url": "https://www.camera.it/leg19/410?idSeduta=0659&tipo=stenografico#sed0659.stenografico.tit00060.sub00040.int00040"
   },
@@ -1444,7 +1877,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevole Gadda, l'istituto del 5 per mille dell'Irpef, introdotto nell'esercizio finanziario 2006 e successivamente prorogato fino all'attuale messa a regime, risulta una misura che è strutturalmente caratterizzata da una predeterminazione normativa nell'ammontare massimo delle somme erogabili, ovverosia uno specifico limite di spesa che è stato costantemente aggiornato nel corso degli anni. […]",
+   "sunto": "Lo scorso 21 maggio, l'Agenzia delle entrate ha comunicato gli elenchi dei beneficiari della ripartizione delle scelte per la devoluzione della quota del 5 per mille dell'Irpef, relativa all'anno finanziario 2025, determinata in base alle preferenze espresse dai cittadini nelle dichiarazioni…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse"
+   ],
    "parole": 244,
    "url": "https://www.camera.it/leg19/410?idSeduta=0669&tipo=stenografico#sed0669.stenografico.tit00120.sub00080.int00040"
   },
@@ -1457,7 +1894,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, in via preliminare mi preme ricordare che il procedimento di approvazione del decreto del Presidente del Consiglio dei ministri, con cui sono stabiliti i criteri di formazione e di riparto del Fondo di solidarietà comunale, prevede una serie di passaggi tecnico-istituzionali con il coinvolgimento di diversi soggetti, tra i quali vi sono anche la Commissione tecnica per i fabbiso […]",
+   "sunto": "In via preliminare mi preme ricordare che il procedimento di approvazione del decreto del Presidente del Consiglio dei ministri, con cui sono stabiliti i criteri di formazione e di riparto del Fondo di solidarietà comunale, prevede una serie di passaggi tecnico-istituzionali con il…",
+   "temi": [],
    "parole": 157,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00020.int00040"
   },
@@ -1470,7 +1908,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Signor Presidente, onorevoli colleghi, prima di tutto ritengo che l'affermazione per cui l'aumento della spesa in difesa non sarebbe conciliabile con il raggiungimento di altri obiettivi di policy deve essere smentita sulla base sia della corretta perimetrazione degli interventi e del relativo riparto su un arco temporale pluriennale, sia del possibile ricorso a strumenti di flessibilità, nei limiti consentiti dal vi […]",
+   "sunto": "La quota di maggiore spesa attivata tramite la NEC, devoluta alle misure volte a mitigare gli impatti della crisi energetica, grazie agli sforzi profusi dall'Italia in sede negoziale, contribuirebbe appunto alla transizione energetica citata dall'interrogante.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00030.int00040"
   },
@@ -1483,7 +1925,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Onorevole Della Vedova, il Parlamento credo a breve si esprimerà e darà un indirizzo al Governo in materia di clausola NEC e eventualmente di utilizzo del programma SAFE. Io semplicemente posso dire che, per quanto riguarda il programma, in questo momento il processo di finalizzazione è in corso per diversi Stati, tra cui l'Italia. Soltanto 13 sono stati quelli già sottoscritti. […]",
+   "sunto": "Onorevole Della Vedova, il Parlamento credo a breve si esprimerà e darà un indirizzo al Governo in materia di clausola NEC e eventualmente di utilizzo del programma SAFE.",
+   "temi": [],
    "parole": 285,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00040.int00040"
   },
@@ -1496,7 +1939,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Colleghi, io vorrei cercare di essere chiaro e di fare chiarezza agli interroganti, ovviamente, e a tutti quelli che ci ascoltano. Prima di tutto, la decisione di aumentare o non aumentare le spese per la difesa, come l'energia, la prende il Parlamento della Repubblica, perché deve fare uno scostamento di bilancio e deve assumere questa decisione con una maggioranza qualificata, quindi con […]",
+   "sunto": "Prima di tutto, la decisione di aumentare o non aumentare le spese per la difesa, come l'energia, la prende il Parlamento della Repubblica, perché deve fare uno scostamento di bilancio e deve assumere questa decisione con una maggioranza qualificata, quindi con dei numeri importanti.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 330,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00050.int00060"
   },
@@ -1509,7 +1956,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, gli interroganti fanno riferimento al contributo amministrativo cosiddetto “tassa sui pacchi” previsto dall'articolo 1, commi 126-128, della legge n. 199 del 2025 e chiedono di sapere se, una volta entrato in vigore, si cumulerà al dazio doganale introdotto dal regolamento del Consiglio (UE) 2026/382, e quindi di chiarire il coordinamento tra il nuovo regime unionale e l […]",
+   "sunto": "Per completezza, si rappresenta che il contributo di gestione europeo costituisce risorsa propria di natura doganale e che gli introiti del contributo dovranno essere distribuiti tra bilancio dell'Unione europea e bilanci degli Stati membri nella stessa misura della risorsa propria doganale,…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 358,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00060.int00040"
   },
@@ -1522,7 +1972,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. L'interrogante ha già richiamato i provvedimenti assunti dal Governo nella direzione auspicata, che consideriamo strategica. Vorrei semplicemente ripercorrere alcune di queste misure: l'attenzione riservata ai giovani impegnati in attività di ricerca e innovazione e valorizzazione della proprietà intellettuale. […]",
+   "sunto": "Il Governo ha altresì adottato misure volte a incentivare l'occupazione stabile, introducendo incentivi all'assunzione, agevolazioni contributive e misure di sostegno all'apprendistato e all'ingresso dei giovani nel mondo del lavoro.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 399,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00070.int00040"
   },
@@ -1535,7 +1989,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Dunque, prima cosa, signor Presidente e onorevoli colleghi, riguardo alle prospettive di crescita, ricordo che il quadro macroeconomico più aggiornato del Governo è quello contenuto nel Documento di finanza pubblica del 2026, presentato nel mese di aprile. […]",
+   "sunto": "Dunque, prima cosa, signor Presidente e onorevoli colleghi, riguardo alle prospettive di crescita, ricordo che il quadro macroeconomico più aggiornato del Governo è quello contenuto nel Documento di finanza pubblica del 2026, presentato nel mese di aprile.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 326,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00080.int00040"
   },
@@ -1548,7 +2006,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, con l'ormai imminente approvazione definitiva dell'ultimo degli 8 nuovi testi unici sull'ordinamento tributario, viene data attuazione all'obiettivo strategico di riordino della normativa tributaria posto dalla legge delega per la riforma fiscale, operando una generale revisione e sistematizzazione organica della normativa primaria vigente relativa ai principali tributi erariali, precede […]",
+   "sunto": "Con l'ormai imminente approvazione definitiva dell'ultimo degli 8 nuovi testi unici sull'ordinamento tributario, viene data attuazione all'obiettivo strategico di riordino della normativa tributaria posto dalla legge delega per la riforma fiscale, operando una generale revisione e…",
+   "temi": [
+    "Fisco e tasse"
+   ],
    "parole": 325,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00090.int00040"
   },
@@ -1561,7 +2022,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, la significativa instabilità che interessa taluni mercati dell' information and communication technology , in particolare quello dell' hardware basato su memorie, non rappresenta una criticità circoscritta a singole procedure di affidamento, ma una sfida che coinvolge l'intero sistema degli approvvigionamenti pubblici, richiedendo un costante monitoraggio delle dinamiche […]",
+   "sunto": "La significativa instabilità che interessa taluni mercati dell' information and communication technology , in particolare quello dell' hardware basato su memorie, non rappresenta una criticità circoscritta a singole procedure di affidamento, ma una sfida che coinvolge l'intero sistema degli…",
+   "temi": [],
    "parole": 287,
    "url": "https://www.camera.it/leg19/410?idSeduta=0695&tipo=stenografico#sed0695.stenografico.tit00100.sub00100.int00040"
   },
@@ -1574,7 +2036,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevoli colleghi, la nuova governance economica dell'Unione europea - e, in particolare, il regolamento (UE) 2024/1263 che ha modificato le regole del cosiddetto braccio preventivo del Patto di stabilità e crescita - prevede una articolata procedura autorizzatoria per le due fattispecie nelle quali è consentito che uno Stato membro possa deviare dal percorso di spesa netta indicato nel Pi […]",
+   "sunto": "All'interno di questo quadro regolatorio, è intervenuta la comunicazione della Commissione europea del 19 marzo 2025, la quale ha stabilito che l'aggressione all'Ucraina e la minaccia alla sicurezza europea costituiscono eccezionali circostanze per attivare la clausola nazionale, invitando tutti…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 2108,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00020.sub00010.int00020"
   },
@@ -1587,7 +2055,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie a tutti i colleghi che sono intervenuti per le osservazioni che, in qualche caso, hanno - diciamo così - debordato rispetto all'oggetto specifico. Però, mi rendo conto che, trattando di questo argomento, è facile e anche giusto fare considerazioni di carattere politico di tipo generale. […]",
+   "sunto": "Non è stata una discussione pasticciata e confusa, è stata una discussione in cui l'Italia e il nostro Governo hanno introdotto un tema, cioè a nostro giudizio, mutuando da quella che è l'esperienza di altri Paesi che hanno probabilmente un concetto della sicurezza nazionale un po' più evoluto,…",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1392,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00020.sub00040.int00020"
   },
@@ -1600,7 +2073,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, signor Presidente. Onorevole Marattin, io direi che prima di tutto, in via preliminare, non sussiste alcuna correlazione tra le due fattispecie. Perché l'articolo 2 del decreto-legge n. 162 ha previsto l'esenzione della tassa automobilistica riferita a un solo veicolo per persona e subordinata a specifici requisiti e, quindi, al momento questa non costituisce un'abolizione generalizzata e naturalmente il manc […]",
+   "sunto": "Naturalmente queste sono scelte che dovranno convergere in una sintesi e la sintesi avverrà a breve, perché prima di tutto andrà aggiornato il quadro di finanza pubblica con le previsioni macroeconomiche e di andamento dei tassi di interesse, oltre che del prezzo delle materie prime che, come…",
+   "temi": [],
    "parole": 248,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00020.int00040"
   },
@@ -1613,7 +2087,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze.",
    "gruppo": null,
-   "estratto": "Grazie Presidente e grazie onorevole Boschi. Noi abbiamo preso atto dei dati dell'Istat. Abbiamo fallito? Noi siamo esattamente in linea con il preventivato, che il Parlamento, peraltro, ha approvato, cioè con l'uscita dalla procedura di infrazione, che dovrà avvenire l'anno prossimo. […]",
+   "sunto": "Per quanto riguarda il debito pubblico in rapporto al PIL, io la invito - e invito tutti quanti - a depurare il dato del debito pubblico sul PIL dalle rate di cassa del superbonus che questo Governo è stato chiamato a pagare, pari a 18 miliardi nel 2023, 39 miliardi nel 2024, 40 miliardi nel…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Unione europea"
+   ],
    "parole": 371,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00030.int00040"
   },
@@ -1626,7 +2104,10 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, i conti nazionali sono disciplinati nell'ambito del SEC 2010 e sono il frutto di un articolato percorso di stima che dipende, in larga parte, da indicatori congiunturali e informazioni campionarie, che, nei periodi successivi, via via sono sostituiti da dati amministrativi e strutturali sempre più connessi a valori di consuntivo, quali quelli contenuti nei bilanci e nelle dichiarazioni f […]",
+   "sunto": "Inoltre, accanto alla revisione ordinaria, vi sono anche le modifiche metodologiche, come citato nell'ultimo comunicato Istat, che intervengono successivamente e che in alcun modo sono prevedibili dal Ministero dell'Economia e delle finanze o dalle amministrazioni pubbliche interessate.",
+   "temi": [
+    "Economia e conti pubblici"
+   ],
    "parole": 476,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00040.int00040"
   },
@@ -1639,7 +2120,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Ricordo che, per quanto riguarda i prezzi dei carburanti, il Governo è intervenuto ripetutamente: durante il 2026, oltre 2 miliardi di interventi. Vedo che adesso in giro per l'Europa cercano di copiare un po' quelle che sono state le nostre azioni. Il problema fondamentale è che dobbiamo renderci conto della situazione internazionale, che non è evidentemente nelle nostre disponibilità. […]",
+   "sunto": "Siamo consapevoli della situazione e, per questo motivo, da un lato, ci siamo mossi per primi per chiedere la clausola di deroga alle regole europee per quanto riguarda l'energia - la cosiddetta NEC - che è stata concessa e di cui dovremmo discuterne nei prossimi giorni l'utilizzo.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea"
+   ],
    "parole": 350,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00050.int00040"
   },
@@ -1652,7 +2137,8 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Il Corpo della guardia di finanza svolge rilevanti indagini finalizzate a ricostruire l'intera filiera illecita, all'individuazione degli apparati e delle strutture organizzative attraverso le quali avviene un'indebita diffusione delle opere dell'ingegno sul web , nonché all'applicazione di misure di sequestro patrimoniale e all'oscuramento dei siti Internet utilizzati per tali finalità illecite. […]",
+   "sunto": "Il Corpo della guardia di finanza svolge rilevanti indagini finalizzate a ricostruire l'intera filiera illecita, all'individuazione degli apparati e delle strutture organizzative attraverso le quali avviene un'indebita diffusione delle opere dell'ingegno sul web , nonché all'applicazione di…",
+   "temi": [],
    "parole": 393,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00060.int00040"
   },
@@ -1665,7 +2151,11 @@
    "categoria": "Question time",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Grazie, Presidente. Colleghi, naturalmente il sostegno alle nuove generazioni, la valorizzazione del loro lavoro e la creazione di condizioni favorevoli alla permanenza in Italia dei giovani costituiscono una delle direttrici fondamentali dell'azione di Governo fin dall'inizio della legislatura. Io non voglio richiamare anche tutte le misure che sono state puntualmente ricordate. […]",
+   "sunto": "Naturalmente il sostegno alle nuove generazioni, la valorizzazione del loro lavoro e la creazione di condizioni favorevoli alla permanenza in Italia dei giovani costituiscono una delle direttrici fondamentali dell'azione di Governo fin dall'inizio della legislatura.",
+   "temi": [
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 319,
    "url": "https://www.camera.it/leg19/410?idSeduta=0714&tipo=stenografico#sed0714.stenografico.tit00100.sub00070.int00040"
   },
@@ -1678,7 +2168,14 @@
    "categoria": "Altri argomenti",
    "ruolo": "Ministro dell'Economia e delle finanze",
    "gruppo": null,
-   "estratto": "Buongiorno onorevoli colleghi presenti in Aula . Molti dei presenti, diciamo così, hanno partecipato alla riunione della Commissione ieri, dove tanti dei temi sono stati discussi e approfonditi nei particolari. In questa mia introduzione, voglio semplicemente dare le linee generali di come il Governo si è mosso per questo Documento. […]",
+   "sunto": "Alla base di questo 1,9 per cento stava una previsione, tre anni fa, di un'inflazione dell'1,8 per cento. […] Quindi è chiaro - e questo spiega il dibattito di questi giorni e la posizione del Governo italiano, che è stata assunta dal sottoscritto all'Ecofin e immagino sarà illustrata anche qui dal Presidente del Consiglio nella giornata di domani - che questa inflazione programmata dell'1,8 per cento,…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1377,
    "url": "https://www.camera.it/leg19/410?idSeduta=0726&tipo=stenografico#sed0726.stenografico.tit00020.sub00010.int00040"
   }

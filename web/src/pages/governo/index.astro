@@ -2,10 +2,14 @@
 import Base from "../../layouts/Base.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, governo, slugLegge, statoIter } from "../../lib/data";
+import { dataIt, ESITO_CLASSE as CLASSE_PROMESSA, governo, impegni, perCognome, slugLegge, statoIter } from "../../lib/data";
 import { u } from "../../lib/url";
 
 const g = governo();
+const imp = impegni();
+const ministri = Object.values(imp.politici).sort(perCognome);
+const temiImp = imp.temi.filter((t) => ministri.some((m) => m.temi.some((x) => x.tema === t.id)));
+const SIGLA_ESITO: Record<string, string> = { raggiunto: "raggiunto", direzione_chiesta: "come chiesto", invariato: "invariato", direzione_opposta: "direzione opposta", misto: "misto", senza_indicatore: "leggi" };
 const leggi = [...(g?.leggi ?? [])].sort((a, b) => b.data.localeCompare(a.data) || b.numero - a.numero);
 const s = g?.statistiche;
 const conta = (f: (l: (typeof leggi)[number]) => boolean) => leggi.filter(f).length;
@@ -56,7 +60,7 @@ const ESITO_CLASSE: Record<string, string> = {
   <section class="section">
     <div class="stack">
       <span class="eyebrow">{g?.governo.nome ?? "Governo"} · in carica dal {dataIt(g?.governo.inizio)}</span>
-      <h1>Cosa ha cambiato il Governo</h1>
+      <h1>Cosa ha cambiato il <span class="grad">Governo</span></h1>
       <p class="muted prose">
         Tutte le leggi approvate in questa legislatura, con il testo ufficiale e una spiegazione pratica scritta solo a partire dai dati:
         che tipo di atto è, chi l'ha proposto, come è stato votato. Per ognuna mostriamo cosa hanno fatto cittadini e istituzioni dopo
@@ -135,6 +139,33 @@ const ESITO_CLASSE: Record<string, string> = {
     </section>
   )}
 
+  {ministri.length > 0 && (
+    <section class="section" id="promesse">
+      <div class="section-head"><h2>Prima e dopo l'incarico</h2><span class="small muted">cosa chiedevano i membri del Governo, cosa dicono i dati</span></div>
+      <p class="muted prose small">
+        Per ogni membro del Governo monitorato: i temi su cui, prima dell'incarico, chiedeva di ridurre o abolire qualcosa (sue frasi o programma 2022 del partito),
+        e come si è mosso da allora l'indicatore ufficiale. «direzione opposta» vuol dire, per esempio, che l’indicatore è salito mentre si chiedeva di abbassarlo. Regole e fonti nella <a href={u("/faq/#promesse")}>FAQ</a>.
+      </p>
+      <div class="table-wrap">
+        <table class="promesse-tab">
+          <thead><tr><th>Membro del Governo</th>{temiImp.map((t) => <th>{t.nome}</th>)}</tr></thead>
+          <tbody>
+            {ministri.map((m) => (
+              <tr>
+                <td><a href={u(`/politici/${m.slug}/#promesse`)}>{m.nome}</a><div class="tiny muted">{m.incarico.carica}</div></td>
+                {temiImp.map((t) => {
+                  const x = m.temi.find((y) => y.tema === t.id);
+                  return <td>{x ? <a href={u(`/politici/${m.slug}/#promesse`)} class={`pill ${CLASSE_PROMESSA[x.esito] ?? ""}`} title={x.testo}>{SIGLA_ESITO[x.esito] ?? x.esito}</a> : <span class="muted tiny">—</span>}</td>;
+                })}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="tiny muted">«—»: nessuna richiesta trovata prima dell'incarico. «leggi»: tema senza indicatore numerico, si vedono solo le leggi approvate.</p>
+    </section>
+  )}
+
   {g && (
     <section class="section" id="leggi">
       <div class="section-head"><h2>Tutte le leggi</h2><span class="small muted">dalla più recente</span></div>
@@ -168,9 +199,9 @@ const ESITO_CLASSE: Record<string, string> = {
                   <span class="pill">{TIPI_BREVI[l.tipo] ?? l.tipo}</span>
                   {l.del_governo && <span class="pill accent">Proposta dal Governo</span>}
                   {conFiducia(l) && <span class="pill plum">Fiducia</span>}
-                  {l.reazioni.corte.length > 0 && <span class="pill">Corte costituzionale · {l.reazioni.corte.length}</span>}
-                  {l.reazioni.firme.length > 0 && <span class="pill">Raccolta firme</span>}
-                  {l.reazioni.referendum.length > 0 && <span class="pill">Referendum</span>}
+                  {l.reazioni.corte.length > 0 && <span class="pill sky">Corte costituzionale · {l.reazioni.corte.length}</span>}
+                  {l.reazioni.firme.length > 0 && <span class="pill sun">Raccolta firme</span>}
+                  {l.reazioni.referendum.length > 0 && <span class="pill sun">Referendum</span>}
                 </div>
               </div>
               <Icon name="arrow" class="freccia" />
@@ -206,6 +237,9 @@ const ESITO_CLASSE: Record<string, string> = {
   .legge :global(.freccia) { width: 18px; height: 18px; color: var(--ink-2); transition: transform 0.25s var(--spring); }
   .legge:hover :global(.freccia) { transform: translateX(4px); color: var(--accent); }
   .altri { margin-top: 14px; }
+  .promesse-tab td { white-space: nowrap; }
+  .promesse-tab th { white-space: normal; min-width: 7.5rem; }
+  .promesse-tab a.pill { text-decoration: none; }
   @media (max-width: 640px) {
     .legge { grid-template-columns: 1fr; gap: 8px; }
     .quando { display: flex; gap: 8px; align-items: baseline; }

@@ -313,3 +313,26 @@ const STATI: Record<string, string> = {
   "in corso di esame in assemblea": "in esame in Aula",
 };
 export const statoIter = (s: string) => STATI[s] ?? STATI[s.trim()] ?? s;
+
+// ----------------------------------------------------------------- promesse prima/dopo l'incarico
+export type FraseImpegno = { tema: string; data: string; fonte: string; frase: string; url: string; verifica?: string; sezione?: string; metodo?: string; direzione: string | null; verbo: string | null };
+export type MisuraImpegno = {
+  id: string; nome: string; unita: string; fonte: string; fonte_url: string; frequenza: string;
+  alla_prima_richiesta: { data: string; valore: number } | null; all_incarico: { data: string; valore: number };
+  un_anno_prima: { data: string; valore: number } | null; oggi: { data: string; valore: number };
+  variazione_dall_incarico: number | null; variazione_dalla_prima_richiesta: number | null; serie: [string, number][]; esito: string;
+};
+export type TemaImpegno = {
+  tema: string; nome: string; direzione_chiesta: string; prima: FraseImpegno[]; prima_totale: number; programma: FraseImpegno[]; programma_totale: number;
+  dopo: FraseImpegno[]; dopo_totale: number; indicatori: MisuraImpegno[]; leggi: { id: string; data: string; numero: number; argomento: string; tipo: string }[];
+  esito: string; esito_etichetta: string; testo: string; richieste_per_tipo: Record<string, number>;
+};
+export type ImpegniPolitico = {
+  slug: string; nome: string; incarico: { carica: string; dal: string }; temi: TemaImpegno[];
+  riepilogo: { temi: number; raggiunto: number; direzione_chiesta: number; invariato: number; direzione_opposta: number; misto: number; senza_indicatore: number; testo: string };
+};
+export const impegni = () =>
+  leggi<{ politici: Record<string, ImpegniPolitico>; temi: { id: string; nome: string }[]; programmi: Record<string, FraseImpegno[]> }>("impegni.json", { politici: {}, temi: [], programmi: {} });
+export const ESITO_CLASSE: Record<string, string> = {
+  raggiunto: "accent", direzione_chiesta: "accent", invariato: "sky", direzione_opposta: "plum", misto: "sun", senza_indicatore: "",
+};

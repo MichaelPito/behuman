@@ -128,9 +128,139 @@
     "fonte": "TV",
     "n": 1
    }
-  ]
+  ],
+  "temi": [
+   {
+    "tema": "Unione europea",
+    "n": 27
+   },
+   {
+    "tema": "Esteri e difesa",
+    "n": 27
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 22
+   },
+   {
+    "tema": "Famiglia e natalità",
+    "n": 16
+   },
+   {
+    "tema": "Economia e conti pubblici",
+    "n": 15
+   },
+   {
+    "tema": "Energia e carburanti",
+    "n": 13
+   },
+   {
+    "tema": "Sanità",
+    "n": 10
+   },
+   {
+    "tema": "Immigrazione",
+    "n": 8
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 6
+   },
+   {
+    "tema": "Fisco e tasse",
+    "n": 6
+   },
+   {
+    "tema": "Giustizia",
+    "n": 4
+   },
+   {
+    "tema": "Sicurezza e criminalità",
+    "n": 2
+   },
+   {
+    "tema": "Ambiente e clima",
+    "n": 2
+   },
+   {
+    "tema": "Casa e infrastrutture",
+    "n": 2
+   }
+  ],
+  "temi_per_anno": {
+   "2022": [
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 2
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 2
+    },
+    {
+     "tema": "Unione europea",
+     "n": 2
+    }
+   ],
+   "2023": [
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 10
+    },
+    {
+     "tema": "Economia e conti pubblici",
+     "n": 8
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 7
+    }
+   ],
+   "2024": [
+    {
+     "tema": "Unione europea",
+     "n": 7
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 6
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 4
+    }
+   ],
+   "2025": [
+    {
+     "tema": "Esteri e difesa",
+     "n": 9
+    },
+    {
+     "tema": "Unione europea",
+     "n": 5
+    },
+    {
+     "tema": "Energia e carburanti",
+     "n": 3
+    }
+   ],
+   "2026": [
+    {
+     "tema": "Unione europea",
+     "n": 9
+    },
+    {
+     "tema": "Esteri e difesa",
+     "n": 6
+    },
+    {
+     "tema": "Famiglia e natalità",
+     "n": 5
+    }
+   ]
+  }
  },
- "recap": "Dal 25 ottobre 2022 al 20 ottobre 2026: 131 interventi nell'Aula della Camera (74.522 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (60 interventi).",
+ "recap": "Dal 25 ottobre 2022 al 20 ottobre 2026: 131 interventi nell'Aula della Camera (74.522 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (27), esteri e difesa (27), lavoro, salari e pensioni (22). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (60 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -164,7 +294,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, in democrazia chi vince le elezioni governa, e voi avete vinto le elezioni e avete l'onere di governare. Noi abbiamo, invece, l'onere di una opposizione netta, molto determinata, ma altrettanto costruttiva, nell'interesse del Paese. […]",
+   "sunto": "Non voglio utilizzare i pochi minuti che ho a disposizione per fare polemica con lei e con la sua maggioranza; non parlo degli audio di Berlusconi, del labiale con La Russa, della necessità, che lei ha avuto, di puntualizzare il fatto che non è ricattabile dai suoi alleati, in parte anche…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Energia e carburanti",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1430,
    "url": "https://www.camera.it/leg19/410?idSeduta=0004&tipo=stenografico#sed0004.stenografico.tit00040.sub00030.int00120"
   },
@@ -177,7 +314,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Sì, Presidente, sull'ordine dei lavori, rispetto alla comunicazione che ha appena fatto all'Aula. Ovviamente prendo atto di questa informazione, non conosco le cause di questo rinvio, lascio a verbale una profonda preoccupazione per il fatto che questa non è una Commissione ordinaria, non è un Comitato ordinario, è il Comitato per la sicurezza della Repubblica, a tal punto che i capigruppo sono stati chiamati a nomin […]",
+   "sunto": "Ovviamente prendo atto di questa informazione, non conosco le cause di questo rinvio, lascio a verbale una profonda preoccupazione per il fatto che questa non è una Commissione ordinaria, non è un Comitato ordinario, è il Comitato per la sicurezza della Repubblica, a tal punto che i capigruppo…",
+   "temi": [],
    "parole": 145,
    "url": "https://www.camera.it/leg19/410?idSeduta=0016&tipo=stenografico#sed0016.stenografico.tit00070.int00030"
   },
@@ -190,7 +328,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Gerardo Bianco ha rappresentato proprio in quest'Aula, di cui è stato anche vicepresidente e di cui è stato membro importante per nove legislature - lo ha ricordato lei -, una delle voci forse più limpide di quell'esercizio della politica cristianamente ispirata che ha rappresentato un pensiero di riferimento per molti di noi, per molti nel Paese. […]",
+   "sunto": "Un pensiero e una cultura - io arriverei a definirla una scuola quella del cattolicesimo democratico - che, in uomini come Gerardo Bianco, ha trovato sintesi, sì, per l'ispirazione cristiana della politica ma anche per la profonda laicità dello Stato e delle sue istituzioni, in una traduzione…",
+   "temi": [],
    "parole": 564,
    "url": "https://www.camera.it/leg19/410?idSeduta=0020&tipo=stenografico#sed0020.stenografico.tit00060.int00120"
   },
@@ -203,7 +342,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente Fontana. Presidente Meloni, colleghi, c'è una scena dalla quale ti mettono in guardia quando arrivi a Roma, una scena un po' stereotipata, una scena che, tra l'altro, si ritrova anche nel film Febbre da cavallo , la scena in cui tu arrivi e ci sono quelli che ti fanno il gioco delle tre carte: carta rossa, carta nera, carta rossa vince, carta rossa perde. […]",
+   "sunto": "C'è una scena dalla quale ti mettono in guardia quando arrivi a Roma, una scena un po' stereotipata, una scena che, tra l'altro, si ritrova anche nel film Febbre da cavallo , la scena in cui tu arrivi e ci sono quelli che ti fanno il gioco delle tre carte: carta rossa, carta nera, carta rossa…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1360,
    "url": "https://www.camera.it/leg19/410?idSeduta=0024&tipo=stenografico#sed0024.stenografico.tit00050.sub00010.int00140"
   },
@@ -216,7 +362,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Sulla votazione che lei ha chiamato, Presidente. Io intervengo sull'ordine dei lavori rispetto al fatto … …che c'è stata una proposta del presidente della Commissione che contemplava un intervento a favore e uno contro. L'intervento contro non può far aprire, a sua volta, ulteriori votazioni perché, se avesse posto altri temi, noi avremmo posto in votazione ulteriori argomenti da inserire. […]",
+   "sunto": "Io intervengo sull'ordine dei lavori rispetto al fatto … …che c'è stata una proposta del presidente della Commissione che contemplava un intervento a favore e uno contro. […] L'intervento contro non può far aprire, a sua volta, ulteriori votazioni perché, se avesse posto altri temi, noi avremmo posto in votazione ulteriori argomenti da inserire.",
+   "temi": [],
    "parole": 152,
    "url": "https://www.camera.it/leg19/410?idSeduta=0026&tipo=stenografico#sed0026.stenografico.tit00120.sub00010.int00380"
   },
@@ -229,7 +376,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Evidenzio l'incapacità di fare di questa questione un dibattito non ideologico, un'incapacità legata al fatto che, piuttosto che mettere al centro la questione che solleva l'ordine del giorno del collega Orlando, e cioè la necessità di una definizione e di una retribuzione minima per tutti, la si butta sui passati Governi, sui licenziamenti. […]",
+   "sunto": "Evidenzio l'incapacità di fare di questa questione un dibattito non ideologico, un'incapacità legata al fatto che, piuttosto che mettere al centro la questione che solleva l'ordine del giorno del collega Orlando, e cioè la necessità di una definizione e di una retribuzione minima per tutti, la…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 239,
    "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00080.sub00060.int01570"
   },
@@ -242,7 +392,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Presidente, solo per condividere con l'Aula la summa dell'inutilità di ciò che sta accadendo, della discussione che stiamo facendo, dello strumento che stiamo utilizzando (Applausi dei deputati del gruppo Azione-Italia Viva-Renew Europe). Lo dico con grande rispetto per i nostri lavori, per la nostra presenza e per questa Presidenza. […]",
+   "sunto": "Questo ordine del giorno non incide in alcun modo su 1.200 ragazzi ai quali, tra l'altro, come ricordava l'onorevole Zan, scadrà il contratto il 31 dicembre prossimo.",
+   "temi": [],
    "parole": 156,
    "url": "https://www.camera.it/leg19/410?idSeduta=0027&tipo=stenografico#sed0027.stenografico.tit00080.sub00060.int02620"
   },
@@ -255,7 +406,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Colleghi, Ministro, noi non ci aspettavamo un'informativa sui fatti perché i fatti sono noti e gli organi di stampa ne hanno dato anche dovizia di particolari, noi ci aspettavamo un'informativa sulle conseguenze di quei fatti. […]",
+   "sunto": "Noi non ci aspettavamo un'informativa sui fatti perché i fatti sono noti e gli organi di stampa ne hanno dato anche dovizia di particolari, noi ci aspettavamo un'informativa sulle conseguenze di quei fatti.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 769,
    "url": "https://www.camera.it/leg19/410?idSeduta=0052&tipo=stenografico#sed0052.stenografico.tit00100.sub00020.int00180"
   },
@@ -268,7 +422,16 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Signor Presidente, Presidente Meloni, noi siamo persone ostinate. Proviamo a fare un esperimento, anche se il resto dell'opposizione la sta portando sul terreno - e io temo per i miei colleghi dell'opposizione - che è, tra l'altro, il terreno a lei più congeniale - quindi, non li vedo con probabili fortune - e cioè il terreno dello scontro ideologico. […]",
+   "sunto": "Proviamo a fare un esperimento, anche se il resto dell'opposizione la sta portando sul terreno - e io temo per i miei colleghi dell'opposizione - che è, tra l'altro, il terreno a lei più congeniale - quindi, non li vedo con probabili fortune - e cioè il terreno dello scontro ideologico.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1621,
    "url": "https://www.camera.it/leg19/410?idSeduta=0073&tipo=stenografico#sed0073.stenografico.tit00040.sub00010.int00140"
   },
@@ -281,7 +444,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Governo, noi ci riproviamo. Riproviamo a fare l'opposizione che parla dell'oggetto di cui stiamo discutendo e che voteremo tra poco. La risoluzione a cui faceva riferimento il collega immagino sia sottoscritta dalla maggior parte delle opposizioni, ma non da tutte. Vede, Sottosegretario, parlare del merito del provvedimento significa fare due valutazioni. […]",
+   "sunto": "A questi 6 miliardi, Sottosegretario, si aggiungono i 5 che il Governo Draghi aveva messo e che il Governo Meloni ha riconfermato, e siamo a 11: 11 miliardi che dal 1° gennaio ci servono non per abbassare le tasse, ma per mantenere la situazione che avremo il 31 dicembre.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Famiglia e natalità"
+   ],
    "parole": 1490,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00090.sub00010.int00140"
   },
@@ -294,7 +464,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Io non so se la maggioranza è al collasso, non so se siete in crisi. Francamente l'unica cosa che oggi emerge è la mancanza del senso delle istituzioni, quando in un momento come questo la maggioranza non garantisce i numeri per approvare un provvedimento di questa importanza . […]",
+   "sunto": "Per mesi avete utilizzato le argomentazioni che questo è un Governo politico e ha la forza dei numeri per imporre logiche di rottura del dialogo tra maggioranza e opposizione. […] La forza dei numeri oggi dimostra che non porta bene, per cui forse è meglio riorientare questa legislatura verso un atteggiamento di dialogo, disponibilità e rispetto, perché a forza di ridere non si va da nessuna parte .",
+   "temi": [],
    "parole": 145,
    "url": "https://www.camera.it/leg19/410?idSeduta=0093&tipo=stenografico#sed0093.stenografico.tit00100.int00100"
   },
@@ -307,7 +478,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Ci riprovo anche oggi. In realtà, l' ars oratoria del collega Lupi, che ricordo Ministro, è sempre affascinante, Presidente. Però, questa volta, si scontra con la durezza della realtà. Siamo di nuovo in quest'Aula, perché non si è stati in grado di approvare il DEF e lo scostamento. Questo è un onere della maggioranza, punto e a capo. […]",
+   "sunto": "Stiamo correndo all'approvazione del DEF, che libera 3 miliardi di euro sul 2023, che il Governo, il 1° maggio… Anzi, siccome vi vedo un po' in difficoltà, vi do anche lo slogan , visto che il 1° maggio fate il Consiglio: al lavoro per il mondo del lavoro.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Famiglia e natalità"
+   ],
    "parole": 1324,
    "url": "https://www.camera.it/leg19/410?idSeduta=0094&tipo=stenografico#sed0094.stenografico.tit00040.sub00010.int00180"
   },
@@ -320,7 +497,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Grazie anche per aver voluto questo momento, mentre ancora la nostra terra è piegata da questa catastrofe. Grazie per aver voluto un momento che si colloca, tra l'altro, Presidente, nei giorni nei quali, 11 anni fa, ci trovavamo esattamente tra la prima e la seconda scossa del terremoto che ha colpito l'Emilia-Romagna. […]",
+   "sunto": "Lo ricordava il collega Gnassi nel sottolineare l'entità di questa catastrofe: decine e decine di comuni interessati, decine e decine di sindaci in prima linea, decine di migliaia di sfollati che toccano diverse comunità.",
+   "temi": [],
    "parole": 591,
    "url": "https://www.camera.it/leg19/410?idSeduta=0107&tipo=stenografico#sed0107.stenografico.tit00130.int00120"
   },
@@ -333,7 +511,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Non prendo come una questione personale il fatto che la Presidente Meloni sia uscita dall'Aula, ci mancherebbe. Poi, comunque, il Governo rimane ben rappresentato e, quindi, io posso svolgere il mio intervento senza alcun problema. […]",
+   "sunto": "Sia la Presidente Meloni sia molti colleghi della maggioranza, riprendendo il tema del MES, lo hanno definito inopportuno nel dibattito di oggi: “Oggi parlare di MES è fuori luogo”, “penso sia un errore portare il MES in Aula”, “chi vuole bene all'Italia non chiede di discutere il MES oggi”.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1614,
    "url": "https://www.camera.it/leg19/410?idSeduta=0128&tipo=stenografico#sed0128.stenografico.tit00040.sub00010.int00160"
   },
@@ -346,7 +530,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Proviamo a fare una dichiarazione di voto che si fonda su una riflessione, ed è una riflessione circa l'adeguatezza del provvedimento di cui stiamo ragionando e che ci apprestiamo a votare. La considerazione di adeguatezza del provvedimento si fonda sulla sua capacità di rispondere a quella che è forse oggi l'emergenza più significativa che questo Parlamento si trova ad affrontare, ed è una situaz […]",
+   "sunto": "Un provvedimento va fatto nella concezione che si dà rispetto a come si sostiene il lavoro, soprattutto il lavoro precario. […] Signori, quando chi ha un lavoro è povero, non si scappa, quel lavoro è sottopagato, perché non abbiamo altra strada. […] Non c'è cuneo fiscale che produca, da un lavoro sottopagato, un lavoro pagato.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Giustizia",
+    "Famiglia e natalità"
+   ],
    "parole": 1515,
    "url": "https://www.camera.it/leg19/410?idSeduta=0129&tipo=stenografico#sed0129.stenografico.tit00090.sub00010.int00080"
   },
@@ -359,7 +551,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Non è che non accetti, perché non apprezzi la disponibilità del Governo, ma c'è un punto molto semplice: la riformulazione proposta rende l'ordine del giorno - che già è uno strumento poco vincolante, per usare un termine caro ai miei colleghi - acqua fresca. […]",
+   "sunto": "Non è che non accetti, perché non apprezzi la disponibilità del Governo, ma c'è un punto molto semplice: la riformulazione proposta rende l'ordine del giorno - che già è uno strumento poco vincolante, per usare un termine caro ai miei colleghi - acqua fresca.",
+   "temi": [],
    "parole": 180,
    "url": "https://www.camera.it/leg19/410?idSeduta=0146&tipo=stenografico#sed0146.stenografico.tit00140.sub00010.int00160"
   },
@@ -372,7 +565,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Presidente, solo perché ritengo particolarmente importante lasciare agli atti di questa discussione che la richiesta che il collega Silvestri ha avanzato ieri e reiterato oggi è una richiesta sacrosanta. Non ci metto il carico di polemiche e di pretestuosità in un momento nel quale non credo che questo Parlamento se lo possa permettere, però, in questo momento, uomini dello Stato, Vigili del fuoco e uomini delle Forz […]",
+   "sunto": "Solo perché ritengo particolarmente importante lasciare agli atti di questa discussione che la richiesta che il collega Silvestri ha avanzato ieri e reiterato oggi è una richiesta sacrosanta.",
+   "temi": [
+    "Sicurezza e criminalità"
+   ],
    "parole": 115,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00040.int00060"
   },
@@ -385,7 +581,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. In questa dichiarazione di voto proverò a spiegare le ragioni per cui il nostro gruppo ha lasciato ai deputati libertà di coscienza nell'espressione del voto di oggi. Ha lasciato libertà di coscienza perché noi oggi discutiamo una modifica del diritto penale di cui parlerò in seguito ma che sottintende un reato che riguarda la pratica della maternità surrogata. […]",
+   "sunto": "Ha lasciato libertà di coscienza perché noi oggi discutiamo una modifica del diritto penale di cui parlerò in seguito ma che sottintende un reato che riguarda la pratica della maternità surrogata.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 1256,
    "url": "https://www.camera.it/leg19/410?idSeduta=0147&tipo=stenografico#sed0147.stenografico.tit00140.sub00020.int00140"
   },
@@ -398,7 +597,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Insomma, ci proponete di rinviare l'analisi della nostra proposta sul salario minimo. Ci chiedete di sospendere, come avete fatto sul MES, come avete fatto sul disegno di legge delega sul voto ai fuori sede, prendendovi 18 mesi per la delega. Ci chiedete di sospendere il salario minimo; diciamo che a questa maggioranza non manca la linearità: l'importante è che se ne discuta più avanti. […]",
+   "sunto": "In secondo luogo: signori, la strada maestra - ci avete risposto - è la contrattazione; un minuto dopo, Rizzetto mi ha spiegato che non è colpa sua se i sindacati firmano i contratti a 5, 6, 7 euro l'ora.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 769,
    "url": "https://www.camera.it/leg19/410?idSeduta=0153&tipo=stenografico#sed0153.stenografico.tit00040.int00140"
   },
@@ -411,7 +614,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Mi faccia, in apertura, rivolgere un pensiero ai colleghi della maggioranza, perché non è solo un problema di fuga - fuga da una discussione, fuga dalla realtà - perché poi alla fine, al netto della proposta, c'è un problema nella realtà italiana. È un'operazione - io penso anche faticosa sul piano del fiato - di depistaggio delle responsabilità. […]",
+   "sunto": "Ci avete chiesto di darvi due mesi e avete chiesto un incontro. […] Tornate in Commissione, ma il vero problema non è che siete contrari al salario minimo ma che non avete un'agenda che contenga il termine “lavoro” nel vostro Governo . […] Lo stesso avete fatto con il salario minimo, perché la Meloni e Salvini dicevano che volevano il salario minimo, quando non erano al Governo.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 824,
    "url": "https://www.camera.it/leg19/410?idSeduta=0180&tipo=stenografico#sed0180.stenografico.tit00050.int00140"
   },
@@ -424,7 +630,17 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "A-IV-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, io non so se è scappata la frizione o non è scappata la frizione. So che in una giornata intensa di lavoro dei due rami del Parlamento non dovrebbe mai mancare, nemmeno negli interventi dai banchi, il senso della gravitas di questa fase. Lei l'ha restituito molto bene oggi. […]",
+   "sunto": "Il Ministro Crosetto, con responsabilità, ha posto un tema: attenzione, perché il 4 novembre è la giornata nella quale noi vogliamo rendere quell'omaggio alle Forze armate che lei ha tributato anche oggi ma mette le Forze armate e la cittadinanza dinanzi alla possibilità di luoghi in cui vi è…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Esteri e difesa",
+    "Unione europea",
+    "Ambiente e clima",
+    "Famiglia e natalità"
+   ],
    "parole": 1616,
    "url": "https://www.camera.it/leg19/410?idSeduta=0184&tipo=stenografico#sed0184.stenografico.tit00150.sub00040.int00140"
   },
@@ -437,7 +653,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Non solo credo che utilizzerò meno del tempo che ho a disposizione, ma accoglierò il suo invito a un intervento esclusivamente rivolto a lei. È rivolto a lei intanto per ringraziarla, perché ha ragione il collega Fratoianni: oggi le opposizioni segnano un punto e ottengono un fatto di cui dovrebbe andare fiero tutto il Parlamento, perché lo difendono e affermano il principio che il Parlamento si p […]",
+   "sunto": "No, Presidente - e questa è una cosa a cui tengo moltissimo -: noi le abbiamo scritto una lettera, alla quale lei ha dato risposta nella Conferenza dei presidenti di gruppo -, chiedendo che fosse rispettato su questo passaggio l'articolo 80 e che ci fosse un disegno di legge di ratifica, che…",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 942,
    "url": "https://www.camera.it/leg19/410?idSeduta=0199&tipo=stenografico#sed0199.stenografico.tit00060.sub00010.int00200"
   },
@@ -450,7 +669,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Grazie, Ministro. Se lei, oggi, in quest'Aula annuncia il salvataggio e la continuità dell'attività di Holostem, mi ritengo soddisfatto. Se lei subordina questo a qualunque condizione, la mia soddisfazione non è piena. […]",
+   "sunto": "Perché salvare la vita al piccolo Hassan, che era in fin di vita e in coma, un bambino siriano che aveva bisogno, con le staminali, di ricostruire il tessuto della pelle, non so se abbia compatibilità industriale e se stia nei conti dell'azienda, ma quell'intervento non ha prezzo.",
+   "temi": [],
    "parole": 232,
    "url": "https://www.camera.it/leg19/410?idSeduta=0205&tipo=stenografico#sed0205.stenografico.tit00050.sub00020.int00060"
   },
@@ -463,7 +683,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per un intervento più sobrio - non straccerò nulla - ma a seguito della conferma del testo, che avete appena confermato in quest'Aula, che snatura completamente l'iniziativa parlamentare delle opposizioni, annuncio la firma, mia e di tutti i componenti del mio gruppo, da questo testo… Sì, il ritiro. […]",
+   "sunto": "Per un intervento più sobrio - non straccerò nulla - ma a seguito della conferma del testo, che avete appena confermato in quest'Aula, che snatura completamente l'iniziativa parlamentare delle opposizioni, annuncio la firma, mia e di tutti i componenti del mio gruppo, da questo testo… Sì, il ritiro.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 203,
    "url": "https://www.camera.it/leg19/410?idSeduta=0209&tipo=stenografico#sed0209.stenografico.tit00080.int00290"
   },
@@ -476,7 +699,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il dibattito parlamentare attorno a quest'oggetto, attorno a questo tema, attorno a questo provvedimento forse è esaurito, nel senso che, a più riprese, ci siamo trovati in quest'Aula l'opposizione a portare le proprie argomentazioni, ma non solo in quest'Aula, perché chi tenta oggi di chiamarsi fuori da questa discussione, dicendo che è andato in scena l'ennesimo teatrino tra destra e sinistra, d […]",
+   "sunto": "Guardate, più che di ciò che ci siamo detti in quest'Aula in questi mesi mi interessa mettere a fuoco ciò che sta accadendo nelle ultime 36 ore, perché da ieri sera - e porto in quest'Aula un dibattito pubblico, finanche un confronto televisivo che ho avuto con esponenti della maggioranza - la…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 406,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00030.sub00010.int00140"
   },
@@ -489,7 +715,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Si chiamano forze politiche e si chiamano proposte di legge perché affrontano le cose nel merito. Io non faccio il sindacalista del sindacato e, se è vero che il sindacato firma i contratti a 5 euro, sapete cosa facciamo? Facciamo una legge che mette il pavimento alla contrattazione a 9 euro e risolviamo il problema, invece di dire che il problema è il sindacato . […]",
+   "sunto": "A tal riguardo, non la pretestuosa opposizione di questo Parlamento, ma docenti che si occupano di lavoro, come il professor Faioli dell'università Cattolica del Sacro Cuore - che su questo ha prodotto un paper molto interessante e ha dato un contributo molto interessante -, dicono: attenzione,…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Scuola e università"
+   ],
    "parole": 856,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00030.sub00010.int00160"
   },
@@ -502,7 +732,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro Crosetto, se c'è una cosa che ho imparato in questi ormai 10 anni di permanenza sui banchi del Parlamento della Repubblica, è che, quando il Paese è chiamato ad affrontare scenari di politica estera e scenari di conflitto così complessi e delicati, le forze politiche e il Parlamento si uniscono, perché, quando mettiamo in campo la nostra migliore diplomazia, le ragazze e i ragazzi delle n […]",
+   "sunto": "Se c'è una cosa che ho imparato in questi ormai 10 anni di permanenza sui banchi del Parlamento della Repubblica, è che, quando il Paese è chiamato ad affrontare scenari di politica estera e scenari di conflitto così complessi e delicati, le forze politiche e il Parlamento si uniscono, perché,…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 902,
    "url": "https://www.camera.it/leg19/410?idSeduta=0210&tipo=stenografico#sed0210.stenografico.tit00070.sub00020.int00200"
   },
@@ -515,7 +749,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, potremmo dire: non confermo e non smentisco. Non si è capito. L'idea che possiamo avere il nucleare senza le centrali nucleari ha lasciato perplesso anche il Ministro che ha appena lasciato l'Aula, il suo collega Salvini, perché l'importante è avere una posizione. […]",
+   "sunto": "L'idea che possiamo avere il nucleare senza le centrali nucleari ha lasciato perplesso anche il Ministro che ha appena lasciato l'Aula, il suo collega Salvini, perché l'importante è avere una posizione. […] Il mio collega Bonelli ha una posizione molto chiara sul nucleare, Azione ce l'ha molto chiara sul nucleare e ce l'ha chiara in virtù, Presidente, dei seguenti dati.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa"
+   ],
    "parole": 318,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00030.sub00080.int00060"
   },
@@ -528,7 +766,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo sull'ordine dei lavori perché in realtà penso che siamo tutti qua a cercare di dare funzionalità a questo Parlamento. Quindi, è un esercizio per me insolito quello dell'ostruzionismo della maggioranza, legittimo ma insolito. Lo dico perché qui nessuno vuole pronunciare il problema: non si deve discutere il MES in quest'Aula. […]",
+   "sunto": "Lo dico perché qui nessuno vuole pronunciare il problema: non si deve discutere il MES in quest'Aula. […] Abbiamo capito, non si deve discutere il MES in quest'Aula, non si deve arrivare a discutere di MES.",
+   "temi": [],
    "parole": 281,
    "url": "https://www.camera.it/leg19/410?idSeduta=0213&tipo=stenografico#sed0213.stenografico.tit00120.int00040"
   },
@@ -541,7 +780,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, però questa è una discussione che riguarda un punto centrale, che non è solo il funzionamento di quest'Aula, ma anche il rispetto delle cose che ci diciamo nella Conferenza dei presidenti di gruppo, perché altrimenti è inutile sia convocarla che svolgerla. […]",
+   "sunto": "Però questa è una discussione che riguarda un punto centrale, che non è solo il funzionamento di quest'Aula, ma anche il rispetto delle cose che ci diciamo nella Conferenza dei presidenti di gruppo, perché altrimenti è inutile sia convocarla che svolgerla.",
+   "temi": [],
    "parole": 72,
    "url": "https://www.camera.it/leg19/410?idSeduta=0214&tipo=stenografico#sed0214.stenografico.tit00030.int00740"
   },
@@ -554,7 +794,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Siccome io ho l'abitudine di ascoltare, bisogna che diventiamo contagiosi, altrimenti c'è un problema. Sa qual è, Presidente, il problema? Non è non fare il MES, ma non fare nemmeno la legge di delegazione europea e non fare nulla, perché così nemmeno la prossima settimana si fa il MES ! Il giochino che stanno mettendo in campo è: oggi si fa solo questo provvedimento. […]",
+   "sunto": "Mentre tutte le opposizioni, quando hanno un impegno, lo chiedono, lo formalizzano e lo chiedono in Capigruppo, c'è un'arroganza tale per cui oggi interromperemo i lavori - Atreju o non Atreju - e neanche ci informano !",
+   "temi": [],
    "parole": 185,
    "url": "https://www.camera.it/leg19/410?idSeduta=0214&tipo=stenografico#sed0214.stenografico.tit00030.int00770"
   },
@@ -567,7 +808,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Solo per sottolineare e riprendere il concetto che ha espresso il collega Fornaro, perché il precedente di un utilizzo, strumentale, del parere della Commissione, non di merito, esula dal tema maggioranza-opposizione. […]",
+   "sunto": "Solo per sottolineare e riprendere il concetto che ha espresso il collega Fornaro, perché il precedente di un utilizzo, strumentale, del parere della Commissione, non di merito, esula dal tema maggioranza-opposizione.",
+   "temi": [],
    "parole": 127,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00040.int00120"
   },
@@ -580,7 +822,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Vorrei ricordare a tutti noi che non siamo di fronte a un voto procedurale. La procedura di urgenza non determina solo tempi e modi con cui l'Aula affronterà questo provvedimento, ma è un voto che, in qualche modo ci dovrebbe far porre una domanda. […]",
+   "sunto": "Quindi, se il tema dei costi non è un tema che quell'Accordo affronti in maniera chiara come fa il Parlamento a darsi una procedura di urgenza, dentro a questa mancanza di chiarezza?",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 312,
    "url": "https://www.camera.it/leg19/410?idSeduta=0218&tipo=stenografico#sed0218.stenografico.tit00060.int00140"
   },
@@ -593,7 +838,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie Presidente. Colleghi, vi chiedo solo un attimo di attenzione perché, quando abbiamo in Capigruppo deciso con un accordo politico, come opposizione, di impegnarci a non inondare di migliaia di emendamenti questa discussione e, come maggioranza, di non porre la fiducia e di far svolgere un dibattito parlamentare - lei, Presidente, era presente a quella Capigruppo -, l'opposizione è stata anche criticata perché f […]",
+   "sunto": "Vi chiedo solo un attimo di attenzione perché, quando abbiamo in Capigruppo deciso con un accordo politico, come opposizione, di impegnarci a non inondare di migliaia di emendamenti questa discussione e, come maggioranza, di non porre la fiducia e di far svolgere un dibattito parlamentare - lei,…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 368,
    "url": "https://www.camera.it/leg19/410?idSeduta=0220&tipo=stenografico#sed0220.stenografico.tit00030.sub00010.int00100"
   },
@@ -606,7 +854,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. La deluderò, e me ne scuso in anticipo, perché non farò un intervento di colore e, soprattutto, parlerò della legge di bilancio, e quindi su questo mi sono preparato, perché, quando le discussioni diventano un po' a tema libero, sono anche abbastanza pericolose. […]",
+   "sunto": "Non saranno nelle priorità e nelle intenzioni, ma c'è una questione enorme e c'è una questione enorme circa il fatto che quando gli italiani si accorgeranno che ciò che lasciamo nelle loro tasche - sono 50, 80, 100, 110 euro, non lo so - non basteranno a coprire una prestazione - con i 100 euro…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 1445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0220&tipo=stenografico#sed0220.stenografico.tit00110.sub00010.int00160"
   },
@@ -619,7 +875,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervenire dopo il collega Fratoianni lo considero un privilegio perché se c'è un collega che più stimo nel dibattito - e lo dico anche quando le nostre posizioni non coincidono - è certamente lui. […]",
+   "sunto": "E noi, oggi, dobbiamo fare una considerazione su un punto: che la pace la raggiungiamo in un minuto senza assicurare sostegno al popolo ucraino; il conflitto cessa il minuto dopo, se non assicuriamo sostegno al popolo ucraino.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1182,
    "url": "https://www.camera.it/leg19/410?idSeduta=0223&tipo=stenografico#sed0223.stenografico.tit00040.sub00010.int00120"
   },
@@ -632,7 +892,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Signor Presidente, i colleghi e la Presidenza hanno tracciato un profilo di Giulio Santagata che ha ricordato le principali tappe del suo percorso politico. Mi faccia aggiungere solo qualche aspetto in più sull'uomo, in questo momento di commemorazione, perché per chi come noi - guardo il collega Stefano Vaccari - ha mosso i primi passi della politica nella sua Modena, nel tempo de L'Ulivo, per chi, come me, ha ricev […]",
+   "sunto": "La frequentazione, questo cammino straordinario che è la politica che abbiamo fatto insieme, insieme a tanti nella nostra Modena e nella nostra Emilia, ci ha dato il privilegio, al suo fianco, di accedere ad un cenacolo bello di pensatori del nostro mondo.",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 447,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00050.int00130"
   },
@@ -645,7 +908,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, stiamo parlando di una delle aziende simbolo del nostro Paese, già FIAT, poi FCA, oggi Stellantis, azienda che ha ricevuto dallo Stato italiano nel 2021 una garanzia per oltre 6 miliardi, garanzia vincolata al fatto che non ci fossero nell'anno successivo al prestito dividendi. Dopo un anno e un giorno i dividendi ci sono stati eccome, per quasi 3 miliardi. […]",
+   "sunto": "Stiamo parlando di una delle aziende simbolo del nostro Paese, già FIAT, poi FCA, oggi Stellantis, azienda che ha ricevuto dallo Stato italiano nel 2021 una garanzia per oltre 6 miliardi, garanzia vincolata al fatto che non ci fossero nell'anno successivo al prestito dividendi.",
+   "temi": [],
    "parole": 147,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00020.int00020"
   },
@@ -658,7 +922,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io mi rivolgo a lei, Presidente, all'intero Governo e anche all'Aula, perché non vorrei che questa questione diventasse un elemento di puntiglio verso un'azienda, una proprietà, tanto meno un organo di informazione. […]",
+   "sunto": "Io mi rivolgo a lei, Presidente, all'intero Governo e anche all'Aula, perché non vorrei che questa questione diventasse un elemento di puntiglio verso un'azienda, una proprietà, tanto meno un organo di informazione. […] Noi nel 2017, al netto di chi era il proprietario dell'azienda FCA, producevamo oltre un milione di veicoli; nel 2022, siamo arrivati a 685.000, con un calo dell'occupazione del 30 per cento.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 202,
    "url": "https://www.camera.it/leg19/410?idSeduta=0232&tipo=stenografico#sed0232.stenografico.tit00070.sub00020.int00060"
   },
@@ -671,7 +938,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Come correttamente ha inquadrato, nella sua descrizione, noi, oggi, iniziamo il dibattito sulla proposta di mozione di sfiducia al Vicepresidente del Consiglio dei ministri e, in considerazione della presenza del Governo e in particolar modo del Ministro Calderoli - la prendo come un gesto di attenzione a questa discussione -, voglio subito fare una precisazione: questa non è una mozione di sfiduc […]",
+   "sunto": "Per me, la discussione sulla mozione di sfiducia ha una centralità, un'importanza, per cui chiederei di restituire a questo dibattito il merito della discussione e il merito della discussione riguarda un punto molto preciso: il Vicepresidente del Consiglio dei ministri ha siglato, in quanto capo…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 1262,
    "url": "https://www.camera.it/leg19/410?idSeduta=0269&tipo=stenografico#sed0269.stenografico.tit00060.sub00010.int00020"
   },
@@ -684,7 +954,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io spero di non intervenire fuori tempo massimo, ma mi rivolgo a lei, all'Aula e al presidente Mollicone. Il modo di lavorare di un Parlamento qualifica il senso e la responsabilità con cui interpreta la propria missione. Scusate, ma noi stiamo assistendo, su questo provvedimento, a una cosa che faccio fatica a descrivere. […]",
+   "sunto": "Si alza il deputato che si vede inserito il suo teatro e allora va tutto bene, madama la marchesa, all'interno degli stessi gruppi ci sono posizioni differenti, poi si alza Richetti da Modena, che vede che ci sono Piacenza, Parma, Reggio, un buco, Modena. […] Allora, il mio gruppo si chiamerà fuori, perché altrimenti dovremmo valutare, deputato per deputato, se è soddisfatta la richiesta territoriale oppure no.",
+   "temi": [],
    "parole": 250,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00080.sub00010.int00240"
   },
@@ -697,7 +968,12 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io ho già avuto modo di intervenire in discussione generale come primo firmatario di questa mozione di sfiducia al Vicepremier Salvini. Lo dico senza alcun elemento polemico: sono dispiaciuto che né in quell'occasione né oggi il Ministro sia a portare le proprie argomentazioni e sono altrettanto dispiaciuto che nell'intervento del collega Lupi si sia definita questa mozione un utilizzo strumentale […]",
+   "sunto": "E non lo è a tal punto che abbiamo sempre ribadito, tutti i firmatari, che, poiché la mozione - scusatemi, ma è di una semplicità quasi imbarazzante - dice che c'è un accordo, a quanto ci risulta, che impegna il Vicepremier, se quell'accordo non c'è più questa mozione viene immediatamente ritirata.",
+   "temi": [
+    "Fisco e tasse",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1102,
    "url": "https://www.camera.it/leg19/410?idSeduta=0272&tipo=stenografico#sed0272.stenografico.tit00140.sub00010.int00120"
   },
@@ -710,7 +986,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. In realtà, non ci sono molte parole da aggiungere a quelle che lei ha pronunciato in apertura di questo momento. Non ci sono molte parole, anche perché queste sono le ore in cui questo Parlamento, questo Paese, la comunità di Camugnano, sono attraversati da due sentimenti: quello del dolore di chi ha perso un amico, un collega, un padre, un figlio, e quello dell'angoscia di chi sta attendendo un v […]",
+   "sunto": "In quest'Aula, molte volte ci siamo detti che non si può morire di lavoro e non dobbiamo nemmeno fare l'errore di trasformare momenti come questo, di doveroso cordoglio e di commemorazione, in una retorica che viene aggiornata da bilanci drammatici.",
+   "temi": [],
    "parole": 421,
    "url": "https://www.camera.it/leg19/410?idSeduta=0277&tipo=stenografico#sed0277.stenografico.tit00050.int00120"
   },
@@ -723,7 +1000,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Questo, per noi, è il cuore del problema di questo provvedimento. Il cuore del problema di questo provvedimento, che si chiama “come vengono finanziati i LEP”, è la ragione per cui l'opposizione, che al Senato ha aperto con un voto di astensione, un'interlocuzione su questo provvedimento, oggi, in questa Camera, si opporrà con tutte le forze ad una presa in giro che non ha avuto risposta. […]",
+   "sunto": "Il cuore del problema di questo provvedimento, che si chiama “come vengono finanziati i LEP”, è la ragione per cui l'opposizione, che al Senato ha aperto con un voto di astensione, un'interlocuzione su questo provvedimento, oggi, in questa Camera, si opporrà con tutte le forze ad una presa in… […] La presa in giro che non ha avuto risposta si chiama “come finanziate i LEP” .",
+   "temi": [],
    "parole": 370,
    "url": "https://www.camera.it/leg19/410?idSeduta=0305&tipo=stenografico#sed0305.stenografico.tit00030.sub00010.int00670"
   },
@@ -736,7 +1014,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, solo per associarmi a questa richiesta che - poiché sono le ore 12,40 e avendo l'Ufficio di Presidenza alle 13 - potremmo tranquillamente portarla nell'ambito del buon senso, non dello scontro dialettico tra maggioranza e opposizione, anche perché, prima di ogni altra cosa, forse abbiamo bisogno di riportare ordine ai lavori di quest'Aula. […]",
+   "sunto": "Solo per associarmi a questa richiesta che - poiché sono le ore 12,40 e avendo l'Ufficio di Presidenza alle 13 - potremmo tranquillamente portarla nell'ambito del buon senso, non dello scontro dialettico tra maggioranza e opposizione, anche perché, prima di ogni altra cosa, forse abbiamo bisogno…",
+   "temi": [],
    "parole": 102,
    "url": "https://www.camera.it/leg19/410?idSeduta=0306&tipo=stenografico#sed0306.stenografico.tit00050.int00120"
   },
@@ -749,7 +1028,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Nel rispondere alle osservazioni del collega Fornaro, lei ha prodotto i precedenti rispetto ai quali una proposta di legge ordinaria è stata anteposta a un decreto con scadenza. Precedenti molto pochi, per la verità: nel senso che ne ha citati uno o due. […]",
+   "sunto": "Nel rispondere alle osservazioni del collega Fornaro, lei ha prodotto i precedenti rispetto ai quali una proposta di legge ordinaria è stata anteposta a un decreto con scadenza.",
+   "temi": [],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00060.int00120"
   },
@@ -762,7 +1042,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Credo per 5 minuti, Presidente, sono il primo del mio gruppo. Grazie, Presidente. In realtà, il Ministro, nel suo intervento, ha dato una notizia importante ed è anche apprezzabile per sincerità. Il Ministro ha detto: io non condivido l'intero elenco di materie sulle quali si può attuare l'autonomia. […]",
+   "sunto": "Ma è evidente che non gira questo tipo di attuazione e la strada maestra, Ministro, era prendere la riforma e la modifica della Costituzione e introdurre un elenco percorribile, attuabile di funzioni delegabili.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 428,
    "url": "https://www.camera.it/leg19/410?idSeduta=0309&tipo=stenografico#sed0309.stenografico.tit00070.sub00010.int00390"
   },
@@ -775,7 +1058,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Mi rivolgo al Sottosegretario Mantovano, sapendo dell'impegno della Presidente e lo ringrazio per l'attenzione che mi riserva. Il nostro gruppo ha sempre avuto un atteggiamento di opposizione pronta a riconoscere gli elementi che la Presidente del Consiglio ha portato prima delle comunicazioni del Consiglio europeo. Lo abbiamo fatto sui temi della politica internazionale, sui temi dell'Ucraina. […]",
+   "sunto": "La Presidente Meloni ha parlato di una crisi di gradimento dell'Europa. […] Vede, Presidente, io ho apprezzato quando, in chiusura dell'intervento iniziale della Meloni, la Premier ha pronunciato le parole “mi batterò per difendere la democrazia anche in questo Parlamento”, però, suo tramite, Presidente, vorrei invitare la Meloni a unirsi a noi a difendere la democrazia…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1373,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00040.sub00010.int00150"
   },
@@ -788,7 +1075,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Stiamo diventando un Parlamento di analisti, cioè di persone che, di fronte a un problema, si confrontano sul perché non lo affrontano, ma il mestiere del Parlamento non dovrebbe essere questo. […]",
+   "sunto": "Stiamo diventando un Parlamento di analisti, cioè di persone che, di fronte a un problema, si confrontano sul perché non lo affrontano, ma il mestiere del Parlamento non dovrebbe essere questo.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 533,
    "url": "https://www.camera.it/leg19/410?idSeduta=0314&tipo=stenografico#sed0314.stenografico.tit00180.sub00020.int00080"
   },
@@ -801,7 +1091,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Oggi quest'Aula aveva un'opportunità e aveva un bivio davanti a questa opportunità: la prima strada era un ordine del giorno proposto dal collega Lacarra, riformulato dal Governo e che andava verso l'approvazione unanime dell'Aula del Parlamento, certamente con un impegno più blando rispetto alla scrittura originaria, ma che segnava un'indicazione concreta rispetto all'intervento sulle case famigl […]",
+   "sunto": "Oggi quest'Aula aveva un'opportunità e aveva un bivio davanti a questa opportunità: la prima strada era un ordine del giorno proposto dal collega Lacarra, riformulato dal Governo e che andava verso l'approvazione unanime dell'Aula del Parlamento, certamente con un impegno più blando rispetto…",
+   "temi": [],
    "parole": 269,
    "url": "https://www.camera.it/leg19/410?idSeduta=0342&tipo=stenografico#sed0342.stenografico.tit00040.sub00010.int01680"
   },
@@ -814,7 +1105,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, vorrei intervenire sull'ordine dei lavori per rivolgerle una richiesta. Ieri, il Presidente Draghi, in una relazione su punti centrali non solo circa lo stato… È su un altro argomento, sull'ordine dei lavori, ma su un altro punto, grazie, Presidente. Ieri, il Presidente Draghi ha toccato, nella relazione, punti centrali non solo dell'attualità, ma della prospettiva dell'Unione europea. […]",
+   "sunto": "Ieri, il Presidente Draghi, in una relazione su punti centrali non solo circa lo stato… È su un altro argomento, sull'ordine dei lavori, ma su un altro punto, grazie, Presidente. […] Ieri, il Presidente Draghi ha toccato, nella relazione, punti centrali non solo dell'attualità, ma della prospettiva dell'Unione europea.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 127,
    "url": "https://www.camera.it/leg19/410?idSeduta=0343&tipo=stenografico#sed0343.stenografico.tit00160.int00040"
   },
@@ -827,7 +1121,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Questo non è, però, un dibattito astratto sui temi dei diritti, della cittadinanza che vede anche posizioni legittimamente differenti. La nostra posizione, ad esempio, è fissata in un progetto di legge a prima firma del nostro vicesegretario nazionale, Ettore Rosato, ed è la posizione di Azione appunto in una proposta di legge. […]",
+   "sunto": "A tal punto che, in maniera molto efficace, anche in una conclusione di un recente meeting di Forza Italia, Tajani ha tenuto con convinzione il punto, dicendo: come fa una forza popolare e liberale a non riconoscere questo passo in avanti, fondato su un'esperienza educativa e formativa?",
+   "temi": [],
    "parole": 455,
    "url": "https://www.camera.it/leg19/410?idSeduta=0344&tipo=stenografico#sed0344.stenografico.tit00030.sub00080.int00140"
   },
@@ -840,7 +1135,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Quello che sta accadendo in quest'Aula è difficilmente spiegabile, perché il tema non è l'emendamento della Commissione che prevede una relazione annuale, il tema è perché noi stiamo discutendo, per poi approvare con i voti di questa maggioranza, un articolo che cambia radicalmente un principio. […]",
+   "sunto": "Con oggi, finisce non solo l'estate, ma anche il tempo delle dichiarazioni estive di mezza maggioranza, perché finisce il tempo dello ius scholae , finisce il tempo delle detenute madri, finisce il tempo della produzione industriale della canapa a fini industriali, perché il furore ideologico…",
+   "temi": [],
    "parole": 513,
    "url": "https://www.camera.it/leg19/410?idSeduta=0345&tipo=stenografico#sed0345.stenografico.tit00060.sub00010.int00100"
   },
@@ -853,7 +1149,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Mi unisco agli interventi dei colleghi, perché c'è chi è espressione in quest'Aula di quella terra, dell'Emilia-Romagna e non solo, perché dalle Marche arrivano immagini e situazioni del tutto analoghe e credo, Presidente, che quest'Aula, in questo momento, debba essere all'altezza di quelle persone che, per conto dello Stato, sono impegnate - e le immagini arrivano a tutti noi - a far salire le f […]",
+   "sunto": "Mi unisco agli interventi dei colleghi, perché c'è chi è espressione in quest'Aula di quella terra, dell'Emilia-Romagna e non solo, perché dalle Marche arrivano immagini e situazioni del tutto analoghe e credo, Presidente, che quest'Aula, in questo momento, debba essere all'altezza di quelle…",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 388,
    "url": "https://www.camera.it/leg19/410?idSeduta=0350&tipo=stenografico#sed0350.stenografico.tit00040.int00060"
   },
@@ -866,7 +1165,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, le voglio dire che l'attenzione e il rispetto che lei sta mettendo verso questo Parlamento non sono né un fatto scontato, né un fatto di poco valore, perché, in un momento come questo, lei lo ha già fatto davanti alle Commissioni riunite di Camera e Senato, esteri e difesa, qualche settimana fa, lo fa oggi e, vede, io sono di ritorno, solo ieri sera, da una missione per conto della deleg […]",
+   "sunto": "E nel racconto dei fatti c'è l'amico Israele che sfonda le basi UNIFIL, dove noi siamo impegnati in missione di pace ed è un'amicizia particolare, quella di chi sfonda una presenza di pace nel nostro Paese; lo dico senza alcun elemento né di polemica né di attacco, perché tra l'altro quella…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 1002,
    "url": "https://www.camera.it/leg19/410?idSeduta=0367&tipo=stenografico#sed0367.stenografico.tit00040.sub00020.int00240"
   },
@@ -879,7 +1181,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per unirmi alla richiesta dei colleghi dell'opposizione e per aggiungere una sola considerazione. In quest'Aula, durante tutti i passaggi che hanno visto la costruzione del Protocollo con l'Albania, abbiamo provato ad aprire un ragionamento e a farvi comprendere come quel tipo di risposta sarebbe stata un fallimento dal punto di vista economico, della procedura e della sua efficacia. […]",
+   "sunto": "In quest'Aula, durante tutti i passaggi che hanno visto la costruzione del Protocollo con l'Albania, abbiamo provato ad aprire un ragionamento e a farvi comprendere come quel tipo di risposta sarebbe stata un fallimento dal punto di vista economico, della procedura e della sua efficacia.",
+   "temi": [
+    "Immigrazione"
+   ],
    "parole": 184,
    "url": "https://www.camera.it/leg19/410?idSeduta=0370&tipo=stenografico#sed0370.stenografico.tit00060.int00120"
   },
@@ -892,7 +1197,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Vorrei che fossimo consapevoli di cosa sta producendo questo approccio che ieri il Ministro ha avuto nei confronti del tema della violenza di genere. Cosa sta producendo? Si possono affermare le parole “il contrasto al patriarcato è una guerra ideologica”? Signori, ma, se esiste il femminicidio, è perché ci sono uomini che uccidono le donne . Siamo oltre l'interpretabile. […]",
+   "sunto": "E se tu sei Ministro e pronunci queste parole il giorno che si dà vita a una fondazione che ricorda Giulia Cecchettin, ti sfuggono due questioni: non sono solo i fatti, ma anche la necessità di fare un lavoro di contrasto a ciò che ha prodotto la morte di Giulia Cecchettin.",
+   "temi": [],
    "parole": 233,
    "url": "https://www.camera.it/leg19/410?idSeduta=0383&tipo=stenografico#sed0383.stenografico.tit00120.int00060"
   },
@@ -905,7 +1211,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ci mancava oggi il punto su cui dividere l'Aula di questo Parlamento. In fondo, si chiude una settimana dove, sull'autonomia, ci siamo contraddistinti per grande capacità di dialogo tra maggioranza e opposizione, addirittura un esercizio sulla violenza di genere contro le donne, che chiude la settimana che anticipa la giornata del 25 novembre, senza una posizione e un indirizzo comuni, e oggi rius […]",
+   "sunto": "In fondo, si chiude una settimana dove, sull'autonomia, ci siamo contraddistinti per grande capacità di dialogo tra maggioranza e opposizione, addirittura un esercizio sulla violenza di genere contro le donne, che chiude la settimana che anticipa la giornata del 25 novembre, senza una posizione…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 210,
    "url": "https://www.camera.it/leg19/410?idSeduta=0385&tipo=stenografico#sed0385.stenografico.tit00060.int00160"
   },
@@ -918,7 +1227,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro Urso, ci siamo impegnati a porle questo question time davanti ai lavoratori della Beko, che sabato ha incontrato il nostro segretario nazionale Carlo Calenda, perché il 20 di novembre, come lei sa, si sono visti comunicare 2.000 esuberi e la chiusura degli stabilimenti di Siena e Comunanza, dopo che, il 15 novembre, lei aveva assicurato a quest'Aula che il golden power conteneva la garanz […]",
+   "sunto": "Ci siamo impegnati a porle questo question time davanti ai lavoratori della Beko, che sabato ha incontrato il nostro segretario nazionale Carlo Calenda, perché il 20 di novembre, come lei sa, si sono visti comunicare 2.000 esuberi e la chiusura degli stabilimenti di Siena e Comunanza, dopo che,…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 113,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00050.int00020"
   },
@@ -931,7 +1243,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. No, Ministro, siamo sostanzialmente allineati, perché, come giustamente ha ricordato lei, hanno annunciato chiusure negli altri Paesi e lo hanno fatto anche nel nostro Paese, nell'incontro cui lei ha fatto riferimento, il 20 novembre. Mi sono andato a recuperare la relazione del DPCM del 1° maggio, quello con il quale avete posto la golden power . […]",
+   "sunto": "Mi sono andato a recuperare la relazione del DPCM del 1° maggio, quello con il quale avete posto la golden power . […] Allora, siccome, in più riprese, 15 di novembre le sue parole sono state: “ricordo a quest'Aula che, quando ponemmo l'esercizio della golden power ai fini della tutela degli stabilimenti e dei livelli occupazionali italiani, qualcuno disse che forse avevamo esagerato”; “per questo abbiamo deciso…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 263,
    "url": "https://www.camera.it/leg19/410?idSeduta=0392&tipo=stenografico#sed0392.stenografico.tit00010.sub00050.int00060"
   },
@@ -944,7 +1259,15 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Lascio volentieri che si consumi questo momento natalizio tra il Presidente e l'onorevole Fratoianni… Io però, Presidente, comincio ad avere un dubbio, perché è più di una volta che, quando la Presidente viene in Aula prima del Consiglio europeo in occasione delle proprie comunicazioni, c'è una Presidente che fa un'informazione attenta, pacata ed equilibrata e devo dire anche per molti aspetti, so […]",
+   "sunto": "Però, Presidente, non è possibile, ogni volta che interloquiamo, fosse la sanità, sulla quale abbiamo chiesto uno sforzo ulteriore, e non c'è stato, fosse il tema dell' automotive … Lei ci ha dato un aggiornamento importante, dal punto di vista del Governo, su cosa si intenda fare per quel…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Immigrazione",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1496,
    "url": "https://www.camera.it/leg19/410?idSeduta=0399&tipo=stenografico#sed0399.stenografico.tit00040.sub00010.int00210"
   },
@@ -957,7 +1280,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo solo per aggiungere a un attestato di stima nei confronti del collega Letta e - se me lo permette, Presidente - nei confronti di Enrico anche quello di un'amicizia personale e di tanti del nostro gruppo. […]",
+   "sunto": "Semmai ce ne fosse bisogno, Enrico Letta, ancora una volta, dà testimonianza di quel senso delle istituzioni che ha accompagnato il suo e il nostro cammino: quel senso delle istituzioni che ti porta a servirle, a non occuparle nel momento in cui si ricoprono ruoli differenti, a non perdere mai…",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 186,
    "url": "https://www.camera.it/leg19/410?idSeduta=0402&tipo=stenografico#sed0402.stenografico.tit00050.int00060"
   },
@@ -970,7 +1296,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per esprimere, per conto del gruppo di Azione, non solo soddisfazione. Queste sono ore che succedono a quasi 20 giorni di angoscia, di un'angoscia vera, che ci ha unito, lo ricordava il collega Provenzano. […]",
+   "sunto": "Noi sappiamo ricondurre i nostri comportamenti ad un atteggiamento di responsabilità e anche di reciproco riconoscimento solo di fronte a situazioni di emergenza massima e l'ingiusta detenzione di Cecilia Sala è stata una condizione di emergenza massima.",
+   "temi": [],
    "parole": 250,
    "url": "https://www.camera.it/leg19/410?idSeduta=0405&tipo=stenografico#sed0405.stenografico.tit00040.int00060"
   },
@@ -983,7 +1310,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Vorrei fare tre semplici considerazioni da partito e da gruppo che ha la separazione delle carriere nel proprio programma elettorale, da partito e da gruppo che sostiene con convinzione la necessità di separare le carriere tra magistratura inquirente e magistratura giudicante, ma anche da partito che ha una cultura di come si fanno le riforme costituzionali. […]",
+   "sunto": "Vorrei fare tre semplici considerazioni da partito e da gruppo che ha la separazione delle carriere nel proprio programma elettorale, da partito e da gruppo che sostiene con convinzione la necessità di separare le carriere tra magistratura inquirente e magistratura giudicante, ma anche da…",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 795,
    "url": "https://www.camera.it/leg19/410?idSeduta=0406&tipo=stenografico#sed0406.stenografico.tit00040.sub00010.int00260"
   },
@@ -996,7 +1326,10 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Cerco di rubare poco tempo. Vede, qui partono tutti con le migliori intenzioni. Invitano a fare interventi di merito, poi gli scivola la mano e si mettono tutti a ringraziare il Ministro, perché viene a fare un'informativa - i suoi colleghi non sono così difficili - o perché viene al question time (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew Europe e di deputati d […]",
+   "sunto": "Perché, vedete, La Stampa , il 7 gennaio di questo mese, pubblica il rapporto sullo stato dei treni in Italia, prendendo a riferimento il quarto trimestre del 2024: dunque, senza catene, senza sabotaggi, senza esposti, senza Renzi, senza tutto quello che volete, però, dovete stare ai numeri,…",
+   "temi": [
+    "Casa e infrastrutture"
+   ],
    "parole": 890,
    "url": "https://www.camera.it/leg19/410?idSeduta=0413&tipo=stenografico#sed0413.stenografico.tit00100.sub00020.int00300"
   },
@@ -1009,7 +1342,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Sempre sull'articolo 32, comma 3, sul punto che ha sollevato il collega Fornaro, perché le devo fare due richieste. La prima: il collega Fornaro ha proposto che nel verbale che questa Assemblea approva fossero introdotte le interruzioni di quei colleghi di cui si fa riferimento nel resoconto stenografico. Lei ha detto: “La Presidenza recepisce questa indicazione”. […]",
+   "sunto": "Il secondo punto rispetto a ciò che è accaduto (era la Presidenza di turno non sua, Presidente Rampelli): quando Fratoianni interviene sul punto della CPI e riceve le contestazioni “ma che c'entra, ma che c'entra”, la Presidenza lo rassicura dicendo: “Collega, domani discuterà di queste cose in…",
+   "temi": [],
    "parole": 261,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00010.int00300"
   },
@@ -1022,7 +1356,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Sì, Presidente. C'è una richiesta del deputato e collega Faraone di revocare e ripetere la votazione di prima. Ci sono tre punti che la Presidenza non può ignorare: uno, abbiamo approvato un processo verbale con lei che ha chiamato la votazione, una palese richiesta - e legittima, ai sensi del Regolamento - di intervento e metà dei deputati presenti che non hanno partecipato a una votazione, che è stata chiamata in m […]",
+   "sunto": "Ci sono tre punti che la Presidenza non può ignorare: uno, abbiamo approvato un processo verbale con lei che ha chiamato la votazione, una palese richiesta - e legittima, ai sensi del Regolamento - di intervento e metà dei deputati presenti che non hanno partecipato a una votazione, che è stata…",
+   "temi": [],
    "parole": 181,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00070.int00020"
   },
@@ -1035,7 +1370,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo sullo stesso punto. Io voglio rivolgere a lei e ai colleghi di maggioranza la seguente domanda, perché non è vero, Presidente, che noi ieri siamo stati informati che oggi non avremmo rispettato l'ordine dei lavori che la Capigruppo ha deciso. […]",
+   "sunto": "Ieri, alle 19,53, è uscita un'agenzia che ha informato i capigruppo e tutti i colleghi parlamentari che l'ordine dei lavori di oggi cambia rispetto ad una indisponibilità del Governo.",
+   "temi": [],
    "parole": 438,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00070.int00280"
   },
@@ -1048,7 +1384,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, come da lei preannunciato, la mia interrogazione verte sullo stesso tema, cioè la proposta di legge del senatore Borghi e del deputato Bagnai, ripresa dal leader della Lega, Matteo Salvini, circa l'ipotesi di uscire, come Italia, dall'Organizzazione mondiale della sanità, presentata alcuni giorni fa. Ovviamente, non mi risento se il Ministro si rifà allo stesso tipo di risposta.",
+   "sunto": "Come da lei preannunciato, la mia interrogazione verte sullo stesso tema, cioè la proposta di legge del senatore Borghi e del deputato Bagnai, ripresa dal leader della Lega, Matteo Salvini, circa l'ipotesi di uscire, come Italia, dall'Organizzazione mondiale della sanità, presentata alcuni… […] Ovviamente, non mi risento se il Ministro si rifà allo stesso tipo di risposta.",
+   "temi": [
+    "Sanità"
+   ],
    "parole": 59,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00080.sub00040.int00020"
   },
@@ -1061,7 +1400,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, lei ha definito il contributo dei colleghi Borghi e Bagnai e di Salvini utile e costruttivo e poi ha dato una definizione di OMS molto corretta, che io sposo in toto . Però, adesso le leggo la definizione che hanno dato Bagnai e Salvini dell'OMS: L'Italia non deve più avere a che fare con un centro di potere sovranazionale - profumatamente finanziato dai contribuenti italiani - che va a […]",
+   "sunto": "Lei ha definito il contributo dei colleghi Borghi e Bagnai e di Salvini utile e costruttivo e poi ha dato una definizione di OMS molto corretta, che io sposo in toto .",
+   "temi": [],
    "parole": 306,
    "url": "https://www.camera.it/leg19/410?idSeduta=0419&tipo=stenografico#sed0419.stenografico.tit00080.sub00040.int00060"
   },
@@ -1074,7 +1414,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, do il mio contributo a questo divertito dibattito che non avverrà nel merito e questo continua ad essere un problema non da poco per un Parlamento che vorrebbe normare gli aspetti più rilevanti della vita del Paese, ossia la sanità, la scuola e il lavoro. È un dibattito nel quale io avrei posto la mia contrarietà alle proposte che l'opposizione avanza, ma l'avrei posta in maniera interlocutoria. […]",
+   "sunto": "Do il mio contributo a questo divertito dibattito che non avverrà nel merito e questo continua ad essere un problema non da poco per un Parlamento che vorrebbe normare gli aspetti più rilevanti della vita del Paese, ossia la sanità, la scuola e il lavoro.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 390,
    "url": "https://www.camera.it/leg19/410?idSeduta=0427&tipo=stenografico#sed0427.stenografico.tit00050.int00120"
   },
@@ -1087,7 +1430,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per non far mancare al Presidente della Repubblica, Sergio Mattarella, anche la solidarietà del nostro gruppo, del gruppo di Azione, riprendendo l'appello che ha rivolto la collega Braga al Governo, che è un appello a non sottovalutare ciò che sta accadendo. […]",
+   "sunto": "Per non far mancare al Presidente della Repubblica, Sergio Mattarella, anche la solidarietà del nostro gruppo, del gruppo di Azione, riprendendo l'appello che ha rivolto la collega Braga al Governo, che è un appello a non sottovalutare ciò che sta accadendo.",
+   "temi": [],
    "parole": 199,
    "url": "https://www.camera.it/leg19/410?idSeduta=0429&tipo=stenografico#sed0429.stenografico.tit00090.int00080"
   },
@@ -1100,7 +1444,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Solo per lasciare traccia nei nostri lavori di quello che sta accadendo. Il Governo ha dato parere negativo ai nostri ordini del giorno che parlavano di disaccoppiamento e riduzione delle bollette. Segnalo due cose. […]",
+   "sunto": "Faccio rilevare che la maggioranza vota contro esattamente come vota contro il gruppo dei 5 Stelle, in perfetta sintonia sul fatto che difendere l'industria di questo Paese probabilmente non interessa più a nessuno (Applausi dei deputati del gruppo Azione-Popolari Europeisti Riformatori-Renew…",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 252,
    "url": "https://www.camera.it/leg19/410?idSeduta=0430&tipo=stenografico#sed0430.stenografico.tit00040.sub00010.int00420"
   },
@@ -1113,7 +1460,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Bruno Pizzul è stato qualcosa di più che un telecronista noto, che un grande professionista e una voce conosciuta da tanti. Ci sono degli uomini - e ciò vale per gli accadimenti, gli episodi e i luoghi - che non segnano solo la storia di un Paese, ma ne costituiscono anche un po' l'identità, e Bruno Pizzul ha dato un contributo a farci sentire tutti italiani, più italiani. […]",
+   "sunto": "Bruno Pizzul è stato qualcosa di più che un telecronista noto, che un grande professionista e una voce conosciuta da tanti. […] E un monito, perché quest'Aula possa, nell'omaggio a Bruno Pizzul, assumere un po' di quella pacatezza e quella gentilezza che fa bene a tutta l'Italia .",
+   "temi": [],
    "parole": 194,
    "url": "https://www.camera.it/leg19/410?idSeduta=0440&tipo=stenografico#sed0440.stenografico.tit00080.int00140"
   },
@@ -1126,7 +1474,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Premesso che ogni comportamento parlamentare è legittimo, compreso quello del silenzio, vorrei riprendere un ragionamento che prima ha fatto il collega Fornaro. Noi siamo in prima lettura di un provvedimento che, se cambiassimo in questo momento, non modificherebbe, in termini di iter, questa normativa, perché andrebbe al Senato con una lettura che uscirebbe, da questa Camera, completa. […]",
+   "sunto": "Ora, c'è un emendamento, ce n'è stata una serie di emendamenti che ponevano due questioni molto semplici: siamo d'accordo che sulle comunicazioni di rilevanza rispetto alla sicurezza nazionale, di rilevanza rispetto al suo contenuto strategico, ci sono due criteri di riferimento, cioè ci si…",
+   "temi": [],
    "parole": 235,
    "url": "https://www.camera.it/leg19/410?idSeduta=0441&tipo=stenografico#sed0441.stenografico.tit00070.int00280"
   },
@@ -1139,7 +1488,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, non riconoscere e usare le parole che ha usato su Il Manifesto di Ventotene, ed usarle così strumentalmente, perché capisco il tentativo di prendere una parola che fa riferimento alle organizzazioni politiche e ai processi democratici, ma quelle parole sono la conseguenza di anni di fascismo in questo Paese e lei non può ignorare questo fatto . […]",
+   "sunto": "Non riconoscere e usare le parole che ha usato su Il Manifesto di Ventotene, ed usarle così strumentalmente, perché capisco il tentativo di prendere una parola che fa riferimento alle organizzazioni politiche e ai processi democratici, ma quelle parole sono la conseguenza di anni di fascismo in…",
+   "temi": [],
    "parole": 93,
    "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00030.int00090"
   },
@@ -1152,7 +1502,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per agevolare la sua conduzione, non torno sulle questioni di questa mattina, quando sono stato interrotto sull'ordine dei lavori. Ho stigmatizzato le parole della Presidente del Consiglio e l'ho fatto con rispetto. […]",
+   "sunto": "Non lo si può fare, perché bisogna tenere dentro tutte queste contraddizioni, bisogna fare gli europeisti, perché non ci è consentito diversamente, bisogna sostenere che l'Europa si metta in sicurezza, perché il mondo è cambiato. […] Certo che bisogna scegliere da che parte stare, eccome se bisogna scegliere da che parte stare.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1417,
    "url": "https://www.camera.it/leg19/410?idSeduta=0450&tipo=stenografico#sed0450.stenografico.tit00090.sub00010.int00100"
   },
@@ -1165,7 +1519,11 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io penso di aver bisogno di un chiarimento, anche da lei, perché quando la Conferenza dei capigruppo, su proposta del MoVimento 5 Stelle e del nostro gruppo, ha chiesto una discussione parlamentare su mozioni che trattassero il piano di riarmo, lei, Presidente, ha correttamente chiamato la discussione e la votazione “in ordine al piano di riarmo europeo”. […]",
+   "sunto": "Io penso di aver bisogno di un chiarimento, anche da lei, perché quando la Conferenza dei capigruppo, su proposta del MoVimento 5 Stelle e del nostro gruppo, ha chiesto una discussione parlamentare su mozioni che trattassero il piano di riarmo, lei, Presidente, ha correttamente chiamato la…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1219,
    "url": "https://www.camera.it/leg19/410?idSeduta=0465&tipo=stenografico#sed0465.stenografico.tit00050.sub00020.int00140"
   },
@@ -1178,7 +1536,10 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Mi sono chiesto, in questi pochi minuti che abbiamo a disposizione in questa bella occasione, di cui la ringrazio, di celebrazione degli ottant'anni della nostra Liberazione, cosa mettere a fuoco di questa straordinaria battaglia di libertà. C'è sicuramente il valore straordinario di questa battaglia perché è popolare, perché è universale, perché è unitaria la nostra Resistenza. […]",
+   "sunto": "Su tutti però, Presidente, se dovessi scegliere una caratteristica della Resistenza e della Liberazione, prodotta dalla Resistenza, sceglierei questa caratteristica di capacità di unirci in ragione di un obiettivo supremo, appunto la libertà.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 445,
    "url": "https://www.camera.it/leg19/410?idSeduta=0471&tipo=stenografico#sed0471.stenografico.tit00050.int00140"
   },
@@ -1191,7 +1552,11 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, parliamo di competitività e lo facciamo utilizzando le parole che il sistema delle imprese ha utilizzato nel recente Forum di Firenze: produzione industriale in calo, investimenti bloccati, costo dell'energia insostenibile. […]",
+   "sunto": "Parliamo di competitività e lo facciamo utilizzando le parole che il sistema delle imprese ha utilizzato nel recente Forum di Firenze: produzione industriale in calo, investimenti bloccati, costo dell'energia insostenibile.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Energia e carburanti"
+   ],
    "parole": 132,
    "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00060.int00020"
   },
@@ -1204,7 +1569,10 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente, ho recuperato - essendo corrispondenza non classificata - ciò che è stato inviato a lei e a tutti i leader dell'opposizione dal nostro segretario Carlo Calenda negli ultimi 18 mesi. Perché l'ho recuperato? Perché vi abbiamo mandato come il piano Transizione 5.0, che oggi assorbe 900 milioni dei 6,3 miliardi a cui lei ha fatto riferimento, poteva essere trasformato verso Industria 4.0. […]",
+   "sunto": "Perché vi abbiamo mandato come il piano Transizione 5.0, che oggi assorbe 900 milioni dei 6,3 miliardi a cui lei ha fatto riferimento, poteva essere trasformato verso Industria 4.0. […] Vi abbiamo mandato, a tutti, il Piano industriale ed energetico per il Paese un anno fa.",
+   "temi": [
+    "Energia e carburanti"
+   ],
    "parole": 249,
    "url": "https://www.camera.it/leg19/410?idSeduta=0480&tipo=stenografico#sed0480.stenografico.tit00030.sub00060.int00060"
   },
@@ -1217,7 +1585,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente, sarò brevissimo. Io non pretendevo che il Ministro degli Esteri, ovviamente, rimanesse ad interloquire su questo - perché la Presidenza riferirà di questa richiesta - però sono preoccupato di come le questioni di politica estera stiano andando un po' in cavalleria anche nel tono delle nostre discussioni. […]",
+   "sunto": "Io non pretendevo che il Ministro degli Esteri, ovviamente, rimanesse ad interloquire su questo - perché la Presidenza riferirà di questa richiesta - però sono preoccupato di come le questioni di politica estera stiano andando un po' in cavalleria anche nel tono delle nostre discussioni.",
+   "temi": [],
    "parole": 164,
    "url": "https://www.camera.it/leg19/410?idSeduta=0487&tipo=stenografico#sed0487.stenografico.tit00050.int00060"
   },
@@ -1230,7 +1599,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io vorrei ripartire dalle considerazioni iniziali della Presidente Meloni, perché rischio di cedere all'idea di dare un contributo a questo dibattito esattamente per come si è svolto fino ad ora, cioè con la maggioranza che, giustamente, sostiene a prescindere le considerazioni della Presidente e l'opposizione che imputa alla Presidente pure i bombardamenti che non fa lei o addirittura il presiden […]",
+   "sunto": "Non è un caso che Trump, tra le due grandi dichiarazioni che ci fa, mentre se ne va anticipatamente dal G7, dica: “che errore non avere Putin qui con noi, sarebbe un grande G8, e Netanyahu ha tutto il diritto di difendersi”.",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1423,
    "url": "https://www.camera.it/leg19/410?idSeduta=0497&tipo=stenografico#sed0497.stenografico.tit00100.sub00010.int00200"
   },
@@ -1243,7 +1616,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io, Ministro Lollobrigida, ho chiesto a lei di rispondere cortesemente sul tema dell'accordo commerciale con il Mercosur, un po' per non obbligare anche oggi Tajani a parlare di bufale, nel senso non sempre di mozzarelle, ma un po' perché il tema del Mercosur ci pone due questioni che credo le stiano assolutamente a cuore. […]",
+   "sunto": "Io, Ministro Lollobrigida, ho chiesto a lei di rispondere cortesemente sul tema dell'accordo commerciale con il Mercosur, un po' per non obbligare anche oggi Tajani a parlare di bufale, nel senso non sempre di mozzarelle, ma un po' perché il tema del Mercosur ci pone due questioni che credo le…",
+   "temi": [],
    "parole": 163,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00070.int00020"
   },
@@ -1256,7 +1630,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, vedo tre problemi. Il primo sono i tempi, perché è vero che lei ci insegna che chi beve buon vino campa di più, ma non abbiamo tutta la vita per aspettare la ratifica del Mercosur. Il secondo è che lei ha portato delle criticità sacrosante, che però sono tutte contemplate nel Trattato che è stato approvato, ma che non è ancora ratificato: c'è un limite e una tutela alle 350 indicazioni g […]",
+   "sunto": "La nostra posizione è chiara: per Fratelli d'Italia chi voterà in Parlamento la ratifica del CETA è un traditore dell'Italia. […] Quindi, Ministro, è vero che bisogna meritarsi di avere la cittadinanza, ma bisogna meritarsi anche di fare il Ministro, e, secondo me, sul Mercosur bisogna davvero fare sul serio .",
+   "temi": [],
    "parole": 363,
    "url": "https://www.camera.it/leg19/410?idSeduta=0507&tipo=stenografico#sed0507.stenografico.tit00070.sub00070.int00060"
   },
@@ -1269,7 +1644,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io posso intervenire anche se non ho nessuno da insultare, da offendere? Sì, posso procedere? Perché il mio collega Rosato, nel dibattito di ieri, che è stato un dibattito importante ma totalmente insoddisfacente, ha invocato, Ministro, esattamente ciò che lei ha chiesto oggi. […]",
+   "sunto": "Non ci riguardano i ragazzi al fronte ucraino che, nel 2014, erano avvolti in una bandiera dell'Europa e, 8 anni dopo, sono andati al fronte e sono convinti di essere su quel fronte in difesa non solo dell'Ucraina (perché gliel'abbiamo detto noi che stavano difendendo l'Europa, la libertà e la…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1027,
    "url": "https://www.camera.it/leg19/410?idSeduta=0528&tipo=stenografico#sed0528.stenografico.tit00020.sub00020.int00200"
   },
@@ -1282,7 +1662,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il nostro gruppo si unisce anche rispetto alla richiesta avanzata da tutti i colleghi dell'opposizione, ma ho chiesto di intervenire per un'altra questione, che è relativa alle informazioni che nelle ultime 48 ore stiamo ricevendo circa l'impegno del nostro Paese sul fronte Est a seguito dell'incursione dei 19 droni russi su suolo polacco e, quindi, su suolo europeo. […]",
+   "sunto": "Il nostro gruppo si unisce anche rispetto alla richiesta avanzata da tutti i colleghi dell'opposizione, ma ho chiesto di intervenire per un'altra questione, che è relativa alle informazioni che nelle ultime 48 ore stiamo ricevendo circa l'impegno del nostro Paese sul fronte Est a seguito…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 221,
    "url": "https://www.camera.it/leg19/410?idSeduta=0531&tipo=stenografico#sed0531.stenografico.tit00060.int00160"
   },
@@ -1295,7 +1678,12 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Noi ci siamo appena astenuti sull'emendamento 1.100 Alfonso Colucci, perché, pur condividendone il ragionamento, non c'è corrispondenza rispetto all'emendamento: diceva “nella settimana antecedente la prima domenica di ottobre”, ma non indicava la giornata di celebrazione, esercizio che abbiamo fatto nell'emendamento a mia prima firma. […]",
+   "sunto": "Noi ci siamo appena astenuti sull'emendamento 1.100 Alfonso Colucci, perché, pur condividendone il ragionamento, non c'è corrispondenza rispetto all'emendamento: diceva “nella settimana antecedente la prima domenica di ottobre”, ma non indicava la giornata di celebrazione, esercizio che abbiamo…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Scuola e università",
+    "Famiglia e natalità"
+   ],
    "parole": 391,
    "url": "https://www.camera.it/leg19/410?idSeduta=0535&tipo=stenografico#sed0535.stenografico.tit00080.sub00020.int00060"
   },
@@ -1308,7 +1696,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "È possibile? Non solo è opportuno che tutti lo sappiano, Presidente, ma io chiedo anche a lei se c'è un limite alla sciatteria con cui si affrontano in quest'Aula i provvedimenti . Io riprendo punto per punto le considerazioni del collega Fornaro. […]",
+   "sunto": "Io riprendo punto per punto le considerazioni del collega Fornaro. […] Perché noi stiamo cercando di fare tutto per dare a quest'Aula la dignità di affrontare punto su punto e di costruire dibattiti articolati.",
+   "temi": [],
    "parole": 231,
    "url": "https://www.camera.it/leg19/410?idSeduta=0544&tipo=stenografico#sed0544.stenografico.tit00030.int00060"
   },
@@ -1321,7 +1710,11 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente Rampelli. Presidente Meloni, ho ascoltato il suo intervento al Senato, la sua replica, l'intervento di oggi e oggi ho capito che lei dà il meglio di sé quando non ha i due Vicepresidenti di fianco. […]",
+   "sunto": "Perché mi rendo anche conto che tenere una posizione in un contesto complicato, come quello che lei deve affrontare, quello che il Paese deve affrontare, con tutte le mattine uno che sta con Putin e l'altro che sta Zelensky, uno che vuole il MES e l'altro che è contro il MES, uno che vuole lo…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0552&tipo=stenografico#sed0552.stenografico.tit00150.sub00040.int00190"
   },
@@ -1334,7 +1727,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. L'auspicio è che oggi, nell'approvare all'unanimità questa legge, noi proviamo a fare insieme tre cose. La prima è lasciarci alle spalle qualche dichiarazione sciocca, improvvida di qualche Ministro sul tema dei viaggi della memoria, non solo perché li ha derubricati a gite, ma - lo dico senza polemica - perché non ha avuto nessuna capacità di mettere a fuoco lo straordinario valore di queste iniz […]",
+   "sunto": "La prima è lasciarci alle spalle qualche dichiarazione sciocca, improvvida di qualche Ministro sul tema dei viaggi della memoria, non solo perché li ha derubricati a gite, ma - lo dico senza polemica - perché non ha avuto nessuna capacità di mettere a fuoco lo straordinario valore di queste…",
+   "temi": [
+    "Ambiente e clima"
+   ],
    "parole": 675,
    "url": "https://www.camera.it/leg19/410?idSeduta=0559&tipo=stenografico#sed0559.stenografico.tit00070.sub00060.int00100"
   },
@@ -1347,7 +1743,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ovviamente, nessun problema. I colleghi che mi hanno preceduto, in tutti i loro interventi, hanno costruito una relazione tra la ratifica che stiamo votando e il caso Almasri. Ora, se stiamo votando il caso Almasri, io annuncio il voto di Azione, che è relativo al fatto che, secondo me, andava preso, arrestato e dato corso al mandato della Corte penale internazionale che diceva che andava catturat […]",
+   "sunto": "Ora, se stiamo votando il caso Almasri, io annuncio il voto di Azione, che è relativo al fatto che, secondo me, andava preso, arrestato e dato corso al mandato della Corte penale internazionale che diceva che andava catturato e arrestato.",
+   "temi": [],
    "parole": 743,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00050.sub00030.int00190"
   },
@@ -1360,7 +1757,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per evidenziare due aspetti. Il primo è la gravità di quello che è accaduto. I colleghi lo hanno ricordato: il nostro Governo ha riportato, con un volo di Stato, un criminale, non dando corso alla richiesta della Corte penale internazionale. La Libia, dando corso alla richiesta della Corte penale internazionale, lo arresta. […]",
+   "sunto": "I colleghi lo hanno ricordato: il nostro Governo ha riportato, con un volo di Stato, un criminale, non dando corso alla richiesta della Corte penale internazionale. […] La Libia, dando corso alla richiesta della Corte penale internazionale, lo arresta.",
+   "temi": [],
    "parole": 199,
    "url": "https://www.camera.it/leg19/410?idSeduta=0560&tipo=stenografico#sed0560.stenografico.tit00090.int00120"
   },
@@ -1373,7 +1771,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il collega Bignami in questi minuti si sta prodigando a specificare che il tema non era rivolto al Capo dello Stato, ma ad un suo consigliere. Ci sono poche regole non scritte quando si agisce in questa istituzione, e due di queste prevedono che il Capo dello Stato non si metta in mezzo alla polemica politica mai, mai . […]",
+   "sunto": "La seconda è che, quando lo si chiama in causa, si possono criticare sempre azioni e dichiarazioni - non siamo nella fattispecie, perché non c'è nulla che si possa muovere al Capo dello Stato -, lo si ringrazia per il servizio che sta ponendo alla Nazione, anche in un momento come questo.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 235,
    "url": "https://www.camera.it/leg19/410?idSeduta=0568&tipo=stenografico#sed0568.stenografico.tit00050.int00530"
   },
@@ -1386,7 +1787,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Non mi aspettavo altro dai colleghi del MoVimento 5 Stelle che una lettura distorta di quello che stanno votando, perché questa è la legge di delegazione europea e quindi il nostro gruppo può solo presentare un ordine del giorno che chieda al Governo di attuare il regolamento europeo , che non ho scritto, neanche la Piccolotti e neanche Silvestri. […]",
+   "sunto": "Non mi aspettavo altro dai colleghi del MoVimento 5 Stelle che una lettura distorta di quello che stanno votando, perché questa è la legge di delegazione europea e quindi il nostro gruppo può solo presentare un ordine del giorno che chieda al Governo di attuare il regolamento europeo , che non…",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 296,
    "url": "https://www.camera.it/leg19/410?idSeduta=0577&tipo=stenografico#sed0577.stenografico.tit00140.sub00140.int00200"
   },
@@ -1399,7 +1803,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io ero convinto che il collega Sasso avesse preso la parola per scusarsi con il Presidente della Camera che ha costretto, nella giornata di venerdì, ad annullare tutto ciò che avveniva nei pressi di questo Palazzo perché hanno prodotto un problema di ordine pubblico non per presentare un progetto di legge. […]",
+   "sunto": "Io ero convinto che il collega Sasso avesse preso la parola per scusarsi con il Presidente della Camera che ha costretto, nella giornata di venerdì, ad annullare tutto ciò che avveniva nei pressi di questo Palazzo perché hanno prodotto un problema di ordine pubblico non per presentare un…",
+   "temi": [],
    "parole": 198,
    "url": "https://www.camera.it/leg19/410?idSeduta=0607&tipo=stenografico#sed0607.stenografico.tit00080.int00300"
   },
@@ -1412,7 +1817,10 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il collega Colucci ha più volte usato i termini “diritto di voto” rispetto alla discussione che stiamo per iniziare. Ho deciso di fare questo intervento sul complesso degli emendamenti perché più che un punto specifico riguarda il contesto nel quale noi andiamo ad approvare questo provvedimento. […]",
+   "sunto": "Il collega Colucci ha più volte usato i termini “diritto di voto” rispetto alla discussione che stiamo per iniziare. […] Io vorrei capire, poiché non ho letto nessuna condanna di nessun esponente, di nessun collega e di nessuna collega, se questa è l'idea di diritto di voto con la quale ci apprestiamo a fare questa discussione, perché il diritto di voto alle donne è stata una grande conquista per questa Repubblica…",
+   "temi": [
+    "Famiglia e natalità"
+   ],
    "parole": 413,
    "url": "https://www.camera.it/leg19/410?idSeduta=0607&tipo=stenografico#sed0607.stenografico.tit00100.sub00010.int00060"
   },
@@ -1425,7 +1833,14 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Sottosegretario Perego di Cremnago, non è affatto una fiducia che dà la possibilità di trasparenza e chiarezza, come ha spiegato il Ministro Crosetto nella giornata di ieri. Lo sa lei, Sottosegretario, e lo sa il Ministro, ci sarebbe stata trasparenza e chiarezza se, di fronte a quei 14-15 emendamenti che non avete voluto affrontare, avessimo consentito alle forze politiche di esprimersi nel merit […]",
+   "sunto": "Se diamo strumenti di difesa all'Ucraina, su 129 ne fermiamo 129; se non glieli diamo, qualcuno colpisce scuole, ospedali e popolazione civile .",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università"
+   ],
    "parole": 1085,
    "url": "https://www.camera.it/leg19/410?idSeduta=0613&tipo=stenografico#sed0613.stenografico.tit00050.sub00010.int00120"
   },
@@ -1438,7 +1853,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, io vengo da un dibattito con un collega della maggioranza che, a un certo punto, mi ha detto “ma tanto per voi dell'opposizione questo Governo non ne fa una giusta, quindi di che stiamo a parlare”. Io penso che la cosa, purtroppo, sia molto peggio. […]",
+   "sunto": "E la scelta che stiamo facendo, la scelta che il Governo sta facendo di andare come osservatore... […] Sanno, però, che, se le Nazioni Unite e il Consiglio di sicurezza delle Nazioni Unite mette nero su bianco che lo statuto di un Board non è limitato nel tempo, come dovrebbe, e quindi non rispetta il dettato del Consiglio di sicurezza; non garantisce la partecipazione palestinese; non è…",
+   "temi": [
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1279,
    "url": "https://www.camera.it/leg19/410?idSeduta=0617&tipo=stenografico#sed0617.stenografico.tit00050.sub00010.int00120"
   },
@@ -1451,7 +1870,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministra Casellati, il premierato è stato presentato come la madre di tutte le riforme costituzionali. Siamo entrati nell'ultimo anno che precede la fine della legislatura, conosco la sua sensibilità istituzionale e credo che sia compito del Governo e della maggioranza dire al Parlamento e agli italiani che ci ascoltano come intendiamo affrontare la scadenza elettorale. […]",
+   "sunto": "Siamo entrati nell'ultimo anno che precede la fine della legislatura, conosco la sua sensibilità istituzionale e credo che sia compito del Governo e della maggioranza dire al Parlamento e agli italiani che ci ascoltano come intendiamo affrontare la scadenza elettorale. […] Le chiedo come il Governo intende proseguire e, se intende proseguire, in quale direzione.",
+   "temi": [],
    "parole": 103,
    "url": "https://www.camera.it/leg19/410?idSeduta=0618&tipo=stenografico#sed0618.stenografico.tit00090.sub00080.int00020"
   },
@@ -1464,7 +1884,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Ministra, ci unisce un'idea di sacralità e di solennità civile delle parole che si pronunciano in quest'Aula. Allora, lei conferma che il premierato è obiettivo di questo Governo e di questa legislatura. Io devo solo farle presente che stiamo entrando nel mese di marzo e fra un anno siamo o nel semestre bianco di fine legislatura o siamo direttamente al voto, e lei mi sta spiegando che, in un anno, faremo la seconda, […]",
+   "sunto": "Io devo solo farle presente che stiamo entrando nel mese di marzo e fra un anno siamo o nel semestre bianco di fine legislatura o siamo direttamente al voto, e lei mi sta spiegando che, in un anno, faremo la seconda, la terza, la quarta lettura della riforma costituzionale, il referendum.",
+   "temi": [],
    "parole": 227,
    "url": "https://www.camera.it/leg19/410?idSeduta=0618&tipo=stenografico#sed0618.stenografico.tit00090.sub00080.int00060"
   },
@@ -1477,7 +1898,8 @@
    "categoria": "Question time",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Ministro, noi abbiamo fatto un'interrogazione che tocca più aziende e più crisi. Questa mattina potremmo aggiungere l'annunciata volontà del fondo turco Asko di acquistare la Goldoni, storica azienda di trattori che occupa 100 persone, proposta di acquisto che prevede il taglio del 50 per cento del personale. […]",
+   "sunto": "Quella di mollare i settori a minore marginalità, anche se a grandi volumi, come l'emodialisi cronica, che è uno degli asset più importanti di quell'azienda, e mantenere quei settori, come le terapie di dialisi peritoneale e le dialisi per terapia intensiva, che hanno meno volumi, ma più…",
+   "temi": [],
    "parole": 333,
    "url": "https://www.camera.it/leg19/410?idSeduta=0626&tipo=stenografico#sed0626.stenografico.tit00090.sub00030.int00060"
   },
@@ -1490,7 +1912,13 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, mentre parlava Benedetto Della Vedova, che si augurava che la prossima legislatura la potesse fare all'opposizione, le è scappato un “lo spero anch'io”, immagino frutto di un momento difficile. […]",
+   "sunto": "Allora, Presidente Meloni, siccome questo tema lo conosce benissimo, se vuole che affrontiamo insieme il tema dei costi dell'energia per gli italiani, la smettiamo di dire cavolate , perché mi voglio proprio misurare, dopo Ziello non posso fare altro.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1355,
    "url": "https://www.camera.it/leg19/410?idSeduta=0631&tipo=stenografico#sed0631.stenografico.tit00110.sub00010.int00360"
   },
@@ -1503,7 +1931,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Nell'associarmi alle richieste dei colleghi vorrei fare tre riflessioni. La prima è che dobbiamo togliere dall'imbarazzo questa istituzione e le istituzioni repubblicane. Io ho poca esperienza, ma un po' di più di qualche collega più giovane e non ricordo un momento, negli ultimi 15 anni, nel quale le opposizioni devono dare una mano alla Presidente del Consiglio per liberarsi di una Ministra che […]",
+   "sunto": "Queste cose erano inopportune il giorno prima , la settimana prima, il mese prima del referendum. […] Noi abbiamo sospeso la dinamica parlamentare in occasione dell'appuntamento referendario, dove discutevamo di tavolo urgente per affrontare il conflitto in Medio Oriente, di tavolo urgente per affrontare la situazione economica delle famiglie italiane, fatta di bollette, rincari e pieno di…",
+   "temi": [
+    "Energia e carburanti",
+    "Famiglia e natalità"
+   ],
    "parole": 447,
    "url": "https://www.camera.it/leg19/410?idSeduta=0634&tipo=stenografico#sed0634.stenografico.tit00030.int00140"
   },
@@ -1516,7 +1948,12 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Presidente Meloni, io ci avevo sperato, pensi un po'. Ci avevo sperato che utilizzasse il momento di oggi per restituire al Parlamento la gravità della situazione che stiamo attraversando. Io pensavo che lei volesse venire in Aula per dire correttamente al Parlamento che cosa facciamo nell'ultimo anno e mezzo di legislatura, di fronte a una situazione difficile di crisi internazionale, con ripercu […]",
+   "sunto": "È doppio, primo perché si apre la campagna elettorale e per un anno e mezzo si lascia il Paese davanti a questo spettacolo e in più lo si fa con un dibattito all'altezza di una campagna elettorale da consiglio di istituto, non da Parlamento della Repubblica.",
+   "temi": [
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea"
+   ],
    "parole": 1448,
    "url": "https://www.camera.it/leg19/410?idSeduta=0641&tipo=stenografico#sed0641.stenografico.tit00020.sub00020.int00210"
   },
@@ -1529,7 +1966,13 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Farò un intervento molto più breve rispetto al tempo che ho a disposizione, da un lato, perché le argomentazioni su questo provvedimento le ho espresse al Ministro Giorgetti, che immagino sia andato al Senato per lo stesso dibattito perché in questo momento non è presente, dall'altro, perché, nella natura del nostro dibattito, il manuale del buon oppositore prevederebbe che io adesso facessi il se […]",
+   "sunto": "Parto dall'intervento, che io ho condiviso, del mio collega Davide Faraone, che è un collega e un amico di Italia Viva, e che dice: ma, Governo, signor Ministro, vi rendete conto che il Ministro della Difesa ci sta dicendo - leggo testualmente, così non commetto errori - più difesa e meno…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Esteri e difesa",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
    "parole": 1405,
    "url": "https://www.camera.it/leg19/410?idSeduta=0652&tipo=stenografico#sed0652.stenografico.tit00050.sub00010.int00190"
   },
@@ -1542,7 +1985,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Era l'agosto del 2023 quando abbiamo tentato, come quasi tutti i gruppi di opposizione, di aprire un'interlocuzione con la maggioranza, con la Presidente del Consiglio, direttamente sul tema del salario minimo. […]",
+   "sunto": "Era l'agosto del 2023 quando abbiamo tentato, come quasi tutti i gruppi di opposizione, di aprire un'interlocuzione con la maggioranza, con la Presidente del Consiglio, direttamente sul tema del salario minimo. […] Serve un pavimento minimo che dica che qualunque forma di impiego ha la dignità di vedersi riconosciuto un salario minimo.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 346,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00110.sub00010.int00320"
   },
@@ -1555,7 +2001,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Non è una novità una lettura così diametralmente opposta: i colleghi di maggioranza che dipingono questo come un intervento risolutivo e significativo sul mercato del lavoro e l'opposizione che grida al provvedimento inutile. […]",
+   "sunto": "Mi spiegate quale lavoro, fatto per otto ore al giorno e tutto il mese, vale meno di 1.000 euro al mese? […] Non voto contro l'assunzione delle donne, non voto contro l'assunzione degli under 35, non voto contro la stabilizzazione dei giovani, non voto contro l'assunzione nel Mezzogiorno, ma non vi permetto nemmeno di mettere sotto il tappeto i problemi che stanno attraversando, in maniera devastante,…",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
    "parole": 1298,
    "url": "https://www.camera.it/leg19/410?idSeduta=0672&tipo=stenografico#sed0672.stenografico.tit00110.sub00020.int00090"
   },
@@ -1568,7 +2017,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo per qualcosa di più della solidarietà e della vicinanza alla collega Bakkali, perché credo che la richiesta che ha fatto il collega Grimaldi poggi su un principio che dovrebbe oggi portarci ad alzare un po' il livello di attenzione, anche alla Presidenza, quando le persone diventano bersaglio, anche individuale. […]",
+   "sunto": "Sono giorni che la collega Bakkali sui social è presa di mira e in quest'Aula, con questa facilità, si fanno riferimenti fino alla dimensione personale.",
+   "temi": [],
    "parole": 170,
    "url": "https://www.camera.it/leg19/410?idSeduta=0681&tipo=stenografico#sed0681.stenografico.tit00010.int00120"
   },
@@ -1581,7 +2031,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo ai sensi dell'articolo 8 e seguenti, e mi rivolgo anche a lei perché, avendo appena ricevuto lezioni di Regolamento, dovrebbe ricordare a Ziello che, quando un Vicepresidente siede su quello scranno, non rappresenta più un gruppo politico . Ieri la Ascani era la Presidente dell'Aula, lei oggi è il Presidente dell'Aula. […]",
+   "sunto": "Ieri la Ascani era la Presidente dell'Aula, lei oggi è il Presidente dell'Aula. […] Poi, già che c'è, ricordi anche a Ziello che, prima dell'articolo 3, in Costituzione c'è l'articolo 2, che parla dei diritti dell'uomo e la cittadinanza non la cita nemmeno, perché io tutto questo tempo per prendere lezioni da Ziello di Regolamento e di Costituzione me lo evito .",
+   "temi": [],
    "parole": 102,
    "url": "https://www.camera.it/leg19/410?idSeduta=0681&tipo=stenografico#sed0681.stenografico.tit00040.int00080"
   },
@@ -1594,7 +2045,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo sullo stesso punto dei colleghi, perché ho già avuto modo in Commissione di porre la questione che il collega Fornaro oggi ha posto all'Aula, e lo dico riconoscendo dal primo minuto un atteggiamento di serietà e di confronto che il relatore ha sempre dimostrato Questo lo voglio dire in premessa perché non si è mai sottratto a un dibattito, anche su punti di distanza oggettiva. […]",
+   "sunto": "È fuori discussione, però, che la modalità con cui la Commissione ha dovuto lavorare, cioè un primo testo, un Bignami- bis , emendamenti sul secondo testo - sul quale io ho anche posto un tema di tempi e modalità di lavoro della Commissione che non è stato in nessun modo ascoltato -,…",
+   "temi": [],
    "parole": 397,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00060.int00340"
   },
@@ -1607,7 +2059,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Comprendo che l'Aula si stia sintonizzando su di un altro tema, ma prima avevo chiesto di poter intervenire e la ringrazio per questa possibilità. Credo che il Governo debba con urgenza riferire circa ciò che sta accadendo ed è accaduto dopo il vertice NATO ad Ankara e dopo le informazioni - per noi, di stampa, ma credo che meritino un dibattito parlamentare - circa la situazione politica internaz […]",
+   "sunto": "Credo che il Governo debba con urgenza riferire circa ciò che sta accadendo ed è accaduto dopo il vertice NATO ad Ankara e dopo le informazioni - per noi, di stampa, ma credo che meritino un dibattito parlamentare - circa la situazione politica internazionale e della difesa.",
+   "temi": [
+    "Esteri e difesa"
+   ],
    "parole": 321,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00060.int00400"
   },
@@ -1620,7 +2075,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente, anche della cortesia di ascoltarmi. Io cercherò di utilizzare poco tempo di quello che ha a disposizione il mio gruppo, ma non voglio rinunciare a fare tre velocissime considerazioni. La prima è che vi siete incamminati, nella costruzione di questa legge elettorale, su un sentiero che ha un difetto di sistema e, quando una cosa ha un difetto di sistema nella sua concezione, non la si aggiusta un p […]",
+   "sunto": "Non voglio essere ovviamente offensivo nel definire “a tentoni”, perché è cronaca, perché quando si parte in un modo e si dice “noi vogliamo una legge che assicuri un vincitore” e “a noi fa schifo il pareggio”, signori, poi eleggere il Parlamento non è la finale dei Mondiali.",
+   "temi": [],
    "parole": 921,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00070.sub00020.int00110"
   },
@@ -1633,7 +2089,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Sì, Presidente, lei mi è testimone, perché era presente, che in Conferenza dei capigruppo mi sono rivolto al Presidente, lei presente, dicendo: ma a chi giova scendere in Aula per tre ore e offrire uno spettacolo a beneficio del pubblico di spaccatura politica, di contrapposizione, senza fare un passo di merito, di esame della legge elettorale? E l'ho fatto, Presidente, perché c'è un precedente: XVII legislatura, la […]",
+   "sunto": "Sarebbe serio dire: la nostra discussione si ferma qui e proseguiamo domani a discutere di legge elettorale. […] Lo dico alle opposizioni: se la Presidente del Consiglio viene qui domani e chiede la fiducia, ha la fiducia della maggioranza dell'Aula.",
+   "temi": [],
    "parole": 288,
    "url": "https://www.camera.it/leg19/410?idSeduta=0689&tipo=stenografico#sed0689.stenografico.tit00140.int00280"
   },
@@ -1646,7 +2103,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Brevemente, per unirmi alla richiesta della collega Malavasi perché chi non ha smarrito senno e memoria, in quest'Aula, si ricorda di quei momenti drammatici. Si ricorda dei momenti drammatici che questo Paese ha vissuto durante il COVID e si ricorda una comunità scientifica che chiedeva alle istituzioni di parlare a un Paese e a una cittadinanza talmente spaventata da arrivare alla diffidenza. […]",
+   "sunto": "Si ricorda dei momenti drammatici che questo Paese ha vissuto durante il COVID e si ricorda una comunità scientifica che chiedeva alle istituzioni di parlare a un Paese e a una cittadinanza talmente spaventata da arrivare alla diffidenza.",
+   "temi": [],
    "parole": 196,
    "url": "https://www.camera.it/leg19/410?idSeduta=0690&tipo=stenografico#sed0690.stenografico.tit00050.int00200"
   },
@@ -1659,7 +2117,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il nostro gruppo continua con pervicacia ad applicarsi con serietà a questa legge elettorale. Questo emendamento è su un punto che ha visto un dibattito e un confronto molto acceso in Commissione circa la soglia alla quale attribuire il premio di maggioranza. […]",
+   "sunto": "Cioè, a fronte del raggiungimento di una maggioranza politica dentro le urne alle elezioni, ci può essere un riconoscimento di un premio parlamentare a chi si è rivelato maggioranza nelle urne. […] Ha meno una ratio che ci sia una garanzia di maggioranza parlamentare a chi è minoranza politica, seppur maggioranza relativa, ma minoranza politica assoluta nel Paese.",
+   "temi": [],
    "parole": 240,
    "url": "https://www.camera.it/leg19/410?idSeduta=0690&tipo=stenografico#sed0690.stenografico.tit00060.sub00010.int00020"
   },
@@ -1672,7 +2131,8 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Solo per ringraziare i colleghi di Futuro Nazionale, che mi pensano sempre, e per ricordare loro che sono capogruppo di questo gruppo dal primo giorno della legislatura, mandato in Parlamento da una lista che ha preso più di due milioni di voti .",
+   "sunto": "Solo per ringraziare i colleghi di Futuro Nazionale, che mi pensano sempre, e per ricordare loro che sono capogruppo di questo gruppo dal primo giorno della legislatura, mandato in Parlamento da una lista che ha preso più di due milioni di voti .",
+   "temi": [],
    "parole": 43,
    "url": "https://www.camera.it/leg19/410?idSeduta=0690&tipo=stenografico#sed0690.stenografico.tit00060.sub00010.int00320"
   },
@@ -1685,7 +2145,11 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il collega Colucci dice: l'opposizione si è opposta per partito preso. Voglio, suo tramite, interloquire, Presidente. No, l'opposizione, quantomeno Azione, non si è opposta per partito preso a questa legge elettorale. Ci siamo confrontati su tutto, partendo da un presupposto completamente diverso. Lo dico per onestà del nostro confronto e del nostro dibattito, Presidente. […]",
+   "sunto": "È esattamente il problema che, avendo fatto una legge che gli regala il Governo, avranno quando… abbiamo proposto insieme il salario minimo e il mio amico Renzi mi disse: sappi che Italia Viva non c'è sul salario minimo - legittimamente - perché i miei amici e colleghi di Italia Viva pensano che…",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Unione europea"
+   ],
    "parole": 1344,
    "url": "https://www.camera.it/leg19/410?idSeduta=0691&tipo=stenografico#sed0691.stenografico.tit00030.sub00010.int00190"
   },
@@ -1698,7 +2162,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Credo sia troppo importante rassicurare - suo tramite - il mio collega Colucci, perché ci tengo sul fatto che voteremo contro questo emendamento, ma non entriamo in maggioranza. Continuiamo ostinatamente a leggere le proposte e a esprimerci sul merito. […]",
+   "sunto": "Credo sia troppo importante rassicurare - suo tramite - il mio collega Colucci, perché ci tengo sul fatto che voteremo contro questo emendamento, ma non entriamo in maggioranza. […] Prima il collega Colucci ha denunciato il cambio di maggioranza con Azione che si è ribellata al ritiro di un emendamento che, secondo noi, faceva bene al territorio.",
+   "temi": [],
    "parole": 320,
    "url": "https://www.camera.it/leg19/410?idSeduta=0700&tipo=stenografico#sed0700.stenografico.tit00100.sub00010.int01550"
   },
@@ -1711,7 +2176,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Presidente, non scomodo le categorie dell'arroganza, della supponenza, mi bastano le relazioni, il Regolamento del Parlamento e il rapporto tra maggioranza e opposizione. Noi abbiamo appena terminato una Conferenza dei capigruppo in cui ci siamo detti: andiamo in Aula e proseguiamo il calendario dei lavori. […]",
+   "sunto": "Faccio presente che il nostro gruppo, il 15 giugno, ha proposto a quest'Aula la discussione generale su una mozione che è nel limbo e che riguarda il superamento del diritto di veto nell'Unione europea: non si farà, perché, con un atto di forza, imponete la discussione che interessa a voi.",
+   "temi": [],
    "parole": 414,
    "url": "https://www.camera.it/leg19/410?idSeduta=0701&tipo=stenografico#sed0701.stenografico.tit00060.int00100"
   },
@@ -1724,7 +2190,8 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Suo tramite, no, le mozioni non vengono fatte per stimolare un dibattito, vengono fatte per dare un indirizzo al Governo, che è la funzione del Parlamento e che tentiamo di dare - questo indirizzo - ormai da molti mesi. Lo dico per i colleghi che non siedono nella Conferenza dei capigruppo: Azione pone questo punto da quattro mesi e in quattro mesi non si è trovato il modo di farla. […]",
+   "sunto": "Suo tramite, no, le mozioni non vengono fatte per stimolare un dibattito, vengono fatte per dare un indirizzo al Governo, che è la funzione del Parlamento e che tentiamo di dare - questo indirizzo - ormai da molti mesi. […] Va tutto bene, facciamo le urgenze, ma a settembre possiamo riprendere con questo punto, o abbiamo per caso azzeccato un punto sul quale la maggioranza non può esprimersi?",
+   "temi": [],
    "parole": 273,
    "url": "https://www.camera.it/leg19/410?idSeduta=0703&tipo=stenografico#sed0703.stenografico.tit00060.int00040"
   },
@@ -1737,7 +2204,10 @@
    "categoria": "Documenti di bilancio e programmazione",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Il voto contrario del mio gruppo alla relazione di maggioranza, e quindi a favore dell'utilizzo delle chat in oggetto, mi consente di fare tre considerazioni, a lei e a quest'Aula. Perché voteremo a favore dell'utilizzo delle chat ? Lo avremmo fatto la settimana scorsa. […]",
+   "sunto": "Il voto contrario del mio gruppo alla relazione di maggioranza, e quindi a favore dell'utilizzo delle chat in oggetto, mi consente di fare tre considerazioni, a lei e a quest'Aula.",
+   "temi": [
+    "Giustizia"
+   ],
    "parole": 872,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00100.sub00020.int00180"
   },
@@ -1750,7 +2220,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Non consegnerò e utilizzerò poco del tempo che mi è dato, anche per stare in sintonia con il tempo che voi avete dedicato a questo provvedimento e a questa discussione. Tale provvedimento ha visto la fiducia al Senato, la fiducia alla Camera, poche ore di Commissione. […]",
+   "sunto": "È un provvedimento che novella “Misure urgenti in materia di giustizia e per l'attuazione del Patto dell'Unione europea sulla migrazione e l'asilo del 14 maggio 2024”: per fortuna che erano urgenti!",
+   "temi": [
+    "Immigrazione",
+    "Unione europea"
+   ],
    "parole": 412,
    "url": "https://www.camera.it/leg19/410?idSeduta=0704&tipo=stenografico#sed0704.stenografico.tit00150.sub00020.int00220"
   },
@@ -1763,7 +2237,8 @@
    "categoria": "Informative e comunicazioni del Governo",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Interpreterò, Ministro, il mio intervento in due direzioni rispetto alla sua informativa. La prima: oggi, questa Istituzione, l'intero Parlamento, dovrebbe, anche a supporto della sua azione, stringersi nella vicinanza ad una popolazione che non solo per l'evento sismico e il terremoto di questi giorni, ma, da un lungo periodo, vive una situazione di insicurezza. […]",
+   "sunto": "Questi momenti e queste discussioni vanno inseriti - con il Governo Renzi più volte si è lavorato in questa direzione - dentro ad una strategia nazionale: l'unità di missione, il Piano casa, una strategia che l'Italia deve avere in quanto Paese fragile sul piano del dissesto idrogeologico.",
+   "temi": [],
    "parole": 540,
    "url": "https://www.camera.it/leg19/410?idSeduta=0705&tipo=stenografico#sed0705.stenografico.tit00080.sub00020.int00160"
   },
@@ -1776,7 +2251,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Non intervengo, però, per commentare le parole del collega Giglio Vigna. Intervengo per rivolgermi a lei, Presidente, perché se lei mette in votazione la sospensione o il rinvio di questo punto, oggi si cambia sostanzialmente il Regolamento della Camera. […]",
+   "sunto": "Io le chiedo: ma da oggi, in questo Parlamento, che si chiama Parlamento, si può discutere solo ciò che decide la maggioranza? […] E allora, se uno decide di fare il soprammobile di questa maggioranza , ogni tanto fa le feste di partito e poi urla “siamo liberali, europeisti, popolari”, e dà una spolverata al soprammobile, poi torna in Parlamento e torna a fare il soprammobile.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 588,
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00060.int00040"
   },
@@ -1789,7 +2267,10 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "In realtà, Presidente, non siamo di fronte a una riformulazione, perché io ho chiesto al Governo di occuparci, insieme, di una questione che è relativa agli insegnanti di sostegno nelle scuole. Mentre noi facciamo questa discussione, in tutta Italia, ancora nella giornata di oggi, escono i cosiddetti interpelli, cioè la modalità con cui, in maniera del tutto precaria, i nostri ragazzi vanno, per alcuni mesi, a fare g […]",
+   "sunto": "In realtà, Presidente, non siamo di fronte a una riformulazione, perché io ho chiesto al Governo di occuparci, insieme, di una questione che è relativa agli insegnanti di sostegno nelle scuole. […] Io volevo parlare del fatto che non lasciamo da soli i ragazzi che hanno bisogno del sostegno e trattiamo come persone, in maniera civile, chi va a fare l'insegnante di sostegno.",
+   "temi": [
+    "Scuola e università"
+   ],
    "parole": 270,
    "url": "https://www.camera.it/leg19/410?idSeduta=0716&tipo=stenografico#sed0716.stenografico.tit00070.sub00010.int00740"
   },
@@ -1802,7 +2283,14 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Mi sono segnato un po' gli argomenti che stiamo affrontando: sbarchi, carburanti, aumento delle tasse, meno tasse, più tasse, aumento degli stipendi, meno stipendi. Io parlerò di legge elettorale, perché ci avete chiamato a fare le dichiarazioni di voto sulla legge elettorale. […]",
+   "sunto": "Il collega Benzoni, che è giovane e aitante, fa parte anche dei 70 deputati che scattano con il premio di maggioranza; essendo sotto di me, Benzoni e Mule' vanno a preferenze: Benzoni, che purtroppo è giovane e aitante, ne prende 500; Mule', che è noto e bravo, ne prende 20.000.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti"
+   ],
    "parole": 1452,
    "url": "https://www.camera.it/leg19/410?idSeduta=0723&tipo=stenografico#sed0723.stenografico.tit00040.sub00010.int00180"
   },
@@ -1815,7 +2303,8 @@
    "categoria": "Altri argomenti",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Per quanto ho conosciuto Emma Bonino negli ultimi anni, credo che nel suo modo inimitabile ci stia mandando a quel paese dovunque si trovi in questo momento. Ci sta mandando a quel paese, perché non ho mai conosciuto una persona che ha utilizzato così tanto la parola e così poco o nulla la retorica. […]",
+   "sunto": "Per quanto ho conosciuto Emma Bonino negli ultimi anni, credo che nel suo modo inimitabile ci stia mandando a quel paese dovunque si trovi in questo momento. […] E quando si parlava di diritti lei mi diceva sempre: Matteo, il problema non è lo scontro tra laici e cattolici, il problema è che le battaglie per i diritti troppo spesso riguardano chi di quei diritti deve beneficiare.",
+   "temi": [],
    "parole": 537,
    "url": "https://www.camera.it/leg19/410?idSeduta=0726&tipo=stenografico#sed0726.stenografico.tit00050.int00180"
   },
@@ -1828,7 +2317,10 @@
    "categoria": "Mozioni",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io sono felice che questa cosa diverta alcuni colleghi, ma io le chiedo di intervenire, Presidente, perché la conosco troppo bene per non sapere che anche lei sta vedendo quello che vedo io. Non è solo una presa in giro personale: un collega che mi ringrazia, perché un atto a mia prima firma ha suscitato interesse e dibattito, è convinto che fosse una provocazione e ne chiede per la sesta volta il […]",
+   "sunto": "Gli amici e compagni di Forza Italia non sono in grado, sono lì che misurano la gonna, che hanno le mani nei capelli, perché è evidente che il superamento del diritto di veto è un problema aperto in Forza Italia. […] Perché sullo ius scholae va in crisi, sul MES va in crisi, sul diritto di veto va in crisi.",
+   "temi": [
+    "Unione europea"
+   ],
    "parole": 646,
    "url": "https://www.camera.it/leg19/410?idSeduta=0726&tipo=stenografico#sed0726.stenografico.tit00100.int00060"
   },
@@ -1841,7 +2333,11 @@
    "categoria": "Ordine dei lavori e procedura",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Intervengo per associarmi alla richiesta di informativa del Ministro Piantedosi sui disordini nelle città; per esprimere, senza nessuna ambiguità, non solo la nostra solidarietà, ma anche un ringraziamento alle Forze dell'ordine che hanno tentato di riportare le città al loro stato di normalità; per aggiungere, a questa solidarietà, anche quella verso i cittadini e i commercianti che hanno subito […]",
+   "sunto": "Perché, quando le famiglie dei ragazzi fermati vanno davanti alle questure dicendo “mentre noi stavamo a lavorare, cosa combinavano i nostri figli”, se volete la risolviamo con il decreto anti-maranza, anti- rave , anti-qualunque cosa che accade.",
+   "temi": [
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
    "parole": 383,
    "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00050.int00100"
   },
@@ -1854,7 +2350,8 @@
    "categoria": "Leggi e decreti in esame",
    "ruolo": null,
    "gruppo": "AZ-PER-RE",
-   "estratto": "Grazie, Presidente. Io non so quanto il collega Bonelli conoscesse del Governo Renzi e del Ministro Calenda, non so quanto conoscesse dell'accordo che è stato fatto a seguito della sentenza, che poi ha assolto, tra l'altro, i Riva, ma nessuno ha mai messo in discussione lo Stato di diritto e nessuno ha mai proposto l'immunità penale. […]",
+   "sunto": "Io non so quanto il collega Bonelli conoscesse del Governo Renzi e del Ministro Calenda, non so quanto conoscesse dell'accordo che è stato fatto a seguito della sentenza, che poi ha assolto, tra l'altro, i Riva, ma nessuno ha mai messo in discussione lo Stato di diritto e nessuno ha mai proposto…",
+   "temi": [],
    "parole": 142,
    "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00060.sub00010.int00740"
   }
