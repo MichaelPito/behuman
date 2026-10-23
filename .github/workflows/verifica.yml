@@ -10,8 +10,8 @@ jobs:
   verifica:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install -r pipeline/requirements.txt
@@ -19,7 +19,7 @@ jobs:
         run: cd pipeline && python -m pytest -q
       - name: Valida configurazione e dichiarazioni
         run: cd pipeline && python -c "from memoria import config; config.carica(); print('configurazione valida')"
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
       - name: Build del sito
