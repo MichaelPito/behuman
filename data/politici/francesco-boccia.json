@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -41,9 +41,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 37,
-     "assenti": 60,
-     "totale": 97
+     "presenti": 28,
+     "assenti": 7,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2142,30 +2142,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 67,
-      "Non ha votato": 28
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -10520,17 +10496,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 980,
-    "totale": 2049,
-    "percentuale": 47.8
+    "presenti": 971,
+    "totale": 1987,
+    "percentuale": 48.9
    },
    "fedelta_gruppo": {
-    "allineati": 36,
+    "allineati": 35,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 85
+   "voti_finali_e_fiducia": 84
   },
   "Senato": {
    "presenza": {
@@ -10648,7 +10624,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",

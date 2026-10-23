@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -50,9 +50,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 69,
-     "assenti": 28,
-     "totale": 97
+     "presenti": 10,
+     "assenti": 25,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2558,31 +2558,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "LEU",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Astensione": 1,
-      "Favorevole": 7,
-      "Non ha votato": 4
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
-    },
-    {
      "id": "vs19_727_034",
      "camera": "Camera",
      "legislatura": 19,
@@ -4091,30 +4066,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_005",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
-     "atto": "C.2429",
-     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "AVS",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 9,
-      "Non ha votato": 1
-     },
-     "esito": {
-      "favorevoli": 156,
-      "contrari": 0,
-      "astenuti": 112
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -4161,6 +4112,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_005",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
+     "atto": "C.2429",
+     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Astensione",
+     "gruppo": "AVS",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 9,
+      "Non ha votato": 1
+     },
+     "esito": {
+      "favorevoli": 156,
+      "contrari": 0,
+      "astenuti": 112
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
     },
     {
      "id": "vs19_634_015",
@@ -14103,14 +14078,14 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 12220,
-    "totale": 22018,
-    "percentuale": 55.5
+    "presenti": 12161,
+    "totale": 21956,
+    "percentuale": 55.4
    },
    "fedelta_gruppo": {
     "allineati": 248,
-    "difformi": 20,
-    "percentuale_allineati": 92.5,
+    "difformi": 19,
+    "percentuale_allineati": 92.9,
     "voti_difformi": [
      "vs18_736_014",
      "vs18_723_001",
@@ -14130,11 +14105,10 @@
      "vs18_597_046",
      "vs18_593_017",
      "vs18_593_028",
-     "vs18_592_017",
-     "vs18_579_001"
+     "vs18_592_017"
     ]
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [
@@ -14238,7 +14212,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",

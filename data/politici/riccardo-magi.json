@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -42,8 +42,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 19,
-     "assenti": 78,
-     "totale": 97
+     "assenti": 16,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2511,30 +2511,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-AERI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 2,
-      "Non ha votato": 1
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     },
     {
      "id": "vs19_727_034",
@@ -13922,8 +13898,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8918,
-    "totale": 22018,
-    "percentuale": 40.5
+    "totale": 21956,
+    "percentuale": 40.6
    },
    "fedelta_gruppo": {
     "allineati": 192,
@@ -13931,7 +13907,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [
@@ -13970,7 +13946,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1977-01-15",
@@ -60,9 +60,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 54,
-     "assenti": 43,
-     "totale": 97
+     "presenti": 1,
+     "assenti": 34,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2551,30 +2551,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 25,
-      "Non ha votato": 12
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
-    },
-    {
      "id": "vs19_727_034",
      "camera": "Camera",
      "legislatura": 19,
@@ -3535,30 +3511,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
     },
     {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 49,
-      "Favorevole": 68
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
-    },
-    {
      "id": "vs19_666_028",
      "camera": "Camera",
      "legislatura": 19,
@@ -3581,6 +3533,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "PDL 2197 - VOTO FINALE",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 49,
+      "Favorevole": 68
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -14128,9 +14104,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 502,
-    "totale": 22018,
-    "percentuale": 2.3
+    "presenti": 449,
+    "totale": 21956,
+    "percentuale": 2.0
    },
    "fedelta_gruppo": {
     "allineati": 6,
@@ -14138,7 +14114,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [],
@@ -14150,7 +14126,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",

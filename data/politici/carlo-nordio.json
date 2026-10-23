@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1947-02-06",
@@ -6257,30 +6257,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=381_37&tipo=dettaglio"
     },
     {
-     "id": "vs19_380_006",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-11-12",
-     "descrizione": "DDL 2100 - VOTO FINALE",
-     "atto": "C.2100",
-     "titolo": "S. 1225. - \"Ratifica ed esecuzione della Convenzione sull’istituzione dell’organizzazione governativa internazionale GCAP, fatta a Tokyo il 14 dicembre 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 37,
-      "Favorevole": 80
-     },
-     "esito": {
-      "favorevoli": 215,
-      "contrari": 43,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_6&tipo=dettaglio"
-    },
-    {
      "id": "vs19_380_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -6303,6 +6279,30 @@
       "astenuti": 90
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_380_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-12",
+     "descrizione": "DDL 2100 - VOTO FINALE",
+     "atto": "C.2100",
+     "titolo": "S. 1225. - \"Ratifica ed esecuzione della Convenzione sull’istituzione dell’organizzazione governativa internazionale GCAP, fatta a Tokyo il 14 dicembre 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 37,
+      "Favorevole": 80
+     },
+     "esito": {
+      "favorevoli": 215,
+      "contrari": 43,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_6&tipo=dettaglio"
     },
     {
      "id": "vs19_377_135",
@@ -12049,7 +12049,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg/500px-Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_(01)_(cropped).jpg",

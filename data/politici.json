@@ -14,9 +14,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 502,
-     "totale": 22018,
-     "percentuale": 2.3
+     "presenti": 449,
+     "totale": 21956,
+     "percentuale": 2.0
     },
     "fedelta_gruppo": {
      "allineati": 6,
@@ -24,7 +24,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -50,7 +50,7 @@
    "Senato": {
     "presenza": {
      "presenti": 621,
-     "totale": 9080,
+     "totale": 9078,
      "percentuale": 6.8
     },
     "fedelta_gruppo": {
@@ -120,7 +120,7 @@
    "Camera": {
     "presenza": {
      "presenti": 147,
-     "totale": 22018,
+     "totale": 21956,
      "percentuale": 0.7
     },
     "fedelta_gruppo": {
@@ -129,7 +129,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -229,8 +229,8 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 154,
-     "totale": 9080,
+     "presenti": 152,
+     "totale": 9078,
      "percentuale": 1.7
     },
     "fedelta_gruppo": {
@@ -264,17 +264,17 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 496,
-     "totale": 22018,
-     "percentuale": 2.3
+     "presenti": 473,
+     "totale": 21956,
+     "percentuale": 2.2
     },
     "fedelta_gruppo": {
-     "allineati": 49,
+     "allineati": 48,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -299,8 +299,8 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 3018,
-     "totale": 9081,
+     "presenti": 3016,
+     "totale": 9079,
      "percentuale": 33.2
     },
     "fedelta_gruppo": {
@@ -369,9 +369,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 3748,
-     "totale": 22018,
-     "percentuale": 17.0
+     "presenti": 3703,
+     "totale": 21956,
+     "percentuale": 16.9
     },
     "fedelta_gruppo": {
      "allineati": 139,
@@ -379,7 +379,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -474,14 +474,14 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 12220,
-     "totale": 22018,
-     "percentuale": 55.5
+     "presenti": 12161,
+     "totale": 21956,
+     "percentuale": 55.4
     },
     "fedelta_gruppo": {
      "allineati": 248,
-     "difformi": 20,
-     "percentuale_allineati": 92.5,
+     "difformi": 19,
+     "percentuale_allineati": 92.9,
      "voti_difformi": [
       "vs18_736_014",
       "vs18_723_001",
@@ -501,11 +501,10 @@
       "vs18_597_046",
       "vs18_593_017",
       "vs18_593_028",
-      "vs18_592_017",
-      "vs18_579_001"
+      "vs18_592_017"
      ]
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -606,7 +605,7 @@
    "Senato": {
     "presenza": {
      "presenti": 3877,
-     "totale": 9080,
+     "totale": 9078,
      "percentuale": 42.7
     },
     "fedelta_gruppo": {
@@ -641,8 +640,8 @@
    "Camera": {
     "presenza": {
      "presenti": 8918,
-     "totale": 22018,
-     "percentuale": 40.5
+     "totale": 21956,
+     "percentuale": 40.6
     },
     "fedelta_gruppo": {
      "allineati": 192,
@@ -650,7 +649,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -675,17 +674,17 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 11458,
-     "totale": 22017,
-     "percentuale": 52.0
+     "presenti": 11441,
+     "totale": 21955,
+     "percentuale": 52.1
     },
     "fedelta_gruppo": {
-     "allineati": 385,
+     "allineati": 384,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -710,17 +709,17 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 980,
-     "totale": 2049,
-     "percentuale": 47.8
+     "presenti": 971,
+     "totale": 1987,
+     "percentuale": 48.9
     },
     "fedelta_gruppo": {
-     "allineati": 36,
+     "allineati": 35,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 85
+    "voti_finali_e_fiducia": 84
    },
    "Senato": {
     "presenza": {
@@ -760,8 +759,8 @@
    "Camera": {
     "presenza": {
      "presenti": 7864,
-     "totale": 22017,
-     "percentuale": 35.7
+     "totale": 21955,
+     "percentuale": 35.8
     },
     "fedelta_gruppo": {
      "allineati": 160,
@@ -771,7 +770,7 @@
       "vs19_197_061"
      ]
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {
@@ -831,17 +830,17 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 8336,
-     "totale": 22018,
+     "presenti": 8327,
+     "totale": 21956,
      "percentuale": 37.9
     },
     "fedelta_gruppo": {
-     "allineati": 208,
+     "allineati": 207,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 564
    }
   },
   "coerenza": {

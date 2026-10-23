@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1972-03-21",
@@ -60,9 +60,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 29,
-     "assenti": 68,
-     "totale": 97
+     "presenti": 6,
+     "assenti": 29,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2549,30 +2549,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "FDI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 25,
-      "Non ha votato": 12
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     },
     {
      "id": "vs19_727_034",
@@ -5936,30 +5912,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_074",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2024 (Approvato dal Senato) (DDL 2536)",
-     "atto": "C.2536",
-     "titolo": "S. 1566. - \"Rendiconto generale dell’Amministrazione dello Stato per l’esercizio finanziario 2024\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 49,
-      "Favorevole": 67
-     },
-     "esito": {
-      "favorevoli": 130,
-      "contrari": 86,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_74&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_081",
      "camera": "Camera",
      "legislatura": 19,
@@ -5982,6 +5934,30 @@
       "astenuti": 6
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_074",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 2024 (Approvato dal Senato) (DDL 2536)",
+     "atto": "C.2536",
+     "titolo": "S. 1566. - \"Rendiconto generale dell’Amministrazione dello Stato per l’esercizio finanziario 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 49,
+      "Favorevole": 67
+     },
+     "esito": {
+      "favorevoli": 130,
+      "contrari": 86,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_74&tipo=dettaglio"
     },
     {
      "id": "vs19_535_065",
@@ -8390,30 +8366,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=381_37&tipo=dettaglio"
     },
     {
-     "id": "vs19_380_006",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-11-12",
-     "descrizione": "DDL 2100 - VOTO FINALE",
-     "atto": "C.2100",
-     "titolo": "S. 1225. - \"Ratifica ed esecuzione della Convenzione sull’istituzione dell’organizzazione governativa internazionale GCAP, fatta a Tokyo il 14 dicembre 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 37,
-      "Favorevole": 80
-     },
-     "esito": {
-      "favorevoli": 215,
-      "contrari": 43,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_6&tipo=dettaglio"
-    },
-    {
      "id": "vs19_380_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -8436,6 +8388,30 @@
       "astenuti": 90
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_380_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-12",
+     "descrizione": "DDL 2100 - VOTO FINALE",
+     "atto": "C.2100",
+     "titolo": "S. 1225. - \"Ratifica ed esecuzione della Convenzione sull’istituzione dell’organizzazione governativa internazionale GCAP, fatta a Tokyo il 14 dicembre 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 37,
+      "Favorevole": 80
+     },
+     "esito": {
+      "favorevoli": 215,
+      "contrari": 43,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=380_6&tipo=dettaglio"
     },
     {
      "id": "vs19_377_135",
@@ -14128,17 +14104,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 496,
-    "totale": 22018,
-    "percentuale": 2.3
+    "presenti": 473,
+    "totale": 21956,
+    "percentuale": 2.2
    },
    "fedelta_gruppo": {
-    "allineati": 49,
+    "allineati": 48,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [],
@@ -14150,7 +14126,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_(01)_(cropped).jpg",

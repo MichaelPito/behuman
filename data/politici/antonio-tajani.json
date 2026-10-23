@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1953-08-04",
@@ -3815,30 +3815,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=540_16&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_066",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia (DDL 2570)",
-     "atto": "C.2570",
-     "titolo": "Conversione in legge del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FI-PPE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 27,
-      "Non ha votato": 25
-     },
-     "esito": {
-      "favorevoli": 130,
-      "contrari": 84,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_074",
      "camera": "Camera",
      "legislatura": 19,
@@ -3885,6 +3861,30 @@
       "astenuti": 6
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_066",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia (DDL 2570)",
+     "atto": "C.2570",
+     "titolo": "Conversione in legge del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FI-PPE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 27,
+      "Non ha votato": 25
+     },
+     "esito": {
+      "favorevoli": 130,
+      "contrari": 84,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
     },
     {
      "id": "vs19_535_065",
@@ -12080,7 +12080,7 @@
   "cambi_totali": 0
  },
  "note": "Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.",
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Antonio_Tajani_2025.jpg/500px-Antonio_Tajani_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Antonio_Tajani_2025.jpg",

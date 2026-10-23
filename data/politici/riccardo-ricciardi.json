@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -41,9 +41,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 22,
-     "assenti": 75,
-     "totale": 97
+     "presenti": 13,
+     "assenti": 22,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2538,30 +2538,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 88,
-      "Non ha votato": 70
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
-    },
-    {
      "id": "vs19_727_034",
      "camera": "Camera",
      "legislatura": 19,
@@ -4075,30 +4051,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_005",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
-     "atto": "C.2429",
-     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 33,
-      "Non ha votato": 16
-     },
-     "esito": {
-      "favorevoli": 156,
-      "contrari": 0,
-      "astenuti": 112
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -4121,6 +4073,54 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 14,
+      "Favorevole": 35
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_005",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
+     "atto": "C.2429",
+     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 33,
+      "Non ha votato": 16
+     },
+     "esito": {
+      "favorevoli": 156,
+      "contrari": 0,
+      "astenuti": 112
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
     },
     {
      "id": "vs19_634_026",
@@ -4169,30 +4169,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 14,
-      "Favorevole": 35
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
     },
     {
      "id": "vs19_634_033",
@@ -14113,17 +14089,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8336,
-    "totale": 22018,
+    "presenti": 8327,
+    "totale": 21956,
     "percentuale": 37.9
    },
    "fedelta_gruppo": {
-    "allineati": 208,
+    "allineati": 207,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [
@@ -14218,7 +14194,7 @@
   "cambi_totali": 1
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",

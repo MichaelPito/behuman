@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-20",
-  "al": "2026-10-20"
+  "dal": "2021-10-23",
+  "al": "2026-10-23"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -53,9 +53,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 45,
-     "assenti": 52,
-     "totale": 97
+     "presenti": 0,
+     "assenti": 35,
+     "totale": 35
     },
     {
      "mese": "2021-11",
@@ -2524,29 +2524,6 @@
       "astenuti": 36
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_579_001",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-21",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia (Approvato dal Senato) (DDL 3314)",
-     "atto": "C.3314",
-     "titolo": "S. 2371. - \"Conversione in legge, con modificazioni, del decreto-legge 24 agosto 2021, n. 118, recante misure urgenti in materia di crisi d'impresa e di risanamento aziendale, nonché ulteriori misure urgenti in materia di giustizia\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-NCI",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 341,
-      "contrari": 0,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=579_1&tipo=dettaglio"
     },
     {
      "id": "vs19_727_034",
@@ -14089,9 +14066,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 3748,
-    "totale": 22018,
-    "percentuale": 17.0
+    "presenti": 3703,
+    "totale": 21956,
+    "percentuale": 16.9
    },
    "fedelta_gruppo": {
     "allineati": 139,
@@ -14099,7 +14076,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 564
   }
  },
  "posizioni": [
@@ -14177,7 +14154,7 @@
   "cambi_totali": 0
  },
  "note": null,
- "aggiornato_il": "2026-10-20",
+ "aggiornato_il": "2026-10-23",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
