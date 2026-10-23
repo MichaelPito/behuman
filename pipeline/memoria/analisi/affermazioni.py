@@ -125,11 +125,13 @@ def verifica_indicatore(testo: str, regole: dict, temi, indicatori: dict, dal: s
                 continue
             if not ini or not ini[1]:
                 continue
-            var = round(100 * (oggi[1] - ini[1]) / ini[1], 1)
+            var = round(100 * (oggi[1] - ini[1]) / abs(ini[1]), 1)
             reale = "invariato" if abs(var) <= SOGLIA else ("diminuzione" if var < 0 else "aumento")
             esito = "non_dimostrabile" if reale == "invariato" else ("confermata" if reale == dichiarata else "smentita")
             misure.append({"indicatore": iid, "nome": ind["nome"], "unita": ind["unita"], "fonte": ind["fonte"], "fonte_url": ind["fonte_url"],
-                           "da": {"data": ini[0], "valore": ini[1]}, "a": {"data": oggi[0], "valore": oggi[1]}, "variazione": var, "esito": esito})
+                           **{k: ind[k] for k in ("frequenza", "decimali", "suffisso", "punti", "somma_12_mesi") if k in ind},
+                           "da": {"data": ini[0], "valore": ini[1]}, "a": {"data": oggi[0], "valore": oggi[1]}, "variazione": var,
+                           "differenza": round(oggi[1] - ini[1], ind.get("decimali", 1) + 1), "esito": esito})
         if not misure:
             continue
         esiti = {m["esito"] for m in misure}

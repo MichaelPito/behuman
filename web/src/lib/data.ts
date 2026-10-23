@@ -316,8 +316,12 @@ export const statoIter = (s: string) => STATI[s] ?? STATI[s.trim()] ?? s;
 
 // ----------------------------------------------------------------- promesse prima/dopo l'incarico
 export type FraseImpegno = { tema: string; data: string; fonte: string; frase: string; url: string; verifica?: string; sezione?: string; metodo?: string; direzione: string | null; verbo: string | null };
-export type MisuraImpegno = {
+// come mostrare un valore: decimali, suffisso («%», « €/l», « mila»), variazione in punti per i tassi
+export type FormatoIndicatore = { unita: string; frequenza?: string; decimali?: number; suffisso?: string; punti?: boolean; somma_12_mesi?: boolean };
+export type MisuraImpegno = FormatoIndicatore & {
   id: string; nome: string; unita: string; fonte: string; fonte_url: string; frequenza: string;
+  differenza_dall_incarico?: number | null; differenza_dalla_prima_richiesta?: number | null;
+  meglio?: string | null; gruppo?: string; descrizione?: string;
   alla_prima_richiesta: { data: string; valore: number } | null; all_incarico: { data: string; valore: number };
   un_anno_prima: { data: string; valore: number } | null; oggi: { data: string; valore: number };
   variazione_dall_incarico: number | null; variazione_dalla_prima_richiesta: number | null; serie: [string, number][]; esito: string;
@@ -331,14 +335,45 @@ export type ImpegniPolitico = {
   slug: string; nome: string; incarico: { carica: string; dal: string }; temi: TemaImpegno[];
   riepilogo: { temi: number; raggiunto: number; direzione_chiesta: number; invariato: number; direzione_opposta: number; misto: number; senza_indicatore: number; testo: string };
 };
+export type SchedaIndicatore = Omit<MisuraImpegno, "alla_prima_richiesta" | "variazione_dalla_prima_richiesta" | "esito"> & { temi: string[] };
 export const impegni = () =>
-  leggi<{ politici: Record<string, ImpegniPolitico>; temi: { id: string; nome: string }[]; programmi: Record<string, FraseImpegno[]> }>("impegni.json", { politici: {}, temi: [], programmi: {} });
+  leggi<{
+    politici: Record<string, ImpegniPolitico>; temi: { id: string; nome: string; indicatori: string[] }[]; programmi: Record<string, FraseImpegno[]>;
+    indicatori: SchedaIndicatore[]; governo?: { nome: string | null; inizio: string };
+  }>("impegni.json", { politici: {}, temi: [], programmi: {}, indicatori: [] });
+
+/** Valore con decimali e unità dell'indicatore: «6,2%», «0,673 €/l», «23.436 mila». */
+export function valore(v: number, f: FormatoIndicatore): string {
+  const dec = f.decimali ?? (f.unita === "€ al litro" ? 3 : f.unita === "persone" ? 0 : 1);
+  const suff = f.suffisso ?? (f.unita === "€ al litro" ? " €/l" : f.unita === "persone" ? "" : f.unita.includes("%") ? "%" : ` ${f.unita}`);
+  return v.toLocaleString("it-IT", { minimumFractionDigits: dec, maximumFractionDigits: dec }) + suff;
+}
+/** Variazione: in punti per i tassi («−1,8 punti»), in percentuale per il resto («+12,3%»). */
+export function variazione(perc: number | null | undefined, diff: number | null | undefined, f: FormatoIndicatore): string {
+  if (f.punti && diff != null) {
+    const dec = f.decimali ?? 1;
+    const n = diff.toLocaleString("it-IT", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+    return `${diff > 0 ? "+" : ""}${n} ${f.unita.startsWith("%") ? "punti" : (f.suffisso ?? "").trim()}`;
+  }
+  return perc == null ? "—" : `${perc > 0 ? "+" : ""}${perc.toLocaleString("it-IT")}%`;
+}
+/** Il periodo del dato: «agosto 2026», «2° trimestre 2026», «1° semestre 2026», «2024». */
+export function periodo(d: string, f: FormatoIndicatore): string {
+  const [y, m] = d.split("-").map(Number);
+  switch (f.frequenza) {
+    case "annuale": return String(y);
+    case "trimestrale": return `${Math.floor((m - 1) / 3) + 1}° trimestre ${y}`;
+    case "semestrale": return `${m <= 6 ? 1 : 2}° semestre ${y}`;
+    case "mensile": return `${f.somma_12_mesi ? "12 mesi fino a " : ""}${MESI[m - 1]} ${y}`;
+    default: return dataIt(d);
+  }
+}
 export const ESITO_CLASSE: Record<string, string> = {
   raggiunto: "accent", direzione_chiesta: "accent", invariato: "sky", direzione_opposta: "plum", misto: "sun", senza_indicatore: "",
 };
 
 // ----------------------------------------------------------------- osservatorio (notizie e polemiche)
-export type MisuraVerifica = { indicatore: string; nome: string; unita: string; fonte: string; fonte_url: string; da: { data: string; valore: number }; a: { data: string; valore: number }; variazione: number; esito: string };
+export type MisuraVerifica = FormatoIndicatore & { indicatore: string; nome: string; unita: string; fonte: string; fonte_url: string; da: { data: string; valore: number }; a: { data: string; valore: number }; variazione: number; differenza?: number; esito: string };
 export type VerificaDati = {
   tema: string; tema_nome: string; esito: "confermata" | "smentita" | "non_dimostrabile" | "in_parte"; frase?: string; di_chi?: string;
   dichiarata?: string; parola?: string; misure?: MisuraVerifica[]; righe?: { camera: string; presenza: number; mediana: number; esito: string }[];

@@ -34,11 +34,11 @@ fonti:
     licenza: Dati pubblici
   - nome: Ministero dell'Ambiente e della Sicurezza Energetica – prezzi dei carburanti
     url: https://sisen.mase.gov.it/dgsaie/prezzi-settimanali-carburanti
-    uso: Accise su benzina e gasolio, per misurare le promesse sulle accise
+    uso: Accise e prezzo alla pompa di benzina e gasolio (settimanali), per misurare promesse e affermazioni su carburanti e accise
     licenza: Dati pubblici
-  - nome: Eurostat
-    url: https://ec.europa.eu/eurostat/databrowser/view/gov_10a_taxag/default/table
-    uso: Pressione fiscale (entrate fiscali e contributive in % del PIL)
+  - nome: Eurostat (dati ISTAT per l'Italia)
+    url: https://ec.europa.eu/eurostat/databrowser/
+    uso: "Indicatori della pagina «I numeri»: disoccupazione e occupati, inflazione, prezzi di luce e gas, debito, deficit, spread, PIL, pressione fiscale, spesa pubblica per sanità, istruzione e difesa, nascite, rischio di povertà"
     licenza: CC BY 4.0
   - nome: UNHCR – arrivi via mare in Italia
     url: https://data.unhcr.org/en/situations/mediterranean/location/5205

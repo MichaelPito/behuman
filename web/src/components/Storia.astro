@@ -3,13 +3,11 @@
 // politico, il confronto con i dati ufficiali e con le sue posizioni documentate.
 import Icon from "./Icon.astro";
 import type { Storia } from "../lib/data";
-import { dataIt, ESITO_VERIFICA, ETICHETTA_POSIZIONE } from "../lib/data";
+import { dataIt, ESITO_VERIFICA, ETICHETTA_POSIZIONE, periodo, valore, variazione } from "../lib/data";
 import { u } from "../lib/url";
 
 interface Props { s: Storia; mostraNome?: boolean }
 const { s, mostraNome = false } = Astro.props;
-const fmt = (v: number, unita: string) =>
-  unita === "€ al litro" ? `${v.toFixed(3).replace(".", ",")} €/l` : unita === "persone" ? Math.round(v).toLocaleString("it-IT") : `${v.toFixed(1).replace(".", ",")}${unita.includes("%") ? "%" : ""}`;
 const PROP: Record<string, string> = {
   "ucraina-cessione-armi": "invio di armi all'Ucraina",
   "autonomia-differenziata-legge-calderoli": "autonomia differenziata",
@@ -32,7 +30,7 @@ const PROP: Record<string, string> = {
       <strong class="small">{ESITO_VERIFICA[v.esito]?.[0] ?? v.esito}</strong>
       <span class="tiny muted">Affermazione ({v.di_chi}): «{v.frase}»</span>
       {v.misure?.map((m) => (
-        <span class="small">{m.nome}: {fmt(m.da.valore, m.unita)} ({dataIt(m.da.data)}) → {fmt(m.a.valore, m.unita)} ({dataIt(m.a.data)}), {m.variazione > 0 ? "+" : ""}{m.variazione.toLocaleString("it-IT")}% · <a href={m.fonte_url} target="_blank" rel="noopener">{m.fonte}</a></span>
+        <span class="small">{m.nome}: {valore(m.da.valore, m)} ({periodo(m.da.data, m)}) → {valore(m.a.valore, m)} ({periodo(m.a.data, m)}), {variazione(m.variazione, m.differenza, m)} · <a href={m.fonte_url} target="_blank" rel="noopener">{m.fonte}</a></span>
       ))}
       {v.righe?.map((r) => <span class="small">{r.camera}: presenza al voto {r.presenza.toLocaleString("it-IT")}%, mediana dei colleghi {r.mediana.toLocaleString("it-IT")}%</span>)}
     </div>

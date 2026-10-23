@@ -207,3 +207,61 @@ def test_verifica_non_scambia_frasi_complesse():
     ind = {"accisa-benzina": {"nome": "a", "unita": "€ al litro", "fonte": "f", "fonte_url": "u", "serie": [("2022-10-17", 0.478), ("2026-10-19", 0.673)]}}
     frase = "È quello che abbiamo fatto, il taglio delle accise sul carburante, che è stato un modo per impedire che esplodesse l'aumento dei prezzi"
     assert verifica_indicatore(frase, carica_regole(), carica_temi(), ind, "2022-10-21") is None
+
+
+def test_periodi_e_formati_indicatori():
+    from memoria.fonti.indicatori import data_periodo, formatta, periodo
+    assert data_periodo("2024") == "2024-01-01"
+    assert data_periodo("2026-Q2") == "2026-06-30"
+    assert data_periodo("2026-S2") == "2026-12-31"
+    assert data_periodo("2026-08") == "2026-08-28"
+    assert periodo("2026-06-30", {"frequenza": "trimestrale"}) == "2° trimestre 2026"
+    assert periodo("2026-12-31", {"frequenza": "semestrale"}) == "2° semestre 2026"
+    assert periodo("2026-08-28", {"frequenza": "mensile"}) == "agosto 2026"
+    assert periodo("2026-08-28", {"frequenza": "mensile", "somma_12_mesi": True}) == "12 mesi fino a agosto 2026"
+    assert formatta(23436.0, {"decimali": 0, "suffisso": " mila"}) == "23.436 mila"
+    assert formatta(6.2, {"decimali": 1, "suffisso": "%"}) == "6,2%"
+
+
+def test_verifica_nuovi_indicatori():
+    from memoria.analisi.affermazioni import carica_regole, verifica_indicatore
+    from memoria.sezioni.impegni import carica_temi
+    base = {"unita": "% della forza lavoro", "fonte": "Eurostat", "fonte_url": "u", "frequenza": "mensile", "decimali": 1}
+    ind = {
+        "disoccupazione": base | {"nome": "Disoccupazione", "serie": [("2022-09-28", 8.0), ("2026-08-28", 6.2)]},
+        "spesa-sanitaria": base | {"nome": "Sanità % PIL", "unita": "% del PIL", "serie": [("2022-01-01", 6.9), ("2024-01-01", 6.6)]},
+        "spesa-sanitaria-euro": base | {"nome": "Sanità euro", "unita": "miliardi di euro", "serie": [("2022-01-01", 137.4), ("2024-01-01", 146.1)]},
+        "inflazione": base | {"nome": "Inflazione", "unita": "% sull'anno prima", "serie": [("2022-09-28", 9.5), ("2026-09-28", 4.2)]},
+    }
+    r, t = carica_regole(), carica_temi()
+    v = verifica_indicatore("La disoccupazione è calata", r, t, ind, "2022-10-22")
+    assert v["tema"] == "disoccupazione" and v["esito"] == "confermata" and v["misure"][0]["differenza"] == -1.8
+    # spesa in euro su, in rapporto al PIL giù: «in parte»
+    assert verifica_indicatore("Tagli alla sanità", r, t, ind, "2022-10-22")["esito"] == "in_parte"
+    assert verifica_indicatore("L'inflazione è scesa", r, t, ind, "2022-10-22")["esito"] == "confermata"
+
+
+def test_temi_nuovi_non_confondono_il_pil():
+    from memoria.sezioni.impegni import carica_temi
+    temi = {x.id: x for x in carica_temi()}
+    assert temi["crescita"].richiesta("aumentare la spesa militare al 2% del PIL") is None
+    assert temi["spesa-difesa"].richiesta("aumentare la spesa militare al 2% del PIL", programma=True)[0] == "aumento"
+    assert temi["spesa-difesa"].richiesta("Dobbiamo aumentare la spesa militare al 2% del PIL")[0] == "aumento"
+    assert temi["occupazione"].richiesta("contrastare le occupazioni abusive delle case") is None
+    assert temi["natalita"].richiesta("Dobbiamo sostenere la natalità")[0] == "aumento"
+
+
+def test_rigore_alto_nei_discorsi():
+    from memoria.sezioni.impegni import carica_temi
+    temi = {x.id: x for x in carica_temi()}
+    # critica all'avversario, non una richiesta
+    assert temi["spesa-difesa"].richiesta("l'unica spesa che ci vantiamo di tagliare è quella delle spese militari") is None
+    # parole di altri
+    assert temi["poverta"].richiesta("se vuole abolire la povertà, l'unico modo è creare lavoro") is None
+    assert temi["poverta"].richiesta("nelle parole di Di Maio è il modo con cui eliminiamo la povertà") is None
+    # domanda retorica
+    assert temi["poverta"].richiesta("E come si pensa così di creare il lavoro che serve a combattere la povertà?") is None
+    assert temi["bollette"].richiesta("Chiediamo al Governo di abbassare subito le bollette")[0] == "riduzione"
+    # i temi già esistenti restano come prima
+    assert temi["accise-carburanti"].richiesta("Bisogna abolire le accise")[0] == "abolizione"
+    assert temi["sanita"].richiesta("educazione finanziaria, benessere e sanità", programma=True) is None

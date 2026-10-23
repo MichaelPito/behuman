@@ -3,7 +3,7 @@ import Base from "../layouts/Base.astro";
 import FiltroLista from "../components/FiltroLista.astro";
 import Icon from "../components/Icon.astro";
 import Storia from "../components/Storia.astro";
-import { dataIt, ESITO_VERIFICA, osservatorio, perCognome } from "../lib/data";
+import { dataIt, ESITO_VERIFICA, osservatorio, perCognome, periodo, variazione } from "../lib/data";
 import { u } from "../lib/url";
 
 const o = osservatorio();
@@ -71,7 +71,7 @@ const tot = { storie: storie.length, polemiche: conta((s) => s.polemica), virali
             {f.verifica_dati && (
               <p class:list={["small", "dati", ESITO_VERIFICA[f.verifica_dati.esito]?.[1]]}>
                 Confronto con i dati: <strong>{ESITO_VERIFICA[f.verifica_dati.esito]?.[0]}</strong>
-                {f.verifica_dati.misure?.map((m) => <span class="tiny"> · {m.nome} {m.variazione > 0 ? "+" : ""}{m.variazione.toLocaleString("it-IT")}% ({dataIt(m.da.data)} → {dataIt(m.a.data)})</span>)}
+                {f.verifica_dati.misure?.map((m) => <span class="tiny"> · {m.nome} {variazione(m.variazione, m.differenza, m)} ({periodo(m.da.data, m)} → {periodo(m.a.data, m)})</span>)}
               </p>
             )}
             <div class="row" style="gap:12px">
