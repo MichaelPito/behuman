@@ -7,6 +7,10 @@
 #   indicatori: serie ufficiali con cui misurare cosa è successo (vedi pipeline/memoria/fonti/indicatori.py)
 #   leggi:     espressione sul titolo delle leggi del Governo che riguardano il tema
 #
+#   rigore:    «alto» = nei discorsi conta solo una richiesta esplicita di chi parla («chiediamo»,
+#              «vogliamo», «dobbiamo», «bisogna»…), non le domande né le frasi che riportano parole di altri.
+#              Serve per i temi di cui si parla molto anche criticando gli avversari.
+#
 # La regola è la stessa per tutti i politici e tutti i partiti. Aggiungere un tema = una proposta
 # pubblica (issue o PR) con indicatore ufficiale; nessun tema va aggiunto per colpire una persona.
 
@@ -18,6 +22,15 @@
     riduzione: '\b(tagli\w*|ridu\w*|ridurr\w*|abbass\w*|sterilizz\w*|diminu\w*|alleggerir\w*)'
   indicatori: [accisa-benzina, accisa-gasolio]
   leggi: '\b(accis\w*|carburant\w*)'
+
+- id: prezzo-carburanti
+  nome: Prezzo dei carburanti
+  parole: '\b(prezz\w* (della |del |dei )?(benzina|gasolio|carburant\w*)|caro[- ]?(benzina|carburant\w*)|benzina|gasolio)\b'
+  direzioni:
+    riduzione: '\b(abbass\w*|ridu\w*|ridurr\w*|tagli\w*|calmier\w*|contener\w*|dimezz\w*|bloccar\w*)'
+  rigore: alto
+  indicatori: [prezzo-benzina, prezzo-gasolio]
+  leggi: '\b(carburant\w*|accis\w*)'
 
 - id: tasse
   nome: Livello delle tasse
@@ -51,3 +64,123 @@
     aumento: '\b(difend\w*|rafforz\w*|estender\w*|potenzi\w*)'
   indicatori: []
   leggi: '\b(reddito di cittadinanza|inclusione)\b'
+
+- id: disoccupazione
+  nome: Disoccupazione
+  parole: '\bdisoccupa\w*'
+  direzioni:
+    riduzione: '\b(ridu\w*|ridurr\w*|abbatt\w*|combatt\w*|contrast\w*|tagli\w*|dimezz\w*|azzer\w*|sconfigg\w*|diminu\w*)'
+  rigore: alto
+  indicatori: [disoccupazione, disoccupazione-giovanile]
+  leggi: '\b(lavor\w*|occupa\w*)'
+
+- id: occupazione
+  nome: Occupazione
+  parole: '\b(occupati|occupazione(?! abusiv)(?! dell[ae] cas)(?! di (case|immobili|edifici|scuole)))\b|\bposti di lavoro\b'
+  direzioni:
+    aumento: '\b(aumentar\w*|crear\w*|creiamo|creeremo|rilanciar\w*|incrementar\w*|favorir\w*|sostener\w*|far crescere|raddoppiar\w*)'
+  rigore: alto
+  indicatori: [occupati, tasso-occupazione]
+  leggi: '\b(lavor\w*|occupa\w*)'
+
+- id: inflazione
+  nome: Inflazione e costo della vita
+  parole: '\b(inflazione|carovita|caro[- ]vita|costo della vita)\b'
+  direzioni:
+    riduzione: '\b(ridu\w*|ridurr\w*|abbatt\w*|combatt\w*|contrast\w*|frenar\w*|contener\w*|fermar\w*|diminu\w*)'
+  rigore: alto
+  indicatori: [inflazione]
+  leggi: '\b(prezz\w*|inflazion\w*|carovita)'
+
+- id: bollette
+  nome: Bollette di luce e gas
+  parole: '\b(bollett\w*|caro[- ]?(energia|bollette)|prezz\w* dell\W?\s*(luce|gas|energia))'
+  direzioni:
+    riduzione: '\b(abbass\w*|ridu\w*|ridurr\w*|tagli\w*|calmier\w*|contener\w*|azzer\w*|dimezz\w*|bloccar\w*|fermar\w*)'
+  rigore: alto
+  indicatori: [bolletta-luce, bolletta-gas]
+  leggi: '\b(energ\w*|bollett\w*|elettric\w*|gas)\b'
+
+- id: debito-pubblico
+  nome: Debito pubblico
+  parole: '\bdebito pubblico\b'
+  direzioni:
+    riduzione: '\b(ridu\w*|ridurr\w*|abbatt\w*|tagli\w*|dimezz\w*|contener\w*|diminu\w*)'
+  rigore: alto
+  indicatori: [debito-pubblico]
+  leggi: '\b(bilancio|finanza pubblica|debito)\b'
+
+- id: deficit
+  nome: Deficit pubblico
+  parole: '\b(deficit|disavanzo)\b(?! cognitiv)(?! di attenzione)(?! di (personale|organico|medici|infermieri))'
+  direzioni:
+    riduzione: '\b(ridu\w*|ridurr\w*|abbatt\w*|tagli\w*|dimezz\w*|contener\w*|diminu\w*|rientrar\w*)'
+  rigore: alto
+  indicatori: [deficit]
+  leggi: '\b(bilancio|finanza pubblica|deficit)\b'
+
+- id: spread
+  nome: Spread
+  parole: '\bspread\b'
+  direzioni:
+    riduzione: '\b(ridu\w*|ridurr\w*|abbass\w*|contener\w*|fermar\w*|diminu\w*)'
+  rigore: alto
+  indicatori: [spread]
+  leggi: ''
+
+- id: crescita
+  nome: Crescita dell'economia (PIL)
+  # il PIL come misura di altro («2% del PIL», «in rapporto al PIL») non è il tema
+  parole: '(?<!del )(?<!sul )(?<!al )(?<!di )(?<!nel )(?<!% )\b(pil|prodotto interno lordo)\b|\bcrescita economica\b'
+  direzioni:
+    aumento: '\b(rilanciar\w*|aumentar\w*|far crescere|sostener\w*|spinger\w*|incrementar\w*|raddoppiar\w*)'
+  rigore: alto
+  indicatori: [pil]
+  leggi: ''
+
+- id: sanita
+  nome: Spesa per la sanità pubblica
+  parole: '\b(sanità|servizio sanitario|sistema sanitario|spesa sanitaria|fondo sanitario|ssn)\b'
+  direzioni:
+    aumento: '\b(investir\w*|investiamo|investiremo|rifinanziar\w*|finanziare|aumentar\w* (le risorse|la spesa|i fondi|il fondo|gli investimenti|il finanziamento)|più risorse|maggiori risorse|più fondi)'
+  rigore: alto
+  indicatori: [spesa-sanitaria, spesa-sanitaria-euro]
+  leggi: '\b(sanit\w*|salute|ospedal\w*)'
+
+- id: istruzione
+  nome: Spesa per la scuola e l'istruzione
+  parole: '\b(scuola pubblica|scuola|istruzione)\b'
+  direzioni:
+    aumento: '\b(investir\w*|investiamo|investiremo|rifinanziar\w*|finanziare|aumentar\w* (le risorse|la spesa|i fondi|il fondo|gli investimenti|il finanziamento)|più risorse|maggiori risorse|più fondi)'
+  rigore: alto
+  indicatori: [spesa-istruzione]
+  leggi: '\b(scuol\w*|istruzione|universit\w*)'
+
+- id: spesa-difesa
+  nome: Spesa militare
+  parole: '\b(spes[ae] (militar\w*|per la difesa|in difesa)|riarmo|bilancio della difesa|armamenti)\b'
+  direzioni:
+    aumento: '\b(aumentar\w*|portar\w*|raggiunger\w*|incrementar\w*|raddoppiar\w*)'
+    riduzione: '\b(ridu\w*|ridurr\w*|tagli\w*|fermar\w*|bloccar\w*|congelar\w*)'
+  rigore: alto
+  indicatori: [spesa-difesa]
+  leggi: '\b(difesa|militar\w*|forze armate)\b'
+
+- id: natalita
+  nome: Natalità
+  parole: '\b(natalità|nascite|denatalità|inverno demografico|culle)\b'
+  direzioni:
+    aumento: '\b(aumentar\w*|sostener\w*|incentivar\w*|rilanciar\w*|favorir\w*|incrementar\w*|promuover\w*|invertir\w*|contrastar\w*|combatter\w*)'
+  rigore: alto
+  indicatori: [nascite]
+  leggi: '\b(famigli\w*|natalit\w*|figli\w*)'
+
+- id: poverta
+  nome: Povertà
+  parole: '\b(povertà(?! educativ)(?! energetic)(?! sanitari)|poveri)\b'
+  direzioni:
+    abolizione: '\b(abol\w*|sconfigg\w*|elimin\w*|azzer\w*)'
+    riduzione: '\b(ridu\w*|ridurr\w*|combatt\w*|contrast\w*|abbatt\w*|dimezz\w*|diminu\w*)'
+  rigore: alto
+  indicatori: [poverta]
+  leggi: '\b(povert\w*|inclusione)\b'

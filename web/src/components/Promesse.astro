@@ -3,23 +3,19 @@
 // Nessun giudizio: l'esito è una regola fissa sul segno della variazione (vedi FAQ).
 import Icon from "./Icon.astro";
 import type { ImpegniPolitico, MisuraImpegno } from "../lib/data";
-import { dataIt, ESITO_CLASSE, slugLegge } from "../lib/data";
+import { dataIt, ESITO_CLASSE, periodo, slugLegge, valore, variazione } from "../lib/data";
 import { u } from "../lib/url";
 
 interface Props { d: ImpegniPolitico }
 const { d } = Astro.props;
 
-const fmt = (v: number, unita: string) =>
-  unita === "€ al litro" ? `${v.toFixed(3).replace(".", ",")} €/l`
-  : unita === "persone" ? Math.round(v).toLocaleString("it-IT")
-  : `${v.toFixed(1).replace(".", ",")}${unita.includes("%") ? "%" : " " + unita}`;
-const segno = (v: number | null) => (v == null ? "—" : `${v > 0 ? "+" : ""}${v.toLocaleString("it-IT")}%`);
 
 // grafico: serie dal 2018, linea verticale all'inizio dell'incarico, punto alla prima richiesta
 function grafico(m: MisuraImpegno, dal: string, prima: string | undefined) {
   const s = m.serie;
   const W = 320, H = 96, P = 6;
-  const t = (d: string) => new Date(d).getTime();
+  // i dati annuali sono datati 1° gennaio: nel grafico stanno a metà dell'anno
+  const t = (d: string) => new Date(m.frequenza === "annuale" && d.slice(5) === "01-01" ? `${d.slice(0, 4)}-07-01` : d).getTime();
   const x0 = t(s[0][0]), x1 = t(s[s.length - 1][0]);
   const vs = s.map((p) => p[1]);
   // scala sui valori della serie (non da zero), con un po' di margine: si vedono le variazioni
@@ -77,9 +73,9 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
               <figure class="ind">
                 <figcaption class="row" style="justify-content:space-between;gap:6px">
                   <span class="small"><strong>{m.nome}</strong></span>
-                  <span class={`pill ${ESITO_CLASSE[m.esito] ?? ""}`}>{segno(m.variazione_dall_incarico)}</span>
+                  <span class={`pill ${ESITO_CLASSE[m.esito] ?? ""}`}>{variazione(m.variazione_dall_incarico, m.differenza_dall_incarico, m)}</span>
                 </figcaption>
-                <svg viewBox={`0 0 ${g.W} ${g.H}`} role="img" aria-label={`${m.nome}: ${fmt(m.all_incarico.valore, m.unita)} all'inizio dell'incarico, ${fmt(m.oggi.valore, m.unita)} all'ultimo dato`}>
+                <svg viewBox={`0 0 ${g.W} ${g.H}`} role="img" aria-label={`${m.nome}: ${valore(m.all_incarico.valore, m)} all'inizio dell'incarico, ${valore(m.oggi.valore, m)} all'ultimo dato`}>
                   <path d={g.area} class="area" />
                   <path d={g.linea} class="linea" pathLength="1" />
                   {g.xp != null && <line x1={g.xp} x2={g.xp} y1={g.P} y2={g.H - g.P} class="mprima" />}
@@ -88,11 +84,11 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
                 </svg>
                 <dl class="valori">
                   {m.alla_prima_richiesta && m.alla_prima_richiesta.data < (m.un_anno_prima?.data ?? m.all_incarico.data) && (
-                    <div><dt>Alla prima richiesta ({dataIt(m.alla_prima_richiesta.data)})</dt><dd>{fmt(m.alla_prima_richiesta.valore, m.unita)}</dd></div>
+                    <div><dt>Alla prima richiesta ({dataIt(m.alla_prima_richiesta.data)})</dt><dd>{valore(m.alla_prima_richiesta.valore, m)}</dd></div>
                   )}
-                  {m.un_anno_prima && <div><dt>Un anno prima</dt><dd>{fmt(m.un_anno_prima.valore, m.unita)}</dd></div>}
-                  <div><dt>All'incarico</dt><dd>{fmt(m.all_incarico.valore, m.unita)}</dd></div>
-                  <div><dt>Ultimo dato</dt><dd>{fmt(m.oggi.valore, m.unita)}</dd></div>
+                  {m.un_anno_prima && <div><dt>Un anno prima</dt><dd>{valore(m.un_anno_prima.valore, m)}</dd></div>}
+                  <div><dt>All'incarico ({periodo(m.all_incarico.data, m)})</dt><dd>{valore(m.all_incarico.valore, m)}</dd></div>
+                  <div><dt>Ultimo dato ({periodo(m.oggi.data, m)})</dt><dd>{valore(m.oggi.valore, m)}</dd></div>
                 </dl>
                 <p class="tiny muted">Dal {m.serie[0][0].slice(0, 4)} a oggi. <span class="leg minc"></span> inizio incarico <span class="leg mprima"></span> prima richiesta · Fonte: <a href={m.fonte_url} target="_blank" rel="noopener">{m.fonte}</a></p>
               </figure>

@@ -12,8 +12,8 @@ testate_virale: 3
 # La parola di direzione deve stare attaccata alla parola del tema (entro 30 caratteri, senza virgole
 # né «che» in mezzo): «sbarchi dimezzati», «ha aumentato le accise».
 affermazioni:
-  diminuzione: '\b(ridott\w*|tagliat\w*|dimezzat\w*|diminuit\w*|calat\w*|in calo|scese|scesi|sceso|crollat\w*|abbassat\w*|azzerat\w*|giù)'
-  aumento: '\b(aumentat\w*|cresciut\w*|salit\w*|raddoppiat\w*|alzat\w*|rincarat\w*|in aumento|impennat\w*)\b'
+  diminuzione: '\b(tagli|ridott\w*|tagliat\w*|dimezzat\w*|diminuit\w*|calat\w*|in calo|scese|scesi|sceso|scesa|crollat\w*|abbassat\w*|azzerat\w*|giù|calano|scendono|diminuiscono|crollano|in discesa)\b'
+  aumento: '\b(aumentat\w*|cresciut\w*|salit\w*|raddoppiat\w*|alzat\w*|rincarat\w*|in aumento|impennat\w*|aumentano|crescono|salgono|in crescita|creat[oi])\b'
   assenza: '\b(assent\w*|assenze|non (va|vota|si presenta) in aula|diserta\w*|mai in aula|poche presenze)\b'
 
 # proposizioni del database (config/temi.yaml): parole che le riconoscono in una frase e

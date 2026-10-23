@@ -1,0 +1,162 @@
+---
+// I numeri del Paese dall'inizio del governo in carica: indicatori ufficiali, uguali per tutti.
+// Nessun colore «buono/cattivo»: si mostra solo in che direzione si è mosso il dato.
+import Base from "../layouts/Base.astro";
+import Icon from "../components/Icon.astro";
+import { dataIt, impegni, osservatorio, periodo, valore, variazione, type SchedaIndicatore } from "../lib/data";
+import { u } from "../lib/url";
+
+const imp = impegni();
+const gov = imp.governo;
+// (i dati vecchi senza valori all'inizio del governo non si mostrano: arrivano con l'aggiornamento quotidiano)
+const schede = (imp.indicatori ?? []).filter((s) => s.all_incarico && s.oggi && s.serie?.length);
+const ORDINE_GRUPPI = ["Lavoro", "Prezzi ed energia", "Fisco", "Conti pubblici", "Economia", "Spesa pubblica", "Società", "Immigrazione"];
+const gruppi = ORDINE_GRUPPI.map((g) => ({ nome: g, schede: schede.filter((s) => (s.gruppo ?? "Altro") === g) })).filter((g) => g.schede.length);
+const slug = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-");
+
+// affermazioni già confrontate con ciascun indicatore (notizie e verifiche dei fact-checker)
+const o = osservatorio();
+type Uso = { data: string; frase: string; nome: string; slug: string; esito: string; url: string };
+const usi: Record<string, Uso[]> = {};
+for (const p of Object.values(o.politici)) {
+  const tutte = [
+    ...p.storie.flatMap((s) => s.verifiche.map((v) => ({ v, data: s.data, url: s.articoli[0]?.url ?? s.id }))),
+    ...p.fact_check.filter((f) => f.verifica_dati).map((f) => ({ v: f.verifica_dati!, data: f.data, url: f.url })),
+  ];
+  for (const { v, data, url } of tutte) {
+    for (const m of v.misure ?? []) {
+      (usi[m.indicatore] ??= []).push({ data, frase: v.frase ?? "", nome: p.nome, slug: p.slug, esito: v.esito, url });
+    }
+  }
+}
+for (const k of Object.keys(usi)) usi[k] = usi[k].sort((a, b) => b.data.localeCompare(a.data)).slice(0, 3);
+const ESITO: Record<string, string> = { confermata: "i dati la confermano", smentita: "i dati la smentiscono", non_dimostrabile: "nessuna variazione rilevante", in_parte: "i dati la confermano in parte" };
+
+function grafico(m: SchedaIndicatore, inizio: string | undefined) {
+  const s = m.serie;
+  const W = 320, H = 90, P = 6;
+  // i dati annuali sono datati 1° gennaio: nel grafico stanno a metà dell'anno
+  const t = (d: string) => new Date(m.frequenza === "annuale" && d.slice(5) === "01-01" ? `${d.slice(0, 4)}-07-01` : d).getTime();
+  const x0 = t(s[0][0]), x1 = t(s[s.length - 1][0]);
+  const vs = s.map((p) => p[1]);
+  const mn = Math.min(...vs), mx = Math.max(...vs), pad = (mx - mn) * 0.15 || Math.abs(mx) * 0.05 || 1;
+  const X = (d: string) => P + ((t(d) - x0) / (x1 - x0 || 1)) * (W - 2 * P);
+  const Y = (v: number) => H - P - ((v - (mn - pad)) / (mx - mn + 2 * pad || 1)) * (H - 2 * P);
+  const linea = s.map((p, i) => `${i ? "L" : "M"}${X(p[0]).toFixed(1)},${Y(p[1]).toFixed(1)}`).join(" ");
+  const area = `${linea} L${X(s[s.length - 1][0]).toFixed(1)},${H - P} L${X(s[0][0]).toFixed(1)},${H - P} Z`;
+  const xi = inizio && t(inizio) >= x0 ? X(inizio) : null;
+  return { W, H, P, linea, area, xi, xo: X(s[s.length - 1][0]), yo: Y(s[s.length - 1][1]) };
+}
+const direzione = (m: SchedaIndicatore) => {
+  const v = m.punti ? m.differenza_dall_incarico : m.variazione_dall_incarico;
+  if (v == null) return "";
+  if (Math.abs(m.variazione_dall_incarico ?? 0) <= 1) return "stabile";
+  return v > 0 ? "su" : "giu";
+};
+---
+<Base title="I numeri" description="Lavoro, prezzi, bollette, debito, spread, PIL, sanità, nascite, povertà, sbarchi: i dati ufficiali dall'inizio del governo in carica, con le fonti.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Dati ufficiali · aggiornati ogni giorno</span>
+      <h1>I <span class="grad">numeri</span> del Paese</h1>
+      <p class="muted prose">
+        {schede.length} indicatori da fonti pubbliche (Eurostat su dati ISTAT, Ministero dell'Ambiente e della Sicurezza Energetica, UNHCR su dati del Ministero dell'Interno),
+        dall'inizio del {gov?.nome ?? "governo in carica"}{gov?.inizio && <> ({dataIt(gov.inizio)})</>} all'ultimo dato pubblicato.
+        Sono gli stessi numeri con cui confrontiamo le <a href={u("/governo/#promesse")}>promesse fatte prima dell'incarico</a> e le
+        <a href={u("/osservatorio/")}>affermazioni nelle notizie e sui social</a>.
+      </p>
+    </div>
+    <p class="callout neutral small">
+      <Icon name="scale" class="tiny" /> Un numero dice di quanto è cambiato qualcosa, non perché: dipende anche da prezzi internazionali, guerre, economia europea, decisioni dei governi
+      precedenti. Non coloriamo i dati come «buoni» o «cattivi». La freccia indica solo la direzione (sopra ±1% di variazione). Per i tassi in percentuale la variazione è in punti.
+    </p>
+    <nav class="salti" aria-label="Gruppi di indicatori">
+      {gruppi.map((g) => <a class="pill" href={`#${slug(g.nome)}`}>{g.nome} <span class="muted">{g.schede.length}</span></a>)}
+    </nav>
+  </section>
+
+  {gruppi.length === 0 && <section class="section"><p class="callout neutral">I numeri arriveranno con il prossimo aggiornamento quotidiano.</p></section>}
+
+  {gruppi.map((g) => (
+    <section class="section" id={slug(g.nome)}>
+      <div class="section-head"><h2>{g.nome}</h2></div>
+      <div class="grid numeri">
+        {g.schede.map((m) => {
+          const gr = grafico(m, gov?.inizio);
+          const dir = direzione(m);
+          return (
+            <article class="card scheda" id={m.id}>
+              <header class="row testa">
+                <h3>{m.nome}</h3>
+                <span class:list={["pill", { sky: dir === "giu", sun: dir === "su" }]} title="Variazione dall'inizio del governo">
+                  {dir === "su" ? "↑" : dir === "giu" ? "↓" : "="} {variazione(m.variazione_dall_incarico, m.differenza_dall_incarico, m)}
+                </span>
+              </header>
+              {m.descrizione && <p class="small muted">{m.descrizione}</p>}
+              <dl class="valori">
+                <div><dt>Inizio del governo · {periodo(m.all_incarico.data, m)}</dt><dd>{valore(m.all_incarico.valore, m)}</dd></div>
+                <div class="ultimo"><dt>Ultimo dato · {periodo(m.oggi.data, m)}</dt><dd>{valore(m.oggi.valore, m)}</dd></div>
+              </dl>
+              {m.serie.length > 1 && (
+                <svg viewBox={`0 0 ${gr.W} ${gr.H}`} role="img" aria-label={`${m.nome} dal ${m.serie[0][0].slice(0, 4)}: ${valore(m.all_incarico.valore, m)} all'inizio del governo, ${valore(m.oggi.valore, m)} all'ultimo dato`}>
+                  <path d={gr.area} class="area" />
+                  <path d={gr.linea} class="linea" />
+                  {gr.xi != null && <line x1={gr.xi} x2={gr.xi} y1={gr.P} y2={gr.H - gr.P} class="minc" />}
+                  <circle cx={gr.xo} cy={gr.yo} r="3.5" class="oggi" />
+                </svg>
+              )}
+              <p class="tiny muted">
+                Dal {m.serie[0]?.[0].slice(0, 4)} · <span class="leg"></span> inizio del governo · {m.unita} · Fonte: <a href={m.fonte_url} target="_blank" rel="noopener">{m.fonte} <Icon name="ext" class="tiny" /></a>
+              </p>
+              {m.temi.length > 0 && <p class="tiny">Misura le promesse su: {m.temi.map((t, i) => <>{i > 0 && ", "}<a href={u("/governo/#promesse")}>{t.toLowerCase()}</a></>)}</p>}
+              {usi[m.id]?.length > 0 && (
+                <details class="usi">
+                  <summary class="tiny">Affermazioni confrontate con questo dato: {usi[m.id].length}</summary>
+                  <ul>
+                    {usi[m.id].map((x) => (
+                      <li class="small">
+                        <span class="tiny mono muted">{dataIt(x.data)}</span> <a href={u(`/politici/${x.slug}/#notizie`)}>{x.nome}</a>: «{x.frase}» — <strong>{ESITO[x.esito] ?? x.esito}</strong>
+                        {" "}<a class="tiny" href={x.url} target="_blank" rel="noopener">fonte</a>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              )}
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+
+  <section class="section">
+    <p class="small muted prose">
+      Come leggiamo i dati: per ogni indicatore prendiamo l'ultimo valore disponibile prima dell'inizio del governo e l'ultimo pubblicato. I dati annuali (spesa pubblica,
+      nascite, povertà, deficit, pressione fiscale) arrivano con uno o due anni di ritardo. Regole e limiti nella <a href={u("/faq/#numeri")}>FAQ</a>; codice e configurazione sono pubblici.
+    </p>
+  </section>
+</Base>
+
+<style>
+  .salti { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+  .salti a { text-decoration: none; }
+  .numeri { grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); align-items: start; }
+  .scheda { display: grid; gap: 10px; padding: 18px; border-top: 3px solid var(--accent); min-width: 0; }
+  .testa { justify-content: space-between; gap: 8px; align-items: start; flex-wrap: nowrap; }
+  .testa h3 { margin: 0; font-size: 1.02rem; line-height: 1.3; text-wrap: balance; }
+  .testa .pill { flex: none; font-family: var(--f-mono); }
+  .scheda > p { margin: 0; }
+  .valori { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 0; }
+  .valori div { display: grid; gap: 2px; }
+  .valori dt { font-size: 0.72rem; color: var(--ink-2); }
+  .valori dd { margin: 0; font: 600 1.05rem var(--f-mono); }
+  .valori .ultimo dd { font-size: 1.3rem; color: var(--accent-ink); }
+  svg { width: 100%; height: auto; max-height: 110px; }
+  .area { fill: color-mix(in srgb, var(--accent) 12%, transparent); }
+  .linea { fill: none; stroke: var(--accent); stroke-width: 2; }
+  .minc { stroke: var(--plum); stroke-width: 1.5; stroke-dasharray: 4 3; }
+  .oggi { fill: var(--accent); stroke: var(--surface); stroke-width: 2; }
+  .leg { display: inline-block; width: 14px; height: 0; border-top: 2px dashed var(--plum); vertical-align: middle; margin-right: 2px; }
+  .usi summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  .usi ul { margin: 8px 0 0; padding-left: 16px; display: grid; gap: 6px; }
+</style>

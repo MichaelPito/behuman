@@ -120,10 +120,18 @@ regole uguali per tutti:
 - **Richiesta**: la frase contiene la parola del tema e, prima di essa, un verbo di direzione
   (ridurre, abolire, fermare…). Nei discorsi il verbo deve avere forma di richiesta (infinito, prima
   persona, oppure accanto a «chiediamo», «bisogna»…); descrizioni e negazioni non contano.
-- **Indicatori ufficiali**: accise (MASE), pressione fiscale (Eurostat), sbarchi su 12 mesi (UNHCR / Ministero
-  dell'Interno). Temi senza indicatore numerico: si mostrano solo le leggi del Governo sul tema.
+- **Rigore alto** (temi di cui si parla molto anche per criticare gli avversari: lavoro, prezzi, bollette,
+  conti pubblici, sanità, scuola, difesa, natalità, povertà): nei discorsi conta solo una richiesta
+  esplicita di chi parla («chiediamo», «vogliamo», «dobbiamo», «bisogna»…); domande e frasi che
+  riportano parole di altri non contano.
+- **Indicatori ufficiali** (pagina «I numeri»): accise e prezzo alla pompa (MASE); disoccupazione,
+  occupati, inflazione, luce e gas per le famiglie, debito, deficit, spread, PIL, pressione fiscale,
+  spesa pubblica per sanità, istruzione e difesa, nascite, rischio di povertà (Eurostat su dati ISTAT);
+  sbarchi su 12 mesi (UNHCR / Ministero dell'Interno). Per i tassi in % la variazione si legge in punti.
+  Temi senza indicatore numerico: si mostrano solo le leggi del Governo sul tema.
 - **Esito meccanico** sul valore all'inizio dell'incarico e sull'ultimo dato: nella direzione chiesta,
-  quasi invariato (±1%), nella direzione opposta, obiettivo raggiunto (abolizione a zero). Mostriamo
+  quasi invariato (±1%), nella direzione opposta, obiettivo raggiunto (abolizione a zero); «misto» se
+  gli indicatori di un tema vanno in direzioni diverse. Mostriamo
   anche il valore di un anno prima, per le misure temporanee in corso all'insediamento.
 - Non diciamo se una promessa è «mantenuta»: un indicatore dipende anche da fattori esterni.
 

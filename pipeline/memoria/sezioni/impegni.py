@@ -46,9 +46,24 @@ SEGNALI = re.compile(
 )
 
 
+# temi con «rigore: alto»: nei discorsi conta solo una richiesta esplicita di chi parla
+PRIMA_PERSONA = re.compile(
+    r"\b(chiediamo|chiedo|proponiamo|propongo|vogliamo|voglio|dobbiamo|ci impegniamo|mi impegno|pretendiamo|intendiamo|"
+    r"bisogna|occorre|è necessario|è urgente|è ora di|noi siamo per)\b[^.;:?!]{0,80}$",
+    re.I,
+)
+# frasi che riportano parole o intenzioni di altri («nelle parole di Di Maio», «se vuole abolire»)
+ATTRIBUITA = re.compile(
+    r"\b(nelle parole d\w*|secondo (lui|lei|il ministro|il governo|voi)|ha detto|ha dichiarato|dice che|diceva|come dice|"
+    r"se vuole|se volete|se pensate|vi direi|avete detto|ci avete detto|avete promesso|ha promesso|hanno promesso)\b",
+    re.I,
+)
+
+
 class Tema:
     def __init__(self, d: dict):
         self.id = d["id"]
+        self.rigore = d.get("rigore", "normale")
         self.nome = d["nome"]
         self.parole = re.compile(d["parole"], re.I)
         self.direzioni = {k: re.compile(v, re.I) for k, v in (d.get("direzioni") or {}).items()}
@@ -67,6 +82,9 @@ class Tema:
         temi = [m.start() for m in self.parole.finditer(frase)]
         if not temi:
             return None
+        severo = self.rigore == "alto" and not programma
+        if severo and (frase.rstrip().endswith("?") or ATTRIBUITA.search(frase)):
+            return None
         segnale = bool(SEGNALI.search(frase))
         for nome in ORDINE:
             rx = self.direzioni.get(nome)
@@ -82,6 +100,8 @@ class Tema:
                 if NEGAZIONE.search(frase[: m.start()]) or DESCRITTIVO.search(frase[: m.start()]):
                     continue
                 if not programma and not (FORMA_RICHIESTA.fullmatch(m.group(0).lower()) or segnale):
+                    continue
+                if severo and not PRIMA_PERSONA.search(frase[: m.start()]):
                     continue
                 return nome, m.group(0)
         return None
@@ -218,6 +238,9 @@ def _unisci_frasi(nuove: dict[str, list[dict]], vecchie: dict[str, list[dict]]) 
 
 # ------------------------------------------------------------------ misura
 
+CAMPI_PRESENTAZIONE = ("decimali", "suffisso", "punti", "somma_12_mesi", "meglio", "gruppo", "descrizione")
+
+
 def misura(ind: dict, dal: str, prima: str | None) -> dict | None:
     s = ind["serie"]
     if not s:
@@ -232,7 +255,10 @@ def misura(ind: dict, dal: str, prima: str | None) -> dict | None:
         return None
 
     def var(a, b):
-        return round(100 * (b - a) / a, 1) if a else None
+        return round(100 * (b - a) / abs(a), 1) if a else None
+
+    def diff(a, b):
+        return round(b - a, ind.get("decimali", 1) + 1)
 
     # serie compatta per il grafico: un punto al mese (o all'anno) dal 2018
     punti, visti = [], set()
@@ -247,7 +273,7 @@ def misura(ind: dict, dal: str, prima: str | None) -> dict | None:
         punti.append((d, v))
     return {
         "id": ind["id"], "nome": ind["nome"], "unita": ind["unita"], "fonte": ind["fonte"], "fonte_url": ind["fonte_url"],
-        "frequenza": ind["frequenza"],
+        "frequenza": ind["frequenza"], **{k: ind[k] for k in CAMPI_PRESENTAZIONE if k in ind},
         "alla_prima_richiesta": {"data": ref[0], "valore": ref[1]} if ref else None,
         "all_incarico": {"data": ini[0], "valore": ini[1]},
         # contesto: un anno prima dell'incarico (mostra eventuali misure temporanee in corso all'insediamento)
@@ -255,6 +281,8 @@ def misura(ind: dict, dal: str, prima: str | None) -> dict | None:
         "oggi": {"data": oggi[0], "valore": oggi[1]},
         "variazione_dall_incarico": var(ini[1], oggi[1]),
         "variazione_dalla_prima_richiesta": var(ref[1], oggi[1]) if ref else None,
+        "differenza_dall_incarico": diff(ini[1], oggi[1]),
+        "differenza_dalla_prima_richiesta": diff(ref[1], oggi[1]) if ref else None,
         "serie": punti,
     }
 
@@ -284,14 +312,18 @@ ETICHETTE = {
 }
 
 
-def _fmt(v: float, unita: str) -> str:
-    if unita == "€ al litro":
-        s = f"{v:.3f}".replace(".", ",") + " €/l"
-    elif unita == "persone":
-        s = f"{int(v):,}".replace(",", ".")
-    else:
-        s = f"{v:.1f}".replace(".", ",") + (" %" if "%" in unita else f" {unita}")
-    return s
+def _fmt(v: float, m: dict) -> str:
+    return indmod.formatta(v, m)
+
+
+def variazione_testo(m: dict, chiave: str = "dall_incarico") -> str:
+    """«−1,8 punti» per i tassi in %, «+12,3%» per gli altri valori."""
+    if m.get("punti") and m.get(f"differenza_{chiave}") is not None:
+        d = m[f"differenza_{chiave}"]
+        unita = "punti" if m["unita"].startswith("%") else m.get("suffisso", "").strip()
+        return f"{'+' if d > 0 else ''}{indmod.formatta(d, m | {'suffisso': ''})} {unita}".strip()
+    v = m.get(f"variazione_{chiave}")
+    return "—" if v is None else f"{'+' if v > 0 else ''}{str(v).replace('.', ',')}%"
 
 
 def _data(iso: str) -> str:
@@ -301,13 +333,12 @@ def _data(iso: str) -> str:
 
 
 def _quando(m: dict) -> str:
-    d = m["oggi"]["data"]
+    p = indmod.periodo(m["oggi"]["data"], m)
     if m["frequenza"] == "annuale":
-        return f"nel {d[:4]} (ultimo anno disponibile)"
-    if m["frequenza"] == "mensile":
-        mesi = "gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre".split()
-        return f"nei 12 mesi fino a {mesi[int(d[5:7]) - 1]} {d[:4]}"
-    return f"al {_data(d)}"
+        return f"nel {p} (ultimo anno disponibile)"
+    if m["frequenza"] == "settimanale":
+        return f"al {p}"
+    return f"nei {p}" if m.get("somma_12_mesi") else f"a {p}" if m["frequenza"] == "mensile" else f"nel {p}"
 
 
 def testo_esito(tema: Tema, conta: collections.Counter, dal: str, misure: list[dict], leggi: list[dict]) -> str:
@@ -315,14 +346,12 @@ def testo_esito(tema: Tema, conta: collections.Counter, dal: str, misure: list[d
     dettaglio = ", ".join(f"{conta[k]} di {VERBI[k]}" for k in ORDINE if conta.get(k))
     parti = [f"Prima dell'incarico: {n} {'frase' if n == 1 else 'frasi'} sul tema «{tema.nome.lower()}» con una richiesta ({dettaglio})."]
     for m in misure:
-        v = m["variazione_dall_incarico"]
-        segno = "+" if v and v > 0 else ""
-        riga = (f"{m['nome']}: {_fmt(m['all_incarico']['valore'], m['unita'])} all'inizio dell'incarico, "
-                f"{_fmt(m['oggi']['valore'], m['unita'])} {_quando(m)} ({segno}{str(v).replace('.', ',')}%)")
+        riga = (f"{m['nome']}: {_fmt(m['all_incarico']['valore'], m)} all'inizio dell'incarico, "
+                f"{_fmt(m['oggi']['valore'], m)} {_quando(m)} ({variazione_testo(m)})")
         p = m.get("alla_prima_richiesta")
         vp = m.get("variazione_dalla_prima_richiesta")
         if p and vp is not None and p["data"] < str(int(dal[:4]) - 1) + dal[4:]:
-            riga += f"; rispetto alla prima richiesta ({_data(p['data'])}: {_fmt(p['valore'], m['unita'])}) {'+' if vp > 0 else ''}{str(vp).replace('.', ',')}%"
+            riga += f"; rispetto alla prima richiesta ({_data(p['data'])}: {_fmt(p['valore'], m)}) {variazione_testo(m, 'dalla_prima_richiesta')}"
         parti.append(riga + ".")
     parti.append(f"Leggi del Governo con il tema nel titolo da allora: {len(leggi)}." if leggi else "Nessuna legge del Governo con il tema nel titolo da allora.")
     return " ".join(parti)
@@ -338,8 +367,9 @@ def costruisci(ctx, politici: list[dict]) -> dict:
     indicatori, errori = ({}, []) if ctx.offline else indmod.tutti()
     for e in errori:
         ctx.errore("impegni", e["fonte"], Exception(e["errore"]))
-    if not indicatori and prec:
-        indicatori = {i["id"]: i for i in prec.get("indicatori", [])}
+    for i in prec.get("indicatori", []):  # un indicatore che oggi non si scarica resta quello del giorno prima
+        if i["id"] not in indicatori and i.get("serie_completa"):
+            indicatori[i["id"]] = {k: v for k, v in i.items() if k not in ("serie", "serie_completa")} | {"serie": [tuple(x) for x in i["serie_completa"]]}
 
     persone = {cfg_pol[p["slug"]].camera: p["slug"] for p in politici if cfg_pol.get(p["slug"]) and cfg_pol[p["slug"]].camera}
     # le frasi estratte dai resoconti restano salvate: il job quotidiano non ha tutte le sedute in cache
@@ -414,10 +444,29 @@ def costruisci(ctx, politici: list[dict]) -> dict:
     archivio["camera"] = camera
     archivio_p.write_text(json.dumps(archivio, ensure_ascii=False, indent=0, sort_keys=True) + "\n", encoding="utf-8")
 
+    # i numeri del Paese dall'inizio del governo in carica (pagina «I numeri»)
+    governo_attuale = next((g for g in ctx.cfg.governi if not g.get("fine")), None)
+    inizio_gov = str(governo_attuale["inizio"]) if governo_attuale else ctx.dal
+    temi_di = collections.defaultdict(list)
+    for t in temi:
+        for i in t.indicatori:
+            temi_di[i].append(t.nome)
+    schede = []
+    for i in indicatori.values():
+        m = misura(i, inizio_gov, None)
+        if not m:
+            continue
+        m.pop("alla_prima_richiesta", None)
+        m.pop("variazione_dalla_prima_richiesta", None)
+        m.pop("differenza_dalla_prima_richiesta", None)
+        m["temi"] = temi_di.get(i["id"], [])
+        m["serie_completa"] = [list(x) for x in i["serie"] if x[0] >= "2015-01-01"]
+        schede.append(m)
     dati = {
         "temi": [{"id": t.id, "nome": t.nome, "indicatori": t.indicatori} for t in temi],
-        "indicatori": [{k: v for k, v in i.items() if k != "serie"} | {"serie": i["serie"][-60:]} for i in indicatori.values()],
-        "politici": risultati,
+        "governo": {"nome": governo_attuale.get("nome") if governo_attuale else None, "inizio": inizio_gov},
+        "indicatori": sorted(schede, key=lambda m: m["id"]),
+        "politici": dict(sorted(risultati.items())),
         "programmi": {k: v for k, v in programmi.items()},
         "regole": {"soglia_invariato_percento": SOGLIA_INVARIATO, "configurazione": "config/impegni.yaml"},
     }
