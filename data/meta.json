@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-23T13:44:02+00:00",
+ "aggiornato_il": "2026-10-23T14:38:57+00:00",
  "finestra": {
   "dal": "2021-10-23",
   "al": "2026-10-23",
@@ -73,9 +73,21 @@
    "licenza": "Documenti pubblici; si linka l'originale"
   },
   {
+   "nome": "Google News",
+   "url": "https://news.google.com/",
+   "uso": "Titoli delle notizie sui politici monitorati, per l'osservatorio quotidiano (solo titolo, testata, data e link)",
+   "licenza": "Si linka l'articolo originale"
+  },
+  {
+   "nome": "Facta e Open Fact-checking",
+   "url": "https://www.facta.news/",
+   "uso": "Verifiche di contenuti virali sui social che riguardano i politici monitorati (giudizio attribuito a loro)",
+   "licenza": "Si linka la verifica originale"
+  },
+  {
    "nome": "Pagella Politica",
    "url": "https://pagellapolitica.it/",
-   "uso": "Quali dichiarazioni sono state scelte per una verifica («le più discusse»); solo frase, data e link, senza il loro giudizio",
+   "uso": "Quali dichiarazioni sono state scelte per una verifica («le più discusse»); frase, data, link e loro giudizio, attribuito a loro",
    "licenza": "Contenuti © Pagella Politica, non ne riproduciamo i testi"
   },
   {
@@ -98,20 +110,21 @@
   }
  ],
  "fonti_ok": {
-  "wikidata": "2026-10-23T13:40:30+00:00",
-  "camera": "2026-10-23T13:40:34+00:00",
-  "senato": "2026-10-23T13:40:34+00:00",
-  "commons": "2026-10-23T13:40:30+00:00",
-  "ches": "2026-10-23T13:40:31+00:00",
-  "programmi": "2026-10-23T13:40:32+00:00",
-  "camera_stenografici": "2026-10-23T13:42:16+00:00",
-  "pagella_politica": "2026-10-23T13:42:16+00:00",
-  "governo_interventi": "2026-10-23T13:42:16+00:00",
-  "senato_leggi": "2026-10-23T13:42:16+00:00",
-  "governo_cdm": "2026-10-23T13:42:18+00:00",
-  "corte_costituzionale": "2026-10-23T13:42:19+00:00",
-  "raccolte_firme": "2026-10-23T13:42:30+00:00",
-  "feed:governo": "2026-10-23T13:44:02+00:00"
+  "wikidata": "2026-10-23T14:33:21+00:00",
+  "camera": "2026-10-23T14:33:25+00:00",
+  "senato": "2026-10-23T14:33:24+00:00",
+  "commons": "2026-10-23T14:33:21+00:00",
+  "ches": "2026-10-23T14:33:21+00:00",
+  "programmi": "2026-10-23T14:33:22+00:00",
+  "camera_stenografici": "2026-10-23T14:35:08+00:00",
+  "pagella_politica": "2026-10-23T14:35:08+00:00",
+  "governo_interventi": "2026-10-23T14:35:08+00:00",
+  "senato_leggi": "2026-10-23T14:35:08+00:00",
+  "governo_cdm": "2026-10-23T14:35:10+00:00",
+  "corte_costituzionale": "2026-10-23T14:35:10+00:00",
+  "raccolte_firme": "2026-10-23T14:35:20+00:00",
+  "google_news": "2026-10-23T14:38:53+00:00",
+  "feed:governo": "2026-10-23T14:38:57+00:00"
  },
  "errori": [],
  "offline": false
