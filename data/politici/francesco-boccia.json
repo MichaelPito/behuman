@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-23",
-  "al": "2026-10-23"
+  "dal": "2021-10-24",
+  "al": "2026-10-24"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -10639,7 +10639,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-23",
+ "aggiornato_il": "2026-10-24",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
