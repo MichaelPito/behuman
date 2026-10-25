@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-24",
-  "al": "2026-10-24"
+  "dal": "2021-10-25",
+  "al": "2026-10-25"
  },
  "anagrafica": {
   "nascita": "1953-08-04",
@@ -12094,7 +12094,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": "Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.",
- "aggiornato_il": "2026-10-24",
+ "aggiornato_il": "2026-10-25",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Antonio_Tajani_2025.jpg/500px-Antonio_Tajani_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Antonio_Tajani_2025.jpg",
