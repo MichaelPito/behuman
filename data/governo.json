@@ -5,11 +5,11 @@
   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202"
  },
  "statistiche": {
-  "leggi": 363,
+  "leggi": 364,
   "del_governo": 272,
   "decreti_convertiti": 123,
   "con_fiducia": 69,
-  "voti_fiducia": 114,
+  "voti_fiducia": 115,
   "con_descrizione_governo": 152,
   "con_pronunce_corte": 49,
   "per_anno": [
@@ -43,10 +43,10 @@
    },
    {
     "anno": "2026",
-    "leggi": 86,
+    "leggi": 87,
     "del_governo": 65,
     "decreti": 23,
-    "con_fiducia": 13
+    "con_fiducia": 14
    }
   ],
   "per_tipo": [
@@ -1063,6 +1063,16 @@
      "contrari": 141,
      "astenuti": 4,
      "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_033_069"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.730",
+     "data": "2023-01-12",
+     "tipo": "finale",
+     "favorevoli": 164,
+     "contrari": 127,
+     "astenuti": 3,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_034_001"
     }
    ],
    "scheda_senato": "https://dati.senato.it/ddl/56355.html",
@@ -1071,7 +1081,8 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 18 novembre 2022 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 18 novembre 2022, è diventata legge il 13 gennaio 2023: 56 giorni e 2 letture tra Camera e Senato.",
-     "Il Governo ha posto la questione di fiducia (2 voti, Camera e Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette."
+     "Il Governo ha posto la questione di fiducia (2 voti, Camera e Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
+     "Ultimo voto finale — Camera: 164 sì, 127 no, 3 astenuti (12 gennaio 2023)."
     ]
    },
    "descrizione_governo": null,
@@ -2398,16 +2409,6 @@
     }
    ],
    "voti": [
-    {
-     "camera": "Camera",
-     "fase": "C.338",
-     "data": "2023-01-12",
-     "tipo": "finale",
-     "favorevoli": 164,
-     "contrari": 127,
-     "astenuti": 3,
-     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_034_001"
-    },
     {
      "camera": "Camera",
      "fase": "C.338",
@@ -5267,16 +5268,6 @@
      "contrari": 0,
      "astenuti": 0,
      "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_162_017"
-    },
-    {
-     "camera": "Camera",
-     "fase": "C.1041",
-     "data": "2025-11-27",
-     "tipo": "finale",
-     "favorevoli": 162,
-     "contrari": 1,
-     "astenuti": 29,
-     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_573_031"
     }
    ],
    "scheda_senato": "https://dati.senato.it/ddl/56866.html",
@@ -5285,7 +5276,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 3 febbraio 2023, è diventata legge il 22 settembre 2023: 231 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Camera: 162 sì, 1 no, 29 astenuti (27 novembre 2025)."
+     "Ultimo voto finale — Camera: 268 sì, 0 no, 0 astenuti (14 settembre 2023). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -25350,6 +25341,16 @@
    ],
    "voti": [
     {
+     "camera": "Camera",
+     "fase": "C.1042",
+     "data": "2025-11-27",
+     "tipo": "finale",
+     "favorevoli": 162,
+     "contrari": 1,
+     "astenuti": 29,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_573_031"
+    },
+    {
      "camera": "Senato",
      "fase": "S.1730",
      "data": "2026-06-09",
@@ -25366,7 +25367,7 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 24 marzo 2023, è diventata legge il 12 giugno 2026: 1176 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Senato: 72 sì, 3 no, 54 astenuti (9 giugno 2026)."
+     "Ultimo voto finale — Camera: 162 sì, 1 no, 29 astenuti (27 novembre 2025); Senato: 72 sì, 3 no, 54 astenuti (9 giugno 2026)."
     ]
    },
    "descrizione_governo": null,
@@ -27337,6 +27338,16 @@
      "camera": "Camera",
      "fase": "C.3083",
      "data": "2026-09-28",
+     "tipo": "fiducia",
+     "favorevoli": 167,
+     "contrari": 93,
+     "astenuti": 1,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_716_056"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.3083",
+     "data": "2026-09-28",
      "tipo": "finale",
      "favorevoli": 133,
      "contrari": 66,
@@ -27360,7 +27371,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 7 agosto 2026 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 7 agosto 2026, è diventata legge il 5 ottobre 2026: 59 giorni e 2 letture tra Camera e Senato.",
-     "Il Governo ha posto la questione di fiducia (1 voto, Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
+     "Il Governo ha posto la questione di fiducia (2 voti, Camera e Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
      "Ultimo voto finale — Camera: 133 sì, 66 no, 1 astenuti (28 settembre 2026)."
     ]
    },
@@ -27487,6 +27498,36 @@
     {
      "camera": "Camera",
      "fase": "C.2822-B",
+     "data": "2026-10-06",
+     "tipo": "fiducia",
+     "favorevoli": 227,
+     "contrari": 149,
+     "astenuti": 3,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_721_002"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2822-B",
+     "data": "2026-10-06",
+     "tipo": "fiducia",
+     "favorevoli": 226,
+     "contrari": 147,
+     "astenuti": 3,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_721_001"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2822-B",
+     "data": "2026-10-07",
+     "tipo": "fiducia",
+     "favorevoli": 228,
+     "contrari": 144,
+     "astenuti": 3,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_722_034"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2822-B",
      "data": "2026-10-08",
      "tipo": "finale",
      "favorevoli": 227,
@@ -27501,7 +27542,67 @@
     "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
     "fatti": [
      "Presentata da parlamentari il 26 febbraio 2026, è diventata legge il 9 ottobre 2026: 225 giorni e 3 letture tra Camera e Senato.",
+     "Il Governo ha posto la questione di fiducia (3 voti, Camera): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
      "Ultimo voto finale — Senato: 113 sì, 71 no, 2 astenuti (15 settembre 2026); Camera: 227 sì, 164 no, 0 astenuti (8 ottobre 2026)."
+    ]
+   },
+   "descrizione_governo": null,
+   "reazioni": {
+    "corte": [],
+    "firme": [],
+    "referendum": []
+   }
+  },
+  {
+   "id": "L-2026-192",
+   "numero": 192,
+   "data": "2026-10-13",
+   "tipo": "legge ordinaria",
+   "titolo": "Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture",
+   "titolo_breve": null,
+   "iniziativa": "Parlamentare",
+   "presentata_da": [],
+   "del_governo": false,
+   "decreto_legge_del": null,
+   "gazzetta": null,
+   "normattiva": null,
+   "iter": [
+    {
+     "fase": "S.983",
+     "ramo": "Senato",
+     "presentato": "2024-01-17",
+     "stato": "approvato",
+     "data_stato": "2025-02-11",
+     "url": "https://dati.senato.it/ddl/58871.html"
+    },
+    {
+     "fase": "C.2239",
+     "ramo": "Camera",
+     "presentato": "2025-02-11",
+     "stato": "appr. definit. Legge",
+     "data_stato": "2026-10-07",
+     "url": "http://www.camera.it/_dati/leg19/lavori/schedela/trovaschedacamera_wai.asp?PDL=2239"
+    }
+   ],
+   "voti": [
+    {
+     "camera": "Senato",
+     "fase": "S.983",
+     "data": "2025-02-11",
+     "tipo": "finale",
+     "favorevoli": 152,
+     "contrari": 0,
+     "astenuti": 0,
+     "fonte": "http://dati.senato.it/votazione/19-271-3"
+    }
+   ],
+   "scheda_senato": "https://dati.senato.it/ddl/58871.html",
+   "in_pratica": {
+    "argomento": "Dichiarazione di monumento nazionale di Palazzo Fortunato in Rionero in Vulture",
+    "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
+    "fatti": [
+     "Presentata da parlamentari il 17 gennaio 2024, è diventata legge il 13 ottobre 2026: 1000 giorni e 2 letture tra Camera e Senato.",
+     "Ultimo voto finale — Senato: 152 sì, 0 no, 0 astenuti (11 febbraio 2025). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-25",
-  "al": "2026-10-25"
+  "dal": "2021-10-26",
+  "al": "2026-10-26"
  },
  "anagrafica": {
   "nascita": "1972-03-21",
@@ -526,8 +526,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 5,
-     "assenti": 320,
-     "totale": 325
+     "assenti": 463,
+     "totale": 468
     }
    ],
    "voti_finali": [
@@ -2552,11 +2552,131 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
+     "id": "vs19_731_004",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-22",
+     "descrizione": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso (PDL 2904)",
+     "atto": "C.2904",
+     "titolo": "GRIBAUDO ed altri: \"Modifica all’articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 52,
+      "Favorevole": 65
+     },
+     "esito": {
+      "favorevoli": 220,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=731_4&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_730_097",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-21",
+     "descrizione": "Disposizioni per la tutela e la valorizzazione delle attività commerciali e artigianali negli ambiti di interesse storico, culturale e paesaggistico dei centri storici (PDL 362)",
+     "atto": "C.362",
+     "titolo": "MOLINARI ed altri: \"Istituzione e disciplina delle zone del commercio nei centri storici",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 48,
+      "Favorevole": 69
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 0,
+      "astenuti": 94
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=730_97&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_730_055",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-21",
+     "descrizione": "Disposizioni in materia di protezione civile (Approvato dal Senato) (DDL 3076)",
+     "atto": "C.3076",
+     "titolo": "S. 1779. - \"Disposizioni in materia di protezione civile\"(approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 50,
+      "Favorevole": 67
+     },
+     "esito": {
+      "favorevoli": 131,
+      "contrari": 0,
+      "astenuti": 95
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=730_55&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_730_005",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-21",
+     "descrizione": "Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023 (Approvato dal Senato) (DDL 2958)",
+     "atto": "C.2958",
+     "titolo": "S. 1880. - \"Ratifica ed esecuzione dei Trattati di estradizione, trasferimento delle persone condannate e assistenza giudiziaria in materia penale tra la Repubblica italiana e la Repubblica Socialista del Vietnam, fatti a Roma il 18 e il 26 luglio 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 67,
+      "Non ha votato": 50
+     },
+     "esito": {
+      "favorevoli": 239,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=730_5&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_729_042",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-20",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale (Approvato dal Senato) (DDL 3131)",
+     "atto": "C.3131",
+     "titolo": "S. 2023. - \"Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 48,
+      "Favorevole": 69
+     },
+     "esito": {
+      "favorevoli": 125,
+      "contrari": 43,
+      "astenuti": 52
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=729_42&tipo=dettaglio"
+    },
+    {
      "id": "vs19_727_034",
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-14",
-     "descrizione": "DDL 2789-A E ABB - VOTO FINALE",
+     "descrizione": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari (DDL 2789 e abbinate PDL 114-159-307-344-443-998-1426-1461-1507-1682-1690-2007)",
      "atto": "C.2789",
      "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
      "fiducia": false,
@@ -2580,9 +2700,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-08",
-     "descrizione": "PDL 2822-B - VOTO FINALE",
-     "atto": "C.2822",
-     "titolo": "BIGNAMI ed altri: \"Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+     "descrizione": "Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica, comprensiva dell'errata corrige (Approvata dalla Camera e modificata dal Senato) (PDL 2822-B)",
+     "atto": "C.2822-B",
+     "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" (approvata dalla Camera e modificata dal Senato)",
      "fiducia": false,
      "approvato": true,
      "voto": "Ha votato",
@@ -2604,9 +2724,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-07",
-     "descrizione": "Pdl C. 2822-B art.3 Votaz. di fiducia",
-     "atto": "C.2822",
-     "titolo": "BIGNAMI ed altri: \"Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica",
+     "descrizione": "Articolo 3 del provvedimento e relativi allegati nel testo della Commissione, identico a quello modificato dal Senato, sul quale il Governo ha posto la questione di fiducia",
+     "atto": "C.2822-B",
+     "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" (approvata dalla Camera e modificata dal Senato)",
      "fiducia": true,
      "approvato": true,
      "voto": "Favorevole",
@@ -2628,9 +2748,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-06",
-     "descrizione": "Pdl art.2 C.2822-B Votaz. questione di fiducia",
-     "atto": "C.2",
-     "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"Misure a sostegno della maternità e della paternità",
+     "descrizione": "Articolo 2 del provvedimento e relativo allegato nel testo della Commissione, identico a quello modificato dal Senato, sul quale il Governo ha posto la questione di fiducia",
+     "atto": "C.2822-B",
+     "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" (approvata dalla Camera e modificata dal Senato)",
      "fiducia": true,
      "approvato": true,
      "voto": "Non ha votato",
@@ -2652,9 +2772,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-06",
-     "descrizione": "Pdl art.1 C.2822-B Votaz. questione di fiducia",
-     "atto": "C.1",
-     "titolo": "PROPOSTA DI LEGGE D'INIZIATIVA POPOLARE: \"Misure a sostegno dei disoccupati e dell'uscita anticipata dal lavoro",
+     "descrizione": "Articolo 1 del provvedimento e relativi allegati nel testo della Commissione, identico a quello modificato dal Senato, comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
+     "atto": "C.2822-B",
+     "titolo": "S. 1971. - BIGNAMI ed altri: \"Disposizioni in materia di elezioni della Camera dei deputati e del Senato della Repubblica\" (approvata dalla Camera e modificata dal Senato)",
      "fiducia": true,
      "approvato": true,
      "voto": "Non ha votato",
@@ -2676,7 +2796,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-10-01",
-     "descrizione": "DDL 3118 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi (Approvato dal Senato) (DDL 3118)",
      "atto": "C.3118",
      "titolo": "S. 2020. - \"Conversione in legge, con modificazioni, del decreto-legge 7 agosto 2026, n. 143, recante disposizioni urgenti in materia di obbligo di compostabilità di determinate tipologie di imballaggi\" (approvato dal Senato)",
      "fiducia": false,
@@ -2700,7 +2820,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-28",
-     "descrizione": "Votazione Fiducia A.C. 3083-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 agosto 2026, n. 144, nel testo delle Commissioni, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.3083",
      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
      "fiducia": true,
@@ -2724,7 +2844,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-28",
-     "descrizione": "DDL 3083-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile (DDL 3083)",
      "atto": "C.3083",
      "titolo": "Conversione in legge del decreto-legge 7 agosto 2026, n. 144, recante disposizioni urgenti per la funzionalità della pubblica amministrazione e degli enti territoriali, nonché in materia di protezione civile",
      "fiducia": false,
@@ -2748,7 +2868,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-23",
-     "descrizione": "PDL 2225-A E ABB - VOTO FINALE",
+     "descrizione": "Istituzione del Museo per la memoria del disastro ferroviario di Viareggio (PDL 2225 e abbinate PDL 1253-2712)",
      "atto": "C.2225",
      "titolo": "DEBORAH BERGAMINI ed altri: \"Istituzione del Museo per la memoria del disastro ferroviario di Viareggio",
      "fiducia": false,
@@ -2772,7 +2892,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-23",
-     "descrizione": "DDL 2628-A E ABB - VOTO FINALE",
+     "descrizione": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile (DDL 2628 e abbinata PDL 233)",
      "atto": "C.2628",
      "titolo": "Delega al Governo per la riforma della disciplina dell’ordinamento della professione di dottore commercialista e di esperto contabile",
      "fiducia": false,
@@ -2796,9 +2916,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-16",
-     "descrizione": "DDL 2713-B - VOTO FINALE",
-     "atto": "C.2713",
-     "titolo": "Proroga del termine per l’esercizio della delega prevista dall’articolo 35 della legge 25 novembre 2024, n. 177",
+     "descrizione": "Proroga del termine per l'esercizio della delega prevista dall'articolo 35 della legge 25 novembre 2024, n. 177 (Approvato dalla Camera e modificato dal Senato) (DDL 2713-B)",
+     "atto": "C.2713-B",
+     "titolo": "S. 1826. - \"Proroga del termine per l’esercizio della delega prevista dall’articolo 35 della legge 25 novembre 2024, n. 177\" (approvato dalla Camera e modificato dal Senato)",
      "fiducia": false,
      "approvato": true,
      "voto": "Non ha votato",
@@ -2820,7 +2940,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-09-16",
-     "descrizione": "DDL 3045-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria (DDL 3045)",
      "atto": "C.3045",
      "titolo": "Conversione in legge del decreto-legge 27 luglio 2026, n. 133, recante disposizioni urgenti in materia di prezzi petroliferi connessi alla ulteriore crisi dei mercati internazionali e disposizioni in materia di ILVA S.p.A. in amministrazione straordinaria",
      "fiducia": false,
@@ -5076,9 +5196,9 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2025-11-27",
-     "descrizione": "Modifica all'articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell'Anagrafe degli italiani residenti all'estero, residenti in Paesi che non appartengono all'Unione europea e non aderiscono all'Associazione europea di libero scambio (PDL 1041 e abbinate PDL 1415-1998)",
-     "atto": "C.1041",
-     "titolo": "S. 541. - \"Ratifica ed esecuzione dell’Atto di Ginevra dell’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali, fatto a Ginevra il 2 luglio 1999\" (approvato dal Senato)",
+     "descrizione": "Modifica all'articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell'Anagrafe degli italiani residenti all'estero, residenti in Paesi che non appartengono all'Unione europea e non aderiscono all'Associazione europea di libero scambio (PDL 1042 e abbinate PDL 1415-1998)",
+     "atto": "C.1042",
+     "titolo": "DI GIUSEPPE ed altri: \"Modifica all’articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell’Anagrafe degli italiani residenti all’estero",
      "fiducia": false,
      "approvato": true,
      "voto": "Non ha votato",
@@ -13870,8 +13990,8 @@
      "legislatura": 19,
      "data": "2023-01-12",
      "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 18 novembre 2022, n. 176, recante misure urgenti di sostegno nel settore energetico e di finanza pubblica (Approvato dal Senato) (DDL 730)",
-     "atto": "C.338",
-     "titolo": "MELONI e MORRONE: \"Disposizioni in materia di equo compenso delle prestazioni professionali",
+     "atto": "C.730",
+     "titolo": "S. 345. - \"Conversione in legge, con modificazioni, del decreto-legge 18 novembre 2022, n. 176, recante misure urgenti di sostegno nel settore energetico e di finanza pubblica\" (approvato dal Senato)",
      "fiducia": false,
      "approvato": true,
      "voto": "Non ha votato",
@@ -14106,8 +14226,8 @@
   "Camera": {
    "presenza": {
     "presenti": 473,
-    "totale": 21956,
-    "percentuale": 2.2
+    "totale": 22099,
+    "percentuale": 2.1
    },
    "fedelta_gruppo": {
     "allineati": 48,
@@ -14115,7 +14235,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 564
+   "voti_finali_e_fiducia": 569
   }
  },
  "posizioni": [],
@@ -14140,7 +14260,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-25",
+ "aggiornato_il": "2026-10-26",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_(01)_(cropped).jpg",
@@ -14157,7 +14277,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'agricoltura, della sovranità alimentare e delle foreste (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 2,2% delle votazioni del periodo (473 su 21.956); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (473 su 22.099); la mediana dei colleghi è 72,5%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 48 volte su 48 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

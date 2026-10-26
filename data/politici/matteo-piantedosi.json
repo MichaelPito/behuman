@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-25",
-  "al": "2026-10-25"
+  "dal": "2021-10-26",
+  "al": "2026-10-26"
  },
  "anagrafica": {
   "nascita": "1963-04-20",
@@ -67,7 +67,7 @@
   "nota": "Indipendente: nessun partito di riferimento"
  },
  "note": null,
- "aggiornato_il": "2026-10-25",
+ "aggiornato_il": "2026-10-26",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matteo_Piantedosi.png/500px-Matteo_Piantedosi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Piantedosi.png",

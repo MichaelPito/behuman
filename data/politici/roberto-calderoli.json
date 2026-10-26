@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-25",
-  "al": "2026-10-25"
+  "dal": "2021-10-26",
+  "al": "2026-10-26"
  },
  "anagrafica": {
   "nascita": "1956-04-18",
@@ -9492,7 +9492,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-25",
+ "aggiornato_il": "2026-10-26",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:RobertoCalderoli.jpg",
