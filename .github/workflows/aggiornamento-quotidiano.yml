@@ -3,8 +3,11 @@
 name: Aggiornamento quotidiano
 
 on:
+  # GitHub avvia le esecuzioni programmate anche con ore di ritardo: due orari di partenza,
+  # il primo che arriva aggiorna, il secondo vede che i dati di oggi ci sono già e si ferma.
   schedule:
-    - cron: "17 4 * * *"   # 06:17 ora italiana (estate), 05:17 (inverno)
+    - cron: "7 0 * * *"    # 01:07 ora italiana (inverno), 02:07 (estate)
+    - cron: "37 2 * * *"   # riserva: 03:37 ora italiana (inverno), 04:37 (estate)
   workflow_dispatch:
 
 permissions:
@@ -17,7 +20,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  controllo:
+    runs-on: ubuntu-latest
+    outputs:
+      fatto: ${{ steps.oggi.outputs.fatto }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: oggi
+        name: Dati di oggi già salvati?
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && git log -1 --format=%s | grep -qx "dati: aggiornamento del $(date -u +%F)"; then
+            echo "Aggiornamento di oggi già fatto: mi fermo."
+            echo "fatto=true" >> "$GITHUB_OUTPUT"
+          fi
+
   dati:
+    needs: controllo
+    if: needs.controllo.outputs.fatto != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:

@@ -12,7 +12,7 @@
 ## Flusso quotidiano
 
 ```
-06:17 (cron)  ┌──────────────────────────── GitHub Actions ─────────────────────────────┐
+01:07 (cron)  ┌──────────────────────────── GitHub Actions ─────────────────────────────┐
               │ 1. test pipeline                                                        │
               │ 2. python -m memoria.build                                              │
               │      Wikidata ─┐                                                        │
