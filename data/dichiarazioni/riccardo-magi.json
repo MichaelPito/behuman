@@ -7,21 +7,21 @@
   "sigla": "+E"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-26",
- "al": "2026-10-26",
+ "dal": "2021-10-27",
+ "al": "2026-10-27",
  "riepilogo": {
-  "totale": 322,
-  "camera": 320,
-  "parole_camera": 133913,
+  "totale": 320,
+  "camera": 318,
+  "parole_camera": 132326,
   "governo": 0,
   "senato": 0,
   "verificate": 2,
-  "prima": "2021-10-26",
+  "prima": "2021-11-10",
   "ultima": "2026-10-21",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 6,
+    "camera": 4,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -80,12 +80,12 @@
     "n": 22
    },
    {
-    "categoria": "Interpellanze e interrogazioni",
-    "n": 11
-   },
-   {
     "categoria": "Altri argomenti",
     "n": 10
+   },
+   {
+    "categoria": "Interpellanze e interrogazioni",
+    "n": 9
    },
    {
     "categoria": "Mozioni",
@@ -147,7 +147,7 @@
   "temi": [
    {
     "tema": "Giustizia",
-    "n": 54
+    "n": 53
    },
    {
     "tema": "Unione europea",
@@ -155,7 +155,7 @@
    },
    {
     "tema": "Sicurezza e criminalità",
-    "n": 37
+    "n": 36
    },
    {
     "tema": "Immigrazione",
@@ -163,7 +163,7 @@
    },
    {
     "tema": "Esteri e difesa",
-    "n": 26
+    "n": 25
    },
    {
     "tema": "Famiglia e natalità",
@@ -205,15 +205,7 @@
   "temi_per_anno": {
    "2021": [
     {
-     "tema": "Esteri e difesa",
-     "n": 1
-    },
-    {
-     "tema": "Giustizia",
-     "n": 1
-    },
-    {
-     "tema": "Sicurezza e criminalità",
+     "tema": "Sanità",
      "n": 1
     }
    ],
@@ -289,7 +281,7 @@
    ]
   }
  },
- "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 320 interventi nell'Aula della Camera (133.913 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (54), unione europea (45), sicurezza e criminalità (37). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+ "recap": "Dal 10 novembre 2021 al 21 ottobre 2026: 318 interventi nell'Aula della Camera (132.326 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (45), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -324,38 +316,6 @@
   }
  ],
  "camera": [
-  {
-   "data": "2021-10-26",
-   "leg": 18,
-   "seduta": 582,
-   "argomento": "Svolgimento di una interpellanza e una interrogazione.",
-   "fase": "Intendimenti in merito alla convocazione della Conferenza nazionale sui problemi connessi alla diffusione delle sostanze stupefacenti e psicotrope - n. 2-01155",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": null,
-   "gruppo": "MISTO-A-+E-RI",
-   "sunto": "La seconda domanda era sulla convocazione, necessaria in base alla legge, della Conferenza nazionale sulle droghe. […] In particolare, a parere di chi parla, sarebbe necessario che questo appuntamento istituzionale avesse come pilastro centrale, come cornice di tutti gli altri approfondimenti tematici prima di tutto un'analisi dell'impatto delle politiche sulle droghe su questo grande fenomeno sociale che…",
-   "temi": [],
-   "parole": 313,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0582&tipo=stenografico#sed0582.stenografico.tit00020.sub00010.int00020"
-  },
-  {
-   "data": "2021-10-26",
-   "leg": 18,
-   "seduta": 582,
-   "argomento": "Svolgimento di una interpellanza e una interrogazione.",
-   "fase": "Intendimenti in merito alla convocazione della Conferenza nazionale sui problemi connessi alla diffusione delle sostanze stupefacenti e psicotrope - n. 2-01155",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": null,
-   "gruppo": "MISTO-A-+E-RI",
-   "sunto": "Posta in questi termini, la questione della cannabis, che è la principale sostanza stupefacente psicoattiva, diciamo così, utilizzata nel nostro Paese, e non solo nel nostro Paese, copre circa un 40 per cento del mercato illegale di sostanze stupefacenti, viene trattata all'interno dei panel di…",
-   "temi": [
-    "Esteri e difesa",
-    "Giustizia",
-    "Sicurezza e criminalità"
-   ],
-   "parole": 1274,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0582&tipo=stenografico#sed0582.stenografico.tit00020.sub00010.int00060"
-  },
   {
    "data": "2021-11-10",
    "leg": 18,

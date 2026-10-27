@@ -7,21 +7,21 @@
   "sigla": "NM"
  },
  "schieramento": "governo",
- "dal": "2021-10-26",
- "al": "2026-10-26",
+ "dal": "2021-10-27",
+ "al": "2026-10-27",
  "riepilogo": {
-  "totale": 168,
-  "camera": 168,
-  "parole_camera": 135112,
+  "totale": 167,
+  "camera": 167,
+  "parole_camera": 134691,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
-  "prima": "2021-10-26",
+  "prima": "2021-10-29",
   "ultima": "2026-10-21",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 10,
+    "camera": 9,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -72,11 +72,11 @@
     "n": 48
    },
    {
-    "categoria": "Altri argomenti",
-    "n": 22
+    "categoria": "Informative e comunicazioni del Governo",
+    "n": 21
    },
    {
-    "categoria": "Informative e comunicazioni del Governo",
+    "categoria": "Altri argomenti",
     "n": 21
    },
    {
@@ -160,7 +160,7 @@
    },
    {
     "tema": "Immigrazione",
-    "n": 11
+    "n": 10
    },
    {
     "tema": "Fisco e tasse",
@@ -262,7 +262,7 @@
    ]
   }
  },
- "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 168 interventi nell'Aula della Camera (135.112 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
+ "recap": "Dal 29 ottobre 2021 al 21 ottobre 2026: 167 interventi nell'Aula della Camera (134.691 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -278,22 +278,6 @@
  },
  "verificate": [],
  "camera": [
-  {
-   "data": "2021-10-26",
-   "leg": 18,
-   "seduta": 582,
-   "argomento": "Commemorazione di Raffaele Tiscar.",
-   "fase": null,
-   "categoria": "Altri argomenti",
-   "ruolo": null,
-   "gruppo": "M-NCI-USEI-R-AC",
-   "sunto": "Lele Tiscar era un amico mio, sin dagli anni dell'università, lui a Firenze e io a Milano, accomunati da quella grande storia che è il movimento nato dal carisma di Luigi Giussani, Comunione e liberazione.",
-   "temi": [
-    "Immigrazione"
-   ],
-   "parole": 421,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0582&tipo=stenografico#sed0582.stenografico.tit00050.int00190"
-  },
   {
    "data": "2021-10-29",
    "leg": 18,

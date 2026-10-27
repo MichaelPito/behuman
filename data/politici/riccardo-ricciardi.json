@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -42,9 +42,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 13,
-     "assenti": 22,
-     "totale": 35
+     "presenti": 8,
+     "assenti": 12,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2513,30 +2513,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 95,
-      "Non ha votato": 63
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14210,8 +14186,8 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8327,
-    "totale": 22099,
+    "presenti": 8322,
+    "totale": 22084,
     "percentuale": 37.7
    },
    "fedelta_gruppo": {
@@ -14220,7 +14196,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [
@@ -14329,7 +14305,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14345,7 +14321,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,7% delle votazioni del periodo (8.327 su 22.099); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 37,7% delle votazioni del periodo (8.322 su 22.084); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 207 volte su 207 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."

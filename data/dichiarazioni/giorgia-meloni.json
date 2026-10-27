@@ -7,17 +7,17 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-10-26",
- "al": "2026-10-26",
+ "dal": "2021-10-27",
+ "al": "2026-10-27",
  "riepilogo": {
-  "totale": 702,
+  "totale": 703,
   "camera": 109,
   "parole_camera": 184826,
-  "governo": 507,
+  "governo": 508,
   "senato": 0,
   "verificate": 86,
   "prima": "2021-11-02",
-  "ultima": "2026-10-23",
+  "ultima": "2026-10-26",
   "per_anno": [
    {
     "anno": "2021",
@@ -57,7 +57,7 @@
    {
     "anno": "2026",
     "camera": 9,
-    "governo": 125,
+    "governo": 126,
     "senato": 0,
     "verificate": 25
    }
@@ -155,7 +155,7 @@
   "temi": [
    {
     "tema": "Unione europea",
-    "n": 338
+    "n": 339
    },
    {
     "tema": "Esteri e difesa",
@@ -163,7 +163,7 @@
    },
    {
     "tema": "Energia e carburanti",
-    "n": 212
+    "n": 213
    },
    {
     "tema": "Economia e conti pubblici",
@@ -187,7 +187,7 @@
    },
    {
     "tema": "Ambiente e clima",
-    "n": 96
+    "n": 97
    },
    {
     "tema": "Scuola e università",
@@ -270,11 +270,11 @@
    "2026": [
     {
      "tema": "Unione europea",
-     "n": 63
+     "n": 64
     },
     {
      "tema": "Energia e carburanti",
-     "n": 58
+     "n": 59
     },
     {
      "tema": "Esteri e difesa",
@@ -283,7 +283,7 @@
    ]
   }
  },
- "recap": "Dal 2 novembre 2021 al 23 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 507 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (338), esteri e difesa (283), energia e carburanti (212). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 2 novembre 2021 al 26 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 508 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (339), esteri e difesa (283), energia e carburanti (213). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -9640,6 +9640,19 @@
    ],
    "parole": 2233,
    "url": "https://www.governo.it/it/articolo/ecad-lintervento-del-presidente-meloni-san-patrignano/32920",
+   "fonte": "governo.it"
+  },
+  {
+   "data": "2026-10-26",
+   "titolo": "Assemblea Pubblica 2026 di Federchimica, il messaggio del Presidente Meloni",
+   "sunto": "È all’origine di materiali, tecnologie e soluzioni che permettono alle altre imprese di migliorare i propri prodotti, aprire nuovi mercati e rispondere a bisogni nuovi. […] Penso alla moda e alla cosmetica, all’arredamento e al design, alle costruzioni, alla meccanica e all’automotive, all’elettronica e all’energia.",
+   "temi": [
+    "Energia e carburanti",
+    "Unione europea",
+    "Ambiente e clima"
+   ],
+   "parole": 519,
+   "url": "https://www.governo.it/it/articolo/messaggio-del-presidente-meloni-occasione-della-assemblea-pubblica-2026-di-federchimica",
    "fonte": "governo.it"
   }
  ],

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1956-04-18",
@@ -53,9 +53,9 @@
      "camera": "Senato",
      "legislatura": 18,
      "presenti": 0,
-     "assenti": 125,
+     "assenti": 72,
      "missione": 0,
-     "totale": 125
+     "totale": 72
     },
     {
      "mese": "2021-11",
@@ -9417,8 +9417,8 @@
   "Senato": {
    "presenza": {
     "presenti": 3016,
-    "totale": 9079,
-    "percentuale": 33.2
+    "totale": 9026,
+    "percentuale": 33.4
    },
    "fedelta_gruppo": {
     "allineati": 112,
@@ -9492,7 +9492,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:RobertoCalderoli.jpg",
@@ -9509,7 +9509,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro per gli affari regionali e le autonomie (dal 23 ottobre 2022).",
-  "Al Senato ha partecipato al 33,2% delle votazioni del periodo (3.016 su 9.079); 5.886 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 33,4% delle votazioni del periodo (3.016 su 9.026); 5.886 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 112 volte su 112 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

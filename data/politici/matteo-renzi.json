@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1975-01-11",
@@ -44,8 +44,8 @@
      "legislatura": 18,
      "presenti": 47,
      "assenti": 22,
-     "missione": 56,
-     "totale": 125
+     "missione": 3,
+     "totale": 72
     },
     {
      "mese": "2021-11",
@@ -9126,8 +9126,8 @@
   "Senato": {
    "presenza": {
     "presenti": 3877,
-    "totale": 9078,
-    "percentuale": 42.7
+    "totale": 9025,
+    "percentuale": 43.0
    },
    "fedelta_gruppo": {
     "allineati": 41,
@@ -9171,7 +9171,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",
@@ -9188,7 +9188,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Al Senato ha partecipato al 42,7% delle votazioni del periodo (3.877 su 9.078); 1.525 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 43,0% delle votazioni del periodo (3.877 su 9.025); 1.472 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 41 volte su 41 (100,0%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."

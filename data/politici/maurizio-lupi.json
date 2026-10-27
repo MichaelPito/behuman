@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -55,8 +55,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 0,
-     "assenti": 35,
-     "totale": 35
+     "assenti": 20,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2501,30 +2501,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-NCI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 1,
-      "Non ha votato": 4
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14188,7 +14164,7 @@
   "Camera": {
    "presenza": {
     "presenti": 3703,
-    "totale": 22099,
+    "totale": 22084,
     "percentuale": 16.8
    },
    "fedelta_gruppo": {
@@ -14197,7 +14173,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [
@@ -14286,7 +14262,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
@@ -14303,7 +14279,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,8% delle votazioni del periodo (3.703 su 22.099); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 16,8% delle votazioni del periodo (3.703 su 22.084); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

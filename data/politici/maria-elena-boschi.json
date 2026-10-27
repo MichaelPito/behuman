@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -58,8 +58,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 1,
-     "assenti": 34,
-     "totale": 35
+     "assenti": 19,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2523,30 +2523,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "IV",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 12,
-      "Non ha votato": 15
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14225,7 +14201,7 @@
   "Camera": {
    "presenza": {
     "presenti": 7864,
-    "totale": 22098,
+    "totale": 22083,
     "percentuale": 35.6
    },
    "fedelta_gruppo": {
@@ -14236,7 +14212,7 @@
      "vs19_197_061"
     ]
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [
@@ -14338,7 +14314,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
@@ -14354,7 +14330,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 35,6% delle votazioni del periodo (7.864 su 22.098); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 35,6% delle votazioni del periodo (7.864 su 22.083); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 160 volte su 161 (99,4%).",
   "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

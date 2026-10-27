@@ -11,14 +11,14 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1977-01-15",
   "morte": null,
   "sesso": "F",
-  "descrizione": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana (1977-)",
+  "descrizione": "politica italiana (1977-), Presidente del Consiglio dei ministri della Repubblica Italiana (2022-)",
   "sito": "https://www.giorgiameloni.it/",
   "foto": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "foto_fonte": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
@@ -62,8 +62,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 1,
-     "assenti": 34,
-     "totale": 35
+     "assenti": 19,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2526,30 +2526,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Non ha votato": 9,
-      "Astensione": 28
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14226,7 +14202,7 @@
   "Camera": {
    "presenza": {
     "presenti": 449,
-    "totale": 22099,
+    "totale": 22084,
     "percentuale": 2.0
    },
    "fedelta_gruppo": {
@@ -14235,7 +14211,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [],
@@ -14260,7 +14236,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
@@ -14270,7 +14246,7 @@
  "_anagrafica_wd": {
   "wikidata": "Q451791",
   "nome": "Giorgia Meloni",
-  "descr": "politica italiana, Presidente del Consiglio dei ministri della Repubblica Italiana (1977-)",
+  "descr": "politica italiana (1977-), Presidente del Consiglio dei ministri della Repubblica Italiana (2022-)",
   "foto": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgia%20Meloni%20Official%202024%20%28cropped%29.jpg",
   "sito": "https://www.giorgiameloni.it/",
   "nascita": "1977-01-15",
@@ -14278,7 +14254,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di presidente del consiglio dei ministri (dal 21 ottobre 2022).",
-  "Alla Camera ha partecipato al 2,0% delle votazioni del periodo (449 su 22.099); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 2,0% delle votazioni del periodo (449 su 22.084); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 6 volte su 6 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

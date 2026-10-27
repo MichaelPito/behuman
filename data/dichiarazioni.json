@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 702,
+    "totale": 703,
     "camera": 109,
     "senato": 0,
-    "governo": 507,
+    "governo": 508,
     "verificate": 86,
     "prima": "2021-11-02",
-    "ultima": "2026-10-23"
+    "ultima": "2026-10-26"
    },
-   "recap": "Dal 2 novembre 2021 al 23 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 507 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (338), esteri e difesa (283), energia e carburanti (212). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 2 novembre 2021 al 26 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 508 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (339), esteri e difesa (283), energia e carburanti (213). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -298,15 +298,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 168,
-    "camera": 168,
+    "totale": 167,
+    "camera": 167,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-10-26",
+    "prima": "2021-10-29",
     "ultima": "2026-10-21"
    },
-   "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 168 interventi nell'Aula della Camera (135.112 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
+   "recap": "Dal 29 ottobre 2021 al 21 ottobre 2026: 167 interventi nell'Aula della Camera (134.691 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -485,15 +485,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 322,
-    "camera": 320,
+    "totale": 320,
+    "camera": 318,
     "senato": 0,
     "governo": 0,
     "verificate": 2,
-    "prima": "2021-10-26",
+    "prima": "2021-11-10",
     "ultima": "2026-10-21"
    },
-   "recap": "Dal 26 ottobre 2021 al 21 ottobre 2026: 320 interventi nell'Aula della Camera (133.913 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (54), unione europea (45), sicurezza e criminalità (37). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+   "recap": "Dal 10 novembre 2021 al 21 ottobre 2026: 318 interventi nell'Aula della Camera (132.326 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (45), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -4059,6 +4059,21 @@
    },
    "schieramento": "governo",
    "fonte": "Governo",
+   "data": "2026-10-26",
+   "testo": "È all’origine di materiali, tecnologie e soluzioni che permettono alle altre imprese di migliorare i propri prodotti, aprire nuovi mercati e rispondere a bisogni nuovi. […] Penso alla moda e alla cosmetica, all’arredamento e al design, alle costruzioni, alla meccanica e all’automotive, all’elettronica e all’energia.",
+   "contesto": "Assemblea Pubblica 2026 di Federchimica, il messaggio del Presidente Meloni",
+   "url": "https://www.governo.it/it/articolo/messaggio-del-presidente-meloni-occasione-della-assemblea-pubblica-2026-di-federchimica"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
    "data": "2026-10-23",
    "testo": "Poco più di un anno fa, a Copenaghen, Italia e Francia, - e voglio chiaramente mandare il mio saluto anche al Presidente Emmanuel Macron, che ringrazio - hanno proposto ai partner della Comunità Politica europea di dare vita alla Coalizione europea contro le droghe.",
    "contesto": "ECAD, l'intervento del Presidente Meloni a San Patrignano",
@@ -4588,21 +4603,6 @@
    "testo": "Sono obiettivi sui quali l'Italia insiste da tempo, però la questione che oggi pesa più di tutto sulla competitività della nostra economia è un'altra, ed è il costo dell'energia. […] Per questo, credo che l'Europa debba impegnarsi in prima persona, a partire dal rafforzamento dell'operazione Aspides nel Mar Rosso, che l'Italia oggi guida e che si regge in larga parte sul contributo di pochissime Nazioni.",
    "contesto": "Ordine del giorno della prossima seduta.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00200.int00010"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-14",
-   "testo": "Sono obiettivi sui quali l’Italia insiste da tempo, però la questione che oggi pesa più di tutto sulla competitività della nostra economia è un’altra, ed è il costo dell’energia.",
-   "contesto": "Consiglio europeo del 15-16 ottobre, Comunicazioni del Presidente Meloni al Senato",
-   "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-16-ottobre-comunicazioni-del-presidente-meloni-al-senato/32839"
   },
   {
    "slug": "giorgia-meloni",

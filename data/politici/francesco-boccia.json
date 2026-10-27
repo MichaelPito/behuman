@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -42,9 +42,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 28,
-     "assenti": 7,
-     "totale": 35
+     "presenti": 18,
+     "assenti": 2,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2119,30 +2119,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 64,
-      "Non ha votato": 31
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -10497,17 +10473,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 971,
-    "totale": 1987,
-    "percentuale": 48.9
+    "presenti": 961,
+    "totale": 1972,
+    "percentuale": 48.7
    },
    "fedelta_gruppo": {
-    "allineati": 35,
+    "allineati": 34,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 84
+   "voti_finali_e_fiducia": 83
   },
   "Senato": {
    "presenza": {
@@ -10639,7 +10615,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10656,8 +10632,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 48,9% delle votazioni del periodo (971 su 1.987); la mediana dei colleghi è 72,5%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 35 volte su 35 (100,0%).",
+  "Alla Camera ha partecipato al 48,7% delle votazioni del periodo (961 su 1.972); la mediana dei colleghi è 72,8%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 34 volte su 34 (100,0%).",
   "Al Senato ha partecipato al 75,6% delle votazioni del periodo (6.348 su 8.400); 447 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",

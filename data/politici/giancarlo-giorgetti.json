@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1966-12-16",
@@ -62,8 +62,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 0,
-     "assenti": 35,
-     "totale": 35
+     "assenti": 20,
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2530,30 +2530,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEGA",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 104,
-      "Non ha votato": 29
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14240,7 +14216,7 @@
   "Camera": {
    "presenza": {
     "presenti": 147,
-    "totale": 22099,
+    "totale": 22084,
     "percentuale": 0.7
    },
    "fedelta_gruppo": {
@@ -14249,7 +14225,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [
@@ -14301,7 +14277,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_(01)_(cropped).jpg",
@@ -14319,7 +14295,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'economia e delle finanze (dal 23 ottobre 2022).",
-  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.099); la mediana dei colleghi è 72,5%.",
+  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.084); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 14 volte su 14 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

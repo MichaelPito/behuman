@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-26",
-  "al": "2026-10-26"
+  "dal": "2021-10-27",
+  "al": "2026-10-27"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -42,9 +42,9 @@
      "mese": "2021-10",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 19,
+     "presenti": 4,
      "assenti": 16,
-     "totale": 35
+     "totale": 20
     },
     {
      "mese": "2021-11",
@@ -2489,29 +2489,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_582_006",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-26",
-     "descrizione": "Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza (PDL 1494)",
-     "atto": "C.1494",
-     "titolo": "BENAMATI ed altri: \"Delega al Governo per la riforma della disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M-AERI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 3
-     },
-     "esito": {
-      "favorevoli": 369,
-      "contrari": 0,
-      "astenuti": 36
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=582_6&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -14017,17 +13994,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8922,
-    "totale": 22099,
-    "percentuale": 40.4
+    "presenti": 8907,
+    "totale": 22084,
+    "percentuale": 40.3
    },
    "fedelta_gruppo": {
-    "allineati": 193,
+    "allineati": 192,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 569
+   "voti_finali_e_fiducia": 568
   }
  },
  "posizioni": [
@@ -14080,7 +14057,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-26",
+ "aggiornato_il": "2026-10-27",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",
@@ -14096,8 +14073,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 40,4% delle votazioni del periodo (8.922 su 22.099); la mediana dei colleghi è 72,5%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 193 volte su 193 (100,0%).",
+  "Alla Camera ha partecipato al 40,3% delle votazioni del periodo (8.907 su 22.084); la mediana dei colleghi è 72,8%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 192 volte su 192 (100,0%).",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]
 }
