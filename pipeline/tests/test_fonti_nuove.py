@@ -378,3 +378,40 @@ def test_agenda_notizie_piano_comunale_escluso(monkeypatch):
     monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
     v = {"oggetto": "Disposizioni in materia di protezione civile", "conversione": False, "nome_breve": None}
     assert agenda.notizie_su(v) == []
+
+
+def test_agenda_parole_senza_riferimenti_normativi():
+    from memoria.sezioni.agenda import parole_ricerca
+    v = {"oggetto": "Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza"}
+    assert parole_ricerca(v) == ["acquisto", "revoca", "cittadinanza"]
+    v = {"oggetto": "Modifica all'articolo 87 e al titolo IV della parte seconda della Costituzione in materia di separazione delle carriere"}
+    assert parole_ricerca(v)[:2] == ["separazione", "carriere"]
+
+
+def test_agenda_notizie_commissione_non_basta(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Concorso Asl annullato dal Tar: la presidente della commissione era esterna", "fonte": "A", "data": "2026-10-27", "url": "1"},
+              {"titolo": "L'abuso delle commissioni d'inchiesta come mezzo di lotta politica", "fonte": "B", "data": "2026-10-27", "url": "2"},
+              {"titolo": "Antimafia, al Senato la legge sul conflitto di interessi dei commissari", "fonte": "C", "data": "2026-10-27", "url": "3"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Modifica alla legge 2 marzo 2023, n. 22, in materia di conflitto di interesse nell'ambito della Commissione parlamentare "
+                    "di inchiesta sul fenomeno delle mafie", "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["3"]
+
+
+def test_agenda_notizie_ricerca_allargata_resta_severa(monkeypatch):
+    from memoria.sezioni import agenda
+    chiamate = []
+
+    def finta(q, giorni=7):
+        chiamate.append(q)
+        if len(q.split()) == 3:
+            return []
+        return [{"titolo": "Separazione delle carriere, la riforma torna al Senato", "fonte": "A", "data": "2026-10-27", "url": "1"},
+                {"titolo": "Csm al voto dopo il referendum", "fonte": "B", "data": "2026-10-27", "url": "2"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", finta)
+    v = {"oggetto": "Modifica all'articolo 87 della Costituzione in materia di separazione delle carriere giudicante e requirente",
+         "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["1"]
+    assert chiamate == ["separazione carriere giudicante", "separazione carriere"]
+    assert agenda.parole_ricerca({"oggetto": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali"}) == []
