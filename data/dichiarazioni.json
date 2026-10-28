@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 705,
+    "totale": 706,
     "camera": 109,
     "senato": 0,
-    "governo": 510,
+    "governo": 511,
     "verificate": 86,
     "prima": "2021-11-02",
-    "ultima": "2026-10-27"
+    "ultima": "2026-10-28"
    },
-   "recap": "Dal 2 novembre 2021 al 27 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 510 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (214). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 511 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (215). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -4059,6 +4059,21 @@
    },
    "schieramento": "governo",
    "fonte": "Governo",
+   "data": "2026-10-28",
+   "testo": "Buongiorno a tutti, grazie dell'invito, grazie dell'accoglienza. […] Allora è un lavoro di sistema che abbiamo fatto e che dobbiamo fare insieme, che il Governo fa dal suo canto per fare in modo che poi il mondo produttivo possa attraversare quel varco, ma il mondo produttivo deve avere gli strumenti che gli consentono di essere forte mentre attraversa quel varco.",
+   "contesto": "Il Presidente Meloni interviene all’Assemblea di Confartigianato",
+   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
    "data": "2026-10-27",
    "testo": "Caro Presidente Fedriga, cari amministratori, oggi si avvia alla conclusione la quinta edizione del Festival delle Regioni e delle Province Autonome e ci tenevo a far arrivare a tutti voi il mio saluto e il mio contributo ai lavori. […] E i risultati raggiunti in questi anni testimoniano che quando lo Stato, le Regioni e le Province autonome lavorano fianco a fianco, allora l'Italia può raggiungere traguardi ambiziosi.",
    "contesto": "Festival delle Regioni e delle Province Autonome, il videomessaggio del Presidente Meloni",
@@ -4573,21 +4588,6 @@
    "testo": "As the United States celebrates the 250th anniversary of its independence, we also cherish the profound contribution that Italian Americans have made to the founding, growth, and success of this great Nation since the very beginning with Filippo Mazzei and his influence on Thomas Jefferson. […] Long live the friendship between Italy and the United States.",
    "contesto": "Il videomessaggio del Presidente Meloni per il NIAF Gala 2026",
    "url": "https://www.governo.it/it/articolo/il-videomessaggio-del-presidente-meloni-il-niaf-gala-2026/32872"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-17",
-   "testo": "Perché, come ci ha ricordato Papa Leone, nell’epoca dell’intelligenza artificiale e della robotica non ci si può affidare solo alla mano invisibile del mercato. […] Oggi con l’intelligenza artificiale abbiamo una nuova straordinaria opportunità.",
-   "contesto": "AI.DEA - Forum di Varignana, il videomessaggio del Presidente Meloni",
-   "url": "https://www.governo.it/it/articolo/aidea-forum-di-varignana-il-videomessaggio-del-presidente-meloni/32871"
   },
   {
    "slug": "giorgia-meloni",

@@ -10,14 +10,14 @@
  "dal": "2021-10-28",
  "al": "2026-10-28",
  "riepilogo": {
-  "totale": 705,
+  "totale": 706,
   "camera": 109,
   "parole_camera": 184826,
-  "governo": 510,
+  "governo": 511,
   "senato": 0,
   "verificate": 86,
   "prima": "2021-11-02",
-  "ultima": "2026-10-27",
+  "ultima": "2026-10-28",
   "per_anno": [
    {
     "anno": "2021",
@@ -57,7 +57,7 @@
    {
     "anno": "2026",
     "camera": 9,
-    "governo": 128,
+    "governo": 129,
     "senato": 0,
     "verificate": 25
    }
@@ -163,11 +163,11 @@
    },
    {
     "tema": "Energia e carburanti",
-    "n": 214
+    "n": 215
    },
    {
     "tema": "Economia e conti pubblici",
-    "n": 148
+    "n": 149
    },
    {
     "tema": "Famiglia e natalità",
@@ -175,7 +175,7 @@
    },
    {
     "tema": "Lavoro, salari e pensioni",
-    "n": 134
+    "n": 135
    },
    {
     "tema": "Immigrazione",
@@ -191,11 +191,11 @@
    },
    {
     "tema": "Scuola e università",
-    "n": 79
+    "n": 80
    },
    {
     "tema": "Fisco e tasse",
-    "n": 77
+    "n": 78
    },
    {
     "tema": "Sicurezza e criminalità",
@@ -274,7 +274,7 @@
     },
     {
      "tema": "Energia e carburanti",
-     "n": 60
+     "n": 61
     },
     {
      "tema": "Esteri e difesa",
@@ -283,7 +283,7 @@
    ]
   }
  },
- "recap": "Dal 2 novembre 2021 al 27 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 510 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (214). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 511 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (215). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -9679,6 +9679,21 @@
    ],
    "parole": 830,
    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952",
+   "fonte": "governo.it"
+  },
+  {
+   "data": "2026-10-28",
+   "titolo": "Il Presidente Meloni interviene all’Assemblea di Confartigianato",
+   "sunto": "Buongiorno a tutti, grazie dell'invito, grazie dell'accoglienza. […] Allora è un lavoro di sistema che abbiamo fatto e che dobbiamo fare insieme, che il Governo fa dal suo canto per fare in modo che poi il mondo produttivo possa attraversare quel varco, ma il mondo produttivo deve avere gli strumenti che gli consentono di essere forte mentre attraversa quel varco.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti",
+    "Scuola e università"
+   ],
+   "parole": 2785,
+   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960",
    "fonte": "governo.it"
   }
  ],

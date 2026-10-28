@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-28T12:59:42+00:00",
+ "aggiornato_il": "2026-10-28T13:14:59+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -35,16 +35,28 @@
    "abbinate": [],
    "notizie": [
     {
-     "titolo": "Professioni sanitarie. La Camera approva il Ddl delega. Più tutele penali e civili, reintegro sanitari no-vax, nuove regole su formazione e ordini",
-     "fonte": "Quotidiano Sanità",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdnZ3YWZGaC1pNW96SVNoQWlTdFFFajB6QVJwRVcwajQ4UzBpOFNiYlBWbmpVaUwyRkpXRl9TeXpPaG9VRDFvbHFvSGphY0JpRTBrVUpzM21oYWUxT0JNeDRVS2FVOEJIVk5Pb3doV0xYVHpvd0RjQUZ0azV1c3VhRHFheGdBTVdIQkdDX05lVlNwX1M1bWlZZ0JkNUdVRk54czVoaGVZQ1EzblRZaEE3YjdFY3AxOEVNSW5GQlV1WVVGOWVwY2tQeF9acmc3LWNoQXNISGVCbHAxcGRhVmNmbHg0SHNOSDhkdEFVdS1XZ25mZ1ZKZnM2VlJYdnNsQUdGNEZRMGM2ME1ySzB4Q0Y0M1dYZnAyc0FSS25RT3U5UmI?oc=5"
-    },
-    {
      "titolo": "Camera dei deputati: Iscritti in dichiarazione di voto delega a Governo su professioni sanitarie",
      "fonte": "Agenparl",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2xmY1NLQVp5aG1BNVdTVjRLQ2JZZVo5b2ptM2FhNGlRN3djLWlCd3N6dHJfLWp4end2S2RiYlhaSm1ObXFta3VQeDVFWjhuODhOMjZ3dHpObmkwV1BkMmJDRXctOUdSTkt0TEJfYWxqM1pSd1hDcnVYUkpyNGVLVm9pZXlYcDE5R1E3NGFyeEM4WENkT1B3TzE3VW1JRWc3WndpbGdFajVPbVh3cHRVOTliQklQS3JJbjVFRXk0eDZCdVhPalE?oc=5"
+    },
+    {
+     "titolo": "++ Sì della Camera a delega in materia di professioni sanitarie ++",
+     "fonte": "ANSA",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbGt3Q0R6bzQ1UjBOX3dtaXVjRThxamNlRjZUanlfQ1NVQnhXSU9WeFMzSWFxMHJMcEtNRkdGcnFHWW5oNTJmMmhoSkN6RU96NFdjQnR1ZWwzTmJMcWFZaVh2MjNTZk1GVHJBVUNoVEJXajYwQ0dnRjFabFQyeTlHU2R6dHBmQnNPMEp1X1ptWTROUG9ya245SG9oRTlzaUs5NDZrMUdIbURaVE50SFpWZkVDSXVkcjJsTmY4TXI0LVdWYTV2anBzcnNrTzVrY21nTkRfUllhSFlXT25MMWdXQmNoRWF6Ti0tWFJucGhnUFV3TjTSAfgBQVVfeXFMUEUzQk9YSFZ0WXNWU0Ywd2FmNTluZngyanFXMG5LcDNtVmVoTmZxM2NiMzlDeWxUMzR6U3dwT1YxUXhLaTFEX3NvbU9oSVFhUHJ5SlVZYXl0Rm0taW9UbWg5Zlk4bDBGdE5DUWprZENNODRPSFg5U2MySzdkaEpqLVlWM2NrUUZQSlo0VjBSTklSYnBpZzJhdkNlTkVlb0lvN0N4bVlkTHU5SmFZQ1RkVXdiRlo4bDJ1aUdTeTlob3lpTWkxOGhyS19uSUF0ajlfZWViVXgxMUNFOE5GU1JVMnhUNzYtbktMZzd1cDk0WjFFWDFsbDJVTUU?oc=5"
+    },
+    {
+     "titolo": "Ddl responsabilita' professioni sanitarie: ok dalla Camera, testo passa al Senato -2-",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1cWVjMkRNZ1NfcXZtUGRVdmJ2bFBoazlNdlBubmotelZGbW1lb0g1aW5rRzRGMUwxWmVxN3J5QndFZjZ2WElGSUFLd2xadVNCMkhtOEpKZUFmNDNTUzFXWmo5eVhGcUVBZWhubllR?oc=5"
+    },
+    {
+     "titolo": "Professioni sanitarie. La Camera approva il Ddl delega. Più tutele penali e civili, reintegro sanitari no-vax, nuove regole su formazione e ordini",
+     "fonte": "Quotidiano Sanità",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdnZ3YWZGaC1pNW96SVNoQWlTdFFFajB6QVJwRVcwajQ4UzBpOFNiYlBWbmpVaUwyRkpXRl9TeXpPaG9VRDFvbHFvSGphY0JpRTBrVUpzM21oYWUxT0JNeDRVS2FVOEJIVk5Pb3doV0xYVHpvd0RjQUZ0azV1c3VhRHFheGdBTVdIQkdDX05lVlNwX1M1bWlZZ0JkNUdVRk54czVoaGVZQ1EzblRZaEE3YjdFY3AxOEVNSW5GQlV1WVVGOWVwY2tQeF9acmc3LWNoQXNISGVCbHAxcGRhVmNmbHg0SHNOSDhkdEFVdS1XZ25mZ1ZKZnM2VlJYdnNsQUdGNEZRMGM2ME1ySzB4Q0Y0M1dYZnAyc0FSS25RT3U5UmI?oc=5"
     },
     {
      "titolo": "In corso alla Camera le dichiarazioni di voto sulla delega sulle professioni sanitarie",
@@ -57,18 +69,6 @@
      "fonte": "www.agenziagiornalisticaopinione.it",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYWl4bWNsdUQzc1l4bFd2M2t4NTdvNW1zN0NBdzJPeFFyWjUyNEdvRDFReFFVcWF1WDVTSDFOaXRTRS1ibXNLbzRXYmtmb1NQOTM3b3EybVFJQnJCeElBekdLa2FjeGNDSG1iOWhJbzNZNkVvUkpPS2trY2w4MVpEN1RCWWhER3pQUFZVbmZySmFvZTIyeHZuYnVia2NXcXhHaTZSSExYQWwzM3lPQjJDZGJDdjhPUnZ0VFF0TXR0a2MzV1phS0JOenUxRi1sanNFV0tPNE5LWm9fUU1TZXQtOWpVSjd2Qk1QOWgtR1BZbFhhN21MRV8xT0NteTJtSlhQcUhaRzN3MWQtSWs4U2NRRWdCdGVRYVA4SGRxOXJzV0xuZXc?oc=5"
-    },
-    {
-     "titolo": "Riforma professioni sanitarie, la colpa cambia regole. Gli organici restano fuori dal testo",
-     "fonte": "Nurse Times",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlJHam9meWRNWk9JNGFKcHJYRkEtbU13N0ZEWmRZbWI0RlVpZW02SWdUYUZjWlduc3J4UHI4bG9vTEtMNjJzM0FpQWR6TGRmcjRYTmNkNTVpdmFZUnFjWkw2MUN5d3VFTjY1WlBiaW44SGRXZ1lMbnZaRnE2WTlMZDBLYzBqejBjYlEwN0xkM3N5NEVwV3d0R3ZZdkptRlA3QWRHMXF0N0ZsZjk2cmFIOXZB?oc=5"
-    },
-    {
-     "titolo": "In corso in Aula alla Camera esame delega sulle professioni sanitarie",
-     "fonte": "ANSA",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZXUxTXF4UXE4OEI2dW42VFNQX2ViaHhlZGMtZXllSzA1SlNjN2N1WEtZVHNxWUN3QnBJTW44UzFkN3BqNHM1REZORzFzYVVkcGtULXRSVExZM3ZaTHFjM3pON1E0Vm9ZejNuRUJIdV9LR3N1VXNLZlFla3JBdHJ0dDdFNDlhc3dIU09TWTRqaHFQYVVnOXZzNTZtUUtZWHZuVDVEdXlJQ0FsUXVGYTgyWUpqSUVKVUcyUHprbWRzZmhyNXV0Z1BwOEFfWlNkMGxZYzh5RTd4eUtDVmQ0NWZGOTRDWjZBbFVjOGRzdGFIRnpMNUliWGNEVjF4Vk_SAYICQVVfeXFMUEM3UThvOEIyUUljZjZ0RzhRT1VtWTNFVk5mZm5YZENCaVBLU0NVeEhrRnU2TndNRVBhcjdyOHlNT0xZRUx0b3ZVR2U0WXQ2UU13OThZN0pPdWt5NVRQeVlWQ2IxaVBOVk9BeXFCd3Z4UUtRTkpuODBhMVduZGN3YW5CZ1ZrMkZIUy0yY0hfVFVDS2JFM0ZXeWhsM3k2SGIteEIxWlAwLUJLZ3dUbEhyaEEtTHFuZmctaG96UkpjUXlxZ0NtOEV1aFo4R01wc1JGeDE4Q3ZFMmswdDNHUllPak16M3p0QjZLNXRtMUlNV0ItTjJsV29mV2diTFloaHBuMWpR?oc=5"
     }
    ]
   },
@@ -868,6 +868,12 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
+     "fonte": "Conquiste del Lavoro",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -983,7 +989,7 @@
      "titolo": "DL Autotrasporto, oggi comincia l’esame",
      "fonte": "Staffetta Quotidiana",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1X0NLa0lGaU5KNkNXRE83NDhYdWdnWUU2bjBJN2k5UG1MV0FVdDdCbXItMzRBelZuUlRoMXlIYTRieFdvQkg4Mld4cHVpeHNRal9felFnWGE2S0VLTU5lVTBwYXZlY0dMWUtsejFKek10ZU5mSWRrM25R?oc=5"
     },
     {
      "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
