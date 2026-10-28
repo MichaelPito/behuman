@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-28T13:14:59+00:00",
+ "aggiornato_il": "2026-10-28T13:30:06+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -35,18 +35,6 @@
    "abbinate": [],
    "notizie": [
     {
-     "titolo": "Camera dei deputati: Iscritti in dichiarazione di voto delega a Governo su professioni sanitarie",
-     "fonte": "Agenparl",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2xmY1NLQVp5aG1BNVdTVjRLQ2JZZVo5b2ptM2FhNGlRN3djLWlCd3N6dHJfLWp4end2S2RiYlhaSm1ObXFta3VQeDVFWjhuODhOMjZ3dHpObmkwV1BkMmJDRXctOUdSTkt0TEJfYWxqM1pSd1hDcnVYUkpyNGVLVm9pZXlYcDE5R1E3NGFyeEM4WENkT1B3TzE3VW1JRWc3WndpbGdFajVPbVh3cHRVOTliQklQS3JJbjVFRXk0eDZCdVhPalE?oc=5"
-    },
-    {
-     "titolo": "++ Sì della Camera a delega in materia di professioni sanitarie ++",
-     "fonte": "ANSA",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbGt3Q0R6bzQ1UjBOX3dtaXVjRThxamNlRjZUanlfQ1NVQnhXSU9WeFMzSWFxMHJMcEtNRkdGcnFHWW5oNTJmMmhoSkN6RU96NFdjQnR1ZWwzTmJMcWFZaVh2MjNTZk1GVHJBVUNoVEJXajYwQ0dnRjFabFQyeTlHU2R6dHBmQnNPMEp1X1ptWTROUG9ya245SG9oRTlzaUs5NDZrMUdIbURaVE50SFpWZkVDSXVkcjJsTmY4TXI0LVdWYTV2anBzcnNrTzVrY21nTkRfUllhSFlXT25MMWdXQmNoRWF6Ti0tWFJucGhnUFV3TjTSAfgBQVVfeXFMUEUzQk9YSFZ0WXNWU0Ywd2FmNTluZngyanFXMG5LcDNtVmVoTmZxM2NiMzlDeWxUMzR6U3dwT1YxUXhLaTFEX3NvbU9oSVFhUHJ5SlVZYXl0Rm0taW9UbWg5Zlk4bDBGdE5DUWprZENNODRPSFg5U2MySzdkaEpqLVlWM2NrUUZQSlo0VjBSTklSYnBpZzJhdkNlTkVlb0lvN0N4bVlkTHU5SmFZQ1RkVXdiRlo4bDJ1aUdTeTlob3lpTWkxOGhyS19uSUF0ajlfZWViVXgxMUNFOE5GU1JVMnhUNzYtbktMZzd1cDk0WjFFWDFsbDJVTUU?oc=5"
-    },
-    {
      "titolo": "Ddl responsabilita' professioni sanitarie: ok dalla Camera, testo passa al Senato -2-",
      "fonte": "Il Sole 24 ORE",
      "data": "2026-10-28",
@@ -59,16 +47,28 @@
      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdnZ3YWZGaC1pNW96SVNoQWlTdFFFajB6QVJwRVcwajQ4UzBpOFNiYlBWbmpVaUwyRkpXRl9TeXpPaG9VRDFvbHFvSGphY0JpRTBrVUpzM21oYWUxT0JNeDRVS2FVOEJIVk5Pb3doV0xYVHpvd0RjQUZ0azV1c3VhRHFheGdBTVdIQkdDX05lVlNwX1M1bWlZZ0JkNUdVRk54czVoaGVZQ1EzblRZaEE3YjdFY3AxOEVNSW5GQlV1WVVGOWVwY2tQeF9acmc3LWNoQXNISGVCbHAxcGRhVmNmbHg0SHNOSDhkdEFVdS1XZ25mZ1ZKZnM2VlJYdnNsQUdGNEZRMGM2ME1ySzB4Q0Y0M1dYZnAyc0FSS25RT3U5UmI?oc=5"
     },
     {
-     "titolo": "In corso alla Camera le dichiarazioni di voto sulla delega sulle professioni sanitarie",
-     "fonte": "ANSA",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeHVib2wyeFVWYk9JQWFqZkVKaDdSX3NBT1FFMTBlQWtEeHJqdjJtNmZQUUtYTVJBQ0F0RV93c0RlbGxFOTNHa3BRLTJXUkxZenhQR29YWTBOZXlfdXdSN2FzUlEzMHhzcXlsUUlBLThReDlFV2puTGNFY29EY0dPOWhpR3paSTNmODJ1bVFLbXdGcFRJdG5DSkdnSm5qcHBfdVYwR1JHTzF0ajdvZFFyb0wtQWtqczZYNGw2TE5mdnZZb2xadmpOQzZBdEt6SGR1bVgwTWxNZlFoNXdqbzdSMU5OZmpSSWVybDVjSXFIUVd6ZlZrY2t2MndCMXBla3d0VFRNUE10Y3hHSjA1amVidTBYa9IBmAJBVV95cUxNLUhVNDF4aEtWX2FzMHJ6SjRXcXM5UEFVZS1obVREME0tQlVSYWRGWGlTYm9RWU9sbWxUMlRtd21zb1NZN1FhQl91OXBqczM5TG8wNTB5UmpkQ1dUME9HZU5jcXR6MG11Vk5CZl9OV3Zyd2tNLWR1Q0ppUl85THFaeENJUHlMenVnbW9JSlZFQURNWUhQWFY0Si1JY3BLUTBjWnp4UmFBYzkzaER6NXZJSl94T3FySURrTm8yZGx1MDE3RjdGZTVuVENzX2tpUU55cVBaRk1ScHdVMFMzUWU5OVBqTTd3MmlVV21RLWxicEFQVjJMblhpMEZGZmNLaXJZQ2VEei1xR3BSZE8zRWJHQjFWOUlNaG1v?oc=5"
+     "titolo": "Riforma professioni sanitarie, la colpa cambia regole. Gli organici restano fuori dal testo",
+     "fonte": "Nurse Times",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlJHam9meWRNWk9JNGFKcHJYRkEtbU13N0ZEWmRZbWI0RlVpZW02SWdUYUZjWlduc3J4UHI4bG9vTEtMNjJzM0FpQWR6TGRmcjRYTmNkNTVpdmFZUnFjWkw2MUN5d3VFTjY1WlBiaW44SGRXZ1lMbnZaRnE2WTlMZDBLYzBqejBjYlEwN0xkM3N5NEVwV3d0R3ZZdkptRlA3QWRHMXF0N0ZsZjk2cmFIOXZB?oc=5"
     },
     {
-     "titolo": "LEGA * CAMERA: «PROFESSIONI SANITARIE, LOIZZO (LEGA): OGGI SONO DEFINITE, NO LEZIONI DA CHI NON HA SAPUTO GESTIRE PIÙ GRANDE EMERGENZA STORIA ITALIANA",
-     "fonte": "www.agenziagiornalisticaopinione.it",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYWl4bWNsdUQzc1l4bFd2M2t4NTdvNW1zN0NBdzJPeFFyWjUyNEdvRDFReFFVcWF1WDVTSDFOaXRTRS1ibXNLbzRXYmtmb1NQOTM3b3EybVFJQnJCeElBekdLa2FjeGNDSG1iOWhJbzNZNkVvUkpPS2trY2w4MVpEN1RCWWhER3pQUFZVbmZySmFvZTIyeHZuYnVia2NXcXhHaTZSSExYQWwzM3lPQjJDZGJDdjhPUnZ0VFF0TXR0a2MzV1phS0JOenUxRi1sanNFV0tPNE5LWm9fUU1TZXQtOWpVSjd2Qk1QOWgtR1BZbFhhN21MRV8xT0NteTJtSlhQcUhaRzN3MWQtSWs4U2NRRWdCdGVRYVA4SGRxOXJzV0xuZXc?oc=5"
+     "titolo": "Professioni sanitarie, una che riforma spacca il Parlamento",
+     "fonte": "Quotidiano Sanità",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUhXU1BiUFF3OEN4ZkNEQUpwci1fUTFqZUEzWEpma2EtQzd1M0dUU0trXy12NE9PQm5HcTBXM2JtUW9jRGRVcDh1d2p6bGxubEpuLWZnNE5XcHYtckoyd2hBeWR5SUFCejdTQW85RnozR3lXOS1xbnhBQ3AxOFZGd2pPS0hVaGhleFhMa0ZCaVUzNnYtZVBlbFE5LWxQRjBZOHdQNGtOcG8?oc=5"
+    },
+    {
+     "titolo": "\"Per la tutela dei pazienti e dei medici\". Il vice ministro Sisto spiega la nuova legge sulla responsabilità in sanità",
+     "fonte": "ArezzoNotizie",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSzZTNmdyQUVBbHFjaW4tWjNTSG1NaEtDY011XzJXUUN6QVhOcjl5ak53WGVXOUpRZVhUR2t1aFAzcDhWd24xQ2NDRVRkSjVTUVNrQWRnazdlX1NDMmlfU2s3TTBjYlNOMFQtM3RJeWVFZll1cTNDWlBoSUJON1hZMTBqWU5NWER2ZHVBM2NZdw?oc=5"
+    },
+    {
+     "titolo": "DDL Professioni sanitarie. La Commissione apre alla veterinaria: più spazio a specializzazioni e programmazione",
+     "fonte": "fnovi",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vR0FvNkoyR2M5cWt5Ri1lMWtqZkRIMGVsUjlYN2hHN0JvVnpDakw4ekVobUItN0VUVjlTVHVrM3o?oc=5"
     }
    ]
   },
@@ -868,12 +868,6 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
-     "fonte": "Conquiste del Lavoro",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -940,6 +934,12 @@
      "fonte": "LegnanoNews",
      "data": "2026-10-21",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWVna3gzamJTTWI0Ui1vM1lYTVZ5TlFTczY1WTNCMk9uWDRNSnBrZ1V6ZDNmenFESGpaYVdab0dOYl9jeE1mSnFyRGVtR01EelNIYUs5OWJtMW56ZFhFa0taOXJ4cS1rMlZ3OG9DWTE2WEhRR3ZleWs5U01OejY5YlZtMVRxekJYVWxqaXdxN2x1NFdsY3dja2JOM2ZtdHNYOGlKTnUtQWd0dVlMWFQtajIweFVzTFJCV2NGREprNzdYMGVOWFZRSmtrTTdIYWVSazVwOTJ2ZThVNnowaFJkWEhTaw?oc=5"
+    },
+    {
+     "titolo": "Contrasto alla criminalità minorile, nel nuovo decreto legge il reato di \"violenza organizzata\"",
+     "fonte": "Etruria News",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2NWeDBGejBneFZuX3hvWnF3N00xOWpaVFVBekxuVEhmeV9zQ0o1VFBfbjlpN3B0ZUVfUnF4enQzOUtRNEFFd09LYVA3OFIzcmhucDRLZi1na1g3RVEwbWx2NmV2OUE1SVZEeEhpUjZ4Rm9BOUtMR01oM1F0M09tY3kwVTJsaWdTLWJDUjAxYTNCeVZieUNOMGFldVBTY0N4WU1nb0JwOWxnbEtNQVkyR2gzNWpLOHFKSzNmODB3NHM2YU9FR0E?oc=5"
     }
    ]
   },
@@ -989,7 +989,7 @@
      "titolo": "DL Autotrasporto, oggi comincia l’esame",
      "fonte": "Staffetta Quotidiana",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1X0NLa0lGaU5KNkNXRE83NDhYdWdnWUU2bjBJN2k5UG1MV0FVdDdCbXItMzRBelZuUlRoMXlIYTRieFdvQkg4Mld4cHVpeHNRal9felFnWGE2S0VLTU5lVTBwYXZlY0dMWUtsejFKek10ZU5mSWRrM25R?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
     },
     {
      "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
@@ -1463,6 +1463,26 @@
      "iniziativa": "Dep. Schlein Elena Ethel ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54476"
     }
+   ],
+   "notizie": [
+    {
+     "titolo": "Disagio giovanile, il Forum Terzo Settore al Governo: \"La repressione da sola non basta\"",
+     "fonte": "Sardegnagol",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWVtMVd3VnVmbVR4aEYwTkJwck5reWFicDhFU1lpTFdxN29JSEF3VzkxbG1xLWd3UUxDWDZPN2xaUHdyWkNUR09NSWMtOFVGdzFfXy0tRUswNmYydW5mLXdDTGl4dWdDZ3ZYUHdUV1JnS0o5eGRwOEZSTXQ4UmZGT1FoQlE2dE1KVnI5Y2VUZXIwMVZjMjJuaGRsSExoaEJxc3RZN3RQWGY2MHc1aWllVk9B?oc=5"
+    },
+    {
+     "titolo": "Il disagio dei giovani, le violenze e l’ennesimo decreto sicurezza pieno di niente",
+     "fonte": "Strisciarossa",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjFEVzR3QmVmbWs5eVo4N0FUVHc4VEpvY2FJQ1lFdmVkNlZFa1VVM0JsWGl0STdEVnZWejNPbGpMZTRCd2FsUGp2T3owWjJvdjJUYTRPSkRYZmQzRHU1MmE4Y1A1WlRyY29tS3dPTE1NSzl1T0VKOVZrcmoyYy1nX3FuRlQyOURvY1R1NWtmVmNOem5UOHVQMFBnRFY4UWttNXRuRmNEbUhIYlNTSFFz?oc=5"
+    },
+    {
+     "titolo": "Nuovo decreto sicurezza, Buonguerrieri (FdI): \"Chi devasta paga, nessuna indulgenza. Disagio non giustifica violenza\"",
+     "fonte": "CesenaToday",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXF2cFF1ckNUaWVsQ0JNUGhUN2hJVHNfRHBDay1QeUVVaTNGem9DMWVYQzczT3A5SFdETVUzNHhGbTJ4SEtSU3dXOWZFMFViaVN1YXd4YU9WdmZvN0ZFd3FjcUVzWUU2SjQ1cFV2T2ZSMFJ2dHZIa0V6eUJsbmFJU1FIRC05X0ltRmFvX25jYUMyMnVxczBLdmdsbGtTVFA1SkE?oc=5"
+    }
    ]
   },
   {
@@ -1503,7 +1523,8 @@
      "iniziativa": "Sen. Gasparri Maurizio",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51040"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54564",
@@ -1533,7 +1554,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54564",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55698",
@@ -1567,7 +1589,8 @@
    "proponenti_monitorati": [
     "antonio-tajani"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55685",
@@ -1600,7 +1623,8 @@
    "proponenti_monitorati": [
     "adolfo-urso"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55641",
@@ -1631,7 +1655,8 @@
    "proponenti_monitorati": [
     "guido-crosetto"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55314",
@@ -1663,7 +1688,8 @@
    "proponenti_monitorati": [
     "giancarlo-giorgetti"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55246",
@@ -1702,7 +1728,8 @@
      "iniziativa": "Sen. Lorefice Pietro ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51024"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55245",
@@ -1736,7 +1763,8 @@
     "giorgia-meloni",
     "gilberto-pichetto-fratin"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55153",
@@ -1779,7 +1807,8 @@
      "iniziativa": "Sen. Amidei Bartolomeo",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53073"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54910",
@@ -1817,7 +1846,27 @@
    "proponenti_monitorati": [
     "carlo-nordio"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": [
+    {
+     "titolo": "Riforma dei commercialisti verso l’approvazione definitiva in Senato",
+     "fonte": "Eutekne.info",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcElGMnFGbTR3TzBKMDR2Q2xROFR2eHVCbUpHQ0pWcG1OS0NvTmtmdGhIRHowN29vTFU5SjBKTjNQZ1RGYUlIQ3ZlZkp4WlRmbFFFM1Jwc1AxYU5YWEU1bHNVeUFhVnZONUNQTWh2eE9hVW9wVy1MaHF0cENEY2x4RjI3S0lkbzRCT1VhNVN2R0Rhb1NDN1Y4bExETmNLeS0xejlEQmRLcEpjNnZPNFFxdA?oc=5"
+    },
+    {
+     "titolo": "Mancini (FdI), 'emendamento a riforma commercialisti ritirato, ma il punto è valido'",
+     "fonte": "ANSA",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMVpaREh3VnVDS0NReHRZdTcxYUcxRUhxeThab2dSZk9LWDNCcU1BX0UxVXpyb1drYVRXUWpNcjhUME5oUE9FNGYxX09yamNJejNTbFZFOWRxMWJYcS1NaUZ4RjF5V0JUdWRrcnlVbm9YWkFHQXZ3WEV4aTdHaGR4OFJWZ1RWNnFiY0Qtd21ka2ROS3BWQ2ZZODZmeFVZX1lBSWd5OWt0WG10cnI2amtPMXh3ZFpRQThya19NNUNLUGNwYnZaZzU5eHBXQ285QzBCZVVONXVXNG5tRGtwakQ5NzU1aDRIbUg0NG5FaF81Vkw4N21wQzBjY01XaWRJQU9CdzFCdVRZLUFxOUlFQWfSAY4CQVVfeXFMTzFaWkRId1Z1Q0tDUXh0WXU3MWFHMUVIcXk4Wm9nUmZPS1gzQnFNQV9FMVV6cm9Xa2FUV1FqTXI4VDBOaFBPRTRmMV9PcmpjSXozU2xWRTlkcTFiWHEtTWlGeEYxeVdCVHVka3J5VW5vWFpBR0F2d1hFeGk3R2hkeDhSVmdUVjZxYmNELXdtZGtkTktwVkNmWTg2ZnhVWV9ZQUlneTlrdFhtdHJyNmprTzF4d2RaUUE4cmtfTTVDS1BjcGJ2Wmc1OXhwV0NvOUMwQmVVTjV1VzRubURrcGpEOTc1NWg0SG1INDRuRWhfNVZMODdtcEMwY2NNV2lkSUFPQncxQnVUWS1BcTlJRUFn?oc=5"
+    },
+    {
+     "titolo": "FDI - FRATELLI D'ITALIA * SENATO: «RIFORMA COMMERCIALISTI, MANCINI (FDI): EMENDAMENTO RITIRATO PER NON FERMARE LA RIFORMA. NEL MERITO LO RICONFERMIAMO",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOdFEwd3BnMW1oX3ZYb2I4WmdZYW0zM1hQb2M2ekt5Yk5vVGd6dExhSUFpMkdLR2RTRmRfRlZhQVRYR0dwM2pYZTlOSG40cHR3UlVpNi1Gak42MXl2Q3BaV2I4Z0FYT2tWcWtsWDFySlRaSlcyVEdWM2poNENOLWthaFpXdFlaYzFpdDN1RWVoU3JNbWwwZ2NIZEJ3WjQtZ2tkbmkteGFxSk5ISkNuQXphUTUwSVd2ekFBWmdWOEZGR1F6aGRMNm9JTWF1OHFxRVloUXowZnNiOTY4TWd6dXkyeE9ydXNVVG4zc2dIUF8xRHgtbF9HUkhEUmpULVVFV1RzQ3B2RTU1OV9ZWGRaLVcySnQyME9Yb01pSDVPQ0NvZw?oc=5"
+    }
+   ]
   },
   {
    "id": "55547",
@@ -1847,7 +1896,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55547",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55398",
@@ -1892,6 +1942,14 @@
      "titolo": "Disposizioni per il riconoscimento ed il sostegno del caregiver familiare",
      "iniziativa": "Sen. Malpezzi Simona Flavia ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=50885"
+    }
+   ],
+   "notizie": [
+    {
+     "titolo": "Alessandra Locatelli e la dignità dei caregiver familiari: la Camera apre al riconoscimento, la scuola insegni il valore della cura",
+     "fonte": "Orizzonte Scuola Notizie",
+     "data": "2026-10-24",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZjN5UDgzd1Z0cDdXQkIyZjlUYklISUhBck1ydVkzNFU3Vmt3OGtKMFBxU0plMnBaM0dWQ0ViRkVoUVU0OXFYdEd0NFM1TFBhSkpEU1d3cUlpWDdBeWNiS2Zoc3hOeG51dXdrS0w2SDZCeDcwM2Q0Q3BIZm43NU9RbTNxdDM4aTQyeFlGUFFJZGhHbGVqZ0RnbjlhSm1OZjJTeTZyT2tOZTlNSWI2bWNDWmx2QVZ1LV9YWnJ1Ml9MOGc1RXRjTVRRV01PUkUzeHFOd1N0NjN4RjBreWtBZF93VXBCZWRaNkJzdW1OZ2JCUHBpUDQ?oc=5"
     }
    ]
   },
@@ -1952,7 +2010,8 @@
      "iniziativa": "Dep. Costa Sergio ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53410"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54563",
@@ -1999,7 +2058,8 @@
      "iniziativa": "Dep. Brambilla Michela Vittoria",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51122"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54165",
@@ -2029,7 +2089,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54165",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "53990",
@@ -2075,7 +2136,8 @@
      "iniziativa": "Dep. Brambilla Michela Vittoria",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51164"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "53658",
@@ -2106,7 +2168,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53658",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "52574",
@@ -2138,7 +2201,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52574",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "52468",
@@ -2169,7 +2233,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52468",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "52097",
@@ -2198,7 +2263,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52097",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "51280",
@@ -2229,7 +2295,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51280",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54546",
@@ -2269,7 +2336,8 @@
      "iniziativa": "Dep. Manes Franco ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52739"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55374",
@@ -2302,7 +2370,8 @@
    "proponenti_monitorati": [
     "matteo-salvini"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55306",
@@ -2338,7 +2407,8 @@
     "data_stato": "2026-10-07"
    },
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55190",
@@ -2378,7 +2448,8 @@
      "iniziativa": "Dep. Iezzi Igor Giancarlo ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53049"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55147",
@@ -2426,6 +2497,32 @@
      "iniziativa": "Gov. Meloni-I: Ministro giustizia Nordio, Ministro lavoro e politiche sociali Calderone",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54904"
     }
+   ],
+   "notizie": [
+    {
+     "titolo": "Accesso precoce ai farmaci. Ciancaleoni Bartoli (OMaR): bene la proposta Ithaca, soprattutto per le misure sulle Regioni",
+     "fonte": "Quotidiano Sanità",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY2VCNExlMlZEdEwxQU1QZlpIVlVWMVZqVVhCc2ViVUp4dzEwZnJrN1d3anhyem9jX182cXUxb0VSNXJsWkQ0YWdzeFFfcklHUzNRU0luSVdFZ3R3cHVrTTVOcWZVdnNtd3Ftc0J0TWpGQjA2VzBrSFlFTkhNbVBVMkJyZ0FMalpTY3Rva2ZaMWx4QnpTLTRlUzVuVVlDOE5vNEc0WlpIM3p0X0pvVXJnSS1EUzRiaUMzUnUtOVlET2ZhQjhEMGY4UE43c1l4TjBGRkl6T04zMU1CNVN1WTJ4YnhwSnlWaDRkMXV6VkpSazM5dFJLcWF3aWZfV1ZCUQ?oc=5"
+    },
+    {
+     "titolo": "Riforma farmaceutica. Il testo approvato dal Senato resterà blindato alla Camera. Atteso per la prossima settimana il via libera",
+     "fonte": "ilFarmacistaOnline",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2JrYWJmb1Z5MEdCRWk3TXFXaWdsRXR4eDF5dTRkTXd3RFhTekpFNDYxMGI1Nm1fdGZmVzA4MWREYURRdDl5dmJfQUI0QU1hdm11ZjBlSGhGMXRnTGJaZ29JdzFmSVZaNFozYmZuZk81UlVDUTZ4OUNGYmFILW0ySmtVbkhQZU9zYnEyaQ?oc=5"
+    },
+    {
+     "titolo": "Accesso anticipato ai farmaci, Corazza (APIAFCO): garantire l'inclusione delle patologie dermatologiche invalidanti nella proposta Ithaca",
+     "fonte": "Quotidiano Sanità",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcDlQRUQ2XzFfRTRzQlRUdU5YYmI3Q05pZ3lMSjR1eDBkMWNYNzJXR2E2OEVSNW5QaExzSmpVeHVxTmk2NlM2TzZveWVrbFdNMjJLX3VBSUFFV1kzUlhQTHIzMzBpOVc4RnV1WFNjci1wOEZ3UHVoU1d5WHdJcjkzd1dLSjJuTkt5MTJQai1SSzRIUTJsLUdFVW1hVVdvaHRjbjI3Q3FXU0szVjJ3NzlOLUE2cnFpSUtQaTJyd2d5QTAtZ2xqcG9tczhrMFhraFI3bWY1WDZRd2FtSjFSUG5xaC1KWElqZUVlQ3pHMGZmTUpsWEw3N00tWjBMRVdmbVhJQUViQ2YxTnR3ZjNQVmRhOUJPOXo?oc=5"
+    },
+    {
+     "titolo": "Testo unico farmaceutica, avviato l’esame in commissione Affari sociali della Camera",
+     "fonte": "Farmacista33",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXpzZUJJWGRYNjI3cnp5WEtaOFZ0b0RXdnBycGZYNG93blhNZ1h0YlRibjFEZ0F0ZkxiRVYwa3l1dEJ4aEZsQzltNkxBTUFSMEJRUWhKWGFobUYyNFIzdERvdkZSVWlVb0VzRW1YNHhlRnhQZkxVUXU5aHFkb1UtcXN1VFluSGJ4SHhkRHVXcDVOc0hzSHlDWnJRTlFybTI5SFJ5SFV4MzUxYUR3Z05VWUNzVEJPQUFLSTBTVU95NmotLTNRVUROeUNoVE9qQkJlbHRObmRUU3k?oc=5"
+    }
    ]
   },
   {
@@ -2460,7 +2557,8 @@
    "proponenti_monitorati": [
     "carlo-nordio"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54930",
@@ -2499,7 +2597,8 @@
      "iniziativa": "Dep. Kelany Sara ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54809"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54827",
@@ -2530,7 +2629,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54827",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54814",
@@ -2562,7 +2662,8 @@
    "proponenti_monitorati": [
     "roberto-calderoli"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55133",
@@ -2609,7 +2710,8 @@
      "iniziativa": "Dep. Maschio Ciro ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52543"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55025",
@@ -2647,7 +2749,8 @@
      "iniziativa": "Dep. Iaia Dario ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54887"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55017",
@@ -2677,7 +2780,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55017",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55014",
@@ -2717,7 +2821,8 @@
      "iniziativa": "Sen. Zanettin Pierantonio ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52929"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54781",
@@ -2749,7 +2854,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54781",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54627",
@@ -2836,7 +2942,8 @@
      "iniziativa": "Regione Abruzzo",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51467"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "53423",
@@ -2867,7 +2974,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53423",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "51766",
@@ -2898,7 +3006,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51766",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55628",
@@ -2927,7 +3036,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55628",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55181",
@@ -2965,7 +3075,8 @@
      "iniziativa": "Sen. Ancorotti Renato ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54801"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54853",
@@ -2996,7 +3107,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54853",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54495",
@@ -3028,7 +3140,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54495",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "52697",
@@ -3059,7 +3172,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52697",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "51628",
@@ -3091,7 +3205,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51628",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54961",
@@ -3124,7 +3239,8 @@
    "proponenti_monitorati": [
     "francesco-lollobrigida"
    ],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55352",
@@ -3159,7 +3275,8 @@
     "data_stato": "2026-09-30"
    },
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55593",
@@ -3189,7 +3306,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55593",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "55242",
@@ -3234,7 +3352,8 @@
      "iniziativa": "Dep. Orfini Matteo",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51373"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55149",
@@ -3264,7 +3383,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55149",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54958",
@@ -3295,7 +3415,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54958",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54951",
@@ -3325,7 +3446,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54951",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54523",
@@ -3354,7 +3476,8 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54523",
    "prima": null,
    "proponenti_monitorati": [],
-   "abbinate": []
+   "abbinate": [],
+   "notizie": []
   },
   {
    "id": "54426",
@@ -3412,7 +3535,8 @@
      "iniziativa": "Sen. Valente Valeria ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=50916"
     }
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "54029",
@@ -3447,7 +3571,8 @@
      "iniziativa": "Dep. Pastorella Giulia ed altri",
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53828"
     }
-   ]
+   ],
+   "notizie": []
   }
  ],
  "nuove": [
