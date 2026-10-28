@@ -415,3 +415,12 @@ def test_agenda_notizie_ricerca_allargata_resta_severa(monkeypatch):
     assert [n["url"] for n in agenda.notizie_su(v)] == ["1"]
     assert chiamate == ["separazione carriere giudicante", "separazione carriere"]
     assert agenda.parole_ricerca({"oggetto": "Norme in materia di usi nonché di redazione e aggiornamento delle raccolte degli usi generali"}) == []
+
+
+def test_agenda_notizie_provvedimenti_regionali_esclusi(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Regione: provvedimenti su tutela ambientale, impiantistica sportiva ed edilizia residenziale pubblica", "fonte": "A",
+               "data": "2026-10-27", "url": "1"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Disposizioni in materia di edilizia residenziale pubblica e sociale", "conversione": False, "nome_breve": None}
+    assert agenda.notizie_su(v) == []

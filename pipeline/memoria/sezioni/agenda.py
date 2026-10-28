@@ -94,9 +94,10 @@ COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", 
 ELISE = {"dell", "dall", "nell", "sull", "dello", "della", "delle", "degli", "alla", "alle", "agli", "nella", "nelle", "negli", "sulla", "sulle", "quest"}
 # il titolo deve parlare di un atto del Parlamento o del Governo, non solo del tema
 # («approvato» da solo no: «In Consiglio comunale approvate le delibere…» non parla di una legge;
-#  «proposta» e «via libera» da soli no: «proposta la fusione…», «Quartu, via libera al piano comunale…»)
+#  «proposta», «via libera» e «provvedimenti» da soli no: «proposta la fusione…», «Quartu, via libera al piano
+#  comunale…», «Regione: provvedimenti su… edilizia residenziale pubblica»)
 ATTO = re.compile(r"\b(ddl|dl|d\.l\.|pdl|decreto|legge|proposta di legge|camera|senato|parlament\w*|aula|emendament\w*|commission\w*|"
-                  r"governo|testo|riforma|provvediment\w*)\b", re.I)
+                  r"governo|testo|riforma)\b", re.I)
 
 
 MESI = {"gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"}
