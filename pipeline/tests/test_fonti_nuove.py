@@ -361,3 +361,20 @@ def test_agenda_notizie_regione_non_basta(monkeypatch):
     monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
     v = {"oggetto": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia", "conversione": False, "nome_breve": None}
     assert [n["url"] for n in agenda.notizie_su(v)] == ["2"]
+
+
+def test_agenda_notizie_delibera_comunale_esclusa(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "In Consiglio approvate le delibere sulla flotta ASIA e sulla protezione civile della costa", "fonte": "Comune", "data": "2026-10-27", "url": "1"},
+              {"titolo": "Ok definitivo della Camera al ddl sulla Protezione Civile, è legge", "fonte": "ANSA", "data": "2026-10-27", "url": "2"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Disposizioni in materia di protezione civile", "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["2"]
+
+
+def test_agenda_notizie_piano_comunale_escluso(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Quartu, via libera all'aggiornamento del Piano di protezione civile a mare", "fonte": "A", "data": "2026-10-27", "url": "1"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Disposizioni in materia di protezione civile", "conversione": False, "nome_breve": None}
+    assert agenda.notizie_su(v) == []

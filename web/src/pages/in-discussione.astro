@@ -3,6 +3,7 @@
 import Base from "../layouts/Base.astro";
 import AgendaVoce from "../components/AgendaVoce.astro";
 import FiltroLista from "../components/FiltroLista.astro";
+import Giornali from "../components/Giornali.astro";
 import Icon from "../components/Icon.astro";
 import { agenda, ALTRA_CAMERA, dataIt, INIZIATIVA, politici, type VoceAgenda } from "../lib/data";
 import { u } from "../lib/url";
@@ -101,6 +102,7 @@ const tot = a.conteggi;
                   <span class="tiny mono muted">{dataIt(v.approvata!.data)} · {v.approvata!.ramo}</span>
                   <a href={v.scheda} target="_blank" rel="noopener">{v.nome_breve ?? v.oggetto}</a>
                   <span class="tiny"><span class="pill accent">{v.stato_ufficiale === "appr. definit. Legge" ? "È legge" : "In attesa di pubblicazione"}</span> {INIZIATIVA[v.tipo_iniziativa]} · {v.numero}</span>
+                  <Giornali notizie={v.notizie} />
                 </li>
               ))}
             </ul>
@@ -115,6 +117,7 @@ const tot = a.conteggi;
                   <span class="tiny mono muted">{dataIt(v.approvata!.data)} · {v.approvata!.ramo}</span>
                   <a href={v.scheda} target="_blank" rel="noopener">{v.nome_breve ?? v.oggetto}</a>
                   <span class="tiny"><span class="pill sky">Ora {ALTRA_CAMERA[v.approvata!.ramo] === "Camera" ? "alla Camera" : "al Senato"}</span> {INIZIATIVA[v.tipo_iniziativa]}</span>
+                  <Giornali notizie={v.notizie} />
                 </li>
               ))}
             </ul>
@@ -161,12 +164,7 @@ const tot = a.conteggi;
             {r.proponenti_monitorati.length > 0 && <> · {r.proponenti_monitorati.map((s, i) => <>{i > 0 && ", "}<a href={u(`/politici/${s}/`)}>{nomi[s] ?? s}</a></>)}</>}
             {r.commissione && r.tipo === "commissione" && <> · {r.commissione}</>}
           </span>
-          {(r.notizie?.length ?? 0) > 0 && (
-            <details class="giornali">
-              <summary class="small">Cosa scrivono i giornali: {r.notizie!.length} {r.notizie!.length === 1 ? "titolo" : "titoli"} negli ultimi 7 giorni</summary>
-              <ul>{r.notizie!.map((n) => <li class="small"><a href={n.url} target="_blank" rel="noopener">{n.titolo}</a> <span class="tiny muted">{n.fonte} · {dataIt(n.data)}</span></li>)}</ul>
-            </details>
-          )}
+          <Giornali notizie={r.notizie} />
         </li>
       ))}
     </ul>
@@ -200,6 +198,4 @@ const tot = a.conteggi;
   .riga .tit { font-weight: 600; color: var(--ink); text-decoration: none; }
   .riga .tit:hover { text-decoration: underline; }
   .altri { margin-top: 14px; }
-  .giornali summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
-  .giornali ul { margin: 8px 0 0; padding-left: 16px; display: grid; gap: 6px; }
 </style>

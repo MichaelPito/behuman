@@ -1,0 +1,19 @@
+---
+// «Cosa scrivono i giornali»: titoli degli ultimi 7 giorni su un testo, con testata, data e link.
+import type { TitoloNotizia } from "../lib/data";
+import { dataIt } from "../lib/data";
+
+interface Props { notizie?: TitoloNotizia[] }
+const { notizie = [] } = Astro.props;
+---
+{notizie.length > 0 && (
+  <details class="giornali">
+    <summary class="small">{`Cosa scrivono i giornali: ${notizie.length} ${notizie.length === 1 ? "titolo" : "titoli"} negli ultimi 7 giorni`}</summary>
+    <ul>{notizie.map((n) => <li class="small"><a href={n.url} target="_blank" rel="noopener">{n.titolo}</a>{" "}<span class="tiny muted">{`${n.fonte ?? ""} · ${dataIt(n.data)}`}</span></li>)}</ul>
+  </details>
+)}
+
+<style>
+  .giornali summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  .giornali ul { margin: 8px 0 0; padding-left: 16px; display: grid; gap: 6px; }
+</style>
