@@ -8,7 +8,7 @@ Ogni giorno, da fonti ufficiali:
 - testi su cui le commissioni hanno lavorato negli ultimi giorni;
 - nuove proposte di legge presentate, con i politici monitorati tra i proponenti;
 - provvedimenti approvati dal Consiglio dei ministri nell'ultimo mese (descrizione del Governo);
-- per decreti, testi in Aula, testi in commissione e nuove proposte, i titoli dei giornali degli ultimi giorni (Google News), come segnale
+- per decreti, testi in Aula, leggi approvate, testi in commissione e nuove proposte, i titoli dei giornali degli ultimi giorni (Google News), come segnale
   di quanto se ne parla: titolo, testata, data e link.
 
 Scrive data/agenda.json. Se una fonte non risponde restano i dati del giorno prima.
@@ -32,6 +32,7 @@ GIORNI = 14  # finestra per approvazioni, commissioni e nuove proposte
 MAX_NOTIZIE = 24  # ricerche di notizie al giorno su decreti e testi in Aula (una per testo)
 MAX_NOTIZIE_COMMISSIONE = 30  # e sui testi in commissione: prima quelli del Governo e dei politici monitorati
 MAX_NOTIZIE_NUOVE = 30  # e sulle nuove proposte, con lo stesso ordine
+MAX_NOTIZIE_APPROVATE = 20  # e sulle leggi approvate, dalla più recente
 APPROVATI = {"approvato", "appr. definit. Legge", "appr. def. non pubbl", "appr. in t.u."}
 COMMISSIONE = {"esame in comm.", "concluso l'esame", "in relazione"}
 
@@ -87,7 +88,10 @@ COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", 
           "territorio", "servizi", "sistema", "regioni", "comuni", "stato", "persone", "lavoratori", "professioni", "polizia"}
 ELISE = {"dell", "dall", "nell", "sull", "dello", "della", "delle", "degli", "alla", "alle", "agli", "nella", "nelle", "negli", "sulla", "sulle", "quest"}
 # il titolo deve parlare di un atto del Parlamento o del Governo, non solo del tema
-ATTO = re.compile(r"\b(ddl|dl|d\.l\.|decreto|legge|proposta|camera|senato|parlament\w*|aula|emendament\w*|approvat\w*|commission\w*|governo|testo)\b", re.I)
+# («approvato» da solo no: «In Consiglio comunale approvate le delibere…» non parla di una legge;
+#  «proposta» e «via libera» da soli no: «proposta la fusione…», «Quartu, via libera al piano comunale…»)
+ATTO = re.compile(r"\b(ddl|dl|d\.l\.|pdl|decreto|legge|proposta di legge|camera|senato|parlament\w*|aula|emendament\w*|commission\w*|"
+                  r"governo|testo|riforma|provvediment\w*)\b", re.I)
 
 
 def parole_ricerca(v: dict) -> list[str]:
@@ -213,15 +217,17 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         best = max(((cdmmod.somiglianza(v["titolo"], c["titolo"]), c) for c in cdm if "decreto-legge" in c["tipo"]), key=lambda x: x[0], default=(0, None))
         v["descrizione_governo"] = best[1] if best[0] >= 0.65 else None
 
-    # titoli dei giornali: decreti, testi in Aula, testi in commissione e nuove proposte
-    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "commissione", "nuove") for x in prec.get(sez, [])}
+    # titoli dei giornali: decreti, testi in Aula, leggi approvate, testi in commissione e nuove proposte
+    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "approvate", "commissione", "nuove") for x in prec.get(sez, [])}
     # solo testi con attività recente: per quelli fermi da mesi i titoli sarebbero su altro
     recente = (oggi - dt.timedelta(days=60)).isoformat()
     principali = (decreti + [g for g in aula if g["data_stato"] >= recente])[:MAX_NOTIZIE]
-    # in commissione i testi sono tanti: prima quelli del Governo, poi quelli dei politici monitorati, poi i più recenti
+    principali += approvate[:MAX_NOTIZIE_APPROVATE]  # già ordinate dalla più recente
+    # in commissione e tra le nuove proposte i testi sono tanti: prima quelli del Governo, poi quelli dei politici
+    # monitorati, poi i più recenti
     principali += per_priorita(commissione, "data_stato")[:MAX_NOTIZIE_COMMISSIONE]
     principali += per_priorita(nuove, "presentato")[:MAX_NOTIZIE_NUOVE]
-    for v in decreti + aula + commissione + nuove:
+    for v in decreti + aula + approvate + commissione + nuove:
         v["notizie"] = []
     errori_news = 0
     fatte: dict[str, list] = {}  # lo stesso testo può comparire in più sezioni (es. un decreto appena presentato)
