@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-28T13:41:12+00:00",
+ "aggiornato_il": "2026-10-28T13:51:57+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -868,12 +868,6 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
-     "fonte": "Conquiste del Lavoro",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -995,7 +989,7 @@
      "titolo": "DL Autotrasporto, oggi comincia l’esame",
      "fonte": "Staffetta Quotidiana",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1X0NLa0lGaU5KNkNXRE83NDhYdWdnWUU2bjBJN2k5UG1MV0FVdDdCbXItMzRBelZuUlRoMXlIYTRieFdvQkg4Mld4cHVpeHNRal9felFnWGE2S0VLTU5lVTBwYXZlY0dMWUtsejFKek10ZU5mSWRrM25R?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
     },
     {
      "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
@@ -1484,10 +1478,10 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjFEVzR3QmVmbWs5eVo4N0FUVHc4VEpvY2FJQ1lFdmVkNlZFa1VVM0JsWGl0STdEVnZWejNPbGpMZTRCd2FsUGp2T3owWjJvdjJUYTRPSkRYZmQzRHU1MmE4Y1A1WlRyY29tS3dPTE1NSzl1T0VKOVZrcmoyYy1nX3FuRlQyOURvY1R1NWtmVmNOem5UOHVQMFBnRFY4UWttNXRuRmNEbUhIYlNTSFFz?oc=5"
     },
     {
-     "titolo": "Nordio: «Massicci arresti di minori, vogliamo ampliare le carceri giovanili». Salvini: i militari a Milano potranno intervenire con Lince e droni. Mattarella emana il decreto sicurezza",
-     "fonte": "Corriere Roma",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOElrM3dNREtSTFVQLUZmNTBtSFQzUkxSTDY5TWxRcXFSWjBZQ1pqU2pKaTZDNWd2NWFJUmxjdVBaNkRFTVZhNWNOc2FONTc3V2o0eDZUVFFhdWFWTE5EZVBZVEJLcG1qWTgzQzh4a2xDVWVZQ1BXVFN2Y2ZfNktxVDlwMFViUGJUQU1yRnFuSEotUWhRbTNCRHlFR3lDMnRUSHJBTGZUcTZGOGpNQ2hmM0NOUzZkN3I5MFNZdzlOejNMb2JjSTBIUUtmN2Y1ajNHOW5uOTVxajZKUWR1N19NQzdUR3NGb1FTWExuR0JGTkJmUmNxTkwyc1BSWnJPOWJi0gGGAkFVX3lxTFAtQWRhRlVpWVpjWkd3YllvbzUxVzd2QmVNaW5CN0hLQlN3V2Z1UXJwVEwwM0NaSVV0R1FJck9rbDMwTmhDU182RktRbnRLbzVjaF9fVUtla0JuVEFTZGxPdlUzQ29iYlpQVEdsRzN3T2N2RWFENklsQUVBWWlqeWlzWG8xZVF3S2hValZLalJkMmlvbXF4SHJXOVpJRHNmZWpyUGpWbWhzZWRGQTdUWjRwQXc1eTNSQlNVRnBnWHk1Q3FnVllZRHFWcWRjcXk2a0FkSGJfN2pmajFvemNPeXp5MVd1eUJhZ3F1Y20wVko4N2NaMXZrSlhjR0F1RUI2YnVNYWlhZlE?oc=5"
+     "titolo": "Nuovo decreto sicurezza, Buonguerrieri (FdI): \"Chi devasta paga, nessuna indulgenza. Disagio non giustifica violenza\"",
+     "fonte": "CesenaToday",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXF2cFF1ckNUaWVsQ0JNUGhUN2hJVHNfRHBDay1QeUVVaTNGem9DMWVYQzczT3A5SFdETVUzNHhGbTJ4SEtSU3dXOWZFMFViaVN1YXd4YU9WdmZvN0ZFd3FjcUVzWUU2SjQ1cFV2T2ZSMFJ2dHZIa0V6eUJsbmFJU1FIRC05X0ltRmFvX25jYUMyMnVxczBLdmdsbGtTVFA1SkE?oc=5"
     }
    ]
   },
@@ -1530,7 +1524,14 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51040"
     }
    ],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Legge per Roma Capitale, i costruttori al Senato: “Meno burocrazia”",
+     "fonte": "la Repubblica",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWUyN3NkQ0NuWk4zNFVGU0NlekFxZ0ZWTkRlRmdRS291UFFCc2ZrTWhzRlRDX3o4MmttemtCODhFMVVMT1psNnNwSFNNZHhkUnd0SjNtSktYbWphQ09hcGFaa09HS2JBcEpPVURTbExVYnJTX2VBVzdpdXVYaXpZUi1iM0hnVVQ1TmdfaC1lMjNmV2hYa1g2cVQ5T0hyWVZRaWJwQ0lzONIBrAFBVV95cUxOZHNuVnMwM3NiRU84ZDVXQU44aHZJSE1kR0VWVEpBWm5ob0NRTzRSOGU2MUpWaUdJVGtja3M1UUFDeG5GM2x2NmUtZnN4ZGZIQVdxWm40Sko3X1JCYXI3NDdlVC1jNnBtSWJIRUlfN04wdHJZQVgyMFUtUzV4Tnlud0FFZlVWbjVmc2lYOGVfbTRXWGFVVjdqSkFUNzYyOWpUZFhyOGpCMFk4aHBa?oc=5"
+    }
+   ]
   },
   {
    "id": "54564",
@@ -3609,7 +3610,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55743",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55742",
@@ -3638,7 +3640,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55742",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55741",
@@ -3667,7 +3670,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55741",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55735",
@@ -3701,6 +3705,32 @@
    "proponenti_monitorati": [
     "giorgia-meloni",
     "matteo-salvini"
+   ],
+   "notizie": [
+    {
+     "titolo": "DL Autotrasporto, oggi comincia l’esame",
+     "fonte": "Staffetta Quotidiana",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
+    },
+    {
+     "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
+     "fonte": "Corriere Adriatico",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTdHckFNdmpCWW5qRTFVTndSdi1Vem43SDBlRU5XMmZhUlo4SkxHSGdCNHJCS1NuV194XzZkN0NrNVRta2R5YnB2b0lTY3NBYTBrM2plMXdZSDZEd0V2ajY5dTRTc29VTk81V1B6eEdhRUw4S3pneHVEMFVENTF4LTFWcTlHOUpOZ1R5a2x1UENqSzdrb2ROYUF4QWxaN3Y1Zkkwc2VwRWlHQ0h1LTFLT3JB0gG3AUFVX3lxTE91WVgtcmMweXNiTGQ3LVJqLVNuVVUyWlg5a0tCemhfUkd2V29pdUF6UmpFRkVNRGlFM2JpT1Q2ZUNQdGdpbWlIYWFVeEdlQUNnRmdaeWRidDdfakx0M2tPZExmWVVPLTRkMU5CWVE5U29kMmU5VERBWkRqTU9uVHQ1X1I3c3YxaGZ4d3dpWU5LYldESFBMMXBCNFIzREItZFREaVYyZXgxRmRqQTgzWnJyQWQtZFpqMA?oc=5"
+    },
+    {
+     "titolo": "Consiglio dei ministri: MISURE URGENTI PER L’AUTOTRASPORTO, L’AGRICOLTURA E LA PESCA",
+     "fonte": "Vivi Mazara",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHItckVtaEpQVWhBT2pKd25yeUgzamtFejF5b2xGTHJYWG1hbEtaZ1ZqNVY1NEJYczI3RDRadExMdFFpMHBXLS0wLThmUWR5MjhpVEVpY1N2MzltdklKbFY2RzNnQ294YXRYWGNiRjdrV0E2WldsbVlIQzFZU1RmbjJLcXcteUxUR25yRW0taTJ6VktJZ0JJZ09XZ1h4NFpHVlhmNDhEdkFkOUZ5?oc=5"
+    },
+    {
+     "titolo": "Consiglio dei ministri: Via libera al decreto per gli aiuti all'autotrasporto, all'agricoltura e alla pesca",
+     "fonte": "Vivi Mazara",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdVdITEhfQ1RUanRUVWZKUFQxaHpQYU5aQ2tqYjg2SkxuMFJkaWdRWVVPbEpQS21VVGFsbjZzbkd1Uy1ydlh3Tk9LMnBfMHdkVGdjV0t1RkF2SlpBR1l5RGhuQTF5MU1FTlBieEtXVDNoSVl1bDZSUEItM0ZpRHl0a1lPQTk4TzBBdDJhRVIzamxIY2tEV3EzTmJFXzdnTWZUVkR1VEtqRElscHdaUjlqZU1LZnB4bjJMOE52ZVJ1T2Voem40dU8zbGRaUQ?oc=5"
+    }
    ]
   },
   {
@@ -3733,7 +3763,8 @@
    "prima": null,
    "proponenti_monitorati": [
     "antonio-tajani"
-   ]
+   ],
+   "notizie": []
   },
   {
    "id": "55740",
@@ -3765,6 +3796,26 @@
    "prima": null,
    "proponenti_monitorati": [
     "roberto-calderoli"
+   ],
+   "notizie": [
+    {
+     "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
+     "fonte": "eg news",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
+    },
+    {
+     "titolo": "Macroregione autonoma delle Venezie, proposta la fusione tra Veneto e Friuli: perché la politica dice no",
+     "fonte": "Il Gazzettino",
+     "data": "2026-10-25",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDE4WGEwUkloNUtqcjM1azNxRUVTVmJnZUhCTlhUU1hRckV2eERYUkswWDhoRy1UWW9WMTEtbHBpN1paeF9qdGw4TzZ3azJEcUN0RXJCQ2VEQ2ZYOWNQNXA1bEpEM29hbVZlZDJpczY1SFM5Tk9ibjRNX2RNTlUxX0dSNEJEeFBVTXpXZUNFeVhJMzNsdzFXZkNxQXdZRWNRVGl6QjVBXy1NbW1oMEpfdE1lT1ozOXhiWGlPRk02NUdINkZq0gG8AUFVX3lxTFA5UkMwWFVzWWNOMWZ3elJPelVBdjNEUzJNbTIyUXJhanBxSC01UHlMUkVXUlRSSW5YQWhTbG1fNUtETV9QYnFQN09hblA5STFlbllPc0VHcXVqdFExc0NxMnp2WGhYUlBYNldhMmJETDR2NURVVWlyNEZxMDNwSzJGTE5yem14Y0dnRzhUekdwYWUwX1FzcDF2UzctNEtidy1PV3FyUUdUSE43eDhWZEZ4QlEyX1NFaHJjRVNK?oc=5"
+    },
+    {
+     "titolo": "L'esame dei disegni di legge per l'Autonomia differenziata partirà dalla Camera",
+     "fonte": "il Nord Est",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjJnOXU3SGJDNXpPMjE3UUtlQlZQa2tackVMcHFZczVRV2haX0lCeHNmckwtUTg4WUpRTUpBeldWZjB1UTBqSnpjTlN6QlFVd3UyY1daaVJlcWhubmV0RmNFdTF1bjE1WU1JMldQcjF1MUgxWVRYVDZYNjF5SjBZWjd3Y3BXdlo4Yzk1RWV3YXEySEJnejdlWmQ5dnhwLWJzUXlRek0xWUthWkFSSU1EUzNqNUhTV083UW9iaFBHQnQzNEE?oc=5"
+    }
    ]
   },
   {
@@ -3797,6 +3848,26 @@
    "prima": null,
    "proponenti_monitorati": [
     "roberto-calderoli"
+   ],
+   "notizie": [
+    {
+     "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
+     "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa3dMa1NOZUJ4VWgzVjJ2cUl2VXJKRXBEQkpYbmJIUmJMbGJzSFROYUFTT2xmc1dBSm55TVdPdml2Q1p4WXh2bzI5OWx4V1NfRWNfLXRWOGJZa0lRVmtReUx3ZzhVdl9EaGZraGNpV0p0d2RTVTF0ODNnU3VXYTVzNXpjWmtZQVVJekpISVV2YnlTQktkTlBRR0xmcmtpZF9yeENkaWRENkV1akgteV9PV3NnYm1idFBlZU01T3F2Qnc1dEpieDVwWVJQWVhYMDR5V1hLX0hHc2VTWnk0VkN2dHB4X21lYW1FMGtFbXJuUnZjSFFaUkM4UDRzQXd3TFVsdUhrcGJIMFJzdVY5?oc=5"
+    },
+    {
+     "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
+     "fonte": "eg news",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
+    },
+    {
+     "titolo": "L'esame dei disegni di legge per l'Autonomia differenziata partirà dalla Camera",
+     "fonte": "il Nord Est",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjJnOXU3SGJDNXpPMjE3UUtlQlZQa2tackVMcHFZczVRV2haX0lCeHNmckwtUTg4WUpRTUpBeldWZjB1UTBqSnpjTlN6QlFVd3UyY1daaVJlcWhubmV0RmNFdTF1bjE1WU1JMldQcjF1MUgxWVRYVDZYNjF5SjBZWjd3Y3BXdlo4Yzk1RWV3YXEySEJnejdlWmQ5dnhwLWJzUXlRek0xWUthWkFSSU1EUzNqNUhTV083UW9iaFBHQnQzNEE?oc=5"
+    }
    ]
   },
   {
@@ -3829,6 +3900,32 @@
    "prima": null,
    "proponenti_monitorati": [
     "roberto-calderoli"
+   ],
+   "notizie": [
+    {
+     "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
+     "fonte": "eg news",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
+    },
+    {
+     "titolo": "Autonomia, l'allarme di Fontana: \"Tempi lunghi dal Parlamento e rischio modifiche\"",
+     "fonte": "MilanoToday",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmF5VUlFZkhQVzllaWVVR2tocFJfQy1PeWU0ZEthb0dFU1ZNMXNIZVl0ZzNnSkZ1Nk5PendzQ0QzdWs4dGY4R1BBTWhCcFZjLU5nU25sUURTMkFwaW5lR0ZDT2l0VUJRTGcwUXZaLVl4UXpEaFhtXzV6V1lYWDVxbFFR?oc=5"
+    },
+    {
+     "titolo": "Autonomia, Fedriga “Strada ancora lunga ma da Governo primo passo importantissimo”",
+     "fonte": "Radio Lombardia",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTE9BZXN6NktEYVJDY2VGdUQwVVlWWGViQWxCLXlTYlBrRTByZ25SRGdKTEhXVnNKN0hmQW1IZm5VWlpWZDFQVElWWkdvbHMyV1dONjNUUFJ1NDROOEZNZ0dxTkhKQ0w5Yl9ONTlpcEllQkU3eFN2UlhpaWZQTGJmYjlnSm12dHYzSWtrWVpJNHBYN2UzNWJwTk9RMWhiaTJKRFJNS2tmOHBFMkEySHhxM3l3dFR6VTdpUjkzY2N3?oc=5"
+    },
+    {
+     "titolo": "L'esame dei disegni di legge per l'Autonomia differenziata partirà dalla Camera",
+     "fonte": "il Nord Est",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjJnOXU3SGJDNXpPMjE3UUtlQlZQa2tackVMcHFZczVRV2haX0lCeHNmckwtUTg4WUpRTUpBeldWZjB1UTBqSnpjTlN6QlFVd3UyY1daaVJlcWhubmV0RmNFdTF1bjE1WU1JMldQcjF1MUgxWVRYVDZYNjF5SjBZWjd3Y3BXdlo4Yzk1RWV3YXEySEJnejdlWmQ5dnhwLWJzUXlRek0xWUthWkFSSU1EUzNqNUhTV083UW9iaFBHQnQzNEE?oc=5"
+    }
    ]
   },
   {
@@ -3861,6 +3958,26 @@
    "prima": null,
    "proponenti_monitorati": [
     "roberto-calderoli"
+   ],
+   "notizie": [
+    {
+     "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
+     "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa3dMa1NOZUJ4VWgzVjJ2cUl2VXJKRXBEQkpYbmJIUmJMbGJzSFROYUFTT2xmc1dBSm55TVdPdml2Q1p4WXh2bzI5OWx4V1NfRWNfLXRWOGJZa0lRVmtReUx3ZzhVdl9EaGZraGNpV0p0d2RTVTF0ODNnU3VXYTVzNXpjWmtZQVVJekpISVV2YnlTQktkTlBRR0xmcmtpZF9yeENkaWRENkV1akgteV9PV3NnYm1idFBlZU01T3F2Qnc1dEpieDVwWVJQWVhYMDR5V1hLX0hHc2VTWnk0VkN2dHB4X21lYW1FMGtFbXJuUnZjSFFaUkM4UDRzQXd3TFVsdUhrcGJIMFJzdVY5?oc=5"
+    },
+    {
+     "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
+     "fonte": "eg news",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
+    },
+    {
+     "titolo": "L'esame dei disegni di legge per l'Autonomia differenziata partirà dalla Camera",
+     "fonte": "il Nord Est",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjJnOXU3SGJDNXpPMjE3UUtlQlZQa2tackVMcHFZczVRV2haX0lCeHNmckwtUTg4WUpRTUpBeldWZjB1UTBqSnpjTlN6QlFVd3UyY1daaVJlcWhubmV0RmNFdTF1bjE1WU1JMldQcjF1MUgxWVRYVDZYNjF5SjBZWjd3Y3BXdlo4Yzk1RWV3YXEySEJnejdlWmQ5dnhwLWJzUXlRek0xWUthWkFSSU1EUzNqNUhTV083UW9iaFBHQnQzNEE?oc=5"
+    }
    ]
   },
   {
@@ -3892,7 +4009,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55736",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55733",
@@ -3924,6 +4042,38 @@
    "proponenti_monitorati": [
     "giorgia-meloni",
     "matteo-piantedosi"
+   ],
+   "notizie": [
+    {
+     "titolo": "Decreto legge sulla sicurezza pubblica: reato di violenza organizzata",
+     "fonte": "UniD Professional",
+     "data": "2026-10-24",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZWFdnelhFa3FsNkQzb3ZFdmhWZnZ3SHowcEFfR0V2Y0NYS3lQUnNhUUx4ODJPdGxnNGE2dDBGem1YWUM0M3FpdjRCTWN6bUEwNHJnRDllZDc2MGREb05ya3VRaGQyRFNJYWpGX1Y0OWU?oc=5"
+    },
+    {
+     "titolo": "Decreto sicurezza: pubblicato in Gazzetta Ufficiale - e in vigore da oggi - il decreto-legge 22 ottobre 2026, n. 190 \"Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile\"",
+     "fonte": "Giurisprudenza penale",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWlTZkF5TUJwUk15MHMwQmJMRkJkYVh1cEhXUFdSR0RIRXhmQmZHbFNDOHVtWEttYU9ZR0s0QjQwUC1Rdk5GWlRxUmdxRGwzR2hRWkhVNHdxeHo2MmhCa2hvTXlNNTUzbjVBTmk2SGdWc2NvTkV6al9UcWtBTEw5bnNiZEJNY2JyTGlMd0dNY05zai1pSzZiT2xEblFlanJYcndnNUhmQ2ppajFQTVBucVFDbGpiZkV4V1E?oc=5"
+    },
+    {
+     "titolo": "Mattarella ha emanato il dl in materia di sicurezza pubblica e contrasto alla criminalità minorile",
+     "fonte": "Gazzetta del Sud",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORTZsa2t1OVdRV3hzQ1pCUmd6UW8tRmE0UUFfbzhicktzd2oyb3hEdmxrNFlUU283aTltbW9iR09Vb0RiMXVYMEpFdjdIV19Edk55WjRJd0ZId0VpME1XVTZhdloyRERqWjBUWjl2VnpxXzd2UG5BZVZYUWJzRTZDLXQwU2pJVGdlc3J6Y1hjZEFYLW1uazg0U192VW93eGNnakZKM185cnVlbHYtSlZ5d1pDcjhwYmZZZnhnSWw3eDdnS3p2RnJlU1k4RVZJbEl1ZG55ZGVwX0s4X0ZGTjdCNVJtdkdDZWd0MXc0YnY0MnVnZlhrSm9UQ21MUW5LVjQyeDRUNlRtS2tUczV4Ym8tQ2JPZmpERXd1SWc?oc=5"
+    },
+    {
+     "titolo": "Sicurezza pubblica e criminalità minorile, il governo vara un nuovo decreto",
+     "fonte": "LegnanoNews",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWVna3gzamJTTWI0Ui1vM1lYTVZ5TlFTczY1WTNCMk9uWDRNSnBrZ1V6ZDNmenFESGpaYVdab0dOYl9jeE1mSnFyRGVtR01EelNIYUs5OWJtMW56ZFhFa0taOXJ4cS1rMlZ3OG9DWTE2WEhRR3ZleWs5U01OejY5YlZtMVRxekJYVWxqaXdxN2x1NFdsY3dja2JOM2ZtdHNYOGlKTnUtQWd0dVlMWFQtajIweFVzTFJCV2NGREprNzdYMGVOWFZRSmtrTTdIYWVSazVwOTJ2ZThVNnowaFJkWEhTaw?oc=5"
+    },
+    {
+     "titolo": "Contrasto alla criminalità minorile, nel nuovo decreto legge il reato di \"violenza organizzata\"",
+     "fonte": "Etruria News",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2NWeDBGejBneFZuX3hvWnF3N00xOWpaVFVBekxuVEhmeV9zQ0o1VFBfbjlpN3B0ZUVfUnF4enQzOUtRNEFFd09LYVA3OFIzcmhucDRLZi1na1g3RVEwbWx2NmV2OUE1SVZEeEhpUjZ4Rm9BOUtMR01oM1F0M09tY3kwVTJsaWdTLWJDUjAxYTNCeVZieUNOMGFldVBTY0N4WU1nb0JwOWxnbEtNQVkyR2gzNWpLOHFKSzNmODB3NHM2YU9FR0E?oc=5"
+    }
    ]
   },
   {
@@ -3955,7 +4105,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55730",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55732",
@@ -3984,7 +4135,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55732",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55731",
@@ -4014,7 +4166,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55731",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55729",
@@ -4045,7 +4198,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55729",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55728",
@@ -4075,7 +4229,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55728",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55727",
@@ -4106,7 +4261,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55727",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55726",
@@ -4136,7 +4292,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55726",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55725",
@@ -4166,7 +4323,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55725",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55724",
@@ -4194,7 +4352,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55724",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55723",
@@ -4222,7 +4381,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55723",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55722",
@@ -4252,7 +4412,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55722",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55718",
@@ -4282,7 +4443,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55718",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55717",
@@ -4314,6 +4476,32 @@
    "proponenti_monitorati": [
     "giorgia-meloni",
     "adolfo-urso"
+   ],
+   "notizie": [
+    {
+     "titolo": "Ex Ilva, la Fiom boccia il decreto del Governo: «L'indotto rischia di essere spazzato via»",
+     "fonte": "Buonasera24",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEdXSmo1eFBfOEZqcWJsR1RFbk5hbUM0cmdhZVJUTkVoSzBTY0duX3R3ZjBEcmlXWmRtUmt4VTVCeFVRUE9ORm52eDFkbER3dlJNWGZTalk4OHhmQjdtUHFSemdrekhlZEktTUlST0dVUTYyRERPVHVjd280dkRSTE0xWFRIeDljcTloODNwemZGQlB1YTBKZ1dJLTFnQXlvLTM1RDBGd0xvYUdjTkpWYWFER3hiZUszRS1sUGhIQjFTVVpaYVFTTF9xODc3ZUZyUDNOQg?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva, i sindacati in Senato: “Servono misure straordinarie per i lavoratori”",
+     "fonte": "CosmoPolis",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmpqa2twNm16UkUxU1B0S2hYay1Id0hPMUExUDJ0dVQ2TG9oVDZlVWpDRDJrRFNpMll3UDEyQWZ1SnBkNlM3d0l5UzFsZjlPQ2tuQ0lzX29KQjJlRUpqS25wc1JXVmJSNDEyX1MxcWYtRHRObm1HQUoyN2hDTVY4OVhzU1FnMF9VS2pURFpKSGxGSzYydjJHR1B0bWVITnpOZ0ludmcydGxPWVNOS1U5Z01zOFIxN0EtYVZOWGZXa0l1cFJUS2NCQjBBODF3OWpRQzQya0U3SFk?oc=5"
+    },
+    {
+     "titolo": "Audizioni in Senato su decreto ex Ilva, indotto rischia di essere spazzato via: assenza di tutele, sindacati preoccupati",
+     "fonte": "TarantoToday",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQzJvTTBrWHFWcGIzUkpoYlRTVTBpQU1CYXh0ZHJKdG91dmNqTGdEa2ZUWE11YUFPR25QTUg3OFpIOGtMUzJxZ29Ld0dOY0RiX3NZelRTZ0NCZTAydWFIdG5ubEFNVWlS?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva a Taranto, allarme per le aziende dell’indotto: «Servono risorse immediate, il decreto va modificato",
+     "fonte": "La Gazzetta del Mezzogiorno",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    }
    ]
   },
   {
@@ -4348,6 +4536,32 @@
    "proponenti_monitorati": [
     "giorgia-meloni",
     "adolfo-urso"
+   ],
+   "notizie": [
+    {
+     "titolo": "Ex Ilva, la Fiom boccia il decreto del Governo: «L'indotto rischia di essere spazzato via»",
+     "fonte": "Buonasera24",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEdXSmo1eFBfOEZqcWJsR1RFbk5hbUM0cmdhZVJUTkVoSzBTY0duX3R3ZjBEcmlXWmRtUmt4VTVCeFVRUE9ORm52eDFkbER3dlJNWGZTalk4OHhmQjdtUHFSemdrekhlZEktTUlST0dVUTYyRERPVHVjd280dkRSTE0xWFRIeDljcTloODNwemZGQlB1YTBKZ1dJLTFnQXlvLTM1RDBGd0xvYUdjTkpWYWFER3hiZUszRS1sUGhIQjFTVVpaYVFTTF9xODc3ZUZyUDNOQg?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva, i sindacati in Senato: “Servono misure straordinarie per i lavoratori”",
+     "fonte": "CosmoPolis",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmpqa2twNm16UkUxU1B0S2hYay1Id0hPMUExUDJ0dVQ2TG9oVDZlVWpDRDJrRFNpMll3UDEyQWZ1SnBkNlM3d0l5UzFsZjlPQ2tuQ0lzX29KQjJlRUpqS25wc1JXVmJSNDEyX1MxcWYtRHRObm1HQUoyN2hDTVY4OVhzU1FnMF9VS2pURFpKSGxGSzYydjJHR1B0bWVITnpOZ0ludmcydGxPWVNOS1U5Z01zOFIxN0EtYVZOWGZXa0l1cFJUS2NCQjBBODF3OWpRQzQya0U3SFk?oc=5"
+    },
+    {
+     "titolo": "Audizioni in Senato su decreto ex Ilva, indotto rischia di essere spazzato via: assenza di tutele, sindacati preoccupati",
+     "fonte": "TarantoToday",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQzJvTTBrWHFWcGIzUkpoYlRTVTBpQU1CYXh0ZHJKdG91dmNqTGdEa2ZUWE11YUFPR25QTUg3OFpIOGtMUzJxZ29Ld0dOY0RiX3NZelRTZ0NCZTAydWFIdG5ubEFNVWlS?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva a Taranto, allarme per le aziende dell’indotto: «Servono risorse immediate, il decreto va modificato",
+     "fonte": "La Gazzetta del Mezzogiorno",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    }
    ]
   },
   {
@@ -4378,7 +4592,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55721",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55720",
@@ -4407,7 +4622,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55720",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   },
   {
    "id": "55719",
@@ -4437,7 +4653,8 @@
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55719",
    "prima": null,
-   "proponenti_monitorati": []
+   "proponenti_monitorati": [],
+   "notizie": []
   }
  ],
  "cdm": [
