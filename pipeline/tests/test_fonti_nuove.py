@@ -314,3 +314,32 @@ def test_agenda_pulisce_etichette():
     assert pulisci("Responsabilita ' professionale") == "Responsabilità professionale"
     assert pulisci("Reati contro l'  ordine e la sicurezza pubblica") == "Reati contro l'ordine e la sicurezza pubblica"
     assert pulisci("Ministero dell' interno") == "Ministero dell'interno"
+
+
+def test_agenda_notizie_serve_parola_distintiva(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [
+        {"titolo": "Relazione al Parlamento: sovraffollamento, salute e sicurezza nelle carceri", "fonte": "A", "data": "2026-10-27", "url": "1"},
+        {"titolo": "Piscine, in commissione la legge quadro sulla sicurezza", "fonte": "B", "data": "2026-10-27", "url": "2"},
+    ]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Legge quadro per la salute e la sicurezza nelle piscine", "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["2"]
+
+
+def test_agenda_notizie_coppia_di_parole(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Professioni sanitarie, la Camera approva il ddl delega", "fonte": "A", "data": "2026-10-27", "url": "1"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale",
+         "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["1"]
+
+
+def test_agenda_notizie_singolare_plurale(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Riforma dei commercialisti verso l'approvazione definitiva in Senato", "fonte": "A", "data": "2026-10-27", "url": "1"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista",
+         "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["1"]

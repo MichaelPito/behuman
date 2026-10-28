@@ -29,6 +29,7 @@ const gruppi = [
   { chiave: "ramo", titolo: "Dove", opzioni: [["Camera", "Camera", conta((r) => r.ramo === "Camera")], ["Senato", "Senato", conta((r) => r.ramo === "Senato")]] as [string, string, number][] },
   { chiave: "iniziativa", titolo: "Chi l'ha proposta", opzioni: Object.entries(INIZIATIVA).map(([k, l]) => [k, l, conta((r) => r.tipo_iniziativa === k)] as [string, string, number]) },
   { chiave: "monitorati", titolo: "Proposta da un politico monitorato", opzioni: [["si", "Sì", conta((r) => r.proponenti_monitorati.length > 0)], ["no", "No", conta((r) => r.proponenti_monitorati.length === 0)]] as [string, string, number][] },
+  { chiave: "giornali", titolo: "Sui giornali negli ultimi 7 giorni", opzioni: [["si", "Sì", conta((r) => (r.notizie?.length ?? 0) > 0)], ["no", "No", conta((r) => !(r.notizie?.length))]] as [string, string, number][] },
   { chiave: "tema", titolo: "Tema", opzioni: temiTop.map(([t, n]) => [slugT(t), t.length > 26 ? t.slice(0, 25).trimEnd() + "…" : t, n] as [string, string, number]) },
 ];
 const definitive = a.approvate.filter((v) => v.approvata?.definitiva);
@@ -148,7 +149,7 @@ const tot = a.conteggi;
       {righe.map((r) => (
         <li class="card riga" data-item data-testo={`${r.titolo} ${r.iniziativa ?? ""} ${r.temi.join(" ")} ${r.numero}`}
             data-f-tipo={r.tipo} data-f-ramo={r.ramo} data-f-iniziativa={r.tipo_iniziativa} data-f-monitorati={r.proponenti_monitorati.length ? "si" : "no"}
-            data-f-tema={r.temi.map(slugT).join(" ")}>
+            data-f-tema={r.temi.map(slugT).join(" ")} data-f-giornali={(r.notizie?.length ?? 0) > 0 ? "si" : "no"}>
           <div class="row" style="gap:6px">
             <span class="tiny mono muted">{dataIt(r.data)}</span>
             <span class:list={["pill", r.tipo === "nuova" ? "sun" : "sky"]}>{r.tipo === "nuova" ? "Nuova proposta" : r.stato}</span>
@@ -160,6 +161,12 @@ const tot = a.conteggi;
             {r.proponenti_monitorati.length > 0 && <> · {r.proponenti_monitorati.map((s, i) => <>{i > 0 && ", "}<a href={u(`/politici/${s}/`)}>{nomi[s] ?? s}</a></>)}</>}
             {r.commissione && r.tipo === "commissione" && <> · {r.commissione}</>}
           </span>
+          {(r.notizie?.length ?? 0) > 0 && (
+            <details class="giornali">
+              <summary class="small">Cosa scrivono i giornali: {r.notizie!.length} {r.notizie!.length === 1 ? "titolo" : "titoli"} negli ultimi 7 giorni</summary>
+              <ul>{r.notizie!.map((n) => <li class="small"><a href={n.url} target="_blank" rel="noopener">{n.titolo}</a> <span class="tiny muted">{n.fonte} · {dataIt(n.data)}</span></li>)}</ul>
+            </details>
+          )}
         </li>
       ))}
     </ul>
@@ -193,4 +200,6 @@ const tot = a.conteggi;
   .riga .tit { font-weight: 600; color: var(--ink); text-decoration: none; }
   .riga .tit:hover { text-decoration: underline; }
   .altri { margin-top: 14px; }
+  .giornali summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  .giornali ul { margin: 8px 0 0; padding-left: 16px; display: grid; gap: 6px; }
 </style>

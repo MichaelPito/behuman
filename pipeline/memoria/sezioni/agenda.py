@@ -8,7 +8,7 @@ Ogni giorno, da fonti ufficiali:
 - testi su cui le commissioni hanno lavorato negli ultimi giorni;
 - nuove proposte di legge presentate, con i politici monitorati tra i proponenti;
 - provvedimenti approvati dal Consiglio dei ministri nell'ultimo mese (descrizione del Governo);
-- per i testi principali, i titoli dei giornali degli ultimi giorni (Google News), come segnale
+- per decreti, testi in Aula e testi in commissione, i titoli dei giornali degli ultimi giorni (Google News), come segnale
   di quanto se ne parla: titolo, testata, data e link.
 
 Scrive data/agenda.json. Se una fonte non risponde restano i dati del giorno prima.
@@ -29,7 +29,8 @@ from ..fonti import notizie as notmod
 log = logging.getLogger(__name__)
 
 GIORNI = 14  # finestra per approvazioni, commissioni e nuove proposte
-MAX_NOTIZIE = 24  # ricerche di notizie al giorno (una per testo principale)
+MAX_NOTIZIE = 24  # ricerche di notizie al giorno su decreti e testi in Aula (una per testo)
+MAX_NOTIZIE_COMMISSIONE = 30  # e sui testi in commissione: prima quelli del Governo e dei politici monitorati
 APPROVATI = {"approvato", "appr. definit. Legge", "appr. def. non pubbl", "appr. in t.u."}
 COMMISSIONE = {"esame in comm.", "concluso l'esame", "in relazione"}
 
@@ -74,7 +75,13 @@ def raggruppa_abbinati(voci: list[dict]) -> list[dict]:
 
 VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "nonché", "ulteriori", "alcune", "fini", "termini", "istituzione",
          "modifiche", "articolo", "articoli", "codice", "testo", "unico", "decreto", "legislativo", "concernenti", "riguardanti", "sviluppo",
-         "garantire", "rafforzamento", "sostegno", "tutela", "prevenzione", "lotta", "riconoscimento", "valorizzazione"}
+         "garantire", "rafforzamento", "sostegno", "tutela", "prevenzione", "lotta", "riconoscimento", "valorizzazione",
+         "delega", "riforma", "riordino", "disciplina", "ordinamento", "legislazione", "quadro", "adeguamento", "norme", "nazionale",
+         "generale", "capacità", "funzionamento", "organizzazione", "revisione", "semplificazione", "attuazione", "promozione", "favore"}
+# parole di tema molto comuni: da sole non bastano a dire che un titolo parla di quel testo
+COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", "scuola", "giustizia", "famiglia", "famiglie", "imprese",
+          "ambiente", "energia", "economia", "sociale", "sociali", "pubblica", "pubblico", "pubbliche", "cittadini", "giovani", "donne",
+          "territorio", "servizi", "sistema", "regioni", "comuni", "stato", "persone", "lavoratori", "professioni", "polizia"}
 ELISE = {"dell", "dall", "nell", "sull", "dello", "della", "delle", "degli", "alla", "alle", "agli", "nella", "nelle", "negli", "sulla", "sulle", "quest"}
 # il titolo deve parlare di un atto del Parlamento o del Governo, non solo del tema
 ATTO = re.compile(r"\b(ddl|dl|d\.l\.|decreto|legge|proposta|camera|senato|parlament\w*|aula|emendament\w*|approvat\w*|commission\w*|governo|testo)\b", re.I)
@@ -88,6 +95,22 @@ def parole_ricerca(v: dict) -> list[str]:
     return list(dict.fromkeys(sigle + parole))[:3]
 
 
+def radice(w: str) -> str:
+    """Parola senza vocali finali: «commercialista» e «commercialisti» → «commercialist»."""
+    return re.sub(r"[aeiouàèéìòù]+$", "", w) if len(w) > 4 else w
+
+
+def radici(testo: str) -> set[str]:
+    return {radice(w) for w in re.findall(r"[a-zàèéìòù]+", testo.lower())}
+
+
+def coppie_testo(oggetto: str) -> set[str]:
+    """Coppie di parole significative attaccate nel titolo del testo: «professioni sanitarie», «sicurezza pubblica»."""
+    w = re.findall(r"[a-zàèéìòù]+", oggetto.lower())
+    ok = lambda x: len(x) > 3 and x not in cdmmod.GENERICHE and x not in VUOTE and x not in ELISE  # noqa: E731
+    return {f"{a} {b}" for a, b in zip(w, w[1:]) if ok(a) and ok(b)}
+
+
 def notizie_su(v: dict) -> list[dict]:
     """Titoli degli ultimi 7 giorni che parlano del testo: ricerca per nome breve («decreto scuola»)
     o per parole dell'oggetto. Con le parole si tengono solo i titoli che ne contengono almeno due
@@ -95,16 +118,27 @@ def notizie_su(v: dict) -> list[dict]:
     parole = parole_ricerca(v)
     if v.get("nome_breve"):
         trovate = notmod.google_news(v["nome_breve"], giorni=7)
-        chiavi = {w for w in re.findall(r"[a-zàèéìòù]+", v["nome_breve"].lower()) if w not in cdmmod.GENERICHE and w not in VUOTE and len(w) > 3}
+        chiavi = {radice(w) for w in re.findall(r"[a-zàèéìòù]+", v["nome_breve"].lower()) if w not in cdmmod.GENERICHE and w not in VUOTE and len(w) > 3}
         tenute = []
         for n in trovate:
-            comuni = chiavi & set(re.findall(r"[a-zàèéìòù]+", n["titolo"].lower()))
+            comuni = chiavi & radici(n["titolo"])
             if len(comuni) >= min(2, len(chiavi)) or (comuni and ATTO.search(n["titolo"])):
                 tenute.append(n)
     elif len(parole) >= 2:
         trovate = notmod.google_news_libera(("decreto " if v["conversione"] else "") + " ".join(parole), giorni=7)
-        chiavi = set(parole)
-        tenute = [n for n in trovate if len(chiavi & set(re.findall(r"[a-zàèéìòù]+", n["titolo"].lower()))) >= 2 and ATTO.search(n["titolo"])]
+        chiavi = {radice(w): w for w in parole}
+        coppie = coppie_testo(v["oggetto"])
+        tenute = []
+        for n in trovate:
+            t = n["titolo"].lower()
+            comuni = {chiavi[r] for r in radici(t) if r in chiavi}
+            # almeno due parole del testo (anche al plurale), di cui una distintiva («piscine», non solo «salute» e
+            # «sicurezza»), oppure due parole comuni che nel testo stanno attaccate («professioni sanitarie»)
+            distintivo = bool(comuni - COMUNI) or any(c in t for c in coppie)
+            # una sola parola basta se è lunga e specifica («commercialisti»): la ricerca ha già chiesto tutte le parole
+            sola = len(comuni) == 1 and all(len(w) >= 9 and w not in COMUNI for w in comuni)
+            if (len(comuni) >= 2 and distintivo or sola) and ATTO.search(n["titolo"]):
+                tenute.append(n)
     else:
         return []
     visti, per_testata, out = set(), {}, []
@@ -170,12 +204,16 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         best = max(((cdmmod.somiglianza(v["titolo"], c["titolo"]), c) for c in cdm if "decreto-legge" in c["tipo"]), key=lambda x: x[0], default=(0, None))
         v["descrizione_governo"] = best[1] if best[0] >= 0.65 else None
 
-    # titoli dei giornali sui testi principali (decreti e testi in Aula)
-    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti") for x in prec.get(sez, [])}
+    # titoli dei giornali: decreti, testi in Aula e testi in commissione
+    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "commissione") for x in prec.get(sez, [])}
     # solo testi con attività recente: per quelli fermi da mesi i titoli sarebbero su altro
     recente = (oggi - dt.timedelta(days=60)).isoformat()
     principali = (decreti + [g for g in aula if g["data_stato"] >= recente])[:MAX_NOTIZIE]
-    for v in decreti + aula:
+    # in commissione i testi sono tanti: prima quelli del Governo, poi quelli dei politici monitorati, poi i più recenti
+    in_comm = sorted(commissione, key=lambda g: g["data_stato"], reverse=True)
+    in_comm = sorted(in_comm, key=lambda g: (g["tipo_iniziativa"] != "governo", not g["proponenti_monitorati"]))[:MAX_NOTIZIE_COMMISSIONE]
+    principali += in_comm
+    for v in decreti + aula + commissione:
         v["notizie"] = []
     errori_news = 0
     for v in principali:
