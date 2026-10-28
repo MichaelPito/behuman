@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-28T13:14:01+00:00",
+ "aggiornato_il": "2026-10-28T13:39:41+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -5897,6 +5897,36 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5",
+     "data": "2026-10-28",
+     "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
+     "testate": [
+      "Il Foglio",
+      "L'Identità"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
+       "fonte": "Il Foglio",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5"
+      },
+      {
+       "titolo": "La trappola di Vannacci che Salvini deve disinnescare",
+       "fonte": "L'Identità",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pTkhScV9RLUtqa1F0eHlKdDVBSWY3azNfR0lTZjYzaWFTYWhDSzBwRXpGaDl6Y0ZxUXp2TXI0V0Q3XzFlZEZ1WjFRQWg0X1B4VUVMVkdTVDhja3NqSVBoUjgwQ09yTFNUTlcwR1FwVzZaQzQ?oc=5"
+      }
+     ],
+     "polemica": true,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGJ1STdrcGhwdlI1VnZXTjRpNk5qQnUyRHFrcWlhMTVzSVJMaklzb2d5TEN4ZUsyRGY5ajdlYTEtTlhkQWQ3MUtBbUdqd051RzJ6aEhNbFBVVWZkX3ZuX1JKTWY5QkUzelFJdFhYdGJraFhKeW4wMG1mUDR5c3BDdVN3LVhxZFIy?oc=5",
      "data": "2026-10-28",
      "titolo": "Grandi manovre nella Lega. Salvini tende la mano allo sfidante Garavaglia: “Entri nella segreteria”",
@@ -5982,29 +6012,6 @@
       }
      ],
      "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5",
-     "data": "2026-10-28",
-     "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
-     "testate": [
-      "Il Foglio"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
-       "fonte": "Il Foglio",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5"
-      }
-     ],
-     "polemica": true,
      "social": false,
      "virale": false,
      "citazioni": [],
@@ -13480,12 +13487,18 @@
       "Geagency",
       "Il Difforme",
       "Il Sole 24 ORE",
+      "Italpress",
+      "L'eco del sud",
+      "LA7",
       "La Nazione",
       "LaPresse",
+      "Mantovauno.it",
+      "Padovanews",
+      "Radio Lombardia",
       "Stampa Parlamento",
-      "Zazoom Social News"
+      "trapanisi.it"
      ],
-     "n_testate": 9,
+     "n_testate": 15,
      "articoli": [
       {
        "titolo": "Manovra: Giorgetti, credo in Consiglio dei ministri domani mattina",
@@ -13543,7 +13556,7 @@
       "La manovra in consiglio dei ministri domani, fatti progressi con l'Ue",
       "Non faremo l'impossibile",
       "Il Rating dell'Italia? Sarà confermato, il Paese percepito come stabile",
-      "Risposte a giovani e ceto medio"
+      "Progressi con Commissione Ue"
      ],
      "verifiche": [],
      "confronti": []
@@ -30295,86 +30308,6 @@
      "confronti": []
     },
     {
-     "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQdIByAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQQ?oc=5",
-     "data": "2026-10-24",
-     "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
-     "testate": [
-      "AGI",
-      "ANSA",
-      "Adnkronos",
-      "Askanews",
-      "DiariodelWeb.it",
-      "Gazzetta del Sud",
-      "Il Foglio",
-      "Il Giornale d'Italia",
-      "Lo Strillone",
-      "Ore12",
-      "POP - Il Giornale Popolare",
-      "Zazoom Social News",
-      "https://www.lacapitalenews.it/",
-      "la Repubblica"
-     ],
-     "n_testate": 14,
-     "articoli": [
-      {
-       "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
-       "fonte": "la Repubblica",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQdIByAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQQ?oc=5"
-      },
-      {
-       "titolo": "Telefonata Schlein-Conte-Bonelli-Fratoianni: il tavolo sul programma parte la prossima settimana",
-       "fonte": "Askanews",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTQ1VmJfZlBodXJWM1hHTVp1dWFqY0x5c1pYb2hIeXNUZ2hLYUVaV2c1TkZSeVBPaW5ueHY1cEdMUzFEWEVmcGE0cnVTaFZWZkFORjJob0pTYnVTeTFrY2VDN2VSZWRKMlZUajBnRWlCenJ4WkxkWENUcVFFWTUzYXR5Y3o0M29IUWd4eEM2aThsMGdJRGY5UHotWTM3TWNybnFNY19EZmliUmhtVWgzZXNqX2lSQnNxWGNqdUFCSkVVbEl5NEE?oc=5"
-      },
-      {
-       "titolo": "Bonelli, da Schlein e Conte disponibilità a un incontro in settimana",
-       "fonte": "ANSA",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa2xEdjlSNUVOT1NpRmxTcVpURTByTG80WW9kcUFJczl0N2VxV1Z1VHAxN1FKT3U3T2R0UzdvcEt0YTZRczVIb0d4YjZ0ZF95MjB2akJXSTc4YjhQRHhVTTVaUDNtRUFjNXYzcjBfN045TFB6Q3JQek41T3NMOFdJakY2OUh0MFVoWC1WWkNoQnR1c1E3NkktMmxJZ3RES0VZUzFKU20yNW1JVDJnZXV4YTM2dXdNdEFOQ2pBNG9LWGxXVVNsNUZ4Q01VNVM5c2FwMlpRT3pRSGljREFIRnZtbGx6RzZyRHFGLWtaQUR6NWVnblh00gH6AUFVX3lxTE9RYS1Jel8wbTB3aXM5UkM1RTFkc29MSllxSVkySTl3aldMeEtpb05PM3IxMHR2NzBQVHlROXhwV3JXc0RhZXc0bUVqNW9NdmtiMGY1WkN3N2w5X2J2Q3UzS3FEMmpPS1JqTkJNZUxNa09YVEtKU2RfZVl0YVZ1Q2Zyc3h0S3hSSXhFbGdHQklUQ1hDMEs4UUJzQUZqZThRR3N5bC13SEdtS0JpS2lfS1ZNZEZEb1JWalJxM3ZxOEozR0locE84MnFBU1FRRFduako5V2YtN3RHeW1xVEkzcWN3b1FvVmcwNGgwVlM4UWp6NVRLUDh2bmgxWmc?oc=5"
-      },
-      {
-       "titolo": "Campo largo, Conte e Bonelli hanno fretta. Il calendario Pd: \"Primarie a inizio 2027\"",
-       "fonte": "Adnkronos",
-       "data": "2026-10-25",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkVibU9rZTB1Si0zbElXZklXTHRCcFZ2Tm1uSm9SMUo5c0pEYTd1Mkk2a3hqWWVIc2RpN1FqUElhRkx1Q0c0LWF5b0VHeUdCRnlSaWhFZnEzSUdSdzBYcHY5RldkSEFIdXJKVG1pVkIybTBSU3lrZ09lRE1xRlJCQjMwWGNXRk5RV1VJd1c4S3J4UnUwYk9qQlpCbUsxdGow?oc=5"
-      },
-      {
-       "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
-       "fonte": "la Repubblica",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkxhZENBWTNfNW1Jb2tETnlfVi1EcFFPbGs1S1ZRT3pEeENBclhIMTc4RUh0bnFIQVFXNFZYaEFwQTdFYTFnT3hjSkt2dVZ6SW9wUlpsalE5anVDTlBOTlIzYW9XRHlKWVowRXptNDVDb0NyUk9RdTAyckRmaGpxWVVxUlNYN2o3NnZYWXZxSC1ZYlQ1bl9KRDhlcE05VW1OWjB4X0NKVjZsX25vMk9UMlg0LV9tMVpoWUR1OFJzbUlsREXSAcgBQVVfeXFMT1dIQXJaLXQyOUhqa1p0V0htQVZzakpqSjJsUGE2RkJMLTJYMGxkNGM3dmJJQW5qcExFZktsOU1XQnZPcTJlMUFLY2gzVVdrYXFLQjNuZ3JGUVhOT05NZnAtMHZ6bmFicmxzcjU1OFY0Vy0zeUFqSkxyUEtjaGQwVHJ4QUhmMExiRHlMRy01QXk1VXJwanpBWWV2R3NDc0JfWG95UzJXdzRzOTZDeGVhME1wS2EwelpxcE1mT0dRcjE2YlhjR2duWkE?oc=5"
-      },
-      {
-       "titolo": "Sondaggi politici, coalizioni separate da 0,2 punti: Conte davanti a Schlein per la guida del campo largo",
-       "fonte": "Lo Strillone",
-       "data": "2026-10-26",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWm1iMlY1T1JQUElnal9KZmdmUkRuaFZaZGJxc3BqY01QejJXUEhqa0NXMDBSaGZJdnE3bUVKNUZELUVCRDB5XzNRYk1GTk41SFYtMkVfcExZcm9uR3g4QXRyWTdYbTFTbnFsZURaSUQ2bC1JN01MeHQ0Qm1zYndLYndrbWMxMWF5ME1BbjdES1hBNTFUeXhCTkYxbnF1MVdIazN6VWNWeVUtUy1UTThHUTFjbHZ3dWJuZ3NVS0FhUk8xWXJYQ19CV0poMzFSSU5ud3JHdDI3VWVDWVRObDZRQmY1OHM0NXVaZ3Q3Xw?oc=5"
-      },
-      {
-       "titolo": "Conte pronto per il tavolo del centrosinistra, Pd cauto",
-       "fonte": "AGI",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmhLWURLX3ZjZURfUm56R20xRFFnUW5kZFFiZWtPNmprakxlaWNpSEhqcFVCSFpHZkVvNVZacjh2N0tiMFVJeG1fSGJQOGl3VXBGbjVNT0ZuazlnbVY3ejBScVpIUG45OUlxX25xREZNVlhsUHEwTVFaakg2OXctbjdVa2RNZDR0Mk5ieW5zZ3hUZ9IBlwFBVV95cUxOcXEtREdNaXd4SjRkQnYycy02STN0WUhuRjR5QzRPZkJFZTltd2RaWnVJV2gyUWRxeTFreDlhSEpEWXJHbHhDMks5bkJYa2NCQW8zR0VPQ0dkR09FQnpacjRwSTlONVZVTlVnQnZiTElaSnJfeWRIcUE0NkRpMDk5MGRHR0N1X1RfQkZSNFZTQ3I2eThscDRR?oc=5"
-      },
-      {
-       "titolo": "Centrosinistra: Conte, candidati a primarie? Faremo regole, chi le rispetta partecipa",
-       "fonte": "Ore12",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU21aWjlyZDZCaDlTOWVxMWFJVU4takJoTlVfcVA1dWFoWXhmQ09ZY1laUDluM2Y0UFYwSFpfTk1RdVRVaVIwUjB2MndWZXdHUTA1QzRJVFBsZXlCQ2pubWs5dnJjcW8yQnhjVkR6NEJoM3IzajNBa2RCa09WeHFPY2RfWjRJRVNXamJ4TkZ3OUEwdVdUb2drSzJLOGVxanpDcTdQVWZVOA?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": true,
-     "citazioni": [
-      "Presto e con più candidati"
-     ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGJuZkI1SWJJdHhSVWNDLVNnMGtEMlZwM1psR0Yyb1lvcWNqYzVtLXlwNHFMY3lKYWN5R1QtZEZ5amJkd18xMG1CVVZzbERaNmd3akhVZVdSX0pIM3JzWW5zTW15SnJobm9Pdmo0Z0tuUldFQWFOWHRJTGVJc1NKMVlBMUVFS18xWlZjSFE3NzBfcm55Qm5QVFhINUFYM1VKeXEyZjBxSQ?oc=5",
      "data": "2026-10-24",
      "titolo": "Lo psicodramma delle primarie. Nubi nere su Elly e Conte accelera",
@@ -30448,6 +30381,78 @@
       "Il governo raccoglie i propri fallimenti, nessuna lite con Schlein",
       "Tutti faranno parte di una squadra, non saranno miei avversari"
      ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQdIByAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQQ?oc=5",
+     "data": "2026-10-24",
+     "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
+     "testate": [
+      "AGI",
+      "ANSA",
+      "Adnkronos",
+      "Askanews",
+      "Lo Strillone",
+      "Ore12",
+      "Zazoom Social News",
+      "la Repubblica"
+     ],
+     "n_testate": 8,
+     "articoli": [
+      {
+       "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
+       "fonte": "la Repubblica",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQdIByAFBVV95cUxPV0hBclotdDI5SGprWnRXSG1BVnNqSmpKMmxQYTZGQkwtMlgwbGQ0Yzd2YklBbmpwTEVmS2w5TVdCdk9xMmUxQUtjaDNVV2thcUtCM25nckZRWE5PTk1mcC0wdnpuYWJybHNyNTU4VjRXLTN5QWpKTHJQS2NoZDBUcnhBSGYwTGJEeUxHLTVBeTVVcnBqekFZZXZHc0NzQl9Yb3lTMld3NHM5NkN4ZWEwTXBLYTB6WnFwTWZPR1FyMTZiWGNHZ25aQQ?oc=5"
+      },
+      {
+       "titolo": "Telefonata Schlein-Conte-Bonelli-Fratoianni: il tavolo sul programma parte la prossima settimana",
+       "fonte": "Askanews",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTQ1VmJfZlBodXJWM1hHTVp1dWFqY0x5c1pYb2hIeXNUZ2hLYUVaV2c1TkZSeVBPaW5ueHY1cEdMUzFEWEVmcGE0cnVTaFZWZkFORjJob0pTYnVTeTFrY2VDN2VSZWRKMlZUajBnRWlCenJ4WkxkWENUcVFFWTUzYXR5Y3o0M29IUWd4eEM2aThsMGdJRGY5UHotWTM3TWNybnFNY19EZmliUmhtVWgzZXNqX2lSQnNxWGNqdUFCSkVVbEl5NEE?oc=5"
+      },
+      {
+       "titolo": "Bonelli, da Schlein e Conte disponibilità a un incontro in settimana",
+       "fonte": "ANSA",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa2xEdjlSNUVOT1NpRmxTcVpURTByTG80WW9kcUFJczl0N2VxV1Z1VHAxN1FKT3U3T2R0UzdvcEt0YTZRczVIb0d4YjZ0ZF95MjB2akJXSTc4YjhQRHhVTTVaUDNtRUFjNXYzcjBfN045TFB6Q3JQek41T3NMOFdJakY2OUh0MFVoWC1WWkNoQnR1c1E3NkktMmxJZ3RES0VZUzFKU20yNW1JVDJnZXV4YTM2dXdNdEFOQ2pBNG9LWGxXVVNsNUZ4Q01VNVM5c2FwMlpRT3pRSGljREFIRnZtbGx6RzZyRHFGLWtaQUR6NWVnblh00gH6AUFVX3lxTE9RYS1Jel8wbTB3aXM5UkM1RTFkc29MSllxSVkySTl3aldMeEtpb05PM3IxMHR2NzBQVHlROXhwV3JXc0RhZXc0bUVqNW9NdmtiMGY1WkN3N2w5X2J2Q3UzS3FEMmpPS1JqTkJNZUxNa09YVEtKU2RfZVl0YVZ1Q2Zyc3h0S3hSSXhFbGdHQklUQ1hDMEs4UUJzQUZqZThRR3N5bC13SEdtS0JpS2lfS1ZNZEZEb1JWalJxM3ZxOEozR0locE84MnFBU1FRRFduako5V2YtN3RHeW1xVEkzcWN3b1FvVmcwNGgwVlM4UWp6NVRLUDh2bmgxWmc?oc=5"
+      },
+      {
+       "titolo": "Campo largo, Conte e Bonelli hanno fretta. Il calendario Pd: \"Primarie a inizio 2027\"",
+       "fonte": "Adnkronos",
+       "data": "2026-10-25",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkVibU9rZTB1Si0zbElXZklXTHRCcFZ2Tm1uSm9SMUo5c0pEYTd1Mkk2a3hqWWVIc2RpN1FqUElhRkx1Q0c0LWF5b0VHeUdCRnlSaWhFZnEzSUdSdzBYcHY5RldkSEFIdXJKVG1pVkIybTBSU3lrZ09lRE1xRlJCQjMwWGNXRk5RV1VJd1c4S3J4UnUwYk9qQlpCbUsxdGow?oc=5"
+      },
+      {
+       "titolo": "Campo largo, via al tavolo. Schlein, Conte e Avs si vedranno in settimana",
+       "fonte": "la Repubblica",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkxhZENBWTNfNW1Jb2tETnlfVi1EcFFPbGs1S1ZRT3pEeENBclhIMTc4RUh0bnFIQVFXNFZYaEFwQTdFYTFnT3hjSkt2dVZ6SW9wUlpsalE5anVDTlBOTlIzYW9XRHlKWVowRXptNDVDb0NyUk9RdTAyckRmaGpxWVVxUlNYN2o3NnZYWXZxSC1ZYlQ1bl9KRDhlcE05VW1OWjB4X0NKVjZsX25vMk9UMlg0LV9tMVpoWUR1OFJzbUlsREXSAcgBQVVfeXFMT1dIQXJaLXQyOUhqa1p0V0htQVZzakpqSjJsUGE2RkJMLTJYMGxkNGM3dmJJQW5qcExFZktsOU1XQnZPcTJlMUFLY2gzVVdrYXFLQjNuZ3JGUVhOT05NZnAtMHZ6bmFicmxzcjU1OFY0Vy0zeUFqSkxyUEtjaGQwVHJ4QUhmMExiRHlMRy01QXk1VXJwanpBWWV2R3NDc0JfWG95UzJXdzRzOTZDeGVhME1wS2EwelpxcE1mT0dRcjE2YlhjR2duWkE?oc=5"
+      },
+      {
+       "titolo": "Sondaggi politici, coalizioni separate da 0,2 punti: Conte davanti a Schlein per la guida del campo largo",
+       "fonte": "Lo Strillone",
+       "data": "2026-10-26",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWm1iMlY1T1JQUElnal9KZmdmUkRuaFZaZGJxc3BqY01QejJXUEhqa0NXMDBSaGZJdnE3bUVKNUZELUVCRDB5XzNRYk1GTk41SFYtMkVfcExZcm9uR3g4QXRyWTdYbTFTbnFsZURaSUQ2bC1JN01MeHQ0Qm1zYndLYndrbWMxMWF5ME1BbjdES1hBNTFUeXhCTkYxbnF1MVdIazN6VWNWeVUtUy1UTThHUTFjbHZ3dWJuZ3NVS0FhUk8xWXJYQ19CV0poMzFSSU5ud3JHdDI3VWVDWVRObDZRQmY1OHM0NXVaZ3Q3Xw?oc=5"
+      },
+      {
+       "titolo": "Conte pronto per il tavolo del centrosinistra, Pd cauto",
+       "fonte": "AGI",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmhLWURLX3ZjZURfUm56R20xRFFnUW5kZFFiZWtPNmprakxlaWNpSEhqcFVCSFpHZkVvNVZacjh2N0tiMFVJeG1fSGJQOGl3VXBGbjVNT0ZuazlnbVY3ejBScVpIUG45OUlxX25xREZNVlhsUHEwTVFaakg2OXctbjdVa2RNZDR0Mk5ieW5zZ3hUZ9IBlwFBVV95cUxOcXEtREdNaXd4SjRkQnYycy02STN0WUhuRjR5QzRPZkJFZTltd2RaWnVJV2gyUWRxeTFreDlhSEpEWXJHbHhDMks5bkJYa2NCQW8zR0VPQ0dkR09FQnpacjRwSTlONVZVTlVnQnZiTElaSnJfeWRIcUE0NkRpMDk5MGRHR0N1X1RfQkZSNFZTQ3I2eThscDRR?oc=5"
+      },
+      {
+       "titolo": "Centrosinistra: Conte, candidati a primarie? Faremo regole, chi le rispetta partecipa",
+       "fonte": "Ore12",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU21aWjlyZDZCaDlTOWVxMWFJVU4takJoTlVfcVA1dWFoWXhmQ09ZY1laUDluM2Y0UFYwSFpfTk1RdVRVaVIwUjB2MndWZXdHUTA1QzRJVFBsZXlCQ2pubWs5dnJjcW8yQnhjVkR6NEJoM3IzajNBa2RCa09WeHFPY2RfWjRJRVNXamJ4TkZ3OUEwdVdUb2drSzJLOGVxanpDcTdQVWZVOA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
      "verifiche": [],
      "confronti": []
     },
@@ -32496,7 +32501,7 @@
     "polemiche": 10,
     "polemiche_social": 0,
     "virali": 23,
-    "citazioni": 44,
+    "citazioni": 43,
     "giorni": 45
    }
   },
@@ -34928,6 +34933,42 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5",
+     "data": "2026-10-27",
+     "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
+     "testate": [
+      "BsNews.it",
+      "ivl24.it"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
+       "fonte": "BsNews.it",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5"
+      },
+      {
+       "titolo": "Esposto di Calenda contro A2A, il centrodestra chiede a Castelletti di intervenire",
+       "fonte": "BsNews.it",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3N1LWd6Z1pxZkJ3bE5GMnRMQ0VTUWR6UWZOeEY3ckk3elVqZ2E3bzVzWjlac3lBbjh3aEI1cEpzRHR5X3FQaHcyZ0pKU3BnbkEwWThzbTNtTWY3Z1hSRW02bENqcjJtZGplbmI4X0l3N1VoOGU5MGVMbE80Q21OMG5iSVFFU1FGMDBLRGl5cVlHS2V2bUx1bm56MkJxRld4S2RmWnRDZTA1Nm11WW8weNIBuAFBVV95cUxPSzJTSWJDWF9heDBPcUNocEhoZ2tVNXR4QV8wWUJjZk9GMi1MS2E0SWg3YUVIVElUN2xVQ3pvcTRzMWhfNzBCTHBHdUZpU1BfaXBfWm9MUjVWMG9SR2N4aVZHNnZMbTBrNW1GM01IREtqckpCSkhDVmN0UW1OLUl1UDdfVVBURHlJWVY4ZmF2OTBCbWkwVlE3WWdiWW5vYlZxb0ZENlZqNEt4c2JnSGpHMmJyMjNMdGZP?oc=5"
+      },
+      {
+       "titolo": "Basilicata, scontro politico dopo le parole di Calenda: FdI difende Bardi, Azione replica a Napoli. Il PSI attacca Pittella",
+       "fonte": "ivl24.it",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDdWTU9KNDJOVjllbV9aOUllay0xZWNieDl5eldSNkVQeEZnaEdtNjNGUjRSXzZpQk1NdlZHX2pOZFM4aWR2d1kxNllZLTAtcV9vMzkzR2JUajZySm9TM0pOZmpTaldkSFRZTTI5ZlM0Mm9ONldVczBFVlE0VkhVLXZiazFOeVdBTDhMcmNBbjFzUVVzQnBxcTBfMGtydWlRWUxRcFVLQkpXTFhaQVpvTXVxckpsMTMyY3NGbGc1Y3cxQzlpZzZoeTJudUdmRTRqN004?oc=5"
+      }
+     ],
+     "polemica": true,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObklCTUkybUM1YWU1SHAzejVxLU1HM2ZveFlLbWRoUDFGOVdQT1BJSUhVdkZ2T19fQkFqUFEyR1dzRjdwdlhfMGxIcS1GZmRfZ3EyS3ZicHZId3N3cFhVSG9oUkYtUHUwbmJwdE96b2NTZkp3dGVOTVQzNTF4QVVTclVPeEViWjE3NnlmTGJLam82MnA3dThMNU85aW9lZGEycGNMVlJtcVXSAa4BQVVfeXFMTVVDZjkyWEZ0WHFRSnd1TGhZdFdleGNiVDRkSWhIaE1VZEt4enV1NDV0eUJmcHViVXM5T0RVWk1XanZSOGt4OVZ6UkNhMXh4Tk1ldnYwckFyOVlBVFZMRVdERThBWkdpN21STjBPUVRvVDdyRUhrQlNqVHMyblpvaVRtWEl1Vmh5cWVScllxN05CaDJvSzF4SEZNeFBMdnF6Mkl2TDJDUlpXU3lKWDJR?oc=5",
      "data": "2026-10-27",
      "titolo": "“Scudo democratico”, prove di intesa Calenda-FdI-FI",
@@ -34987,35 +35028,6 @@
        "fonte": "Radio Bruno Brescia",
        "data": "2026-10-27",
        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSDlPdzg0bmJXYi1XM3RVdjlpdkNQOXBkaUxqcWMtLVlINXh3NU4tVDJWUkNxZkd0T3pEdHNjcWM1R0k4d3pZZzZoUEdpeGsxRmpneFR4WThPUnJnVXVUUFJTN29wZ05rajVmMXNWUC1VVS04VmZVakRqaUJpbjlsWEY4WWx2SmdRMkR6T292UGxvdGNkc25reDA4SkdtRmRaYklOeGo1Q2N6ZVBJZmY0Z0NZdkVfaG52TGRjSlNueHZuelJ6aGlwQTBucnZaaHRxdzdkVGxTT0lycklCY0N3UjVxWWZBTFRsQ0lvR3Q3el9WLTNFNWppSHVBMDU?oc=5"
-      }
-     ],
-     "polemica": true,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5",
-     "data": "2026-10-27",
-     "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
-     "testate": [
-      "BsNews.it"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
-       "fonte": "BsNews.it",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5"
-      },
-      {
-       "titolo": "Esposto di Calenda contro A2A, il centrodestra chiede a Castelletti di intervenire",
-       "fonte": "BsNews.it",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3N1LWd6Z1pxZkJ3bE5GMnRMQ0VTUWR6UWZOeEY3ckk3elVqZ2E3bzVzWjlac3lBbjh3aEI1cEpzRHR5X3FQaHcyZ0pKU3BnbkEwWThzbTNtTWY3Z1hSRW02bENqcjJtZGplbmI4X0l3N1VoOGU5MGVMbE80Q21OMG5iSVFFU1FGMDBLRGl5cVlHS2V2bUx1bm56MkJxRld4S2RmWnRDZTA1Nm11WW8weNIBuAFBVV95cUxPSzJTSWJDWF9heDBPcUNocEhoZ2tVNXR4QV8wWUJjZk9GMi1MS2E0SWg3YUVIVElUN2xVQ3pvcTRzMWhfNzBCTHBHdUZpU1BfaXBfWm9MUjVWMG9SR2N4aVZHNnZMbTBrNW1GM01IREtqckpCSkhDVmN0UW1OLUl1UDdfVVBURHlJWVY4ZmF2OTBCbWkwVlE3WWdiWW5vYlZxb0ZENlZqNEt4c2JnSGpHMmJyMjNMdGZP?oc=5"
       }
      ],
      "polemica": true,
@@ -39438,6 +39450,38 @@
    "nome": "Matteo Salvini"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5",
+   "data": "2026-10-28",
+   "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
+   "testate": [
+    "Il Foglio",
+    "L'Identità"
+   ],
+   "n_testate": 2,
+   "articoli": [
+    {
+     "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
+     "fonte": "Il Foglio",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5"
+    },
+    {
+     "titolo": "La trappola di Vannacci che Salvini deve disinnescare",
+     "fonte": "L'Identità",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pTkhScV9RLUtqa1F0eHlKdDVBSWY3azNfR0lTZjYzaWFTYWhDSzBwRXpGaDl6Y0ZxUXp2TXI0V0Q3XzFlZEZ1WjFRQWg0X1B4VUVMVkdTVDhja3NqSVBoUjgwQ09yTFNUTlcwR1FwVzZaQzQ?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": false,
+   "citazioni": [],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "matteo-salvini",
+   "nome": "Matteo Salvini"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeTJKZDNESGZlSHIyb2RqOXc0X05yTDM1SEcxdDZzeTlFZHVaQ1RsQ0hva3RUYkNuWjRpdnhHbVNnRm5YNE4tMTR1U282SHNUWVdCY1VGWURIVmhId0s5LURVWlFjOUstMjRXRjdmRVhWbVZnYXZuRDhlazVKdEVsbEU0Mng1X1R1LWs5dy1SZ25KVS11NmdhcXNud0dWcWJvTDk4MDV0X2l1TjZhdjB1SkoyejhWaENlRVE1UnZZNUVmV0lQbG5XNGthNnpjbkhqODhvR25Belhva0VWMjNrZ0Zpc2hRMkVyLXZsVmI1anBWWkQtZmc?oc=5",
    "data": "2026-10-28",
    "titolo": "Meloni term. Più che il voto in Israele la preoccupa un attacco di Trump in Iran. L'Irpef di Tajani",
@@ -39461,31 +39505,6 @@
    "confronti": [],
    "slug": "giorgia-meloni",
    "nome": "Giorgia Meloni"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5",
-   "data": "2026-10-28",
-   "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
-   "testate": [
-    "Il Foglio"
-   ],
-   "n_testate": 1,
-   "articoli": [
-    {
-     "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
-     "fonte": "Il Foglio",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": false,
-   "citazioni": [],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "matteo-salvini",
-   "nome": "Matteo Salvini"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE45S01taEMtRlA3QTIyNDE4TDdPQkx3YnFMZVVSdTVoTEVyRWFtS1psQk9RSmxucWh4enBCMEM0V0k3UzZQSVZkaUJsTzVLbWFWX3hwOE05Z2NBN0wxX1JJQjZscmtBQjFXVGVPQlR5MlU4Zw?oc=5",
@@ -39869,6 +39888,44 @@
    "nome": "Giuseppe Conte"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5",
+   "data": "2026-10-27",
+   "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
+   "testate": [
+    "BsNews.it",
+    "ivl24.it"
+   ],
+   "n_testate": 2,
+   "articoli": [
+    {
+     "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
+     "fonte": "BsNews.it",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5"
+    },
+    {
+     "titolo": "Esposto di Calenda contro A2A, il centrodestra chiede a Castelletti di intervenire",
+     "fonte": "BsNews.it",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3N1LWd6Z1pxZkJ3bE5GMnRMQ0VTUWR6UWZOeEY3ckk3elVqZ2E3bzVzWjlac3lBbjh3aEI1cEpzRHR5X3FQaHcyZ0pKU3BnbkEwWThzbTNtTWY3Z1hSRW02bENqcjJtZGplbmI4X0l3N1VoOGU5MGVMbE80Q21OMG5iSVFFU1FGMDBLRGl5cVlHS2V2bUx1bm56MkJxRld4S2RmWnRDZTA1Nm11WW8weNIBuAFBVV95cUxPSzJTSWJDWF9heDBPcUNocEhoZ2tVNXR4QV8wWUJjZk9GMi1MS2E0SWg3YUVIVElUN2xVQ3pvcTRzMWhfNzBCTHBHdUZpU1BfaXBfWm9MUjVWMG9SR2N4aVZHNnZMbTBrNW1GM01IREtqckpCSkhDVmN0UW1OLUl1UDdfVVBURHlJWVY4ZmF2OTBCbWkwVlE3WWdiWW5vYlZxb0ZENlZqNEt4c2JnSGpHMmJyMjNMdGZP?oc=5"
+    },
+    {
+     "titolo": "Basilicata, scontro politico dopo le parole di Calenda: FdI difende Bardi, Azione replica a Napoli. Il PSI attacca Pittella",
+     "fonte": "ivl24.it",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDdWTU9KNDJOVjllbV9aOUllay0xZWNieDl5eldSNkVQeEZnaEdtNjNGUjRSXzZpQk1NdlZHX2pOZFM4aWR2d1kxNllZLTAtcV9vMzkzR2JUajZySm9TM0pOZmpTaldkSFRZTTI5ZlM0Mm9ONldVczBFVlE0VkhVLXZiazFOeVdBTDhMcmNBbjFzUVVzQnBxcTBfMGtydWlRWUxRcFVLQkpXTFhaQVpvTXVxckpsMTMyY3NGbGc1Y3cxQzlpZzZoeTJudUdmRTRqN004?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": false,
+   "citazioni": [],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "carlo-calenda",
+   "nome": "Carlo Calenda"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzVwaDdDR2hpeVB4UWdSOEJkRm5xaU9ObDM0WVVNemV1R2lRdEluNVcxR2hGRGIyVG5RQVA3UWdNcWRBS25NeUJJMmJYRDhDZml0eGUteE5Va0J5NXJJMFF4SG43ZmNUVjRuNFhpckpQQW9hT0lteW02NzBjRVFNYXdLTTJDcS1QRU5zalZ3Um1pbW9vSHQzeXlpUjEtZUx2OW1GSHhETUZ5c2Q1SHVXRFhBckPSAboBQVVfeXFMTTNRcktpYkZLcUlWcjdabjdwa1owSWRMTXhfdFVaamNBeWJEX0poZkhnci1TQy1KV1lYS0tramlVZVdodEhCdk5SaVU5MUtvNDN1VEJ5bk5Da3BHRFRJay1rVUxWZWZQNFRNTUxlaGY4V0RwN2I3bzM3aWFGTlBlbXYwd0hmSzJNbEw5SXFNcWJCalkwN3JWdjN5MzNGaTRTcjhNQlhNRW54NHN1VlUwUGlENnc2YnlVZUtR?oc=5",
    "data": "2026-10-27",
    "titolo": "Camera, bocciata richiesta di Magi per la nascita nuovo gruppo: no della destra, centristi assenti",
@@ -40038,37 +40095,6 @@
      "fonte": "Radio Bruno Brescia",
      "data": "2026-10-27",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSDlPdzg0bmJXYi1XM3RVdjlpdkNQOXBkaUxqcWMtLVlINXh3NU4tVDJWUkNxZkd0T3pEdHNjcWM1R0k4d3pZZzZoUEdpeGsxRmpneFR4WThPUnJnVXVUUFJTN29wZ05rajVmMXNWUC1VVS04VmZVakRqaUJpbjlsWEY4WWx2SmdRMkR6T292UGxvdGNkc25reDA4SkdtRmRaYklOeGo1Q2N6ZVBJZmY0Z0NZdkVfaG52TGRjSlNueHZuelJ6aGlwQTBucnZaaHRxdzdkVGxTT0lycklCY0N3UjVxWWZBTFRsQ0lvR3Q3el9WLTNFNWppSHVBMDU?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": false,
-   "citazioni": [],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "carlo-calenda",
-   "nome": "Carlo Calenda"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5",
-   "data": "2026-10-27",
-   "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
-   "testate": [
-    "BsNews.it"
-   ],
-   "n_testate": 1,
-   "articoli": [
-    {
-     "titolo": "Calenda contro A2A, Azione replica al centrodestra: stiamo con i bresciani",
-     "fonte": "BsNews.it",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZC1RSlJqUXlpY1I2VGNTRzVCS2ZURm9za3Nad3BIazRGTFRFSzhKcjRtM2laeWtkMGdGYkFOcThBc3NPTG1ESTBjWEE0cjZYN0x2RXYwLVpGbnRWbklCVnpuNF9HQVNJaEY5Qkx5YS15dkREQTUyU1pCY1hCcXE1Y1pVSURySE5aemlraHpfUzFQbkhhS1BoTzVYdE5LY0dkSER0QdIBrAFBVV95cUxNYlFfcXV1U09pQkQ4Wmt3Q2ZiOUVzVWRGMUpkSmFuRl9OdjlFeTI1ckRHNGZLNFgzQUhlZWdQanFnMkhtWkxWNDhndVhEWlFBQVpycTN4bkFOVXhhQXBmbHh5SlZOX2JQb3FUa2lhNWlkT0xpclhxQ0l2UTY4NHRxUk5VamE5ZldpUFY5UHd0YzIzUFA3ZzZQaXJ0U3F2WWNyQ2RHQ0I4bWVvTENZ?oc=5"
-    },
-    {
-     "titolo": "Esposto di Calenda contro A2A, il centrodestra chiede a Castelletti di intervenire",
-     "fonte": "BsNews.it",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3N1LWd6Z1pxZkJ3bE5GMnRMQ0VTUWR6UWZOeEY3ckk3elVqZ2E3bzVzWjlac3lBbjh3aEI1cEpzRHR5X3FQaHcyZ0pKU3BnbkEwWThzbTNtTWY3Z1hSRW02bENqcjJtZGplbmI4X0l3N1VoOGU5MGVMbE80Q21OMG5iSVFFU1FGMDBLRGl5cVlHS2V2bUx1bm56MkJxRld4S2RmWnRDZTA1Nm11WW8weNIBuAFBVV95cUxPSzJTSWJDWF9heDBPcUNocEhoZ2tVNXR4QV8wWUJjZk9GMi1MS2E0SWg3YUVIVElUN2xVQ3pvcTRzMWhfNzBCTHBHdUZpU1BfaXBfWm9MUjVWMG9SR2N4aVZHNnZMbTBrNW1GM01IREtqckpCSkhDVmN0UW1OLUl1UDdfVVBURHlJWVY4ZmF2OTBCbWkwVlE3WWdiWW5vYlZxb0ZENlZqNEt4c2JnSGpHMmJyMjNMdGZP?oc=5"
     }
    ],
    "polemica": true,
