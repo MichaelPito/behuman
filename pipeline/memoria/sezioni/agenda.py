@@ -81,11 +81,16 @@ VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "no
          "delega", "riforma", "riordino", "disciplina", "ordinamento", "legislazione", "quadro", "adeguamento", "norme", "nazionale",
          "generale", "capacità", "funzionamento", "organizzazione", "revisione", "semplificazione", "attuazione", "promozione", "favore",
          "attribuzione", "regione", "forme", "condizioni", "particolari", "piano", "straordinario", "straordinaria", "programma",
-         "fondo", "sensi", "comma", "costituzione", "favorire", "apertura", "accessibilità", "primo", "secondo", "terzo", "quarto"}
+         "fondo", "sensi", "comma", "costituzione", "favorire", "apertura", "accessibilità", "primo", "secondo", "terzo", "quarto",
+         "come", "titolo", "parte", "seconda", "prima", "definizione", "nozione", "convertito", "modificazioni", "proroga",
+         "applicazione", "ambito", "calcolata", "destinazione", "titolari", "unità", "adibite", "altre", "loro",
+         "commissione", "commissioni", "parlamentare", "fenomeno", "redazione", "aggiornamento", "raccolte", "raccolta",
+         "generali", "locali", "regionali", "interregionali", "nonché"}
 # parole di tema molto comuni: da sole non bastano a dire che un titolo parla di quel testo
 COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", "scuola", "giustizia", "famiglia", "famiglie", "imprese",
           "ambiente", "energia", "economia", "sociale", "sociali", "pubblica", "pubblico", "pubbliche", "cittadini", "giovani", "donne",
-          "territorio", "servizi", "sistema", "regioni", "comuni", "stato", "persone", "lavoratori", "professioni", "polizia"}
+          "territorio", "servizi", "sistema", "regioni", "comuni", "stato", "persone", "lavoratori", "professioni", "polizia",
+          "interesse", "interessi", "atti", "contrasto", "gestione", "inchiesta", "indagine", "controllo"}
 ELISE = {"dell", "dall", "nell", "sull", "dello", "della", "delle", "degli", "alla", "alle", "agli", "nella", "nelle", "negli", "sulla", "sulle", "quest"}
 # il titolo deve parlare di un atto del Parlamento o del Governo, non solo del tema
 # («approvato» da solo no: «In Consiglio comunale approvate le delibere…» non parla di una legge;
@@ -94,10 +99,23 @@ ATTO = re.compile(r"\b(ddl|dl|d\.l\.|pdl|decreto|legge|proposta di legge|camera|
                   r"governo|testo|riforma|provvediment\w*)\b", re.I)
 
 
+MESI = {"gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"}
+# riferimenti ad altre norme nel titolo: «legge 5 febbraio 1992, n. 91», «decreto-legge 10 agosto 2023, n. 104, convertito,
+# con modificazioni, dalla legge…», «articolo 87», «titolo IV della parte seconda»: non dicono di cosa parla il testo
+RIFERIMENTI = re.compile(
+    r"\b(?:legge|decreto(?:-legge| legislativo| del presidente della repubblica)?|testo unico)\s+(?:\d{1,2}°?\s+\w+\s+\d{4}|\d{4})?,?\s*n\.\s*\d+"
+    r"(?:,\s*convertito,?\s*con modificazioni,?\s*dalla legge\s+\d{1,2}°?\s+\w+\s+\d{4},?\s*n\.\s*\d+)?"
+    r"|\barticol[oi]\s+[\d, e]+(?:-\w+)?|\btitolo\s+[IVX]+|\bparte\s+(?:prima|seconda)|\bcodice di cui al\b",
+    re.I,
+)
+
+
 def parole_ricerca(v: dict) -> list[str]:
-    """Le parole che distinguono il testo: prima le sigle («HIV», «ILVA»), poi le parole lunghe non generiche."""
-    sigle = [w.lower() for w in re.findall(r"\b[A-Z]{3,}\b", v["oggetto"])]
-    parole = [w for w in re.findall(r"[a-zàèéìòù]+", v["oggetto"].lower())
+    """Le parole che distinguono il testo: prima le sigle («HIV», «ILVA»), poi le parole lunghe non generiche,
+    tolti i riferimenti ad altre norme e le date."""
+    testo = RIFERIMENTI.sub(" ", v["oggetto"])
+    sigle = [w.lower() for w in re.findall(r"\b[A-Z]{3,}\b", testo) if not re.fullmatch(r"[IVXLC]+", w)]
+    parole = [w for w in re.findall(r"[a-zàèéìòù]+", testo.lower()) if w not in MESI
               if w not in cdmmod.GENERICHE and w not in VUOTE and w not in ELISE and len(w) > 3]
     return list(dict.fromkeys(sigle + parole))[:3]
 
@@ -111,11 +129,26 @@ def radici(testo: str) -> set[str]:
     return {radice(w) for w in re.findall(r"[a-zàèéìòù]+", testo.lower())}
 
 
+PICCOLE = {"di", "del", "della", "dei", "delle", "degli", "e", "per", "a", "al", "alla", "in", "da", "con", "su"}
+
+
 def coppie_testo(oggetto: str) -> set[str]:
-    """Coppie di parole significative attaccate nel titolo del testo: «professioni sanitarie», «sicurezza pubblica»."""
+    """Coppie di parole significative vicine nel titolo del testo, al massimo con una preposizione in mezzo:
+    «professioni sanitarie», «sicurezza pubblica», «conflitto di interesse» (→ «conflitto interesse»)."""
     w = re.findall(r"[a-zàèéìòù]+", oggetto.lower())
     ok = lambda x: len(x) > 3 and x not in cdmmod.GENERICHE and x not in VUOTE and x not in ELISE  # noqa: E731
-    return {f"{a} {b}" for a, b in zip(w, w[1:]) if ok(a) and ok(b)}
+    out = {f"{a} {b}" for a, b in zip(w, w[1:]) if ok(a) and ok(b)}
+    out |= {f"{a} {c}" for a, b, c in zip(w, w[1:], w[2:]) if ok(a) and b in PICCOLE and ok(c)}
+    return out
+
+
+def ha_coppia(titolo: str, coppie: set[str]) -> bool:
+    """La coppia compare nel titolo, anche con una preposizione in mezzo e al plurale («conflitti di interessi»)."""
+    for c in coppie:
+        a, b = (radice(x) for x in c.split())
+        if re.search(rf"\b{re.escape(a)}\w*(?:\s+\w{{1,5}})?\s+{re.escape(b)}\w*", titolo):
+            return True
+    return False
 
 
 def notizie_su(v: dict) -> list[dict]:
@@ -132,7 +165,10 @@ def notizie_su(v: dict) -> list[dict]:
             if len(comuni) >= min(2, len(chiavi)) or (comuni and ATTO.search(n["titolo"])):
                 tenute.append(n)
     elif len(parole) >= 2:
-        trovate = notmod.google_news_libera(("decreto " if v["conversione"] else "") + " ".join(parole), giorni=7)
+        prefisso = "decreto " if v["conversione"] else ""
+        trovate = notmod.google_news_libera(prefisso + " ".join(parole), giorni=7)
+        if len(trovate) < 3 and len(parole) > 2:  # ricerca troppo stretta: si riprova con le prime due parole
+            trovate += [n for n in notmod.google_news_libera(prefisso + " ".join(parole[:2]), giorni=7) if n["url"] not in {x["url"] for x in trovate}]
         chiavi = {radice(w): w for w in parole}
         coppie = coppie_testo(v["oggetto"])
         tenute = []
@@ -141,7 +177,7 @@ def notizie_su(v: dict) -> list[dict]:
             comuni = {chiavi[r] for r in radici(t) if r in chiavi}
             # almeno due parole del testo (anche al plurale), di cui una distintiva («piscine», non solo «salute» e
             # «sicurezza»), oppure due parole comuni che nel testo stanno attaccate («professioni sanitarie»)
-            distintivo = bool(comuni - COMUNI) or any(c in t for c in coppie)
+            distintivo = bool(comuni - COMUNI) or ha_coppia(t, coppie)
             # una sola parola basta se è lunga e specifica («commercialisti»): la ricerca ha già chiesto tutte le parole
             sola = len(comuni) == 1 and all(len(w) >= 9 and w not in COMUNI for w in comuni)
             if (len(comuni) >= 2 and distintivo or sola) and ATTO.search(n["titolo"]):
@@ -150,7 +186,7 @@ def notizie_su(v: dict) -> list[dict]:
         return []
     visti, per_testata, out = set(), {}, []
     for n in sorted(tenute, key=lambda n: n["data"], reverse=True):
-        k = n["titolo"].lower()[:60]
+        k = re.sub(r"^[^|]{1,25}\|\s*", "", n["titolo"]).lower()[:60]  # «Blog | Titolo» = «Titolo»
         if k in visti or per_testata.get(n["fonte"], 0) >= 2:  # al massimo due titoli per testata
             continue
         visti.add(k)
@@ -219,9 +255,9 @@ def costruisci(ctx, politici: list[dict]) -> dict:
 
     # titoli dei giornali: decreti, testi in Aula, leggi approvate, testi in commissione e nuove proposte
     notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "approvate", "commissione", "nuove") for x in prec.get(sez, [])}
-    # solo testi con attività recente: per quelli fermi da mesi i titoli sarebbero su altro
-    recente = (oggi - dt.timedelta(days=60)).isoformat()
-    principali = (decreti + [g for g in aula if g["data_stato"] >= recente])[:MAX_NOTIZIE]
+    # tutti i testi in Aula, anche quelli fermi da mesi (es. riforme costituzionali): il filtro dei titoli
+    # (parole specifiche del testo + citazione di un atto) evita quelli che parlano d'altro
+    principali = (decreti + aula)[:MAX_NOTIZIE]
     principali += approvate[:MAX_NOTIZIE_APPROVATE]  # già ordinate dalla più recente
     # in commissione e tra le nuove proposte i testi sono tanti: prima quelli del Governo, poi quelli dei politici
     # monitorati, poi i più recenti

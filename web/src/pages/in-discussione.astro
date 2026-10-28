@@ -82,6 +82,7 @@ const tot = a.conteggi;
             <li class="small">
               <span class="tiny mono muted">{v.ramo} · dal {dataIt(v.data_stato)}</span> <a href={v.scheda} target="_blank" rel="noopener">{v.oggetto}</a>
               <span class="tiny muted"> {[v.numero, ...(v.abbinate ?? []).map((x) => x.numero)].join(", ")} · {INIZIATIVA[v.tipo_iniziativa]}</span>
+              <Giornali notizie={v.notizie} />
             </li>
           ))}
         </ul>
