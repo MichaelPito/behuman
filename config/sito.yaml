@@ -48,6 +48,10 @@ fonti:
     url: https://dait.interno.gov.it/elezioni/trasparenza/elezioni-politiche-2022
     uso: Impegni presi prima delle elezioni (PDF depositati, programmi completi pubblicati dai partiti)
     licenza: Documenti pubblici; si linka l'originale
+  - nome: Senato della Repubblica – iter dei disegni di legge
+    url: https://dati.senato.it/
+    uso: "Pagina «In discussione»: proposte di legge di Camera e Senato, stato dell'iter, decreti da convertire, commissioni, temi (classificazione Teseo)"
+    licenza: CC BY 3.0 IT
   - nome: Google News
     url: https://news.google.com/
     uso: Titoli delle notizie sui politici monitorati, per l'osservatorio quotidiano (solo titolo, testata, data e link)

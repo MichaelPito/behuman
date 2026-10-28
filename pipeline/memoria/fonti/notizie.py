@@ -66,7 +66,17 @@ def _data_rss(s: str) -> str | None:
 
 
 def google_news(nome: str, giorni: int = 3) -> list[dict]:
-    q = urllib.parse.quote(f'"{nome}" when:{giorni}d')
+    """Titoli che contengono esattamente `nome` (tra virgolette)."""
+    return _gnews(f'"{nome}" when:{giorni}d')
+
+
+def google_news_libera(parole: str, giorni: int = 7) -> list[dict]:
+    """Titoli che contengono le parole, in qualsiasi ordine."""
+    return _gnews(f"{parole} when:{giorni}d")
+
+
+def _gnews(query: str) -> list[dict]:
+    q = urllib.parse.quote(query)
     xml = _get(GNEWS.format(q=q), 3 * 3600)
     out = []
     for it in re.findall(r"<item>(.*?)</item>", xml, re.S):

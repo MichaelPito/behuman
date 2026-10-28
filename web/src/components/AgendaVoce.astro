@@ -1,0 +1,89 @@
+---
+// Un testo in discussione (decreto da convertire o testo in Aula): cosa è, a che punto è,
+// chi l'ha proposto, cosa dice il Governo e cosa ne scrivono i giornali, con le fonti.
+import Icon from "./Icon.astro";
+import type { VoceAgenda } from "../lib/data";
+import { ALTRA_CAMERA, dataIt, INIZIATIVA } from "../lib/data";
+import { u } from "../lib/url";
+
+interface Props { v: VoceAgenda; nomi: Record<string, string>; tipo: "decreto" | "aula" }
+const { v, nomi, tipo } = Astro.props;
+const urgente = tipo === "decreto" && (v.giorni_rimasti ?? 99) <= 10;
+const titolo = v.nome_breve ? v.nome_breve[0].toUpperCase() + v.nome_breve.slice(1) : v.oggetto;
+const numeri = [v.numero, ...(v.abbinate ?? []).map((a) => a.numero)];
+---
+<article class:list={["card voce", tipo, { urgente }]}>
+  <header class="row testa">
+    {tipo === "decreto" ? (
+      <span class:list={["pill conto", urgente ? "plum" : "sun"]} title="Giorni rimasti per la conversione (indicativi)">
+        {v.giorni_rimasti === 0 ? "scade oggi" : `${v.giorni_rimasti} ${v.giorni_rimasti === 1 ? "giorno" : "giorni"}`}
+      </span>
+    ) : (
+      <span class="pill accent">In Aula · {v.ramo}</span>
+    )}
+    <span class="tiny mono muted">{numeri.join(", ")}</span>
+    <span class="pill">{INIZIATIVA[v.tipo_iniziativa]}</span>
+  </header>
+  <h3>{titolo}</h3>
+  {v.nome_breve && <p class="small muted ogg">{v.oggetto}</p>}
+  {(v.abbinate?.length ?? 0) > 0 && <p class="tiny muted">Esaminata insieme {v.abbinate!.length === 1 ? "a un'altra proposta" : `ad altre ${v.abbinate!.length} proposte`} sullo stesso tema.</p>}
+
+  <dl class="fatti">
+    {tipo === "decreto" && v.decreto_del && (
+      <div><dt>Decreto del</dt><dd>{dataIt(v.decreto_del)}</dd></div>
+    )}
+    {tipo === "decreto" && v.scadenza && (
+      <div><dt>Da convertire entro</dt><dd>circa il {dataIt(v.scadenza)}</dd></div>
+    )}
+    <div><dt>A che punto è</dt><dd>{v.ramo}: {v.stato}{v.trasmesso && v.prima ? ` (già approvato dal${v.prima.ramo === "Camera" ? "la Camera" : " Senato"} il ${dataIt(v.prima.data_stato)})` : ""}</dd></div>
+    {tipo === "aula" && <div><dt>In Aula dal</dt><dd>{dataIt(v.data_stato)}</dd></div>}
+    {v.commissione && tipo === "decreto" && <div><dt>Commissione</dt><dd>{v.commissione}</dd></div>}
+  </dl>
+
+  {v.iniziativa && (
+    <p class="small">
+      <span class="muted">Proposto da:</span> {v.iniziativa}
+      {v.proponenti_monitorati.length > 0 && <> · {v.proponenti_monitorati.map((s, i) => <>{i > 0 && ", "}<a href={u(`/politici/${s}/`)}>{nomi[s] ?? s}</a></>)}</>}
+    </p>
+  )}
+  {v.temi.length > 0 && <div class="row temi">{v.temi.map((t) => <span class="tag">{t}</span>)}</div>}
+
+  {v.descrizione_governo && (
+    <details>
+      <summary class="small">Come lo descrive il Governo (comunicato del {dataIt(v.descrizione_governo.data)})</summary>
+      <p class="small">{v.descrizione_governo.testo}</p>
+      <a class="tiny" href={v.descrizione_governo.url} target="_blank" rel="noopener">Comunicato del Consiglio dei ministri <Icon name="ext" class="tiny" /></a>
+    </details>
+  )}
+  {(v.notizie?.length ?? 0) > 0 && (
+    <details>
+      <summary class="small">Cosa scrivono i giornali: {v.notizie!.length} {v.notizie!.length === 1 ? "titolo" : "titoli"} negli ultimi 7 giorni</summary>
+      <ul class="titoli">
+        {v.notizie!.map((n) => <li class="small"><a href={n.url} target="_blank" rel="noopener">{n.titolo}</a> <span class="tiny muted">{n.fonte} · {dataIt(n.data)}</span></li>)}
+      </ul>
+    </details>
+  )}
+  <a class="small link-ufficiale" href={v.scheda} target="_blank" rel="noopener">Scheda ufficiale e testo <Icon name="ext" class="tiny" /></a>
+  {tipo === "decreto" && v.stato_ufficiale === "approvato" && <p class="tiny muted">Approvato da una Camera: ora tocca {ALTRA_CAMERA[v.ramo] === "Camera" ? "alla Camera" : "al Senato"}.</p>}
+</article>
+
+<style>
+  .voce { display: grid; gap: 10px; padding: 18px; border-top: 3px solid var(--accent); min-width: 0; align-content: start; }
+  .voce.decreto { border-top-color: var(--sun); }
+  .voce.urgente { border-top-color: var(--plum); }
+  .testa { gap: 6px; }
+  .conto { font-family: var(--f-mono); font-weight: 700; }
+  h3 { margin: 0; font-size: 1.08rem; line-height: 1.3; text-wrap: balance; }
+  .ogg { margin: 0; }
+  .voce > p { margin: 0; }
+  .fatti { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0; }
+  .fatti div { display: grid; gap: 2px; }
+  .fatti dt { font-size: 0.72rem; color: var(--ink-2); }
+  .fatti dd { margin: 0; font-size: 0.9rem; font-weight: 600; }
+  .temi { gap: 6px; }
+  .tag { font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; background: var(--surface-2); color: var(--ink-2); }
+  details summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  details p { margin: 8px 0 4px; }
+  .titoli { margin: 8px 0 0; padding-left: 16px; display: grid; gap: 6px; }
+  .link-ufficiale { font-weight: 600; }
+</style>

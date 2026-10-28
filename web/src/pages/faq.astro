@@ -156,6 +156,18 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "in-discussione",
+        q: "Da dove viene la pagina «In discussione»?",
+        a: [
+          "Dagli open data del Senato (dati.senato.it), che registrano il percorso di ogni disegno di legge in entrambe le Camere: numero (C. per la Camera, S. per il Senato), chi l'ha proposto, a che punto è e da quando, la commissione che lo esamina e i temi della classificazione ufficiale (Teseo). Gli stati ufficiali («esame in comm.», «all'esame assemblea»…) sono riscritti in parole semplici.",
+          "Decreti-legge da convertire: i disegni di legge di conversione non ancora approvati definitivamente. La scadenza è la data del decreto più 60 giorni: è indicativa, perché i 60 giorni contano dalla pubblicazione in Gazzetta Ufficiale, di solito lo stesso giorno.",
+          "In Aula: i testi il cui stato ufficiale è «all'esame dell'Assemblea». Le proposte sullo stesso tema esaminate insieme (stessa Camera, stesso giorno, titoli molto simili) sono raggruppate. Quelle in Aula da più di due mesi senza cambiamenti sono in un elenco a parte.",
+          "Approvate, nuove proposte e lavoro nelle commissioni: i cambiamenti di stato e le presentazioni degli ultimi 14 giorni. Indichiamo quando tra i proponenti c'è uno dei politici monitorati.",
+          "Consiglio dei ministri: i provvedimenti del comunicato ufficiale di ogni riunione dell'ultimo mese, con la descrizione del Governo, riportata come sua.",
+          "Cosa scrivono i giornali: per i decreti e i testi in Aula cerchiamo su Google News i titoli degli ultimi 7 giorni, con il nome breve ufficiale del testo (es. «decreto scuola») o con le parole che lo distinguono. Teniamo solo i titoli che contengono quelle parole e parlano di un atto (decreto, legge, Camera, Senato, emendamenti…), al massimo due per testata. È un segnale di quanto se ne parla, non una valutazione.",
+        ],
+      },
+      {
         id: "numeri",
         q: "Da dove vengono «I numeri» e come li leggete?",
         a: [

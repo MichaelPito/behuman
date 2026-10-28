@@ -177,3 +177,14 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   revisionata e corredata da una nota sul contenuto dell'atto (es. decreti con più misure).
 - Wikidata è collaborativo e talvolta incompleto: è sempre indicato come fonte, e le correzioni si
   fanno direttamente su Wikidata.
+
+## 3-quinquies. In discussione (agenda del Parlamento)
+- Fonte: open data del Senato, che registrano l'iter dei disegni di legge in entrambe le Camere
+  (stato ufficiale e data dell'ultimo cambiamento), più i comunicati del Consiglio dei ministri.
+- Decreti-legge da convertire: conversioni non ancora approvate definitivamente; scadenza indicativa
+  = data del decreto + 60 giorni (art. 77 Cost.; i 60 giorni contano dalla pubblicazione in G.U.).
+- In Aula: stato «all'esame assemblea»; proposte abbinate (stessa Camera, stessa data, titoli simili)
+  raggruppate; ferme da oltre 60 giorni in un elenco a parte.
+- Approvazioni, nuove proposte e lavoro delle commissioni: ultimi 14 giorni.
+- Titoli dei giornali (Google News, 7 giorni) per decreti e testi in Aula: ricerca per nome breve
+  ufficiale o parole distintive; tenuti solo i titoli con quelle parole che citano un atto, max 2 per testata.

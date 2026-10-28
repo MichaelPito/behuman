@@ -398,3 +398,26 @@ export const ESITO_VERIFICA: Record<string, [string, string]> = {
   non_dimostrabile: ["I dati non mostrano variazioni rilevanti", "sky"],
   in_parte: ["I dati la confermano solo in parte", "sun"],
 };
+
+// ----------------------------------------------------------------- in discussione (agenda del Parlamento)
+export type TitoloNotizia = { titolo: string; fonte: string | null; data: string; url: string };
+export type VoceAgenda = {
+  id: string; numero: string; ramo: "Camera" | "Senato"; passaggio: number; titolo: string; titolo_breve: string | null; nome_breve: string | null;
+  oggetto: string; natura: string; conversione: boolean; stato_ufficiale: string; stato: string; data_stato: string; presentato: string;
+  trasmesso: boolean; iniziativa: string | null; tipo_iniziativa: "governo" | "parlamentari" | "cittadini" | "altro"; commissione: string | null;
+  temi: string[]; decreto_del: string | null; scadenza: string | null; scheda: string; proponenti_monitorati: string[];
+  prima: { ramo: string; numero: string; stato_ufficiale: string; stato: string; data_stato: string } | null;
+  abbinate?: { id: string; numero: string; titolo: string; iniziativa: string | null; scheda: string }[];
+  notizie?: TitoloNotizia[]; giorni_rimasti?: number;
+  descrizione_governo?: { data: string; titolo: string; tipo: string; testo: string; url: string } | null;
+  approvata?: { ramo: string; data: string; definitiva: boolean; stato: string };
+};
+export type ProvvedimentoCdm = { data: string | null; titolo: string; tipo: string; testo: string; url: string };
+export type Agenda = {
+  aggiornato_il: string; finestra_giorni: number; aula: VoceAgenda[]; decreti: VoceAgenda[]; approvate: VoceAgenda[];
+  commissione: VoceAgenda[]; nuove: VoceAgenda[]; cdm: ProvvedimentoCdm[]; conteggi: Record<string, number>;
+};
+export const agenda = () =>
+  leggi<Agenda>("agenda.json", { aggiornato_il: "", finestra_giorni: 14, aula: [], decreti: [], approvate: [], commissione: [], nuove: [], cdm: [], conteggi: {} });
+export const ALTRA_CAMERA: Record<string, string> = { Camera: "Senato", Senato: "Camera" };
+export const INIZIATIVA: Record<string, string> = { governo: "Governo", parlamentari: "Parlamentari", cittadini: "Cittadini", altro: "Regioni e altri" };
