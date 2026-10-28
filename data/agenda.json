@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-10-28T14:04:06+00:00",
+ "aggiornato_il": "2026-10-28T14:12:43+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -868,6 +868,12 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
+     "fonte": "Conquiste del Lavoro",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -989,7 +995,7 @@
      "titolo": "DL Autotrasporto, oggi comincia l’esame",
      "fonte": "Staffetta Quotidiana",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1X0NLa0lGaU5KNkNXRE83NDhYdWdnWUU2bjBJN2k5UG1MV0FVdDdCbXItMzRBelZuUlRoMXlIYTRieFdvQkg4Mld4cHVpeHNRal9felFnWGE2S0VLTU5lVTBwYXZlY0dMWUtsejFKek10ZU5mSWRrM25R?oc=5"
     },
     {
      "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
@@ -1163,12 +1169,6 @@
      "fonte": "Stampa Parlamento",
      "data": "2026-10-22",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1h6ZzVRTFJJS2pPSzB2bFIzXzZfWklVNFhmX3Rfc3ZnM1ZZUHZxMjh6cjhFRl94NVdtakduVmJhV3hnUWRDRllxa1UxUmV0cWwzWHBOd2dPcVBOR184aTFXc1A4bzZDSnEtWGNpYlM3VzAtV2tVSHlmcWtKSVROaTFYWktoaTFoT1poQnprRU5PZC1hUmN0TGt3eklMdkdLcUQtVl9ULUFxbkp5Q2hPcm8xaDhsVi1NejZpQmJwZVo1LUZSZXJTd1NOV1FfOEpxdEtQcXhnNA?oc=5"
-    },
-    {
-     "titolo": "Diretta – Patrocinio gratuito su infortuni lavoro, legge sulla cittadinanza",
-     "fonte": "The Epoch Times Italia -",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS2xwdmNxVDJZZHRmZ1ZfVTNjN0oyeXlfcGE4OVd1OUdoSl9tZGZPaDRmb1M4Z0drNnd2bjVNZ2VDaWlkMFdvb0xLRlpRNmw1cHpKVXlRZndSdFZvSGVkVjhhTFVMLWdIOW1CODFtR1FlWG9ycTNFbTJaT25IRDFoZ1RkXzhtbXY2VF9uQldtU3k4WnN5aXFmTElzQzFnTVl0d2pXVWNEeEp5Vi1BdFc1UnpyaTBYdnVLZUJTdXQ1eGxYWV84TFpMTmRIRWJ1T0k?oc=5"
     }
    ]
   },
@@ -1247,22 +1247,28 @@
    },
    "notizie": [
     {
-     "titolo": "Ddl Protezione Civile: Russo (FdI): \"Riforma storica, incontro a esigenze territori\"",
-     "fonte": "ParmaDaily.it",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGdaV3ljV0l6S0xZM0FVTEJQOUViamhJSm9IZkh3TENvMXh1dC1Gd2lsM2hJcXRjNkI3N2txc1BXYko2YnpCU0pGc1Z0S1dUSDRCWFNtWlNDLVlhNnVjZG1hSW9NdzBvS1hFWW4xWGZwVzZzMUhZRGxXNm8yQmtrRElqZjlOUlpSRUk3LXA1cTU5RldhVVEyYm4wOURxRHFLZ0tjaUxPYw?oc=5"
+     "titolo": "Protezione Civile Lazio: presentata la proposta di legge per la costituzione parte civile a sostegno dei volontari",
+     "fonte": "Leggo Cassino",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaTVJY1FDNnJOSEJMMG5vcjZQaDNxc2ZhNzB6SlRfcXVIcTlrVWxRUDJiaEFFOTIyMW1CWmVGdWFjY2c3Q1FrNlZRclJyV1JjbGhrd29SMWxobjhETXNKY2tCOXJ5YlVNeDFybnFKYm1fY051OWVlZFhnUC0wY3U2TmJGLXZGZzhISDA4ZThvNy1vOW1hSTdnWnluU2hGbU51d0l0NWtIOHhqV1EtN1haRVgxNHNnUVRfQ0lBTFhrTHhVZm1HQW5nNnI1d0Ftb1d6a3RTajdLOGN3S1pBOS1lTVBNeC15cXFnMVMySUFGaDQ?oc=5"
     },
     {
-     "titolo": "Ok definitivo della Camera al ddl sulla Protezione Civile, è legge",
-     "fonte": "ANSA",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1E0TzU1b1dBTjF2a1A2T1hPRjFEZVNLSDdCeWhOOWJsTmJoQk1FNE9qNnV0b0plcnZTcUN3Q0xzYkNjSEw4VmllSGNmX0xJV0VidWpiN1NjWDgtOExBOGtEbThqcnozNjZuamNMZmM2MTczTXUzSWtsUHdIMEZxSXY2RTR1VnZJaFlGbHRRUUtjWkZLbFFLQnB3akMyZFVRVVVWcnhhU0ZKNC1kLVhYdm40dW9SY1lEelhKSV8wSnNidm5Dc2xiU2dJOXhuZXJrUW5fUmx5RG8tNHJIcHNlYVZleFpuTHZPUk9hN3RYVk95M3BtaTB1WmZ30gH_AUFVX3lxTE5fWGN2STg4cE9KV2FVaFlMVHQ5a09DY0R6b3FNRmZ0ME1nNjJZazZOZGd4eFBWaDBuVFFkMjhlNFRCWWpVS3NoY2w3RVVPNW5TQy12YzZsWHhPaC1xRHBYR1NrZXFmbHNGY2YwejZUNHduWnZWNG9YN3RPQ3dUaFg1ZUQ2WFZIQzFweUtBN0xEMVZla2R3LUIzWGstalJwOHdFdUUyd2FrbThCM2dQQVdmMTRCSk5zY2hIQUFhNEJ4bUh6NE9nRlZaM0h1YWx5d1dhVWVka2dFRmN6Smk3S3c0cG10ajNYeFQ2OHpZbzNIWFlTVjZjLVNQVFphbF9WUQ?oc=5"
+     "titolo": "ROMA | Aggressioni ai volontari della Protezione civile, proposta di legge per la costituzione di parte civile",
+     "fonte": "Mondoreale",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObms4eVdVUENSdTNUUGJKU1ZzSEhvQXNSekNuVjVLa0JLQU9oemxjcXlKT0tlV08yUHFTRzdYbmFtRXEyd2FVVWdoUlRpb2xaR2Vxakc2ZWxFYjlVMzhDVlUtYWdUdmFvaXhNVXpSY1NCSnRpOGhRZVEtM3gybThQenhVMDQxX2M5QTdfOTNKa3NyUTJYOWNINGduc1ZJaDgtYUxjTEtvaFFKOWJGNTJvTzl1QWFseGVPeTVsNXBZVEk4WWZmeE9QVHZxYWJCMF9kUGpLZFJMWGV5Zw?oc=5"
     },
     {
-     "titolo": "UDINE | PROTEZIONE CIVILE, APPROVATA LA NUOVA LEGGE. CIRIANI: «GIORNATA STORICA»",
-     "fonte": "TV 12 | Medianordest",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE5OdW01N3FWUWxyUkJ2M3h2OUNoMnE2LU5qLXoyd0Y5TmtQYW5YNEd1R0lOUWRGVWZxREp4NVhsaXhBOURtS0tGMVVpeHR3aGU4bGVuczN0eVh2OVhxZHpjclVSTVNGXzdSN081aHJyR0s5XzZQSlowcGZDaWJ4Mi1DNGNXY093aWtka1RPVnZhSndMQ1hlYzBVVXV2S3FCTzhKWkl6NXFNQ3BWOXkwVtIBsAFBVV95cUxPWE5OdW01N3FWUWxyUkJ2M3h2OUNoMnE2LU5qLXoyd0Y5TmtQYW5YNEd1R0lOUWRGVWZxREp4NVhsaXhBOURtS0tGMVVpeHR3aGU4bGVuczN0eVh2OVhxZHpjclVSTVNGXzdSN081aHJyR0s5XzZQSlowcGZDaWJ4Mi1DNGNXY093aWtka1RPVnZhSndMQ1hlYzBVVXV2S3FCTzhKWkl6NXFNQ3BWOXkwVg?oc=5"
+     "titolo": "Protezione civile, presentata proposta di legge per la costituzione parte civile a sostegno dei volontari",
+     "fonte": "TusciaTimes.eu",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHlXTk50YkI5bl9FanBMb01MenZ6ckxFWTVLTm1NS1VJUUphNzVKTE50cXE2Z3p0NzU2YnRaeS1zdU1ENDFBanlZZ3NhTUt2R053RE54VE5VTGpERmI0Wjl5SGZlTE80ZGgxMWdmOEJBUUZVLWxVY2RkRG9QaGRjWndFRUhwLWZkX1VHZHhHdUljYVJnNGN2RDBRS0NJSW5mWDVoQllRNXFad2luNEVYc2lGVXo2eXNhUzlZS3JFZTBMdWk0cy1FcHcySHM?oc=5"
+    },
+    {
+     "titolo": "Protezione civile, via libera definitivo alla riforma: nuove tutele per volontari e personale, opposizioni critiche sulle risorse",
+     "fonte": "Ilfriuliveneziagiulia",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ3NzWUtMTUdibnQ0VW9tcnV6RTZwWXRHdGRjbUxsUVVqbXZ4RmZsZ09WYlRaLXI0emx5djctOUxUNGpwcFR6VUg5SmxDMlM0WXlaUTZkYm9KOURwVy1CYktyZ0pQcDQyZkV3OXRkTXlpVHIzRHVpN0M4NnVJeXk3TXpSX19weDBkLWZzSHFaNkNlU0dIZUJtZzBXVWZGWTB1M050VVdDUUZJWC00TXBOd2JtS3NwN19pdUFXRVBzSHR1enpfdEdlSnlrd2l3RzZvYThrTDhwQTd6a3hDd0p3VnhDYkdUWWhVbTZpWjB2dHBqWnZWcGJn?oc=5"
     }
    ]
   },
@@ -1310,28 +1316,10 @@
    },
    "notizie": [
     {
-     "titolo": "Desertificazione commerciale: il Governo accoglie l'ordine del giorno del deputato varesino Antonio Ferrara",
-     "fonte": "SaronnoNews",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjRfb3NLTUVPb0F3eURVeUJnd0liRHViTWlEd0pwdWlHemJzbTRVbV8xZllvSUNhaEs5bDRLbUZjVjRMdk5UUTRnWnNXV2lJUTZVZi0xZkk2S3hkcHdJX091OEg0N3Y4eFJCOVNFQVgxeVM0MXNXSVU3ZWJQWXNtaHRSc185andGazlDY2VTRFd6Z0dKWE1jZnlPYUJMakFER1NXWHFISTl5RjRQb2ZscXluUVRtQzlzRk9jWXRhQmwwTHl3N24zVVNRaWx2WU1wSTRFdGtrUjJTaFRy?oc=5"
-    },
-    {
      "titolo": "Ferrara (M5S): «Desertificazione commerciale, il Governo accoglie il nostro impegno»",
      "fonte": "VareseNoi",
      "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOY1U1S0xpQWxHRGk4bkk2SjJIZUtSdVdYcmJwZjhUeVZMT1hncWRuTVg4ajZ2TjRfX2FzeDFsY3JfaENfREZCX2szSXZYN2hNSjFadXAwXy1aeDE4ekRiY2hSaFF3RXpFY0hGRFNQZ0g2RU5STk9ER3RuSzcwWnF5bGZUSk5GVHhSZndSZUVSaGdud3JzZ0NFbVdyQ2RyalNzOUhyaVpxTGlSMGZ3UzNqTjVJY3BnaWU4aHBHQ3RTRWZ3NU50bGJNc0ZzZV95MWZuSjlDYmt3NUdHOUNyVDNkSE5YWWwzaW1pREdxd3U1VjJ6b29EQXFGTVFBcmFjYkd5eUlF0gHsAUFVX3lxTFBNRk1uaGpSd3RCd1NCSWJNcVRYNVRudEhvVzNVTllqU3ZMSERsb1BMTVpnUEpfMmZqblpCa19sY0ZTMmhucjJQLTdjM19Pd1lCeVZWRExKM1ZrcDE4RGhhLTlYSzNremI2RW9JNzZ3NklFMTNRUnFBUHdBYVpuWmtTbGNQMVpzMzBEblJ1QWpvR005N0ZoZl8zdjNpNkZTTG5zT3RfUlgtYXM2RXY4R25TbmJQUTBUOVJZT2U1cTlaVDNKZEQ3Y2E5MDZkenFVNGFwb25XeGJMZWJSbWhodm5EbG54NzBNTWRKbk9r?oc=5"
-    },
-    {
-     "titolo": "FI - FORZA ITALIA * CAMERA: «CENTRI STORICI, DE PALMA (FI): «GOVERNO ACCOGLIE NOSTRO ORDINE DEL GIORNO. SOSTEGNO AL COMMERCIO DI VICINATO E STOP ALLA DESERTIFICAZIONE COMMERCIALE",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQzRSYTc5WDFTUC1Ba1RYemozamhlMGpBX2QyOU1ndlVOZFl5clVrSlBBQ1JBVTVJVXRMN3JfV2gtR29HYm9EeVZfRnlOczQ5LUJMVjFRODFSZzNHWXBqanlKcnRPQTM3QWYxWXhCQUhlUzUxMkxONXVZamtxX2ZvdTlVQ1VTV3hXU0pMTElsSTdXODBtMndFV1dzOXFKSERPY2VpODBuNmwwZ2tiTE1MZHJNem9IVjUwaFNwakVNWVI2T3hPTy13cFEzREtjcm5sdDBzTER6QktIMGk1RUk0WW42eWw5cThGSjRqMXZ2Z0hROVNCVWN1WnVlbDhneDl1YURpN3Brc21wdk9NSDQ0S05SdUNPdlltUXBvcThQWElJcWdZczVobGpuRDRVc01ZZ1c4Q0NMdDJyd2o4UVZqdWN2WnI?oc=5"
-    },
-    {
-     "titolo": "LEGA * CAMERA: «CENTRI STORICI: MOLINARI E GUSMEROLI (LEGA), APPROVATA IN PRIMA LETTURA PDL PER TUTELARE E VALORIZZARE BOTTEGHE COMMERCIALI E ARTIGIANALI",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQRFdwc3Y4MUF4UUpfdWJBeHpwV284cTdGbzROWlhIX1NSOTJCUHloZFRTa0JvRXBzNG5RS25NSGVLZkFQX05GeUFRdjZWaE5Rc1NLTU0xQ2FuaGJsdDZNcjRUOVpXcEJpeXE3dmx5S2hOaEl6VDFPcE9VUEN0VXowNndNTUxzNEpNNFRJcEUyYUpJcEtmZ3ppUVZrb3ZlY19CWHY0UkRLRjkycUp6REhxS2pua3djMEQxN2JtZmZ5bzdCTUl3a1Q3Zy12bHVjdjJzd2lqQ0llcEhZRU1FcnlNNGY0SEQxdFZ3M3hZYUx5ck1ZanJ0RUtUX1Jhd2FyZXZTN3k2T3BFbG9wY29kMUlNcGU2ZE1DZTNaQUJHMHh1ZC13SFNySFBVdg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZFF6MEp0emZPS0dfM0pjcHd4aVV1OHRaNGhsNmFLaHpQZzlQeE9UUkh2cUhkUHhpd3ktU3YxRURqUE9UWEtHM3ptcV9odmQwVmI1aWQzUVFhUG1oMjVGeWQzNFRtQ1dhRnRISmZaTFJjTmpEU3NiaENSMFpSZFBOTlJaNUEtWi0wQ01KbXd3MjhDcldhVml2ZklodkloZG1yXzk0QTlyX3RmWms3aVZPMkVBMFdzSDNDVDZqcDJ5SmczemlndGFZOFVxQnJkUGZHamowRHpGTHJPazBobFktOFhmLTFBWkZkOElfcGVWcENmM005eHdXUFpR0gHsAUFVX3lxTFBNRk1uaGpSd3RCd1NCSWJNcVRYNVRudEhvVzNVTllqU3ZMSERsb1BMTVpnUEpfMmZqblpCa19sY0ZTMmhucjJQLTdjM19Pd1lCeVZWRExKM1ZrcDE4RGhhLTlYSzNremI2RW9JNzZ3NklFMTNRUnFBUHdBYVpuWmtTbGNQMVpzMzBEblJ1QWpvR005N0ZoZl8zdjNpNkZTTG5zT3RfUlgtYXM2RXY4R25TbmJQUTBUOVJZT2U1cTlaVDNKZEQ3Y2E5MDZkenFVNGFwb25XeGJMZWJSbWhodm5EbG54NzBNTWRKbk9r?oc=5"
     }
    ]
   },
@@ -1595,10 +1583,10 @@
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjFEVzR3QmVmbWs5eVo4N0FUVHc4VEpvY2FJQ1lFdmVkNlZFa1VVM0JsWGl0STdEVnZWejNPbGpMZTRCd2FsUGp2T3owWjJvdjJUYTRPSkRYZmQzRHU1MmE4Y1A1WlRyY29tS3dPTE1NSzl1T0VKOVZrcmoyYy1nX3FuRlQyOURvY1R1NWtmVmNOem5UOHVQMFBnRFY4UWttNXRuRmNEbUhIYlNTSFFz?oc=5"
     },
     {
-     "titolo": "Nuovo decreto sicurezza, Buonguerrieri (FdI): \"Chi devasta paga, nessuna indulgenza. Disagio non giustifica violenza\"",
-     "fonte": "CesenaToday",
-     "data": "2026-10-21",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXF2cFF1ckNUaWVsQ0JNUGhUN2hJVHNfRHBDay1QeUVVaTNGem9DMWVYQzczT3A5SFdETVUzNHhGbTJ4SEtSU3dXOWZFMFViaVN1YXd4YU9WdmZvN0ZFd3FjcUVzWUU2SjQ1cFV2T2ZSMFJ2dHZIa0V6eUJsbmFJU1FIRC05X0ltRmFvX25jYUMyMnVxczBLdmdsbGtTVFA1SkE?oc=5"
+     "titolo": "Nordio: «Massicci arresti di minori, vogliamo ampliare le carceri giovanili». Salvini: i militari a Milano potranno intervenire con Lince e droni. Mattarella emana il decreto sicurezza",
+     "fonte": "Corriere Roma",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOElrM3dNREtSTFVQLUZmNTBtSFQzUkxSTDY5TWxRcXFSWjBZQ1pqU2pKaTZDNWd2NWFJUmxjdVBaNkRFTVZhNWNOc2FONTc3V2o0eDZUVFFhdWFWTE5EZVBZVEJLcG1qWTgzQzh4a2xDVWVZQ1BXVFN2Y2ZfNktxVDlwMFViUGJUQU1yRnFuSEotUWhRbTNCRHlFR3lDMnRUSHJBTGZUcTZGOGpNQ2hmM0NOUzZkN3I5MFNZdzlOejNMb2JjSTBIUUtmN2Y1ajNHOW5uOTVxajZKUWR1N19NQzdUR3NGb1FTWExuR0JGTkJmUmNxTkwyc1BSWnJPOWJi0gGGAkFVX3lxTFAtQWRhRlVpWVpjWkd3YllvbzUxVzd2QmVNaW5CN0hLQlN3V2Z1UXJwVEwwM0NaSVV0R1FJck9rbDMwTmhDU182RktRbnRLbzVjaF9fVUtla0JuVEFTZGxPdlUzQ29iYlpQVEdsRzN3T2N2RWFENklsQUVBWWlqeWlzWG8xZVF3S2hValZLalJkMmlvbXF4SHJXOVpJRHNmZWpyUGpWbWhzZWRGQTdUWjRwQXc1eTNSQlNVRnBnWHk1Q3FnVllZRHFWcWRjcXk2a0FkSGJfN2pmajFvemNPeXp5MVd1eUJhZ3F1Y20wVko4N2NaMXZrSlhjR0F1RUI2YnVNYWlhZlE?oc=5"
     }
    ]
   },
@@ -3816,7 +3804,7 @@
      "titolo": "DL Autotrasporto, oggi comincia l’esame",
      "fonte": "Staffetta Quotidiana",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMElBMnlCNk9Ub0JySlFMSHZXLUZrMkZTYzhxRzZ6YUlMSXgzT2xsU09QSncxUVQ3TWQyb19qalRYWml4d2VEdjk4enoyUmRGTUo4ZTlPcFJCUHIwODRUY29lb3VzQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1X0NLa0lGaU5KNkNXRE83NDhYdWdnWUU2bjBJN2k5UG1MV0FVdDdCbXItMzRBelZuUlRoMXlIYTRieFdvQkg4Mld4cHVpeHNRal9felFnWGE2S0VLTU5lVTBwYXZlY0dMWUtsejFKek10ZU5mSWRrM25R?oc=5"
     },
     {
      "titolo": "Decreto carburanti, aiuti ad autotrasporto, agricoltura e pesca: credito d’imposta e stop ai leasing",
@@ -3906,7 +3894,7 @@
     {
      "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
      "fonte": "eg news",
-     "data": "2026-10-27",
+     "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
     },
     {
@@ -3958,7 +3946,7 @@
     {
      "titolo": "Governo, via libera all’autonomia differenziata. Salvini: “Ora ultimo passo in Parlamento”",
      "fonte": "eg news",
-     "data": "2026-10-27",
+     "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
     },
     {
@@ -4006,18 +3994,6 @@
      "fonte": "eg news",
      "data": "2026-10-27",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2dsa1ZXMHJLRWo1TEIxOHJOa0hfUW1lSlNzTHVibm9sazRMUDB5RTRTSFFzdUJHbDFyMlRIQTVmR1FVbXEwUkk3dGNLLXVyYkk5RU9md1BRRWlLZUc1enNXbi1CODVqbXpBUmtvVDRZUDhfVldYUzN1RHJlTUY5Tk9PbGNTNDZ6a2FkYnJWbmdsVWVkU3FLRXRYQTh2UTN2c1pKUzF1cUhpamc?oc=5"
-    },
-    {
-     "titolo": "Autonomia, l'allarme di Fontana: \"Tempi lunghi dal Parlamento e rischio modifiche\"",
-     "fonte": "MilanoToday",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmF5VUlFZkhQVzllaWVVR2tocFJfQy1PeWU0ZEthb0dFU1ZNMXNIZVl0ZzNnSkZ1Nk5PendzQ0QzdWs4dGY4R1BBTWhCcFZjLU5nU25sUURTMkFwaW5lR0ZDT2l0VUJRTGcwUXZaLVl4UXpEaFhtXzV6V1lYWDVxbFFR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, Fedriga “Strada ancora lunga ma da Governo primo passo importantissimo”",
-     "fonte": "Radio Lombardia",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTE9BZXN6NktEYVJDY2VGdUQwVVlWWGViQWxCLXlTYlBrRTByZ25SRGdKTEhXVnNKN0hmQW1IZm5VWlpWZDFQVElWWkdvbHMyV1dONjNUUFJ1NDROOEZNZ0dxTkhKQ0w5Yl9ONTlpcEllQkU3eFN2UlhpaWZQTGJmYjlnSm12dHYzSWtrWVpJNHBYN2UzNWJwTk9RMWhiaTJKRFJNS2tmOHBFMkEySHhxM3l3dFR6VTdpUjkzY2N3?oc=5"
     },
     {
      "titolo": "L'esame dei disegni di legge per l'Autonomia differenziata partirà dalla Camera",
@@ -4600,6 +4576,12 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
+     "fonte": "Conquiste del Lavoro",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -4660,6 +4642,12 @@
      "fonte": "La Gazzetta del Mezzogiorno",
      "data": "2026-10-23",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSFRVSXh4c29BRnpXZGdUSGxOcERGRkd2UVFyRDJVcUlldkc5WE5nMDhDWldld1RHTE1HdVJ6cnZNeWJvQV9IdG1fbDZHNUtoSmo5WVdEdk9mYkZOUnZ0QUdzemRzbDlLV0w2TmZwb2JUejA0RmtlMnJlRzdydUgxS0RZbFNmc05Tc09NLUE4RW1LWXZ1TUwtc3dRUk4yS1hxd2pnTUNkSzRsdnBTZnFIZkx1NWcySTRoOENsUEpENUlqd053aV9YZ280eURObV9ucFpDTUUxRld4am16MjNGaEpCQmlCU2dFSHhvWlNtWkt3ZFlhRXRnOFBRWjd6dw?oc=5"
+    },
+    {
+     "titolo": "Ex Ilva: il decreto è legge.Ora tutele per i lavoratori",
+     "fonte": "Conquiste del Lavoro",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnRQbkp0YkR2a21vbDNvd3pUQ0oxWktYU04tRTRqTUthRjZKRy1LVUkyakRQY19pa1c2UWhwWjhIV3hFWnlBYUtfQm9lYjdMcHFJQTVDWldyU2NzZUJITG50QktJaDFvU2Y3Si1XZUdZTFY2dmJwcHBzTmNMX1QyVjRfZ0Rrd3pJSVMzNmp2ZmJkaDNmMDdkVTh0NzlHN1NzTzB0dUs2SWhnVV9GUG05cUJR?oc=5"
     }
    ]
   },
@@ -4692,7 +4680,14 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55721",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "La signora Pham Thi Minh Hue, rappresentante dell'Assemblea nazionale per la città di Can Tho, ha fornito i suoi commenti sulla bozza di legge sulla sicurezza alimentare (modificata).",
+     "fonte": "Vietnam.vn",
+     "data": "2026-10-24",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2pkazZqSFpTZmx1V2RGbGRneUxFd3BDTW95V0lJeWJ5ZUFIWDNVYmI2YW5BbkJNb3RsTjV3eU5BbEJjamFISjI5Q2JGZkVhS2VVZi1OdnQxSUVUTFlFZjdva3B1d1NwTVFTaklndnBld3A5WTBKUEhjbXNwTURCVDdtcnF3bzd4MWJNWDMxOFFCRmdLQ3hqOV9SbTdLemd3d1JNVFVKNmY4OENRejhJbUU5bTNZZkJ5Q3dnd2JWeHRmOF9RcXc?oc=5"
+    }
+   ]
   },
   {
    "id": "55720",
