@@ -7,16 +7,16 @@
   "sigla": "Azione"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-27",
- "al": "2026-10-27",
+ "dal": "2021-10-28",
+ "al": "2026-10-28",
  "riepilogo": {
-  "totale": 49,
+  "totale": 48,
   "camera": 0,
   "parole_camera": 0,
   "governo": 0,
   "senato": 15,
-  "verificate": 34,
-  "prima": "2021-10-27",
+  "verificate": 33,
+  "prima": "2021-12-01",
   "ultima": "2026-09-23",
   "per_anno": [
    {
@@ -24,7 +24,7 @@
     "camera": 0,
     "governo": 0,
     "senato": 0,
-    "verificate": 2
+    "verificate": 1
    },
    {
     "anno": "2022",
@@ -67,7 +67,7 @@
   "fonti_verificate": [
    {
     "fonte": "Facebook",
-    "n": 12
+    "n": 11
    },
    {
     "fonte": "Stampa o altro",
@@ -97,7 +97,7 @@
   "temi": [],
   "temi_per_anno": {}
  },
- "recap": "Dal 27 ottobre 2021 al 23 settembre 2026: 15 interventi nell'Aula del Senato, 34 dichiarazioni scelte e verificate da un fact-checker indipendente.",
+ "recap": "Dal 1 dicembre 2021 al 23 settembre 2026: 15 interventi nell'Aula del Senato, 33 dichiarazioni scelte e verificate da un fact-checker indipendente.",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -120,15 +120,6 @@
    "fonte_originale": "https://twitter.com/CarloCalenda/status/1549043070255398914",
    "fonte_tipo": "X",
    "giudizio": "Il leader di Azione ha ragione, almeno se si considera il livello locale."
-  },
-  {
-   "data": "2021-10-27",
-   "data_verifica": "2021-10-27",
-   "frase": "L’Italia detiene il triste primato in Ue su eventi climatici catastrofici",
-   "url": "https://pagellapolitica.it/fact-checking/calenda-fa-un-po-di-confusione-sul-primato-italiano-negli-eventi-climatici-catastrofici",
-   "fonte_originale": "https://www.facebook.com/watch/?v=1110406213102163",
-   "fonte_tipo": "Facebook",
-   "giudizio": "Nì"
   },
   {
    "data": "2021-12-01",

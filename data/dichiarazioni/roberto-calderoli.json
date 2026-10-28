@@ -7,23 +7,23 @@
   "sigla": "Lega"
  },
  "schieramento": "governo",
- "dal": "2021-10-27",
- "al": "2026-10-27",
+ "dal": "2021-10-28",
+ "al": "2026-10-28",
  "riepilogo": {
-  "totale": 187,
+  "totale": 186,
   "camera": 54,
   "parole_camera": 22926,
   "governo": 0,
-  "senato": 133,
+  "senato": 132,
   "verificate": 0,
-  "prima": "2021-10-27",
+  "prima": "2021-11-02",
   "ultima": "2026-07-29",
   "per_anno": [
    {
     "anno": "2021",
     "camera": 0,
     "governo": 0,
-    "senato": 32,
+    "senato": 31,
     "verificate": 0
    },
    {
@@ -190,7 +190,7 @@
    ]
   }
  },
- "recap": "Dal 27 ottobre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 133 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "recap": "Dal 2 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 132 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -993,19 +993,6 @@
  ],
  "governo": [],
  "senato": [
-  {
-   "data": "2021-10-27",
-   "seduta": 371,
-   "ddl": [
-    {
-     "fase": "S.2005",
-     "titolo": "Misure di prevenzione e contrasto della discriminazione e della violenza per motivi fondati sul sesso, sul genere, sull'orientamento sessuale, sull'identità di genere e sulla disabilità",
-     "url": "https://dati.senato.it/ddl/53457.html"
-    }
-   ],
-   "interventi": 1,
-   "id": "2021-10-27:371"
-  },
   {
    "data": "2021-11-02",
    "seduta": 373,

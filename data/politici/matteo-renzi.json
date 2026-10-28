@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-27",
-  "al": "2026-10-27"
+  "dal": "2021-10-28",
+  "al": "2026-10-28"
  },
  "anagrafica": {
   "nascita": "1975-01-11",
@@ -38,15 +38,6 @@
  "parlamento": {
   "Senato": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Senato",
-     "legislatura": 18,
-     "presenti": 47,
-     "assenti": 22,
-     "missione": 3,
-     "totale": 72
-    },
     {
      "mese": "2021-11",
      "camera": "Senato",
@@ -583,12 +574,36 @@
      "camera": "Senato",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 97,
+     "assenti": 101,
      "missione": 0,
-     "totale": 97
+     "totale": 101
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-468-4",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-27",
+     "descrizione": "Votazione finale",
+     "atto": "S.1953",
+     "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 80,
+      "contrari": 51,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60275&sessionId=468&voteId=4",
+     "voto": "Non ha votato",
+     "gruppo": "IV-CR",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 4,
+      "In congedo o missione": 2
+     }
+    },
     {
      "id": "19-465-19",
      "camera": "Senato",
@@ -9125,9 +9140,9 @@
  "indicatori": {
   "Senato": {
    "presenza": {
-    "presenti": 3877,
-    "totale": 9025,
-    "percentuale": 43.0
+    "presenti": 3830,
+    "totale": 8957,
+    "percentuale": 42.8
    },
    "fedelta_gruppo": {
     "allineati": 41,
@@ -9135,7 +9150,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 355
+   "voti_finali_e_fiducia": 356
   }
  },
  "posizioni": [
@@ -9171,7 +9186,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-27",
+ "aggiornato_il": "2026-10-28",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",
@@ -9188,7 +9203,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Al Senato ha partecipato al 43,0% delle votazioni del periodo (3.877 su 9.025); 1.472 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 42,8% delle votazioni del periodo (3.830 su 8.957); 1.469 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 41 volte su 41 (100,0%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."

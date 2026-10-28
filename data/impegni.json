@@ -163,7 +163,7 @@
     "valore": 0.7284
    },
    "oggi": {
-    "data": "2026-10-19",
+    "data": "2026-10-26",
     "valore": 0.6729
    },
    "variazione_dall_incarico": 40.7,
@@ -590,7 +590,7 @@
      0.6729
     ],
     [
-     "2026-10-19",
+     "2026-10-26",
      0.6729
     ]
    ],
@@ -3009,6 +3009,10 @@
     [
      "2026-10-19",
      0.6729
+    ],
+    [
+     "2026-10-26",
+     0.6729
     ]
    ]
   },
@@ -3034,7 +3038,7 @@
     "valore": 0.6174
    },
    "oggi": {
-    "data": "2026-10-19",
+    "data": "2026-10-26",
     "valore": 0.6729
    },
    "variazione_dall_incarico": 83.2,
@@ -3461,7 +3465,7 @@
      0.6229
     ],
     [
-     "2026-10-19",
+     "2026-10-26",
      0.6729
     ]
    ],
@@ -5879,6 +5883,10 @@
     ],
     [
      "2026-10-19",
+     0.6729
+    ],
+    [
+     "2026-10-26",
      0.6729
     ]
    ]
@@ -10845,11 +10853,11 @@
     "valore": 1.7338
    },
    "oggi": {
-    "data": "2026-10-19",
-    "valore": 2.0157
+    "data": "2026-10-26",
+    "valore": 2.0058
    },
-   "variazione_dall_incarico": 18.7,
-   "differenza_dall_incarico": 0.3181,
+   "variazione_dall_incarico": 18.2,
+   "differenza_dall_incarico": 0.3082,
    "serie": [
     [
      "2018-01-29",
@@ -11272,8 +11280,8 @@
      2.1562
     ],
     [
-     "2026-10-19",
-     2.0157
+     "2026-10-26",
+     2.0058
     ]
    ],
    "temi": [
@@ -13691,6 +13699,10 @@
     [
      "2026-10-19",
      2.0157
+    ],
+    [
+     "2026-10-26",
+     2.0058
     ]
    ]
   },
@@ -13716,11 +13728,11 @@
     "valore": 1.5932
    },
    "oggi": {
-    "data": "2026-10-19",
-    "valore": 2.2444
+    "data": "2026-10-26",
+    "valore": 2.2467
    },
-   "variazione_dall_incarico": 19.2,
-   "differenza_dall_incarico": 0.3617,
+   "variazione_dall_incarico": 19.3,
+   "differenza_dall_incarico": 0.364,
    "serie": [
     [
      "2018-01-29",
@@ -14143,8 +14155,8 @@
      2.3507
     ],
     [
-     "2026-10-19",
-     2.2444
+     "2026-10-26",
+     2.2467
     ]
    ],
    "temi": [
@@ -16562,6 +16574,10 @@
     [
      "2026-10-19",
      2.2444
+    ],
+    [
+     "2026-10-26",
+     2.2467
     ]
    ]
   },
@@ -16589,10 +16605,10 @@
    },
    "oggi": {
     "data": "2026-09-28",
-    "valore": 37722
+    "valore": 38199
    },
-   "variazione_dall_incarico": -59.4,
-   "differenza_dall_incarico": -55216,
+   "variazione_dall_incarico": -58.9,
+   "differenza_dall_incarico": -54739,
    "serie": [
     [
      "2018-01-28",
@@ -17012,7 +17028,7 @@
     ],
     [
      "2026-09-28",
-     37722
+     38199
     ]
    ],
    "temi": [
@@ -17581,7 +17597,7 @@
     ],
     [
      "2026-09-28",
-     37722
+     38199
     ]
    ]
   },
@@ -19477,7 +19493,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -19906,7 +19922,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -19938,7 +19954,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -20367,7 +20383,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -20390,7 +20406,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -20769,12 +20785,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -62.0,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -61611,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -61.5,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -61134,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -21194,7 +21210,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -21307,7 +21323,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-62,0%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -23189,12 +23205,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -23614,7 +23630,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -23727,7 +23743,7 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
     }
    ],
    "riepilogo": {
@@ -23798,7 +23814,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -24227,7 +24243,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -24259,7 +24275,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -24688,7 +24704,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -24711,7 +24727,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -25100,12 +25116,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -25525,7 +25541,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -25638,7 +25654,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -27350,7 +27366,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -27779,7 +27795,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -27811,7 +27827,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -28240,7 +28256,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -28263,7 +28279,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -28817,12 +28833,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -62.0,
-       "variazione_dalla_prima_richiesta": -11.7,
-       "differenza_dall_incarico": -61611,
-       "differenza_dalla_prima_richiesta": -4980,
+       "variazione_dall_incarico": -61.5,
+       "variazione_dalla_prima_richiesta": -10.5,
+       "differenza_dall_incarico": -61134,
+       "differenza_dalla_prima_richiesta": -4503,
        "serie": [
         [
          "2018-01-28",
@@ -29242,7 +29258,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -29355,7 +29371,7 @@
       "riduzione": 19,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 19 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (19 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-62,0%); rispetto alla prima richiesta (28 luglio 2018: 42.702) -11,7%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 19 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (19 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%); rispetto alla prima richiesta (28 luglio 2018: 42.702) -10,5%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -31146,7 +31162,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -31575,7 +31591,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -31607,7 +31623,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -32036,7 +32052,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -32059,7 +32075,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -32140,13 +32156,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.0157
+        "data": "2026-10-26",
+        "valore": 2.0058
        },
-       "variazione_dall_incarico": 18.7,
-       "variazione_dalla_prima_richiesta": 19.2,
-       "differenza_dall_incarico": 0.3181,
-       "differenza_dalla_prima_richiesta": 0.3242,
+       "variazione_dall_incarico": 18.2,
+       "variazione_dalla_prima_richiesta": 18.6,
+       "differenza_dall_incarico": 0.3082,
+       "differenza_dalla_prima_richiesta": 0.3143,
        "serie": [
         [
          "2018-01-29",
@@ -32569,8 +32585,8 @@
          2.1562
         ],
         [
-         "2026-10-19",
-         2.0157
+         "2026-10-26",
+         2.0058
         ]
        ],
        "esito": "direzione_opposta"
@@ -32601,13 +32617,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.2444
+        "data": "2026-10-26",
+        "valore": 2.2467
        },
-       "variazione_dall_incarico": 19.2,
-       "variazione_dalla_prima_richiesta": 24.5,
-       "differenza_dall_incarico": 0.3617,
-       "differenza_dalla_prima_richiesta": 0.4413,
+       "variazione_dall_incarico": 19.3,
+       "variazione_dalla_prima_richiesta": 24.6,
+       "differenza_dall_incarico": 0.364,
+       "differenza_dalla_prima_richiesta": 0.4436,
        "serie": [
         [
          "2018-01-29",
@@ -33030,8 +33046,8 @@
          2.3507
         ],
         [
-         "2026-10-19",
-         2.2444
+         "2026-10-26",
+         2.2467
         ]
        ],
        "esito": "direzione_opposta"
@@ -33053,7 +33069,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,016 €/l al 19 ottobre 2026 (+18,7%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,244 €/l al 19 ottobre 2026 (+19,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -33454,12 +33470,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -33879,7 +33895,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -33992,7 +34008,7 @@
       "riduzione": 6,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
@@ -36165,12 +36181,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -62.0,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -61611,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -61.5,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -61134,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -36590,7 +36606,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -36703,7 +36719,7 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-62,0%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%). Leggi del Governo con il tema nel titolo da allora: 14."
     }
    ],
    "riepilogo": {
@@ -36846,7 +36862,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -37275,7 +37291,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -37307,7 +37323,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -37736,7 +37752,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -37759,7 +37775,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -38349,12 +38365,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -48.0,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -34849,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -47.4,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -34372,
        "serie": [
         [
          "2018-01-28",
@@ -38774,7 +38790,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -38887,7 +38903,7 @@
       "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -48,0%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -47,4%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -40800,7 +40816,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -41229,7 +41245,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -41261,7 +41277,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -41690,7 +41706,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -41713,7 +41729,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -42111,12 +42127,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -42536,7 +42552,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -42649,7 +42665,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -44432,7 +44448,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -44861,7 +44877,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -44893,7 +44909,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -45322,7 +45338,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -45345,7 +45361,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%); rispetto alla prima richiesta (5 marzo 2018: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%); rispetto alla prima richiesta (5 marzo 2018: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (5 marzo 2018: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (5 marzo 2018: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -45462,13 +45478,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.0157
+        "data": "2026-10-26",
+        "valore": 2.0058
        },
-       "variazione_dall_incarico": 18.7,
-       "variazione_dalla_prima_richiesta": 19.2,
-       "differenza_dall_incarico": 0.3181,
-       "differenza_dalla_prima_richiesta": 0.3242,
+       "variazione_dall_incarico": 18.2,
+       "variazione_dalla_prima_richiesta": 18.6,
+       "differenza_dall_incarico": 0.3082,
+       "differenza_dalla_prima_richiesta": 0.3143,
        "serie": [
         [
          "2018-01-29",
@@ -45891,8 +45907,8 @@
          2.1562
         ],
         [
-         "2026-10-19",
-         2.0157
+         "2026-10-26",
+         2.0058
         ]
        ],
        "esito": "direzione_opposta"
@@ -45923,13 +45939,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.2444
+        "data": "2026-10-26",
+        "valore": 2.2467
        },
-       "variazione_dall_incarico": 19.2,
-       "variazione_dalla_prima_richiesta": 24.5,
-       "differenza_dall_incarico": 0.3617,
-       "differenza_dalla_prima_richiesta": 0.4413,
+       "variazione_dall_incarico": 19.3,
+       "variazione_dalla_prima_richiesta": 24.6,
+       "differenza_dall_incarico": 0.364,
+       "differenza_dalla_prima_richiesta": 0.4436,
        "serie": [
         [
          "2018-01-29",
@@ -46352,8 +46368,8 @@
          2.3507
         ],
         [
-         "2026-10-19",
-         2.2444
+         "2026-10-26",
+         2.2467
         ]
        ],
        "esito": "direzione_opposta"
@@ -46375,7 +46391,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,016 €/l al 19 ottobre 2026 (+18,7%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,244 €/l al 19 ottobre 2026 (+19,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -46797,12 +46813,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": 7.9,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": 2747,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": 9.2,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": 3224,
        "serie": [
         [
          "2018-01-28",
@@ -47222,7 +47238,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -47335,7 +47351,7 @@
       "riduzione": 7,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%); rispetto alla prima richiesta (28 settembre 2018: 34.975) +7,9%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%); rispetto alla prima richiesta (28 settembre 2018: 34.975) +9,2%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
@@ -49336,7 +49352,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -49765,7 +49781,7 @@
          0.6729
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -49797,7 +49813,7 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-19",
+        "data": "2026-10-26",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 83.2,
@@ -50226,7 +50242,7 @@
          0.6229
         ],
         [
-         "2026-10-19",
+         "2026-10-26",
          0.6729
         ]
        ],
@@ -50249,7 +50265,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 19 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -50311,13 +50327,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.0157
+        "data": "2026-10-26",
+        "valore": 2.0058
        },
-       "variazione_dall_incarico": 18.7,
-       "variazione_dalla_prima_richiesta": 19.2,
-       "differenza_dall_incarico": 0.3181,
-       "differenza_dalla_prima_richiesta": 0.3242,
+       "variazione_dall_incarico": 18.2,
+       "variazione_dalla_prima_richiesta": 18.6,
+       "differenza_dall_incarico": 0.3082,
+       "differenza_dalla_prima_richiesta": 0.3143,
        "serie": [
         [
          "2018-01-29",
@@ -50740,8 +50756,8 @@
          2.1562
         ],
         [
-         "2026-10-19",
-         2.0157
+         "2026-10-26",
+         2.0058
         ]
        ],
        "esito": "direzione_opposta"
@@ -50772,13 +50788,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-19",
-        "valore": 2.2444
+        "data": "2026-10-26",
+        "valore": 2.2467
        },
-       "variazione_dall_incarico": 19.2,
-       "variazione_dalla_prima_richiesta": 24.5,
-       "differenza_dall_incarico": 0.3617,
-       "differenza_dalla_prima_richiesta": 0.4413,
+       "variazione_dall_incarico": 19.3,
+       "variazione_dalla_prima_richiesta": 24.6,
+       "differenza_dall_incarico": 0.364,
+       "differenza_dalla_prima_richiesta": 0.4436,
        "serie": [
         [
          "2018-01-29",
@@ -51201,8 +51217,8 @@
          2.3507
         ],
         [
-         "2026-10-19",
-         2.2444
+         "2026-10-26",
+         2.2467
         ]
        ],
        "esito": "direzione_opposta"
@@ -51224,7 +51240,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,016 €/l al 19 ottobre 2026 (+18,7%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,244 €/l al 19 ottobre 2026 (+19,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -51589,12 +51605,12 @@
        },
        "oggi": {
         "data": "2026-09-28",
-        "valore": 37722
+        "valore": 38199
        },
-       "variazione_dall_incarico": -59.4,
-       "variazione_dalla_prima_richiesta": -56.3,
-       "differenza_dall_incarico": -55216,
-       "differenza_dalla_prima_richiesta": -48596,
+       "variazione_dall_incarico": -58.9,
+       "variazione_dalla_prima_richiesta": -55.7,
+       "differenza_dall_incarico": -54739,
+       "differenza_dalla_prima_richiesta": -48119,
        "serie": [
         [
          "2018-01-28",
@@ -52014,7 +52030,7 @@
         ],
         [
          "2026-09-28",
-         37722
+         38199
         ]
        ],
        "esito": "direzione_chiesta"
@@ -52127,7 +52143,7 @@
       "riduzione": 6,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 37.722 nei 12 mesi fino a settembre 2026 (-59,4%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-27",
-  "al": "2026-10-27"
+  "dal": "2021-10-28",
+  "al": "2026-10-28"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -2573,11 +2573,36 @@
      "legislatura": 19,
      "presenti": 61,
      "assenti": 36,
-     "missione": 0,
-     "totale": 97
+     "missione": 4,
+     "totale": 101
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-468-4",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-27",
+     "descrizione": "Votazione finale",
+     "atto": "S.1953",
+     "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 80,
+      "contrari": 51,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60275&sessionId=468&voteId=4",
+     "voto": "In congedo o missione",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 23,
+      "In congedo o missione": 5,
+      "Presente non votante": 2
+     }
+    },
     {
      "id": "19-465-19",
      "camera": "Senato",
@@ -10488,8 +10513,8 @@
   "Senato": {
    "presenza": {
     "presenti": 6348,
-    "totale": 8400,
-    "percentuale": 75.6
+    "totale": 8404,
+    "percentuale": 75.5
    },
    "fedelta_gruppo": {
     "allineati": 235,
@@ -10497,7 +10522,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 316
+   "voti_finali_e_fiducia": 317
   }
  },
  "posizioni": [
@@ -10615,7 +10640,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-27",
+ "aggiornato_il": "2026-10-28",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10634,7 +10659,7 @@
  "sintesi": [
   "Alla Camera ha partecipato al 48,7% delle votazioni del periodo (961 su 1.972); la mediana dei colleghi è 72,8%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 34 volte su 34 (100,0%).",
-  "Al Senato ha partecipato al 75,6% delle votazioni del periodo (6.348 su 8.400); 447 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.404); 451 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

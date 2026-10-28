@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-27",
-  "al": "2026-10-27"
+  "dal": "2021-10-28",
+  "al": "2026-10-28"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -3611,6 +3611,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
     },
     {
+     "id": "vs19_666_028",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Disposizioni in materia di terapie digitali (Testo unificato PDL 1208-2095-2220)",
+     "atto": "C.1208",
+     "titolo": "LOIZZO ed altri: \"Disposizioni in materia di terapie digitali",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 8,
+      "Non ha votato": 2
+     },
+     "esito": {
+      "favorevoli": 234,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
+    },
+    {
      "id": "vs19_666_029",
      "camera": "Camera",
      "legislatura": 19,
@@ -3633,30 +3657,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_028",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "TU PDL 1208-A - VOTO FINALE",
-     "atto": "C.1208",
-     "titolo": "LOIZZO ed altri: \"Disposizioni in materia di terapie digitali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "AVS",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 8,
-      "Non ha votato": 2
-     },
-     "esito": {
-      "favorevoli": 234,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -14323,7 +14323,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-27",
+ "aggiornato_il": "2026-10-28",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",

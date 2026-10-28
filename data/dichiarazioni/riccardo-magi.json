@@ -7,17 +7,17 @@
   "sigla": "+E"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-27",
- "al": "2026-10-27",
+ "dal": "2021-10-28",
+ "al": "2026-10-28",
  "riepilogo": {
-  "totale": 320,
-  "camera": 318,
-  "parole_camera": 132326,
+  "totale": 321,
+  "camera": 319,
+  "parole_camera": 132406,
   "governo": 0,
   "senato": 0,
   "verificate": 2,
   "prima": "2021-11-10",
-  "ultima": "2026-10-21",
+  "ultima": "2026-10-27",
   "per_anno": [
    {
     "anno": "2021",
@@ -56,7 +56,7 @@
    },
    {
     "anno": "2026",
-    "camera": 65,
+    "camera": 66,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -69,7 +69,7 @@
    },
    {
     "categoria": "Leggi e decreti in esame",
-    "n": 88
+    "n": 89
    },
    {
     "categoria": "Question time",
@@ -151,7 +151,7 @@
    },
    {
     "tema": "Unione europea",
-    "n": 45
+    "n": 46
    },
    {
     "tema": "Sicurezza e criminalità",
@@ -175,7 +175,7 @@
    },
    {
     "tema": "Sanità",
-    "n": 9
+    "n": 10
    },
    {
     "tema": "Economia e conti pubblici",
@@ -267,12 +267,12 @@
    ],
    "2026": [
     {
-     "tema": "Giustizia",
+     "tema": "Unione europea",
      "n": 10
     },
     {
-     "tema": "Unione europea",
-     "n": 9
+     "tema": "Giustizia",
+     "n": 10
     },
     {
      "tema": "Esteri e difesa",
@@ -281,7 +281,7 @@
    ]
   }
  },
- "recap": "Dal 10 novembre 2021 al 21 ottobre 2026: 318 interventi nell'Aula della Camera (132.326 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (45), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+ "recap": "Dal 10 novembre 2021 al 27 ottobre 2026: 319 interventi nell'Aula della Camera (132.406 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -5179,6 +5179,23 @@
    ],
    "parole": 307,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00080.sub00020.int00060"
+  },
+  {
+   "data": "2026-10-27",
+   "leg": 19,
+   "seduta": 734,
+   "argomento": "Seguito della discussione del disegno di legge: Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie (A.C. 2700-A ​)…",
+   "fase": "Articolo 8 - A.C. 2700-A ​",
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "MISTO-+EU-SUEU",
+   "sunto": "Solamente per sottolineare come questa norma è una mancanza di rispetto anche alla memoria delle vittime del COVID e, tra loro, centinaia di medici che hanno perso la vita in servizio per salvare la vita a malati e a cittadini italiani (Applausi dei deputati dei gruppi Misto-+Europa-Stati Uniti… […] Anche di questa mancanza di rispetto per la memoria dei defunti.",
+   "temi": [
+    "Sanità",
+    "Unione europea"
+   ],
+   "parole": 80,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0734&tipo=stenografico#sed0734.stenografico.tit00080.sub00090.int00120"
   }
  ],
  "governo": [],

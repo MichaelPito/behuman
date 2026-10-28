@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-27",
-  "al": "2026-10-27"
+  "dal": "2021-10-28",
+  "al": "2026-10-28"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -57,15 +57,6 @@
  "parlamento": {
   "Senato": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Senato",
-     "legislatura": 18,
-     "presenti": 0,
-     "assenti": 0,
-     "missione": 72,
-     "totale": 72
-    },
     {
      "mese": "2021-11",
      "camera": "Senato",
@@ -603,11 +594,35 @@
      "legislatura": 19,
      "presenti": 2,
      "assenti": 1,
-     "missione": 94,
-     "totale": 97
+     "missione": 98,
+     "totale": 101
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-468-4",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-27",
+     "descrizione": "Votazione finale",
+     "atto": "S.1953",
+     "titolo": "Disposizioni in materia di giovani e servizio civile universale e deleghe al Governo per il riordino della materia",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 80,
+      "contrari": 51,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60275&sessionId=468&voteId=4",
+     "voto": "In congedo o missione",
+     "gruppo": "FdI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 49,
+      "In congedo o missione": 12
+     }
+    },
     {
      "id": "19-465-19",
      "camera": "Senato",
@@ -9406,7 +9421,7 @@
   "Senato": {
    "presenza": {
     "presenti": 152,
-    "totale": 9025,
+    "totale": 8957,
     "percentuale": 1.7
    },
    "fedelta_gruppo": {
@@ -9415,7 +9430,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 355
+   "voti_finali_e_fiducia": 356
   }
  },
  "posizioni": [],
@@ -9440,7 +9455,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-27",
+ "aggiornato_il": "2026-10-28",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",
@@ -9457,7 +9472,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 9.025); 8.842 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 8.957); 8.774 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

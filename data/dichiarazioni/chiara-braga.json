@@ -7,21 +7,21 @@
   "sigla": "PD"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-27",
- "al": "2026-10-27",
+ "dal": "2021-10-28",
+ "al": "2026-10-28",
  "riepilogo": {
-  "totale": 196,
-  "camera": 196,
-  "parole_camera": 114224,
+  "totale": 195,
+  "camera": 195,
+  "parole_camera": 113956,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
-  "prima": "2021-10-27",
+  "prima": "2021-11-03",
   "ultima": "2026-10-13",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 2,
+    "camera": 1,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -65,7 +65,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 127
+    "n": 126
    },
    {
     "categoria": "Altri argomenti",
@@ -142,7 +142,7 @@
   "temi": [
    {
     "tema": "Esteri e difesa",
-    "n": 32
+    "n": 31
    },
    {
     "tema": "Unione europea",
@@ -166,7 +166,7 @@
    },
    {
     "tema": "Ambiente e clima",
-    "n": 22
+    "n": 21
    },
    {
     "tema": "Lavoro, salari e pensioni",
@@ -201,10 +201,6 @@
    "2021": [
     {
      "tema": "Ambiente e clima",
-     "n": 2
-    },
-    {
-     "tema": "Esteri e difesa",
      "n": 1
     },
     {
@@ -284,7 +280,7 @@
    ]
   }
  },
- "recap": "Dal 27 ottobre 2021 al 13 ottobre 2026: 196 interventi nell'Aula della Camera (114.224 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (32), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (127 interventi).",
+ "recap": "Dal 3 novembre 2021 al 13 ottobre 2026: 195 interventi nell'Aula della Camera (113.956 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (31), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (126 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -300,23 +296,6 @@
  },
  "verificate": [],
  "camera": [
-  {
-   "data": "2021-10-27",
-   "leg": 18,
-   "seduta": 583,
-   "argomento": "Interventi di fine seduta.",
-   "fase": null,
-   "categoria": "Ordine dei lavori e procedura",
-   "ruolo": null,
-   "gruppo": "PD",
-   "sunto": "Antonio Cederna è stato un archeologo, giornalista, urbanista, attivista di associazioni, parlamentare e amministratore pubblico che ha dedicato la propria vita all'impegno per la difesa del patrimonio storico e artistico del nostro Paese, del paesaggio e dell'ambiente.",
-   "temi": [
-    "Esteri e difesa",
-    "Ambiente e clima"
-   ],
-   "parole": 268,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0583&tipo=stenografico#sed0583.stenografico.tit00120.int00040"
-  },
   {
    "data": "2021-11-03",
    "leg": 18,

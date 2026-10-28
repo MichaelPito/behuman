@@ -7,17 +7,17 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-10-27",
- "al": "2026-10-27",
+ "dal": "2021-10-28",
+ "al": "2026-10-28",
  "riepilogo": {
-  "totale": 703,
+  "totale": 705,
   "camera": 109,
   "parole_camera": 184826,
-  "governo": 508,
+  "governo": 510,
   "senato": 0,
   "verificate": 86,
   "prima": "2021-11-02",
-  "ultima": "2026-10-26",
+  "ultima": "2026-10-27",
   "per_anno": [
    {
     "anno": "2021",
@@ -57,7 +57,7 @@
    {
     "anno": "2026",
     "camera": 9,
-    "governo": 126,
+    "governo": 128,
     "senato": 0,
     "verificate": 25
    }
@@ -155,7 +155,7 @@
   "temi": [
    {
     "tema": "Unione europea",
-    "n": 339
+    "n": 340
    },
    {
     "tema": "Esteri e difesa",
@@ -163,11 +163,11 @@
    },
    {
     "tema": "Energia e carburanti",
-    "n": 213
+    "n": 214
    },
    {
     "tema": "Economia e conti pubblici",
-    "n": 146
+    "n": 148
    },
    {
     "tema": "Famiglia e natalità",
@@ -175,7 +175,7 @@
    },
    {
     "tema": "Lavoro, salari e pensioni",
-    "n": 133
+    "n": 134
    },
    {
     "tema": "Immigrazione",
@@ -203,7 +203,7 @@
    },
    {
     "tema": "Sanità",
-    "n": 65
+    "n": 66
    },
    {
     "tema": "Giustizia",
@@ -270,11 +270,11 @@
    "2026": [
     {
      "tema": "Unione europea",
-     "n": 64
+     "n": 65
     },
     {
      "tema": "Energia e carburanti",
-     "n": 59
+     "n": 60
     },
     {
      "tema": "Esteri e difesa",
@@ -283,7 +283,7 @@
    ]
   }
  },
- "recap": "Dal 2 novembre 2021 al 26 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 508 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (339), esteri e difesa (283), energia e carburanti (213). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 2 novembre 2021 al 27 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 510 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (214). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -9653,6 +9653,32 @@
    ],
    "parole": 519,
    "url": "https://www.governo.it/it/articolo/messaggio-del-presidente-meloni-occasione-della-assemblea-pubblica-2026-di-federchimica",
+   "fonte": "governo.it"
+  },
+  {
+   "data": "2026-10-27",
+   "titolo": "Festival delle Regioni e delle Province Autonome, il videomessaggio del Presidente Meloni",
+   "sunto": "Caro Presidente Fedriga, cari amministratori, oggi si avvia alla conclusione la quinta edizione del Festival delle Regioni e delle Province Autonome e ci tenevo a far arrivare a tutti voi il mio saluto e il mio contributo ai lavori. […] E i risultati raggiunti in questi anni testimoniano che quando lo Stato, le Regioni e le Province autonome lavorano fianco a fianco, allora l'Italia può raggiungere traguardi ambiziosi.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Sanità",
+    "Unione europea"
+   ],
+   "parole": 521,
+   "url": "https://www.governo.it/it/articolo/festival-delle-regioni-e-delle-province-autonome-il-videomessaggio-del-presidente-meloni",
+   "fonte": "governo.it"
+  },
+  {
+   "data": "2026-10-27",
+   "titolo": "Il Presidente Meloni al Forum economico Moneta",
+   "sunto": "Chiaramente, siccome l'economia è un tema molto complesso, meno noi capiamo di questa materia e meno siamo in grado di determinare o di aggiustare il tiro della nostra quotidianità, per cui comprendere l'economia è un altro modo per essere liberi e quelli che ti aiutano a comprendere l'economia,…",
+   "temi": [
+    "Economia e conti pubblici",
+    "Lavoro, salari e pensioni",
+    "Energia e carburanti"
+   ],
+   "parole": 830,
+   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952",
    "fonte": "governo.it"
   }
  ],

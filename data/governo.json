@@ -5,12 +5,12 @@
   "fonte": "http://dati.camera.it/ocd/governo.rdf/g202"
  },
  "statistiche": {
-  "leggi": 364,
-  "del_governo": 272,
-  "decreti_convertiti": 123,
+  "leggi": 366,
+  "del_governo": 273,
+  "decreti_convertiti": 124,
   "con_fiducia": 69,
   "voti_fiducia": 115,
-  "con_descrizione_governo": 152,
+  "con_descrizione_governo": 153,
   "con_pronunce_corte": 49,
   "per_anno": [
    {
@@ -43,16 +43,16 @@
    },
    {
     "anno": "2026",
-    "leggi": 87,
-    "del_governo": 65,
-    "decreti": 23,
+    "leggi": 89,
+    "del_governo": 66,
+    "decreti": 24,
     "con_fiducia": 14
    }
   ],
   "per_tipo": [
    {
     "tipo": "conversione di decreto-legge",
-    "n": 123
+    "n": 124
    },
    {
     "tipo": "ratifica di un accordo internazionale",
@@ -21219,7 +21219,7 @@
       "titolo": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
       "quesito": "",
       "estremi": "5400003",
-      "firme_online": 221,
+      "firme_online": 222,
       "soglia": 50000,
       "inizio": "2026-07-19",
       "fine": "2027-01-19",
@@ -27613,6 +27613,65 @@
    }
   },
   {
+   "id": "L-2026-195",
+   "numero": 195,
+   "data": "2026-10-15",
+   "tipo": "legge ordinaria",
+   "titolo": "Istituzione della Giornata nazionale del riciclo della carta",
+   "titolo_breve": "Istituzione della Giornata nazionale del riciclo della carta",
+   "iniziativa": "Parlamentare",
+   "presentata_da": [],
+   "del_governo": false,
+   "decreto_legge_del": null,
+   "gazzetta": null,
+   "normattiva": null,
+   "iter": [
+    {
+     "fase": "C.2111",
+     "ramo": "Camera",
+     "presentato": "2024-10-22",
+     "stato": "approvato",
+     "data_stato": "2026-03-10",
+     "url": "http://www.camera.it/_dati/leg19/lavori/schedela/trovaschedacamera_wai.asp?PDL=2111"
+    },
+    {
+     "fase": "S.1833",
+     "ramo": "Senato",
+     "presentato": "2026-03-11",
+     "stato": "appr. definit. Legge",
+     "data_stato": "2026-10-06",
+     "url": "https://dati.senato.it/ddl/59978.html"
+    }
+   ],
+   "voti": [
+    {
+     "camera": "Camera",
+     "fase": "C.2111",
+     "data": "2026-03-10",
+     "tipo": "finale",
+     "favorevoli": 227,
+     "contrari": 0,
+     "astenuti": 36,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_630_008"
+    }
+   ],
+   "scheda_senato": "https://dati.senato.it/ddl/59978.html",
+   "in_pratica": {
+    "argomento": "Istituzione della Giornata nazionale del riciclo della carta",
+    "cosa_e": "È una legge ordinaria: Camera e Senato l'hanno approvata nello stesso testo. Di regola entra in vigore 15 giorni dopo la pubblicazione in Gazzetta Ufficiale.",
+    "fatti": [
+     "Presentata da parlamentari il 22 ottobre 2024, è diventata legge il 15 ottobre 2026: 723 giorni e 2 letture tra Camera e Senato.",
+     "Ultimo voto finale — Camera: 227 sì, 0 no, 36 astenuti (10 marzo 2026). Nessun voto contrario."
+    ]
+   },
+   "descrizione_governo": null,
+   "reazioni": {
+    "corte": [],
+    "firme": [],
+    "referendum": []
+   }
+  },
+  {
    "id": "L-2026-187",
    "numero": 187,
    "data": "2026-10-16",
@@ -27675,6 +27734,81 @@
     ]
    },
    "descrizione_governo": null,
+   "reazioni": {
+    "corte": [],
+    "firme": [],
+    "referendum": []
+   }
+  },
+  {
+   "id": "L-2026-196",
+   "numero": 196,
+   "data": "2026-10-23",
+   "tipo": "conversione di decreto-legge",
+   "titolo": "Conversione in legge, con modificazioni, del decreto-legge 28 agosto 2026, n. 154, recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+   "titolo_breve": null,
+   "iniziativa": "Governativa",
+   "presentata_da": [],
+   "del_governo": true,
+   "decreto_legge_del": "2026-08-28",
+   "gazzetta": null,
+   "normattiva": null,
+   "iter": [
+    {
+     "fase": "S.2023",
+     "ramo": "Senato",
+     "presentato": "2026-08-28",
+     "stato": "approvato",
+     "data_stato": "2026-10-07",
+     "url": "https://dati.senato.it/ddl/60505.html"
+    },
+    {
+     "fase": "C.3131",
+     "ramo": "Camera",
+     "presentato": "2026-10-07",
+     "stato": "appr. definit. Legge",
+     "data_stato": "2026-10-20",
+     "url": "http://www.camera.it/_dati/leg19/lavori/schedela/trovaschedacamera_wai.asp?PDL=3131"
+    }
+   ],
+   "voti": [
+    {
+     "camera": "Senato",
+     "fase": "S.2023",
+     "data": "2026-10-07",
+     "tipo": "finale",
+     "favorevoli": 73,
+     "contrari": 49,
+     "astenuti": 3,
+     "fonte": "http://dati.senato.it/votazione/19-463-6"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.3131",
+     "data": "2026-10-20",
+     "tipo": "finale",
+     "favorevoli": 125,
+     "contrari": 43,
+     "astenuti": 52,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_729_042"
+    }
+   ],
+   "scheda_senato": "https://dati.senato.it/ddl/60505.html",
+   "in_pratica": {
+    "argomento": "Misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+    "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 28 agosto 2026 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
+    "fatti": [
+     "Presentata dal Governo il 28 agosto 2026, è diventata legge il 23 ottobre 2026: 56 giorni e 2 letture tra Camera e Senato.",
+     "Ultimo voto finale — Senato: 73 sì, 49 no, 3 astenuti (7 ottobre 2026); Camera: 125 sì, 43 no, 52 astenuti (20 ottobre 2026)."
+    ]
+   },
+   "descrizione_governo": {
+    "testo": "[…] ha approvato un decreto-legge recante misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale. Il provvedimento interviene sulla periodicità delle garanzie finanziarie prestate a presidio delle attività di gestione dei rifiuti e delle discariche interne agli stabilimenti siderurgici di interesse strategico nazionale soggetti a procedure di vendita, per corrispondere all’esigenza di preservare la funzionalità degli impianti, nelle more della vendita stessa, nel rispetto delle norme ambientali. ٠٠٠٠٠",
+    "titolo": "Misure urgenti per assicurare la continuità operativa di impianti di interesse strategico nazionale",
+    "data": "2026-08-26",
+    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-186/32524",
+    "somiglianza": 1.0
+   },
    "reazioni": {
     "corte": [],
     "firme": [],

@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 703,
+    "totale": 705,
     "camera": 109,
     "senato": 0,
-    "governo": 508,
+    "governo": 510,
     "verificate": 86,
     "prima": "2021-11-02",
-    "ultima": "2026-10-26"
+    "ultima": "2026-10-27"
    },
-   "recap": "Dal 2 novembre 2021 al 26 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 508 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (339), esteri e difesa (283), energia e carburanti (213). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 2 novembre 2021 al 27 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 510 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (214). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -245,15 +245,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 187,
+    "totale": 186,
     "camera": 54,
-    "senato": 133,
+    "senato": 132,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-10-27",
+    "prima": "2021-11-02",
     "ultima": "2026-07-29"
    },
-   "recap": "Dal 27 ottobre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 133 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+   "recap": "Dal 2 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 132 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -432,15 +432,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 49,
+    "totale": 48,
     "camera": 0,
     "senato": 15,
     "governo": 0,
-    "verificate": 34,
-    "prima": "2021-10-27",
+    "verificate": 33,
+    "prima": "2021-12-01",
     "ultima": "2026-09-23"
    },
-   "recap": "Dal 27 ottobre 2021 al 23 settembre 2026: 15 interventi nell'Aula del Senato, 34 dichiarazioni scelte e verificate da un fact-checker indipendente.",
+   "recap": "Dal 1 dicembre 2021 al 23 settembre 2026: 15 interventi nell'Aula del Senato, 33 dichiarazioni scelte e verificate da un fact-checker indipendente.",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -485,15 +485,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 320,
-    "camera": 318,
+    "totale": 321,
+    "camera": 319,
     "senato": 0,
     "governo": 0,
     "verificate": 2,
     "prima": "2021-11-10",
-    "ultima": "2026-10-21"
+    "ultima": "2026-10-27"
    },
-   "recap": "Dal 10 novembre 2021 al 21 ottobre 2026: 318 interventi nell'Aula della Camera (132.326 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (45), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+   "recap": "Dal 10 novembre 2021 al 27 ottobre 2026: 319 interventi nell'Aula della Camera (132.406 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -512,15 +512,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 196,
-    "camera": 196,
+    "totale": 195,
+    "camera": 195,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-10-27",
+    "prima": "2021-11-03",
     "ultima": "2026-10-13"
    },
-   "recap": "Dal 27 ottobre 2021 al 13 ottobre 2026: 196 interventi nell'Aula della Camera (114.224 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (32), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (127 interventi).",
+   "recap": "Dal 3 novembre 2021 al 13 ottobre 2026: 195 interventi nell'Aula della Camera (113.956 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (31), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (126 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -4059,6 +4059,51 @@
    },
    "schieramento": "governo",
    "fonte": "Governo",
+   "data": "2026-10-27",
+   "testo": "Caro Presidente Fedriga, cari amministratori, oggi si avvia alla conclusione la quinta edizione del Festival delle Regioni e delle Province Autonome e ci tenevo a far arrivare a tutti voi il mio saluto e il mio contributo ai lavori. […] E i risultati raggiunti in questi anni testimoniano che quando lo Stato, le Regioni e le Province autonome lavorano fianco a fianco, allora l'Italia può raggiungere traguardi ambiziosi.",
+   "contesto": "Festival delle Regioni e delle Province Autonome, il videomessaggio del Presidente Meloni",
+   "url": "https://www.governo.it/it/articolo/festival-delle-regioni-e-delle-province-autonome-il-videomessaggio-del-presidente-meloni"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
+   "data": "2026-10-27",
+   "testo": "Chiaramente, siccome l'economia è un tema molto complesso, meno noi capiamo di questa materia e meno siamo in grado di determinare o di aggiustare il tiro della nostra quotidianità, per cui comprendere l'economia è un altro modo per essere liberi e quelli che ti aiutano a comprendere l'economia,…",
+   "contesto": "Il Presidente Meloni al Forum economico Moneta",
+   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952"
+  },
+  {
+   "slug": "riccardo-magi",
+   "nome": "Riccardo Magi",
+   "partito": {
+    "slug": "piu-europa",
+    "nome": "+Europa",
+    "sigla": "+E"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-27",
+   "testo": "Solamente per sottolineare come questa norma è una mancanza di rispetto anche alla memoria delle vittime del COVID e, tra loro, centinaia di medici che hanno perso la vita in servizio per salvare la vita a malati e a cittadini italiani (Applausi dei deputati dei gruppi Misto-+Europa-Stati Uniti… […] Anche di questa mancanza di rispetto per la memoria dei defunti.",
+   "contesto": "Seguito della discussione del disegno di legge: Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie (A.C. 2700-A ​)…",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0734&tipo=stenografico#sed0734.stenografico.tit00080.sub00090.int00120"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
    "data": "2026-10-26",
    "testo": "È all’origine di materiali, tecnologie e soluzioni che permettono alle altre imprese di migliorare i propri prodotti, aprire nuovi mercati e rispondere a bisogni nuovi. […] Penso alla moda e alla cosmetica, all’arredamento e al design, alle costruzioni, alla meccanica e all’automotive, all’elettronica e all’energia.",
    "contesto": "Assemblea Pubblica 2026 di Federchimica, il messaggio del Presidente Meloni",
@@ -4553,21 +4598,6 @@
     "sigla": "FdI"
    },
    "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-16",
-   "testo": "C'è il riferimento alla Reserve Stability Market; c'è il riferimento agli ETS2 e alla necessità di valutare tempistica e salvaguardia per quello che riguarda gli ETS2; c'è il riferimento alla revisione dell'ETS, che è particolarmente urgente.",
-   "contesto": "Consiglio europeo del 15 e 16 ottobre, il punto stampa del Presidente Meloni",
-   "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
    "fonte": "Camera",
    "data": "2026-10-14",
    "testo": "Buongiorno colleghi, sono venuta, come diceva correttamente lei, a consegnare il testo delle comunicazioni che ho reso al Senato in vista del dibattito di oggi pomeriggio .",
@@ -4603,21 +4633,6 @@
    "testo": "Sono obiettivi sui quali l'Italia insiste da tempo, però la questione che oggi pesa più di tutto sulla competitività della nostra economia è un'altra, ed è il costo dell'energia. […] Per questo, credo che l'Europa debba impegnarsi in prima persona, a partire dal rafforzamento dell'operazione Aspides nel Mar Rosso, che l'Italia oggi guida e che si regge in larga parte sul contributo di pochissime Nazioni.",
    "contesto": "Ordine del giorno della prossima seduta.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00200.int00010"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-14",
-   "testo": "Italy and the United States share a friendship rooted in history and in the values of freedom and democracy. […] Today, following yesterday’s Columbus Day celebrations, I wish to thank the National Italian American Foundation and the many Italian American organizations across the USA for keeping this extraordinary heritage alive.",
-   "contesto": "La Stampa USA, Il videomessaggio del Presidente Meloni",
-   "url": "https://www.governo.it/it/articolo/la-stampa-usa-il-videomessaggio-del-presidente-meloni/32838"
   },
   {
    "slug": "adolfo-urso",
@@ -5833,21 +5848,6 @@
    "testo": "Il Piano impegna complessivamente 9,3 miliardi di euro - e non rimarrà sulla carta anche per un motivo - di cui circa 7 miliardi di euro provenienti dal Fondo sociale europeo per il clima e oltre 2,3 miliardi di euro di cofinanziamento nazionale.",
    "contesto": "Svolgimento di interrogazioni a risposta immediata.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00100.int00040"
-  },
-  {
-   "slug": "maurizio-lupi",
-   "nome": "Maurizio Lupi",
-   "partito": {
-    "slug": "nm",
-    "nome": "Noi Moderati",
-    "sigla": "NM"
-   },
-   "schieramento": "governo",
-   "fonte": "Camera",
-   "data": "2026-09-09",
-   "testo": "Va esattamente nella direzione dei quattro anni di lavoro di Noi Moderati, di battaglie a sostegno della famiglia, della natalità e, in particolare, di questa alleanza lavoro-famiglia, lavoro-impresa, che diventa fondamentale.",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00030.int00080"
   }
  ]
 }

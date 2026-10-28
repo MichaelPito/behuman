@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-27",
-  "al": "2026-10-27"
+  "dal": "2021-10-28",
+  "al": "2026-10-28"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -3601,6 +3601,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
     },
     {
+     "id": "vs19_666_028",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Disposizioni in materia di terapie digitali (Testo unificato PDL 1208-2095-2220)",
+     "atto": "C.1208",
+     "titolo": "LOIZZO ed altri: \"Disposizioni in materia di terapie digitali",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "IVICRE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 4,
+      "Non ha votato": 3
+     },
+     "esito": {
+      "favorevoli": 234,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
+    },
+    {
      "id": "vs19_666_029",
      "camera": "Camera",
      "legislatura": 19,
@@ -3623,30 +3647,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_028",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "TU PDL 1208-A - VOTO FINALE",
-     "atto": "C.1208",
-     "titolo": "LOIZZO ed altri: \"Disposizioni in materia di terapie digitali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "IVICRE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 4,
-      "Non ha votato": 3
-     },
-     "esito": {
-      "favorevoli": 234,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -14314,7 +14314,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-27",
+ "aggiornato_il": "2026-10-28",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
