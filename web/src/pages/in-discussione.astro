@@ -1,0 +1,196 @@
+---
+// Cosa si discute adesso in Parlamento e al Consiglio dei ministri: aggiornato ogni giorno da fonti ufficiali.
+import Base from "../layouts/Base.astro";
+import AgendaVoce from "../components/AgendaVoce.astro";
+import FiltroLista from "../components/FiltroLista.astro";
+import Icon from "../components/Icon.astro";
+import { agenda, ALTRA_CAMERA, dataIt, INIZIATIVA, politici, type VoceAgenda } from "../lib/data";
+import { u } from "../lib/url";
+
+const a = agenda();
+const nomi = Object.fromEntries(politici().map((p) => [p.slug, p.nome]));
+const oggi = new Date().toISOString().slice(0, 10);
+const dueMesiFa = new Date(Date.now() - 60 * 864e5).toISOString().slice(0, 10);
+const aulaRecenti = a.aula.filter((v) => v.data_stato >= dueMesiFa);
+const aulaFerme = a.aula.filter((v) => v.data_stato < dueMesiFa);
+
+// elenco filtrabile: lavoro delle commissioni e nuove proposte
+type Riga = VoceAgenda & { tipo: "commissione" | "nuova"; data: string };
+const righe: Riga[] = [
+  ...a.commissione.map((v) => ({ ...v, tipo: "commissione" as const, data: v.data_stato })),
+  ...a.nuove.map((v) => ({ ...v, tipo: "nuova" as const, data: v.presentato })),
+].sort((x, y) => y.data.localeCompare(x.data));
+const conta = (f: (r: Riga) => boolean) => righe.filter(f).length;
+const temiTop = Object.entries(righe.flatMap((r) => r.temi).reduce<Record<string, number>>((m, t) => ((m[t] = (m[t] ?? 0) + 1), m), {}))
+  .sort((x, y) => y[1] - x[1]).slice(0, 12);
+const slugT = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-");
+const gruppi = [
+  { chiave: "tipo", titolo: "Cosa", opzioni: [["nuova", "Nuove proposte", conta((r) => r.tipo === "nuova")], ["commissione", "Lavoro nelle commissioni", conta((r) => r.tipo === "commissione")]] as [string, string, number][] },
+  { chiave: "ramo", titolo: "Dove", opzioni: [["Camera", "Camera", conta((r) => r.ramo === "Camera")], ["Senato", "Senato", conta((r) => r.ramo === "Senato")]] as [string, string, number][] },
+  { chiave: "iniziativa", titolo: "Chi l'ha proposta", opzioni: Object.entries(INIZIATIVA).map(([k, l]) => [k, l, conta((r) => r.tipo_iniziativa === k)] as [string, string, number]) },
+  { chiave: "monitorati", titolo: "Proposta da un politico monitorato", opzioni: [["si", "Sì", conta((r) => r.proponenti_monitorati.length > 0)], ["no", "No", conta((r) => r.proponenti_monitorati.length === 0)]] as [string, string, number][] },
+  { chiave: "tema", titolo: "Tema", opzioni: temiTop.map(([t, n]) => [slugT(t), t.length > 26 ? t.slice(0, 25).trimEnd() + "…" : t, n] as [string, string, number]) },
+];
+const definitive = a.approvate.filter((v) => v.approvata?.definitiva);
+const passaggi = a.approvate.filter((v) => !v.approvata?.definitiva);
+const tot = a.conteggi;
+---
+<Base title="In discussione" description="Cosa si discute adesso in Parlamento e al Consiglio dei ministri: decreti da convertire, testi in Aula, approvazioni e nuove proposte di legge, aggiornati ogni giorno.">
+  <section class="section">
+    <div class="stack">
+      <span class="eyebrow">Ogni giorno · aggiornato il {dataIt(a.aggiornato_il?.slice(0, 10))}</span>
+      <h1>Cosa si discute <span class="grad">adesso</span></h1>
+      <p class="muted prose">
+        Le leggi in arrivo, a che punto sono e chi le ha proposte, da Camera, Senato e Consiglio dei ministri. Le notizie, quando ci sono, accompagnano
+        i dati ufficiali, non li sostituiscono. Ogni voce porta alla scheda ufficiale.
+        <a href={u("/faq/#in-discussione")}>Come funziona</a>
+      </p>
+    </div>
+    <div class="stats">
+      <a class="stat" href="#decreti"><span class="v">{tot.decreti ?? 0}</span><span class="l">decreti-legge da convertire</span></a>
+      <a class="stat" href="#aula"><span class="v">{aulaRecenti.length}</span><span class="l">testi in discussione nelle Aule</span></a>
+      <a class="stat" href="#approvate"><span class="v">{tot.approvate ?? 0}</span><span class="l">approvazioni negli ultimi {a.finestra_giorni} giorni ({tot.approvate_definitive ?? 0} definitive)</span></a>
+      <a class="stat" href="#lavori"><span class="v">{tot.nuove ?? 0}</span><span class="l">nuove proposte di legge in {a.finestra_giorni} giorni ({tot.nuove_governo ?? 0} del Governo)</span></a>
+    </div>
+  </section>
+
+  <section class="section" id="decreti">
+    <div class="section-head"><h2>Decreti-legge da convertire</h2><span class="small muted">dal più vicino alla scadenza</span></div>
+    <p class="callout sun small prose">
+      <Icon name="info" class="tiny" /> Il Governo può fare un decreto-legge in casi «straordinari di necessità e urgenza»: vale subito, ma decade se il Parlamento non lo
+      converte in legge entro 60 giorni dalla pubblicazione (articolo 77 della Costituzione). In questi 60 giorni Camera e Senato possono modificarlo.
+      La data di scadenza che mostriamo è indicativa: conta dal giorno della pubblicazione in Gazzetta Ufficiale, di solito quello del decreto.
+    </p>
+    {a.decreti.length === 0 ? <p class="callout neutral">Nessun decreto-legge in attesa di conversione.</p> : (
+      <div class="grid voci">{a.decreti.map((v) => <AgendaVoce v={v} nomi={nomi} tipo="decreto" />)}</div>
+    )}
+  </section>
+
+  <section class="section" id="aula">
+    <div class="section-head"><h2>In discussione nelle Aule</h2><span class="small muted">Camera e Senato, dal più recente</span></div>
+    <p class="muted small prose">Testi arrivati in Aula, dove si discutono gli emendamenti e si vota. Le proposte sullo stesso tema esaminate insieme sono raggruppate.</p>
+    {aulaRecenti.length === 0 ? <p class="callout neutral">Nessun testo arrivato in Aula negli ultimi due mesi.</p> : (
+      <div class="grid voci">{aulaRecenti.map((v) => <AgendaVoce v={v} nomi={nomi} tipo="aula" />)}</div>
+    )}
+    {aulaFerme.length > 0 && (
+      <details class="ferme card">
+        <summary class="small">In Aula da più di due mesi senza novità: {aulaFerme.length}</summary>
+        <ul>
+          {aulaFerme.map((v) => (
+            <li class="small">
+              <span class="tiny mono muted">{v.ramo} · dal {dataIt(v.data_stato)}</span> <a href={v.scheda} target="_blank" rel="noopener">{v.oggetto}</a>
+              <span class="tiny muted"> {[v.numero, ...(v.abbinate ?? []).map((x) => x.numero)].join(", ")} · {INIZIATIVA[v.tipo_iniziativa]}</span>
+            </li>
+          ))}
+        </ul>
+      </details>
+    )}
+  </section>
+
+  <section class="section" id="approvate">
+    <div class="section-head"><h2>Approvate negli ultimi {a.finestra_giorni} giorni</h2></div>
+    {a.approvate.length === 0 ? <p class="callout neutral">Nessuna approvazione negli ultimi {a.finestra_giorni} giorni.</p> : (
+      <div class="grid due-col">
+        <div>
+          <h3 class="sotto">Approvate definitivamente</h3>
+          {definitive.length === 0 ? <p class="small muted">Nessuna.</p> : (
+            <ul class="elenco">
+              {definitive.map((v) => (
+                <li>
+                  <span class="tiny mono muted">{dataIt(v.approvata!.data)} · {v.approvata!.ramo}</span>
+                  <a href={v.scheda} target="_blank" rel="noopener">{v.nome_breve ?? v.oggetto}</a>
+                  <span class="tiny"><span class="pill accent">{v.stato_ufficiale === "appr. definit. Legge" ? "È legge" : "In attesa di pubblicazione"}</span> {INIZIATIVA[v.tipo_iniziativa]} · {v.numero}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+        <div>
+          <h3 class="sotto">Approvate da una Camera, passano all'altra</h3>
+          {passaggi.length === 0 ? <p class="small muted">Nessuna.</p> : (
+            <ul class="elenco">
+              {passaggi.map((v) => (
+                <li>
+                  <span class="tiny mono muted">{dataIt(v.approvata!.data)} · {v.approvata!.ramo}</span>
+                  <a href={v.scheda} target="_blank" rel="noopener">{v.nome_breve ?? v.oggetto}</a>
+                  <span class="tiny"><span class="pill sky">Ora {ALTRA_CAMERA[v.approvata!.ramo] === "Camera" ? "alla Camera" : "al Senato"}</span> {INIZIATIVA[v.tipo_iniziativa]}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      </div>
+    )}
+  </section>
+
+  {a.cdm.length > 0 && (
+    <section class="section" id="governo">
+      <div class="section-head"><h2>Dal Consiglio dei ministri</h2><span class="small muted">ultimo mese, dal più recente</span></div>
+      <p class="muted small prose">Provvedimenti approvati dal Governo. Il testo è la descrizione del Governo nel comunicato ufficiale, riportata come sua. I decreti-legge entrano in vigore subito e passano al Parlamento; disegni di legge e decreti legislativi in «esame preliminare» devono ancora completare il loro percorso.</p>
+      <div class="grid voci">
+        {a.cdm.slice(0, 12).map((c) => (
+          <article class="card cdm">
+            <div class="row" style="gap:6px"><span class="tiny mono muted">{dataIt(c.data)}</span><span class="pill">{c.tipo}</span></div>
+            <h3>{c.titolo}</h3>
+            <details><summary class="small">Come lo descrive il Governo</summary><p class="small">{c.testo}</p></details>
+            <a class="small" href={c.url} target="_blank" rel="noopener">Comunicato ufficiale <Icon name="ext" class="tiny" /></a>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="section" id="lavori">
+    <div class="section-head"><h2>Nuove proposte e lavoro nelle commissioni</h2><span class="small muted">ultimi {a.finestra_giorni} giorni</span></div>
+    <p class="muted small prose">Prima di arrivare in Aula, ogni proposta passa da una commissione che la esamina e può modificarla. Qui le proposte presentate di recente e quelle su cui le commissioni hanno lavorato.</p>
+    <FiltroLista id="lavori" gruppi={gruppi} placeholder="Cerca: scuola, sanità, Ilva, un nome…" nome={["voce", "voci"]} limite={25} />
+    <ul class="lista" data-lista="lavori">
+      {righe.map((r) => (
+        <li class="card riga" data-item data-testo={`${r.titolo} ${r.iniziativa ?? ""} ${r.temi.join(" ")} ${r.numero}`}
+            data-f-tipo={r.tipo} data-f-ramo={r.ramo} data-f-iniziativa={r.tipo_iniziativa} data-f-monitorati={r.proponenti_monitorati.length ? "si" : "no"}
+            data-f-tema={r.temi.map(slugT).join(" ")}>
+          <div class="row" style="gap:6px">
+            <span class="tiny mono muted">{dataIt(r.data)}</span>
+            <span class:list={["pill", r.tipo === "nuova" ? "sun" : "sky"]}>{r.tipo === "nuova" ? "Nuova proposta" : r.stato}</span>
+            <span class="tiny muted">{r.ramo} · {r.numero}{(r.abbinate?.length ?? 0) > 0 && ` + ${r.abbinate!.length} abbinate`}</span>
+          </div>
+          <a class="tit" href={r.scheda} target="_blank" rel="noopener">{r.oggetto}</a>
+          <span class="small muted">
+            {r.iniziativa ?? INIZIATIVA[r.tipo_iniziativa]}
+            {r.proponenti_monitorati.length > 0 && <> · {r.proponenti_monitorati.map((s, i) => <>{i > 0 && ", "}<a href={u(`/politici/${s}/`)}>{nomi[s] ?? s}</a></>)}</>}
+            {r.commissione && r.tipo === "commissione" && <> · {r.commissione}</>}
+          </span>
+        </li>
+      ))}
+    </ul>
+    <button type="button" class="btn ghost altri" data-altri="lavori" hidden>Mostra altre</button>
+    <p class="callout neutral" data-vuoto="lavori" hidden>Nessuna voce corrisponde a questi filtri.</p>
+  </section>
+
+  <section class="section">
+    <p class="small muted prose">
+      Fonti: open data del Senato (iter dei disegni di legge di entrambe le Camere), comunicati del Consiglio dei ministri (governo.it), titoli di Google News.
+      Gli stati dell'iter sono quelli ufficiali, riscritti in parole semplici. Aggiornato ogni mattina.
+    </p>
+  </section>
+</Base>
+
+<style>
+  .stats a.stat { text-decoration: none; color: inherit; }
+  .voci { grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); align-items: start; }
+  .ferme { margin-top: 16px; padding: 14px 16px; }
+  .ferme summary { cursor: pointer; font-weight: 600; color: var(--accent-ink); }
+  .ferme ul { margin: 10px 0 0; padding-left: 16px; display: grid; gap: 8px; }
+  .due-col { grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)); gap: 24px; }
+  .sotto { font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-2); margin: 0 0 10px; }
+  .elenco { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+  .elenco li { display: grid; gap: 3px; border-left: 3px solid var(--accent-wash); padding-left: 10px; }
+  .cdm { display: grid; gap: 8px; padding: 16px; border-top: 3px solid var(--sky); min-width: 0; align-content: start; }
+  .cdm h3 { margin: 0; font-size: 1rem; line-height: 1.35; }
+  .cdm details summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
+  .lista { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 10px; }
+  .riga { display: grid; gap: 6px; padding: 12px 14px; min-width: 0; }
+  .riga .tit { font-weight: 600; color: var(--ink); text-decoration: none; }
+  .riga .tit:hover { text-decoration: underline; }
+  .altri { margin-top: 14px; }
+</style>

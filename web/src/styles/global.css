@@ -168,6 +168,12 @@ p.prose { display: block; }
 .menu-btn { display: none; }
 .mobile-nav { display: none; }
 
+/* tra tablet e desktop piccolo: il pulsante di ricerca diventa solo icona, così il menu ci sta */
+@media (max-width: 1200px) {
+  .search-btn .label, .search-btn kbd { display: none; }
+  .search-btn { width: 40px; padding: 0; justify-content: center; }
+}
+
 @media (max-width: 900px) {
   .nav { display: none; }
   .menu-btn { display: inline-grid; }

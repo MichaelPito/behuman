@@ -265,3 +265,52 @@ def test_rigore_alto_nei_discorsi():
     # i temi già esistenti restano come prima
     assert temi["accise-carburanti"].richiesta("Bisogna abolire le accise")[0] == "abolizione"
     assert temi["sanita"].richiesta("educazione finanziaria, benessere e sanità", programma=True) is None
+
+
+def test_agenda_regole_base():
+    from memoria.fonti import agenda as ag
+    assert ag.scadenza_decreto("Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti") == "2026-11-29"
+    assert ag.oggetto("Conversione in legge del decreto-legge 30 settembre 2026, n. 170, recante misure urgenti per la scuola") == "Misure urgenti per la scuola"
+    assert ag.nome_breve("d-l 170/2026 - decreto scuola") == "decreto scuola"
+    assert ag.nome_breve("d-l 170/2026") is None
+    assert ag.tipo_iniziativa("Gov. Meloni-I: Pres. Consiglio Meloni") == "governo"
+    assert ag.tipo_iniziativa("Dep. Schlein Elly ed altri") == "parlamentari"
+    assert ag.tipo_iniziativa("Regione Lombardia") == "altro"
+    assert ag._commissione("Commissioni riunite 10&ordf; (Attivita' produttive) 11&ordf; (Lavoro) 11&ordf; ") == "Commissioni riunite 10ª (Attività produttive) 11ª (Lavoro)"
+    assert ag._commissione("7&ordf; (Cultura)") == "7ª Commissione (Cultura)"
+    assert ag.stato_semplice("esame in comm.") == "in esame in commissione"
+
+
+def test_agenda_proponenti_e_abbinate():
+    from memoria.sezioni.agenda import proponenti_monitorati, raggruppa_abbinati
+    pol = [{"slug": "giorgia-meloni", "nome": "Giorgia Meloni"}, {"slug": "elly-schlein", "nome": "Elly Schlein"},
+           {"slug": "carlo-nordio", "nome": "Carlo Nordio"}]
+    assert proponenti_monitorati("Gov. Meloni-I: Ministro giustizia Nordio", pol) == ["carlo-nordio"]  # «Meloni-I» non conta
+    assert proponenti_monitorati("Gov. Meloni-I: Pres. Consiglio Meloni, Ministro giustizia Nordio", pol) == ["giorgia-meloni", "carlo-nordio"]
+    assert proponenti_monitorati("Dep. Schlein Elly ed altri", pol) == ["elly-schlein"]
+    assert proponenti_monitorati("Dep. Schlein Mario", pol) == []  # omonimo: serve anche il nome
+    base = {"ramo": "Camera", "data_stato": "2026-10-26", "tipo_iniziativa": "parlamentari", "titolo": "t", "iniziativa": None, "scheda": "s",
+            "proponenti_monitorati": []}
+    voci = [base | {"id": "1", "numero": "C.48", "oggetto": "Norme per la tutela degli equidi e loro riconoscimento come animali di affezione"},
+            base | {"id": "2", "numero": "C.2585", "oggetto": "Riconoscimento degli equidi come animali di affezione e altre disposizioni"},
+            base | {"id": "3", "numero": "C.2124", "oggetto": "Modifiche alla legge in materia di acquisto e di revoca della cittadinanza"}]
+    g = raggruppa_abbinati(voci)
+    assert len(g) == 2 and sorted(x["numero"] for x in g[0]["abbinate"] + [g[0]]) == ["C.2585", "C.48"]
+
+
+def test_agenda_notizie_filtrate(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [
+        {"titolo": "L'IVIA crea una rete contro il virus della clorosi negli agrumi", "fonte": "A", "data": "2026-10-27", "url": "1"},
+        {"titolo": "HIV, la Camera discute la legge su prevenzione e immunodeficienza", "fonte": "B", "data": "2026-10-27", "url": "2"},
+    ]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Interventi per la prevenzione e la lotta contro il virus dell'immunodeficienza umana (HIV)", "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["2"]
+
+
+def test_agenda_pulisce_etichette():
+    from memoria.fonti.agenda import pulisci
+    assert pulisci("Responsabilita ' professionale") == "Responsabilità professionale"
+    assert pulisci("Reati contro l'  ordine e la sicurezza pubblica") == "Reati contro l'ordine e la sicurezza pubblica"
+    assert pulisci("Ministero dell' interno") == "Ministero dell'interno"
