@@ -343,3 +343,21 @@ def test_agenda_notizie_singolare_plurale(monkeypatch):
     v = {"oggetto": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista",
          "conversione": False, "nome_breve": None}
     assert [n["url"] for n in agenda.notizie_su(v)] == ["1"]
+
+
+def test_agenda_priorita_notizie():
+    from memoria.sezioni.agenda import per_priorita
+    voci = [{"id": "1", "tipo_iniziativa": "parlamentari", "proponenti_monitorati": [], "presentato": "2026-10-27"},
+            {"id": "2", "tipo_iniziativa": "parlamentari", "proponenti_monitorati": ["elly-schlein"], "presentato": "2026-10-20"},
+            {"id": "3", "tipo_iniziativa": "governo", "proponenti_monitorati": [], "presentato": "2026-10-15"},
+            {"id": "4", "tipo_iniziativa": "parlamentari", "proponenti_monitorati": [], "presentato": "2026-10-28"}]
+    assert [v["id"] for v in per_priorita(voci, "presentato")] == ["3", "2", "4", "1"]
+
+
+def test_agenda_notizie_regione_non_basta(monkeypatch):
+    from memoria.sezioni import agenda
+    titoli = [{"titolo": "Bilancio consolidato della Regione Piemonte, salta la Commissione", "fonte": "A", "data": "2026-10-27", "url": "1"},
+              {"titolo": "Autonomia, il Governo presenta il ddl per il Piemonte", "fonte": "B", "data": "2026-10-27", "url": "2"}]
+    monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    v = {"oggetto": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia", "conversione": False, "nome_breve": None}
+    assert [n["url"] for n in agenda.notizie_su(v)] == ["2"]

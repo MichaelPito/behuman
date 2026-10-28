@@ -8,7 +8,7 @@ Ogni giorno, da fonti ufficiali:
 - testi su cui le commissioni hanno lavorato negli ultimi giorni;
 - nuove proposte di legge presentate, con i politici monitorati tra i proponenti;
 - provvedimenti approvati dal Consiglio dei ministri nell'ultimo mese (descrizione del Governo);
-- per decreti, testi in Aula e testi in commissione, i titoli dei giornali degli ultimi giorni (Google News), come segnale
+- per decreti, testi in Aula, testi in commissione e nuove proposte, i titoli dei giornali degli ultimi giorni (Google News), come segnale
   di quanto se ne parla: titolo, testata, data e link.
 
 Scrive data/agenda.json. Se una fonte non risponde restano i dati del giorno prima.
@@ -31,6 +31,7 @@ log = logging.getLogger(__name__)
 GIORNI = 14  # finestra per approvazioni, commissioni e nuove proposte
 MAX_NOTIZIE = 24  # ricerche di notizie al giorno su decreti e testi in Aula (una per testo)
 MAX_NOTIZIE_COMMISSIONE = 30  # e sui testi in commissione: prima quelli del Governo e dei politici monitorati
+MAX_NOTIZIE_NUOVE = 30  # e sulle nuove proposte, con lo stesso ordine
 APPROVATI = {"approvato", "appr. definit. Legge", "appr. def. non pubbl", "appr. in t.u."}
 COMMISSIONE = {"esame in comm.", "concluso l'esame", "in relazione"}
 
@@ -77,7 +78,9 @@ VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "no
          "modifiche", "articolo", "articoli", "codice", "testo", "unico", "decreto", "legislativo", "concernenti", "riguardanti", "sviluppo",
          "garantire", "rafforzamento", "sostegno", "tutela", "prevenzione", "lotta", "riconoscimento", "valorizzazione",
          "delega", "riforma", "riordino", "disciplina", "ordinamento", "legislazione", "quadro", "adeguamento", "norme", "nazionale",
-         "generale", "capacità", "funzionamento", "organizzazione", "revisione", "semplificazione", "attuazione", "promozione", "favore"}
+         "generale", "capacità", "funzionamento", "organizzazione", "revisione", "semplificazione", "attuazione", "promozione", "favore",
+         "attribuzione", "regione", "forme", "condizioni", "particolari", "piano", "straordinario", "straordinaria", "programma",
+         "fondo", "sensi", "comma", "costituzione", "favorire", "apertura", "accessibilità", "primo", "secondo", "terzo", "quarto"}
 # parole di tema molto comuni: da sole non bastano a dire che un titolo parla di quel testo
 COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", "scuola", "giustizia", "famiglia", "famiglie", "imprese",
           "ambiente", "energia", "economia", "sociale", "sociali", "pubblica", "pubblico", "pubbliche", "cittadini", "giovani", "donne",
@@ -152,6 +155,12 @@ def notizie_su(v: dict) -> list[dict]:
     return out[:6]
 
 
+def per_priorita(voci: list[dict], data: str) -> list[dict]:
+    """Prima i testi del Governo, poi quelli dei politici monitorati, poi i più recenti."""
+    recenti = sorted(voci, key=lambda g: g[data], reverse=True)
+    return sorted(recenti, key=lambda g: (g["tipo_iniziativa"] != "governo", not g["proponenti_monitorati"]))
+
+
 def costruisci(ctx, politici: list[dict]) -> dict:
     out_p = ctx.out / "agenda.json"
     prec = json.loads(out_p.read_text(encoding="utf-8")) if out_p.exists() else {}
@@ -204,25 +213,29 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         best = max(((cdmmod.somiglianza(v["titolo"], c["titolo"]), c) for c in cdm if "decreto-legge" in c["tipo"]), key=lambda x: x[0], default=(0, None))
         v["descrizione_governo"] = best[1] if best[0] >= 0.65 else None
 
-    # titoli dei giornali: decreti, testi in Aula e testi in commissione
-    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "commissione") for x in prec.get(sez, [])}
+    # titoli dei giornali: decreti, testi in Aula, testi in commissione e nuove proposte
+    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "commissione", "nuove") for x in prec.get(sez, [])}
     # solo testi con attività recente: per quelli fermi da mesi i titoli sarebbero su altro
     recente = (oggi - dt.timedelta(days=60)).isoformat()
     principali = (decreti + [g for g in aula if g["data_stato"] >= recente])[:MAX_NOTIZIE]
     # in commissione i testi sono tanti: prima quelli del Governo, poi quelli dei politici monitorati, poi i più recenti
-    in_comm = sorted(commissione, key=lambda g: g["data_stato"], reverse=True)
-    in_comm = sorted(in_comm, key=lambda g: (g["tipo_iniziativa"] != "governo", not g["proponenti_monitorati"]))[:MAX_NOTIZIE_COMMISSIONE]
-    principali += in_comm
-    for v in decreti + aula + commissione:
+    principali += per_priorita(commissione, "data_stato")[:MAX_NOTIZIE_COMMISSIONE]
+    principali += per_priorita(nuove, "presentato")[:MAX_NOTIZIE_NUOVE]
+    for v in decreti + aula + commissione + nuove:
         v["notizie"] = []
     errori_news = 0
+    fatte: dict[str, list] = {}  # lo stesso testo può comparire in più sezioni (es. un decreto appena presentato)
     for v in principali:
+        if v["id"] in fatte:
+            v["notizie"] = fatte[v["id"]]
+            continue
         try:
             v["notizie"] = notizie_su(v)
         except Exception as e:  # noqa: BLE001 - restano i titoli del giorno prima
             v["notizie"] = notizie_prec.get(v["id"], [])
             errori_news += 1
             log.info("notizie %s: %s", v["numero"], e)
+        fatte[v["id"]] = v["notizie"]
     if errori_news < len(principali):
         ctx.ok("google_news_agenda")
 
