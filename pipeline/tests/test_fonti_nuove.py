@@ -424,3 +424,12 @@ def test_agenda_notizie_provvedimenti_regionali_esclusi(monkeypatch):
     monkeypatch.setattr(agenda.notmod, "google_news_libera", lambda q, giorni=7: titoli)
     v = {"oggetto": "Disposizioni in materia di edilizia residenziale pubblica e sociale", "conversione": False, "nome_breve": None}
     assert agenda.notizie_su(v) == []
+
+
+def test_agenda_parole_senza_atti_europei():
+    from memoria.sezioni.agenda import parole_ricerca
+    t = ("Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1230 del Parlamento europeo e del Consiglio, "
+         "del 14 giugno 2023, relativo alle macchine e che abroga la direttiva 2006/42/CE")
+    assert parole_ricerca({"oggetto": t}) == ["macchine"]
+    t = "Disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2024/2847 relativo a requisiti di cibersicurezza"
+    assert "cibersicurezza" in parole_ricerca({"oggetto": t}) and "parlamento" not in parole_ricerca({"oggetto": t})

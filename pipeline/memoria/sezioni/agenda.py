@@ -87,7 +87,9 @@ VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "no
          "come", "titolo", "parte", "seconda", "prima", "definizione", "nozione", "convertito", "modificazioni", "proroga",
          "applicazione", "ambito", "calcolata", "destinazione", "titolari", "unità", "adibite", "altre", "loro",
          "commissione", "commissioni", "parlamentare", "fenomeno", "redazione", "aggiornamento", "raccolte", "raccolta",
-         "generali", "locali", "regionali", "interregionali", "nonché"}
+         "generali", "locali", "regionali", "interregionali", "nonché", "normativa", "regolamento", "regolamenti", "direttiva",
+         "parlamento", "consiglio", "europeo", "europea", "modifica", "abroga", "istituisce", "relativo", "relativa", "requisiti",
+         "coordinamento", "emanate", "disposizioni", "elementi", "orizzontali", "rafforzare"}
 # parole di tema molto comuni: da sole non bastano a dire che un titolo parla di quel testo
 COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", "scuola", "giustizia", "famiglia", "famiglie", "imprese",
           "ambiente", "energia", "economia", "sociale", "sociali", "pubblica", "pubblico", "pubbliche", "cittadini", "giovani", "donne",
@@ -108,7 +110,10 @@ MESI = {"gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", 
 RIFERIMENTI = re.compile(
     r"\b(?:legge|decreto(?:-legge| legislativo| del presidente della repubblica)?|testo unico)\s+(?:\d{1,2}°?\s+\w+\s+\d{4}|\d{4})?,?\s*n\.\s*\d+"
     r"(?:,\s*convertito,?\s*con modificazioni,?\s*dalla legge\s+\d{1,2}°?\s+\w+\s+\d{4},?\s*n\.\s*\d+)?"
-    r"|\barticol[oi]\s+[\d, e]+(?:-\w+)?|\btitolo\s+[IVX]+|\bparte\s+(?:prima|seconda)|\bcodice di cui al\b",
+    r"|\barticol[oi]\s+[\d, e]+(?:-\w+)?|\btitolo\s+[IVX]+|\bparte\s+(?:prima|seconda)|\bcodice di cui al\b"
+    # atti europei: «regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024», «direttiva 2006/42/CE»
+    r"|\b(?:regolament[oi]|direttiv[ae]|decisione)\s*(?:\((?:UE|CE|CEE)\)\s*)?(?:n\.\s*)?\d+/\d+(?:/(?:UE|CE|CEE))?"
+    r"(?:\s+del Parlamento europeo e del Consiglio)?(?:\s+del Consiglio)?(?:,?\s+del\s+\d{1,2}\s+\w+\s+\d{4})?",
     re.I,
 )
 
