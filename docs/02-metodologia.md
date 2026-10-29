@@ -186,7 +186,7 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - In Aula: stato «all'esame assemblea»; proposte abbinate (stessa Camera, stessa data, titoli simili)
   raggruppate; ferme da oltre 60 giorni in un elenco a parte.
 - Approvazioni, nuove proposte e lavoro delle commissioni: ultimi 14 giorni.
-- Titoli dei giornali (Google News, 7 giorni) per decreti, testi in Aula (anche fermi), leggi approvate (fino a 20) e fino a 30 testi in
+- Titoli dei giornali (Google News, 7 giorni) per decreti, testi in Aula (anche fermi), leggi approvate (fino a 20), provvedimenti del CdM (fino a 15) e fino a 30 testi in
   commissione e 30 nuove proposte
   (prima Governo e politici monitorati): ricerca per nome breve ufficiale o parole distintive (confronto per
   radice, singolare/plurale); tenuti solo i titoli che citano un atto e contengono due parole del testo di cui
