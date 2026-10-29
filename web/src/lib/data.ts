@@ -412,7 +412,7 @@ export type VoceAgenda = {
   descrizione_governo?: { data: string; titolo: string; tipo: string; testo: string; url: string } | null;
   approvata?: { ramo: string; data: string; definitiva: boolean; stato: string };
 };
-export type ProvvedimentoCdm = { data: string | null; titolo: string; tipo: string; testo: string; url: string };
+export type ProvvedimentoCdm = { id?: string; data: string | null; titolo: string; tipo: string; testo: string; url: string; notizie?: TitoloNotizia[] };
 export type Agenda = {
   aggiornato_il: string; finestra_giorni: number; aula: VoceAgenda[]; decreti: VoceAgenda[]; approvate: VoceAgenda[];
   commissione: VoceAgenda[]; nuove: VoceAgenda[]; cdm: ProvvedimentoCdm[]; conteggi: Record<string, number>;

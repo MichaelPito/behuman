@@ -8,7 +8,8 @@ Ogni giorno, da fonti ufficiali:
 - testi su cui le commissioni hanno lavorato negli ultimi giorni;
 - nuove proposte di legge presentate, con i politici monitorati tra i proponenti;
 - provvedimenti approvati dal Consiglio dei ministri nell'ultimo mese (descrizione del Governo);
-- per decreti, testi in Aula, leggi approvate, testi in commissione e nuove proposte, i titoli dei giornali degli ultimi giorni (Google News), come segnale
+- per decreti, testi in Aula, leggi approvate, testi in commissione, nuove proposte e provvedimenti del
+  Consiglio dei ministri, i titoli dei giornali degli ultimi giorni (Google News), come segnale
   di quanto se ne parla: titolo, testata, data e link.
 
 Scrive data/agenda.json. Se una fonte non risponde restano i dati del giorno prima.
@@ -33,6 +34,7 @@ MAX_NOTIZIE = 24  # ricerche di notizie al giorno su decreti e testi in Aula (un
 MAX_NOTIZIE_COMMISSIONE = 30  # e sui testi in commissione: prima quelli del Governo e dei politici monitorati
 MAX_NOTIZIE_NUOVE = 30  # e sulle nuove proposte, con lo stesso ordine
 MAX_NOTIZIE_APPROVATE = 20  # e sulle leggi approvate, dalla più recente
+MAX_NOTIZIE_CDM = 15  # e sui provvedimenti del Consiglio dei ministri dell'ultimo mese
 APPROVATI = {"approvato", "appr. definit. Legge", "appr. def. non pubbl", "appr. in t.u."}
 COMMISSIONE = {"esame in comm.", "concluso l'esame", "in relazione"}
 
@@ -85,7 +87,9 @@ VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "no
          "come", "titolo", "parte", "seconda", "prima", "definizione", "nozione", "convertito", "modificazioni", "proroga",
          "applicazione", "ambito", "calcolata", "destinazione", "titolari", "unità", "adibite", "altre", "loro",
          "commissione", "commissioni", "parlamentare", "fenomeno", "redazione", "aggiornamento", "raccolte", "raccolta",
-         "generali", "locali", "regionali", "interregionali", "nonché"}
+         "generali", "locali", "regionali", "interregionali", "nonché", "normativa", "regolamento", "regolamenti", "direttiva",
+         "parlamento", "consiglio", "europeo", "europea", "modifica", "abroga", "istituisce", "relativo", "relativa", "requisiti",
+         "coordinamento", "emanate", "disposizioni", "elementi", "orizzontali", "rafforzare"}
 # parole di tema molto comuni: da sole non bastano a dire che un titolo parla di quel testo
 COMUNI = {"sicurezza", "salute", "lavoro", "sanità", "sanitaria", "sanitarie", "scuola", "giustizia", "famiglia", "famiglie", "imprese",
           "ambiente", "energia", "economia", "sociale", "sociali", "pubblica", "pubblico", "pubbliche", "cittadini", "giovani", "donne",
@@ -106,7 +110,10 @@ MESI = {"gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", 
 RIFERIMENTI = re.compile(
     r"\b(?:legge|decreto(?:-legge| legislativo| del presidente della repubblica)?|testo unico)\s+(?:\d{1,2}°?\s+\w+\s+\d{4}|\d{4})?,?\s*n\.\s*\d+"
     r"(?:,\s*convertito,?\s*con modificazioni,?\s*dalla legge\s+\d{1,2}°?\s+\w+\s+\d{4},?\s*n\.\s*\d+)?"
-    r"|\barticol[oi]\s+[\d, e]+(?:-\w+)?|\btitolo\s+[IVX]+|\bparte\s+(?:prima|seconda)|\bcodice di cui al\b",
+    r"|\barticol[oi]\s+[\d, e]+(?:-\w+)?|\btitolo\s+[IVX]+|\bparte\s+(?:prima|seconda)|\bcodice di cui al\b"
+    # atti europei: «regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024», «direttiva 2006/42/CE»
+    r"|\b(?:regolament[oi]|direttiv[ae]|decisione)\s*(?:\((?:UE|CE|CEE)\)\s*)?(?:n\.\s*)?\d+/\d+(?:/(?:UE|CE|CEE))?"
+    r"(?:\s+del Parlamento europeo e del Consiglio)?(?:\s+del Consiglio)?(?:,?\s+del\s+\d{1,2}\s+\w+\s+\d{4})?",
     re.I,
 )
 
@@ -244,18 +251,20 @@ def costruisci(ctx, politici: list[dict]) -> dict:
         sezioni = []
         for u in cdmmod.riunioni((oggi - dt.timedelta(days=31)).isoformat(), oggi.isoformat()):
             sezioni += cdmmod.sezioni_comunicato(u)
-        cdm = [{"data": s["data"], "titolo": re.sub(r"^\s*\d+\.\s*", "", s["titolo"]), "tipo": s["tipo"], "testo": _breve(s["testo"]), "url": s["url"]}
-               for s in sorted(sezioni, key=lambda s: s.get("data") or "", reverse=True)]
+        cdm = [{"id": f"cdm:{s['url']}#{i}", "data": s["data"], "titolo": re.sub(r"^\s*\d+\.\s*", "", s["titolo"]), "tipo": s["tipo"],
+                "testo": _breve(s["testo"]), "url": s["url"]}
+               for i, s in enumerate(sorted(sezioni, key=lambda s: (s.get("data") or "", s["titolo"]), reverse=True))]
         ctx.ok("governo_cdm_agenda")
     except Exception as e:  # noqa: BLE001
         ctx.errore("agenda", "governo.it", e)
     # decreti da convertire: la descrizione del Governo, se il comunicato è dell'ultimo mese
     for v in decreti:
         best = max(((cdmmod.somiglianza(v["titolo"], c["titolo"]), c) for c in cdm if "decreto-legge" in c["tipo"]), key=lambda x: x[0], default=(0, None))
-        v["descrizione_governo"] = best[1] if best[0] >= 0.65 else None
+        v["descrizione_governo"] = dict(best[1]) if best[0] >= 0.65 else None
 
-    # titoli dei giornali: decreti, testi in Aula, leggi approvate, testi in commissione e nuove proposte
-    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "approvate", "commissione", "nuove") for x in prec.get(sez, [])}
+    # titoli dei giornali: decreti, testi in Aula, leggi approvate, testi in commissione, nuove proposte e Consiglio dei ministri
+    notizie_prec = {x["id"]: x.get("notizie", []) for sez in ("aula", "decreti", "approvate", "commissione", "nuove", "cdm")
+                    for x in prec.get(sez, []) if "id" in x}
     # tutti i testi in Aula, anche quelli fermi da mesi (es. riforme costituzionali): il filtro dei titoli
     # (parole specifiche del testo + citazione di un atto) evita quelli che parlano d'altro
     principali = (decreti + aula)[:MAX_NOTIZIE]
@@ -279,6 +288,21 @@ def costruisci(ctx, politici: list[dict]) -> dict:
             errori_news += 1
             log.info("notizie %s: %s", v["numero"], e)
         fatte[v["id"]] = v["notizie"]
+    # Consiglio dei ministri: un decreto-legge già tra quelli da convertire ha gli stessi titoli; gli altri si cercano
+    gia = {v["descrizione_governo"]["id"]: v["notizie"] for v in decreti if v.get("descrizione_governo")}
+    for i, c in enumerate(cdm[:MAX_NOTIZIE_CDM]):
+        c.setdefault("id", f"cdm:{c['url']}#{i}")  # dati del giorno prima senza id
+        if c["id"] in gia:
+            c["notizie"] = gia[c["id"]]
+            continue
+        voce = {"id": c["id"], "numero": "CdM", "oggetto": c["titolo"], "conversione": "decreto" in c["tipo"].lower(), "nome_breve": None}
+        principali.append(voce)
+        try:
+            c["notizie"] = notizie_su(voce)
+        except Exception as e:  # noqa: BLE001
+            c["notizie"] = notizie_prec.get(c["id"], [])
+            errori_news += 1
+            log.info("notizie CdM %s: %s", c["titolo"][:40], e)
     if errori_news < len(principali):
         ctx.ok("google_news_agenda")
 
