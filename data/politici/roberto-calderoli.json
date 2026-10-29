@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1956-04-18",
@@ -585,11 +585,61 @@
      "legislatura": 19,
      "presenti": 4,
      "assenti": 1,
-     "missione": 96,
-     "totale": 101
+     "missione": 102,
+     "totale": 107
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-469-6",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.427-731-888-891-B",
+     "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 140,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60173&sessionId=469&voteId=6",
+     "voto": "In congedo o missione",
+     "gruppo": "LSP-PSd'Az",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 15,
+      "In congedo o missione": 8,
+      "Presente non votante": 4
+     }
+    },
+    {
+     "id": "19-469-3",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.1804",
+     "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 75,
+      "contrari": 52,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59909&sessionId=469&voteId=3",
+     "voto": "In congedo o missione",
+     "gruppo": "LSP-PSd'Az",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 15,
+      "In congedo o missione": 10,
+      "Presente non votante": 3
+     }
+    },
     {
      "id": "19-468-4",
      "camera": "Senato",
@@ -9355,56 +9405,6 @@
       "In congedo o missione": 10,
       "Presente non votante": 3
      }
-    },
-    {
-     "id": "18-372-72",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Votazione finale",
-     "atto": "S.2305",
-     "titolo": "Disposizioni in materia di titoli universitari abilitanti",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 184,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=54215&sessionId=372&voteId=72",
-     "voto": "Non ha votato",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 47,
-      "In congedo o missione": 10,
-      "Presente non votante": 5
-     }
-    },
-    {
-     "id": "18-372-59",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Votazione finale",
-     "atto": "S.2381",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 177,
-      "contrari": 1,
-      "astenuti": 15
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=54405&sessionId=372&voteId=59",
-     "voto": "Non ha votato",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 44,
-      "In congedo o missione": 10,
-      "Presente non votante": 8
-     }
     }
    ],
    "gruppi": [
@@ -9432,8 +9432,8 @@
   "Senato": {
    "presenza": {
     "presenti": 3016,
-    "totale": 8958,
-    "percentuale": 33.7
+    "totale": 8964,
+    "percentuale": 33.6
    },
    "fedelta_gruppo": {
     "allineati": 112,
@@ -9507,7 +9507,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:RobertoCalderoli.jpg",
@@ -9524,7 +9524,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro per gli affari regionali e le autonomie (dal 23 ottobre 2022).",
-  "Al Senato ha partecipato al 33,7% delle votazioni del periodo (3.016 su 8.958); 5.890 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 33,6% delle votazioni del periodo (3.016 su 8.964); 5.896 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 112 volte su 112 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

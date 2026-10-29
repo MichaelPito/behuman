@@ -4988,6 +4988,42 @@
 "tema": "poverta",
 "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00140",
 "verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Di fronte a questa crisi economica e sociale, voi avete deciso di spendere tanti soldi nelle armi, invece di investire nella sanità, nell'istruzione, ma avete deciso anche di spendere tantissimi soldi in un'opera assolutamente inutile, non necessaria in questo momento storico, come il ponte sullo stretto di Messina.",
+"tema": "istruzione",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00020",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Di fronte a questa crisi economica e sociale, voi avete deciso di spendere tanti soldi nelle armi, invece di investire nella sanità, nell'istruzione, ma avete deciso anche di spendere tantissimi soldi in un'opera assolutamente inutile, non necessaria in questo momento storico, come il ponte sullo stretto di Messina.",
+"tema": "sanita",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00020",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Voi state facendo questo perché non volete fare una gara europea , perché avete deciso di dare 14,5 miliardi, senza nessuna gara, regalando soldi, mentre il Sud affoga nel dissesto idrogeologico, mentre non ci sono treni, mentre questi soldi, per i capricci di Salvini, potevano essere utilizzati per finanziare la sanità, la scuola, gli stipendi e le pensioni degli italiani.",
+"tema": "istruzione",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Voi state facendo questo perché non volete fare una gara europea , perché avete deciso di dare 14,5 miliardi, senza nessuna gara, regalando soldi, mentre il Sud affoga nel dissesto idrogeologico, mentre non ci sono treni, mentre questi soldi, per i capricci di Salvini, potevano essere utilizzati per finanziare la sanità, la scuola, gli stipendi e le pensioni degli italiani.",
+"tema": "sanita",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060",
+"verbo": null
 }
 ],
 "antonio-tajani": [
@@ -45814,6 +45850,24 @@
 "tema": "reddito-cittadinanza",
 "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00050.int00040",
 "verbo": "togliere"
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Dai giornali, alle televisioni… Bene, a proposito di dati, di soldi e di manovra di bilancio, un piccolo dato che è emerso in questi giorni: la tassazione sulle banche in Italia genera dai 3 ai 4 miliardi per lo Stato; la tassazione delle big tech genera un miliardo per lo Stato; l'Irpef che versano i lavoratori poveri immigrati è circa 6 miliardi, ovvero i lavoratori poveri immigrati pagano il doppio delle banche…",
+"tema": "poverta",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00040",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Dai giornali, alle televisioni… Bene, a proposito di dati, di soldi e di manovra di bilancio, un piccolo dato che è emerso in questi giorni: la tassazione sulle banche in Italia genera dai 3 ai 4 miliardi per lo Stato; la tassazione delle big tech genera un miliardo per lo Stato; l'Irpef che versano i lavoratori poveri immigrati è circa 6 miliardi, ovvero i lavoratori poveri immigrati pagano il doppio delle banche…",
+"tema": "tasse",
+"url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00040",
+"verbo": null
 }
 ],
 "roberto-calderoli": [
@@ -59742,6 +59796,150 @@
 "frase": "Ricordo, ai primi dell'agosto del 2024, mi sveglio una mattina e lo spread era improvvisamente schizzato.",
 "tema": "spread",
 "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Vale circa 700 milioni, si somma al contributo che in questi mesi avevamo già chiesto, ad esempio, per finanziare il decreto bollette.",
+"tema": "bollette",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Famiglia e natalità è un altro capitolo che è sempre presente nelle nostre leggi di bilancio.",
+"tema": "natalita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Prima di entrare nel merito delle misure principali, voglio dire che, a monte, la filosofia che governa anche questa Manovra di bilancio è stata quella di concentrare le risorse, non moltissime, che avevamo a disposizione sulle stesse priorità alle quali ci siamo dedicati nei quattro anni che sono passati: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, incentivi alle…",
+"tema": "natalita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "È una questione oggettivamente di civiltà: nessuno dovrebbe studiare al freddo e a 35 gradi a giugno, e se in passato, invece di dedicare le risorse a comprare degli utilissimi banchi a rotelle, ci si fosse occupati anche di questo, oggi staremmo meglio.",
+"tema": "occupazione",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Misure su pesca e agricoltura: l'azzeramento dell'IRPEF per gli agricoltori, le agevolazioni per il gasolio agricolo - anche qui misura che da sola vale circa un miliardo -, lo stanziamento di agricoltura 4.0, c'è anche il trattamento sostitutivo della retribuzione per i pescatori.",
+"tema": "prezzo-carburanti",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Anche questa Legge di Bilancio, come tutte le precedenti, stanzia risorse importanti per aumentare la dotazione del Fondo sanitario nazionale.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Chiaramente anche queste sono risorse per la sanità.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Dopodiché, una quota di questo aumento viene vincolata al rafforzamento degli stipendi dei medici di pronto soccorso, che sono la prima linea e il luogo dove i cittadini misurano ogni giorno la risposta della sanità pubblica.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "E poi la sanità.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Il voucher può essere utilizzato per spese sanitarie che non sono coperte dal Servizio Sanitario Nazionale, per la spesa farmaceutica, per le visite specialistiche.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Non è una manovra che risolve tutto, non pretende di farlo, ma sicuramente ha una direzione chiara, come sempre ce l'ha avuta questo Governo: lavoro, famiglia, giovani, casa, Sud, sanità, prezzi del taglio del costo dell'energia.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Quindi, tra i 3,4 miliardi di euro che mettiamo nel Fondo sanitario nazionale e 1,6 miliardi che costa questa misura, parliamo di 5 miliardi di euro in questa manovra spesi per la salute dei cittadini.",
+"tema": "sanita",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Confermiamo la tassazione agevolata al 5% sugli aumenti dei rinnovi contrattuali, misura che premia la contrattazione collettiva, che è stata fortemente richiesta dai sindacati e ovviamente dalle parti sociali.",
+"tema": "tasse",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": "riduzione",
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Prima di entrare nel merito delle misure principali, voglio dire che, a monte, la filosofia che governa anche questa Manovra di bilancio è stata quella di concentrare le risorse, non moltissime, che avevamo a disposizione sulle stesse priorità alle quali ci siamo dedicati nei quattro anni che sono passati: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, incentivi alle…",
+"tema": "tasse",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": "riduzione"
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Quindi, un pacchetto di misure che già da solo vale circa 9 miliardi di euro, tra queste: il credito d'imposta per gli investimenti nella ZES Unica del Mezzogiorno, la tassazione all'1% dei premi di produttività, il bonus per le mamme lavoratrici, la super-deduzione del costo del lavoro al 120%, cioè il famoso “più assumi meno paghi”.",
+"tema": "tasse",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+"verbo": null
+},
+{
+"data": "2026-10-28",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Sempre in materia di tassazione IRPEF interveniamo anche sul regime forfettario degli autonomi, altra misura alla quale sapete che teniamo molto, fu uno dei nostri primi provvedimenti.",
+"tema": "tasse",
+"url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
 "verbo": null
 },
 {

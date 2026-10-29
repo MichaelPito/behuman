@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -594,11 +594,60 @@
      "legislatura": 19,
      "presenti": 2,
      "assenti": 1,
-     "missione": 98,
-     "totale": 101
+     "missione": 104,
+     "totale": 107
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-469-6",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.427-731-888-891-B",
+     "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 140,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60173&sessionId=469&voteId=6",
+     "voto": "In congedo o missione",
+     "gruppo": "FdI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 52,
+      "In congedo o missione": 10
+     }
+    },
+    {
+     "id": "19-469-3",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.1804",
+     "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 75,
+      "contrari": 52,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59909&sessionId=469&voteId=3",
+     "voto": "In congedo o missione",
+     "gruppo": "FdI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 46,
+      "In congedo o missione": 12,
+      "Presente non votante": 4
+     }
+    },
     {
      "id": "19-468-4",
      "camera": "Senato",
@@ -9344,56 +9393,6 @@
       "In congedo o missione": 2,
       "Presente non votante": 1
      }
-    },
-    {
-     "id": "18-372-72",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Votazione finale",
-     "atto": "S.2305",
-     "titolo": "Disposizioni in materia di titoli universitari abilitanti",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 184,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=54215&sessionId=372&voteId=72",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 13,
-      "In congedo o missione": 3,
-      "Presente non votante": 2
-     }
-    },
-    {
-     "id": "18-372-59",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Votazione finale",
-     "atto": "S.2381",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 177,
-      "contrari": 1,
-      "astenuti": 15
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=54405&sessionId=372&voteId=59",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 14,
-      "In congedo o missione": 3,
-      "Presente non votante": 1
-     }
     }
    ],
    "gruppi": [
@@ -9421,7 +9420,7 @@
   "Senato": {
    "presenza": {
     "presenti": 152,
-    "totale": 8957,
+    "totale": 8963,
     "percentuale": 1.7
    },
    "fedelta_gruppo": {
@@ -9455,7 +9454,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",
@@ -9472,7 +9471,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 8.957); 8.774 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 8.963); 8.780 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

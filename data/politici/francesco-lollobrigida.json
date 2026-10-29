@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1972-03-21",
@@ -57,14 +57,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 1,
-     "assenti": 19,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2478,54 +2470,6 @@
       "astenuti": 38
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Contrario",
-     "gruppo": "FDI",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 6,
-      "Contrario": 31
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 26,
-      "Contrario": 11
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -5985,30 +5929,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=540_16&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_066",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia (DDL 2570)",
-     "atto": "C.2570",
-     "titolo": "Conversione in legge del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 68,
-      "Non ha votato": 48
-     },
-     "esito": {
-      "favorevoli": 130,
-      "contrari": 84,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_081",
      "camera": "Camera",
      "legislatura": 19,
@@ -6031,6 +5951,30 @@
       "astenuti": 6
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_066",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia (DDL 2570)",
+     "atto": "C.2570",
+     "titolo": "Conversione in legge del decreto-legge 8 agosto 2025, n. 117, recante misure urgenti in materia di giustizia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 68,
+      "Non ha votato": 48
+     },
+     "esito": {
+      "favorevoli": 130,
+      "contrari": 84,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
     },
     {
      "id": "vs19_536_074",
@@ -14201,17 +14145,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 468,
-    "totale": 22084,
+    "presenti": 467,
+    "totale": 22064,
     "percentuale": 2.1
    },
    "fedelta_gruppo": {
-    "allineati": 48,
+    "allineati": 47,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [],
@@ -14236,7 +14180,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_(01)_(cropped).jpg",
@@ -14253,8 +14197,8 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'agricoltura, della sovranità alimentare e delle foreste (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (468 su 22.084); la mediana dei colleghi è 72,8%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 48 volte su 48 (100,0%).",
+  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (467 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 47 volte su 47 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]
 }

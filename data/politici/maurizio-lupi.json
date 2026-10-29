@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -50,14 +50,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 0,
-     "assenti": 20,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2456,53 +2448,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-NCI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 4,
-      "Favorevole": 1
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-NCI",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -4177,30 +4122,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_026",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
-     "atto": "C.2759",
-     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 3,
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 264,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_015",
      "camera": "Camera",
      "legislatura": 19,
@@ -4271,6 +4192,30 @@
       "astenuti": 105
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_026",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
+     "atto": "C.2759",
+     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 3,
+      "Non ha votato": 5
+     },
+     "esito": {
+      "favorevoli": 264,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -9096,30 +9041,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=338_6&tipo=dettaglio"
     },
     {
-     "id": "vs19_337_078",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-07-31",
-     "descrizione": "Istituzione della filiera formativa tecnologico-professionale (Approvato dal Senato) (DDL 1691)",
-     "atto": "C.1691",
-     "titolo": "S. 924. - \"Istituzione della filiera formativa tecnologico-professionale\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 8,
-      "Favorevole": 1
-     },
-     "esito": {
-      "favorevoli": 156,
-      "contrari": 97,
-      "astenuti": 19
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_78&tipo=dettaglio"
-    },
-    {
      "id": "vs19_337_098",
      "camera": "Camera",
      "legislatura": 19,
@@ -9142,6 +9063,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_337_078",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-31",
+     "descrizione": "Istituzione della filiera formativa tecnologico-professionale (Approvato dal Senato) (DDL 1691)",
+     "atto": "C.1691",
+     "titolo": "S. 924. - \"Istituzione della filiera formativa tecnologico-professionale\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 8,
+      "Favorevole": 1
+     },
+     "esito": {
+      "favorevoli": 156,
+      "contrari": 97,
+      "astenuti": 19
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_78&tipo=dettaglio"
     },
     {
      "id": "vs19_336_001",
@@ -14164,7 +14109,7 @@
   "Camera": {
    "presenza": {
     "presenti": 3703,
-    "totale": 22084,
+    "totale": 22064,
     "percentuale": 16.8
    },
    "fedelta_gruppo": {
@@ -14173,7 +14118,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14262,7 +14207,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
@@ -14279,7 +14224,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,8% delle votazioni del periodo (3.703 su 22.084); la mediana dei colleghi è 72,8%.",
+  "Alla Camera ha partecipato al 16,8% delle votazioni del periodo (3.703 su 22.064); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

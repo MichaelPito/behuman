@@ -37900,42 +37900,6 @@
      "programma_totale": 10,
      "dopo": [
       {
-       "data": "2026-10-09",
-       "direzione": "riduzione",
-       "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Abbiamo potuto contare anche sulla vostra collaborazione, per esempio per scrivere la riforma fiscale, una riforma che l’Italia aspettava da oltre cinquant’anni e che ha tre obiettivi di fondo: tagliare le tasse, costruire un Fisco più semplice, rifondare il rapporto tra lo Stato e i contribuenti.",
-       "tema": "tasse",
-       "url": "https://www.governo.it/it/articolo/viii-congresso-nazionale-int-io-tributarista-il-videomessaggio-del-presidente-meloni/32798",
-       "verbo": "tagliare"
-      },
-      {
-       "tema": "tasse",
-       "data": "2026-10-14",
-       "fonte": "Aula della Camera",
-       "frase": "Dopodiché, sulle nuove risorse proprie proposte dalla Commissione abbiamo diverse riserve, ma siamo disposti a lavorare con un criterio chiaro: alleggerire per quanto possibile il peso sui bilanci nazionali, senza nuove tasse a carico di cittadini e imprese europee.",
-       "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00200.int00010",
-       "direzione": "riduzione",
-       "verbo": "alleggerire"
-      },
-      {
-       "data": "2026-10-14",
-       "direzione": "riduzione",
-       "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Con la prossima legge di bilancio continueremo a tagliare le tasse, perché se è vero che il 60% della nostra economia poggia sui consumi interni, allora le famiglie possono essere il motore della ripartenza.",
-       "tema": "tasse",
-       "url": "https://www.governo.it/it/articolo/aperti-confesercenti-forum-2026-il-videomessaggio-del-presidente-meloni/32843",
-       "verbo": "tagliare"
-      },
-      {
-       "data": "2026-10-14",
-       "direzione": "riduzione",
-       "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Dopodiché, sulle nuove risorse proprie proposte dalla Commissione abbiamo diverse riserve, ma siamo disposti a lavorare con un criterio chiaro: alleggerire per quanto possibile il peso sui bilanci nazionali, senza nuove tasse a carico di cittadini e imprese europee.",
-       "tema": "tasse",
-       "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-16-ottobre-comunicazioni-del-presidente-meloni-al-senato/32839",
-       "verbo": "alleggerire"
-      },
-      {
        "data": "2026-10-22",
        "direzione": null,
        "fonte": "Intervento pubblicato su governo.it",
@@ -37948,13 +37912,49 @@
        "tema": "tasse",
        "data": "2026-10-28",
        "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Confermiamo la tassazione agevolata al 5% sugli aumenti dei rinnovi contrattuali, misura che premia la contrattazione collettiva, che è stata fortemente richiesta dai sindacati e ovviamente dalle parti sociali.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
+      },
+      {
+       "tema": "tasse",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Prima di entrare nel merito delle misure principali, voglio dire che, a monte, la filosofia che governa anche questa Manovra di bilancio è stata quella di concentrare le risorse, non moltissime, che avevamo a disposizione sulle stesse priorità alle quali ci siamo dedicati nei quattro anni che sono passati: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, incentivi alle…",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": "riduzione",
+       "verbo": "riduzione"
+      },
+      {
+       "tema": "tasse",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Quindi, un pacchetto di misure che già da solo vale circa 9 miliardi di euro, tra queste: il credito d'imposta per gli investimenti nella ZES Unica del Mezzogiorno, la tassazione all'1% dei premi di produttività, il bonus per le mamme lavoratrici, la super-deduzione del costo del lavoro al 120%, cioè il famoso “più assumi meno paghi”.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
+      },
+      {
+       "tema": "tasse",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Sempre in materia di tassazione IRPEF interveniamo anche sul regime forfettario degli autonomi, altra misura alla quale sapete che teniamo molto, fu uno dei nostri primi provvedimenti.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
+      },
+      {
+       "tema": "tasse",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
        "frase": "Attività fittizie che nascono, operano per poco senza versare un euro di tasse, chiudono per sfuggire ai controlli e poi riaprono con un’altra identità.",
        "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960",
        "direzione": null,
        "verbo": null
       }
      ],
-     "dopo_totale": 195,
+     "dopo_totale": 199,
      "indicatori": [
       {
        "id": "pressione-fiscale",
@@ -39070,15 +39070,6 @@
        "data": "2026-10-14",
        "direzione": null,
        "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Dobbiamo continuare a combattere insieme il lavoro povero, incentivando l’occupazione dei giovani e delle donne in particolare.",
-       "tema": "occupazione",
-       "url": "https://www.governo.it/it/articolo/aperti-confesercenti-forum-2026-il-videomessaggio-del-presidente-meloni/32843",
-       "verbo": null
-      },
-      {
-       "data": "2026-10-14",
-       "direzione": null,
-       "fonte": "Intervento pubblicato su governo.it",
        "frase": "Noi discuteremmo dell’occupazione di una Nazione europea, e del ritorno dell’imperialismo di stampo sovietico che l’Europa ha conosciuto per mezzo secolo.",
        "tema": "occupazione",
        "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-16-ottobre-comunicazioni-del-presidente-meloni-al-senato/32839",
@@ -39106,6 +39097,15 @@
        "tema": "occupazione",
        "data": "2026-10-28",
        "fonte": "Intervento pubblicato su governo.it",
+       "frase": "È una questione oggettivamente di civiltà: nessuno dovrebbe studiare al freddo e a 35 gradi a giugno, e se in passato, invece di dedicare le risorse a comprare degli utilissimi banchi a rotelle, ci si fosse occupati anche di questo, oggi staremmo meglio.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
+      },
+      {
+       "tema": "occupazione",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
        "frase": "Gli iscritti sono quasi quadruplicati in pochi anni, e il tasso di occupazione per chi fa questa scelta supera stabilmente l’80% a un anno dal titolo.",
        "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960",
        "direzione": null,
@@ -39121,7 +39121,7 @@
        "verbo": null
       }
      ],
-     "dopo_totale": 358,
+     "dopo_totale": 359,
      "indicatori": [
       {
        "id": "occupati",
@@ -40186,15 +40186,6 @@
        "data": "2026-10-16",
        "direzione": null,
        "fonte": "Intervento pubblicato su governo.it",
-       "frase": "A margine di questo, come avete visto, parallelamente abbiamo chiuso con la Commissione europea la trattativa sul cosiddetto decreto bollette, cioè sulle misure che abbiano varato mesi fa e che avevano bisogno di un ok da parte della Commissione europea.",
-       "tema": "bollette",
-       "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870",
-       "verbo": null
-      },
-      {
-       "data": "2026-10-16",
-       "direzione": null,
-       "fonte": "Intervento pubblicato su governo.it",
        "frase": "E quindi, soprattutto in questi giorni, soprattutto nell'attuale contesto, ci consente sostanzialmente di intervenire per abbassare le bollette.",
        "tema": "bollette",
        "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870",
@@ -40207,6 +40198,15 @@
        "frase": "Tema della competitività, particolarmente la questione dei prezzi dell'energia.",
        "tema": "bollette",
        "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre-il-punto-stampa-del-presidente-meloni/32870",
+       "verbo": null
+      },
+      {
+       "tema": "bollette",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Vale circa 700 milioni, si somma al contributo che in questi mesi avevamo già chiesto, ad esempio, per finanziare il decreto bollette.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
        "verbo": null
       },
       {
@@ -40237,7 +40237,7 @@
        "verbo": null
       }
      ],
-     "dopo_totale": 159,
+     "dopo_totale": 160,
      "indicatori": [
       {
        "id": "bolletta-luce",
@@ -40589,24 +40589,6 @@
      "programma_totale": 3,
      "dopo": [
       {
-       "data": "2026-01-15",
-       "direzione": null,
-       "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Non solo in qualità di prime leader donne delle nostre rispettive nazioni, ma per il senso di responsabilità che grava su ogni Governo, siamo determinate a condividere esperienze e a cercare insieme soluzioni innovative per sostenere la natalità, aiutare le famiglie, assicurare la sostenibilità dei sistemi di welfare, rafforzare la coesione tra le generazioni.",
-       "tema": "natalita",
-       "url": "https://www.governo.it/it/articolo/intervento/30768",
-       "verbo": null
-      },
-      {
-       "data": "2026-05-13",
-       "direzione": null,
-       "fonte": "Intervento pubblicato su governo.it",
-       "frase": "Allora economicamente - lo dico perché non è la prima volta che mi sento dire \"che cosa hai in serbo per l'ultimo anno di legislatura?\", ricordando un modo di fare politica che ha riguardato altri e non riguarda noi -, quello che noi intendiamo fare in questo ultimo anno di Governo è continuare una strategia che abbiamo messo in campo, che era fatta sul piano economico sostanzialmente da tre scelte fondamentali: da…",
-       "tema": "natalita",
-       "url": "https://www.governo.it/it/articolo/senato-della-repubblica-il-presidente-meloni-risponde-alle-interrogazioni-risposta",
-       "verbo": null
-      },
-      {
        "data": "2026-05-13",
        "direzione": null,
        "fonte": "Intervento pubblicato su governo.it",
@@ -40641,9 +40623,27 @@
        "tema": "natalita",
        "url": "https://www.governo.it/it/articolo/il-presidente-meloni-oltre-le-radici-il-modello-nordest-tra-europa-impresa-e-futuro/32700",
        "verbo": null
+      },
+      {
+       "tema": "natalita",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Famiglia e natalità è un altro capitolo che è sempre presente nelle nostre leggi di bilancio.",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
+      },
+      {
+       "tema": "natalita",
+       "data": "2026-10-28",
+       "fonte": "Intervento pubblicato su governo.it",
+       "frase": "Prima di entrare nel merito delle misure principali, voglio dire che, a monte, la filosofia che governa anche questa Manovra di bilancio è stata quella di concentrare le risorse, non moltissime, che avevamo a disposizione sulle stesse priorità alle quali ci siamo dedicati nei quattro anni che sono passati: famiglia, natalità, riduzione delle tasse, tutela del potere d'acquisto, incentivi al lavoro, incentivi alle…",
+       "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
+       "direzione": null,
+       "verbo": null
       }
      ],
-     "dopo_totale": 94,
+     "dopo_totale": 96,
      "indicatori": [
       {
        "id": "nascite",

@@ -7,13 +7,13 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-10-28",
- "al": "2026-10-28",
+ "dal": "2021-10-29",
+ "al": "2026-10-29",
  "riepilogo": {
-  "totale": 706,
+  "totale": 707,
   "camera": 109,
   "parole_camera": 184826,
-  "governo": 511,
+  "governo": 512,
   "senato": 0,
   "verificate": 86,
   "prima": "2021-11-02",
@@ -57,7 +57,7 @@
    {
     "anno": "2026",
     "camera": 9,
-    "governo": 129,
+    "governo": 130,
     "senato": 0,
     "verificate": 25
    }
@@ -155,27 +155,27 @@
   "temi": [
    {
     "tema": "Unione europea",
-    "n": 340
+    "n": 341
    },
    {
     "tema": "Esteri e difesa",
-    "n": 283
+    "n": 284
    },
    {
     "tema": "Energia e carburanti",
-    "n": 215
+    "n": 216
    },
    {
     "tema": "Economia e conti pubblici",
-    "n": 149
+    "n": 150
    },
    {
     "tema": "Famiglia e natalità",
-    "n": 142
+    "n": 143
    },
    {
     "tema": "Lavoro, salari e pensioni",
-    "n": 135
+    "n": 136
    },
    {
     "tema": "Immigrazione",
@@ -183,7 +183,7 @@
    },
    {
     "tema": "Casa e infrastrutture",
-    "n": 116
+    "n": 117
    },
    {
     "tema": "Ambiente e clima",
@@ -191,11 +191,11 @@
    },
    {
     "tema": "Scuola e università",
-    "n": 80
+    "n": 81
    },
    {
     "tema": "Fisco e tasse",
-    "n": 78
+    "n": 79
    },
    {
     "tema": "Sicurezza e criminalità",
@@ -203,7 +203,7 @@
    },
    {
     "tema": "Sanità",
-    "n": 66
+    "n": 67
    },
    {
     "tema": "Giustizia",
@@ -270,20 +270,20 @@
    "2026": [
     {
      "tema": "Unione europea",
-     "n": 65
+     "n": 66
     },
     {
      "tema": "Energia e carburanti",
-     "n": 61
+     "n": 62
     },
     {
      "tema": "Esteri e difesa",
-     "n": 55
+     "n": 56
     }
    ]
   }
  },
- "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 511 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (215). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 512 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (284), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -9679,6 +9679,26 @@
    ],
    "parole": 830,
    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952",
+   "fonte": "governo.it"
+  },
+  {
+   "data": "2026-10-28",
+   "titolo": "Conferenza stampa del Consiglio dei Ministri 195, l'intervento del Presidente Meloni",
+   "sunto": "È la quinta di questo Governo, è una Legge di Bilancio che vale complessivamente circa 26 miliardi di euro. […] Introduciamo con questa Legge di Bilancio un voucher sociale di 300 euro per gli italiani over 75 con una pensione fino a 28 mila euro l'anno.",
+   "temi": [
+    "Economia e conti pubblici",
+    "Fisco e tasse",
+    "Lavoro, salari e pensioni",
+    "Sanità",
+    "Energia e carburanti",
+    "Esteri e difesa",
+    "Unione europea",
+    "Scuola e università",
+    "Famiglia e natalità",
+    "Casa e infrastrutture"
+   ],
+   "parole": 2747,
+   "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969",
    "fonte": "governo.it"
   },
   {

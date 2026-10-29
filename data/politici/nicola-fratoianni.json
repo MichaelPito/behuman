@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -47,14 +47,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 0,
-     "assenti": 20,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2487,54 +2479,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEU",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 5,
-      "Favorevole": 7
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEU",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 6,
-      "Favorevole": 6
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -4163,6 +4107,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
+     "id": "vs19_634_005",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
+     "atto": "C.2429",
+     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Astensione",
+     "gruppo": "AVS",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 9,
+      "Non ha votato": 1
+     },
+     "esito": {
+      "favorevoli": 156,
+      "contrari": 0,
+      "astenuti": 112
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
+    },
+    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -4209,30 +4177,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_005",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Integrazione delle attività di interesse pubblico esercitate dall'Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell'Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare (Approvato dal Senato) (DDL 2429)",
-     "atto": "C.2429",
-     "titolo": "S. 1320. - \"Integrazione delle attività di interesse pubblico esercitate dall’Associazione della Croce Rossa italiana e revisione delle disposizioni in materia di Corpi dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate. Delega al Governo per la revisione della disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie dell’Associazione della Croce Rossa italiana ausiliari delle Forze armate e delega al Governo per la razionalizzazione, la semplificazione e il riassetto delle disposizioni in materia di ordinamento militare\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "AVS",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 9,
-      "Non ha votato": 1
-     },
-     "esito": {
-      "favorevoli": 156,
-      "contrari": 0,
-      "astenuti": 112
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
     },
     {
      "id": "vs19_634_015",
@@ -14176,8 +14120,8 @@
   "Camera": {
    "presenza": {
     "presenti": 12214,
-    "totale": 22084,
-    "percentuale": 55.3
+    "totale": 22064,
+    "percentuale": 55.4
    },
    "fedelta_gruppo": {
     "allineati": 249,
@@ -14205,7 +14149,7 @@
      "vs18_592_017"
     ]
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14323,7 +14267,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",
@@ -14340,7 +14284,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 55,3% delle votazioni del periodo (12.214 su 22.084); la mediana dei colleghi è 72,8%.",
+  "Alla Camera ha partecipato al 55,4% delle votazioni del periodo (12.214 su 22.064); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 249 volte su 268 (92,9%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

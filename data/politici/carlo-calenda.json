@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1973-04-09",
@@ -482,11 +482,61 @@
      "legislatura": 19,
      "presenti": 0,
      "assenti": 0,
-     "missione": 101,
-     "totale": 101
+     "missione": 107,
+     "totale": 107
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-469-6",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.427-731-888-891-B",
+     "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 140,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60173&sessionId=469&voteId=6",
+     "voto": "In congedo o missione",
+     "gruppo": "Misto",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 4,
+      "In congedo o missione": 4,
+      "Presente non votante": 2
+     }
+    },
+    {
+     "id": "19-469-3",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.1804",
+     "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 75,
+      "contrari": 52,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59909&sessionId=469&voteId=3",
+     "voto": "In congedo o missione",
+     "gruppo": "Misto",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 3,
+      "In congedo o missione": 4,
+      "Presente non votante": 1
+     }
+    },
     {
      "id": "19-468-4",
      "camera": "Senato",
@@ -8207,7 +8257,7 @@
   "Senato": {
    "presenza": {
     "presenti": 3192,
-    "totale": 8404,
+    "totale": 8410,
     "percentuale": 38.0
    },
    "fedelta_gruppo": {
@@ -8221,7 +8271,7 @@
      "19-122-112"
     ]
    },
-   "voti_finali_e_fiducia": 317
+   "voti_finali_e_fiducia": 319
   }
  },
  "posizioni": [
@@ -8287,7 +8337,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": "Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.",
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carlo_Calenda_2022_%28cropped%29.jpg/500px-Carlo_Calenda_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Carlo_Calenda_2022_(cropped).jpg",
@@ -8303,7 +8353,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Al Senato ha partecipato al 38,0% delle votazioni del periodo (3.192 su 8.404); 3.412 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 38,0% delle votazioni del periodo (3.192 su 8.410); 3.418 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 29 volte su 33 (87,9%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

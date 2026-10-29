@@ -7,17 +7,17 @@
   "sigla": "AVS"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-28",
- "al": "2026-10-28",
+ "dal": "2021-10-29",
+ "al": "2026-10-29",
  "riepilogo": {
-  "totale": 438,
-  "camera": 424,
-  "parole_camera": 226464,
+  "totale": 441,
+  "camera": 427,
+  "parole_camera": 227495,
   "governo": 0,
   "senato": 0,
   "verificate": 14,
   "prima": "2022-07-28",
-  "ultima": "2026-10-21",
+  "ultima": "2026-10-28",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 64,
+    "camera": 67,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -58,7 +58,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 168
+    "n": 169
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -66,7 +66,7 @@
    },
    {
     "categoria": "Question time",
-    "n": 62
+    "n": 64
    },
    {
     "categoria": "Interpellanze e interrogazioni",
@@ -92,9 +92,9 @@
   "argomenti_frequenti": [
    {
     "argomento": "Svolgimento di interrogazioni a risposta immediata.",
-    "n": 62,
+    "n": 64,
     "dal": "2022-11-30",
-    "al": "2026-09-23"
+    "al": "2026-10-28"
    },
    {
     "argomento": "Svolgimento di interpellanze urgenti.",
@@ -152,7 +152,7 @@
   "temi": [
    {
     "tema": "Ambiente e clima",
-    "n": 111
+    "n": 112
    },
    {
     "tema": "Energia e carburanti",
@@ -160,7 +160,7 @@
    },
    {
     "tema": "Esteri e difesa",
-    "n": 95
+    "n": 96
    },
    {
     "tema": "Unione europea",
@@ -172,11 +172,11 @@
    },
    {
     "tema": "Giustizia",
-    "n": 49
+    "n": 50
    },
    {
     "tema": "Casa e infrastrutture",
-    "n": 46
+    "n": 47
    },
    {
     "tema": "Sicurezza e criminalità",
@@ -184,19 +184,19 @@
    },
    {
     "tema": "Lavoro, salari e pensioni",
-    "n": 33
+    "n": 34
    },
    {
     "tema": "Sanità",
-    "n": 30
+    "n": 31
+   },
+   {
+    "tema": "Scuola e università",
+    "n": 27
    },
    {
     "tema": "Economia e conti pubblici",
     "n": 26
-   },
-   {
-    "tema": "Scuola e università",
-    "n": 25
    },
    {
     "tema": "Immigrazione",
@@ -271,16 +271,16 @@
     },
     {
      "tema": "Esteri e difesa",
-     "n": 22
+     "n": 23
     },
     {
-     "tema": "Unione europea",
-     "n": 11
+     "tema": "Giustizia",
+     "n": 12
     }
    ]
   }
  },
- "recap": "Dal 28 luglio 2022 al 21 ottobre 2026: 424 interventi nell'Aula della Camera (226.464 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (111), energia e carburanti (107), esteri e difesa (95). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (168 interventi).",
+ "recap": "Dal 28 luglio 2022 al 28 ottobre 2026: 427 interventi nell'Aula della Camera (227.495 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (107), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (169 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -7383,6 +7383,59 @@
    ],
    "parole": 663,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00140"
+  },
+  {
+   "data": "2026-10-28",
+   "leg": 19,
+   "seduta": 735,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Come gruppo di Alleanza Verdi e Sinistra riteniamo che la Presidente del Consiglio debba venire per fare il suo Premier time , perché oggi era previsto il question time in Aula.",
+   "temi": [
+    "Giustizia",
+    "Scuola e università"
+   ],
+   "parole": 553,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00020"
+  },
+  {
+   "data": "2026-10-28",
+   "leg": 19,
+   "seduta": 735,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Chiarimenti in ordine alla mancata valutazione autonoma di soluzioni alternative al progetto definitivo del Ponte sullo Stretto di Messina - n. 3-02987",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Di fronte a questa crisi economica e sociale, voi avete deciso di spendere tanti soldi nelle armi, invece di investire nella sanità, nell'istruzione, ma avete deciso anche di spendere tantissimi soldi in un'opera assolutamente inutile, non necessaria in questo momento storico, come il ponte…",
+   "temi": [
+    "Sanità",
+    "Esteri e difesa",
+    "Scuola e università",
+    "Casa e infrastrutture"
+   ],
+   "parole": 133,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00020"
+  },
+  {
+   "data": "2026-10-28",
+   "leg": 19,
+   "seduta": 735,
+   "argomento": "Svolgimento di interrogazioni a risposta immediata.",
+   "fase": "Chiarimenti in ordine alla mancata valutazione autonoma di soluzioni alternative al progetto definitivo del Ponte sullo Stretto di Messina - n. 3-02987",
+   "categoria": "Question time",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "A tal punto, pensi un po', signor Ministro, che, nell'aprile 2021, è stato proprio il Governo italiano a trasferire al Parlamento le alternative progettuali, che dicevano che il ponte a più campate era più compatibile dal punto di vista ambientale e meno oneroso dal punto di vista economico.",
+   "temi": [
+    "Lavoro, salari e pensioni",
+    "Ambiente e clima"
+   ],
+   "parole": 345,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060"
   }
  ],
  "governo": [],

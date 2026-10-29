@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -38,14 +38,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 18,
-     "assenti": 2,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2071,54 +2063,6 @@
       "astenuti": 38
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 25,
-      "Favorevole": 70
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 43,
-      "Favorevole": 52
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -2572,12 +2516,62 @@
      "camera": "Senato",
      "legislatura": 19,
      "presenti": 61,
-     "assenti": 36,
+     "assenti": 42,
      "missione": 4,
-     "totale": 101
+     "totale": 107
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-469-6",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.427-731-888-891-B",
+     "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 140,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60173&sessionId=469&voteId=6",
+     "voto": "Non ha votato",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 25,
+      "In congedo o missione": 3,
+      "Presente non votante": 3
+     }
+    },
+    {
+     "id": "19-469-3",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "Votazione finale",
+     "atto": "S.1804",
+     "titolo": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 75,
+      "contrari": 52,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=59909&sessionId=469&voteId=3",
+     "voto": "Non ha votato",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 24,
+      "In congedo o missione": 3,
+      "Presente non votante": 2
+     }
+    },
     {
      "id": "19-468-4",
      "camera": "Senato",
@@ -10498,22 +10492,22 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 961,
-    "totale": 1972,
-    "percentuale": 48.7
+    "presenti": 943,
+    "totale": 1952,
+    "percentuale": 48.3
    },
    "fedelta_gruppo": {
-    "allineati": 34,
+    "allineati": 33,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 83
+   "voti_finali_e_fiducia": 81
   },
   "Senato": {
    "presenza": {
     "presenti": 6348,
-    "totale": 8404,
+    "totale": 8410,
     "percentuale": 75.5
    },
    "fedelta_gruppo": {
@@ -10522,7 +10516,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 317
+   "voti_finali_e_fiducia": 319
   }
  },
  "posizioni": [
@@ -10640,7 +10634,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10657,9 +10651,9 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 48,7% delle votazioni del periodo (961 su 1.972); la mediana dei colleghi è 72,8%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 34 volte su 34 (100,0%).",
-  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.404); 451 votazioni risultano in congedo o missione.",
+  "Alla Camera ha partecipato al 48,3% delle votazioni del periodo (943 su 1.952); la mediana dei colleghi è 73,0%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 33 volte su 33 (100,0%).",
+  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.410); 451 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

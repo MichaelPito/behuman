@@ -7,17 +7,17 @@
   "sigla": "M5S"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-28",
- "al": "2026-10-28",
+ "dal": "2021-10-29",
+ "al": "2026-10-29",
  "riepilogo": {
-  "totale": 263,
-  "camera": 263,
-  "parole_camera": 121338,
+  "totale": 264,
+  "camera": 264,
+  "parole_camera": 121907,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
   "prima": "2022-06-22",
-  "ultima": "2026-10-20",
+  "ultima": "2026-10-28",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 63,
+    "camera": 64,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -58,7 +58,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 152
+    "n": 153
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -147,7 +147,7 @@
    },
    {
     "tema": "Lavoro, salari e pensioni",
-    "n": 24
+    "n": 25
    },
    {
     "tema": "Economia e conti pubblici",
@@ -255,7 +255,7 @@
    ]
   }
  },
- "recap": "Dal 22 giugno 2022 al 20 ottobre 2026: 263 interventi nell'Aula della Camera (121.338 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (152 interventi).",
+ "recap": "Dal 22 giugno 2022 al 28 ottobre 2026: 264 interventi nell'Aula della Camera (121.907 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
  "valutazione_coerenza": {
   "stato": "con_cambi",
   "temi_confrontabili": 1,
@@ -4507,6 +4507,22 @@
    ],
    "parole": 699,
    "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00050.int00040"
+  },
+  {
+   "data": "2026-10-28",
+   "leg": 19,
+   "seduta": 735,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "sunto": "Avevate trovato il colpevole perfetto, avevate trovato l'Osama Bin Laden di Brescia, avevate detto che c'era sostanzialmente una sorta di cellula di Al-Qaeda che manovrava tutte le persone che scendevano in piazza, dopo aver dato ovviamente la colpa a Putin di aver fomentato queste proteste.",
+   "temi": [
+    "Lavoro, salari e pensioni"
+   ],
+   "parole": 569,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00040"
   }
  ],
  "governo": [],

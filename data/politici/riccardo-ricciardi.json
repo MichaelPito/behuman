@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -38,14 +38,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 8,
-     "assenti": 12,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2467,54 +2459,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 48,
-      "Favorevole": 110
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 67,
-      "Favorevole": 91
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -4148,54 +4092,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_010",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo concernente misure di solidarietà volte a garantire la sicurezza dell'approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024 (Approvato dal Senato) (DDL 2592)",
-     "atto": "C.2592",
-     "titolo": "S. 1503. - \"Ratifica ed esecuzione dell’Accordo concernente misure di solidarietà volte a garantire la sicurezza dell’approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 13,
-      "Favorevole": 36
-     },
-     "esito": {
-      "favorevoli": 263,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 14,
-      "Favorevole": 35
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_005",
      "camera": "Camera",
      "legislatura": 19,
@@ -4218,6 +4114,30 @@
       "astenuti": 112
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_010",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo concernente misure di solidarietà volte a garantire la sicurezza dell'approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024 (Approvato dal Senato) (DDL 2592)",
+     "atto": "C.2592",
+     "titolo": "S. 1503. - \"Ratifica ed esecuzione dell’Accordo concernente misure di solidarietà volte a garantire la sicurezza dell’approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Favorevole": 36
+     },
+     "esito": {
+      "favorevoli": 263,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
      "id": "vs19_634_026",
@@ -4266,6 +4186,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 14,
+      "Favorevole": 35
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
     },
     {
      "id": "vs19_634_033",
@@ -14186,17 +14130,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8322,
-    "totale": 22084,
+    "presenti": 8314,
+    "totale": 22064,
     "percentuale": 37.7
    },
    "fedelta_gruppo": {
-    "allineati": 207,
+    "allineati": 206,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14305,7 +14249,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14321,8 +14265,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,7% delle votazioni del periodo (8.322 su 22.084); la mediana dei colleghi è 72,8%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 207 volte su 207 (100,0%).",
+  "Alla Camera ha partecipato al 37,7% delle votazioni del periodo (8.314 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."
  ]

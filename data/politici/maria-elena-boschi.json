@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -53,14 +53,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 1,
-     "assenti": 19,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2475,54 +2467,6 @@
       "astenuti": 38
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "IV",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 4,
-      "Favorevole": 23
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "IV",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 10,
-      "Favorevole": 17
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
     },
     {
      "id": "vs19_731_004",
@@ -6761,6 +6705,29 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=499_1&tipo=dettaglio"
     },
     {
+     "id": "vs19_495_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-06-17",
+     "descrizione": "Istituzione della Giornata della ristorazione (PDL 1672)",
+     "atto": "C.1672",
+     "titolo": "SQUERI ed altri: \"Istituzione della Giornata della ristorazione",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "IVICRE",
+     "linea_gruppo": null,
+     "conteggi_gruppo": {
+      "Non ha votato": 6
+     },
+     "esito": {
+      "favorevoli": 138,
+      "contrari": 1,
+      "astenuti": 90
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=495_20&tipo=dettaglio"
+    },
+    {
      "id": "vs19_495_008",
      "camera": "Camera",
      "legislatura": 19,
@@ -6783,29 +6750,6 @@
       "astenuti": 101
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=495_8&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_495_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-06-17",
-     "descrizione": "Istituzione della Giornata della ristorazione (PDL 1672)",
-     "atto": "C.1672",
-     "titolo": "SQUERI ed altri: \"Istituzione della Giornata della ristorazione",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "IVICRE",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 6
-     },
-     "esito": {
-      "favorevoli": 138,
-      "contrari": 1,
-      "astenuti": 90
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=495_20&tipo=dettaglio"
     },
     {
      "id": "vs19_491_180",
@@ -14200,19 +14144,19 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 7864,
-    "totale": 22083,
+    "presenti": 7863,
+    "totale": 22063,
     "percentuale": 35.6
    },
    "fedelta_gruppo": {
-    "allineati": 160,
+    "allineati": 159,
     "difformi": 1,
     "percentuale_allineati": 99.4,
     "voti_difformi": [
      "vs19_197_061"
     ]
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14314,7 +14258,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
@@ -14330,8 +14274,8 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 35,6% delle votazioni del periodo (7.864 su 22.083); la mediana dei colleghi è 72,8%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 160 volte su 161 (99,4%).",
+  "Alla Camera ha partecipato al 35,6% delle votazioni del periodo (7.863 su 22.063); la mediana dei colleghi è 73,0%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 159 volte su 160 (99,4%).",
   "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

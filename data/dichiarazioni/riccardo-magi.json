@@ -7,17 +7,17 @@
   "sigla": "+E"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-28",
- "al": "2026-10-28",
+ "dal": "2021-10-29",
+ "al": "2026-10-29",
  "riepilogo": {
-  "totale": 321,
-  "camera": 319,
-  "parole_camera": 132406,
+  "totale": 322,
+  "camera": 320,
+  "parole_camera": 132674,
   "governo": 0,
   "senato": 0,
   "verificate": 2,
   "prima": "2021-11-10",
-  "ultima": "2026-10-27",
+  "ultima": "2026-10-28",
   "per_anno": [
    {
     "anno": "2021",
@@ -56,7 +56,7 @@
    },
    {
     "anno": "2026",
-    "camera": 66,
+    "camera": 67,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -65,7 +65,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 139
+    "n": 140
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -281,7 +281,7 @@
    ]
   }
  },
- "recap": "Dal 10 novembre 2021 al 27 ottobre 2026: 319 interventi nell'Aula della Camera (132.406 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+ "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 320 interventi nell'Aula della Camera (132.674 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (140 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -5196,6 +5196,20 @@
    ],
    "parole": 80,
    "url": "https://www.camera.it/leg19/410?idSeduta=0734&tipo=stenografico#sed0734.stenografico.tit00080.sub00090.int00120"
+  },
+  {
+   "data": "2026-10-28",
+   "leg": 19,
+   "seduta": 735,
+   "argomento": "Sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "MISTO-+EU-SUEU",
+   "sunto": "Aggiungo che è quanto mai necessario che la Presidente del Consiglio venga in quest'Aula, al di là delle occasioni in cui la vediamo - occasioni rarissime, ad esempio prima dei Consigli europei -, perché nel frattempo la Presidente Meloni regala al Paese delle perle - e sono su questo sarcastico…",
+   "temi": [],
+   "parole": 268,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00100"
   }
  ],
  "governo": [],

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -38,14 +38,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 4,
-     "assenti": 16,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2444,53 +2436,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M-AERI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 3
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M-AERI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 1,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3621,6 +3566,29 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=665_84&tipo=dettaglio"
     },
     {
+     "id": "vs19_664_016",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-20",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 27 marzo 2026, n. 38, nel testo della Commissione, identico a quello approvato dal Senato, sul quale il Governo ha posto la questione di fiducia.",
+     "atto": "C.2935",
+     "titolo": "S. 1852. - \"Conversione in legge, con modificazioni, del decreto-legge 27 marzo 2026, n. 38, recante disposizioni urgenti in materia fiscale ed economica\" (approvato dal Senato)",
+     "fiducia": true,
+     "approvato": true,
+     "voto": "Contrario",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 3
+     },
+     "esito": {
+      "favorevoli": 169,
+      "contrari": 93,
+      "astenuti": 4
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_16&tipo=dettaglio"
+    },
+    {
      "id": "vs19_664_015",
      "camera": "Camera",
      "legislatura": 19,
@@ -3643,29 +3611,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_15&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_664_016",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-20",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 27 marzo 2026, n. 38, nel testo della Commissione, identico a quello approvato dal Senato, sul quale il Governo ha posto la questione di fiducia.",
-     "atto": "C.2935",
-     "titolo": "S. 1852. - \"Conversione in legge, con modificazioni, del decreto-legge 27 marzo 2026, n. 38, recante disposizioni urgenti in materia fiscale ed economica\" (approvato dal Senato)",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Contrario",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 3
-     },
-     "esito": {
-      "favorevoli": 169,
-      "contrari": 93,
-      "astenuti": 4
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_16&tipo=dettaglio"
     },
     {
      "id": "vs19_660_001",
@@ -13994,17 +13939,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8907,
-    "totale": 22084,
-    "percentuale": 40.3
+    "presenti": 8903,
+    "totale": 22064,
+    "percentuale": 40.4
    },
    "fedelta_gruppo": {
-    "allineati": 192,
+    "allineati": 190,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14057,7 +14002,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",
@@ -14073,8 +14018,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 40,3% delle votazioni del periodo (8.907 su 22.084); la mediana dei colleghi è 72,8%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 192 volte su 192 (100,0%).",
+  "Alla Camera ha partecipato al 40,4% delle votazioni del periodo (8.903 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 190 volte su 190 (100,0%).",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]
 }

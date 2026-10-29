@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 706,
+    "totale": 707,
     "camera": 109,
     "senato": 0,
-    "governo": 511,
+    "governo": 512,
     "verificate": 86,
     "prima": "2021-11-02",
     "ultima": "2026-10-28"
    },
-   "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 511 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (340), esteri e difesa (283), energia e carburanti (215). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 512 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (284), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -405,15 +405,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 438,
-    "camera": 424,
+    "totale": 441,
+    "camera": 427,
     "senato": 0,
     "governo": 0,
     "verificate": 14,
     "prima": "2022-07-28",
-    "ultima": "2026-10-21"
+    "ultima": "2026-10-28"
    },
-   "recap": "Dal 28 luglio 2022 al 21 ottobre 2026: 424 interventi nell'Aula della Camera (226.464 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (111), energia e carburanti (107), esteri e difesa (95). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (168 interventi).",
+   "recap": "Dal 28 luglio 2022 al 28 ottobre 2026: 427 interventi nell'Aula della Camera (227.495 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (107), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (169 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -485,15 +485,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 321,
-    "camera": 319,
+    "totale": 322,
+    "camera": 320,
     "senato": 0,
     "governo": 0,
     "verificate": 2,
     "prima": "2021-11-10",
-    "ultima": "2026-10-27"
+    "ultima": "2026-10-28"
    },
-   "recap": "Dal 10 novembre 2021 al 27 ottobre 2026: 319 interventi nell'Aula della Camera (132.406 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
+   "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 320 interventi nell'Aula della Camera (132.674 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (140 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -620,15 +620,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 263,
-    "camera": 263,
+    "totale": 264,
+    "camera": 264,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
     "prima": "2022-06-22",
-    "ultima": "2026-10-20"
+    "ultima": "2026-10-28"
    },
-   "recap": "Dal 22 giugno 2022 al 20 ottobre 2026: 263 interventi nell'Aula della Camera (121.338 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (152 interventi).",
+   "recap": "Dal 22 giugno 2022 al 28 ottobre 2026: 264 interventi nell'Aula della Camera (121.907 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
    "valutazione_coerenza": {
     "stato": "con_cambi",
     "temi_confrontabili": 1,
@@ -654,7 +654,11 @@
    "url": "https://pagellapolitica.it/fact-checking/il-62-per-cento-di-italiani-e-di-italiane-che-non-fanno-figli-dichiarano-che-la-scelta-di-non-fare-figli-ha-ragioni-di-carattere-economico",
    "fonte_originale": "https://www.camera.it/Leg19/410?idSeduta=0727&tipo=stenografico#:~:text=%C3%88%20inverno%20pieno%2C%20inverno%20demografico.%20Il%2062%20per%20cento%20di%20italiani%20e%20di%20italiane%20che%20non%20fanno%20figli%20e%20che%20sono%20stati%20intervistati%20su%20questo%20punto%20dichiarano%20%2D%20pensi%20un%20po%27%20%2D%20che%20la%20scelta%20di%20non%20fare%20figli%20ha%20ragioni%20di%20carattere%20economico%3A%20non%20se%20lo%20possono%20permettere",
    "fonte_tipo": "Camera",
-   "giudizio": null
+   "giudizio": null,
+   "testo_ufficiale": {
+    "estratto": "Grazie, signor Presidente. Signora Presidente del Consiglio, anche oggi alla fine delle repliche ha consegnato al Parlamento della Repubblica il suo comizio abituale, un comizio dai toni alti, sempre più alti, momento dopo momento. È il segno di un nervosismo. Io la capisco, signora Presidente: è comprensibile. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0727&tipo=stenografico#sed0727.stenografico.tit00130.sub00040.int00210"
+   }
   },
   {
    "slug": "matteo-salvini",
@@ -671,7 +675,11 @@
    "url": "https://pagellapolitica.it/fact-checking/quella-che-lei-definisce-mobilita-dolce-ovverosia-i-monopattini-tra-il-2022-e-il-2025-ha-portato-a-25-morti-e-3-700-feriti",
    "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#:~:text=Allora%2C%20monopattini%3A%20i%20dati%20sull%27incidentalit%C3%A0%20%2D%20che%20fornir%C3%B2%20al%20collega%20che%20evidentemente%20non%20li%20ha%20seguiti%20%2D%20confermano%20che%20quella%20che%20lei%20definisce%20mobilit%C3%A0%20dolce%2C%20ovverosia%20i%20monopattini%2C%20tra%20il%202022%20e%20il%202025%2C%20ha%20portato%20a%2025%20morti%20e%203.700%20feriti.",
    "fonte_tipo": "Camera",
-   "giudizio": null
+   "giudizio": null,
+   "testo_ufficiale": {
+    "estratto": "Grazie, Presidente. Allora, monopattini: i dati sull'incidentalità - che fornirò al collega che evidentemente non li ha seguiti - confermano che quella che lei definisce mobilità dolce, ovverosia i monopattini, tra il 2022 e il 2025, ha portato a 25 morti e 3.700 feriti. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0722&tipo=stenografico#sed0722.stenografico.tit00060.sub00040.int00060"
+   }
   },
   {
    "slug": "matteo-renzi",
@@ -4052,9 +4060,99 @@
    "schieramento": "governo",
    "fonte": "Governo",
    "data": "2026-10-28",
+   "testo": "È la quinta di questo Governo, è una Legge di Bilancio che vale complessivamente circa 26 miliardi di euro. […] Introduciamo con questa Legge di Bilancio un voucher sociale di 300 euro per gli italiani over 75 con una pensione fino a 28 mila euro l'anno.",
+   "contesto": "Conferenza stampa del Consiglio dei Ministri 195, l'intervento del Presidente Meloni",
+   "url": "https://www.governo.it/it/articolo/conferenza-stampa-del-consiglio-dei-ministri-195-lintervento-del-presidente-meloni/32969"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
+   "data": "2026-10-28",
    "testo": "Buongiorno a tutti, grazie dell'invito, grazie dell'accoglienza. […] Allora è un lavoro di sistema che abbiamo fatto e che dobbiamo fare insieme, che il Governo fa dal suo canto per fare in modo che poi il mondo produttivo possa attraversare quel varco, ma il mondo produttivo deve avere gli strumenti che gli consentono di essere forte mentre attraversa quel varco.",
    "contesto": "Il Presidente Meloni interviene all’Assemblea di Confartigianato",
    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960"
+  },
+  {
+   "slug": "angelo-bonelli",
+   "nome": "Angelo Bonelli",
+   "partito": {
+    "slug": "avs",
+    "nome": "Alleanza Verdi e Sinistra",
+    "sigla": "AVS"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-28",
+   "testo": "Come gruppo di Alleanza Verdi e Sinistra riteniamo che la Presidente del Consiglio debba venire per fare il suo Premier time , perché oggi era previsto il question time in Aula.",
+   "contesto": "Sull'ordine dei lavori.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00020"
+  },
+  {
+   "slug": "angelo-bonelli",
+   "nome": "Angelo Bonelli",
+   "partito": {
+    "slug": "avs",
+    "nome": "Alleanza Verdi e Sinistra",
+    "sigla": "AVS"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-28",
+   "testo": "Di fronte a questa crisi economica e sociale, voi avete deciso di spendere tanti soldi nelle armi, invece di investire nella sanità, nell'istruzione, ma avete deciso anche di spendere tantissimi soldi in un'opera assolutamente inutile, non necessaria in questo momento storico, come il ponte…",
+   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00020"
+  },
+  {
+   "slug": "angelo-bonelli",
+   "nome": "Angelo Bonelli",
+   "partito": {
+    "slug": "avs",
+    "nome": "Alleanza Verdi e Sinistra",
+    "sigla": "AVS"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-28",
+   "testo": "A tal punto, pensi un po', signor Ministro, che, nell'aprile 2021, è stato proprio il Governo italiano a trasferire al Parlamento le alternative progettuali, che dicevano che il ponte a più campate era più compatibile dal punto di vista ambientale e meno oneroso dal punto di vista economico.",
+   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060"
+  },
+  {
+   "slug": "riccardo-magi",
+   "nome": "Riccardo Magi",
+   "partito": {
+    "slug": "piu-europa",
+    "nome": "+Europa",
+    "sigla": "+E"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-28",
+   "testo": "Aggiungo che è quanto mai necessario che la Presidente del Consiglio venga in quest'Aula, al di là delle occasioni in cui la vediamo - occasioni rarissime, ad esempio prima dei Consigli europei -, perché nel frattempo la Presidente Meloni regala al Paese delle perle - e sono su questo sarcastico…",
+   "contesto": "Sull'ordine dei lavori.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00100"
+  },
+  {
+   "slug": "riccardo-ricciardi",
+   "nome": "Riccardo Ricciardi",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-10-28",
+   "testo": "Avevate trovato il colpevole perfetto, avevate trovato l'Osama Bin Laden di Brescia, avevate detto che c'era sostanzialmente una sorta di cellula di Al-Qaeda che manovrava tutte le persone che scendevano in piazza, dopo aver dato ovviamente la colpa a Putin di aver fomentato queste proteste.",
+   "contesto": "Sull'ordine dei lavori.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00040"
   },
   {
    "slug": "giorgia-meloni",
@@ -4565,21 +4663,6 @@
    "testo": "Condanniamo la violenza di chi è complice di un genocidio. […] Certo che condanniamo la violenza di chi spacca una vetrina o spacca una strada e tanto più se ferisce un agente, ma tanto noi possiamo fare tutte le premesse che vogliamo, ma saremo sempre i filo-violenti, filo-Hamas e filo-Putin.",
    "contesto": "Sull'ordine dei lavori.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00050.int00040"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-18",
-   "testo": "As the United States celebrates the 250th anniversary of its independence, we also cherish the profound contribution that Italian Americans have made to the founding, growth, and success of this great Nation since the very beginning with Filippo Mazzei and his influence on Thomas Jefferson. […] Long live the friendship between Italy and the United States.",
-   "contesto": "Il videomessaggio del Presidente Meloni per il NIAF Gala 2026",
-   "url": "https://www.governo.it/it/articolo/il-videomessaggio-del-presidente-meloni-il-niaf-gala-2026/32872"
   },
   {
    "slug": "giorgia-meloni",
@@ -5765,81 +5848,6 @@
    "testo": "Bene, quello che accade oggi è che le tre forze del campo progressista - MoVimento 5 Stelle, Partito Democratico e AVS -, pur non avendo l'obbligo di esprimere una mozione unitaria - perché le opposizioni non hanno l'obbligo politico di esprimere una mozione unitaria, l'obbligo politico di…",
    "contesto": "Rinvio del seguito della discussione delle mozioni Richetti ed altri n. 1-00582 , Della Vedova ed altri n. 1-00585 e De Luca, Scerra, Grimaldi ed altri n. 1-00602 in materia di superamento del diritto di veto nelle…",
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00060.int00160"
-  },
-  {
-   "slug": "elly-schlein",
-   "nome": "Elly Schlein",
-   "partito": {
-    "slug": "pd",
-    "nome": "Partito Democratico",
-    "sigla": "PD"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-10",
-   "testo": "Arriva oggi in quest'Aula un testo importante, che parte dalla proposta di legge che abbiamo presentato come Partito Democratico a mia prima firma, che istituisce finalmente l'Agenzia per il cinema e per l'audiovisivo.",
-   "contesto": "Seguito della discussione del testo unificato delle proposte di legge: Schlein ed altri; Mollicone ed altri; Amato ed altri; Grippo; Latini: Disposizioni in materia di cinema (A.C. 2360 ​- 2578 ​- 2731 ​- 2794 ​-…",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0707&tipo=stenografico#sed0707.stenografico.tit00040.sub00130.int00340"
-  },
-  {
-   "slug": "gilberto-pichetto-fratin",
-   "nome": "Gilberto Pichetto Fratin",
-   "partito": {
-    "slug": "fi",
-    "nome": "Forza Italia",
-    "sigla": "FI"
-   },
-   "schieramento": "governo",
-   "fonte": "Camera",
-   "data": "2026-09-09",
-   "testo": "Inoltre, prima dell'approvazione dovrà essere definito con il comune di Venezia un piano di monitoraggio ambientale per le diverse fasi di attuazione, ossia demolizione, cantierizzazione ed esercizio.",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00070.int00040"
-  },
-  {
-   "slug": "gilberto-pichetto-fratin",
-   "nome": "Gilberto Pichetto Fratin",
-   "partito": {
-    "slug": "fi",
-    "nome": "Forza Italia",
-    "sigla": "FI"
-   },
-   "schieramento": "governo",
-   "fonte": "Camera",
-   "data": "2026-09-09",
-   "testo": "Come noto, l'iter per l'istituzione del Parco nazionale di Portofino è stato caratterizzato da un complesso percorso amministrativo e da un articolato contenzioso giuridico, incentrati principalmente sulle modalità di perimetrazione provvisoria dell'area protetta.",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00080.int00040"
-  },
-  {
-   "slug": "gilberto-pichetto-fratin",
-   "nome": "Gilberto Pichetto Fratin",
-   "partito": {
-    "slug": "fi",
-    "nome": "Forza Italia",
-    "sigla": "FI"
-   },
-   "schieramento": "governo",
-   "fonte": "Camera",
-   "data": "2026-09-09",
-   "testo": "Le misure del Piano daranno continuità ad azioni già intraprese nell'ambito del PNRR come quelle relative alla tutela e valorizzazione del verde urbano ed extra-urbano, il ripristino della tutela dei fondali e degli habitat marini e la rinaturazione di alcune aree come quella del Po.",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00090.int00060"
-  },
-  {
-   "slug": "gilberto-pichetto-fratin",
-   "nome": "Gilberto Pichetto Fratin",
-   "partito": {
-    "slug": "fi",
-    "nome": "Forza Italia",
-    "sigla": "FI"
-   },
-   "schieramento": "governo",
-   "fonte": "Camera",
-   "data": "2026-09-09",
-   "testo": "Il Piano impegna complessivamente 9,3 miliardi di euro - e non rimarrà sulla carta anche per un motivo - di cui circa 7 miliardi di euro provenienti dal Fondo sociale europeo per il clima e oltre 2,3 miliardi di euro di cofinanziamento nazionale.",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0706&tipo=stenografico#sed0706.stenografico.tit00050.sub00100.int00040"
   }
  ]
 }

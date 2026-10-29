@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1979-09-02",
@@ -38,14 +38,6 @@
  "parlamento": {
   "Camera": {
    "presenze_mensili": [
-    {
-     "mese": "2021-10",
-     "camera": "Camera",
-     "legislatura": 18,
-     "presenti": 0,
-     "assenti": 20,
-     "totale": 20
-    },
     {
      "mese": "2021-11",
      "camera": "Camera",
@@ -2465,54 +2457,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
-     "id": "vs18_584_020",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 10 settembre 2021, n. 121, sul quale il Governo ha posto la questione di fiducia\nDdl. n.121 trasporti c.3278-A/R",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 25,
-      "Favorevole": 70
-     },
-     "esito": {
-      "favorevoli": 371,
-      "contrari": 47,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_584_019",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-10-28",
-     "descrizione": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali (DDL 3278)",
-     "atto": "C.3278",
-     "titolo": "Conversione in legge del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell’Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 43,
-      "Favorevole": 52
-     },
-     "esito": {
-      "favorevoli": 271,
-      "contrari": 16,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=584_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -4144,78 +4088,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_010",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo concernente misure di solidarietà volte a garantire la sicurezza dell'approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024 (Approvato dal Senato) (DDL 2592)",
-     "atto": "C.2592",
-     "titolo": "S. 1503. - \"Ratifica ed esecuzione dell’Accordo concernente misure di solidarietà volte a garantire la sicurezza dell’approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 10,
-      "Favorevole": 60
-     },
-     "esito": {
-      "favorevoli": 263,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_015",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell'Uzbekistan sulla cooperazione di polizia, fatto a Roma l'8 giugno 2023 (Approvato dal Senato) (DDL 2589)",
-     "atto": "C.2589",
-     "titolo": "S. 1446. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell’Uzbekistan sulla cooperazione di polizia, fatto a Roma l’8 giugno 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 10,
-      "Favorevole": 60
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_033",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025 (DDL 2778)",
-     "atto": "C.2778",
-     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Non ha votato": 15,
-      "Astensione": 55
-     },
-     "esito": {
-      "favorevoli": 152,
-      "contrari": 1,
-      "astenuti": 105
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_005",
      "camera": "Camera",
      "legislatura": 19,
@@ -4238,6 +4110,30 @@
       "astenuti": 112
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_010",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo concernente misure di solidarietà volte a garantire la sicurezza dell'approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024 (Approvato dal Senato) (DDL 2592)",
+     "atto": "C.2592",
+     "titolo": "S. 1503. - \"Ratifica ed esecuzione dell’Accordo concernente misure di solidarietà volte a garantire la sicurezza dell’approvvigionamento di gas tra il Governo della Repubblica Federale di Germania, il Governo della Confederazione Svizzera e il Governo della Repubblica Italiana, fatto a Berlino il 19 marzo 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 10,
+      "Favorevole": 60
+     },
+     "esito": {
+      "favorevoli": 263,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
      "id": "vs19_634_026",
@@ -4264,6 +4160,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
     },
     {
+     "id": "vs19_634_015",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell'Uzbekistan sulla cooperazione di polizia, fatto a Roma l'8 giugno 2023 (Approvato dal Senato) (DDL 2589)",
+     "atto": "C.2589",
+     "titolo": "S. 1446. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell’Uzbekistan sulla cooperazione di polizia, fatto a Roma l’8 giugno 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 10,
+      "Favorevole": 60
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
+    },
+    {
      "id": "vs19_634_020",
      "camera": "Camera",
      "legislatura": 19,
@@ -4286,6 +4206,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_033",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025 (DDL 2778)",
+     "atto": "C.2778",
+     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Astensione",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Non ha votato": 15,
+      "Astensione": 55
+     },
+     "esito": {
+      "favorevoli": 152,
+      "contrari": 1,
+      "astenuti": 105
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -14196,7 +14140,7 @@
   "Camera": {
    "presenza": {
     "presenti": 11517,
-    "totale": 22083,
+    "totale": 22063,
     "percentuale": 52.2
    },
    "fedelta_gruppo": {
@@ -14205,7 +14149,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 568
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14336,7 +14280,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Chiara_Braga_daticamera_2018.jpg",
@@ -14353,7 +14297,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 52,2% delle votazioni del periodo (11.517 su 22.083); la mediana dei colleghi è 72,8%.",
+  "Alla Camera ha partecipato al 52,2% delle votazioni del periodo (11.517 su 22.063); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 387 volte su 387 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

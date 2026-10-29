@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-28",
-  "al": "2026-10-28"
+  "dal": "2021-10-29",
+  "al": "2026-10-29"
  },
  "anagrafica": {
   "nascita": "1953-08-04",
@@ -3960,30 +3960,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_74&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_081",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
-     "atto": "C.2537",
-     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FI-PPE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 32,
-      "Favorevole": 20
-     },
-     "esito": {
-      "favorevoli": 116,
-      "contrari": 65,
-      "astenuti": 6
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_066",
      "camera": "Camera",
      "legislatura": 19,
@@ -4006,6 +3982,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_66&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_081",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
+     "atto": "C.2537",
+     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FI-PPE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 32,
+      "Favorevole": 20
+     },
+     "esito": {
+      "favorevoli": 116,
+      "contrari": 65,
+      "astenuti": 6
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
     },
     {
      "id": "vs19_535_065",
@@ -12214,7 +12214,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": "Fino a ottobre 2022 era deputato al Parlamento europeo; i voti europei non sono ancora inclusi.",
- "aggiornato_il": "2026-10-28",
+ "aggiornato_il": "2026-10-29",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Antonio_Tajani_2025.jpg/500px-Antonio_Tajani_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Antonio_Tajani_2025.jpg",
@@ -12232,7 +12232,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di vicepresidente del consiglio dei ministri (dal 23 ottobre 2022).",
-  "Alla Camera ha partecipato al 1,9% delle votazioni del periodo (375 su 20.112); la mediana dei colleghi è 72,8%.",
+  "Alla Camera ha partecipato al 1,9% delle votazioni del periodo (375 su 20.112); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 24 volte su 24 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]
