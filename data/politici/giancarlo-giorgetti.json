@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1966-12-16",
@@ -518,8 +518,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 2,
-     "assenti": 466,
-     "totale": 468
+     "assenti": 583,
+     "totale": 585
     }
    ],
    "voti_finali": [
@@ -2476,6 +2476,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "LEGA",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 26,
+      "Favorevole": 27
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
+    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3537,7 +3561,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -3555,6 +3579,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "LEGA",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 30,
+      "Favorevole": 29
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -3579,30 +3627,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEGA",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 30,
-      "Favorevole": 29
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -5936,30 +5960,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=540_16&tipo=dettaglio"
     },
     {
-     "id": "vs19_536_081",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-24",
-     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
-     "atto": "C.2537",
-     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEGA",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 33,
-      "Favorevole": 31
-     },
-     "esito": {
-      "favorevoli": 116,
-      "contrari": 65,
-      "astenuti": 6
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
-    },
-    {
      "id": "vs19_536_066",
      "camera": "Camera",
      "legislatura": 19,
@@ -6006,6 +6006,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_74&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_536_081",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-24",
+     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2025 (Approvato dal Senato) (DDL 2537)",
+     "atto": "C.2537",
+     "titolo": "S. 1567. - \"Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "LEGA",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 33,
+      "Favorevole": 31
+     },
+     "esito": {
+      "favorevoli": 116,
+      "contrari": 65,
+      "astenuti": 6
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
     },
     {
      "id": "vs19_535_065",
@@ -14160,7 +14184,7 @@
   "Camera": {
    "presenza": {
     "presenti": 147,
-    "totale": 22064,
+    "totale": 22181,
     "percentuale": 0.7
    },
    "fedelta_gruppo": {
@@ -14169,7 +14193,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 567
   }
  },
  "posizioni": [
@@ -14221,7 +14245,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_(01)_(cropped).jpg",
@@ -14239,7 +14263,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'economia e delle finanze (dal 23 ottobre 2022).",
-  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.181); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 14 volte su 14 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

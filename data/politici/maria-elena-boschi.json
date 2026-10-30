@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -514,8 +514,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 7,
-     "assenti": 461,
-     "totale": 468
+     "assenti": 570,
+     "totale": 577
     }
    ],
    "voti_finali": [
@@ -2469,6 +2469,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "IV-CR",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 3,
+      "Non ha votato": 4
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
+    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3525,7 +3549,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -3543,6 +3567,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "IVICRE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Favorevole": 2
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -3567,30 +3615,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "IVICRE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 5,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -14145,8 +14169,8 @@
   "Camera": {
    "presenza": {
     "presenti": 7863,
-    "totale": 22063,
-    "percentuale": 35.6
+    "totale": 22172,
+    "percentuale": 35.5
    },
    "fedelta_gruppo": {
     "allineati": 159,
@@ -14156,7 +14180,7 @@
      "vs19_197_061"
     ]
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 567
   }
  },
  "posizioni": [
@@ -14258,7 +14282,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
@@ -14274,7 +14298,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 35,6% delle votazioni del periodo (7.863 su 22.063); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 35,5% delle votazioni del periodo (7.863 su 22.172); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 159 volte su 160 (99,4%).",
   "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

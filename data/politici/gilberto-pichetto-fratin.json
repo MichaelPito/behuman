@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1954-01-04",
@@ -455,11 +455,35 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 24,
-     "assenti": 444,
-     "totale": 468
+     "assenti": 552,
+     "totale": 576
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FI-PPE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 21,
+      "Favorevole": 32
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
     {
      "id": "vs19_731_004",
      "camera": "Camera",
@@ -1522,7 +1546,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -1540,6 +1564,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FI-PPE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 26,
+      "Favorevole": 28
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -1564,30 +1612,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FI-PPE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 26,
-      "Favorevole": 28
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -12140,7 +12164,7 @@
   "Camera": {
    "presenza": {
     "presenti": 631,
-    "totale": 20112,
+    "totale": 20220,
     "percentuale": 3.1
    },
    "fedelta_gruppo": {
@@ -12149,7 +12173,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 485
+   "voti_finali_e_fiducia": 486
   }
  },
  "posizioni": [],
@@ -12174,7 +12198,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gilberto_Pichetto_Fratin.jpg/500px-Gilberto_Pichetto_Fratin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Gilberto_Pichetto_Fratin.jpg",
@@ -12191,7 +12215,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'ambiente e della sicurezza energetica (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 3,1% delle votazioni del periodo (631 su 20.112); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 3,1% delle votazioni del periodo (631 su 20.220); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 32 volte su 32 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

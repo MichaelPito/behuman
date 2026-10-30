@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1977-01-15",
@@ -518,8 +518,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 468,
-     "totale": 468
+     "assenti": 567,
+     "totale": 567
     }
    ],
    "voti_finali": [
@@ -2472,6 +2472,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 45,
+      "Favorevole": 72
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
+    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3532,7 +3556,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -3550,6 +3574,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 49,
+      "Favorevole": 68
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -3574,30 +3622,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 49,
-      "Favorevole": 68
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -14146,7 +14170,7 @@
   "Camera": {
    "presenza": {
     "presenti": 448,
-    "totale": 22064,
+    "totale": 22163,
     "percentuale": 2.0
    },
    "fedelta_gruppo": {
@@ -14155,7 +14179,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 567
   }
  },
  "posizioni": [],
@@ -14180,7 +14204,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg/500px-Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
@@ -14198,7 +14222,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di presidente del consiglio dei ministri (dal 21 ottobre 2022).",
-  "Alla Camera ha partecipato al 2,0% delle votazioni del periodo (448 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 2,0% delle votazioni del periodo (448 su 22.163); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 5 volte su 5 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1964-08-08",
@@ -427,11 +427,35 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 18,
-     "assenti": 450,
-     "totale": 468
+     "assenti": 553,
+     "totale": 571
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 36,
+      "Non ha votato": 12
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
     {
      "id": "vs19_731_004",
      "camera": "Camera",
@@ -1541,7 +1565,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -1559,6 +1583,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 24,
+      "Favorevole": 24
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -1583,30 +1631,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 24,
-      "Favorevole": 24
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -12145,8 +12169,8 @@
   "Camera": {
    "presenza": {
     "presenti": 3270,
-    "totale": 20112,
-    "percentuale": 16.3
+    "totale": 20215,
+    "percentuale": 16.2
    },
    "fedelta_gruppo": {
     "allineati": 73,
@@ -12154,7 +12178,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 487
+   "voti_finali_e_fiducia": 488
   }
  },
  "posizioni": [
@@ -12193,7 +12217,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte,_2018.06.29_(06)_(cropped).jpg",
@@ -12209,7 +12233,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,3% delle votazioni del periodo (3.270 su 20.112); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 16,2% delle votazioni del periodo (3.270 su 20.215); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 73 volte su 73 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -510,9 +510,9 @@
      "mese": "2026-10",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 41,
-     "assenti": 427,
-     "totale": 468
+     "presenti": 43,
+     "assenti": 530,
+     "totale": 573
     }
    ],
    "voti_finali": [
@@ -2448,6 +2448,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 6,
+      "Favorevole": 2
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
+    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3504,7 +3528,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -3522,6 +3546,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 6,
+      "Favorevole": 2
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -3545,30 +3593,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 6,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -4122,6 +4146,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
+     "id": "vs19_634_026",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
+     "atto": "C.2759",
+     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 3,
+      "Non ha votato": 5
+     },
+     "esito": {
+      "favorevoli": 264,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
+    },
+    {
      "id": "vs19_634_015",
      "camera": "Camera",
      "legislatura": 19,
@@ -4192,30 +4240,6 @@
       "astenuti": 105
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_026",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
-     "atto": "C.2759",
-     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 3,
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 264,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -9041,30 +9065,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=338_6&tipo=dettaglio"
     },
     {
-     "id": "vs19_337_098",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-07-31",
-     "descrizione": "Istituzione di una Commissione parlamentare di inchiesta sugli effetti economici e sociali derivanti dalla transizione demografica in atto (Doc. XXII, n. 23)",
-     "atto": "C.23",
-     "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ENRICO COSTA: \"Modifiche all’articolo 87 e al titolo IV della parte II della Costituzione in materia di separazione delle carriere giudicante e requirente della magistratura",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 8,
-      "Favorevole": 1
-     },
-     "esito": {
-      "favorevoli": 248,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
-    },
-    {
      "id": "vs19_337_078",
      "camera": "Camera",
      "legislatura": 19,
@@ -9087,6 +9087,30 @@
       "astenuti": 19
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_78&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_337_098",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-31",
+     "descrizione": "Istituzione di una Commissione parlamentare di inchiesta sugli effetti economici e sociali derivanti dalla transizione demografica in atto (Doc. XXII, n. 23)",
+     "atto": "C.23",
+     "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ENRICO COSTA: \"Modifiche all’articolo 87 e al titolo IV della parte II della Costituzione in materia di separazione delle carriere giudicante e requirente della magistratura",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 8,
+      "Favorevole": 1
+     },
+     "esito": {
+      "favorevoli": 248,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
     },
     {
      "id": "vs19_336_001",
@@ -14108,9 +14132,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 3703,
-    "totale": 22064,
-    "percentuale": 16.8
+    "presenti": 3705,
+    "totale": 22169,
+    "percentuale": 16.7
    },
    "fedelta_gruppo": {
     "allineati": 139,
@@ -14118,7 +14142,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 567
   }
  },
  "posizioni": [
@@ -14207,7 +14231,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
@@ -14224,7 +14248,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,8% delle votazioni del periodo (3.703 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 16,7% delle votazioni del periodo (3.705 su 22.169); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

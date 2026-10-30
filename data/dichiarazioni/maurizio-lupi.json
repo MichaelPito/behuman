@@ -7,21 +7,21 @@
   "sigla": "NM"
  },
  "schieramento": "governo",
- "dal": "2021-10-29",
- "al": "2026-10-29",
+ "dal": "2021-10-30",
+ "al": "2026-10-30",
  "riepilogo": {
-  "totale": 167,
-  "camera": 167,
-  "parole_camera": 134691,
+  "totale": 165,
+  "camera": 165,
+  "parole_camera": 132086,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
-  "prima": "2021-10-29",
+  "prima": "2021-11-17",
   "ultima": "2026-10-21",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 9,
+    "camera": 7,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -84,16 +84,16 @@
     "n": 19
    },
    {
-    "categoria": "Interpellanze e interrogazioni",
-    "n": 3
-   },
-   {
     "categoria": "Documenti di bilancio e programmazione",
     "n": 3
    },
    {
     "categoria": "Mozioni",
     "n": 2
+   },
+   {
+    "categoria": "Interpellanze e interrogazioni",
+    "n": 1
    }
   ],
   "argomenti_frequenti": [
@@ -102,12 +102,6 @@
     "n": 50,
     "dal": "2021-11-24",
     "al": "2026-09-16"
-   },
-   {
-    "argomento": "Svolgimento di interpellanze urgenti.",
-    "n": 3,
-    "dal": "2021-10-29",
-    "al": "2022-03-18"
    },
    {
     "argomento": "Seguito della discussione del disegno di legge: “Interventi in materia di sicurezza stradale e delega al Governo per la revisione del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285” (A.C.…",
@@ -132,19 +126,19 @@
    },
    {
     "tema": "Famiglia e natalità",
-    "n": 23
+    "n": 22
    },
    {
     "tema": "Economia e conti pubblici",
-    "n": 20
-   },
-   {
-    "tema": "Lavoro, salari e pensioni",
     "n": 19
    },
    {
     "tema": "Energia e carburanti",
     "n": 18
+   },
+   {
+    "tema": "Lavoro, salari e pensioni",
+    "n": 17
    },
    {
     "tema": "Giustizia",
@@ -164,7 +158,7 @@
    },
    {
     "tema": "Fisco e tasse",
-    "n": 9
+    "n": 8
    },
    {
     "tema": "Sanità",
@@ -178,16 +172,16 @@
   "temi_per_anno": {
    "2021": [
     {
-     "tema": "Lavoro, salari e pensioni",
-     "n": 4
-    },
-    {
      "tema": "Scuola e università",
      "n": 4
     },
     {
-     "tema": "Economia e conti pubblici",
-     "n": 3
+     "tema": "Ambiente e clima",
+     "n": 2
+    },
+    {
+     "tema": "Lavoro, salari e pensioni",
+     "n": 2
     }
    ],
    "2022": [
@@ -262,7 +256,7 @@
    ]
   }
  },
- "recap": "Dal 29 ottobre 2021 al 21 ottobre 2026: 167 interventi nell'Aula della Camera (134.691 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
+ "recap": "Dal 17 novembre 2021 al 21 ottobre 2026: 165 interventi nell'Aula della Camera (132.086 parole). Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), esteri e difesa (39), scuola e università (24). In Aula alla Camera l'occasione più frequente è «Question time» (50 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -278,41 +272,6 @@
  },
  "verificate": [],
  "camera": [
-  {
-   "data": "2021-10-29",
-   "leg": 18,
-   "seduta": 585,
-   "argomento": "Svolgimento di interpellanze urgenti.",
-   "fase": "Chiarimenti in merito al regime IVA applicato al trasporto via mare prestato per finalità esclusivamente turistiche - n. 2-01349",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": null,
-   "gruppo": "M-NCI-USEI-R-AC",
-   "sunto": "La direttiva europea recepita dice: fino al 2016 questo tipo di trasporto era esente da IVA, dal 2016 in poi è con IVA agevolata al 5 per cento.",
-   "temi": [
-    "Economia e conti pubblici",
-    "Fisco e tasse",
-    "Lavoro, salari e pensioni"
-   ],
-   "parole": 1522,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0585&tipo=stenografico#sed0585.stenografico.tit00020.sub00020.int00020"
-  },
-  {
-   "data": "2021-10-29",
-   "leg": 18,
-   "seduta": 585,
-   "argomento": "Svolgimento di interpellanze urgenti.",
-   "fase": "Chiarimenti in merito al regime IVA applicato al trasporto via mare prestato per finalità esclusivamente turistiche - n. 2-01349",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": null,
-   "gruppo": "M-NCI-USEI-R-AC",
-   "sunto": "Quindi, nella risposta del Vice Ministro, il “caso per caso” è assolutamente corretto. […] Noi abbiamo bisogno di istituzioni efficienti, serie, autorevoli che applichino certamente le norme caso per caso, ma la discrezionalità non può dipendere dalla sensibilità di un territorio rispetto all'altro.",
-   "temi": [
-    "Lavoro, salari e pensioni",
-    "Famiglia e natalità"
-   ],
-   "parole": 1083,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0585&tipo=stenografico#sed0585.stenografico.tit00020.sub00020.int00060"
-  },
   {
    "data": "2021-11-17",
    "leg": 18,

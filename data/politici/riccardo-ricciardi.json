@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-29",
-  "al": "2026-10-29"
+  "dal": "2021-10-30",
+  "al": "2026-10-30"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -499,8 +499,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 40,
-     "assenti": 428,
-     "totale": 468
+     "assenti": 531,
+     "totale": 571
     }
    ],
    "voti_finali": [
@@ -2459,6 +2459,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
+     "id": "vs19_735_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-10-28",
+     "descrizione": "DDL 2700-A - VOTO FINALE",
+     "atto": "C.2700",
+     "titolo": "Delega al Governo in materia di professioni sanitarie e disposizioni relative alla responsabilità professionale degli esercenti le professioni sanitarie",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 36,
+      "Non ha votato": 12
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 113,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=735_17&tipo=dettaglio"
+    },
+    {
      "id": "vs19_731_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -3519,7 +3543,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-05-28",
-     "descrizione": "PDL 632-A E ABB - VOTO FINALE",
+     "descrizione": "Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento (PDL 632 e abbinata PDL 2328)",
      "atto": "C.632",
      "titolo": "ENRICO COSTA: \"Modifiche al codice di cui al decreto legislativo 30 giugno 2003, n. 196, in materia di pubblicità delle sentenze di assoluzione o proscioglimento",
      "fiducia": false,
@@ -3537,6 +3561,30 @@
       "astenuti": 82
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=667_1&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_666_029",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-27",
+     "descrizione": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato (Approvata, in un testo unificato, in prima deliberazione, dal Senato) (PDL costituzionale 2197 e abbinate PDL costituzionale 286-1312)",
+     "atto": "C.2197",
+     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 24,
+      "Favorevole": 24
+     },
+     "esito": {
+      "favorevoli": 216,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_666_028",
@@ -3561,30 +3609,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_28&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_666_029",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-27",
-     "descrizione": "PDL 2197 - VOTO FINALE",
-     "atto": "C.2197",
-     "titolo": "S. 427-731-888-891. - PROPOSTA DI LEGGE COSTITUZIONALE D'INIZIATIVA DEI SENATORI IANNONE ed altri; MARTON ed altri; PARRINI ed altri; DE CRISTOFARO e MAGNI: \"Modifica all’articolo 24 della Costituzione in materia di tutela delle vittime di reato\" (approvata, in un testo unificato, in prima deliberazione, dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 24,
-      "Favorevole": 24
-     },
-     "esito": {
-      "favorevoli": 216,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=666_29&tipo=dettaglio"
     },
     {
      "id": "vs19_665_084",
@@ -4909,30 +4933,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=589_119&tipo=dettaglio"
     },
     {
-     "id": "vs19_587_025",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-12-18",
-     "descrizione": "Ratifica ed esecuzione del Protocollo di modifica dell'Accordo tra la Repubblica Italiana e la Confederazione Svizzera relativo all'imposizione dei lavoratori frontalieri, con Protocollo aggiuntivo, del 23 dicembre 2020, fatto a Roma il 30 maggio 2024 e a Berna il 6 giugno 2024 (Approvato dal Senato) (DDL 2593)",
-     "atto": "C.2593",
-     "titolo": "S. 1520. - \"Ratifica ed esecuzione del Protocollo di modifica dell’Accordo tra la Repubblica Italiana e la Confederazione Svizzera relativo all’imposizione dei lavoratori frontalieri, con Protocollo aggiuntivo, del 23 dicembre 2020, fatto a Roma il 30 maggio 2024 e a Berna il 6 giugno 2024\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 17,
-      "Favorevole": 32
-     },
-     "esito": {
-      "favorevoli": 243,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_25&tipo=dettaglio"
-    },
-    {
      "id": "vs19_587_020",
      "camera": "Camera",
      "legislatura": 19,
@@ -4955,6 +4955,30 @@
       "astenuti": 3
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_587_025",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-12-18",
+     "descrizione": "Ratifica ed esecuzione del Protocollo di modifica dell'Accordo tra la Repubblica Italiana e la Confederazione Svizzera relativo all'imposizione dei lavoratori frontalieri, con Protocollo aggiuntivo, del 23 dicembre 2020, fatto a Roma il 30 maggio 2024 e a Berna il 6 giugno 2024 (Approvato dal Senato) (DDL 2593)",
+     "atto": "C.2593",
+     "titolo": "S. 1520. - \"Ratifica ed esecuzione del Protocollo di modifica dell’Accordo tra la Repubblica Italiana e la Confederazione Svizzera relativo all’imposizione dei lavoratori frontalieri, con Protocollo aggiuntivo, del 23 dicembre 2020, fatto a Roma il 30 maggio 2024 e a Berna il 6 giugno 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 17,
+      "Favorevole": 32
+     },
+     "esito": {
+      "favorevoli": 243,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_25&tipo=dettaglio"
     },
     {
      "id": "vs19_586_046",
@@ -5533,30 +5557,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=552_29&tipo=dettaglio"
     },
     {
-     "id": "vs19_551_079",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-10-21",
-     "descrizione": "Disposizioni in materia di tutela dei minori in affidamento (DDL 1866)",
-     "atto": "C.1866",
-     "titolo": "Disposizioni in materia di tutela dei minori in affidamento",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 18,
-      "Non ha votato": 31
-     },
-     "esito": {
-      "favorevoli": 131,
-      "contrari": 0,
-      "astenuti": 73
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_79&tipo=dettaglio"
-    },
-    {
      "id": "vs19_551_043",
      "camera": "Camera",
      "legislatura": 19,
@@ -5579,6 +5579,30 @@
       "astenuti": 7
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_43&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_551_079",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-10-21",
+     "descrizione": "Disposizioni in materia di tutela dei minori in affidamento (DDL 1866)",
+     "atto": "C.1866",
+     "titolo": "Disposizioni in materia di tutela dei minori in affidamento",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 18,
+      "Non ha votato": 31
+     },
+     "esito": {
+      "favorevoli": 131,
+      "contrari": 0,
+      "astenuti": 73
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_79&tipo=dettaglio"
     },
     {
      "id": "vs19_547_045",
@@ -6207,30 +6231,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
     },
     {
-     "id": "vs19_524_056",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-08-06",
-     "descrizione": "Proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo (Approvato dal Senato) (DDL 2538)",
-     "atto": "C.2538",
-     "titolo": "S. 1547. - \"Proroga del termine per l’esercizio delle deleghe previste dall’articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 11,
-      "Contrario": 38
-     },
-     "esito": {
-      "favorevoli": 146,
-      "contrari": 100,
-      "astenuti": 2
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_56&tipo=dettaglio"
-    },
-    {
      "id": "vs19_524_066",
      "camera": "Camera",
      "legislatura": 19,
@@ -6277,6 +6277,30 @@
       "astenuti": 3
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_40&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_524_056",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-08-06",
+     "descrizione": "Proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo (Approvato dal Senato) (DDL 2538)",
+     "atto": "C.2538",
+     "titolo": "S. 1547. - \"Proroga del termine per l’esercizio delle deleghe previste dall’articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 11,
+      "Contrario": 38
+     },
+     "esito": {
+      "favorevoli": 146,
+      "contrari": 100,
+      "astenuti": 2
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_56&tipo=dettaglio"
     },
     {
      "id": "vs19_523_019",
@@ -14131,8 +14155,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8314,
-    "totale": 22064,
-    "percentuale": 37.7
+    "totale": 22167,
+    "percentuale": 37.5
    },
    "fedelta_gruppo": {
     "allineati": 206,
@@ -14140,7 +14164,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 567
   }
  },
  "posizioni": [
@@ -14249,7 +14273,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-29",
+ "aggiornato_il": "2026-10-30",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14265,7 +14289,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,7% delle votazioni del periodo (8.314 su 22.064); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 37,5% delle votazioni del periodo (8.314 su 22.167); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."
