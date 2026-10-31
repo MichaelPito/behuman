@@ -352,15 +352,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 137,
+    "totale": 139,
     "camera": 85,
     "senato": 0,
     "governo": 0,
-    "verificate": 52,
+    "verificate": 54,
     "prima": "2021-12-09",
-    "ultima": "2026-10-21"
+    "ultima": "2026-10-24"
    },
-   "recap": "Dal 9 dicembre 2021 al 21 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 52 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+   "recap": "Dal 9 dicembre 2021 al 24 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -639,6 +639,40 @@
   }
  ],
  "discusse": [
+  {
+   "slug": "giuseppe-conte",
+   "nome": "Giuseppe Conte",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "data": "2026-10-24",
+   "data_verifica": "2026-10-30",
+   "frase": "Abbiamo governato nel momento più difficile della pandemia e non ci siamo mai sognati di introdurre fattispecie di reato, inasprimenti di pena",
+   "url": "https://pagellapolitica.it/fact-checking/abbiamo-governato-nel-momento-piu-difficile-della-pandemia-e-non-ci-siamo-mai-sognati-di-introdurre-fattispecie-di-reato-inasprimenti-di-pena",
+   "fonte_originale": "https://www.facebook.com/reel/2687551818343748",
+   "fonte_tipo": "Facebook",
+   "giudizio": null
+  },
+  {
+   "slug": "giuseppe-conte",
+   "nome": "Giuseppe Conte",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "data": "2026-10-24",
+   "data_verifica": "2026-10-30",
+   "frase": "Hai fatto un decreto per la scuola per rincorrere Vannacci. Ha introdotto il divieto del burqa, che già esisteva",
+   "url": "https://pagellapolitica.it/fact-checking/hai-fatto-un-decreto-per-la-scuola-per-rincorrere-vannacci-ha-introdotto-il-divieto-del-burqa-che-gia-esisteva",
+   "fonte_originale": "https://www.facebook.com/reel/2687551818343748",
+   "fonte_tipo": "Facebook",
+   "giudizio": null
+  },
   {
    "slug": "nicola-fratoianni",
    "nome": "Nicola Fratoianni",
@@ -4012,40 +4046,6 @@
    "fonte_originale": "https://www.raiplay.it/video/2023/05/cartabianca---Puntata-del-06062023-4267795e-95fc-4b0c-b5dd-d7ce2f4fc480.html",
    "fonte_tipo": "TV",
    "giudizio": "La dichiarazione della segretaria del Partito Democratico è corretta."
-  },
-  {
-   "slug": "francesco-boccia",
-   "nome": "Francesco Boccia",
-   "partito": {
-    "slug": "pd",
-    "nome": "Partito Democratico",
-    "sigla": "PD"
-   },
-   "schieramento": "opposizione",
-   "data": "2023-05-30",
-   "data_verifica": "2023-05-30",
-   "frase": "Alle elezioni comunali di giugno del 2022 vincemmo ovunque",
-   "url": "https://pagellapolitica.it/fact-checking/boccia-pd-comunali-2022",
-   "fonte_originale": "https://askanews.it/2023/05/30/boccia-schlein-ha-trovato-le-alleanze-gia-fatte-il-pd-e-la-prima-lista/",
-   "fonte_tipo": "Stampa o altro",
-   "giudizio": "Il capogruppo del Partito Democratico al Senato sbaglia."
-  },
-  {
-   "slug": "francesco-boccia",
-   "nome": "Francesco Boccia",
-   "partito": {
-    "slug": "pd",
-    "nome": "Partito Democratico",
-    "sigla": "PD"
-   },
-   "schieramento": "opposizione",
-   "data": null,
-   "data_verifica": "2023-05-26",
-   "frase": "Sulla riforma dell’autonomia differenziata la Commissione esprime dubbi e riserve nelle sue raccomandazioni",
-   "url": "https://pagellapolitica.it/fact-checking/commissione-ue-raccomandazioni-autonomia",
-   "fonte_originale": null,
-   "fonte_tipo": "Non indicata",
-   "giudizio": "Il capogruppo al Senato del Partito democratico è impreciso."
   }
  ],
  "recenti": [

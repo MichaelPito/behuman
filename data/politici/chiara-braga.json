@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-30",
-  "al": "2026-10-30"
+  "dal": "2021-10-31",
+  "al": "2026-10-31"
  },
  "anagrafica": {
   "nascita": "1979-09-02",
@@ -498,9 +498,9 @@
      "mese": "2026-10",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 144,
-     "assenti": 435,
-     "totale": 579
+     "presenti": 149,
+     "assenti": 465,
+     "totale": 614
     }
    ],
    "voti_finali": [
@@ -3443,7 +3443,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "DDL 2911-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale, comprensivo dell'errata corrige (DDL 2911)",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": false,
@@ -3467,7 +3467,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "Votazione Fiducia A.C. 2911-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": true,
@@ -3491,7 +3491,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2865 - VOTO FINALE",
+     "descrizione": "Proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno (Approvato dal Senato) (DDL 2865)",
      "atto": "C.2865",
      "titolo": "S. 1781. - \"Proroga di termini per l’esercizio di deleghe legislative di competenza del Ministero dell’interno\" (approvato dal Senato)",
      "fiducia": false,
@@ -3515,7 +3515,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2669-A E ABB - VOTO FINALE",
+     "descrizione": "Delega al Governo in materia di energia nucleare sostenibile (DDL 2669 e abbinata PDL 1742)",
      "atto": "C.2669",
      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
      "fiducia": false,
@@ -6203,30 +6203,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_20&tipo=dettaglio"
     },
     {
-     "id": "vs19_524_056",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-08-06",
-     "descrizione": "Proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo (Approvato dal Senato) (DDL 2538)",
-     "atto": "C.2538",
-     "titolo": "S. 1547. - \"Proroga del termine per l’esercizio delle deleghe previste dall’articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Contrario",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 22,
-      "Contrario": 48
-     },
-     "esito": {
-      "favorevoli": 146,
-      "contrari": 100,
-      "astenuti": 2
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_56&tipo=dettaglio"
-    },
-    {
      "id": "vs19_524_041",
      "camera": "Camera",
      "legislatura": 19,
@@ -6249,6 +6225,30 @@
       "astenuti": 6
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_524_056",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-08-06",
+     "descrizione": "Proroga del termine per l'esercizio delle deleghe previste dall'articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo (Approvato dal Senato) (DDL 2538)",
+     "atto": "C.2538",
+     "titolo": "S. 1547. - \"Proroga del termine per l’esercizio delle deleghe previste dall’articolo 2 della legge 15 luglio 2022, n. 106, in materia di spettacolo\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Contrario",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 22,
+      "Contrario": 48
+     },
+     "esito": {
+      "favorevoli": 146,
+      "contrari": 100,
+      "astenuti": 2
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_56&tipo=dettaglio"
     },
     {
      "id": "vs19_524_066",
@@ -14163,9 +14163,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 11528,
-    "totale": 22174,
-    "percentuale": 52.0
+    "presenti": 11533,
+    "totale": 22209,
+    "percentuale": 51.9
    },
    "fedelta_gruppo": {
     "allineati": 387,
@@ -14304,7 +14304,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-30",
+ "aggiornato_il": "2026-10-31",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Chiara_Braga_daticamera_2018.jpg",
@@ -14321,7 +14321,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 52,0% delle votazioni del periodo (11.528 su 22.174); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 51,9% delle votazioni del periodo (11.533 su 22.209); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 387 volte su 387 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

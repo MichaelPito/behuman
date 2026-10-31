@@ -7,17 +7,17 @@
   "sigla": "M5S"
  },
  "schieramento": "opposizione",
- "dal": "2021-10-30",
- "al": "2026-10-30",
+ "dal": "2021-10-31",
+ "al": "2026-10-31",
  "riepilogo": {
-  "totale": 137,
+  "totale": 139,
   "camera": 85,
   "parole_camera": 65994,
   "governo": 0,
   "senato": 0,
-  "verificate": 52,
+  "verificate": 54,
   "prima": "2021-12-09",
-  "ultima": "2026-10-21",
+  "ultima": "2026-10-24",
   "per_anno": [
    {
     "anno": "2021",
@@ -59,7 +59,7 @@
     "camera": 14,
     "governo": 0,
     "senato": 0,
-    "verificate": 8
+    "verificate": 10
    }
   ],
   "categorie": [
@@ -127,7 +127,7 @@
   "fonti_verificate": [
    {
     "fonte": "Facebook",
-    "n": 16
+    "n": 18
    },
    {
     "fonte": "Video",
@@ -285,7 +285,7 @@
    ]
   }
  },
- "recap": "Dal 9 dicembre 2021 al 21 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 52 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+ "recap": "Dal 9 dicembre 2021 al 24 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -765,6 +765,24 @@
    "url": "https://pagellapolitica.it/fact-checking/non-hanno-messo-un-euro-nel-decreto-che-doveva-ridurre-le-liste-dattesa",
    "fonte_originale": "https://www.youtube.com/watch?si=ttsnEmLUnkRozY88&t=541&v=hPu5PabEysE&feature=youtu.be",
    "fonte_tipo": "Video",
+   "giudizio": null
+  },
+  {
+   "data": "2026-10-24",
+   "data_verifica": "2026-10-30",
+   "frase": "Abbiamo governato nel momento più difficile della pandemia e non ci siamo mai sognati di introdurre fattispecie di reato, inasprimenti di pena",
+   "url": "https://pagellapolitica.it/fact-checking/abbiamo-governato-nel-momento-piu-difficile-della-pandemia-e-non-ci-siamo-mai-sognati-di-introdurre-fattispecie-di-reato-inasprimenti-di-pena",
+   "fonte_originale": "https://www.facebook.com/reel/2687551818343748",
+   "fonte_tipo": "Facebook",
+   "giudizio": null
+  },
+  {
+   "data": "2026-10-24",
+   "data_verifica": "2026-10-30",
+   "frase": "Hai fatto un decreto per la scuola per rincorrere Vannacci. Ha introdotto il divieto del burqa, che già esisteva",
+   "url": "https://pagellapolitica.it/fact-checking/hai-fatto-un-decreto-per-la-scuola-per-rincorrere-vannacci-ha-introdotto-il-divieto-del-burqa-che-gia-esisteva",
+   "fonte_originale": "https://www.facebook.com/reel/2687551818343748",
+   "fonte_tipo": "Facebook",
    "giudizio": null
   }
  ],

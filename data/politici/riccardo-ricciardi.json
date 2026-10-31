@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-30",
-  "al": "2026-10-30"
+  "dal": "2021-10-31",
+  "al": "2026-10-31"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -499,8 +499,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 40,
-     "assenti": 531,
-     "totale": 571
+     "assenti": 574,
+     "totale": 614
     }
    ],
    "voti_finali": [
@@ -3447,7 +3447,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "DDL 2911-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale, comprensivo dell'errata corrige (DDL 2911)",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": false,
@@ -3471,7 +3471,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "Votazione Fiducia A.C. 2911-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": true,
@@ -3495,7 +3495,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2865 - VOTO FINALE",
+     "descrizione": "Proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno (Approvato dal Senato) (DDL 2865)",
      "atto": "C.2865",
      "titolo": "S. 1781. - \"Proroga di termini per l’esercizio di deleghe legislative di competenza del Ministero dell’interno\" (approvato dal Senato)",
      "fiducia": false,
@@ -3519,7 +3519,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2669-A E ABB - VOTO FINALE",
+     "descrizione": "Delega al Governo in materia di energia nucleare sostenibile (DDL 2669 e abbinata PDL 1742)",
      "atto": "C.2669",
      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
      "fiducia": false,
@@ -4933,30 +4933,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=589_119&tipo=dettaglio"
     },
     {
-     "id": "vs19_587_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-12-18",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 31 ottobre 2025, n. 159, recante misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile (Approvato dal Senato) (DDL 2736)",
-     "atto": "C.2736",
-     "titolo": "S. 1706. - \"Conversione in legge, con modificazioni, del decreto-legge 31 ottobre 2025, n. 159, recante misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 36,
-      "Non ha votato": 13
-     },
-     "esito": {
-      "favorevoli": 143,
-      "contrari": 105,
-      "astenuti": 3
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_20&tipo=dettaglio"
-    },
-    {
      "id": "vs19_587_025",
      "camera": "Camera",
      "legislatura": 19,
@@ -4979,6 +4955,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_25&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_587_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-12-18",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 31 ottobre 2025, n. 159, recante misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile (Approvato dal Senato) (DDL 2736)",
+     "atto": "C.2736",
+     "titolo": "S. 1706. - \"Conversione in legge, con modificazioni, del decreto-legge 31 ottobre 2025, n. 159, recante misure urgenti per la tutela della salute e della sicurezza sui luoghi di lavoro e in materia di protezione civile\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 36,
+      "Non ha votato": 13
+     },
+     "esito": {
+      "favorevoli": 143,
+      "contrari": 105,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=587_20&tipo=dettaglio"
     },
     {
      "id": "vs19_586_046",
@@ -5557,30 +5557,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=552_29&tipo=dettaglio"
     },
     {
-     "id": "vs19_551_043",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-10-21",
-     "descrizione": "Modifica al codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, e altre disposizioni concernenti la valorizzazione sussidiaria dei beni culturali e l'istituzione del circuito \"Italia in scena\" (PDL 1521)",
-     "atto": "C.1521",
-     "titolo": "MOLLICONE ed altri: \"Modifica al codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, e altre disposizioni concernenti la valorizzazione sussidiaria dei beni culturali e l’istituzione del circuito “Italia in scena”",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 17,
-      "Contrario": 32
-     },
-     "esito": {
-      "favorevoli": 145,
-      "contrari": 101,
-      "astenuti": 7
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_43&tipo=dettaglio"
-    },
-    {
      "id": "vs19_551_079",
      "camera": "Camera",
      "legislatura": 19,
@@ -5603,6 +5579,30 @@
       "astenuti": 73
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_79&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_551_043",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-10-21",
+     "descrizione": "Modifica al codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, e altre disposizioni concernenti la valorizzazione sussidiaria dei beni culturali e l'istituzione del circuito \"Italia in scena\" (PDL 1521)",
+     "atto": "C.1521",
+     "titolo": "MOLLICONE ed altri: \"Modifica al codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, e altre disposizioni concernenti la valorizzazione sussidiaria dei beni culturali e l’istituzione del circuito “Italia in scena”",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 17,
+      "Contrario": 32
+     },
+     "esito": {
+      "favorevoli": 145,
+      "contrari": 101,
+      "astenuti": 7
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=551_43&tipo=dettaglio"
     },
     {
      "id": "vs19_547_045",
@@ -6207,30 +6207,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_20&tipo=dettaglio"
     },
     {
-     "id": "vs19_524_041",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-08-06",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l'organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport (Approvato dalla Camera e modificato dal Senato) (DDL 2488-B)",
-     "atto": "C.2488-B",
-     "titolo": "S. 1600. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l’organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport\" (approvato dalla Camera e modificato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 23,
-      "Non ha votato": 26
-     },
-     "esito": {
-      "favorevoli": 153,
-      "contrari": 85,
-      "astenuti": 6
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
-    },
-    {
      "id": "vs19_524_066",
      "camera": "Camera",
      "legislatura": 19,
@@ -6255,28 +6231,28 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_66&tipo=dettaglio"
     },
     {
-     "id": "vs19_524_040",
+     "id": "vs19_524_041",
      "camera": "Camera",
      "legislatura": 19,
      "data": "2025-08-06",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali (Approvato dal Senato) (DDL 2551)",
-     "atto": "C.2551",
-     "titolo": "S. 1565. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali\" (approvato dal Senato)",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l'organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport (Approvato dalla Camera e modificato dal Senato) (DDL 2488-B)",
+     "atto": "C.2488-B",
+     "titolo": "S. 1600. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l’organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport\" (approvato dalla Camera e modificato dal Senato)",
      "fiducia": false,
      "approvato": true,
      "voto": "Non ha votato",
      "gruppo": "M5S",
      "linea_gruppo": "Contrario",
      "conteggi_gruppo": {
-      "Non ha votato": 13,
-      "Contrario": 36
+      "Contrario": 23,
+      "Non ha votato": 26
      },
      "esito": {
-      "favorevoli": 160,
-      "contrari": 99,
-      "astenuti": 3
+      "favorevoli": 153,
+      "contrari": 85,
+      "astenuti": 6
      },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_40&tipo=dettaglio"
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
     },
     {
      "id": "vs19_524_056",
@@ -6301,6 +6277,30 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_56&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_524_040",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-08-06",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali (Approvato dal Senato) (DDL 2551)",
+     "atto": "C.2551",
+     "titolo": "S. 1565. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 95, recante disposizioni urgenti per il finanziamento di attività economiche e imprese, nonché interventi di carattere sociale e in materia di infrastrutture, trasporti ed enti territoriali\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Contrario": 36
+     },
+     "esito": {
+      "favorevoli": 160,
+      "contrari": 99,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_40&tipo=dettaglio"
     },
     {
      "id": "vs19_523_019",
@@ -14155,8 +14155,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8314,
-    "totale": 22167,
-    "percentuale": 37.5
+    "totale": 22210,
+    "percentuale": 37.4
    },
    "fedelta_gruppo": {
     "allineati": 206,
@@ -14273,7 +14273,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-30",
+ "aggiornato_il": "2026-10-31",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14289,7 +14289,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,5% delle votazioni del periodo (8.314 su 22.167); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 37,4% delle votazioni del periodo (8.314 su 22.210); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."

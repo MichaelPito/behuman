@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-30",
-  "al": "2026-10-30"
+  "dal": "2021-10-31",
+  "al": "2026-10-31"
  },
  "anagrafica": {
   "nascita": "1964-08-08",
@@ -427,8 +427,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 18,
-     "assenti": 553,
-     "totale": 571
+     "assenti": 596,
+     "totale": 614
     }
    ],
    "voti_finali": [
@@ -1321,30 +1321,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=684_43&tipo=dettaglio"
     },
     {
-     "id": "vs19_684_043",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
-     "atto": "C.2696",
-     "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 21,
-      "Favorevole": 27
-     },
-     "esito": {
-      "favorevoli": 209,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=684_43&tipo=dettaglio"
-    },
-    {
      "id": "vs19_681_001",
      "camera": "Camera",
      "legislatura": 19,
@@ -1445,7 +1421,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "DDL 2911-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale, comprensivo dell'errata corrige (DDL 2911)",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": false,
@@ -1469,31 +1445,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "Votazione Fiducia A.C. 2911-A",
-     "atto": "C.2911",
-     "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 32,
-      "Non ha votato": 16
-     },
-     "esito": {
-      "favorevoli": 165,
-      "contrari": 106,
-      "astenuti": 5
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=672_61&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_672_061",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-06-10",
-     "descrizione": "Votazione Fiducia A.C. 2911-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": true,
@@ -1517,7 +1469,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2865 - VOTO FINALE",
+     "descrizione": "Proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno (Approvato dal Senato) (DDL 2865)",
      "atto": "C.2865",
      "titolo": "S. 1781. - \"Proroga di termini per l’esercizio di deleghe legislative di competenza del Ministero dell’interno\" (approvato dal Senato)",
      "fiducia": false,
@@ -1541,7 +1493,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2669-A E ABB - VOTO FINALE",
+     "descrizione": "Delega al Governo in materia di energia nucleare sostenibile (DDL 2669 e abbinata PDL 1742)",
      "atto": "C.2669",
      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
      "fiducia": false,
@@ -12169,8 +12121,8 @@
   "Camera": {
    "presenza": {
     "presenti": 3270,
-    "totale": 20215,
-    "percentuale": 16.2
+    "totale": 20258,
+    "percentuale": 16.1
    },
    "fedelta_gruppo": {
     "allineati": 73,
@@ -12178,7 +12130,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 488
+   "voti_finali_e_fiducia": 486
   }
  },
  "posizioni": [
@@ -12217,7 +12169,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-10-30",
+ "aggiornato_il": "2026-10-31",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte,_2018.06.29_(06)_(cropped).jpg",
@@ -12233,7 +12185,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,2% delle votazioni del periodo (3.270 su 20.215); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 16,1% delle votazioni del periodo (3.270 su 20.258); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 73 volte su 73 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

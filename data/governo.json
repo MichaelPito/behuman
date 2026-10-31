@@ -9,7 +9,7 @@
   "del_governo": 273,
   "decreti_convertiti": 124,
   "con_fiducia": 69,
-  "voti_fiducia": 115,
+  "voti_fiducia": 116,
   "con_descrizione_governo": 153,
   "con_pronunce_corte": 49,
   "per_anno": [
@@ -25547,6 +25547,16 @@
      "camera": "Camera",
      "fase": "C.2911",
      "data": "2026-06-10",
+     "tipo": "fiducia",
+     "favorevoli": 165,
+     "contrari": 106,
+     "astenuti": 5,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_672_061"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2911",
+     "data": "2026-06-10",
      "tipo": "finale",
      "favorevoli": 137,
      "contrari": 73,
@@ -25570,7 +25580,7 @@
     "cosa_e": "È un decreto-legge: il Governo lo ha adottato il 30 aprile 2026 e le sue regole si sono applicate subito, dalla pubblicazione in Gazzetta Ufficiale. Il Parlamento lo ha poi convertito in legge con modifiche. Senza la conversione entro 60 giorni il decreto avrebbe perso efficacia fin dall'inizio.",
     "fatti": [
      "Presentata dal Governo il 30 aprile 2026, è diventata legge il 25 giugno 2026: 56 giorni e 2 letture tra Camera e Senato.",
-     "Il Governo ha posto la questione di fiducia (1 voto, Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
+     "Il Governo ha posto la questione di fiducia (2 voti, Camera e Senato): con la fiducia il testo si approva senza votare gli emendamenti e, se la fiducia viene respinta, il Governo si dimette.",
      "Ultimo voto finale — Camera: 137 sì, 73 no, 2 astenuti (10 giugno 2026)."
     ]
    },

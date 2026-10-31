@@ -23,7 +23,7 @@
    "Camera": {
     "presenza": {
      "presenti": 448,
-     "totale": 22163,
+     "totale": 22210,
      "percentuale": 2.0
     },
     "fedelta_gruppo": {
@@ -109,7 +109,7 @@
    "Camera": {
     "presenza": {
      "presenti": 375,
-     "totale": 20222,
+     "totale": 20258,
      "percentuale": 1.9
     },
     "fedelta_gruppo": {
@@ -152,7 +152,7 @@
    "Camera": {
     "presenza": {
      "presenti": 147,
-     "totale": 22181,
+     "totale": 22210,
      "percentuale": 0.7
     },
     "fedelta_gruppo": {
@@ -252,7 +252,7 @@
    "Camera": {
     "presenza": {
      "presenti": 524,
-     "totale": 20222,
+     "totale": 20258,
      "percentuale": 2.6
     },
     "fedelta_gruppo": {
@@ -338,7 +338,7 @@
    "Camera": {
     "presenza": {
      "presenti": 467,
-     "totale": 22169,
+     "totale": 22210,
      "percentuale": 2.1
     },
     "fedelta_gruppo": {
@@ -425,7 +425,7 @@
    "Camera": {
     "presenza": {
      "presenti": 631,
-     "totale": 20220,
+     "totale": 20258,
      "percentuale": 3.1
     },
     "fedelta_gruppo": {
@@ -469,7 +469,7 @@
    "Camera": {
     "presenza": {
      "presenti": 3705,
-     "totale": 22169,
+     "totale": 22210,
      "percentuale": 16.7
     },
     "fedelta_gruppo": {
@@ -513,8 +513,8 @@
    "Camera": {
     "presenza": {
      "presenti": 3670,
-     "totale": 20216,
-     "percentuale": 18.2
+     "totale": 20258,
+     "percentuale": 18.1
     },
     "fedelta_gruppo": {
      "allineati": 118,
@@ -556,8 +556,8 @@
    "Camera": {
     "presenza": {
      "presenti": 3270,
-     "totale": 20215,
-     "percentuale": 16.2
+     "totale": 20258,
+     "percentuale": 16.1
     },
     "fedelta_gruppo": {
      "allineati": 73,
@@ -565,7 +565,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 488
+    "voti_finali_e_fiducia": 486
    }
   },
   "coerenza": {
@@ -600,8 +600,8 @@
    "Camera": {
     "presenza": {
      "presenti": 12214,
-     "totale": 22171,
-     "percentuale": 55.1
+     "totale": 22210,
+     "percentuale": 55.0
     },
     "fedelta_gruppo": {
      "allineati": 249,
@@ -663,9 +663,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 12968,
-     "totale": 20222,
-     "percentuale": 64.1
+     "presenti": 12995,
+     "totale": 20257,
+     "percentuale": 64.2
     },
     "fedelta_gruppo": {
      "allineati": 296,
@@ -799,9 +799,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 9004,
-     "totale": 22169,
-     "percentuale": 40.6
+     "presenti": 9044,
+     "totale": 22210,
+     "percentuale": 40.7
     },
     "fedelta_gruppo": {
      "allineati": 191,
@@ -843,9 +843,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 11528,
-     "totale": 22174,
-     "percentuale": 52.0
+     "presenti": 11533,
+     "totale": 22209,
+     "percentuale": 51.9
     },
     "fedelta_gruppo": {
      "allineati": 387,
@@ -946,8 +946,8 @@
    "Camera": {
     "presenza": {
      "presenti": 7863,
-     "totale": 22172,
-     "percentuale": 35.5
+     "totale": 22209,
+     "percentuale": 35.4
     },
     "fedelta_gruppo": {
      "allineati": 159,
@@ -992,8 +992,8 @@
    "Camera": {
     "presenza": {
      "presenti": 9107,
-     "totale": 20212,
-     "percentuale": 45.1
+     "totale": 20258,
+     "percentuale": 45.0
     },
     "fedelta_gruppo": {
      "allineati": 184,
@@ -1036,8 +1036,8 @@
    "Camera": {
     "presenza": {
      "presenti": 8314,
-     "totale": 22167,
-     "percentuale": 37.5
+     "totale": 22210,
+     "percentuale": 37.4
     },
     "fedelta_gruppo": {
      "allineati": 206,

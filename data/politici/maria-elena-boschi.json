@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-10-30",
-  "al": "2026-10-30"
+  "dal": "2021-10-31",
+  "al": "2026-10-31"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -514,8 +514,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 7,
-     "assenti": 570,
-     "totale": 577
+     "assenti": 607,
+     "totale": 614
     }
    ],
    "voti_finali": [
@@ -3453,7 +3453,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "DDL 2911-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all'occupazione e di contrasto del caporalato digitale, comprensivo dell'errata corrige (DDL 2911)",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": false,
@@ -3477,7 +3477,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-10",
-     "descrizione": "Votazione Fiducia A.C. 2911-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2911",
      "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
      "fiducia": true,
@@ -3501,7 +3501,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2865 - VOTO FINALE",
+     "descrizione": "Proroga di termini per l'esercizio di deleghe legislative di competenza del Ministero dell'Interno (Approvato dal Senato) (DDL 2865)",
      "atto": "C.2865",
      "titolo": "S. 1781. - \"Proroga di termini per l’esercizio di deleghe legislative di competenza del Ministero dell’interno\" (approvato dal Senato)",
      "fiducia": false,
@@ -3525,7 +3525,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-04",
-     "descrizione": "DDL 2669-A E ABB - VOTO FINALE",
+     "descrizione": "Delega al Governo in materia di energia nucleare sostenibile (DDL 2669 e abbinata PDL 1742)",
      "atto": "C.2669",
      "titolo": "Delega al Governo in materia di energia nucleare sostenibile",
      "fiducia": false,
@@ -14169,8 +14169,8 @@
   "Camera": {
    "presenza": {
     "presenti": 7863,
-    "totale": 22172,
-    "percentuale": 35.5
+    "totale": 22209,
+    "percentuale": 35.4
    },
    "fedelta_gruppo": {
     "allineati": 159,
@@ -14282,7 +14282,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-10-30",
+ "aggiornato_il": "2026-10-31",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
@@ -14298,7 +14298,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 35,5% delle votazioni del periodo (7.863 su 22.172); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 35,4% delle votazioni del periodo (7.863 su 22.209); la mediana dei colleghi è 73,0%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 159 volte su 160 (99,4%).",
   "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."
