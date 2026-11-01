@@ -16628,11 +16628,11 @@
     "valore": 56757
    },
    "oggi": {
-    "data": "2026-09-28",
-    "valore": 38199
+    "data": "2026-10-28",
+    "valore": 33400
    },
-   "variazione_dall_incarico": -58.9,
-   "differenza_dall_incarico": -54739,
+   "variazione_dall_incarico": -64.1,
+   "differenza_dall_incarico": -59538,
    "serie": [
     [
      "2018-01-28",
@@ -17053,6 +17053,10 @@
     [
      "2026-09-28",
      38199
+    ],
+    [
+     "2026-10-28",
+     33400
     ]
    ],
    "temi": [
@@ -17622,6 +17626,10 @@
     [
      "2026-09-28",
      38199
+    ],
+    [
+     "2026-10-28",
+     33400
     ]
    ]
   },
@@ -20808,13 +20816,13 @@
         "valore": 60377
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -61.5,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -61134,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -66.4,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -65933,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -21235,6 +21243,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -21347,7 +21359,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-66,4%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -23228,13 +23240,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -23655,6 +23667,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -23767,7 +23783,7 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%). Leggi del Governo con il tema nel titolo da allora: 14."
     }
    ],
    "riepilogo": {
@@ -25139,13 +25155,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -25566,6 +25582,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -25678,7 +25698,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -28856,13 +28876,13 @@
         "valore": 60377
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -61.5,
-       "variazione_dalla_prima_richiesta": -10.5,
-       "differenza_dall_incarico": -61134,
-       "differenza_dalla_prima_richiesta": -4503,
+       "variazione_dall_incarico": -66.4,
+       "variazione_dalla_prima_richiesta": -21.8,
+       "differenza_dall_incarico": -65933,
+       "differenza_dalla_prima_richiesta": -9302,
        "serie": [
         [
          "2018-01-28",
@@ -29283,6 +29303,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -29395,7 +29419,7 @@
       "riduzione": 19,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 19 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (19 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%); rispetto alla prima richiesta (28 luglio 2018: 42.702) -10,5%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 19 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (19 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-66,4%); rispetto alla prima richiesta (28 luglio 2018: 42.702) -21,8%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -33493,13 +33517,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -33920,6 +33944,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -34032,7 +34060,7 @@
       "riduzione": 6,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
@@ -36208,13 +36236,13 @@
         "valore": 60377
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -61.5,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -61134,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -66.4,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -65933,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -36635,6 +36663,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -36747,7 +36779,7 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-61,5%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (3 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 99.333 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-66,4%). Leggi del Governo con il tema nel titolo da allora: 14."
     }
    ],
    "riepilogo": {
@@ -38392,13 +38424,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -47.4,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -34372,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -54.0,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -39171,
        "serie": [
         [
          "2018-01-28",
@@ -38819,6 +38851,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -38931,7 +38967,7 @@
       "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -47,4%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -54,0%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -42154,13 +42190,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -42581,6 +42617,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -42693,7 +42733,7 @@
       "riduzione": 9,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 9 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (9 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "reddito-cittadinanza",
@@ -46840,13 +46880,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": 9.2,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": 3224,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -4.5,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -1575,
        "serie": [
         [
          "2018-01-28",
@@ -47267,6 +47307,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -47379,7 +47423,7 @@
       "riduzione": 7,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%); rispetto alla prima richiesta (28 settembre 2018: 34.975) +9,2%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 7 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (7 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%); rispetto alla prima richiesta (28 settembre 2018: 34.975) -4,5%. Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
@@ -51636,13 +51680,13 @@
         "valore": 56757
        },
        "oggi": {
-        "data": "2026-09-28",
-        "valore": 38199
+        "data": "2026-10-28",
+        "valore": 33400
        },
-       "variazione_dall_incarico": -58.9,
-       "variazione_dalla_prima_richiesta": -55.7,
-       "differenza_dall_incarico": -54739,
-       "differenza_dalla_prima_richiesta": -48119,
+       "variazione_dall_incarico": -64.1,
+       "variazione_dalla_prima_richiesta": -61.3,
+       "differenza_dall_incarico": -59538,
+       "differenza_dalla_prima_richiesta": -52918,
        "serie": [
         [
          "2018-01-28",
@@ -52063,6 +52107,10 @@
         [
          "2026-09-28",
          38199
+        ],
+        [
+         "2026-10-28",
+         33400
         ]
        ],
        "esito": "direzione_chiesta"
@@ -52175,7 +52223,7 @@
       "riduzione": 6,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 38.199 nei 12 mesi fino a settembre 2026 (-58,9%). Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (6 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 33.400 nei 12 mesi fino a ottobre 2026 (-64,1%). Leggi del Governo con il tema nel titolo da allora: 14."
     },
     {
      "tema": "legge-fornero",
