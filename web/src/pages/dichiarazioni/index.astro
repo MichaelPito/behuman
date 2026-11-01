@@ -3,6 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Coerenza from "../../components/Coerenza.astro";
 import Discussa from "../../components/Discussa.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
+import Giornali from "../../components/Giornali.astro";
 import Icon from "../../components/Icon.astro";
 import { dataIt, indiceDichiarazioni, partiti, perCognome } from "../../lib/data";
 import { u } from "../../lib/url";
@@ -94,6 +95,7 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
           <div class="what"><a href={u(`/dichiarazioni/${r.slug}/`)}>{r.nome}</a> <span class="muted small">— {r.contesto}</span></div>
           <p class="small estratto"><span class="etichetta">In sintesi, con le sue parole</span> «{r.testo}»</p>
           <a class="tiny" href={r.url} target="_blank" rel="noopener">Testo ufficiale integrale <Icon name="ext" class="tiny" /></a>
+          <Giornali notizie={(r as any).notizie} />
         </li>
       ))}
     </ol>

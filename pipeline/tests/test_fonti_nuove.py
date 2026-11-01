@@ -433,3 +433,22 @@ def test_agenda_parole_senza_atti_europei():
     assert parole_ricerca({"oggetto": t}) == ["macchine"]
     t = "Disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) 2024/2847 relativo a requisiti di cibersicurezza"
     assert "cibersicurezza" in parole_ricerca({"oggetto": t}) and "parlamento" not in parole_ricerca({"oggetto": t})
+
+
+def test_notizie_dichiarazioni(monkeypatch):
+    from memoria.sezioni import notizie_dichiarazioni as nd
+    testo = ("Come gruppo di Alleanza Verdi e Sinistra chiediamo che venga in Aula. (Applausi dei deputati del gruppo "
+             "Partito Democratico-Italia Democratica e Progressista) Il notariato è un pezzo di Stato, il notariato garantisce i contratti.")
+    parole = nd.parole_chiave(testo, "62° Congresso Nazionale del Notariato")
+    assert parole[0] == "notariato" and "alleanza" not in parole and "progressista" not in parole
+    titoli = [
+        {"titolo": "Congresso nazionale notariato, Meloni: «I notai sono un pezzo di Stato»", "fonte": "Sky TG24", "data": "2026-10-22", "url": "1"},
+        {"titolo": "62° Congresso del Notariato, l'intervento del Presidente Meloni", "fonte": "Governo.it", "data": "2026-10-22", "url": "2"},
+        {"titolo": "Notariato, il congresso chiude i lavori", "fonte": "A", "data": "2026-10-22", "url": "3"},  # non nomina Meloni
+        {"titolo": "Meloni al congresso del notariato", "fonte": "B", "data": "2026-10-10", "url": "4"},  # prima della dichiarazione
+    ]
+    monkeypatch.setattr(nd.notmod, "google_news_libera", lambda q, giorni=7: titoli)
+    assert [n["url"] for n in nd.notizie_su("Giorgia Meloni", "2026-10-22", testo, "62° Congresso Nazionale del Notariato")] == ["1"]
+    # il cognome deve avere la maiuscola: «nei boschi» non è Maria Elena Boschi
+    assert not nd.tieni({"titolo": "Scomparso da anni nei boschi", "fonte": "A"}, "Maria Elena Boschi")
+    assert nd.tieni({"titolo": "BOSCHI (IV): «Il governo riferisca»", "fonte": "A"}, "Maria Elena Boschi")
