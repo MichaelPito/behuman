@@ -42,6 +42,7 @@ from .sezioni import dichiarazioni as dichiarazionimod
 from .sezioni import governo as governomod
 from .sezioni import impegni as impegnimod
 from .sezioni import agenda as agendamod
+from .sezioni import notizie_dichiarazioni as notiziedichmod
 from .sezioni import osservatorio as osservatoriomod
 
 log = logging.getLogger("memoria")
@@ -613,6 +614,11 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
             dichiarazionimod.costruisci(ctx, politici)
         except Exception as e:  # noqa: BLE001 - restano i dati del giorno prima
             ctx.errore("dichiarazioni", "build", e)
+            traceback.print_exc()
+        try:
+            notiziedichmod.costruisci(ctx)
+        except Exception as e:  # noqa: BLE001 - restano i titoli già trovati
+            ctx.errore("dichiarazioni", "notizie", e)
             traceback.print_exc()
         try:
             governomod.costruisci(ctx)

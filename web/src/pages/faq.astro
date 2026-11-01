@@ -143,6 +143,15 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "giornali-dichiarazioni",
+        q: "Come trovate cosa scrivono i giornali su una dichiarazione?",
+        a: [
+          "Per le dichiarazioni degli ultimi 14 giorni (interventi in Aula alla Camera e interventi pubblicati da Palazzo Chigi) cerchiamo su Google News i titoli che nominano il politico e parlano dello stesso argomento. Le parole che distinguono la dichiarazione sono le più frequenti nel suo testo, tolte quelle che ricorrono in qualunque discorso politico (governo, colleghi, Paese…), i nomi dei gruppi parlamentari e le annotazioni del resoconto («Applausi…»).",
+          "Teniamo solo i titoli usciti dal giorno della dichiarazione ai tre giorni successivi, che contengono il cognome del politico con la maiuscola (così «nei boschi» non diventa Maria Elena Boschi) e due parole della dichiarazione, oppure una sola se lunga e specifica (es. «Federchimica»). Escludiamo le fonti ufficiali (governo.it, ministeri, Regioni): il testo ufficiale è già collegato. Al massimo due titoli per testata.",
+          "Si aggiorna ogni giorno con il resto del sito. È un segnale di quanto se n'è parlato, non una valutazione. Restano possibili omonimie (es. un altro politico con lo stesso cognome): ogni titolo ha il link all'articolo.",
+        ],
+      },
+      {
         id: "polemiche",
         q: "Come funziona la pagina «Notizie e polemiche»?",
         a: [

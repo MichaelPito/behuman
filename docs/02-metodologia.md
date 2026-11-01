@@ -191,3 +191,10 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   (prima Governo e politici monitorati): ricerca per nome breve ufficiale o parole distintive (confronto per
   radice, singolare/plurale); tenuti solo i titoli che citano un atto e contengono due parole del testo di cui
   una specifica (o una coppia attaccata come «professioni sanitarie», o una parola lunga e specifica); max 2 per testata.
+
+## 3-sexies. Cosa scrivono i giornali sulle dichiarazioni
+- Dichiarazioni degli ultimi 14 giorni (Camera, Palazzo Chigi): ricerca su Google News con il cognome e le
+  parole più frequenti del testo (tolte parole di ogni discorso, nomi dei gruppi, annotazioni del resoconto).
+- Tenuti i titoli dal giorno della dichiarazione a 3 giorni dopo, con il cognome (maiuscola) e due parole
+  della dichiarazione o una lunga e specifica; escluse le fonti ufficiali; max 2 per testata.
+- Archivio dei titoli trovati in `data/notizie-dichiarazioni.json` (per URL della dichiarazione).
