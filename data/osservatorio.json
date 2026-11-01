@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-01T06:08:15+00:00",
+ "aggiornato_il": "2026-11-01T06:45:59+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -49,6 +49,36 @@
        "fonte": "LaC News24",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmtQTVZWWDVfMWJmRzEySmx4WXhYSUNYMmt3bXQyM3hBbU9nYjF2c3pNR3RhR0laclNqa2dwTlRTdzlnQ0ZQQTZXOW9hNjRsMmVlcWtiZFlSaFd6elpGWWl3dWlUR2FJZFVZMkNSN25aa2lTTER3eWRzQzd2WGNzUlRiaWxnb3ZhOWpQa05CVHloUjNDdmxzb0J1ZTlhS3p4QkI0YlQzM1EtQVhRTDFUeUIyUGZKa21FdnY0Y0wyU2tKQ1pZU3Q1ZEloSzViR2J2VzFvTnhpbldUWHY4cV93cW1XeWhlX0RwR1hIbXRrSXNacTVvZmJKa0VfUmJsTGpOLWNEc9IBigJBVV95cUxNaEZFR1ZwdWpPandRMVlzWFlaS0dOS1VTLWwzbDlBSVBHSkh0V1ZmS3lfS2M0SkhTeDZYRWZTcXIwREtwV2NaMVY2TGJSTEhPYjF0TFZUOEtSVk5aOW4tdUg4TkdrWGRwQkxUTDlfV1pQTG0ySzJUMWZsMlBGTzZDdHpTR0FRME9odl91REFSblhVaEZGZ3JBUFdUV1kzX1Raem5CMEdaQmVrdmpqQkk0LXJ5SERrTGgwT291TVpTM2pNckc1Qmt3RklUV1lKdDR0azZSNHFfZjI1VWpYZVNpVEtZUXYtNmZkOWVwNGJPekV5em94X3ROOXdXdDV1ZEZ5WmR3SXE3akZMZw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlhV2JoQjVFX0t6aWlWWEJIVEZiZVo3ak44MDVvWnNrRHhtU3NIQjl2MDlfRmtlZ0plOExVb3EzdWpabTQ2WTZiTTdiaTQ3OG8wQjZ2NzB5MVpRcVZyaVhNSDhOQTVtSGZHWmlWZmFlZDdKTkZaRUp0aDRCbnBhUHJqbnB2cTZ0T1BRaURCRWUtaE9ab1NTdnRMYzk2UG5mWVQxNDBNeldXYVdGbkxaNUhKWF83Um5oOElTTHM0YnJSSFk2NXZjUlFWSTBqeHZSaGZrX3liNDNSU2c?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Crozza-Meloni contro i giudici dopo scarcerazione Youssef: \"La decisione 'spettasse' a me\"",
+     "testate": [
+      "Il Sole 24 ORE",
+      "la Repubblica"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Crozza-Meloni contro i giudici dopo scarcerazione Youssef: \"La decisione 'spettasse' a me\"",
+       "fonte": "Il Sole 24 ORE",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlhV2JoQjVFX0t6aWlWWEJIVEZiZVo3ak44MDVvWnNrRHhtU3NIQjl2MDlfRmtlZ0plOExVb3EzdWpabTQ2WTZiTTdiaTQ3OG8wQjZ2NzB5MVpRcVZyaVhNSDhOQTVtSGZHWmlWZmFlZDdKTkZaRUp0aDRCbnBhUHJqbnB2cTZ0T1BRaURCRWUtaE9ab1NTdnRMYzk2UG5mWVQxNDBNeldXYVdGbkxaNUhKWF83Um5oOElTTHM0YnJSSFk2NXZjUlFWSTBqeHZSaGZrX3liNDNSU2c?oc=5"
+      },
+      {
+       "titolo": "Caso Youssef, Crozza-Meloni contro i giudici: \"La decisione 'spettasse' a me\"",
+       "fonte": "la Repubblica",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWd4ZXZqUzFHdVV3dkdMenNzMmw2OGtCcDFjZUs5VFo5aUk3VnAzOWxrLThmS3lia2p3WU95d3VpTjJoRURHLU5jVW5VNnhjX2FCcjl2VHFpV3B4QURjaGgzazRPalZMdnoyb2IwdzhWZ3NYWFpHSnhfVXpyRTZscXgwQi12ejZyd0NTODBsNXFVUS02Ymk2NFFyNk9QNFpqQjV3WU5wSmp4T2FpOUZweGlWVTdFb01LZkpjbUhMXzZPRnRtT2FsY2cwUm53OUpkeGc?oc=5"
       }
      ],
      "polemica": false,
@@ -141,29 +171,6 @@
        "fonte": "Corriere della Sera",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUFAyQlh3bjIzOFNaTklRQ3Z0T3hRUU9rc2l3bU1zSUowbERTWlJZM004M2Z3WU02Qm1yQWl4ZTIxb212WFFySmxrT2xwdXNVZkZDYTd1WFNnakFreE90ZDZIMjdZRnZ1c0JKT3l0VlA5NGdnMEw2djZOS0lzWHBRNm9CTjdKMlZNcjZDZTVoTkFRbFlWcGt2cGdoOTEwSG00dDhNOENPZ1VsVTNncTRFU0tvZmxuQkUwd1ZWcDVLSk5Wb3ZDMWVYQVNzeno5cmR1ZF93UHkyRDc0WVNqeVFUanI5Vm_SAeoBQVVfeXFMTlhWdTFOSXFrRUsxbExzQnUzLVFTUl81UWlhTE9qenBQTUppMURkMGZvMDB2dDVTTHJxd0pkZ1dXanJZS2VjcUgtTVZfeE12YW81WmthNDBMUExjT0dicWxBVUg0UVdCNFVoSXVUZW1PWUc0d1ZaX2JldnBiNjNpbm9DSjRqVUo4UktwMzNvbGxHN3J6SGFsQkMtV1pCSGNTR1VWQ19GVkQ5MjNWa0NrenMySXQyOFdMNk9rUzd5a1BPbEtQUWlVQTJDSkhfMExmRGtJb1FRcWpfaXQzMWVubEcwTXNmb1dUSEpR?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlhV2JoQjVFX0t6aWlWWEJIVEZiZVo3ak44MDVvWnNrRHhtU3NIQjl2MDlfRmtlZ0plOExVb3EzdWpabTQ2WTZiTTdiaTQ3OG8wQjZ2NzB5MVpRcVZyaVhNSDhOQTVtSGZHWmlWZmFlZDdKTkZaRUp0aDRCbnBhUHJqbnB2cTZ0T1BRaURCRWUtaE9ab1NTdnRMYzk2UG5mWVQxNDBNeldXYVdGbkxaNUhKWF83Um5oOElTTHM0YnJSSFk2NXZjUlFWSTBqeHZSaGZrX3liNDNSU2c?oc=5",
-     "data": "2026-10-31",
-     "titolo": "Crozza-Meloni contro i giudici dopo scarcerazione Youssef: \"La decisione 'spettasse' a me\"",
-     "testate": [
-      "Il Sole 24 ORE"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Crozza-Meloni contro i giudici dopo scarcerazione Youssef: \"La decisione 'spettasse' a me\"",
-       "fonte": "Il Sole 24 ORE",
-       "data": "2026-10-31",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmlhV2JoQjVFX0t6aWlWWEJIVEZiZVo3ak44MDVvWnNrRHhtU3NIQjl2MDlfRmtlZ0plOExVb3EzdWpabTQ2WTZiTTdiaTQ3OG8wQjZ2NzB5MVpRcVZyaVhNSDhOQTVtSGZHWmlWZmFlZDdKTkZaRUp0aDRCbnBhUHJqbnB2cTZ0T1BRaURCRWUtaE9ab1NTdnRMYzk2UG5mWVQxNDBNeldXYVdGbkxaNUhKWF83Um5oOElTTHM0YnJSSFk2NXZjUlFWSTBqeHZSaGZrX3liNDNSU2c?oc=5"
       }
      ],
      "polemica": false,
@@ -304,6 +311,75 @@
        "fonte": "Il Messaggero",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWEhpektZcjJ4ZzE0enFDbWpYUlRic0JRZ2pFbk9aZklsVnloUUVSUTRSTE5RcGh3emh6VHlubHVtUTFRc1NJLVhHMGtJd0tzTlg1d05Ca0RITzNmY2R4RWFKM1hrOU1zN0tpR1U3TUNuYjVraEhUbm91cXJyTWhJRDBhWHN1Z29CSkFQNUlaTDlqRzVOaTFfcmZueTV3OFk0dW1ydEJ3ZWQ3a252V0HSAbMBQVVfeXFMT0xTd2hQb2lKRjctNWZ0Q1ZmbGNoVEJMVXpfMWtmSkFLc1RyN215WjZiRV8zeWF1MVREcGo2VWtfWWZHbkxBX0NUSlc5VmJGWG90MmhGUGRPWmxiajRrOXFQczNvbVE2aU9oQlk0eDByT1JKb0c3MzllUGtoNWxTcUpFcHZ2YUk3aU9BdzNPS3VYbEN4VUNicXBKdzNCQkJPSUtFNXNFMVdRX19jOU1VM3lXN0E?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSy02dHJXdnhsaWlNdG0xX2JkeHdpM3kzNHVzdHdKVTRzU0FFeF94VG96TlVNX3J6YXBmZ3diNHRGdDYtc3E4Y0JWN1hYWHNtX0dYdTdfVEpuUG5RTVhaZTBfWEF4U3JkTTZyNzJrZFdsam5YZ2lzaTZ6dDJSRFlHSjJkQlpGaFdRTjV0cXpyVWk3dmlIWkhXX1FCNUN4V2xiUnVaQWhtWjdvQ0hXVF9SSXpVbDlLQ0VtakxvREdQT0V6TFR6VUhfNlVlZDI4aU1lSTVKUEdjYVFSZ9IB0wFBVV95cUxQemJfdFlHb0lxeUl5c2hfRDM5bEh0QmcyNFFIZnF5N08wRUJJOF9HMXZqM081algyUzJuNmJuel9lekxxdE00a2RHMmxodWVrSzNHWmVYNndDelhJRVg4bVB2ODFra0RKQXhCenhzb3l2aWJOTFpVQUpic2xkTjY1QlgyMHJXc29DZDV1OUNpR3JUQUVxM1k2M2hsWFhuemc4ckpMWGxNU01pUlVEQ19SS09GeGxBZlpmNzNkTURjbEc2TUFNX05vR1lsa3BPNDVlaG1Z?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Il libro di Bocchino al circolo Politecnico: «Vi spiego perché piace Giorgia Meloni agli italiani»",
+     "testate": [
+      "Il Mattino"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Il libro di Bocchino al circolo Politecnico: «Vi spiego perché piace Giorgia Meloni agli italiani»",
+       "fonte": "Il Mattino",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSy02dHJXdnhsaWlNdG0xX2JkeHdpM3kzNHVzdHdKVTRzU0FFeF94VG96TlVNX3J6YXBmZ3diNHRGdDYtc3E4Y0JWN1hYWHNtX0dYdTdfVEpuUG5RTVhaZTBfWEF4U3JkTTZyNzJrZFdsam5YZ2lzaTZ6dDJSRFlHSjJkQlpGaFdRTjV0cXpyVWk3dmlIWkhXX1FCNUN4V2xiUnVaQWhtWjdvQ0hXVF9SSXpVbDlLQ0VtakxvREdQT0V6TFR6VUhfNlVlZDI4aU1lSTVKUEdjYVFSZ9IB0wFBVV95cUxQemJfdFlHb0lxeUl5c2hfRDM5bEh0QmcyNFFIZnF5N08wRUJJOF9HMXZqM081algyUzJuNmJuel9lekxxdE00a2RHMmxodWVrSzNHWmVYNndDelhJRVg4bVB2ODFra0RKQXhCenhzb3l2aWJOTFpVQUpic2xkTjY1QlgyMHJXc29DZDV1OUNpR3JUQUVxM1k2M2hsWFhuemc4ckpMWGxNU01pUlVEQ19SS09GeGxBZlpmNzNkTURjbEc2TUFNX05vR1lsa3BPNDVlaG1Z?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOYTZpU0ZfNXM1eW1uMzlKRk1WQzNZR0tQdVVoZ1E5VXlPLXBDUGtHWW5STzdkanhiWEg4Z3Z3MHFSZkQtNERsbEcyY2lwbHhveHo5NUo1bVZHcDVvMGFuTmZFV3hJQWVNYlJxQ2prQjE5TEdPSUxmUFBjaUwtREhDclVrWmJ0R3VkR1NCVTUxR1N6Njd3WV9HblM2T25Da3cwWkliV1oyX1VRd2hVNWRTRUg2S05xeGtkZndNbk9RR05LcDFJazMwZ2ZxbmNSQzBvbF9JTUphQmZEU0l4d1l5YzRPUDNEM3pLNTFYeVUyVjlMMy1xRy0tNjk1WXQzZlgtdVNhb1hrNlFPWUxWc3NEV1dheG9kcEl6MFB5NjlsNkQxdlByZFNuYjNOOGNtUzhYSkVTUmIwdEJsSHFWTmRxTDV3S3U5eHVhcGdpc0o5aWEtU1kzVFNvaHlSSlpVQjVJTTQ2YmdRUQ?oc=5",
+     "data": "2026-10-31",
+     "titolo": "\"Se un comico di sinistra fa una battuta anche volgare, pesante su Giorgia Meloni, tutti ridono e la cosa finisce lì. Se un comico la pensa diversamente e fa battute su leader di sinistra arrivano insulti e querele\": parla Andrea Pucci",
+     "testate": [
+      "Il Fatto Quotidiano"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "\"Se un comico di sinistra fa una battuta anche volgare, pesante su Giorgia Meloni, tutti ridono e la cosa finisce lì. Se un comico la pensa diversamente e fa battute su leader di sinistra arrivano insulti e querele\": parla Andrea Pucci",
+       "fonte": "Il Fatto Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOYTZpU0ZfNXM1eW1uMzlKRk1WQzNZR0tQdVVoZ1E5VXlPLXBDUGtHWW5STzdkanhiWEg4Z3Z3MHFSZkQtNERsbEcyY2lwbHhveHo5NUo1bVZHcDVvMGFuTmZFV3hJQWVNYlJxQ2prQjE5TEdPSUxmUFBjaUwtREhDclVrWmJ0R3VkR1NCVTUxR1N6Njd3WV9HblM2T25Da3cwWkliV1oyX1VRd2hVNWRTRUg2S05xeGtkZndNbk9RR05LcDFJazMwZ2ZxbmNSQzBvbF9JTUphQmZEU0l4d1l5YzRPUDNEM3pLNTFYeVUyVjlMMy1xRy0tNjk1WXQzZlgtdVNhb1hrNlFPWUxWc3NEV1dheG9kcEl6MFB5NjlsNkQxdlByZFNuYjNOOGNtUzhYSkVTUmIwdEJsSHFWTmRxTDV3S3U5eHVhcGdpc0o5aWEtU1kzVFNvaHlSSlpVQjVJTTQ2YmdRUQ?oc=5"
+      }
+     ],
+     "polemica": true,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmtVTU9ZdWhJeU9OZG5LWE1SSlN1WWZmTTk3cFhOeTVXdzBaa3c3OEpTUmFOdGxtcVUxWjhiWHFUb2pVU3hRSU5hNjlmQ1JvZmhLbXZHeTMxQnBuRHhYWlZGSWVpVzJ3ZVlRVGFyVTJMaW1wYmpFdElrblA0ODA2QUtGUmxicUptSGhJQUI1Y2I4Tk5IaExuMUJfNTV0TWNNS01yWld1UElqUQ?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Una generazione imprevedibile e incontrollabile che fa paura a Giorgia Meloni",
+     "testate": [
+      "Radio Popolare"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Una generazione imprevedibile e incontrollabile che fa paura a Giorgia Meloni",
+       "fonte": "Radio Popolare",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmtVTU9ZdWhJeU9OZG5LWE1SSlN1WWZmTTk3cFhOeTVXdzBaa3c3OEpTUmFOdGxtcVUxWjhiWHFUb2pVU3hRSU5hNjlmQ1JvZmhLbXZHeTMxQnBuRHhYWlZGSWVpVzJ3ZVlRVGFyVTJMaW1wYmpFdElrblA0ODA2QUtGUmxicUptSGhJQUI1Y2I4Tk5IaExuMUJfNTV0TWNNS01yWld1UElqUQ?oc=5"
       }
      ],
      "polemica": false,
@@ -8964,8 +9040,8 @@
     }
    ],
    "conteggi": {
-    "storie": 267,
-    "polemiche": 28,
+    "storie": 270,
+    "polemiche": 29,
     "polemiche_social": 6,
     "virali": 63,
     "citazioni": 95,
@@ -15170,6 +15246,29 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3N1MG5fMG9aMTg2U2JRUFNqblJWQ1NKMzRBM0lkS3BZYV80N3RldVZoeGI3RGRMQ0wyOERRS2FhVGZ5ZXZIZkVucVdGOXkyUHVpb3FkRlV5NWJIYWFVTkI1bkVETG5MOE80X1AtcmNyVF9yNjFYbUthUWJrTW9MTl9TNDhUZ3ZiNGhxaFFlWGpVV1VDd2kySjJ6OGpaQzlYem5vbTlpVmNGaHFoM1FtQy13ZzB5RDk0UGd1Q21oQ0pvdw?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Crozza-Tajani su caso Youssef | Garantista ma quando uno viene beccato in ' fragranza' …",
+     "testate": [
+      "Zazoom Social News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Crozza-Tajani su caso Youssef | Garantista ma quando uno viene beccato in ' fragranza' …",
+       "fonte": "Zazoom Social News",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3N1MG5fMG9aMTg2U2JRUFNqblJWQ1NKMzRBM0lkS3BZYV80N3RldVZoeGI3RGRMQ0wyOERRS2FhVGZ5ZXZIZkVucVdGOXkyUHVpb3FkRlV5NWJIYWFVTkI1bkVETG5MOE80X1AtcmNyVF9yNjFYbUthUWJrTW9MTl9TNDhUZ3ZiNGhxaFFlWGpVV1VDd2kySjJ6OGpaQzlYem5vbTlpVmNGaHFoM1FtQy13ZzB5RDk0UGd1Q21oQ0pvdw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGplbGt1T0x2alQ2Vy1qUGpxR0hVN0hyYXlEVV9wd3dTamNnbVM5MXhQeVNHZDU4STFkYzRCQWFJcjZENGt3X2NhUmlTRFdYNEc4bkUtcWdHZmFPRmdZT04zRXlXc2VzZ0ZDYzBYbTVBTHBnSzRkWHdHYTdhLVdMcXdFMlZZamV4MHZFSVNSZDdVZ9IBkgFBVV95cUxOdjJ2WTB1NFdncHgxWHk1UXRzc2VuNDFjYmhGcmt6aGpMNGZONUtZSlpwc1RRRjUySXVVOTBocWEwNmp2QXprVEc4Wk96QnVjVzRPeDU4WWtqZXlNV3RXeUFsUWthZ25QaHJQTzJsQWVPYVFhQXVLR0FXTjA0VDRUQzdoUE5HWXdROHdaX1AwaU5GUQ?oc=5",
      "data": "2026-10-30",
      "titolo": "Il \"Paperone\" dei parlamentari dichiara 3,5 milioni. Lupi batte Tajani, Fratoianni supera Schlein di 400 euro: tutti i redditi",
@@ -20090,7 +20189,7 @@
     }
    ],
    "conteggi": {
-    "storie": 139,
+    "storie": 140,
     "polemiche": 11,
     "polemiche_social": 1,
     "virali": 41,
@@ -23113,15 +23212,17 @@
       "Agenzia Dire",
       "Askanews",
       "Domani",
+      "Il Messaggero",
       "Il Sole 24 ORE",
       "L'Unione Sarda.it",
       "La Discussione",
       "LaPresse",
       "Quotidiano Nazionale",
+      "Stampa Parlamento",
       "Virgilio",
       "VoceAlta"
      ],
-     "n_testate": 11,
+     "n_testate": 13,
      "articoli": [
       {
        "titolo": "Elicottero caduto in Bosnia, Crosetto rassicura sulle condizioni dei feriti: \"Se la caveranno, è un miracolo\"",
@@ -23187,18 +23288,15 @@
      "titolo": "Il Ministro Crosetto in Bosnia-Erzegovina per rendere omaggio ai Caduti e portare vicinanza ai militari feriti",
      "testate": [
       "AGI",
-      "Affaritaliani",
       "Corriere della Sera",
+      "Corriere di Viterbo",
       "Il Sole 24 ORE",
-      "L'Unione Sarda.it",
       "Ministero della Difesa",
-      "Ore12",
       "Quotidiano Nazionale",
-      "The Epoch Times Italia -",
-      "Tusciaweb.eu",
+      "il Giornale",
       "la Repubblica"
      ],
-     "n_testate": 11,
+     "n_testate": 8,
      "articoli": [
       {
        "titolo": "Il Ministro Crosetto in Bosnia-Erzegovina per rendere omaggio ai Caduti e portare vicinanza ai militari feriti",
@@ -23249,11 +23347,12 @@
        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0JGVy1OakVGTWlvUnVPRUFYTUtOd3FLRkltZGNsc0ZibkttZ2k5bm01WVNnQkstaVJ4Q284a0NMbnZCZ0hqU25xS0t6eUJDTDVyalo4VjYzLVp3SEFOckdYRWlGdzl1ejZWSE5BY1B2MGpSRXlBa3VIeUZEZVl6LXlBdkNZOFpNUHpkN2hmT0FhYXAzY0dTRWhEVWpLbFFpZXhvelJCMV8wdEZ4TXg4bkgzQnBkbFkyaVlpQW1qTHlvQ21zNjRGcmlWakd3R3NGVENOajE0MXpMRWUtRlNUN1hnQW5odjlPbDFKb1FR?oc=5"
       }
      ],
-     "polemica": false,
+     "polemica": true,
      "social": false,
      "virale": true,
      "citazioni": [
-      "In Bosnia per rendere omaggio alle vittime, sento il peso di questa tragedia"
+      "In Bosnia per rendere omaggio alle vittime, sento il peso di questa tragedia",
+      "Esempio indegno di politica"
      ],
      "verifiche": [],
      "confronti": []
@@ -25822,10 +25921,10 @@
    ],
    "conteggi": {
     "storie": 76,
-    "polemiche": 11,
+    "polemiche": 12,
     "polemiche_social": 0,
     "virali": 21,
-    "citazioni": 36,
+    "citazioni": 37,
     "giorni": 45
    }
   },
@@ -37760,6 +37859,12 @@
        "fonte": "S&H Magazine",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1ZFN2t2SmFUa3NRTHhuMHpVdnRGNlVtS1FVVUVzbjBNNl9sRDZ5eHgwZ211QjlQd2xJYVJJX2FRMUVGRzh2WUVPN0JldGNLSnB4aklGMUdvQWNQRW1kUWZsNEpIMnVja0Q5d1lBYUQzM09xZk1ZSEVmMHVOZUtXRUM4cURaQWZkSzM0NEV1OEF6bXdaQzhvUGV1cHdSVnV4ekxwWWpuZEd3LTZyRzUtR1ozaFVfN1JpVkxHcW4xcGVYRVJFbWJGTFBPenNkN2tXV0dmWk9ZQQ?oc=5"
+      },
+      {
+       "titolo": "Centrosinistra, sprint Schlein, Conte e Avs: programma a novembre e primarie a febbraio",
+       "fonte": "Virgilio",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkFndWxCWlB2TklnMHI2amttZ3MwQVR0b3M1Y1g0RU1GVWNYNnItS2l1RmtwS3N3M0NUNF8wMWw4UWktTGJKMEpOU2I2MURHMm42dXpjbUdBdFc3eENJYTQ3VnozOHlnQWxBdmdCckN6ajN0Wjd3bmVlWnV3a0Y5NjlHelkzeklac2RKWVU1M21SeFRDbkJrMDJOTzNZN05tNUJLZllvOWIxeUxkbWdUS0w0WUJ4bjZuWXZwdnJTU0VvalBjdnVNRmhIWENERDZkZ0xHOW5ZcXQ5ZG93MG1qaVIzMDNoYWlY0gHoAUFVX3lxTE9uQWd1bEJaUHZOSWcwcjZqa21nczBBVHRvczVjWDRFTUZVY1g2ci1LaXVGa3BLc3czQ1Q0XzAxbDhRaS1MYkowSk5TYjYxREcybjZ1emNtR0F0Vzd4Q0lhNDdWejM4eWdBbEF2Z0JyQ3pqM3RaN3duZWVadXdrRjk2OUd6WTN6SVpzZEpZVTUzbVJ4VENuQmswMk5PM1k3Tm01QktmWW85YjF5TGRtZ1RLTDRZQnhuNm5ZdnB2clNTRW9qUGN2dU1GaEhYQ0RENmRnTEc5bllxdDlkb3cwbWppUjMwM2hhaVg?oc=5"
       }
      ],
      "polemica": false,
@@ -52907,6 +53012,78 @@
    "schieramento": "opposizione",
    "storie": [
     {
+     "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3BDSG1tMG95aVcyYU5GTzJXV2V5XzVQSURsQWRRZXl1bXJCdjFjc2JrVTlSd0tGellXRjE1cDdXR0M0M3ppMTNXb3UtRjJzbzBDdEE1c2ViTEFZamhvWFNTSldYYVpaWUNzWnc3SDN1WlZMQnNEaUpUckcweEJhNlgzdHV0YVFXcmxBX1NFblJlNnZTaGZPTktWTXdxdUhPY240Nm9FYlVUNVJkT2pjdnpKRERwRWE2UHZpb1k3LXpUbU13OHZiMExrMm82NWRLZTRQM2t4MlBkZWtuLVBIS0pYM1RhdmY5UGFhVlJvcm8yX0RaVmo2UlpIdlNVd9IBgwJBVV95cUxOeUkwWVk4V09GNVZsbXhPaGNCdmo1bUJzc01ZWWZ3eFpsaWNYdWV1TTk5RDhrZ05JQjVHUFFmV2xqcTU1bVhObzVyTUhUNEh5WFFweFJqM1BfR3YxcFV5NnlHZ29JV1dfdG1OMVhyY0lKWEZqRTRmZF9LVWJVYldLbWU3M3AtLTBMQ2VvRkJZUlMwdlJGTllFc0NINVphVFVyUGJPbllwYWZ3UEdveVhwc004ZlA1U001ajY4VHQwbzlKcEhrU0JyRkpNb2FIa1B3T3dyTHpVOVZzU1c4REVtZnQzSFU0UGVDVEFQNW1EMWhuZVMzRW5UT1ZfYnhQY0VnSUlv?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
+     "testate": [
+      "ANSA",
+      "Gaiaitalia.com Notizie",
+      "Il Fatto Quotidiano",
+      "Il Giornale d'Italia",
+      "Il Riformista",
+      "La Sicilia",
+      "La Verità",
+      "StrettoWeb"
+     ],
+     "n_testate": 8,
+     "articoli": [
+      {
+       "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
+       "fonte": "ANSA",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3BDSG1tMG95aVcyYU5GTzJXV2V5XzVQSURsQWRRZXl1bXJCdjFjc2JrVTlSd0tGellXRjE1cDdXR0M0M3ppMTNXb3UtRjJzbzBDdEE1c2ViTEFZamhvWFNTSldYYVpaWUNzWnc3SDN1WlZMQnNEaUpUckcweEJhNlgzdHV0YVFXcmxBX1NFblJlNnZTaGZPTktWTXdxdUhPY240Nm9FYlVUNVJkT2pjdnpKRERwRWE2UHZpb1k3LXpUbU13OHZiMExrMm82NWRLZTRQM2t4MlBkZWtuLVBIS0pYM1RhdmY5UGFhVlJvcm8yX0RaVmo2UlpIdlNVd9IBgwJBVV95cUxOeUkwWVk4V09GNVZsbXhPaGNCdmo1bUJzc01ZWWZ3eFpsaWNYdWV1TTk5RDhrZ05JQjVHUFFmV2xqcTU1bVhObzVyTUhUNEh5WFFweFJqM1BfR3YxcFV5NnlHZ29JV1dfdG1OMVhyY0lKWEZqRTRmZF9LVWJVYldLbWU3M3AtLTBMQ2VvRkJZUlMwdlJGTllFc0NINVphVFVyUGJPbllwYWZ3UEdveVhwc004ZlA1U001ajY4VHQwbzlKcEhrU0JyRkpNb2FIa1B3T3dyTHpVOVZzU1c4REVtZnQzSFU0UGVDVEFQNW1EMWhuZVMzRW5UT1ZfYnhQY0VnSUlv?oc=5"
+      },
+      {
+       "titolo": "Conte avvisa Schlein: “Voglio garanzie su Renzi o il M5S non ci starà”",
+       "fonte": "Il Fatto Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTW1WZXpmcnlCaWtMMkNBV2FPaFZfWHp3NlJkdTJnUG43aU56bnRidXZFQTV0LUJ0bTFLTDZ1UmsxbUhFZVFPNkxNY1VSX2FlZktpcmhxU1RRWk53d1UtRG5LaHFybmpOd01RMVc4VUN5d0tBTUxCRzRJTml5aGQ4SWhqVzVRT1lfelZubnhSaHlSOEs5QVpGNU1BdzdSX3c3d0x6LWNVbTlvcUdFVFVTQzdlOHFjaFJJUVFqZG10dEpHX040MUpneTFZTWF3bUVBVHhlbmdsYw?oc=5"
+      },
+      {
+       "titolo": "Conte a Schlein, su Renzi no veti personali, ma senza garanzie non ci stiamo",
+       "fonte": "ANSA",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOHYwazdGZWtCWlI4Q2hUX2k4RDAxa0lOQUNlUnZmaWFDOEg2akpXVUMyT0J4Y0xzZUJwelV6NHcxYnBOd2lKUkt4Z3c2OUpJQmN1NVRaQ1htRVlhbGZLNjV5TnlJT1E0bEl2alhteERydDduYWt0bUZwNmV1TnRLdUtHaWxfMXVEUW5EWEdPdlVwS0doaXNNRElHSHNqdkJrSVJLbWVOWGlBQzJ6RWxyWVNiNHF5OWs4NlJHR1hqdUx4cWdCN21sT05YZE9FVk5CVVRQQ0xnOURXMkNjN2FPckhtZ1E0MDdfclNkb0JEeWhqQmtuRTFOYlFzMWk?oc=5"
+      },
+      {
+       "titolo": "Il campo largo si è ristretto, contano Schlein, Conte, Avs: irritazione dei cespugli centristi, Renzi avverte che non finirà per essere irrilevante",
+       "fonte": "Il Riformista",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWJ2S2ZOdHpuaXVqLXQ1NkFzSU41a1NLMW5RekZZMEtrY2ZfX0hjaFpDQTAzLVdsRFotSS04eDVsa1FzVTdZMlZONUwyWE9wRVFJVFVzVTBrQ1RnaHhVdXAwRG5mTlVSY0p0VHBwVlROZ3VSQ2ltSGR1dUtnWTdlX0hkZ2xCQy1JV194Rk1OY1VUYzI0TTBKM1lVdmt2VXFPQjRJMWVGWmdHdlBLaS1YTVJSVXRfaXlXSDQwMmVUemo0UjFuWTNaMlhhOUtiVzhBMkJxUDR3ZEhPcElFRjhqOGJtNUU1VE9LWHB2Y2tHdw?oc=5"
+      },
+      {
+       "titolo": "Campo largo, Conte avverte Schlein: “Renzi nel governo? Servono garanzie politiche, altrimenti il M5S non ci sta”",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRlV6VDdBbjNlQ1c3bXl5SkgzZGtTUlBYQ1FMQWFwYUFaT2VKNUtCaUpWNFcySFUxeDRfYk5kaXA5aTMxTFpHYlhtdlRNZmhmY18yQXgzUEZiQkJsQmlVOHdIYjdBM1hBRlYtcXBIeFZ0cFgzWjJFTUw3VjBUWTFGT2Q4Y3FyekZUOEdPelEwN1R3UVBFZllUZm1TNVBCemNCcE4xbkp4XzI4Nl9IX256Q2tKSW50QUlVb1BvTUR6dVZfYTFrdWNPLUpoeFF4b0d2dkJTcFZBZ0s2UF9JYmVBUDdfOFI3UdIB6wFBVV95cUxOSlIxUWxyaWtpRVFmMUh6dXRGa2Fvb0FEMFU3NDhEdFhWTFJxOWM3S2k3SDlfWHgyZjhvMEk1QlJ6Rkw3X2gxYlhTMzJidFNmN3FFZk9XRng5THJYVWlzNUZYRDNfSnFHSG5sVDJwekFoV3IxVXBEMzR3cUVtNTN0aEI5c2xRS2dIVDd4UmZiME1FT0JZeGtjSW43Rzl1TFF0eTRfSGFHeTNhOS0ycldqZ2xBNjRhc2d2ZGRpV2FBVWMxc0FONXRxWjdTUzV4U3RyYlE1TkZ1anNreDhFYmNfcDluSjBpV2IxUGI4?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte a Elly Schlein: Conte a Schlein: “Garanzie su Renzi o M5S non ci sta”",
+       "fonte": "Gaiaitalia.com Notizie",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWFhQjAyWVFncWVXQi1XN0RMMlBuTGg5MHIxQ3pLanlTcGo5VXpjN3gyMkwzcXJpeUFfaDBmX1k1UUEzbVc2Nk9ZZVhWMEZZWFVuVVdldDRlTXUxUm51Q25LQThpeHZiLVF5dGcxZFZWMUVIbHZVMFc1cTFRc2dNRHE2eFpQOHZFaTVTMXQ5aE9HZTNk?oc=5"
+      },
+      {
+       "titolo": "Campo largo, intesa ancora lontana: Schlein valuta primarie a doppio turno e apre ai piccoli partiti, Conte frena su Renzi",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVEpjOE1hVXEyYzVFMjFFX2FiUDFWUjVoa0NYejVQWVE0WG1GMmZMRnU0U1JSclU4NWZUUkNrSDlRcVY0NEx4bEk4VDMxa09VRndyanJnejZSSFFfTXRvU1VDZjhNZklkR2hoVjUwVElVdThIczRsWjRaTXdrMXgtNG00WEV5WDRqMkJ3VWVWRFVYRHpfU0F3NGllTmlMNWxVOFA0SE9HcVNNLXZ1UDc1N3RCSmwyV1IySHdYcFItR1FiZ3d4SlFVX1BkNENtczBOZHN3WFFUMjJHY25wRkRIV29LNkdIOGZTTFBYQmFQSXFzMzhpNmc5Tk9sR24zZDRPZDVCLS1ab0luZw?oc=5"
+      },
+      {
+       "titolo": "Conte in tackle: «Renzi è un problema per l’Italia»",
+       "fonte": "La Verità",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnBlV2RNSkhleUNVSzA2NHdYOTZCS0QzN19JSFBha1Zrc011em9QbnVta1V5STJFWUJMQ2xJUENxVU1TQ0JWZFMwcHZVWW0zdVF2VWlPNU85cWRKc0VhbTFMNXFhSEItelpIV3hEa3ltSDFWZ2x5aHB2OC14OEdJV19Bb1ktTm12dTJZSm1zSXpOUEo1M0tRZUJn?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzBaQnVfT0ROWE03THVvajc3WndDT244Q3NNRjktWEtKbm96VzJBaFpUTkdUcVQyamprZWYteHJpVzQxVF9zVEVZSFh5aURBYlZPR1ZRVjZmamMtdF9paFFHNVV0MjYzcTJxN1pwdldPcEVlWWhTT3V1WUlfX082T0RXVU14by1Wdy16RW96MFAzTmpKWEV5b1dEbEMxUEtSNXZPQjhDVXBmRXJ0Z1FTWlVDWGtnM1dDcnNmMVVpLUl4S0k?oc=5",
      "data": "2026-10-31",
      "titolo": "Renzi fuori dalla foto, i socialisti fuori dalla storia",
@@ -53047,29 +53224,6 @@
      "confronti": []
     },
     {
-     "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3BDSG1tMG95aVcyYU5GTzJXV2V5XzVQSURsQWRRZXl1bXJCdjFjc2JrVTlSd0tGellXRjE1cDdXR0M0M3ppMTNXb3UtRjJzbzBDdEE1c2ViTEFZamhvWFNTSldYYVpaWUNzWnc3SDN1WlZMQnNEaUpUckcweEJhNlgzdHV0YVFXcmxBX1NFblJlNnZTaGZPTktWTXdxdUhPY240Nm9FYlVUNVJkT2pjdnpKRERwRWE2UHZpb1k3LXpUbU13OHZiMExrMm82NWRLZTRQM2t4MlBkZWtuLVBIS0pYM1RhdmY5UGFhVlJvcm8yX0RaVmo2UlpIdlNVd9IBgwJBVV95cUxOeUkwWVk4V09GNVZsbXhPaGNCdmo1bUJzc01ZWWZ3eFpsaWNYdWV1TTk5RDhrZ05JQjVHUFFmV2xqcTU1bVhObzVyTUhUNEh5WFFweFJqM1BfR3YxcFV5NnlHZ29JV1dfdG1OMVhyY0lKWEZqRTRmZF9LVWJVYldLbWU3M3AtLTBMQ2VvRkJZUlMwdlJGTllFc0NINVphVFVyUGJPbllwYWZ3UEdveVhwc004ZlA1U001ajY4VHQwbzlKcEhrU0JyRkpNb2FIa1B3T3dyTHpVOVZzU1c4REVtZnQzSFU0UGVDVEFQNW1EMWhuZVMzRW5UT1ZfYnhQY0VnSUlv?oc=5",
-     "data": "2026-10-31",
-     "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
-     "testate": [
-      "ANSA"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
-       "fonte": "ANSA",
-       "data": "2026-10-31",
-       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3BDSG1tMG95aVcyYU5GTzJXV2V5XzVQSURsQWRRZXl1bXJCdjFjc2JrVTlSd0tGellXRjE1cDdXR0M0M3ppMTNXb3UtRjJzbzBDdEE1c2ViTEFZamhvWFNTSldYYVpaWUNzWnc3SDN1WlZMQnNEaUpUckcweEJhNlgzdHV0YVFXcmxBX1NFblJlNnZTaGZPTktWTXdxdUhPY240Nm9FYlVUNVJkT2pjdnpKRERwRWE2UHZpb1k3LXpUbU13OHZiMExrMm82NWRLZTRQM2t4MlBkZWtuLVBIS0pYM1RhdmY5UGFhVlJvcm8yX0RaVmo2UlpIdlNVd9IBgwJBVV95cUxOeUkwWVk4V09GNVZsbXhPaGNCdmo1bUJzc01ZWWZ3eFpsaWNYdWV1TTk5RDhrZ05JQjVHUFFmV2xqcTU1bVhObzVyTUhUNEh5WFFweFJqM1BfR3YxcFV5NnlHZ29JV1dfdG1OMVhyY0lKWEZqRTRmZF9LVWJVYldLbWU3M3AtLTBMQ2VvRkJZUlMwdlJGTllFc0NINVphVFVyUGJPbllwYWZ3UEdveVhwc004ZlA1U001ajY4VHQwbzlKcEhrU0JyRkpNb2FIa1B3T3dyTHpVOVZzU1c4REVtZnQzSFU0UGVDVEFQNW1EMWhuZVMzRW5UT1ZfYnhQY0VnSUlv?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJkTWxYYmhsd3o5dFNZZl9UX19nMHBNUlhrYWhMSWVmaFRaMlhuN2tldVhaMHB0dnE2LXNZMjFYV09fYWJvdEc3cnMwazdkOFRvS0RWemwxQ3NvYjBtdzctWHdyRzgycFpqLTNEWjI0eHphTlhPa3lzNHdPS1pKMEFiRC1KN3MzVWxFSmQ0WWtTblVPR0E?oc=5",
      "data": "2026-10-31",
      "titolo": "Renzi fuori dal Campo largo, Bartolo in campo in Sicilia: il rebus che tiene sulle spine il Centrosinistra",
@@ -53196,9 +53350,10 @@
       "La Voce di Venezia",
       "QuiFinanza",
       "Virgilio",
-      "Zazoom Social News"
+      "Zazoom Social News",
+      "il Giornale"
      ],
-     "n_testate": 6,
+     "n_testate": 7,
      "articoli": [
       {
        "titolo": "Conte | Con Renzi in coalizione non manderemo a casa Meloni La premier | Vannacci vuole farci perdere",
@@ -54964,7 +55119,7 @@
     "storie": 62,
     "polemiche": 9,
     "polemiche_social": 0,
-    "virali": 16,
+    "virali": 17,
     "citazioni": 20,
     "giorni": 45
    }
@@ -56512,6 +56667,31 @@
    "nome": "Matteo Renzi"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOYTZpU0ZfNXM1eW1uMzlKRk1WQzNZR0tQdVVoZ1E5VXlPLXBDUGtHWW5STzdkanhiWEg4Z3Z3MHFSZkQtNERsbEcyY2lwbHhveHo5NUo1bVZHcDVvMGFuTmZFV3hJQWVNYlJxQ2prQjE5TEdPSUxmUFBjaUwtREhDclVrWmJ0R3VkR1NCVTUxR1N6Njd3WV9HblM2T25Da3cwWkliV1oyX1VRd2hVNWRTRUg2S05xeGtkZndNbk9RR05LcDFJazMwZ2ZxbmNSQzBvbF9JTUphQmZEU0l4d1l5YzRPUDNEM3pLNTFYeVUyVjlMMy1xRy0tNjk1WXQzZlgtdVNhb1hrNlFPWUxWc3NEV1dheG9kcEl6MFB5NjlsNkQxdlByZFNuYjNOOGNtUzhYSkVTUmIwdEJsSHFWTmRxTDV3S3U5eHVhcGdpc0o5aWEtU1kzVFNvaHlSSlpVQjVJTTQ2YmdRUQ?oc=5",
+   "data": "2026-10-31",
+   "titolo": "\"Se un comico di sinistra fa una battuta anche volgare, pesante su Giorgia Meloni, tutti ridono e la cosa finisce lì. Se un comico la pensa diversamente e fa battute su leader di sinistra arrivano insulti e querele\": parla Andrea Pucci",
+   "testate": [
+    "Il Fatto Quotidiano"
+   ],
+   "n_testate": 1,
+   "articoli": [
+    {
+     "titolo": "\"Se un comico di sinistra fa una battuta anche volgare, pesante su Giorgia Meloni, tutti ridono e la cosa finisce lì. Se un comico la pensa diversamente e fa battute su leader di sinistra arrivano insulti e querele\": parla Andrea Pucci",
+     "fonte": "Il Fatto Quotidiano",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOYTZpU0ZfNXM1eW1uMzlKRk1WQzNZR0tQdVVoZ1E5VXlPLXBDUGtHWW5STzdkanhiWEg4Z3Z3MHFSZkQtNERsbEcyY2lwbHhveHo5NUo1bVZHcDVvMGFuTmZFV3hJQWVNYlJxQ2prQjE5TEdPSUxmUFBjaUwtREhDclVrWmJ0R3VkR1NCVTUxR1N6Njd3WV9HblM2T25Da3cwWkliV1oyX1VRd2hVNWRTRUg2S05xeGtkZndNbk9RR05LcDFJazMwZ2ZxbmNSQzBvbF9JTUphQmZEU0l4d1l5YzRPUDNEM3pLNTFYeVUyVjlMMy1xRy0tNjk1WXQzZlgtdVNhb1hrNlFPWUxWc3NEV1dheG9kcEl6MFB5NjlsNkQxdlByZFNuYjNOOGNtUzhYSkVTUmIwdEJsSHFWTmRxTDV3S3U5eHVhcGdpc0o5aWEtU1kzVFNvaHlSSlpVQjVJTTQ2YmdRUQ?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": false,
+   "citazioni": [],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdGR5TWx2d19XVlkwb3ZvVHo3aVpJaVFyNW9MbGhySUFyWE1YZnUxeFVUdjJZa09JQk96Q2RkMHN0RlUzN0Mybjc4VnVmXzloS2s5UGFYR3l6XzJrTW5zUUpoQTJ2cmlWRUdpd2NzYTh5Zl9GbEpnY1UwOVFMaFk5UVZ4TnlldUFnSzctQi1DeTRPb2lyUFZaQjVEazluVnVMWl96RE5pVFhNbVlZTHpyTkhFZUVZbzhjVWJ6dWppYXlKRjJMMWRjbmhXd1FLU3dMbl9YRzlPZkt3XzUwOC01Wk5B?oc=5",
    "data": "2026-10-31",
    "titolo": "Salvini: Siher scarcerato nonostante accuse gravissime, chi pagherà se ci saranno altre violenze?",
@@ -56585,6 +56765,83 @@
    "confronti": [],
    "slug": "matteo-renzi",
    "nome": "Matteo Renzi"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORFhpV09nRFlsbWJWSHd5ZzdhOGhwVnNNdTlFNk8yVTY4cmE4QnU5NkVySm9UZ0w5QkVMUVpwd21JU2hNeFd6ZmVrcXNiRWpFVTRWWm9SQjk2X0NzVXBqVG1OUVRJbS1kYVpYWnBwMGpkekR5cXN6MTRNd0NTOUR1XzJQR0VQbGktWFVwT0JCeGFwakpFNmZ0Wll3b2lVLVdXbDBaMXNfZncxNmw2N2d5NzF3OUluYTNlU090bWJxT2ZIS0wyTzZSWXBDSjZTbTZzcnhIMVdsTmpqUzhmMFNVOXVfYlk4bVdQV3NF?oc=5",
+   "data": "2026-10-30",
+   "titolo": "Il Ministro Crosetto in Bosnia-Erzegovina per rendere omaggio ai Caduti e portare vicinanza ai militari feriti",
+   "testate": [
+    "AGI",
+    "Corriere della Sera",
+    "Corriere di Viterbo",
+    "Il Sole 24 ORE",
+    "Ministero della Difesa",
+    "Quotidiano Nazionale",
+    "il Giornale",
+    "la Repubblica"
+   ],
+   "n_testate": 8,
+   "articoli": [
+    {
+     "titolo": "Il Ministro Crosetto in Bosnia-Erzegovina per rendere omaggio ai Caduti e portare vicinanza ai militari feriti",
+     "fonte": "Ministero della Difesa",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORFhpV09nRFlsbWJWSHd5ZzdhOGhwVnNNdTlFNk8yVTY4cmE4QnU5NkVySm9UZ0w5QkVMUVpwd21JU2hNeFd6ZmVrcXNiRWpFVTRWWm9SQjk2X0NzVXBqVG1OUVRJbS1kYVpYWnBwMGpkekR5cXN6MTRNd0NTOUR1XzJQR0VQbGktWFVwT0JCeGFwakpFNmZ0Wll3b2lVLVdXbDBaMXNfZncxNmw2N2d5NzF3OUluYTNlU090bWJxT2ZIS0wyTzZSWXBDSjZTbTZzcnhIMVdsTmpqUzhmMFNVOXVfYlk4bVdQV3NF?oc=5"
+    },
+    {
+     "titolo": "Incidente in Bosnia-Erzegovina: il Ministro Crosetto e il Presidente Meloni al Villaggio Difesa per rendere omaggio ai Caduti",
+     "fonte": "Ministero della Difesa",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbERZLXI3Z1gxbTZYYzhQUk45RDlQVVpnbnczNW8xSUo4X3psMkYxVktmOTNCWkxZenI0amVMczZ6Ml91MzJBRWM1VDROOEkyTGRfZlg3N0w5V3hOZmtVbHVtajAwUG1yZ1Q2QVBHb0M2a2NHaFN2U2dPSzZfd1dHMWFlSzkyM0hEZFAwREdIQ084d3lGZ0xvN2tDczlDS2pwRi1TUzdISkN3cFNVQXdsV3YyYVpTQVE2Y2pKNDBwTC1qNjZ4M3hGRzZJTjRVbFpoZ3dwam5FVVRmYzNfYjlBQ1M2R01td00temlVdnYyZGhWYmlTd19EMThKRlRzQQ?oc=5"
+    },
+    {
+     "titolo": "Crosetto: “In Bosnia per rendere omaggio alle vittime, sento il peso di questa tragedia”",
+     "fonte": "la Repubblica",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ01vSkpKcU93U2pDWGNoZWZGS0lUMlhhOHFhRUdfV0hHb0MtXzM2WDNVd0FSMGpnY00xX2lRaE1hSnBYbnFOdFV3dy14anZkT3EyMWZ2dzJlV3BnVFZSdmE4bHpEcjFIRVc5TWtNbUIta2VsYTRzcm4weEdnaXo4cUhjTTZLRDM1RnhKeW9NNUx1alkzY2ZQdEJHbVF2Q3hCeWE2MUpqb2p1RWlwRWtwaDBWZlRuQdIBuwFBVV95cUxNeFU1X2RpSFE3djJ2cm1XNXpBQlF6Q2cyNGFidUxVWTU5VVlOd3didGhnNzh5YWU1SzRILTA5OHNOUjVvWVN2NFRWNkJYREpuYURKODdHb0tGaE03b3VSdzd6S1JEamktR2E0SlZiUGZDS0s5bVRRTDNwSjJqay1sUTBHRFZCclhoZHlpZ2lZSDctTlhoM0tPU1E0MHlxcDhXOE02MksyQVhzUVByR0RPdW02MzZ2OWRHX0s0?oc=5"
+    },
+    {
+     "titolo": "Meloni e Crosetto al Villaggio della Difesa per rendere omaggio ai militari caduti in Bosnia",
+     "fonte": "Quotidiano Nazionale",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZDVhMUtBNUF2S2pJa1NtWVQ5LU1MVzQ4VWk4UFYybG9tVG8ydFhMbWc3aFl6ZXVzRlF5c0Z3NUY2UEpTUWRUVWdjTzJVT2RTa1E2bzQweGhiaTk5MEs4dEl0N2gzNjJCS0hfQk5jRi1GckM3bDRZNXJXenN2RllEOU1qT2haWUV0MDhmTDVCNWcwVmlmMWxLOTJ5LVhOUnIzUEZaN1JWUEdMVFZQUUFuOE5TSFZCTW1MeVgwb2dIb01BNkVfWVo3Q01KR3lGSHhHZ1BxeHM3NnBQaFE?oc=5"
+    },
+    {
+     "titolo": "Meloni e Crosetto al Villaggio della Difesa per rendere omaggio ai militari caduti in Bosnia",
+     "fonte": "AGI",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVXh4SFVxRDdHdmhZMkNVbUpqaV9WcUhod0dTMi1GWUF0UTJoTkpXUHFLT0JLUWNiRFBEeklQUmlDNWtxTHVzcUluam9fVzRFMEpZanowUHU4Vy0ycVBkX3ppUy1URXdjQjhadnotUXc2WWJTTXRyOHNUQUlqZmc3Qjh0bzV2OWVKR2FhTVU2MUxXMTBYMGF6bmlVd2lvbDA2T2JORHBuYnhYQXVoYXJGQ0V1NTNGWFFjNUlqWWx2dG1PY0R2cmIxTkhzdkUzUEtXTVA4ZEFCZWhjQ25lWDJiOXJnQmdiQdIB5gFBVV95cUxOVXh4SFVxRDdHdmhZMkNVbUpqaV9WcUhod0dTMi1GWUF0UTJoTkpXUHFLT0JLUWNiRFBEeklQUmlDNWtxTHVzcUluam9fVzRFMEpZanowUHU4Vy0ycVBkX3ppUy1URXdjQjhadnotUXc2WWJTTXRyOHNUQUlqZmc3Qjh0bzV2OWVKR2FhTVU2MUxXMTBYMGF6bmlVd2lvbDA2T2JORHBuYnhYQXVoYXJGQ0V1NTNGWFFjNUlqWWx2dG1PY0R2cmIxTkhzdkUzUEtXTVA4ZEFCZWhjQ25lWDJiOXJnQmdiQQ?oc=5"
+    },
+    {
+     "titolo": "Bosnia: Meloni e Crosetto depongono fascio rose in omaggio 4 militari morti a Villaggio Difesa",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTXIxQmZmUzhaTnJUUk94MlFjaF9neDV6QVg3UWU5R1RmYmIxeTJGVVpyd0o4ZjhNcmJONG5uTmZhYVZUM2dlS0t3Mmg3SW4tNWtadEV0TnQ1Q1FrNTZmSnVYYkFBRTBDT18zRzc0c1hvdTBrQW9ta3lMM2lndmk3VWZ6bmpCYTJoVnh4dzNhMXRLeHhvaHhzSzk0TkRHd1JaNG8tRVZXaTRVbmNRYzQ2VGlsTGFmNEV0cm1xa3VvTWtxQ0w4NllwSGF5YXhOeklYQk9mMncwMkNDLXM?oc=5"
+    },
+    {
+     "titolo": "Meloni e Crosetto rendono omaggio ai 4 militari morti in Bosnia",
+     "fonte": "AGI",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3NYcEstbXhoR0gwU04yVWRhZ1g2NDlPM05FVXAzSXY4NUJGc0FQMUkycUNwVmNiaFh0NEF2VEI2NXN6a3pRV2FVYjNUbFk1dy1WdzdUblZlZHdhNmt4YkUxLVZTdmdodC1tc0FvV3U4WmpNbjdaZXh5ZVB6SGNpQnRWTVVnZndfTGNNUWYtQdIBjwFBVV95cUxQa3NYcEstbXhoR0gwU04yVWRhZ1g2NDlPM05FVXAzSXY4NUJGc0FQMUkycUNwVmNiaFh0NEF2VEI2NXN6a3pRV2FVYjNUbFk1dy1WdzdUblZlZHdhNmt4YkUxLVZTdmdodC1tc0FvV3U4WmpNbjdaZXh5ZVB6SGNpQnRWTVVnZndfTGNNUWYtQQ?oc=5"
+    },
+    {
+     "titolo": "Meloni e Crosetto depongono un mazzo di rose in omaggio ai 4 militari morti in Bosnia",
+     "fonte": "Corriere della Sera",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0JGVy1OakVGTWlvUnVPRUFYTUtOd3FLRkltZGNsc0ZibkttZ2k5bm01WVNnQkstaVJ4Q284a0NMbnZCZ0hqU25xS0t6eUJDTDVyalo4VjYzLVp3SEFOckdYRWlGdzl1ejZWSE5BY1B2MGpSRXlBa3VIeUZEZVl6LXlBdkNZOFpNUHpkN2hmT0FhYXAzY0dTRWhEVWpLbFFpZXhvelJCMV8wdEZ4TXg4bkgzQnBkbFkyaVlpQW1qTHlvQ21zNjRGcmlWakd3R3NGVENOajE0MXpMRWUtRlNUN1hnQW5odjlPbDFKb1FR?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": true,
+   "citazioni": [
+    "In Bosnia per rendere omaggio alle vittime, sento il peso di questa tragedia",
+    "Esempio indegno di politica"
+   ],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "guido-crosetto",
+   "nome": "Guido Crosetto"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0FLem5YY3Y4UXRzcF9zUUZpRHNWcmNJNGJyOUVFY1hFVXRSQ2NFdkttVFFnSTM1dmY2ZmZ3WVZNeWpRZEVPR2ZvTk0wb1k4T0ZFUE5zUDRjTUx4aEI2cTNGdUYweTJqc2xlYTByMkFid1pVRy1QRnIwOUVuNnhYamV6ajNfdDF5VVpTZlBMc0tDZjBmMEh5dVhwb1h3NmlZT2tnSDBCQndFR0N2cnNQX3hzaWd0empxQnByT0l1Ui0tUQ?oc=5",
@@ -59942,160 +60199,6 @@
    "confronti": [],
    "slug": "giorgia-meloni",
    "nome": "Giorgia Meloni"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVnMXd6ZHB6U2JEb1puWXM2WEFlYzR2UFo1OTAyVGI3MWg4STVQMUlncXp4ZUtzenRnRG5ENlZIQmFLRFctRHo2dlpiX1FMWWRVa041T1lrSmRVVVoyOFNmRFhDY05RajJfLUFXTlJPRGtaWlcyUl9hSHdEWDc0SW5aTXo3bS1QRGJxYnVaT3U1cklKYW5pWnZrcGI?oc=5",
-   "data": "2026-10-26",
-   "titolo": "Meloni-Salvini e il nodo Ucraina, cosa è successo davvero",
-   "testate": [
-    "Avvenire",
-    "Corriere della Calabria",
-    "Fanpage",
-    "Giornale di Brescia",
-    "Il Fatto Quotidiano",
-    "La Stampa",
-    "RaiNews",
-    "Virgilio",
-    "la Repubblica"
-   ],
-   "n_testate": 9,
-   "articoli": [
-    {
-     "titolo": "Meloni-Salvini e il nodo Ucraina, cosa è successo davvero",
-     "fonte": "Avvenire",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGVnMXd6ZHB6U2JEb1puWXM2WEFlYzR2UFo1OTAyVGI3MWg4STVQMUlncXp4ZUtzenRnRG5ENlZIQmFLRFctRHo2dlpiX1FMWWRVa041T1lrSmRVVVoyOFNmRFhDY05RajJfLUFXTlJPRGtaWlcyUl9hSHdEWDc0SW5aTXo3bS1QRGJxYnVaT3U1cklKYW5pWnZrcGI?oc=5"
-    },
-    {
-     "titolo": "Meloni a Salvini: “Non complicarmi le cose sull'Ucraina”. E lui frena",
-     "fonte": "La Stampa",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUm5JOF9ERVFOemhmblM2ZGtvc2VXbXcyZnhLLWFMMGktSkVYYm5yc0hIaWhVaGczaUFjendQMmZtc0NNUTQwMnNaV2JOalNpMzlBNFMweUpxVG9naGJvU1hmZ0RPUVJsMGRCeVBaUkdRYWZmXzVRQzNNcEpRVmloQm5lODQxV2gxaFhNQ3FiQk0tQy1PZU9ORjlUakpXa2VPZmNoLU5oZErSAa4BQVVfeXFMUHhhNHpDaWZlSW5vMzdzZHk5QnNkdGJwc0p6cXB5XzQ0WUxNZ0VOcXNmc1VxeURHZlNMc1hzOHpTZXZleHZ4R3NlY1BlWnoxWHNEV2YxZGlEajVDUnFkUkdKNzdJR3ZlbnU0NHAwUDJqdGM5TkhOUkxIVm9BSllmS1BYdUhsRThkUVNnWWpRSTRDTGl3bjJXMDlYc0d5bVA3dG81UjJNOE1FSjBWM0xR?oc=5"
-    },
-    {
-     "titolo": "Ucraina, Meloni chiama Salvini: “Così mi metti in difficoltà”. Le mosse per urne a giugno",
-     "fonte": "la Repubblica",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTlxaXBfSXRIa29kUEswMDhpY3pLbWZUbE5JUTAwTnc3cFByb04wLWVyUmF3NWZPbmRwOEJ1RFNEVjRuOE5MNC1DWFdrTVpRS1pDT0pobTgxeF9kX2pycVg4U01NUWc5WFBxbE9GMENzU05aT20xak53RnhZVk1pOU43X0xGaEtIWEdWdFVRYTFuOGxsbXVlRTlEX0FkdTUteVR0OThZMEJBRFZQdEU0MmhB0gG3AUFVX3lxTFBkT3JSQm1vNXA0QTZiekwzajBPRV9OeFdENkJITVdLLW96QTB3UHhhY00yc0l6ZFhhYnpudmIxeTRwQnpYSkFNWTEtQ0RTUlF3TFZ4WjhsS1lOX1NRdDY0bHFsVmxvS1NIRmwwOXdXWnFpS3p0Rm1XSnJObEpHYmlVT3VyeHg2eldUTVVnSzBQcUF0b2U0Y3BwWEc2cVZjN18xTUFwWG9zSWIzWl9kc0NjRTBXeElMdw?oc=5"
-    },
-    {
-     "titolo": "Meloni si congratula con Salvini: «Avanti insieme»",
-     "fonte": "Corriere della Calabria",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTF84N3VmVXlGUTM3RVdZRkZwR1NWZ2JTcngwZ3Z4WjZRX1J4SmRnX3Q1SGk4YUwtZXkwLWpDOEZuYlQtMlJYcG5sRnZ1NHY4MU4xdmxhY0RaQUZSOGhEVnRFNjBjSWxGRDNCMGRwZFdGWUlmdTZFUDJVVHE2X0RmNmJTdzRJU2hlUWtJSXdUc04wU0dVVTd5WDlnbnM?oc=5"
-    },
-    {
-     "titolo": "Ucraina e autonomia, parte il doppio negoziato tra Meloni e Salvini",
-     "fonte": "RaiNews",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWxQcGRVcm56eE1qTWpxcDNYcEY0V3d4cmtPT0ZXb2RBUkxjRFZSOUlqalJNZjU0Ny1XXzM1N0pxem5tMHZ0aXhSbzY2dzIxSXJfdWRuOWtPa1dNX1J5dERfbjJPMVBHUHF6LXM4cUpHWGtTR2x4b0JJMC1EZ2Nva3NfdVZ1cEpaSmNVeWVlelpjY2ZNSnhKN2VnYVVaRFVrODN6WWZHM21WTmFvYkFxbmdLM3k1OW9UQ1FvUExYOEVubWNlZVpWc2VmYzFRc21SRFNvMklBQlB5ckdreFNTUUVn0gHnAUFVX3lxTE5oWTJ2bWh0Rk5CZXZ4NnNJTjk2MzBJc3B5T0dNVFNEMFJHWjNkUGx3Y1lUYjNHZmJzNjdhNXItak41TDNLeVEwdmF2dkptWWNLYWZXaEFYb0FHbXgtMldCajJmcFRTaGRnY0RMVkI3b1FILTZrNkR4U3BqNWEyUzFPeWJXMjh4TFdBLS1yNlVEam5zcmM1TDFFODgyOHFqSFU1eE9EbGlEbUkzbHVsZV9ETXhLYWUxMWNSTE94Sy0wa09BYlJETlJmc2lCdDE1LVAzQlctMnE5SVVXcjF4MVdqTnpneEF4NA?oc=5"
-    },
-    {
-     "titolo": "Tajani contro Salvini sull'invio di armi in Ucraina, il Governo Meloni si spacca su Kiev: \"No alle polemiche\"",
-     "fonte": "Virgilio",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWDdrWjVhQkJtZ3RGNHNGQk5VRmk5b3MwU0Vzd0piZWNZVW9uLXMwQXVDcE9TQkdqdXFuOWFNdzdTTXphem0wQjRmVTNyN04tWDJVdE1GeV9pMGZyOEZ6UGlCSVdMcnZLVlZMQU1tUlJIM0pvMXlhNXc5dVByVS1HenlfUGJwWm9WZVROeTY1S3kybjFvMmZyZnhQQmVUNml6WmR1aUtXeGJGZ0xUM3RMUkZSMmNSVnNrMDZYLTRZVmlPU2dFeElON2VWODV5UXNGTEdwMjFTdVotdHlSSXfSAeMBQVVfeXFMTTE2TmFXb0RyQW5raTJETGdBWkwwbmdwcDhPUXA5T0FZUnVKdEg5Q3FYVnl1ZmIteldtMWZXQS1xeUFoUzl5Zm05VTVUWGVPamdoN09TNXAwWDNCWU1GSXNLbmZ2alBvcU5USVVzbEVRN3o2dlhvSmJOaHQ3NEtYWm9LYVBqWVF3NVVjTlozQXdlekdXQV9wM1Y3cHJNcklOcVl2aTlPR1BLaC0ybV9sVXhHNGJfZE54cXF5anhhNDVBMzV6TUw1d21GajRGMTJrR0JLWlRGNGstU2puWUV1VUd2Y2s?oc=5"
-    },
-    {
-     "titolo": "Salvini sfida Meloni sull’Ucraina: l’autonomia come prezzo della tregua",
-     "fonte": "Giornale di Brescia",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVFsa2tnQ19xbFZHLUtHVGZrQWZXZ3QwVEg1eFNpOWdnNUZXenYxMWNaZFpnYi13WGhkQU5ZYXZ6bFY4SEZoXzZNRGNhWkZwMzk5UFJEeE9WR3RMQnBWTmdTNlRFWXo1S0tJdWpNY3FJaHZXRW1uRVZoUFhKSjllb3RsMzNkOFB3MEJ0NzhJeWJKVG1ibC1zU3BuazY2Rmt6b21TMm55OA?oc=5"
-    },
-    {
-     "titolo": "La scommessa di Salvini sull'Ucraina: \"Stop aiuti, anche Meloni dovrà cambiare posizione\". E Vannacci lo sfida",
-     "fonte": "Fanpage",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOU1aR2lkMzh2aW9oSmdJTVFOMGtYc2JxMUpxcUJjN1JuZ2UwNGlWVGtlSlAtWHlxY1RURldLZmwxbEpWMnFEZ2hzcmNnMXVZcjlPQ21wTUpGZWxVTXhRWUN6ZDhYX1dxSTFIYVRfbWF2M3VKMlowakhoQVFoRTBPOEsyckNGNFJUSFpOOTRkVnp4a2RBc0VBRmdyWVpGQzJzYU4xc0dsVWR2aEMybFZjc25TZklKYlFiX0lWVGdndHFTemVnSUVDZ0FkR0F5TFloVTFj?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": true,
-   "citazioni": [
-    "Non complicarmi le cose sull'Ucraina",
-    "Così mi metti in difficoltà",
-    "Avanti insieme"
-   ],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "matteo-salvini",
-   "nome": "Matteo Salvini"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGo2U3YzMjFBRDBlX2R5eE1NWlFna1RLRVlFQm1qVXJ0RGFmZnVyQmw3WWFjMzZKeFVqMjFMUDBSekF6cnFIS010RkJVS1lld2ZXRURaSW92OGt4YWpKZWlkcEduNmFSVi1kc0VYejBMRGZGenBkeWh0SG53U2NkZDJsY3poLTRaZFRjX25pdzlfYzFDQzdmVXJYeXNlUTlMRHFHNmxZVFhhSHNlbHNxd2ZYQjkzUkNjeDZLeDFjczZmWjJhdFBr?oc=5",
-   "data": "2026-10-26",
-   "titolo": "AdnTalks, Bettini: \"\"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"\"",
-   "testate": [
-    "Gazzetta del Sud",
-    "Gazzetta di Reggio",
-    "Lo Spiffero",
-    "OlbiaNotizie.it",
-    "Orticalab",
-    "Quotidiano Nazionale",
-    "Startupbusiness.it",
-    "Touchpoint News",
-    "www.egnews.it"
-   ],
-   "n_testate": 9,
-   "articoli": [
-    {
-     "titolo": "AdnTalks, Bettini: \"\"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"\"",
-     "fonte": "Touchpoint News",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGo2U3YzMjFBRDBlX2R5eE1NWlFna1RLRVlFQm1qVXJ0RGFmZnVyQmw3WWFjMzZKeFVqMjFMUDBSekF6cnFIS010RkJVS1lld2ZXRURaSW92OGt4YWpKZWlkcEduNmFSVi1kc0VYejBMRGZGenBkeWh0SG53U2NkZDJsY3poLTRaZFRjX25pdzlfYzFDQzdmVXJYeXNlUTlMRHFHNmxZVFhhSHNlbHNxd2ZYQjkzUkNjeDZLeDFjczZmWjJhdFBr?oc=5"
-    },
-    {
-     "titolo": "Bettini ad AdnTalks: \"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"",
-     "fonte": "OlbiaNotizie.it",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00NTVjN0tWUHRVZy1hWGVIeXhhV0JWUFQ5RFJ6Q3FiYm1rczJhNnRzWENaZ0dfRVAyY1pLS1VmLXpIMThvWWprd1dVbndUZldPYXhibFZmNNIBV0FVX3lxTE00NTVjN0tWUHRVZy1hWGVIeXhhV0JWUFQ5RFJ6Q3FiYm1rczJhNnRzWENaZ0dfRVAyY1pLS1VmLXpIMThvWWprd1dVbndUZldPYXhibFZmNA?oc=5"
-    },
-    {
-     "titolo": "Elly Schlein ha un problema: Giuseppe Conte",
-     "fonte": "Orticalab",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQem8wLWVSXzBla2Q5cHdpYlQxaXY5MmZ0WlNkYXhWUUhubWZYN3hJcUlfTEgxU2NBVExRRGxtVnhWV3I3RGRYb1JSc2Q5YnJkYmxwem1DT01KRkp0TTAxbk5PVTNiRXFlOWxWS0Vnb0VrNWFhd1Atd01HY3FEUHJOQjFVWXJwZUpJNkUtbmFOdkpfWUhOVTVsWThzSVZCZk9rdWs0MEZZekxDMFpGRUkzR3MydXA4UTJ3eExXSlU2R1E4MkxyTDFkQjdFQUh2amlmOFV0UjZtOUEyU1lScFRCRFpVTHUydw?oc=5"
-    },
-    {
-     "titolo": "AdnTalks, Bettini: \"\"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"\"",
-     "fonte": "www.egnews.it",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZlB5VVA2NG81Q2U2NTc3S0lIMXgxZ2dOLU43MFVDaGFKd2pOenJKb0FCX1p2Rm9MSDhCMFl1WUR0QTM1NGxybHRNVW84alNCNkpoYXNSQjBWU0dIdEJfQk5IdnlDSXpDLWkwSjhDWm81S2VUcDVHNTZqRE5OTlctNV80TGdNUzJIQUJGUEpuM1E5MVh5RjhIOG1hYllJR2JOWTJXM051dklYWUYwbXZwaQ?oc=5"
-    },
-    {
-     "titolo": "AdnTalks, Bettini: \"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlJmNzFheGdMeFFXQTNjZmdFVTIyejVHRTN2ejh3bm5jYjIweDU4UF9GTEpKY3ZxTGJHQW45MGhpdFhPUFZURGxBeF8yZklEVEtEV0U4OUpzSDRyU1B5c2x5elRfbHhHbkRGX2NDQ3RQZTFvSEZPVWhTLU9sMHpxWG5uQVhaOUxUbnAwUzJuLXU1OVF3N1VUM195dDZJU0lUTEFscXU4NjRYc1h1ZXJFMFl6d3dad0RPMXVXTkpObVVRVzZpS2FfUVdXb0ZpaFptQTdtZWhB?oc=5"
-    },
-    {
-     "titolo": "Stasi ai domiciliari, FdI attacca il centrosinistra: «Conte e Schlein cosa hanno da dire?»",
-     "fonte": "Gazzetta del Sud",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQT3ZNdUpXemFOcHhtVDIxblVyOGFvN0NvVy0xeFBCQVRsd1Z0dHF5YjZKTHlxSjlqQ0FnSFlUNFF4eUhrV3RDbTJIRmxxcGhzQVI3TkpRTWxKUGJULU9EVDRVX05WMzQ3R0pwSWhnOTNsRjIzSk1xeWM1d0I2V0JUa201bTd5R09yaVkzYXNVMEJyeVNnUmtFd2xrc2JDSGpxMWJyN2d2bXNEUHdMdkxZVWhLaGs5bjdHN2ZkV3lJbkk2ZWVGbWNSRmRiQ25qSHNMVjBWeV9RRVF0SWc4QUhxRjlDZ05qcVc2TDdxdTd6N0VNdzFXTUZzcmFPdndQYi1QNmlEMHExSHpKS1FSSEdGSWIxQ18?oc=5"
-    },
-    {
-     "titolo": "Schlein ha carte in regola per battere Meloni, Conte profilo da statista",
-     "fonte": "Gazzetta di Reggio",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVk1UTTFYLWxGT2VySE44NFQzYXZfa0V4d3ZjZ09NaldwZWJPa2FaQXU0UmFQWUFEM0ZqczBsb2VsMl9TdGNqUU84bWFzNlBCcW5fbVdQVWlCZFVuVFFLTFVDSmVMLWJzUXR0N0FBSF9DRHA0bUU3YnRFT3ZIWGNxX0wxbHNnWGNVZWYwZzUzZzBYd1ViRmZscVlCLUVBMEY1SmdRa3AwZ3REN244R2tHcVRqT3VzNjQ?oc=5"
-    },
-    {
-     "titolo": "AdnTalks, Bettini: \"\"Schlein ha carte in regola per battere Meloni, Conte profilo da statista\"\"",
-     "fonte": "Startupbusiness.it",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1I1TEtYYjBXUFM1ZTVBQ0xFNHNsYXpLLTE4azItUFEtc01sSDFBaXUxWW0tYUM2RjVnbGstNUJxZGM4VF9JaEEzZTRiZEhueG9hMzNKZmxNa25BU19maUlrbGZYeWlrNzNVbW81UDAxd0l5NU1HMmhFWWhHY1FaaExYY1NaRklEUXh3Z2VfdXBWNW1ZR0tPVWtmeE5SeWE5U3Q0SGZTUWlQbVo3RjAtajFvdVlBQm1aNTFvcktHX2pEVjllWFE?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": true,
-   "citazioni": [],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "elly-schlein",
-   "nome": "Elly Schlein"
   }
  ]
 }

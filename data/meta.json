@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-01T06:14:30+00:00",
+ "aggiornato_il": "2026-11-01T06:46:00+00:00",
  "finestra": {
   "dal": "2021-11-01",
   "al": "2026-11-01",
@@ -116,110 +116,25 @@
   }
  ],
  "fonti_ok": {
-  "wikidata": "2026-11-01T05:49:50+00:00",
-  "senato": "2026-11-01T06:01:21+00:00",
-  "commons": "2026-11-01T05:51:03+00:00",
-  "ches": "2026-11-01T05:51:03+00:00",
-  "programmi": "2026-11-01T05:51:03+00:00",
-  "camera": "2026-11-01T06:01:29+00:00",
-  "camera_stenografici": "2026-11-01T06:02:59+00:00",
-  "pagella_politica": "2026-11-01T06:03:03+00:00",
-  "governo_interventi": "2026-11-01T06:03:05+00:00",
-  "senato_leggi": "2026-11-01T06:03:26+00:00",
-  "corte_costituzionale": "2026-11-01T06:04:07+00:00",
-  "raccolte_firme": "2026-11-01T06:04:18+00:00",
-  "google_news": "2026-11-01T06:08:12+00:00",
-  "senato_agenda": "2026-11-01T06:08:23+00:00",
-  "governo_cdm_agenda": "2026-11-01T06:08:23+00:00",
-  "google_news_agenda": "2026-11-01T06:14:29+00:00",
-  "feed:governo": "2026-11-01T06:14:30+00:00"
+  "wikidata": "2026-11-01T06:41:44+00:00",
+  "camera": "2026-11-01T06:42:53+00:00",
+  "senato": "2026-11-01T06:42:53+00:00",
+  "commons": "2026-11-01T06:41:47+00:00",
+  "ches": "2026-11-01T06:41:47+00:00",
+  "programmi": "2026-11-01T06:41:48+00:00",
+  "camera_stenografici": "2026-11-01T06:44:52+00:00",
+  "pagella_politica": "2026-11-01T06:44:53+00:00",
+  "governo_interventi": "2026-11-01T06:44:53+00:00",
+  "senato_leggi": "2026-11-01T06:44:53+00:00",
+  "governo_cdm": "2026-11-01T06:44:54+00:00",
+  "corte_costituzionale": "2026-11-01T06:44:54+00:00",
+  "raccolte_firme": "2026-11-01T06:45:08+00:00",
+  "google_news": "2026-11-01T06:45:59+00:00",
+  "senato_agenda": "2026-11-01T06:45:59+00:00",
+  "governo_cdm_agenda": "2026-11-01T06:45:59+00:00",
+  "google_news_agenda": "2026-11-01T06:45:59+00:00",
+  "feed:governo": "2026-11-01T06:46:00+00:00"
  },
- "errori": [
-  {
-   "soggetto": "temi",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "mediana",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "giorgia-meloni",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "matteo-salvini",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "antonio-tajani",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "giancarlo-giorgetti",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "guido-crosetto",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "matteo-piantedosi",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "carlo-nordio",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "adolfo-urso",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "francesco-lollobrigida",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "roberto-calderoli",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "gilberto-pichetto-fratin",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "maurizio-lupi",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "elly-schlein",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "giuseppe-conte",
-   "fonte": "camera",
-   "errore": "https://dati.camera.it/sparql: HTTP 502: <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
-  },
-  {
-   "soggetto": "governo",
-   "fonte": "comunicati_cdm",
-   "errore": "HTTPSConnectionPool(host='www.governo.it', port=443): Read timed out. (read timeout=40)"
-  }
- ],
+ "errori": [],
  "offline": false
 }
