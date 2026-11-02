@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-01",
-  "al": "2026-11-01"
+  "dal": "2021-11-02",
+  "al": "2026-11-02"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -61,10 +61,10 @@
      "mese": "2021-11",
      "camera": "Senato",
      "legislatura": 18,
-     "presenti": 19,
-     "assenti": 20,
+     "presenti": 0,
+     "assenti": 0,
      "missione": 170,
-     "totale": 209
+     "totale": 170
     },
     {
      "mese": "2021-12",
@@ -9419,9 +9419,9 @@
  "indicatori": {
   "Senato": {
    "presenza": {
-    "presenti": 152,
-    "totale": 8963,
-    "percentuale": 1.7
+    "presenti": 133,
+    "totale": 8924,
+    "percentuale": 1.5
    },
    "fedelta_gruppo": {
     "allineati": 19,
@@ -9454,7 +9454,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-01",
+ "aggiornato_il": "2026-11-02",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",
@@ -9471,7 +9471,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 1,7% delle votazioni del periodo (152 su 8.963); 8.780 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 1,5% delle votazioni del periodo (133 su 8.924); 8.780 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

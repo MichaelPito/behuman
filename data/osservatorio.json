@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-01T23:18:13+00:00",
+ "aggiornato_il": "2026-11-02T06:02:02+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -13,6 +13,75 @@
    "schieramento": "governo",
    "storie": [
     {
+     "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVdMMU9UenpJQXpfdmJTanhVR2VtTEZxQlpOQUNBNW1NMWVJeS04dG8xZmlVSTZpcklLal9OdGZjX2U0OGp6OWlPSnNBb0NGMkZHZl9ZNVFKdWJ2ZTQ1Q2hYUDIwdjNoV25ESG1Oc3J0NFdVQTNjYTY5NjBIMGxub19jYlU?oc=5",
+     "data": "2026-11-02",
+     "titolo": "F1, Kimi Antonelli campione del mondo: da Meloni a Sinner, le reazioni",
+     "testate": [
+      "Sky TG24"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "F1, Kimi Antonelli campione del mondo: da Meloni a Sinner, le reazioni",
+       "fonte": "Sky TG24",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVdMMU9UenpJQXpfdmJTanhVR2VtTEZxQlpOQUNBNW1NMWVJeS04dG8xZmlVSTZpcklLal9OdGZjX2U0OGp6OWlPSnNBb0NGMkZHZl9ZNVFKdWJ2ZTQ1Q2hYUDIwdjNoV25ESG1Oc3J0NFdVQTNjYTY5NjBIMGxub19jYlU?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10TVlHQUp0N0ZYczdUSlpEWnB6Y0N5QndqUzlDUXRtOGVTc3VPZHpCRmtYVjQ2RnBhSHlWSEozZlgxWlFuZGozNWZnaw?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Meloni, Takaichi, Badenochi, le nuove conservatrici",
+     "testate": [
+      "Tempi"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Meloni, Takaichi, Badenochi, le nuove conservatrici",
+       "fonte": "Tempi",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10TVlHQUp0N0ZYczdUSlpEWnB6Y0N5QndqUzlDUXRtOGVTc3VPZHpCRmtYVjQ2RnBhSHlWSEozZlgxWlFuZGozNWZnaw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2JOVGFKSXNvQVc5dFVGZDVMMWZaZUkybGkwcnAwb183R2xVVTFkUndZYTVDWmJoVFRCOFNTcTRxZDhzNHZyRzM2Q1B3NTh5cXJXdWlyMUJCTy1kOGpQQjA0TldWX3ZoOFBQNEhPSk5ISWtWV3lDYkpUUHZlRElvUnJvVVVtVTdyVDNPTW9ZQVZLTkFiOVYxc2k5QlRjZUFGS0xn0gGoAUFVX3lxTE5xd1RWMVRtLTVicWYyRm1xZ05BRDR1OHFITGxsTTBTaFg5T3FQczdSdWpQWW5KN29LUW9mUDZ6b3hFNG1yZzA4Mm5PeV9Oc0FoWVd1dGpHRnZ5aTBDOXJLRHgxaGlxRlJqRjFFanZ4WGVtT2RoUGVTS1VuUEN4S3J1V1VmZjg2b29LMlJFTmVwTXp5MEVTd2NiSmxuN1l6MlMyV29WeDF0VA?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Atreju, Meloni ci riprova: invita Schlein e Conte",
+     "testate": [
+      "la Repubblica"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Atreju, Meloni ci riprova: invita Schlein e Conte",
+       "fonte": "la Repubblica",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2JOVGFKSXNvQVc5dFVGZDVMMWZaZUkybGkwcnAwb183R2xVVTFkUndZYTVDWmJoVFRCOFNTcTRxZDhzNHZyRzM2Q1B3NTh5cXJXdWlyMUJCTy1kOGpQQjA0TldWX3ZoOFBQNEhPSk5ISWtWV3lDYkpUUHZlRElvUnJvVVVtVTdyVDNPTW9ZQVZLTkFiOVYxc2k5QlRjZUFGS0xn0gGoAUFVX3lxTE5xd1RWMVRtLTVicWYyRm1xZ05BRDR1OHFITGxsTTBTaFg5T3FQczdSdWpQWW5KN29LUW9mUDZ6b3hFNG1yZzA4Mm5PeV9Oc0FoWVd1dGpHRnZ5aTBDOXJLRHgxaGlxRlJqRjFFanZ4WGVtT2RoUGVTS1VuUEN4S3J1V1VmZjg2b29LMlJFTmVwTXp5MEVTd2NiSmxuN1l6MlMyV29WeDF0VA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWxMdTl3bXdKazVFSEJUMGdGa0psUnZFbnlvMWducVJWeXMzbkdPS1phOTFwczVEUkxkVnlpVFdDbGJwOW9vR21oaFM0eVJzSUJXMHdvN1FRSXh5X3lTYTBqVkltck1xVjB5M01HSFBpZUYxY1hEeDNtR2dWeGVxUTdmc21Ld2tRZG92dk16TGFxTU9sN0M2a1FrclNramxnNER1bjdzU2U1cFFINGNzYmMwS3VILXlfa2MyZg?oc=5",
      "data": "2026-11-01",
      "titolo": "Giorgia Meloni, Colle non è nei miei piani. Il campo largo apre il cantiere del programma",
@@ -25,7 +94,7 @@
       "La Discussione",
       "LaPresse",
       "Radio RTL 102.5",
-      "https://lmservizi.it/"
+      "Tgcom24"
      ],
      "n_testate": 9,
      "articoli": [
@@ -146,6 +215,12 @@
        "fonte": "Open",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNm9fV215a2dSMjVsTF9BRV96cW5KSGNXUGNiUTJfNkR4U0RhU3J6ZXc0TUlKcnNnT1VQY1U1aVM3TUlUOTl0alB0MXNWQmpUTXJHSVBKdUdhSWNvaTFBemg0SlFqNDBYLUN4eW9abFdsbmVJV21fYi11cHB4Yjk3SWNwbFpmNUk?oc=5"
+      },
+      {
+       "titolo": "Meloni: «Non punto al Colle ma dalla sinistra basta con il razzismo culturale»",
+       "fonte": "Il Messaggero",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0dJU3FkTkh3ZXZwd3BnVjJnSG5qOW02c1ZuNDJ1ODRXWjcyajA3Y2ZxWXRQdjREU1lsT1NvYTQtbnJXdmNieTFuNGNqUm51cnhUN195QXVVYmhwVDNzMFpHX1BST3FWN1RjNE55SFhzcnRyNG4yQlVhc2cxVlQxV2dOSmN3VHdVSmU2d2Q5dVdodU8zSzRTdDNCSnJ0T3J2MlRFZHRaSEJ3SjlCVDY0cGl6QdIBuAFBVV95cUxOeXM1b3JqY1hiZk9YbHpuSlgwZW9DRGdYdEd5bTl6VUw2UGF0cEdxTHB1cTNBSGEtRGRJNlZ5TUc4UENGSjZ2OE1TdTZSSVJaT3Njdy1qYXdRU2Znd1lLbXNTTlZMVll6elkyaHpWMDdBR3J4UFZwNDlMdmhxakY4Wi04SktZRmdEZV9TQkRaa1I2eXZYbXZ3cmpaUzJxSFludlRpZURVUl9kUnV3Ylk2bGoyNlB5TU9a?oc=5"
       }
      ],
      "polemica": false,
@@ -155,7 +230,8 @@
       "Un conservatore può andare al Quirinale. Basta razzismo culturale",
       "Basta razzismo della sinistra sulla scelta per il Quirinale",
       "Insopportabile razzismo culturale a sinistra sulla scelta del presidente della Repubblica",
-      "Concentrata a chiedere un altro mandato. Il Quirinale? Non è nei miei piani, ma basta col razzismo culturale della sinistra"
+      "Concentrata a chiedere un altro mandato. Il Quirinale? Non è nei miei piani, ma basta col razzismo culturale della sinistra",
+      "Non punto al Colle ma dalla sinistra basta con il razzismo culturale"
      ],
      "verifiche": [],
      "confronti": []
@@ -1019,6 +1095,29 @@
        "fonte": "La Voce del Patriota",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZ2I4dWF3QXJiU2NBSkFHci1jek96a2hRYjE1YVA5MHoxMnhhcDlTZ2tmckJZSml5VzhDMXg5bHA1U0dXU25WSFNvbWRyRFpZM2dXek54OTFDbHgtMzd2OTFkQ1hJeHRzTUs5Z0JWOFlUdmQxamdhNXpLNUM1cV9ReFhyTjFuTkdPeGR6ZWRPclE3MjNJblh0eUJabng3MlYzSDk4dlZ5OWc0aWFya2Y3a2kwLS1hWUFHZ1ZNZk8wazllaFFjVThLc3g1aTdlcDYzT0FCdEYzeV96cWdEMm9xaXZBamhnUEl4eUg1TEtFeTZCcGs?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdjVlZUdHMjlZSVNEdmtfRlpGWmZQMmwxZVNhRE9WSVJzLWFSd05qUk5HUTNoQlFDS2F6UHp6RWhBUVJGVFVvWmZYcExvYUVLRkxJdGtSN1dEV1JRVE9SMWNBOWEzTkllN1ZVRWVld1c4c2R5V0laaDI2NXpDN1dxNzVrdkFpZkVVdTlBQ2hUWXVVNXQzNHplYkR5WnA4RXdqSm5Id2hfckJiUUhJR0xVZjRFanBxeEhLNkJ0eDZKMjNrR1ItMXlrVmxOWnpVbjdDVENTNlRsVFBSV2V2QWZ4dDB1VWJQUQ?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Mo. Vietri (FdI): “Inaccettabile coinvolgere la figlia del Presidente Meloni. I minori restino fuori dal dibattito politico”",
+     "testate": [
+      "La Voce del Patriota"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Mo. Vietri (FdI): “Inaccettabile coinvolgere la figlia del Presidente Meloni. I minori restino fuori dal dibattito politico”",
+       "fonte": "La Voce del Patriota",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdjVlZUdHMjlZSVNEdmtfRlpGWmZQMmwxZVNhRE9WSVJzLWFSd05qUk5HUTNoQlFDS2F6UHp6RWhBUVJGVFVvWmZYcExvYUVLRkxJdGtSN1dEV1JRVE9SMWNBOWEzTkllN1ZVRWVld1c4c2R5V0laaDI2NXpDN1dxNzVrdkFpZkVVdTlBQ2hUWXVVNXQzNHplYkR5WnA4RXdqSm5Id2hfckJiUUhJR0xVZjRFanBxeEhLNkJ0eDZKMjNrR1ItMXlrVmxOWnpVbjdDVENTNlRsVFBSV2V2QWZ4dDB1VWJQUQ?oc=5"
       }
      ],
      "polemica": false,
@@ -3648,6 +3747,65 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmsycnY0MUtxTTFSZnRoSGNoM1g4ME83WFFFTXJ4b0wtOERqSWhjMjhDMUZFRVhHMElWUWt4QmlOSTVGNlVVYldteEpfVkREOHZjWWZITjhjZFlZdDYyblJhVUJVa2ZKUmFUdW9IVU5SaDdFSE05eG1pWXMySmFxOGowaFMtRUZFaTFQVg?oc=5",
+     "data": "2026-10-28",
+     "titolo": "Manovra 2027, Meloni: \"Confermati tutti gli interventi in scadenza quest’anno\"",
+     "testate": [
+      "Il Messaggero",
+      "LaC News24",
+      "Sky TG24",
+      "Vita.it"
+     ],
+     "n_testate": 4,
+     "articoli": [
+      {
+       "titolo": "Manovra 2027, Meloni: \"Confermati tutti gli interventi in scadenza quest’anno\"",
+       "fonte": "Sky TG24",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmsycnY0MUtxTTFSZnRoSGNoM1g4ME83WFFFTXJ4b0wtOERqSWhjMjhDMUZFRVhHMElWUWt4QmlOSTVGNlVVYldteEpfVkREOHZjWWZITjhjZFlZdDYyblJhVUJVa2ZKUmFUdW9IVU5SaDdFSE05eG1pWXMySmFxOGowaFMtRUZFaTFQVg?oc=5"
+      },
+      {
+       "titolo": "Meloni: \"Nella manovra possibilità di targhe personalizzate\"",
+       "fonte": "Sky TG24",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZExxRWptNTVLRHV0eGNSTm02Qk5XaGdrc3ZHX2ZxdWdycGhqZXBlSmVhOGhoSU54OTV5dFAtMlRxQURuTjZNZjMtQm5CQ05QdjNZNXdkNjRxRFNCdVd3ZURkaXI0YTJlUTFnS25ldnV6UWx1RHZrdXRLZ0s5dzNib1A2V2FiempCUzItR3J3eTFFRV9UNDFiWXpHNS1GSXVwdU1BSW1qQmctcFd1SnNjUw?oc=5"
+      },
+      {
+       "titolo": "Manovra, Meloni elenca le misure per i giovani",
+       "fonte": "Sky TG24",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTB1ektMZnY1ZkM1M0owS0NnOG5XTm9ndEVqempXaHliS2Q2YW5xTVJKZzRZOGZzQUFfNkRMcHBOb0xEZFRYYlIxVWZZQUNpWm81WTRKMV9Qbkg5SXRjSWdINUR3Wm84b0kyandNbzRPclBvT2JFdGxjeC1fWXdVSkI1U1NxZDZRUmpFRjJEWmFBZXgtV0lJbFdxbUJOUTJn?oc=5"
+      },
+      {
+       "titolo": "Manovra da 26 miliardi. Meloni: pacchetto giovani",
+       "fonte": "Il Messaggero",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG5laFhOc0NzekJTTEtoMW4wdXluejl3Y19tdXBKT2g2ZlB2VFgxNDRZN1FuVnJXbFRiSG16Vl9MUnRvV0QyZDFWN1ZuekhKdV9JREtLeXU3Wm42aVZOOHY4YnVyUUpialJwYlFUOGZpdzdPc0hENWc5WkdnWG5tQTZYN00zMVBGVE9QTkwza0VNR1ZrUHVYQ0thcWhhWk9TX3JuVlFmNmtNcUHSAbABQVVfeXFMTWJWMThNX3JNaWtiRlp3YUxwd055SV9nWEl5TWRZeTBkRGFSdFpQTFJFOTE1SXNqVVR4c3BuOW9JVkhPU2Y0MHdZOU5JNjBrbjRBZE0zNm9Pd1l5NWdiSTRSWEdLU2I1WGN5QmxKdHNFUGF1MnNQb3BGTkdFczlIQVVtclpsSm1QaDBlVXJwbmZKdkdoYU1rQlpsTFE1LU9BMnZaZDRNS2N1czdtUFV2Yk0?oc=5"
+      },
+      {
+       "titolo": "Manovra 2027, il governo Meloni e la rinuncia a governare",
+       "fonte": "Vita.it",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDhmblRlZzJqMGtuenZmWGJrZUlnZHZqbXJsQUpLdTU5LUJ2aU5JZnpPVmk4NnBaNjdnZFRfRllQYlRzaGRVU3JaT1VaejF0LVdQLWQ4Szlld3FOenFuWEVKZmYzQXdjenpjRmxFbkV6R1BVWUYtYkJuY1U4NjBZNEJ6aTBmYkNueVE?oc=5"
+      },
+      {
+       "titolo": "Curarsi sarà un lusso, scuola e pensioni sotto pressione: il conto salato della Manovra del governo Meloni · LaC News24",
+       "fonte": "LaC News24",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeE9wVFUtazhEYkp1WnlRb3FnTi1GN2doYkFGWk9Nc2hlWXFOeFlrSzRNeUhXNm9qVzR3TE5ESEVKbnNFUUpzME52ekdZT2dTa1hRUjJiSEE5VG9Cb1FaRDIySmNWSXFXT05tX1YtakM0dEwxdjVOT3dUUnRadVdKQXczNzUtR3lwdnJGYS0wUUpqYXJDaF8ydzc2NkNqRml5MWsyRHZHZW13RG1zNDE3QmNZM2JrUVdsNW1jNUxJQ1RHY192VXpvZmx0ZEJ0TXhUOTZFaUw4OEl1dVZqRzUxd3J4cEpnQdIB6wFBVV95cUxOYzRZSjBpZ3BLUDJMV0t4SHdtN05saGEzZWVCMXNtQzFPOG5IcndmSXF1eDhKWHRpTzJmVTlSZl9WZlNONjlPeWhmSG5MejFDM2plXzhLaTduT00tTFB2ZE9KSFpBY21BdURJbmlGVnBBR3FRNGpwZzdFWjVhWnBfN01ZZndHNjdVX0tJQVhZUHl3TURsajBkajdEWnlqMzFFcGplTmFSdnB5YVh0WGJzbG54TmotaEN3ZzBZS0ptZEZpTURpVmpnS0NYSXpkeXdFYWxHanJZUk5GLU5UekpUZXptRmhyV0Z3SzRF?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Confermati tutti gli interventi in scadenza quest’anno",
+      "Nella manovra possibilità di targhe personalizzate"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FsQ2JzRlF6bTctaEFvcE9tSkJQV0VhMk5NM2pjSnkwUGhYTC1nTGhydU9na1pzOHFCN1V4TXA0WU1MRE9zajAwbS1EeUVBV2dqYjZqaUFHSHFTX3FQbXNsc2dJR3lKM081YmpUcUJuVEhjczdqNk85X3hkMHhVTFZrczBiSnUta0F1Z0ZB?oc=5",
      "data": "2026-10-28",
      "titolo": "Artigianato, Meloni: Aziende restano tali anche con più collaboratori",
@@ -4001,51 +4159,6 @@
      "virale": false,
      "citazioni": [
       "Lo Stato per essere alleato di chi lavora onestamente, deve sapere essere fermo con i furbi"
-     ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmsycnY0MUtxTTFSZnRoSGNoM1g4ME83WFFFTXJ4b0wtOERqSWhjMjhDMUZFRVhHMElWUWt4QmlOSTVGNlVVYldteEpfVkREOHZjWWZITjhjZFlZdDYyblJhVUJVa2ZKUmFUdW9IVU5SaDdFSE05eG1pWXMySmFxOGowaFMtRUZFaTFQVg?oc=5",
-     "data": "2026-10-28",
-     "titolo": "Manovra 2027, Meloni: \"Confermati tutti gli interventi in scadenza quest’anno\"",
-     "testate": [
-      "Il Messaggero",
-      "Sky TG24"
-     ],
-     "n_testate": 2,
-     "articoli": [
-      {
-       "titolo": "Manovra 2027, Meloni: \"Confermati tutti gli interventi in scadenza quest’anno\"",
-       "fonte": "Sky TG24",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmsycnY0MUtxTTFSZnRoSGNoM1g4ME83WFFFTXJ4b0wtOERqSWhjMjhDMUZFRVhHMElWUWt4QmlOSTVGNlVVYldteEpfVkREOHZjWWZITjhjZFlZdDYyblJhVUJVa2ZKUmFUdW9IVU5SaDdFSE05eG1pWXMySmFxOGowaFMtRUZFaTFQVg?oc=5"
-      },
-      {
-       "titolo": "Meloni: \"Nella manovra possibilità di targhe personalizzate\"",
-       "fonte": "Sky TG24",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZExxRWptNTVLRHV0eGNSTm02Qk5XaGdrc3ZHX2ZxdWdycGhqZXBlSmVhOGhoSU54OTV5dFAtMlRxQURuTjZNZjMtQm5CQ05QdjNZNXdkNjRxRFNCdVd3ZURkaXI0YTJlUTFnS25ldnV6UWx1RHZrdXRLZ0s5dzNib1A2V2FiempCUzItR3J3eTFFRV9UNDFiWXpHNS1GSXVwdU1BSW1qQmctcFd1SnNjUw?oc=5"
-      },
-      {
-       "titolo": "Manovra, Meloni elenca le misure per i giovani",
-       "fonte": "Sky TG24",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTB1ektMZnY1ZkM1M0owS0NnOG5XTm9ndEVqempXaHliS2Q2YW5xTVJKZzRZOGZzQUFfNkRMcHBOb0xEZFRYYlIxVWZZQUNpWm81WTRKMV9Qbkg5SXRjSWdINUR3Wm84b0kyandNbzRPclBvT2JFdGxjeC1fWXdVSkI1U1NxZDZRUmpFRjJEWmFBZXgtV0lJbFdxbUJOUTJn?oc=5"
-      },
-      {
-       "titolo": "Manovra da 26 miliardi. Meloni: pacchetto giovani",
-       "fonte": "Il Messaggero",
-       "data": "2026-10-29",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG5laFhOc0NzekJTTEtoMW4wdXluejl3Y19tdXBKT2g2ZlB2VFgxNDRZN1FuVnJXbFRiSG16Vl9MUnRvV0QyZDFWN1ZuekhKdV9JREtLeXU3Wm42aVZOOHY4YnVyUUpialJwYlFUOGZpdzdPc0hENWc5WkdnWG5tQTZYN00zMVBGVE9QTkwza0VNR1ZrUHVYQ0thcWhhWk9TX3JuVlFmNmtNcUHSAbABQVVfeXFMTWJWMThNX3JNaWtiRlp3YUxwd055SV9nWEl5TWRZeTBkRGFSdFpQTFJFOTE1SXNqVVR4c3BuOW9JVkhPU2Y0MHdZOU5JNjBrbjRBZE0zNm9Pd1l5NWdiSTRSWEdLU2I1WGN5QmxKdHNFUGF1MnNQb3BGTkdFczlIQVVtclpsSm1QaDBlVXJwbmZKdkdoYU1rQlpsTFE1LU9BMnZaZDRNS2N1czdtUFV2Yk0?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [
-      "Confermati tutti gli interventi in scadenza quest’anno",
-      "Nella manovra possibilità di targhe personalizzate"
      ],
      "verifiche": [],
      "confronti": []
@@ -10060,11 +10173,11 @@
     }
    ],
    "conteggi": {
-    "storie": 303,
+    "storie": 307,
     "polemiche": 32,
     "polemiche_social": 8,
-    "virali": 71,
-    "citazioni": 110,
+    "virali": 72,
+    "citazioni": 111,
     "giorni": 45
    }
   },
@@ -10308,11 +10421,35 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dTQkh4SFhtd0tMeXk1OEVjQzRzZVlPcWNtOEU2RjRvSkdfTFJrNk12TWJLUjZJMFlKREZRc1UwbVN1cktLR0RiQ0luRWZrTjl6OHY5UHB3SzljSDJpcmRMdTF5REg4Y1poSG93blZaNFBqVkt5aktCUEdBX0JfWjhfQlJ4ZXdrZy1ENFUwcEpMRmhfSkh2aUFpLTRoMjg?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Salvini \"Il nuovo Codice degli Appalti crea più lavoro\" 16/12/2022",
+     "testate": [
+      "L'eco del sud"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Salvini \"Il nuovo Codice degli Appalti crea più lavoro\" 16/12/2022",
+       "fonte": "L'eco del sud",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dTQkh4SFhtd0tMeXk1OEVjQzRzZVlPcWNtOEU2RjRvSkdfTFJrNk12TWJLUjZJMFlKREZRc1UwbVN1cktLR0RiQ0luRWZrTjl6OHY5UHB3SzljSDJpcmRMdTF5REg4Y1poSG93blZaNFBqVkt5aktCUEdBX0JfWjhfQlJ4ZXdrZy1ENFUwcEpMRmhfSkh2aUFpLTRoMjg?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTF4MDUtX29rNlVhR1VOZ1VMaHpudU9QUGczVzhBY3dFZ19wZW9uNk5hY1J6UTllTk96cWd1b01YYUhab2p5VWhkcjBzOU5scmw5cGhRb1NVODNJYVd2b05YTWo1cEkxb0pITVE4TnMyUC02Y2FNQ3RQbHNpSVhWYXVtVC1ZWjdnMzMxX2d6dVNpZ2FGcWMzMG1waFpEdXJFNkJNXzZOSVBIdVVsU1d3SjA3VXJOZHJOUHI5OENGeW9VMXJ6dldJc2w1cUV6TWRFN1BJZlJR?oc=5",
      "data": "2026-10-31",
      "titolo": "Manovra 2027, Salvini: “Targhe personalizzate no priorità, ma portano soldi. Io? Non la farei”",
      "testate": [
       "Adnkronos",
+      "Il Gazzettino",
       "Il Mattino",
       "Il Messaggero",
       "Il Quotidiano del Sud",
@@ -10322,7 +10459,7 @@
       "Today",
       "la Repubblica"
      ],
-     "n_testate": 9,
+     "n_testate": 10,
      "articoli": [
       {
        "titolo": "Manovra 2027, Salvini: “Targhe personalizzate no priorità, ma portano soldi. Io? Non la farei”",
@@ -10381,7 +10518,8 @@
       "Non pagherei per averne una",
       "Targhe personalizzate portano soldi ma io non la farò",
       "Targhe personalizzate non sono una priorità, ma portano soldi. Io? Non la farei",
-      "Le targhe personalizzate non sono una priorità ma portano soldi allo Stato"
+      "Le targhe personalizzate non sono una priorità ma portano soldi allo Stato",
+      "Targhe personalizzate? Non sono una priorità, ma portano soldi allo Stato"
      ],
      "verifiche": [],
      "confronti": []
@@ -10989,6 +11127,31 @@
      "virale": false,
      "citazioni": [
       "Calato il sipario sulla Lega Nord di Umberto Bossi"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkVoMnpqWC1sMmt4RW9GeEZXVFhBdzYzT1ZlRG9sWkFBUm15TjA4YVlTcDU0MDdMbFhSUEVKSEJNbXZYa0stYjQ5RjNIQUtWUDVjVTNKamNERWVwdXl5T1lZZDRYOUpCemtvWkpCZkUzcW52NGZiNGVqVk5LMGo5aVB0MkFCSVI2dkFRcklxT0hhOVNmeUVYTHNKMG56LXpFOEtNQm90ZEhDaFhYWnZiSTlB0gGCAUFVX3lxTE5nRHdhRUsyWWhSd2lGZGRVa2htdExkTmdiTHNRbmxfS1ZRMjF3MUY5RTI2MWdwSEFYYU5xVGdUc1ZkaFdFeEIzems0dmZXcnlZX016WUp6ZDk4SEhtdk9OckVQdUl0OXBBWTVQc2h2WTR0ZzYxWWQxOUpIMEQ0ZWNlUkE?oc=5",
+     "data": "2026-10-30",
+     "titolo": "Salvini: «Ho sentito ieri Savona, non ha nessuna intenzione di dimettersi»",
+     "testate": [
+      "Il Messaggero"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Salvini: «Ho sentito ieri Savona, non ha nessuna intenzione di dimettersi»",
+       "fonte": "Il Messaggero",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkVoMnpqWC1sMmt4RW9GeEZXVFhBdzYzT1ZlRG9sWkFBUm15TjA4YVlTcDU0MDdMbFhSUEVKSEJNbXZYa0stYjQ5RjNIQUtWUDVjVTNKamNERWVwdXl5T1lZZDRYOUpCemtvWkpCZkUzcW52NGZiNGVqVk5LMGo5aVB0MkFCSVI2dkFRcklxT0hhOVNmeUVYTHNKMG56LXpFOEtNQm90ZEhDaFhYWnZiSTlB0gGCAUFVX3lxTE5nRHdhRUsyWWhSd2lGZGRVa2htdExkTmdiTHNRbmxfS1ZRMjF3MUY5RTI2MWdwSEFYYU5xVGdUc1ZkaFdFeEIzems0dmZXcnlZX016WUp6ZDk4SEhtdk9OckVQdUl0OXBBWTVQc2h2WTR0ZzYxWWQxOUpIMEQ0ZWNlUkE?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Ho sentito ieri Savona, non ha nessuna intenzione di dimettersi"
      ],
      "verifiche": [],
      "confronti": []
@@ -11709,16 +11872,17 @@
      "titolo": "Trasporti, Salvini precetta lo sciopero del 30 ottobre. L’Usb: “Disobbediremo”",
      "testate": [
       "BolognaToday",
-      "Energia Oltre",
       "Il Diario del Lavoro",
+      "Milano Post",
       "Odissea Quotidiana",
       "Quotidiano dei Contribuenti",
       "Radio Marte",
       "RomaToday",
       "Today",
-      "pugliain.net"
+      "pugliain.net",
+      "www.egnews.it"
      ],
-     "n_testate": 9,
+     "n_testate": 10,
      "articoli": [
       {
        "titolo": "Trasporti, Salvini precetta lo sciopero del 30 ottobre. L’Usb: “Disobbediremo”",
@@ -11770,9 +11934,11 @@
       }
      ],
      "polemica": true,
-     "social": false,
+     "social": true,
      "virale": true,
-     "citazioni": [],
+     "citazioni": [
+      "L'ordinanza è illegittima, la protesta non si ferma"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -11787,11 +11953,12 @@
       "Genova24",
       "Il Sole 24 ORE",
       "La Voce di Genova",
+      "LaPresse",
       "Liguria24",
       "Linkiesta.it",
       "la Repubblica"
      ],
-     "n_testate": 9,
+     "n_testate": 10,
      "articoli": [
       {
        "titolo": "Salvini firma la precettazione: sciopero Usb del trasporto locale è rinviato",
@@ -12004,12 +12171,13 @@
      "titolo": "Governo contro Stato di diritto – Meloni, Salvini e il processo alla Costituzione",
      "testate": [
       "Il Foglio",
+      "L'eco del sud",
       "La Voce del Patriota",
       "SITe.it",
       "Startmag",
       "Tgcom24"
      ],
-     "n_testate": 5,
+     "n_testate": 6,
      "articoli": [
       {
        "titolo": "Governo contro Stato di diritto – Meloni, Salvini e il processo alla Costituzione",
@@ -12040,6 +12208,12 @@
        "fonte": "Startmag",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1pEMnV4UXRmZ1BLVW9PMWNCR19vVlkwa2RwVlJlWmNYU1FPRGM4TDY3dTFXLUZfNDJfVU9ZQ0RockswWmwxVjgxVU9yeDhEdWc3UzRUV3ozZ2RQRjFEYi1obnNmSnRjRFJkcFk1eTBBUUpmc3FZRHF1STkweTVMWGZYLWZBbzA?oc=5"
+      },
+      {
+       "titolo": "Crisi di Governo ormai ufficiale. Salvini \"preme il grilletto\" contro i 5 stelle e va a segno 09/08/2019",
+       "fonte": "L'eco del sud",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcnFHTkNqd3A5ejhJZzFfcHR2RDROZDBscTJlUE1BbHo4N1Q5dnpWLWl0c0RVWDBDa2l5bmJUR2RheG9KcTZGR0hXNmpIdW1tSTlXQVJaQWlZaXF0Y1ptS1VNNUxmRmVkcHFRcXBRZEktS2UzeFJCSFhzSG9MdGxUQXozSEI3OWtUV2JHNmJ6WTdFMXJWUmdfR1A0SzU5eGFkenNFTV9takdXM0IxNHNRZ01vLU9LMEJYVDhpRTBUMjREcjNWeGJHNjlPODNvR2lO?oc=5"
       }
      ],
      "polemica": false,
@@ -12167,6 +12341,43 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHFGUk5pel8zQXdHUmtLWE1RNWQwMkJoOG15TThlTFFDOXlyZEgySmtaX00zNy1nUzVTZnJ4VmxIcDdRY0luZlRYb2VEdl9iLW1pd1NhOXR2VE5LMnlXeXJlM1BFZktFV2E4bDR5VXgtb2dfVVRPTFhDWUNXOFl6dHZJSTUzY3Qw?oc=5",
+     "data": "2026-10-28",
+     "titolo": "Congresso Lega, Salvini resta al comando. E Romeo guarda oltre: “Il problema? La gente che non ci vota più”",
+     "testate": [
+      "MBNews",
+      "Orticalab",
+      "Prima Bergamo"
+     ],
+     "n_testate": 3,
+     "articoli": [
+      {
+       "titolo": "Congresso Lega, Salvini resta al comando. E Romeo guarda oltre: “Il problema? La gente che non ci vota più”",
+       "fonte": "MBNews",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHFGUk5pel8zQXdHUmtLWE1RNWQwMkJoOG15TThlTFFDOXlyZEgySmtaX00zNy1nUzVTZnJ4VmxIcDdRY0luZlRYb2VEdl9iLW1pd1NhOXR2VE5LMnlXeXJlM1BFZktFV2E4bDR5VXgtb2dfVVRPTFhDWUNXOFl6dHZJSTUzY3Qw?oc=5"
+      },
+      {
+       "titolo": "Salvini ha vinto il \"suo\" congresso della Lega, ma il Carroccio ha una ruota motrice rotta",
+       "fonte": "Prima Bergamo",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUk1ycHZ6MjUxUUFzaVBrdE4xQm5rWFVGTER5dzB4dnZnSHVrR3FETDB3NUhfVTFLbWVad3NLX2haR1pfR2lWZEhZV2kyNEgyZ25pM05NTzJpeFdLaGI1UV9YZlVoNm9PMXB6QnJxX0pKLXFCQ3VJVWhSdTBCR05GX0tsOFYtZG9sQktIZGw3X0s4OU9pdDJwa19MVjdEODB0QXVGNE95UHUxckdid3VhWEhiRmRJYVo2b0ZIWXJR?oc=5"
+      },
+      {
+       "titolo": "Lega, Salvini annuncia il congresso straordinario: «Chiederò la fiducia»",
+       "fonte": "Orticalab",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTNKLXBLN2gzb1VieDEzR2tyZlkzUWRHbU9TVW5DYzNjelB2N2lVVVNWOFluUUVQWVc2N1Q0Ull4WEpZbWo4QktMN0RQb0FGQjZra1FDQWxMM21NTGQ4T2dGQWNtMS1YVWNwNDJDNzdkQ3lOakFLcFVnSnk2TFJsWW5oYUx5dDJkZ1lBNU1ISHp5QktnWHFJOQ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb2kzbDMyTDlTdzhwdDRzVzdPR3ZCM25DNlpFTDRGRERVM0hBbVNzTm1TcEh0ZzUzVjB4ekNhVGROOGlCelpGUjhmQTdtY29fTkNzNElScmU3OEE5VkVMNkRXRlQzSHBhalJkZm5FaXNTYjZaR0JGQlZqTzhLRi1aQVRrXzljeEdGWVBUUmtMMzB2U3ozemNOWGdkMVA1ZXVjVHVRUGlVVFhZTldUal9pa0ZITktFTU9aSDVKZEo2ZjJNSWNpVUF2MlNnT3preXZ2YXVIZm5JTnp3NU44aU5VOTF5NklHN3dncHlqSUt5bERXbndUdGpCVk5NS01naW01em1F?oc=5",
      "data": "2026-10-28",
      "titolo": "Il trattore di Vannacci: attacca Salvini su Kyiv, si inventa la festa con l’aratro. Ma spara a salve e FdI ne approfitta",
@@ -12225,36 +12436,6 @@
      "citazioni": [
       "Complimenti, anche oggi treni puntuali"
      ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHFGUk5pel8zQXdHUmtLWE1RNWQwMkJoOG15TThlTFFDOXlyZEgySmtaX00zNy1nUzVTZnJ4VmxIcDdRY0luZlRYb2VEdl9iLW1pd1NhOXR2VE5LMnlXeXJlM1BFZktFV2E4bDR5VXgtb2dfVVRPTFhDWUNXOFl6dHZJSTUzY3Qw?oc=5",
-     "data": "2026-10-28",
-     "titolo": "Congresso Lega, Salvini resta al comando. E Romeo guarda oltre: “Il problema? La gente che non ci vota più”",
-     "testate": [
-      "MBNews",
-      "Prima Bergamo"
-     ],
-     "n_testate": 2,
-     "articoli": [
-      {
-       "titolo": "Congresso Lega, Salvini resta al comando. E Romeo guarda oltre: “Il problema? La gente che non ci vota più”",
-       "fonte": "MBNews",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHFGUk5pel8zQXdHUmtLWE1RNWQwMkJoOG15TThlTFFDOXlyZEgySmtaX00zNy1nUzVTZnJ4VmxIcDdRY0luZlRYb2VEdl9iLW1pd1NhOXR2VE5LMnlXeXJlM1BFZktFV2E4bDR5VXgtb2dfVVRPTFhDWUNXOFl6dHZJSTUzY3Qw?oc=5"
-      },
-      {
-       "titolo": "Salvini ha vinto il \"suo\" congresso della Lega, ma il Carroccio ha una ruota motrice rotta",
-       "fonte": "Prima Bergamo",
-       "data": "2026-10-31",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUk1ycHZ6MjUxUUFzaVBrdE4xQm5rWFVGTER5dzB4dnZnSHVrR3FETDB3NUhfVTFLbWVad3NLX2haR1pfR2lWZEhZV2kyNEgyZ25pM05NTzJpeFdLaGI1UV9YZlVoNm9PMXB6QnJxX0pKLXFCQ3VJVWhSdTBCR05GX0tsOFYtZG9sQktIZGw3X0s4OU9pdDJwa19MVjdEODB0QXVGNE95UHUxckdid3VhWEhiRmRJYVo2b0ZIWXJR?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
      "verifiche": [],
      "confronti": []
     },
@@ -16463,11 +16644,11 @@
     }
    ],
    "conteggi": {
-    "storie": 185,
+    "storie": 187,
     "polemiche": 22,
-    "polemiche_social": 3,
-    "virali": 49,
-    "citazioni": 85,
+    "polemiche_social": 4,
+    "virali": 50,
+    "citazioni": 88,
     "verifiche_non_dimostrabile": 1,
     "confronti_coerente": 3,
     "giorni": 45
@@ -16483,6 +16664,36 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbDFsYlo5TjAtMFpOeldpa3ZQV2pCajZ6S0t4TVVIR3cwbjVidkFxT3JKNDNXTlJhVzMyQUxEZVZUZVFkaE9la1hraFhRRy1WVHRmajF1WFBNdmRlRGxhV0o1SW0tWU1hcmJwS0o4WFFWSTBfNmdRc2hCODNPenBPVmhjYktLLUNkbHB4cVBWWGVpMVpXSmVwWlJSamFmVFBOUDU4Qm5HTEtkd2tBWUZWSHZGb0lSQmlzeXhxUmZBN3Z4WTNtcWZlNDdaQ3V2b1puYzBma0FOSFZVeWV6Y3VxTmJqdUZEM3BLdGdyM1NWNExLODdVY2FLeV94ektFVkdDZzJuc3RB?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Meloni irritata per l'apertura di Tajani alla Cisl sulla manovra. Per la premier il \"perimetro finanziario è sigillato\"",
+     "testate": [
+      "Il Giornale d'Italia",
+      "Zazoom Social News"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Meloni irritata per l'apertura di Tajani alla Cisl sulla manovra. Per la premier il \"perimetro finanziario è sigillato\"",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbDFsYlo5TjAtMFpOeldpa3ZQV2pCajZ6S0t4TVVIR3cwbjVidkFxT3JKNDNXTlJhVzMyQUxEZVZUZVFkaE9la1hraFhRRy1WVHRmajF1WFBNdmRlRGxhV0o1SW0tWU1hcmJwS0o4WFFWSTBfNmdRc2hCODNPenBPVmhjYktLLUNkbHB4cVBWWGVpMVpXSmVwWlJSamFmVFBOUDU4Qm5HTEtkd2tBWUZWSHZGb0lSQmlzeXhxUmZBN3Z4WTNtcWZlNDdaQ3V2b1puYzBma0FOSFZVeWV6Y3VxTmJqdUZEM3BLdGdyM1NWNExLODdVY2FLeV94ektFVkdDZzJuc3RB?oc=5"
+      },
+      {
+       "titolo": "Meloni irritata per l' apertura di Tajani alla Cisl sulla manovra Per la premier il perimetro finanziario è sigillato",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVBGX3BoRzFPd19oZy1va0pDdGUzOFlvWkR0Wmk3UW5sZ1lVbmlDTlBhWWZPbWpvMFBZSjFYZ0dCNDJBcU5NZnNfSnFPTWFyMUMtX1ducHJHX191VEIwTVQ3emRWRG40UUVtQkJNTWRybUZ2b1lkZDIzVDJFMVQ3SFp1c3l1ZEVFZ2tJOVVvN0NLMktVZkMzbF9ySzNxMG4wQUNfbGkxeDExY09SUGV6MUVtNTRDVFBZbjZNVC1kRUNXWVlQR0VUOXY1c1Z6cGNLQzhsUmRwdVZmOHdzcUF1WUxGd1JTblI5NUU0UE8yaw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPam9COUFYX1Jod1VqSFVpdERuek1rTWZ3dlBxVkY4LVk4bngxUXhoVjZSTFJwOE9MQWZxMFN0NGpOYWVuY2h0UzhWNGRrbm9MOUdnQmYyX1BRMTgyNEEzQWJnV1dCNFRzQ3ZvRVNTM2NHYk5TNzQyZlpMa3lKUVBZdS1CVXBVbHQ0aXI5bUNFMjF1VHdJWG0wZ3FFaGVRSFU?oc=5",
      "data": "2026-11-01",
@@ -16987,10 +17198,9 @@
       "QuiNewsValdera.it",
       "Quotidiano Nazionale",
       "Risoluto",
-      "Vista Agenzia Televisiva Nazionale",
-      "https://www.primanotizia24.it/"
+      "Vista Agenzia Televisiva Nazionale"
      ],
-     "n_testate": 10,
+     "n_testate": 9,
      "articoli": [
       {
        "titolo": "Manovra, Tajani: Molto soddisfatto, accolte tutte le richieste di Forza Italia",
@@ -21744,7 +21954,7 @@
     }
    ],
    "conteggi": {
-    "storie": 144,
+    "storie": 145,
     "polemiche": 12,
     "polemiche_social": 1,
     "virali": 41,
@@ -21762,6 +21972,29 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVpGcjhsY0JFWXZKUlQ2ZjRPUWtuM2ZRckttWTVDZ1dydXprRFQxVlJzUnBCbV92bV9nV3lBWGFwMnQ3bW5mRmdJUFFqdDdRMmJMWjJTUDA3THdscnFYQ0NwZmh0ckdFTFBocGVmdEszN2x4c3pxWVUybHN5QklBQl9Dc1I0Nm1LQ0dYYTBQN0tudGZsQm83QTVDUXZ5ZXhBdDJwcWtUQUtOWTg5enhJajBGbjdERDhDdGhzRmNzNVZRd9IBxwFBVV95cUxOYTFpNHlFZTFmb0phLXFFbkxTb2JBeDdaeFlrTjRBYkV0OF8wdmlnTXF0MlVlVXpJa2ttUERpMzRVVENYRXpUMHBXTy1URkV2X0pXZURmajRWaTJkMGRGNVlJUlpmTXpIVTZkaWlNaUhWSFE1aHdRWGFVMHFUVW0yUm5tMmpYNVNkZm1vM0xQSDctVzhvS1V2NWNwUkZSYzlyaTltWk53T2J4S2tfdHRHUEZkSE5VZ0Q3QVhPcWtKei1oQ0llR1Jz?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Manovra, assalto ai fondi: i ministri chiedono miliardi a Giorgetti, tagli a scuola e sanità",
+     "testate": [
+      "La Stampa"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Manovra, assalto ai fondi: i ministri chiedono miliardi a Giorgetti, tagli a scuola e sanità",
+       "fonte": "La Stampa",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVpGcjhsY0JFWXZKUlQ2ZjRPUWtuM2ZRckttWTVDZ1dydXprRFQxVlJzUnBCbV92bV9nV3lBWGFwMnQ3bW5mRmdJUFFqdDdRMmJMWjJTUDA3THdscnFYQ0NwZmh0ckdFTFBocGVmdEszN2x4c3pxWVUybHN5QklBQl9Dc1I0Nm1LQ0dYYTBQN0tudGZsQm83QTVDUXZ5ZXhBdDJwcWtUQUtOWTg5enhJajBGbjdERDhDdGhzRmNzNVZRd9IBxwFBVV95cUxOYTFpNHlFZTFmb0phLXFFbkxTb2JBeDdaeFlrTjRBYkV0OF8wdmlnTXF0MlVlVXpJa2ttUERpMzRVVENYRXpUMHBXTy1URkV2X0pXZURmajRWaTJkMGRGNVlJUlpmTXpIVTZkaWlNaUhWSFE1aHdRWGFVMHFUVW0yUm5tMmpYNVNkZm1vM0xQSDctVzhvS1V2NWNwUkZSYzlyaTltWk53T2J4S2tfdHRHUEZkSE5VZ0Q3QVhPcWtKei1oQ0llR1Jz?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN3hQeGtHRUI1Y3FkMl85ekMwb3htTHhETTYtZjNTbmx6aXlRdkhRckdHWjVLV2RyMTJXLWZHNjhOV3ZNb3RqMzloMWtqVUtvc3J0YllRNVlvWldUN0dMclVPekFDZ04tNEl6STQxcXpOMm9MWGlwbFZIdHJyY0lHVHlTQjFUZWlKd3Mxdk1PUlNSeEZRaklmanRMNnNfcjJVS09ObXBpY09vUmdZQjJHRVJiXzJLTHIzeDdnSndCWEJpVDQ3UXFpRTRsYw?oc=5",
      "data": "2026-10-31",
@@ -24884,7 +25117,7 @@
    ],
    "fact_check": [],
    "conteggi": {
-    "storie": 79,
+    "storie": 80,
     "polemiche": 4,
     "polemiche_social": 0,
     "virali": 29,
@@ -24986,6 +25219,12 @@
        "fonte": "Libero Quotidiano",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWWx0WUZOWmZiM2ZYTVZEb0RPamVuUVVhX0FxQ2NFMUI3X2kxUnpOVkR2Q0wydWVTWXNVSFFQd3JjQzVCNExLQWROTnZyNnJzZ19EXzkyU2pGY3lSNTE5QlpqUFJ3Z3hSbUpuelB6dDludmVqZi1VQlEtRWJjLVgzd3pGbFdocElmVmdtTE1ZZ0c3UmwwNTBPMnRrRlJ5Uk1KRl9NQ0VGdkxkV1pfN1R2X0tIRWNob2hkRG02U1ZneExLVlZoTUVKUTF5Sk1UeHJLbVU5X3ZB0gHaAUFVX3lxTE95WXBYNjFmU0J5RzRXaURzN1g2QUk5dlQzZzgyLW5ycVNjdWxGWm5OUzJnN293YzdNR0xzdHQ3bWhidTBGS1lSc0MwZHBvYjVCMXhxX2N0eUpuUEgxZGhKYVVKeEV2WW9JS3FoVE52alBRb2hpV0VZb3ZXWEdhYk5VU0l2RmkyLXc2QkhkbVo3bDNFbWVBTnl2QmtEQlNLTWRPaFViTTdHaDJCWmp0NkdjLU5FUTgwNWlCRmVuenEwS3dhNmFxb2d2aExLVU5za0tFRFhNLTMyTktB?oc=5"
+      },
+      {
+       "titolo": "\"Un esempio indegno di politica\": Crosetto spiana gli sciacalli dopo i militari morti | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVlwWDYxZlNCeUc0V2lEczdYNkFJOXZUM2c4Mi1ucnFTY3VsRlpuTlMyZzdvd2M3TUdMc3R0N21oYnUwRktZUnNDMGRwb2I1QjF4cV9jdHlKblBIMWRoSmFVSnhFdllvSUtxaFROdmpQUW9oaVdFWW92V1hHYWJOVVNJdkZpMi13NkJIZG1aN2wzRW1lQU55dkJrREJTS01kT2hVYk03R2gyQlpqdDZHYy1ORVE4MDVpQkZlbnpxMEt3YTZhcW9ndmhMS1VOc2tLRURYTS0zMk5LQdIB2gFBVV95cUxPeVlwWDYxZlNCeUc0V2lEczdYNkFJOXZUM2c4Mi1ucnFTY3VsRlpuTlMyZzdvd2M3TUdMc3R0N21oYnUwRktZUnNDMGRwb2I1QjF4cV9jdHlKblBIMWRoSmFVSnhFdllvSUtxaFROdmpQUW9oaVdFWW92V1hHYWJOVVNJdkZpMi13NkJIZG1aN2wzRW1lQU55dkJrREJTS01kT2hVYk03R2gyQlpqdDZHYy1ORVE4MDVpQkZlbnpxMEt3YTZhcW9ndmhMS1VOc2tLRURYTS0zMk5LQQ?oc=5"
       }
      ],
      "polemica": false,
@@ -25007,12 +25246,13 @@
       "Il Sole 24 ORE",
       "L'Unione Sarda.it",
       "Libero",
+      "Libero Quotidiano",
       "Quotidiano Nazionale",
       "Virgilio",
       "il Nord Est",
       "ildenaro.it"
      ],
-     "n_testate": 11,
+     "n_testate": 12,
      "articoli": [
       {
        "titolo": "Elicottero caduto in Bosnia, Crosetto rassicura sulle condizioni dei feriti: \"Se la caveranno, è un miracolo\"",
@@ -25063,7 +25303,7 @@
        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZlEyYnM3cWlWYkYyanc0enNDYVY5N2lzaG01VXhRbXI3c2wtQWJJRmZPUjdoWUNLM3UyTUw0anhHbVk4RUhyR0lCR2Y1aVMwaXkxTkdGOVF5UWJGSnVnSFhITVBrTGE2ekNvZmxua1cySUxEZmZNdW1jbllpSERVUm44bVZObWl4R192MzZ4cUF2VUFIa05lYXZQRXdfZ2g0VkZWdVpXUllVdzVHNnpZSzM3TTYxVXFjOHJBOFZYWUlvLV92WmFOU2haT1ZyTkRvTjlHS251RUd6X3JUb3h3STBSb1dCekdRblE5Nm1MQVpjNnPSAfgBQVVfeXFMUDFEZGR2bWszdnZ5bjJDUkwyeC1TenY1Y3BkVV9NS051NkFaeGtDNlVMeXhzUE1rbmNHdUZyc2RidnVHNVd6dm9EZGpHekJKbnkyTS1RVkVjLWl2SG9HWUhqdlNqakNyeWVKQUF3RnBxLUpyUDNTTFBUMllONG1YVThQMC1pclMtY2tiM1J6LTF2cnRFamV5SmVhN3hiRkJkZ0t1cWxCU3pJZ0tGWDJsbk1XejhBS3VuNnEtSU80cWptQmZJSUp1clpmaW5VS3BzN3BiYTVueWFaUVlqV3pzVUVkS0llWHNvQXhDMTN0eTM1WTV3SUZ6RUs?oc=5"
       }
      ],
-     "polemica": true,
+     "polemica": false,
      "social": false,
      "virale": true,
      "citazioni": [
@@ -27730,7 +27970,7 @@
    ],
    "conteggi": {
     "storie": 77,
-    "polemiche": 12,
+    "polemiche": 11,
     "polemiche_social": 0,
     "virali": 23,
     "citazioni": 38,
@@ -28139,6 +28379,12 @@
        "fonte": "The Epoch Times Italia -",
        "data": "2026-10-30",
        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObWRvbWk5dkoxdzZWaTdXX2sxS0JUS0NqNVpab3lkZzdidGUyX2Q5Z1lacExQbkQ1UThxMkJPUVRSZUJVclFwcUxFOUpYQkZTQjlOTVQtZ1ZILXpGeEpRREJzVFk1eVZ3Qmdfd1lVejZoN0phVU9qSkFza0ZmcV9wNVJkZ2FxS251WTNGdkxsX3d3d2FjXzVEeEVYd1I3Si01VnhzTlJYaGlZOWhtQk02NXdSWU5fVmhjM3hPY0I0eXRxWjlLQXpOcGZXUjExUkY4QjJfR2JhUzFLVFpvdXBzY0RDcVdnRy1CaU41RUpRQ2hNRC1Mb294dlJaZ25mcmJpdEFpdEFYalROT3JNMkVqQ0kwTmtKRTFKMFEtd3I3ZHp0cG9YbjM0d0x3?oc=5"
+      },
+      {
+       "titolo": "Piantedosi: arrestato 22 enne che voleva compiere un attentato in una sinagoga e in una moschea a Milano",
+       "fonte": "The Epoch Times Italia -",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRG0yM3pOTFFuQmZBb245azEzNnRNU1BVN0Q0WDFyaFJjNmcyRlFINnhvODlWZm9Od3RIZlotSWtWVkd3T1ZnU1FuRlVFVllzci1zVExxSURCZDJVM1A5d202QktxVU9obXBkYlZLRVd5b3JXYjJJX20xMmRId1NwandtVnVueXBiaHlpdHBnNmxURUM0TUFWQmFoUkZEUHN2Yi12SjltOG9XTDh4UXgxZDh4Q3VjNUgxRHMyNE9WYjZQc3BKb0xRS0NON1FEeDRoQklhTzJIcVA?oc=5"
       }
      ],
      "polemica": false,
@@ -31145,6 +31391,29 @@
    "schieramento": "governo",
    "storie": [
     {
+     "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjR4c2VzTkZ6a2ZYd3FjT3l3U1BCY1pmYXl2YS1ZUV8zTXU3QjVSMjVja2JnVmllM0t0QVRUaFVTSWdPR1VIYTZDRmpfQ2ZJV0t2QnNHbUlkOTRDZEVxVmpNNm1VaTQxckl6aGZ2emRybzFUSUtYWWFCWmFLLTNVLWxtTzRQUXloRER1UW9QT3Jqa19VcDNyM3hGcDBWSVFDOGVvT2JtMHlGV2dK0gGyAUFVX3lxTE1lc0VLTW1YWGpselU2dmJoM2pyZlpkeE8zYXdSX2d3eFJWYnlGWEtid0kxM0U4a1JFRXB1TUttX21ZajhkREpScE9MZEo1a3ZYZVJ1YW05TUxQQmktY0lkU0JHS21IemNjLUVyNnRDeWpWcXJ1eEtXMnYxT2ZhajNkbDNxTGtnY2lZSXJJLV9qdUFCOGI5alFlcFRzSEtESXZabHZKaVRzOFd6LW5OS2poVVE?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Ranucci, Nordio stoppa FdI: niente ispezioni in Procura",
+     "testate": [
+      "Il Messaggero"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Ranucci, Nordio stoppa FdI: niente ispezioni in Procura",
+       "fonte": "Il Messaggero",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjR4c2VzTkZ6a2ZYd3FjT3l3U1BCY1pmYXl2YS1ZUV8zTXU3QjVSMjVja2JnVmllM0t0QVRUaFVTSWdPR1VIYTZDRmpfQ2ZJV0t2QnNHbUlkOTRDZEVxVmpNNm1VaTQxckl6aGZ2emRybzFUSUtYWWFCWmFLLTNVLWxtTzRQUXloRER1UW9QT3Jqa19VcDNyM3hGcDBWSVFDOGVvT2JtMHlGV2dK0gGyAUFVX3lxTE1lc0VLTW1YWGpselU2dmJoM2pyZlpkeE8zYXdSX2d3eFJWYnlGWEtid0kxM0U4a1JFRXB1TUttX21ZajhkREpScE9MZEo1a3ZYZVJ1YW05TUxQQmktY0lkU0JHS21IemNjLUVyNnRDeWpWcXJ1eEtXMnYxT2ZhajNkbDNxTGtnY2lZSXJJLV9qdUFCOGI5alFlcFRzSEtESXZabHZKaVRzOFd6LW5OS2poVVE?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTdFNU5EZUx4OS1seUZadmxreGN3RzhCMHN5VVdmUkliWm1MaEt4bHc2ejVxVzNLOGZwSXEzdEk2ZG1Tam1HRkhkcFdfejBDVVMwb2d2X2FIbGE5TWJrNk5qRW5Jdl9NOTlCMlJkY3hjUmhtNmd3UExVU01raG1oMHllQmE5d1llMzBSd3JjUDcyaVZGRFZJR2NqV1l6bmpwTTJ3YVhKcllDOWRhMFM3c0JBcURQX3RncE5sWFdSYzgwSDJUazRoetIByAFBVV95cUxPZTdFNU5EZUx4OS1seUZadmxreGN3RzhCMHN5VVdmUkliWm1MaEt4bHc2ejVxVzNLOGZwSXEzdEk2ZG1Tam1HRkhkcFdfejBDVVMwb2d2X2FIbGE5TWJrNk5qRW5Jdl9NOTlCMlJkY3hjUmhtNmd3UExVU01raG1oMHllQmE5d1llMzBSd3JjUDcyaVZGRFZJR2NqV1l6bmpwTTJ3YVhKcllDOWRhMFM3c0JBcURQX3RncE5sWFdSYzgwSDJUazRoeg?oc=5",
      "data": "2026-11-01",
      "titolo": "Il ministro Nordio vuole andare in pensione. Ecco cosa lascia",
@@ -31158,6 +31427,29 @@
        "fonte": "HuffPost Italia",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTdFNU5EZUx4OS1seUZadmxreGN3RzhCMHN5VVdmUkliWm1MaEt4bHc2ejVxVzNLOGZwSXEzdEk2ZG1Tam1HRkhkcFdfejBDVVMwb2d2X2FIbGE5TWJrNk5qRW5Jdl9NOTlCMlJkY3hjUmhtNmd3UExVU01raG1oMHllQmE5d1llMzBSd3JjUDcyaVZGRFZJR2NqV1l6bmpwTTJ3YVhKcllDOWRhMFM3c0JBcURQX3RncE5sWFdSYzgwSDJUazRoetIByAFBVV95cUxPZTdFNU5EZUx4OS1seUZadmxreGN3RzhCMHN5VVdmUkliWm1MaEt4bHc2ejVxVzNLOGZwSXEzdEk2ZG1Tam1HRkhkcFdfejBDVVMwb2d2X2FIbGE5TWJrNk5qRW5Jdl9NOTlCMlJkY3hjUmhtNmd3UExVU01raG1oMHllQmE5d1llMzBSd3JjUDcyaVZGRFZJR2NqV1l6bmpwTTJ3YVhKcllDOWRhMFM3c0JBcURQX3RncE5sWFdSYzgwSDJUazRoeg?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
+     "testate": [
+      "L'eco del sud"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
+       "fonte": "L'eco del sud",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5"
       }
      ],
      "polemica": false,
@@ -31356,6 +31648,31 @@
      "social": false,
      "virale": false,
      "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFk3UmtkeFpCRXItLVBKV29xbjgtUU5EaDg4T2RPQUpHMEFvdktrU0VBMWZmc0NjR2JQZHVPWnFDNzBxVFBLU3ozT2RnR2dXWnBrUlNKS1JBNnVxd08yWWFIVm9uZXVuTkozRmVUMkpBTjhwMFVOeDBOSGdYUUo0RG51WEZOV09rbjNr?oc=5",
+     "data": "2026-10-30",
+     "titolo": "Giustizia, Nordio: \"Su efficienza e organico risultati importanti\"",
+     "testate": [
+      "VoceAlta"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Giustizia, Nordio: \"Su efficienza e organico risultati importanti\"",
+       "fonte": "VoceAlta",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFk3UmtkeFpCRXItLVBKV29xbjgtUU5EaDg4T2RPQUpHMEFvdktrU0VBMWZmc0NjR2JQZHVPWnFDNzBxVFBLU3ozT2RnR2dXWnBrUlNKS1JBNnVxd08yWWFIVm9uZXVuTkozRmVUMkpBTjhwMFVOeDBOSGdYUUo0RG51WEZOV09rbjNr?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Su efficienza e organico risultati importanti"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -33472,11 +33789,11 @@
     }
    ],
    "conteggi": {
-    "storie": 64,
+    "storie": 67,
     "polemiche": 12,
     "polemiche_social": 1,
     "virali": 17,
-    "citazioni": 47,
+    "citazioni": 48,
     "giorni": 45
    }
   },
@@ -33496,9 +33813,10 @@
      "titolo": "Electrolux, Urso indica il 3 novembre per l’intesa",
      "testate": [
       "DiariodelWeb.it",
+      "Il Corriere Nazionale",
       "Il Gazzettino"
      ],
-     "n_testate": 2,
+     "n_testate": 3,
      "articoli": [
       {
        "titolo": "Electrolux, Urso indica il 3 novembre per l’intesa",
@@ -33511,11 +33829,17 @@
        "fonte": "Il Gazzettino",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQmNaU0dYVV80R1JjLXRyOUtxRnJhTHN1S1p3WVh4MXhsSnJhWVluSVFMbzM2Zlc3Z2w3ODY2anVUcWQ1MDJVSEI3Y0xta3c1TVo1ZHJndUFXUGFVUFVidHdrcWQzTW52R2pxNGxuVE5TX1RGc21tN0M5T2tfMXpNTEc3NjZXU192N29SVXY1UDZVM1FnSFdYbG1FVnRqdVhtZkZTR1huWEkzVE5oNDFkM3ZKbzRlMzh2LTdLSjFCWdIBtgFBVV95cUxNS1hyVkJOei1zQVo5RHVvUDNka1lHeFQ4U09GLWdkb0U5dUFJSDN6TVBQY1Z5WnN2X29TQi1iNFJDSDJqclI2Q1V4LV9OQkFxVk9GczRTUWhaU2RreGpYcG5pVVFvYklaM3lXRi1Qc2pJejFiaXU1aE93TV9ZNjF5b3BfZ3dDYmlBbFNIa0p0Sm44NkpySzZoVzNHMks5cWI2ak4zT0lDZHhySkZxR3MwQ3VXQmhtUQ?oc=5"
+      },
+      {
+       "titolo": "Electrolux, Urso accelera: trattativa a oltranza per salvare gli stabilimenti italiani.",
+       "fonte": "Il Corriere Nazionale",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc1piTUoycFRvcVdYUHotT1NpUkp6UXlIN0NHZWZrU3JZWWdKRDA4NjlWQUVvZGRsNUpaWVlIbDhzaFNfY1JCa2pqZEhiMk1FdkRTemQxRGF2bjkxQkp4SmtneUcteUJRc2hlWG9aaHRvSU5STjYwRWJQT2JhZXNHYVdzcS1xNWRHbTlaR0Y5MEsyMWNuNFBxam03U1Y0Z2RZaHNmUlc5TEthRFIxd2Z4X3hGQlJDUzNoQjY1WEJDeEwwVjE0S1F6TDdB?oc=5"
       }
      ],
      "polemica": false,
      "social": false,
-     "virale": false,
+     "virale": true,
      "citazioni": [],
      "verifiche": [],
      "confronti": []
@@ -33525,10 +33849,11 @@
      "data": "2026-10-31",
      "titolo": "Transizione 5.0, Urso firma il decreto da 198 milioni per le imprese escluse dagli incentivi: fondi fino al 2028",
      "testate": [
+      "Il Resto del Carlino",
       "La Discussione",
       "Padovanews"
      ],
-     "n_testate": 2,
+     "n_testate": 3,
      "articoli": [
       {
        "titolo": "Transizione 5.0, Urso firma il decreto da 198 milioni per le imprese escluse dagli incentivi: fondi fino al 2028",
@@ -33541,11 +33866,17 @@
        "fonte": "Padovanews",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRUpwem5GZTJaY09JWElQdER2QjdoTXEtVVlPUEVaZk9iQlRRb1dVd1p5YmpoMkQzb0c0WWNpTVU2dHh6YjhvZ3dRU29CWG5zcW5nREt6UlY0T2E0WGMzSUNDMktKb1RxZTNIVzRIM3lpa2pWSzZyUnJYSHRBOVBGelQ0UDRTb3c3LXBMc1B2a0ZtXzRRcVNPSHFzd1JCWjU4aGhpYWctenI1ZXIyRHl2RnVpQXZ0MVZucFNLbGNkdGh3OElFTzV0aUthZ3V0NnI3NU9RMzh0bnBfMW9fVXltMGppOXIyNEd4VHIwdGxiajZsdGdxdzhHUG1hc0ttdm1tb3R3NmZ3?oc=5"
+      },
+      {
+       "titolo": "Urso firma il decreto Transizione 5.0 per le imprese esodate",
+       "fonte": "Il Resto del Carlino",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzlTZVM5ZlZWV19ud0VPa1ZuSFZRODlwSS1OR2JvSXllUEI1YkRqTGlRNDcyTmNubkRiU1hRUXNSR01LbVZOLWRiWHlobzloaVRNSDhSQWpBNHJWVlE4cHNtbnltaXVURTBiUGMxVVl1UExVZWNmd01hcWdVWWd3M3l2RVc1MnI4R3h2RjlFbjZacWQ5TjdIWTJR?oc=5"
       }
      ],
      "polemica": false,
      "social": false,
-     "virale": false,
+     "virale": true,
      "citazioni": [],
      "verifiche": [],
      "confronti": []
@@ -35456,7 +35787,7 @@
     "storie": 62,
     "polemiche": 2,
     "polemiche_social": 0,
-    "virali": 16,
+    "virali": 18,
     "citazioni": 37,
     "giorni": 45
    }
@@ -40037,6 +40368,36 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUTNpWndIalREeUdVVFBSTGxyNG9DUDNVR0kyZVZJOGozT3Y4YWlpekFwNTNMT3liaGZuaEZpYmpVUHJOTHNjXy1CNENIUlQ5aDdjalRNc3Y0QjVhaU0xcTdsVFhLaXRaZmUyWEpzVGdBeWpMbWZydEZwY0c3V1BnYlpUVGhwQjdJMG0xeWRILXY2RDdyMmZONUxZYXFKTS0xNVRFbTlodnAxZ05pYnNBSkZORnFoby16SklHUF9jNmVrdjNGRUdya2VDR2Y3T3Zja01pNGJaZG5LQ3NRMG1YRVp3eC1TYU5Fa01OaHJRalJhZUFrb2VxQzFkenBlZw?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Centrosinistra, parte la grande \"ammucchiata\": modello Ulivo per tentare di battere Meloni, ma Conte \"blinda\" Schlein",
+     "testate": [
+      "Il Giornale d'Italia",
+      "la Repubblica"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Centrosinistra, parte la grande \"ammucchiata\": modello Ulivo per tentare di battere Meloni, ma Conte \"blinda\" Schlein",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUTNpWndIalREeUdVVFBSTGxyNG9DUDNVR0kyZVZJOGozT3Y4YWlpekFwNTNMT3liaGZuaEZpYmpVUHJOTHNjXy1CNENIUlQ5aDdjalRNc3Y0QjVhaU0xcTdsVFhLaXRaZmUyWEpzVGdBeWpMbWZydEZwY0c3V1BnYlpUVGhwQjdJMG0xeWRILXY2RDdyMmZONUxZYXFKTS0xNVRFbTlodnAxZ05pYnNBSkZORnFoby16SklHUF9jNmVrdjNGRUdya2VDR2Y3T3Zja01pNGJaZG5LQ3NRMG1YRVp3eC1TYU5Fa01OaHJRalJhZUFrb2VxQzFkenBlZw?oc=5"
+      },
+      {
+       "titolo": "Atreju, Meloni ci riprova: invita Schlein e Conte",
+       "fonte": "la Repubblica",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2JOVGFKSXNvQVc5dFVGZDVMMWZaZUkybGkwcnAwb183R2xVVTFkUndZYTVDWmJoVFRCOFNTcTRxZDhzNHZyRzM2Q1B3NTh5cXJXdWlyMUJCTy1kOGpQQjA0TldWX3ZoOFBQNEhPSk5ISWtWV3lDYkpUUHZlRElvUnJvVVVtVTdyVDNPTW9ZQVZLTkFiOVYxc2k5QlRjZUFGS0xn0gGoAUFVX3lxTE5xd1RWMVRtLTVicWYyRm1xZ05BRDR1OHFITGxsTTBTaFg5T3FQczdSdWpQWW5KN29LUW9mUDZ6b3hFNG1yZzA4Mm5PeV9Oc0FoWVd1dGpHRnZ5aTBDOXJLRHgxaGlxRlJqRjFFanZ4WGVtT2RoUGVTS1VuUEN4S3J1V1VmZjg2b29LMlJFTmVwTXp5MEVTd2NiSmxuN1l6MlMyV29WeDF0VA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPam9COUFYX1Jod1VqSFVpdERuek1rTWZ3dlBxVkY4LVk4bngxUXhoVjZSTFJwOE9MQWZxMFN0NGpOYWVuY2h0UzhWNGRrbm9MOUdnQmYyX1BRMTgyNEEzQWJnV1dCNFRzQ3ZvRVNTM2NHYk5TNzQyZlpMa3lKUVBZdS1CVXBVbHQ0aXI5bUNFMjF1VHdJWG0wZ3FFaGVRSFU?oc=5",
      "data": "2026-11-01",
      "titolo": "Festival dell’Economia sociale. Incontri dal 12 novembre con Schlein e i ministri Tajani, Lollobrigida e Foti",
@@ -40083,29 +40444,6 @@
      "confronti": []
     },
     {
-     "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVVaem9sOWpmQ1BJRGt2LUYxalFobkcyaldNWV9IMm1UWE5kbU1jaVc5VDczc2dRczJNWkpyYnRyNldYNGxDenBteDhhblZKZjFZLUpEWUhwSnRHNlU5TzVWM0NVSWo5eU5NM2dlQ0VBSW1BRS1FM0RQNnl1VV85OTBSR1NSRkpyUEM5blF3NktwZDExWVlSWDhuX0VrVmx2MFBON2pCXzlaejJtU0I5ZWMyVHU4UGdNWWNLdFFGRHBCZ1VHZDUyM1RjQTFKd1Z5alprR1BLOVpKcEtsY18wTtIB5gFBVV95cUxQWVppdlZFSS1GQkpqUnZhTl9ZZ2NiOHAwa2ljR3VWWGVueTdvcENjMHM4REVrYkQwcEpUNDhJQzY2enhKWWJYeF90bC1haDc2dC1ZX1oxVU42SHFBSGstM1dsVWhoYjF3QXBraTQ5VU5pNENrTWpWT3RCWDkzVHJIWk5CdDlEV1l3RlotV1gxZUxJNmw5VzIwWVlHQUh1TnBoZlhpWEd6Wk9LT1kzMjlDcjdDMEQ1UlBKRUFDUWVTTkVHdkxJR0F2Sll1T25LWmVDTnowRk11ekNQalRQTDJrOU4weG8yZw?oc=5",
-     "data": "2026-11-01",
-     "titolo": "Da Rifondazione ai sindacati di base: Schlein e Conte, caccia al voto rosso",
-     "testate": [
-      "Corriere Roma"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Da Rifondazione ai sindacati di base: Schlein e Conte, caccia al voto rosso",
-       "fonte": "Corriere Roma",
-       "data": "2026-11-01",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVVaem9sOWpmQ1BJRGt2LUYxalFobkcyaldNWV9IMm1UWE5kbU1jaVc5VDczc2dRczJNWkpyYnRyNldYNGxDenBteDhhblZKZjFZLUpEWUhwSnRHNlU5TzVWM0NVSWo5eU5NM2dlQ0VBSW1BRS1FM0RQNnl1VV85OTBSR1NSRkpyUEM5blF3NktwZDExWVlSWDhuX0VrVmx2MFBON2pCXzlaejJtU0I5ZWMyVHU4UGdNWWNLdFFGRHBCZ1VHZDUyM1RjQTFKd1Z5alprR1BLOVpKcEtsY18wTtIB5gFBVV95cUxQWVppdlZFSS1GQkpqUnZhTl9ZZ2NiOHAwa2ljR3VWWGVueTdvcENjMHM4REVrYkQwcEpUNDhJQzY2enhKWWJYeF90bC1haDc2dC1ZX1oxVU42SHFBSGstM1dsVWhoYjF3QXBraTQ5VU5pNENrTWpWT3RCWDkzVHJIWk5CdDlEV1l3RlotV1gxZUxJNmw5VzIwWVlHQUh1TnBoZlhpWEd6Wk9LT1kzMjlDcjdDMEQ1UlBKRUFDUWVTTkVHdkxJR0F2Sll1T25LWmVDTnowRk11ekNQalRQTDJrOU4weG8yZw?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
      "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2hxcEdzVXkzaDZJeVV2SmNvTFFRZjFQeGFnaFZucUdBY3VUVUx4eU9qQVp2Z2g5VlJVVkJLWldDSDZTdlRmV0IwQWNUZTdpV3dQMWNSNDNoREc1amwyY2RCUmdSLURFZ1Fuckp4a1p3VHZweFdkSnd5b09nblpaZl81U3luNmtnSGNwRlVNMV9fQ0ktR0FZMTBmWnR5QjczUUlUZThuR3NfN2hvZjJRdVBReW5tVi0tYVJwQ3QyUGZnVVZh0gHEAUFVX3lxTFBHaHFwR3NVeTNoNkl5VXZKY29MUVFmMVB4YWdoVm5xR0FjdVRVTHh5T2pBWnZnaDlWUlVWQktaV0NINlN2VGZXQjBBY1RlN2lXd1AxY1I0M2hERzVqbDJjZEJSZ1ItREVnUW5ySnhrWndUdnB4V2RKd3lvT2duWlpmXzVTeW42a2dIY3BGVU0xX19DSS1HQVkxMGZadHlCNzNRSVRlOG5Hc183aG9mMlF1UFF5bm1WLS1hUnBDdDJQZmdVVmE?oc=5",
      "data": "2026-11-01",
      "titolo": "Conte chiama, Bettini risponde, Schlein sotto il fuoco amico",
@@ -40119,6 +40457,12 @@
        "fonte": "La Gazzetta del Mezzogiorno",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2hxcEdzVXkzaDZJeVV2SmNvTFFRZjFQeGFnaFZucUdBY3VUVUx4eU9qQVp2Z2g5VlJVVkJLWldDSDZTdlRmV0IwQWNUZTdpV3dQMWNSNDNoREc1amwyY2RCUmdSLURFZ1Fuckp4a1p3VHZweFdkSnd5b09nblpaZl81U3luNmtnSGNwRlVNMV9fQ0ktR0FZMTBmWnR5QjczUUlUZThuR3NfN2hvZjJRdVBReW5tVi0tYVJwQ3QyUGZnVVZh0gHEAUFVX3lxTFBHaHFwR3NVeTNoNkl5VXZKY29MUVFmMVB4YWdoVm5xR0FjdVRVTHh5T2pBWnZnaDlWUlVWQktaV0NINlN2VGZXQjBBY1RlN2lXd1AxY1I0M2hERzVqbDJjZEJSZ1ItREVnUW5ySnhrWndUdnB4V2RKd3lvT2duWlpmXzVTeW42a2dIY3BGVU0xX19DSS1HQVkxMGZadHlCNzNRSVRlOG5Hc183aG9mMlF1UFF5bm1WLS1hUnBDdDJQZmdVVmE?oc=5"
+      },
+      {
+       "titolo": "Conte chiama, Bettini risponde, Schlein sotto il fuoco amico",
+       "fonte": "La Gazzetta del Mezzogiorno",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmxFTGhNMHhoMlNMcFNBWTZVQ2ZYMEhKZlVMLW1TeEt4YWFJYzk3SHZZNGRyVDVOaHlKODY1Y1BfRThzSGpoTVMzMEVtQUM1T2JGYVIzODhoUVpwMlpHS01wa3VkeF9vQlAybTNEaC03RElWX3BpUUZGQnNhdl85QUlNTHJTOFE3aVkwZUNhRHEycTdQR2JJYUFTZnZqSTRSLWhOenVEWkxGcnhZcVltN1hxTzg1TE9MS1I5UGNvcmVGaThPWWfSAcQBQVVfeXFMUEdocXBHc1V5M2g2SXlVdkpjb0xRUWYxUHhhZ2hWbnFHQWN1VFVMeHlPakFadmdoOVZSVVZCS1pXQ0g2U3ZUZldCMEFjVGU3aVd3UDFjUjQzaERHNWpsMmNkQlJnUi1ERWdRbnJKeGtad1R2cHhXZEp3eW9PZ25aWmZfNVN5bjZrZ0hjcEZVTTFfX0NJLUdBWTEwZlp0eUI3M1FJVGU4bkdzXzdob2YyUXVQUXlubVYtLWFScEN0MlBmZ1VWYQ?oc=5"
       }
      ],
      "polemica": false,
@@ -40136,11 +40480,14 @@
       "ANSA",
       "Adnkronos",
       "Calabria News",
+      "Gaiaitalia.com Notizie",
+      "Gazzetta del Sud",
       "Il Fatto Quotidiano",
       "S&H Magazine",
+      "StrettoWeb",
       "Virgilio"
      ],
-     "n_testate": 6,
+     "n_testate": 9,
      "articoli": [
       {
        "titolo": "Giuseppe Conte sfida Elly Schlein su Renzi e sul programma, pronti 20 punti tra cui il reddito di cittadinanza",
@@ -40198,6 +40545,36 @@
       "Voglio garanzie su Renzi o il M5S non ci starà",
       "Garanzie su Renzi o M5S non ci sta. Riproporremo il reddito di cittadinanza"
      ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHQ4Z3hrdVBpOEltQVp3bFJtclhWRElxQ3N2Sy12M1hkRjZMNTc3RVdEVzJ1bFF3R25hSldMdzlBQURaUXdJa3ZRQmMzbThlbk1mLXJySVdFUXRfYnluT3ZXbWRhc2xvVk8tSWhsbVBxcGpFbzlEMmJJQ1BhMVFSa3JneW5WTFhNamxkcmdSb1FicUNQU1BMU2laZjNYajhhWWpITTMzYV9pSVZPcllNaHd0TEFwRUpQU0NBN21zRnbSAcQBQVVfeXFMTUNKRHBMZEt2elpKRXU4NnBnQjdlX2dBLWliS05qam4yNUNNazNnSGtWekF4enROaU1peW5xcDNubV9Ta1JaX2V4OFB0bngtMHBFQkl3VXhYMm8xZlVHQW5PUnM2dlZ6VjVBYktBSGhQTkNPaHJmcy1vcXlrdWRxVHdvc20wdVN4U1NTMXFaMnJNQjZZYVptSWlYZUxITEJZT3Njelg5OS11b29WVUZVQzZhaTExZjJnWE1UQjVNVjJqeVFlWg?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Nicola Fratoianni, ecco la sua dichiarazione dei redditi (è più alta di quella di Schlein) | Libero Quotidiano.it",
+     "testate": [
+      "Il Tempo",
+      "Libero Quotidiano"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Nicola Fratoianni, ecco la sua dichiarazione dei redditi (è più alta di quella di Schlein) | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHQ4Z3hrdVBpOEltQVp3bFJtclhWRElxQ3N2Sy12M1hkRjZMNTc3RVdEVzJ1bFF3R25hSldMdzlBQURaUXdJa3ZRQmMzbThlbk1mLXJySVdFUXRfYnluT3ZXbWRhc2xvVk8tSWhsbVBxcGpFbzlEMmJJQ1BhMVFSa3JneW5WTFhNamxkcmdSb1FicUNQU1BMU2laZjNYajhhWWpITTMzYV9pSVZPcllNaHd0TEFwRUpQU0NBN21zRnbSAcQBQVVfeXFMTUNKRHBMZEt2elpKRXU4NnBnQjdlX2dBLWliS05qam4yNUNNazNnSGtWekF4enROaU1peW5xcDNubV9Ta1JaX2V4OFB0bngtMHBFQkl3VXhYMm8xZlVHQW5PUnM2dlZ6VjVBYktBSGhQTkNPaHJmcy1vcXlrdWRxVHdvc20wdVN4U1NTMXFaMnJNQjZZYVptSWlYZUxITEJZT3Njelg5OS11b29WVUZVQzZhaTExZjJnWE1UQjVNVjJqeVFlWg?oc=5"
+      },
+      {
+       "titolo": "La partita di Meloni e quella di Schlein",
+       "fonte": "Il Tempo",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmd0a2RqSzVza3NxOHgxZUZZWGRYbnQwMHNobEtWYTliUFp6SWVxV0E2cVJVYldoVVhhb1gwUGlLVG5PbXpIdHVOeUJ4VlBqNlJaWHVqd09tdFVjWk8yRTAyc2ZfbVR0b01YRnBCRDNiZENEbUFFZUJJNlphajZSQ1BudjdfYklfV21oVGlYdjRsckU?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
      "verifiche": [],
      "confronti": []
     },
@@ -40292,6 +40669,29 @@
        "fonte": "La Nazione",
        "data": "2026-10-31",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVQtVGQzSDRSeHEwRFQwVFlVQ215UU8wdElULUdsZng5MTBPSlBhc2ZQMnZNclpmTkw0bjg2UTdmVDBUWEdsM0NoWUxTZ1FYaTZxbTJsWG52T1ZNSW1qS25zOE1kOGViYTFkRGMtazJLUGV4S3pIYnVuVC1VZ1ZWZ05wSXJSNGhUZEVzTEpn?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUkzZVlqU2NjVlV0UGI0UUdXeXRUbEFFSDFYX3E2amtxR3RJRTlmZDFVMENBN0c2M055MVlZWWJ4S01CdjNUa3JHVV9sR0N2YmExajZuUDVNN295S1dyc2UtUDlXcTFSMy1xRExyOFVLd3B0X1hHTEo1M1R1ZTFmY0ZoaTNSd3NDR1d6RWRBd3dIcG9uQVN3REV2SVgtOVN6YUR3THJJUlV2Y0N5VDhsT2VERVRmMWc1SGd6MkFVRzN1NmpMNzk0NHpYZDA5Z9IB0gFBVV95cUxOY3hEeFphcGtKY1ZsM0tzUWFBQzhNSmJYRkdoMzRUVnFvNFFBMGNUZzFoR29Cb0lWNHhaaW9rWVloRFBINU5SVGp2U1EtaXdEOTh3OV94a2x5OGx1Nklia1U5NFFocG41aFhKMXN1Z1RDTDNiOG5ubHpDdVd2T1hvdFBIZFZ0NkZUOC1wX2g1ZEQyVFNvbXNETVdaUDktYkRzYXZoZHRZV3d6aElqM3hXR2FVWnhqejBoMl9rN3VwcTFLaGIxSHZ3NXJYbnRQNkpRN2c?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Che botta per Landini e Schlein: il report che li sotterra (e fa godere Meloni) | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Che botta per Landini e Schlein: il report che li sotterra (e fa godere Meloni) | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUkzZVlqU2NjVlV0UGI0UUdXeXRUbEFFSDFYX3E2amtxR3RJRTlmZDFVMENBN0c2M055MVlZWWJ4S01CdjNUa3JHVV9sR0N2YmExajZuUDVNN295S1dyc2UtUDlXcTFSMy1xRExyOFVLd3B0X1hHTEo1M1R1ZTFmY0ZoaTNSd3NDR1d6RWRBd3dIcG9uQVN3REV2SVgtOVN6YUR3THJJUlV2Y0N5VDhsT2VERVRmMWc1SGd6MkFVRzN1NmpMNzk0NHpYZDA5Z9IB0gFBVV95cUxOY3hEeFphcGtKY1ZsM0tzUWFBQzhNSmJYRkdoMzRUVnFvNFFBMGNUZzFoR29Cb0lWNHhaaW9rWVloRFBINU5SVGp2U1EtaXdEOTh3OV94a2x5OGx1Nklia1U5NFFocG41aFhKMXN1Z1RDTDNiOG5ubHpDdVd2T1hvdFBIZFZ0NkZUOC1wX2g1ZEQyVFNvbXNETVdaUDktYkRzYXZoZHRZV3d6aElqM3hXR2FVWnhqejBoMl9rN3VwcTFLaGIxSHZ3NXJYbnRQNkpRN2c?oc=5"
       }
      ],
      "polemica": false,
@@ -40430,6 +40830,116 @@
      "social": false,
      "virale": true,
      "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVVaem9sOWpmQ1BJRGt2LUYxalFobkcyaldNWV9IMm1UWE5kbU1jaVc5VDczc2dRczJNWkpyYnRyNldYNGxDenBteDhhblZKZjFZLUpEWUhwSnRHNlU5TzVWM0NVSWo5eU5NM2dlQ0VBSW1BRS1FM0RQNnl1VV85OTBSR1NSRkpyUEM5blF3NktwZDExWVlSWDhuX0VrVmx2MFBON2pCXzlaejJtU0I5ZWMyVHU4UGdNWWNLdFFGRHBCZ1VHZDUyM1RjQTFKd1Z5alprR1BLOVpKcEtsY18wTtIB5gFBVV95cUxQWVppdlZFSS1GQkpqUnZhTl9ZZ2NiOHAwa2ljR3VWWGVueTdvcENjMHM4REVrYkQwcEpUNDhJQzY2enhKWWJYeF90bC1haDc2dC1ZX1oxVU42SHFBSGstM1dsVWhoYjF3QXBraTQ5VU5pNENrTWpWT3RCWDkzVHJIWk5CdDlEV1l3RlotV1gxZUxJNmw5VzIwWVlHQUh1TnBoZlhpWEd6Wk9LT1kzMjlDcjdDMEQ1UlBKRUFDUWVTTkVHdkxJR0F2Sll1T25LWmVDTnowRk11ekNQalRQTDJrOU4weG8yZw?oc=5",
+     "data": "2026-10-30",
+     "titolo": "Da Rifondazione ai sindacati di base: Schlein e Conte, caccia al voto rosso",
+     "testate": [
+      "Affaritaliani",
+      "Corriere Roma",
+      "Il Giornale d'Italia",
+      "StrettoWeb",
+      "Zazoom Social News"
+     ],
+     "n_testate": 5,
+     "articoli": [
+      {
+       "titolo": "Da Rifondazione ai sindacati di base: Schlein e Conte, caccia al voto rosso",
+       "fonte": "Corriere Roma",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVVaem9sOWpmQ1BJRGt2LUYxalFobkcyaldNWV9IMm1UWE5kbU1jaVc5VDczc2dRczJNWkpyYnRyNldYNGxDenBteDhhblZKZjFZLUpEWUhwSnRHNlU5TzVWM0NVSWo5eU5NM2dlQ0VBSW1BRS1FM0RQNnl1VV85OTBSR1NSRkpyUEM5blF3NktwZDExWVlSWDhuX0VrVmx2MFBON2pCXzlaejJtU0I5ZWMyVHU4UGdNWWNLdFFGRHBCZ1VHZDUyM1RjQTFKd1Z5alprR1BLOVpKcEtsY18wTtIB5gFBVV95cUxQWVppdlZFSS1GQkpqUnZhTl9ZZ2NiOHAwa2ljR3VWWGVueTdvcENjMHM4REVrYkQwcEpUNDhJQzY2enhKWWJYeF90bC1haDc2dC1ZX1oxVU42SHFBSGstM1dsVWhoYjF3QXBraTQ5VU5pNENrTWpWT3RCWDkzVHJIWk5CdDlEV1l3RlotV1gxZUxJNmw5VzIwWVlHQUh1TnBoZlhpWEd6Wk9LT1kzMjlDcjdDMEQ1UlBKRUFDUWVTTkVHdkxJR0F2Sll1T25LWmVDTnowRk11ekNQalRQTDJrOU4weG8yZw?oc=5"
+      },
+      {
+       "titolo": "Campo largo, programma entro novembre e primarie a febbraio: Schlein, Conte e Avs fissano la roadmap per il voto",
+       "fonte": "Affaritaliani",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZXBSTEF0U0VUM1VJX3AzMUV5MG9PZ2tBcGcxc3VxNG9IMWx1U1lTSkVTX3RsOEVpWEY4YW5BTVdGekZmdVkwTlpoNkhHYTBERm1LSnlZaEFaQXJTbFpodUhybDhNWXhQS0tvRy02Zk5MRTBxSGh4c2xwZ3dKdHdSLWhDYXdXVlY3WXlUMnA5OWRaN09BalZobkgzeWpHUGgzajVrSVJXVlJIaGVHc0M0NWtZS2xPeTN3a3o0eENJNzVsS2t4MEtSZkdrOVlZNlVHMTRUV2tQakYyVFBfZEtSbkpvUWJpdG8?oc=5"
+      },
+      {
+       "titolo": "Campo Largo, accordo tra Schlein, Conte, Bonelli e Fratoianni: primarie entro febbraio e programma comune a novembre",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSUJlazB5YWJ1YjZTcThlRUV2R1BlWnBVQ1lCYU85UEI4dEJJMmNjbTJNVzhnWG9qUkprM0IxU0RmWGRuTzRKM0poVmw5SDNzNUhQbnhVWHNFMkdvUUlMOGlQNThRejd6Q0k5YjczTlkzOTJfOUdlMEt2RExWODAxelhwQW5sMTVWa0VVellPNlNxWDlCZDFPekU4Y1hmYmUzVmVXN0x6eUZlWG5XRk50TTF3WHJ1bmIwUUNqd1ZvaTZmNGJmWFhfRHUtN0Z0Ym5fNzBPbjhzRjFTbURrX0xMT1BsTVlDZzBPRnEyNdIB8gFBVV95cUxNZ2JrUUk2UmtmWUN0TGJIYVdQX1RZMi05aEpLOGhSMDFwSDZmTk9SOUF0ZDBhMnRUMTQ5Si1MRmo4dVdoaWpCQ0d0RnYxNXdEZE1ZR0hPTzdsMndFOWdsN01mVzZVcnlZSDljeE1ZMURJb2VLdzJaQWVnaEhTMWtWcHBmcUhTZE1icS1HcWdUZ0J1NFlxd2hNaTUwM2xoNDM0cGNNb21FN2h4eVJUWkpMcVlKSkVvZEpJNnZCU0hMV0FJdEgzMGNNOG5uZ0h6eTdNcXdiUjZ0VVZTdTBpZ3RxQm5xTTFLZWhwTmFRNHEtalJyUQ?oc=5"
+      },
+      {
+       "titolo": "Da Rifondazione ai sindacati di base | Schlein e Conte caccia al voto rosso",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWpoeHA2V0w4UjY1REJieEVpNGo2WlFEal9ycU1OV2tEcnhvcDlkeVcyYUF5bmxrb3lOMFJCa2VROEtZX2ViZVVwZUczMk42THNoUDc5cGN1dXkxRURjY2YxbTRNaktDRG5CMm9yM29QWVVpSGM5STJjSDJRNk9DbkktajhnZUpXVlNyY1BwRlhkeGp5Z0dYemMxdzFLTHVpeF9mTElVbFdvYjJHcnJnbUpBMFJfcmM?oc=5"
+      },
+      {
+       "titolo": "Primarie a febbraio, ma nel Campo Largo esplode il caso ballottaggio: il piano di Conte per evitare la sfida con Schlein",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPS3U4N0dyWERrcGNzRnlMZU9NVEVtelJDUzUtdTNXUUlTSkNNczY5dmhqcmRrcjhRclRVelR3b0N2Vi00a0tsaVk2b2xMRUg5MldhaDNlbnZxakp6VGZ2TlBIc1hMZzRvckxnVGkzNUhETnFZRk9Da2hVbjNMM0Z1NGFQYUtzQ1B1cWtuU2xiQlhRRVhWTml4SThlTGZ6ZW5SYkYtWXRma09zTHRXbkctLXgwTDJJeEFEN0c5NFEtWGlFWnlfTEdCRjlGdTVrNVVUX2JER3IyZUU0ZHRmOWRxY0FkRms3SjJVR0swR05sY3l4bHlnUVhTTjl2TDZYQmp4TmNHYzk4QUI?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWNHOG5WZm4xZlVJQ2Z2OTRQYlZSWnk5UlhNdEVDakhZYmxEWVdJVmFmZ3d2RjBycFBqSzVHaWxyS1hxZl9CSjRBMzRheS1oNDJBSWh2d1pnUzNvakZRaWlkaTUxcnZpUDRNaVNiMV9BVHVWWno0UzFBbkp5V1RWaDc3S0N5YXl0VnZldFlGY2t3dWhja21IXzdCYUFTbHBiM3ctaUpocDIzYUdLNy0tY2hLdWQ1MlN3a2Jla2ZCUGZSSFdlaDFqTUdEMEhxSS1ldEFMM3hxOG1nR2YwZXc?oc=5",
+     "data": "2026-10-30",
+     "titolo": "Campo largo, il giorno del vertice: primo vero confronto Schlein-Conte. Tutti i nodi ancora da sciogliere",
+     "testate": [
+      "Affaritaliani",
+      "Il Giornale d'Italia",
+      "La Verità",
+      "StrettoWeb",
+      "https://www.lacapitalenews.it/"
+     ],
+     "n_testate": 5,
+     "articoli": [
+      {
+       "titolo": "Campo largo, il giorno del vertice: primo vero confronto Schlein-Conte. Tutti i nodi ancora da sciogliere",
+       "fonte": "Affaritaliani",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWNHOG5WZm4xZlVJQ2Z2OTRQYlZSWnk5UlhNdEVDakhZYmxEWVdJVmFmZ3d2RjBycFBqSzVHaWxyS1hxZl9CSjRBMzRheS1oNDJBSWh2d1pnUzNvakZRaWlkaTUxcnZpUDRNaVNiMV9BVHVWWno0UzFBbkp5V1RWaDc3S0N5YXl0VnZldFlGY2t3dWhja21IXzdCYUFTbHBiM3ctaUpocDIzYUdLNy0tY2hLdWQ1MlN3a2Jla2ZCUGZSSFdlaDFqTUdEMEhxSS1ldEFMM3hxOG1nR2YwZXc?oc=5"
+      },
+      {
+       "titolo": "Campo largo, intesa ancora lontana: Schlein valuta primarie a doppio turno e apre ai piccoli partiti, Conte frena su Renzi",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVEpjOE1hVXEyYzVFMjFFX2FiUDFWUjVoa0NYejVQWVE0WG1GMmZMRnU0U1JSclU4NWZUUkNrSDlRcVY0NEx4bEk4VDMxa09VRndyanJnejZSSFFfTXRvU1VDZjhNZklkR2hoVjUwVElVdThIczRsWjRaTXdrMXgtNG00WEV5WDRqMkJ3VWVWRFVYRHpfU0F3NGllTmlMNWxVOFA0SE9HcVNNLXZ1UDc1N3RCSmwyV1IySHdYcFItR1FiZ3d4SlFVX1BkNENtczBOZHN3WFFUMjJHY25wRkRIV29LNkdIOGZTTFBYQmFQSXFzMzhpNmc5Tk9sR24zZDRPZDVCLS1ab0luZw?oc=5"
+      },
+      {
+       "titolo": "Campo largo, Conte avverte Schlein: “Renzi nel governo? Servono garanzie politiche, altrimenti il M5S non ci sta”",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRlV6VDdBbjNlQ1c3bXl5SkgzZGtTUlBYQ1FMQWFwYUFaT2VKNUtCaUpWNFcySFUxeDRfYk5kaXA5aTMxTFpHYlhtdlRNZmhmY18yQXgzUEZiQkJsQmlVOHdIYjdBM1hBRlYtcXBIeFZ0cFgzWjJFTUw3VjBUWTFGT2Q4Y3FyekZUOEdPelEwN1R3UVBFZllUZm1TNVBCemNCcE4xbkp4XzI4Nl9IX256Q2tKSW50QUlVb1BvTUR6dVZfYTFrdWNPLUpoeFF4b0d2dkJTcFZBZ0s2UF9JYmVBUDdfOFI3UdIB6wFBVV95cUxOSlIxUWxyaWtpRVFmMUh6dXRGa2Fvb0FEMFU3NDhEdFhWTFJxOWM3S2k3SDlfWHgyZjhvMEk1QlJ6Rkw3X2gxYlhTMzJidFNmN3FFZk9XRng5THJYVWlzNUZYRDNfSnFHSG5sVDJwekFoV3IxVXBEMzR3cUVtNTN0aEI5c2xRS2dIVDd4UmZiME1FT0JZeGtjSW43Rzl1TFF0eTRfSGFHeTNhOS0ycldqZ2xBNjRhc2d2ZGRpV2FBVWMxc0FONXRxWjdTUzV4U3RyYlE1TkZ1anNreDhFYmNfcDluSjBpV2IxUGI4?oc=5"
+      },
+      {
+       "titolo": "Campo largo o campo minato? Road map segnata (Conte favorito), ma le alleanze sono una vera trappola per Schlein",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQN2tIU1BucVFUU0xwX0J3V1NRRW9oaVBPakN0YXZVQ2hVV0hsOGVoV0ctdkhMc1djdHk5QTdDTmJVdlduLUpiVGEzaGdVZzdhbVRBNTBpMVBDU01oSDB1VFlaLVozLWFibVVNV0VDNTR5dnpVallfVEN2OGwyYW5taE12TW5xNzBrc25wd04tZ3FiWXE1TnNxWkpram81R09oMXMxdHdsQmdRNm1jaVJFZmM5WVNRWjBSVHhrYkZzZFg3WGZTVGJrUVdDNHdfWnNUc2VON3BTRXNZclgwRzRpMTRDN0docEptWHJGQ0xzLTFlNnFsUzZXQlV3Yw?oc=5"
+      },
+      {
+       "titolo": "Conte vuole prendesi tutto il campo largo: ripropone il Reddito e scarica Renzi su Schlein",
+       "fonte": "La Verità",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GakJNU21zeGZTVWttTEd3SVdOaktBMEFqWlU3QlRWYmlaVDBCQVdFQjVfc3g2dS0tZmtoclktcXhneWxIdlk5Y2I4aUlvR3UteEhqUHRuSnVZVHdIdnFkdDBULW05VFZtWldyeUdJdWtrR2ZhbFlr?oc=5"
+      },
+      {
+       "titolo": "Campo largo, programma entro novembre e primarie entro febbraio: la road map di Schlein, Conte e Avs",
+       "fonte": "https://www.lacapitalenews.it/",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQU5lYlQwZ1ZFUlBOVzZCWmstek1nYm1mZmRmT3dxUVkzYkdoeG1RWWlvcHdYYTcySmc2QzBMX2JyZHVkV3J0TU5mV2Zjak1TdHB3SHI4RXUwemxYcFBqODRzVC1XS2pTMzZWVmdLSlhydDhjbzcyNU5hcm8yMTVrcTVNTmpRdw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Renzi nel governo? Servono garanzie politiche, altrimenti il M5S non ci sta"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -40639,6 +41149,41 @@
        "fonte": "Il Messaggero",
        "data": "2026-10-30",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHM4WEs2LVNDSjNrR21OMG8wdGxoMmpsUk5VaE51Szgwc2t2NkxxeWVLMG1oWTl6LWNYdkc3bzd6TzJhQWszaW5VX0dITkdIYXpQSEJUelVwNkpKNmRVSzBwdTRpR2tnOXh2S2drWWlZeVhnclRvcDFDbkZkcWlYOTdhOWgtUWl6cU1qeHMxN1JpUURlT1J1anJnOFlaRjRSMlHSAacBQVVfeXFMTWlVV3FiVTVUdGh3R1VRSENEQTV2X2NPeS03Tks1aDdjQWgwSGtKVEhPTHpya3ppVXZxLUxHdlc2S1NYNGt6b2M1dTlIQ05zVFB1bGZhNXhCYmNySmZQWVNWUVJhNmhud2hkNVFMcTZhSnJiY2NCaXprOFdkTUFXZWFMVkU0TFRJLVhRRTZSQWpFVWt2OTZENWhfakN2R3BRblZvNXV6R3M?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEJoRFBIN2M0OG1HR1FvcUdwbDNsTjk5S2VkZWEzcTg1aklCQVNDQkc0OEZTSm1hOWZvWUJZcG9hWUVJVjhva21rc0lJdWJjcGRvT3lMTVhRMWprN3k1WVpueXhHMDFGR0cySWE0bHdDNGQtTlJFbDFjQmNlT3I5MVVKemJFbjJ2aXhmcUY2NWljX3FqRDZNU0NiVUpKdFg3em0zUDJYUzVSaWhHOUpWVzN5bnZWWGRfTktnTtIBwAFBVV95cUxNVWFqQzlqSFoxaXJjUW1aSGtMWGkwYk85YnpraFluVUlESnl3VTcxazlzODBnTFNpV2w3TFJLOGtyWFZNVTNVMll1aWdqMTlLdE1xc2pzWFZqLUFjU0tGRXlTQXJVYjB5dmpPVk9DTWZmMVlaYWt5ZEVQb1duXzFNd1ZxQm9XWUR3YzVrWlFHUm1jaUQ5bEZTZVFOUzNQcGxMSzRuWU1EZUIzUFMzSkVaZ2FnQmI1VTZCdUlIblZIOEE?oc=5",
+     "data": "2026-10-30",
+     "titolo": "Conte, \"se ne deve assumere la responsabilità\": Schlein con le spalle al muro | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Conte, \"se ne deve assumere la responsabilità\": Schlein con le spalle al muro | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEJoRFBIN2M0OG1HR1FvcUdwbDNsTjk5S2VkZWEzcTg1aklCQVNDQkc0OEZTSm1hOWZvWUJZcG9hWUVJVjhva21rc0lJdWJjcGRvT3lMTVhRMWprN3k1WVpueXhHMDFGR0cySWE0bHdDNGQtTlJFbDFjQmNlT3I5MVVKemJFbjJ2aXhmcUY2NWljX3FqRDZNU0NiVUpKdFg3em0zUDJYUzVSaWhHOUpWVzN5bnZWWGRfTktnTtIBwAFBVV95cUxNVWFqQzlqSFoxaXJjUW1aSGtMWGkwYk85YnpraFluVUlESnl3VTcxazlzODBnTFNpV2w3TFJLOGtyWFZNVTNVMll1aWdqMTlLdE1xc2pzWFZqLUFjU0tGRXlTQXJVYjB5dmpPVk9DTWZmMVlaYWt5ZEVQb1duXzFNd1ZxQm9XWUR3YzVrWlFHUm1jaUQ5bEZTZVFOUzNQcGxMSzRuWU1EZUIzUFMzSkVaZ2FnQmI1VTZCdUlIblZIOEE?oc=5"
+      },
+      {
+       "titolo": "Ascoltate il consiglio non richiesto al Pd di Elly Schlein | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk9BS3JCQmo1WmVLLVFjTkY3Vkp3Y1Rnc0htcC1DUnZxVjNqdzVFU3dodVlpa29ycHpRbHNiQktWeU1BQUV2UWVYeVYyTlV3bzQ3RC1LZ1RpSVRDSlhSM3F1Sldrcld6NWJScjYwa1pzR1NDb2dfNUo4akNjaFBPMWZUT1VmbVpNSEpTSkZCZFRqOU9XWmFaaVhyRktnRnNjZktzTGtxN1NqZDBSU2VsSmVxS0N4c1V6QWdNWdIBwAFBVV95cUxPSlJzZU8wdll6T2xvSXpKNHFxdmllVG41WXlsTnNqUGptSWlfaHhwam0zajNzQmRVUU1BX0JaUmMxTkdXcnItQ05KWTRnd3Vjb0JHRDdwMUJUWUlxOHVqT2NvVl9JcnozdnlqeWZDczFoUlpUMGZMMjNFd1lfZWZBNE1uUzNMZnZ3eTZvV1BXTXotclA5c21zVklNeXRnd29JeG11QlJOMTVlRTRmR29fVEdRVGdwdnNCRzlsc0dGVDk?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte riesuma il reddito di cittadinanza, poi la frecciata a Schlein: show grillino sul Nove | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObk9RS0t4US10aDMwZXJXV3hUUlpWLWJHcGlDdWgzbnlONVctTk9hY0xsWlQtcjJ3cFFsaWhHZGhUTWRvbWNqdjYzOGQ1TngyYU5YZ2l5eFVfSnl6RzAyWWpxaVFtQk4wMHRmVlBhWnowT3oydjgxb1Q3ZHNjX3lPZDYtN1lfTkhKQ0VFRkwzY0F6ODRIczEtcjZsWHNza1Y1QzVWV19rTGdUczFueG5kck5iWUVoQVFVbXprSmdJRFhJSURFb2l0U0xFdFdVa3VaQVHSAdYBQVVfeXFMUGpsWHRnT24xVmRGVFJESFcxVDlnX3ZuVnIxd1hHTmRuZTN4SWw2SHd2VmROQzFjSkRRZUxSb0FGdXI0c0dXZjlDVk1CMkVNb1NrdlRBSU44ZUhCYXpyeVZhYVJuMjl0Sko2UnBSS3U4Zk1oTUpLZkpHRk9LSmNBdU0wUWpTTjlnVjBfZFdlMVV6NEh1MGQ5MmtfWHZqQl81dDl5OHgwT2xJemZ5TWFubVg5b090dVBGZ0QtN3JzYnh1S1ByaHh6WFBFZnhJS1o0MlM3enBZUQ?oc=5"
       }
      ],
      "polemica": false,
@@ -44330,11 +44875,11 @@
     }
    ],
    "conteggi": {
-    "storie": 128,
+    "storie": 133,
     "polemiche": 10,
     "polemiche_social": 1,
-    "virali": 29,
-    "citazioni": 38,
+    "virali": 31,
+    "citazioni": 39,
     "giorni": 45
    }
   },
@@ -44399,29 +44944,6 @@
        "fonte": "Quotidiano Nazionale",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWIzbG5HZGNBWi1uSWw2TlNHcFJKUnl3N3UtVnkteFBqeldOSk04c2NtRG93azQtQmRyai1ieHEyZ1pSeHNDdkFRdGdIU3hZWWczVHdGWVZpSU1SZW1xTXYxYUFpWTV3aENGWUc4ak9rOXZ1WDJHaS1KcnMzNmdwQkpLRnU?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJKbW13ZWpnN0hJU3djTlVNOFQ3Wk9ZT0dvbTJzVkJWX2FRLUVNSFZkQk9hY1RjTmNfNlhfQlN5WEg1MGZFYlJ6bVUyZnBnODg2Y2M1eTZyeGtkWnFYOXlOc215OUI4U1FITXFUX1owX0pXRjA3LTNlS1o0dHNlY3dXMTVsRFNYQTFtOHp4WXRBbzZWR2kyRXp3V2dsSGFK?oc=5",
-     "data": "2026-11-01",
-     "titolo": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
-     "testate": [
-      "Il Fatto Quotidiano"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
-       "fonte": "Il Fatto Quotidiano",
-       "data": "2026-11-01",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJKbW13ZWpnN0hJU3djTlVNOFQ3Wk9ZT0dvbTJzVkJWX2FRLUVNSFZkQk9hY1RjTmNfNlhfQlN5WEg1MGZFYlJ6bVUyZnBnODg2Y2M1eTZyeGtkWnFYOXlOc215OUI4U1FITXFUX1owX0pXRjA3LTNlS1o0dHNlY3dXMTVsRFNYQTFtOHp4WXRBbzZWR2kyRXp3V2dsSGFK?oc=5"
       }
      ],
      "polemica": false,
@@ -44520,6 +45042,105 @@
      "social": false,
      "virale": false,
      "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNm80UGdfcU5MWWxkY3ppQWJOeTVLaEk3a2VSajhDN2c0dTZWRS1Ra1hKekNSWldnRUdOclVXaUFsZlI1bTF1bE5WV3VkTmMzRlpNdGRhSFV5TnRLeUQxaHVaSFY1ZW1MVHBCQjZaV2xzOHhfd1E?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Conte sfida Renzi, le primarie rischiano di spaccare il centrosinistra",
+     "testate": [
+      "Stylo24"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Conte sfida Renzi, le primarie rischiano di spaccare il centrosinistra",
+       "fonte": "Stylo24",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNm80UGdfcU5MWWxkY3ppQWJOeTVLaEk3a2VSajhDN2c0dTZWRS1Ra1hKekNSWldnRUdOclVXaUFsZlI1bTF1bE5WV3VkTmMzRlpNdGRhSFV5TnRLeUQxaHVaSFY1ZW1MVHBCQjZaV2xzOHhfd1E?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJKbW13ZWpnN0hJU3djTlVNOFQ3Wk9ZT0dvbTJzVkJWX2FRLUVNSFZkQk9hY1RjTmNfNlhfQlN5WEg1MGZFYlJ6bVUyZnBnODg2Y2M1eTZyeGtkWnFYOXlOc215OUI4U1FITXFUX1owX0pXRjA3LTNlS1o0dHNlY3dXMTVsRFNYQTFtOHp4WXRBbzZWR2kyRXp3V2dsSGFK?oc=5",
+     "data": "2026-10-31",
+     "titolo": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
+     "testate": [
+      "Adnkronos",
+      "Agenzia Dire",
+      "Corriere Roma",
+      "Il Fatto Quotidiano",
+      "Il Messaggero",
+      "Il Riformista",
+      "La Stampa",
+      "La Voce del Patriota",
+      "Virgilio"
+     ],
+     "n_testate": 9,
+     "articoli": [
+      {
+       "titolo": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
+       "fonte": "Il Fatto Quotidiano",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJKbW13ZWpnN0hJU3djTlVNOFQ3Wk9ZT0dvbTJzVkJWX2FRLUVNSFZkQk9hY1RjTmNfNlhfQlN5WEg1MGZFYlJ6bVUyZnBnODg2Y2M1eTZyeGtkWnFYOXlOc215OUI4U1FITXFUX1owX0pXRjA3LTNlS1o0dHNlY3dXMTVsRFNYQTFtOHp4WXRBbzZWR2kyRXp3V2dsSGFK?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte: «Reddito di cittadinanza? Lo riproporremo al tavolo del Campo largo»",
+       "fonte": "Corriere Roma",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMGYzMjVTN1pfZDNILXZ1X1lQOEpVWnBLSTJpNHJQVVJJcDBISDJVbFJJMWoyclFrdllINTZVWUVmT1BnWDBGeEducUxEdjQzeVJ1UDRhODdKWF90MDlCbEplbHFQTGlybC1BdkM4RXVQal9QeXdHMEVhSFFEcmN5cnJLemxyeEhGZ19UeTlPV0V2d00wRGRKWkN0UjhYeEk5a0hfbkVOeWxOa3M1ZHY3V3Nzam52VjJaYUVwb21sWjhYT0ZlWFlfZXdqUzBqd2NWRTVUMEQ2MHBQT3R1TWxGZ3BWMl9FZEN5R2NTR09xZkFrRXM5YnF3bmlqaWh1RkdOR1F1QkNzTVpzVE3SAZACQVVfeXFMTmdNdEpCTnFLRVR0Q1pucU1zNzNCWDVhQXpSY0J1QzktMVktU0JkMWcxWFhlVzBDXzNTbTBCcmRiS3lNVmZSOWppZVl5RTY4NE5BVnV0ZEwtdGJwS3dCUjVYNm83OHJWRTJxc2xEUzFVS2U2TWg2NE1XNXJWTV9ydkhjeUdXM1E1X3ZiV2VnMEhOQVhmdW0yaEktandTWF9KWGRYb3lRQWhtSFg5THBHN1dBZk1jbnZrRXc5UlRRZ0tPMFlGYWZGaG42Y3ZSZjdrejJwR1BpLTBXSnlaNHM1OGw2cGE5dU9VLTZQTG5QTDFuNkptWTQ5QzRUT0lVY2hiVS03U0VfbUVvUG5PbFVGbEo?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte sfida Elly Schlein su Renzi e sul programma, pronti 20 punti tra cui il reddito di cittadinanza",
+       "fonte": "Virgilio",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa0RtVkZsTGtBam53Y2hxMmRwYXlVRXJTa2NPX3Z4c0hYNFRWZ3NadUl1X0FMejRUMWU3b1dLR2pIaW5LRllYZzlxV1pKb21RZmFicTZaeVB3b3JwTXFvbTE2QndHdlFrUERjc1ZwNzNxbkJqX29xT2VDc0JHSzlQVTh4U2c0LTg2NzU0UE1hVUNUWU11UEV3S1ZSdFRTWVNHeWZ5R1o3dXJhVTNpZnR4RENnVkZZT0FiX3ppYVIzc0dTbVJRUWNjdmYxQU5ud1IydlpPN0ZYTjZyRjhTZHg3dGU5TdIB6AFBVV95cUxPeDM5dWxHMjdVWUtqTGtLLVJfOWJWcklndzVwWkVOeXlsUTFiOG9COTJST3pSc0JjdjJhRUZHcFd3ZlFVX25LeTRQMzllV2p1UzBLZTRJemhxQnlab1k0R3Y1Zkt1S3BkNGV2WFVEeU1NM3BMY0FaZFNUc0d3S3VLRkxPdHY0TS1STXF1TnBjenZHN2tqckNRc2IyMXNSQ1pfdm5ORHhfb3IzT2VvdTBRdUlua05IRXlZaUpoR3E4YnFVVEJUaVhtSVB0TmhVbjVuT3lGVlNQb3E0UWt0ZkpsdDllMlphNWw4?oc=5"
+      },
+      {
+       "titolo": "Conte a Schlein: \"Garanzie su Renzi o M5S non ci sta. Riproporremo il reddito di cittadinanza\"",
+       "fonte": "Adnkronos",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHlkVFUyTzBpY0lNNlM4SHhDVmRyd1FwbUUtMUZrcXJIRWFJcWNMakd4QXhmWk1ybGM3RE40ZUZORkhxVHJKcnpaQ0lLbjd6SHdoampxXzVpR3Z6OTdzX2lzSFhIVzJnN1ZsUkNGRElkY0RYNHRDcmc0NGE3T3RlTjNxN1RSUHY4TnQyRXZOOXVhbU96ZTBVb0NObDRqQmNZLTZwT05ZMzJqc29VcFpF?oc=5"
+      },
+      {
+       "titolo": "Renzi punge Conte sul perimetro del campo largo: “Hanno certificato che siamo in squadra”",
+       "fonte": "La Stampa",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTc2ZVJPbzZhVFVtMEtsdjR0ZjB2RWVrbUFxd0Foc0JPbldtZ01wN0lwblRENWtiVWdNWWZweGdUSFJ4RjRkZmlKZHZVekN3Z2J4bGVKbE9GNnloNUlpbFk0S29PcEVTbHI2ZU00RTBWXzc3dDhLQ1lhU2VLT0Z3dDJMX25pZ1FGWGZUVHlQV3JwZk5hTVY1anhUQUFnb3VDNER4ZUtYQTA3TWNETnBtenVDTzFFQmMtbHRDdDhsVXo0MXFfVkZySGhYVnJOekt00gHQAUFVX3lxTE5lNzZlUk9vNmFUVW0wS2x2NHRmMHZFZWttQXF3QWhzQk9uV21nTXA3SXBuVEQ1a2JVZ01ZZnB4Z1RIUnhGNGRmaUpkdlV6Q3dnYnhsZUpsT0Y2eWg1SWlsWTRLb09wRVNscjZlTTRFMFZfNzd0OEtDWWFTZUtPRnd0MkxfbmlnUUZYZlRUeVBXcnBmTmFNVjVqeFRBQWdvdUM0RHhlS1hBMDdNY0ROcG16dUNPMUVCYy1sdEN0OGxVejQxcV9WRnJIaFhWck56S3Q?oc=5"
+      },
+      {
+       "titolo": "Conte: \"Primarie aperte, noi al tavolo con programma in 20 punti: Tornerà il reddito di cittadinanza\"",
+       "fonte": "Agenzia Dire",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSElDQ1lPSERrNlZnbjdtLURwd0ltZVlBSUhHOURaZ2V1dHQtUVV2OTlmMEdvQ2NoUzFHWXptaVVIYTBoMy1xNWhPM3ctOUwyTVdSRVNPZ1RwWDVUdm00SEZnVXYwZEo2OEpabnFlOE9MU2Fvd3Rfcm8yN19uZlBOeWpmQWlRSk5ZbWV3MUJiVk1DQndCNmtkRll0SWdEaVo2Ykt6TjNhMnVqWV9uTU15RkRDZ1dfcEptRkFwNjJJM1paZFdsNmREY1JZUHFJd3NUQlE?oc=5"
+      },
+      {
+       "titolo": "Il campo largo si è ristretto, contano Schlein, Conte, Avs: irritazione dei cespugli centristi, Renzi avverte che non finirà per essere irrilevante",
+       "fonte": "Il Riformista",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWJ2S2ZOdHpuaXVqLXQ1NkFzSU41a1NLMW5RekZZMEtrY2ZfX0hjaFpDQTAzLVdsRFotSS04eDVsa1FzVTdZMlZONUwyWE9wRVFJVFVzVTBrQ1RnaHhVdXAwRG5mTlVSY0p0VHBwVlROZ3VSQ2ltSGR1dUtnWTdlX0hkZ2xCQy1JV194Rk1OY1VUYzI0TTBKM1lVdmt2VXFPQjRJMWVGWmdHdlBLaS1YTVJSVXRfaXlXSDQwMmVUemo0UjFuWTNaMlhhOUtiVzhBMkJxUDR3ZEhPcElFRjhqOGJtNUU1VE9LWHB2Y2tHdw?oc=5"
+      },
+      {
+       "titolo": "Conte rispolvera il Reddito di Cittadinanza: «È nei punti del programma, ricalibrato e perfezionato»",
+       "fonte": "Il Messaggero",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVdndW9zTjI1SDg0SHVaVXFzRkRkOHlnWTNudVg1cG9TT3JkaGRqalotWHM1UXloU0pTNm15TFB5SDQ2azVYZC1UQkJkTkpKcDIyUjZfVnFjNlVCWEVNZjBCY2ozMXE5OUMxMWlNeTdaSW1MZG0wcVpyT3dtRmZ3T0ZZTHV1ekl5M21abWJkX0ExN1pHLWpORlJRRzRwTTZHZWQ3RW9MSjRCZmNZcHFUZTNzRWU2MUU00gG-AUFVX3lxTE9xQzBkb2FxbFVuMUlaaHY5RG8zZVZOM0M3bnBBMHJNeDR3ZE5Ca1FBNTVsOUhSZVVkamh1dnNVX3FTS0twWTc2OENNSmNxblA0TE01Wk16Y3hKOTNGV3pqWTZ4eHZZbnk5ZlpRalFFUkVpT2xkSlJNa3Ezd0hqdW1JWU1jbU5RckxDdnN4ZzVtUEhTcGwzWXdYQkNTdjFReEpON0NKWVRVQXN2cG5TbG5uTV9NX0N6d2pHWFd6WHc?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Reddito di cittadinanza? Lo riproporremo al tavolo del Campo largo",
+      "Primarie aperte, noi al tavolo con programma in 20 punti: Tornerà il reddito di cittadinanza"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -44676,12 +45297,12 @@
      "titolo": "Campo largo, Giuseppe Conte avverte Elly Schlein su Matteo Renzi: \"Può farci perdere le elezioni 2027\"",
      "testate": [
       "ANSA",
-      "Giornale La Voce",
+      "Agenzia Dire",
       "HuffPost Italia",
+      "Il Fatto Quotidiano",
       "Il Foglio",
-      "Il Riformista",
-      "La Stampa",
-      "La Voce del Patriota",
+      "Il Tempo",
+      "Secolo d'Italia",
       "Skuola.net",
       "Stylo24",
       "Virgilio",
@@ -45059,15 +45680,17 @@
      "titolo": "Conte all'Unisannio il 9 novembre",
      "testate": [
       "Adnkronos",
+      "Agenparl",
       "Agenzia Dire",
       "Askanews",
+      "Il Foglio",
       "Il Sannio Quotidiano",
-      "Irpinianews.it",
       "LaC News24",
       "Ottopagine",
-      "Today"
+      "Today",
+      "la Repubblica"
      ],
-     "n_testate": 8,
+     "n_testate": 10,
      "articoli": [
       {
        "titolo": "Conte all'Unisannio il 9 novembre",
@@ -49393,11 +50016,11 @@
     }
    ],
    "conteggi": {
-    "storie": 147,
+    "storie": 148,
     "polemiche": 14,
     "polemiche_social": 0,
-    "virali": 36,
-    "citazioni": 58,
+    "virali": 37,
+    "citazioni": 60,
     "giorni": 45
    }
   },
@@ -49411,6 +50034,77 @@
    },
    "schieramento": "opposizione",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2N1VzB3dmJYTEJKbnJvTDQ2QVJFcFpMdEk2SU1fRi1HZndRUkZqVlJrckVLUTZGTkoyWGpCdVBaM0Z3MGpZbDI2aThhN3FvUFFiUGRCSGdkMFB3VkU3RF9DbC1tUm9QSXNSTjVOQ3NTc0JtV29VNEp4S1NxbHJHcXZqSzBPZ3FDRll0ZlBIekZsNFVCRGU3NFB1RExXUEJoSVlSUXhVS1hTNllLeWxleUcxRzl1M1HSAbwBQVVfeXFMTzRQdF9TdG15MDBYcjNNQVk2QWI4cHNxenVnZmtsOGhnOTN2QkNhNGtYUmVIV21kY2pkSGROTXFTMzJIM1BOdVh2b2lsMkJ0R0lGeGt3VENFZkVGeUl3WTYzam5OWFllUWdWOWlHYWNxWUU3dTZhNFpETjlKYndrODFSSXQwUk8wWlc3Y1ptdzhoT0Vxbk4teWs4aS10Wk5MaEI2N3lxM2hDWXItWExrekQySmNEUWRiREIzeGI?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Fratoianni: “Primarie? Potremmo non esserci. La patrimoniale serve”",
+     "testate": [
+      "la Repubblica"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Fratoianni: “Primarie? Potremmo non esserci. La patrimoniale serve”",
+       "fonte": "la Repubblica",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2N1VzB3dmJYTEJKbnJvTDQ2QVJFcFpMdEk2SU1fRi1HZndRUkZqVlJrckVLUTZGTkoyWGpCdVBaM0Z3MGpZbDI2aThhN3FvUFFiUGRCSGdkMFB3VkU3RF9DbC1tUm9QSXNSTjVOQ3NTc0JtV29VNEp4S1NxbHJHcXZqSzBPZ3FDRll0ZlBIekZsNFVCRGU3NFB1RExXUEJoSVlSUXhVS1hTNllLeWxleUcxRzl1M1HSAbwBQVVfeXFMTzRQdF9TdG15MDBYcjNNQVk2QWI4cHNxenVnZmtsOGhnOTN2QkNhNGtYUmVIV21kY2pkSGROTXFTMzJIM1BOdVh2b2lsMkJ0R0lGeGt3VENFZkVGeUl3WTYzam5OWFllUWdWOWlHYWNxWUU3dTZhNFpETjlKYndrODFSSXQwUk8wWlc3Y1ptdzhoT0Vxbk4teWs4aS10Wk5MaEI2N3lxM2hDWXItWExrekQySmNEUWRiREIzeGI?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Primarie? Potremmo non esserci. La patrimoniale serve"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXJhRDBLREJhNmhnTy12Mk5RYWw3dEtDQTNBSm54NjdOb25ocGRubDN5bG5TTkhreHJFMTVKX1drYkJfVzgzYnN6VVgzRHhxT1pBRktWbllVM1pRc0RlYXpEMVl5cl9LaUc2TzJnZml2U1BodnpTdm9oWTNvenJ5NmtvcHk1VUd5U1JoM0lNaFhHdHNKU3lmYWVSUTVGd1ZJME43LVd6bVMwMncySTJXci0ycUg4Y3BKaGh4MkZ3?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Inflazione, Fratoianni critica il governo sugli stipendi",
+     "testate": [
+      "Il Globo"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Inflazione, Fratoianni critica il governo sugli stipendi",
+       "fonte": "Il Globo",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXJhRDBLREJhNmhnTy12Mk5RYWw3dEtDQTNBSm54NjdOb25ocGRubDN5bG5TTkhreHJFMTVKX1drYkJfVzgzYnN6VVgzRHhxT1pBRktWbllVM1pRc0RlYXpEMVl5cl9LaUc2TzJnZml2U1BodnpTdm9oWTNvenJ5NmtvcHk1VUd5U1JoM0lNaFhHdHNKU3lmYWVSUTVGd1ZJME43LVd6bVMwMncySTJXci0ycUg4Y3BKaGh4MkZ3?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZTF6TVJOSnFMcHBBUzJNQ1JrbUVDa20zLTlqYmJrWTZrV1NIMGJFdE5MVXQ5OXYxRTZ4Nm53LVgyN3pnR1lHclRzZW4wU1dsZDZMWmZ3ZnZqTGpRR0tZNE43R0tfV2ZVb181QTFjWk5iRl9DQ3NCa0c0WTVsUUZ4dDR3OENPTUlWeGhBSkhXTTJlZjA0clZUbVdkakRzRmpLUHl4VDRyQk0ycjNOcnYwY1BTdnZCT00zQnJwcmpZVEpyNWVSd1otYTdrYXZzWmVDU0NyS1ZJZDRnendX?oc=5",
+     "data": "2026-11-02",
+     "titolo": "Dalla televisione alla politica Iacchetti racconta chi lo vuole candidato Me lo ha chiesto Fratoianni",
+     "testate": [
+      "Zazoom Social News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Dalla televisione alla politica Iacchetti racconta chi lo vuole candidato Me lo ha chiesto Fratoianni",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-02",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZTF6TVJOSnFMcHBBUzJNQ1JrbUVDa20zLTlqYmJrWTZrV1NIMGJFdE5MVXQ5OXYxRTZ4Nm53LVgyN3pnR1lHclRzZW4wU1dsZDZMWmZ3ZnZqTGpRR0tZNE43R0tfV2ZVb181QTFjWk5iRl9DQ3NCa0c0WTVsUUZ4dDR3OENPTUlWeGhBSkhXTTJlZjA0clZUbVdkakRzRmpLUHl4VDRyQk0ycjNOcnYwY1BTdnZCT00zQnJwcmpZVEpyNWVSd1otYTdrYXZzWmVDU0NyS1ZJZDRnendX?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVjFydmlyWkhneWRncTVUQzRsdnRsVTBFYXUxU0ludzhjNWNpRm9xQnItX1Jvd0l0U2RmcTVhMGxVWGZWdEhkZGxORkdCc1BuWFFLelV6b0t4QzV2blF2NXU0b3FBd0NJVG1hOWlaOHlzX2pTckhDTzJyN0VjUVNNTzRNYnBrWVVRWFd4SVQweW03VFFEN085U0ZqWm5QMF90U3o0dGNTNVRWNUlDcHVaVVZnbjBWM0IwcTVLYkdCYTN1YnRtV3ZXSk5mclA0WnhXak11UnJvMDh3dm0xVl9ZWTdKcTZOdlg0LUpLQ1NNNVY0N2dfT1pyRQ?oc=5",
      "data": "2026-10-31",
@@ -50751,11 +51445,11 @@
     }
    ],
    "conteggi": {
-    "storie": 42,
+    "storie": 45,
     "polemiche": 5,
     "polemiche_social": 2,
     "virali": 8,
-    "citazioni": 7,
+    "citazioni": 8,
     "giorni": 45
    }
   },
@@ -50819,6 +51513,31 @@
      "social": false,
      "virale": false,
      "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHdCYUdKeUFtdEVpbEFvNnc4VWJHbHBSTHFWdkY1b2x6NkYxaWFMLUZBQTFRdm13QUVGWkxyNjYyQVRMY1IwM1VPc205UWZuVzVoMHlhT05zX3QwN1FvMEpSSHJsYkduSHo0eFl1d3ZVUVo2dno3dTdLUEJFblVoYWJrbWYzQzdVM0pFUWlERlI5a3ZJYnVocnBKTHAwYlY4STBSVVZCdzJkdjjSAbABQVVfeXFMTTNuN3lTeExPLWE1SHNxMkFscWR3Vy12Z3lvN2RtSDBZU1dRM0lET1JEWUlLRk5rTVNfamI3VmY1RzJua1kyLWdZdlMyUmRnTmlCRFVES1dfVkZCd2s2amhWMWZLdzNubXlmbkZJOHRPcWJmTzdUMHdQMWV6aXBHSnJXNWdXSy1nN1o5WmFXQS1BVWwzSExkbDU2Qk5lN3hLbmN4V19vR3VkTmZuS1BVZzQ?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Avs senza candidato alle primarie: piace la storica Ponzani, Bonelli: «Dobbiamo ancora decidere con Nicola»",
+     "testate": [
+      "tuttonotizie"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Avs senza candidato alle primarie: piace la storica Ponzani, Bonelli: «Dobbiamo ancora decidere con Nicola»",
+       "fonte": "tuttonotizie",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHdCYUdKeUFtdEVpbEFvNnc4VWJHbHBSTHFWdkY1b2x6NkYxaWFMLUZBQTFRdm13QUVGWkxyNjYyQVRMY1IwM1VPc205UWZuVzVoMHlhT05zX3QwN1FvMEpSSHJsYkduSHo0eFl1d3ZVUVo2dno3dTdLUEJFblVoYWJrbWYzQzdVM0pFUWlERlI5a3ZJYnVocnBKTHAwYlY4STBSVVZCdzJkdjjSAbABQVVfeXFMTTNuN3lTeExPLWE1SHNxMkFscWR3Vy12Z3lvN2RtSDBZU1dRM0lET1JEWUlLRk5rTVNfamI3VmY1RzJua1kyLWdZdlMyUmRnTmlCRFVES1dfVkZCd2s2amhWMWZLdzNubXlmbkZJOHRPcWJmTzdUMHdQMWV6aXBHSnJXNWdXSy1nN1o5WmFXQS1BVWwzSExkbDU2Qk5lN3hLbmN4V19vR3VkTmZuS1BVZzQ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Dobbiamo ancora decidere con Nicola"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -52681,11 +53400,11 @@
    ],
    "fact_check": [],
    "conteggi": {
-    "storie": 55,
+    "storie": 56,
     "polemiche": 14,
     "polemiche_social": 2,
     "virali": 17,
-    "citazioni": 18,
+    "citazioni": 19,
     "giorni": 45
    }
   },
@@ -55790,26 +56509,44 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWdjd3U4SFR5b1lpWWtUNXdqaDZaY1JPOUZrZkNJOXdLRlQyNm5UN3UtMVYzcE52NEFFY2s2TW1abWdUX3ZDYTZseE5JLTF6dU02QzM2RXdFRE1lQUNuU2VTTlEwejlVNERNcGgzQ2l1VExMSER1Nm4yRnE3ZUZSbDVNR3JyeEdBQnVKYW15N1lUaFMxeXBtcWFsbFd0dw?oc=5",
+     "data": "2026-11-01",
+     "titolo": "Renzi e Conte, scontro durissimo nel campo largo: il botta e risposta infiamma la coalizione",
+     "testate": [
+      "bigodino.it"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Renzi e Conte, scontro durissimo nel campo largo: il botta e risposta infiamma la coalizione",
+       "fonte": "bigodino.it",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWdjd3U4SFR5b1lpWWtUNXdqaDZaY1JPOUZrZkNJOXdLRlQyNm5UN3UtMVYzcE52NEFFY2s2TW1abWdUX3ZDYTZseE5JLTF6dU02QzM2RXdFRE1lQUNuU2VTTlEwejlVNERNcGgzQ2l1VExMSER1Nm4yRnE3ZUZSbDVNR3JyeEdBQnVKYW15N1lUaFMxeXBtcWFsbFd0dw?oc=5"
+      }
+     ],
+     "polemica": true,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQY3BDSG1tMG95aVcyYU5GTzJXV2V5XzVQSURsQWRRZXl1bXJCdjFjc2JrVTlSd0tGellXRjE1cDdXR0M0M3ppMTNXb3UtRjJzbzBDdEE1c2ViTEFZamhvWFNTSldYYVpaWUNzWnc3SDN1WlZMQnNEaUpUckcweEJhNlgzdHV0YVFXcmxBX1NFblJlNnZTaGZPTktWTXdxdUhPY240Nm9FYlVUNVJkT2pjdnpKRERwRWE2UHZpb1k3LXpUbU13OHZiMExrMm82NWRLZTRQM2t4MlBkZWtuLVBIS0pYM1RhdmY5UGFhVlJvcm8yX0RaVmo2UlpIdlNVd9IBgwJBVV95cUxOeUkwWVk4V09GNVZsbXhPaGNCdmo1bUJzc01ZWWZ3eFpsaWNYdWV1TTk5RDhrZ05JQjVHUFFmV2xqcTU1bVhObzVyTUhUNEh5WFFweFJqM1BfR3YxcFV5NnlHZ29JV1dfdG1OMVhyY0lKWEZqRTRmZF9LVWJVYldLbWU3M3AtLTBMQ2VvRkJZUlMwdlJGTllFc0NINVphVFVyUGJPbllwYWZ3UEdveVhwc004ZlA1U001ajY4VHQwbzlKcEhrU0JyRkpNb2FIa1B3T3dyTHpVOVZzU1c4REVtZnQzSFU0UGVDVEFQNW1EMWhuZVMzRW5UT1ZfYnhQY0VnSUlv?oc=5",
      "data": "2026-10-31",
      "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
      "testate": [
       "ANSA",
-      "Agenzia Dire",
-      "Blasting News",
       "Gaiaitalia.com Notizie",
-      "Gazzetta del Sud",
       "Il Fatto Quotidiano",
       "Il Giornale d'Italia",
-      "Il Resto del Carlino",
       "Il Riformista",
-      "IlFaroOnline",
       "La Verità",
-      "S&H Magazine",
+      "Ottopagine",
       "StrettoWeb",
-      "WebMagazine24"
+      "Stylo24"
      ],
-     "n_testate": 14,
+     "n_testate": 9,
      "articoli": [
       {
        "titolo": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
@@ -55863,10 +56600,7 @@
      "polemica": false,
      "social": false,
      "virale": true,
-     "citazioni": [
-      "Logica la sfida secca tra Schlein e Conte",
-      "Sfida secca tra Schlein e Conte"
-     ],
+     "citazioni": [],
      "verifiche": [],
      "confronti": []
     },
@@ -57960,11 +58694,11 @@
     }
    ],
    "conteggi": {
-    "storie": 66,
-    "polemiche": 9,
+    "storie": 67,
+    "polemiche": 10,
     "polemiche_social": 0,
     "virali": 21,
-    "citazioni": 26,
+    "citazioni": 24,
     "giorni": 45
    }
   },
@@ -59745,6 +60479,31 @@
    "nome": "Angelo Bonelli"
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWdjd3U4SFR5b1lpWWtUNXdqaDZaY1JPOUZrZkNJOXdLRlQyNm5UN3UtMVYzcE52NEFFY2s2TW1abWdUX3ZDYTZseE5JLTF6dU02QzM2RXdFRE1lQUNuU2VTTlEwejlVNERNcGgzQ2l1VExMSER1Nm4yRnE3ZUZSbDVNR3JyeEdBQnVKYW15N1lUaFMxeXBtcWFsbFd0dw?oc=5",
+   "data": "2026-11-01",
+   "titolo": "Renzi e Conte, scontro durissimo nel campo largo: il botta e risposta infiamma la coalizione",
+   "testate": [
+    "bigodino.it"
+   ],
+   "n_testate": 1,
+   "articoli": [
+    {
+     "titolo": "Renzi e Conte, scontro durissimo nel campo largo: il botta e risposta infiamma la coalizione",
+     "fonte": "bigodino.it",
+     "data": "2026-11-01",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWdjd3U4SFR5b1lpWWtUNXdqaDZaY1JPOUZrZkNJOXdLRlQyNm5UN3UtMVYzcE52NEFFY2s2TW1abWdUX3ZDYTZseE5JLTF6dU02QzM2RXdFRE1lQUNuU2VTTlEwejlVNERNcGgzQ2l1VExMSER1Nm4yRnE3ZUZSbDVNR3JyeEdBQnVKYW15N1lUaFMxeXBtcWFsbFd0dw?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": false,
+   "citazioni": [],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "matteo-renzi",
+   "nome": "Matteo Renzi"
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWE1VRlJ2b2tBZ0hpdUV2dXl1ZnJwb3M3ZTlBZGVFODNRaTY2R21XV0ZGc3ByVDMyVXdDaTZEV3hZaGhtUGlIU0dfQ1JYN2ZyQmt4WEN6eFVkakJnemFBa0padmNiM1p6TmY1R2tKRk9RYU5MM2N0dGMwcE0xTFFsSDlFQ25LUUFIWVFuSVROZi1iNGl1cVBF?oc=5",
    "data": "2026-10-31",
    "titolo": "Scanzi contro tutti: \"Renzi è un disastro per il centrosinistra\"",
@@ -59963,85 +60722,6 @@
    "confronti": [],
    "slug": "giancarlo-giorgetti",
    "nome": "Giancarlo Giorgetti"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRU5ySUdiU0JhSEJkUWY1QnVFT0VEVFU3a3MzM1REcVFZSzNJZFlNZEh2MkZVUjJKOGw4QXlERzl0ZVJFSUlSaklsdHZOQS1yNHB1cXpYX1ozWTdpYUNHekx5SUNIbnY2UVNaVXpxZ0RpUGNpZUVHTmdtVE0zaEJ0cVlZTWhCZE83M1dNRXkwU3hNUEVIWDU4ZXFDT3I4QTJPV0Vka3lDTHhPRkhKNk96amhCNFVPSDU5T2pPUXBsN0tDMVJpSUlkQWRiTU56cmlIRVBlVG9hN000Z9IB3wFBVV95cUxOUnNEYVNEQ1IyQVBZeVVWc0x0OG5MSl8tWExGcVU4S09wWThHOVJsem9KdzJCbldydGNUa1hJOTdpM1FaRVRSNjRZV0NRSk9nUlhVcFJrenpyV1BranZkdkZZVGdScUlFUVlNU2FNTnhhWjZJdzdKZWNPejdITTBGV25waVNSaHV2RWdDVnEzRnZlMHpZUmUzbWR0U1lhYVcwUGo1QkFqVmNKYzFiYXVlYTF6cFNOUVA4Sm5wODVLN0kwR21pakxwMDB5aWlUajcwTjJpWUlma1dJcGowWUJj?oc=5",
-   "data": "2026-10-30",
-   "titolo": "Elicottero caduto in Bosnia, Crosetto rassicura sulle condizioni dei feriti: \"Se la caveranno, è un miracolo\"",
-   "testate": [
-    "ANSA",
-    "Agenzia Dire",
-    "Askanews",
-    "Domani",
-    "Il Sole 24 ORE",
-    "L'Unione Sarda.it",
-    "Libero",
-    "Quotidiano Nazionale",
-    "Virgilio",
-    "il Nord Est",
-    "ildenaro.it"
-   ],
-   "n_testate": 11,
-   "articoli": [
-    {
-     "titolo": "Elicottero caduto in Bosnia, Crosetto rassicura sulle condizioni dei feriti: \"Se la caveranno, è un miracolo\"",
-     "fonte": "Virgilio",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRU5ySUdiU0JhSEJkUWY1QnVFT0VEVFU3a3MzM1REcVFZSzNJZFlNZEh2MkZVUjJKOGw4QXlERzl0ZVJFSUlSaklsdHZOQS1yNHB1cXpYX1ozWTdpYUNHekx5SUNIbnY2UVNaVXpxZ0RpUGNpZUVHTmdtVE0zaEJ0cVlZTWhCZE83M1dNRXkwU3hNUEVIWDU4ZXFDT3I4QTJPV0Vka3lDTHhPRkhKNk96amhCNFVPSDU5T2pPUXBsN0tDMVJpSUlkQWRiTU56cmlIRVBlVG9hN000Z9IB3wFBVV95cUxOUnNEYVNEQ1IyQVBZeVVWc0x0OG5MSl8tWExGcVU4S09wWThHOVJsem9KdzJCbldydGNUa1hJOTdpM1FaRVRSNjRZV0NRSk9nUlhVcFJrenpyV1BranZkdkZZVGdScUlFUVlNU2FNTnhhWjZJdzdKZWNPejdITTBGV25waVNSaHV2RWdDVnEzRnZlMHpZUmUzbWR0U1lhYVcwUGo1QkFqVmNKYzFiYXVlYTF6cFNOUVA4Sm5wODVLN0kwR21pakxwMDB5aWlUajcwTjJpWUlma1dJcGowWUJj?oc=5"
-    },
-    {
-     "titolo": "Le ipotesi sulla caduta del Chinook in Bosnia, Crosetto dai feriti in Bosnia",
-     "fonte": "ANSA",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObTA2ckg1WHMxSGtXVUtMVUFMRUxXZnNBRVR5dGIzLU80VUtkWkVuWF9Xc1lscGxMRHpYZmN1Tm1NYk5xQjRSYk55MmxRUFVUaUw1TFZlNjBrWjJzS2k1NnZDUTdtcGVOejRNVnFBUmZXcEl6QW5WRG43bzFhSFJuUzFwakxKOXRDX01JSjQyVV9YaEtzRVZEZlBnVnhoVXd0R2lVYXRTRE5TQTIwWGQ4TEQ3R2JKTTBBQjNaRVdRTDJWTVRmUHhjSlQ0VWlBdXJmVVVobnB3V3ZhclVQVFdtY1lYOTAzUFg5NzFHaFFmd0tnZE1GRHQ4S1ZrT2RzZlnSAYQCQVVfeXFMT0wwYXhHRGVPdVhoRlFtZEc4Vk9EUFgzVG02WWFqbHpYVmZkejd1aC1QdFduRThGVDNkZlNDdkRTY1V1V2pTcVlaUlNEQXdQNE5TRlVMWTNuQkQtT2N0TEc1bzRwTTVZUkp4RmhUU0dtSGliTGtCTDEwNDA0YTFXbTVuSXZUVlRXNDJTZ25ieTJGUFdTeGdOeGVLTUNCV1FjM1VIbWI5cXdRZnFGdzNwaEJ0TTBqTFFEYi1feGZoTjRCZ1gxSnRJMHVwalkxVTFWQW1QWXI5Tmd5cnBxUFp5ZHhyYktPdXlmdTJwZDBWOWNCMGdQUjJWNDVtSC05WGVPUlBhbXY?oc=5"
-    },
-    {
-     "titolo": "Elicottero caduto, Crosetto stringe la mano di un ferito 'l'Italia è qui'",
-     "fonte": "ANSA",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNzRnMFB2TWNlNnpaTmstYVdwMWdYazhyM3hvWmJnM2FrdDcwTkltUGdCZ3J6aFVSeHRCYzlLaTdWZVVRQi1Kb1d2Z3h1RHlYaVFSc1I5Ukt3SjZteFBrckE2SVpTZ2hXZnpLUWxtczVTRnZrZGlROVVfMVVpVEhBM2JKbXB2Rl93Ukk4Vi1JbVlKRmVLZklJUDZ2NmYydEZ1UG5sMnhiYnBNajIzbkJHN2FTaWc2c241LXUxZHk3a2hndFNRb19nUjdQTzRuN0djVjU5eGZJd1J0eDdVNFl2M0piWWdCQkJTOFFZcDFDWE1xNXJWRFHSAfsBQVVfeXFMTV80a3ROaGtFMGxweTVLSk55Y0VWamxWYVVJbWdYTkxqdERWb1Q1TzI1UDB2YlQ5UEoyZTJWMEJRX01CR1Zvb1FVS1pSN2dGNVZjalVGQUJWVEo2YmdDeFpfdFZEVERKS2hSNXhmN1gyU3Q5ZkxZb1RsRDd6LUJoaFNzdHRpTXlwNGgtWFhHY1NlZERHSWdZZkJES2FfTWpUdVBYYWw2OVZCMTBob2Eyc2p2MFd6eXJKRXNLZVNJNGp6MFBrY2VwOEV6Q2VaSXVEN2FGMWQ1ZWhEVEFGZ2lwN2p5cDNHaFJJM19PaGJ1ejh2VklXSzRnNm5YME0?oc=5"
-    },
-    {
-     "titolo": "Elicottero caduto in Bosnia, la Procura militare apre un’indagine. Il ministro Crosetto sul luogo dell’incidente. Meloni deposita fiori al Villaggio Difesa",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEZremk3Ni1QVTZ5QlIxR3N0ME16dlRwVm5jaEdFTFRTUW1lR0hJTElrQmJJRjRxVWRnNnVkTTQweUhUT21BNXNMbWFBRXdPUkwwanpMRmhCQkZLU1JNRGFEenEzbFJpQW93QktYdXpLaW5UdEpVdmdlX093WEl2TzFCajNfd1RRQW40Ukxfak1ZSGtZdVV3VVZWbkVvaEwxcHNYbXo3S01OOW1BS3MyMkFzVQ?oc=5"
-    },
-    {
-     "titolo": "Bosnia, Crosetto: \"I feriti stanno abbastanza bene, presto in Italia\"",
-     "fonte": "Agenzia Dire",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWlJjRjJGbUZ5S0NpVVlkSy1udkRKLWdhWGpDdkFMRkVReG9JSHFlWEtyaS04WVNiZlozVVNtV3hBZ3FzZUVIWmFaZ3RQekUyVGREWldpSHBSMUpVaS1ldHEwR1RLUEJQZWRxU0FVNUJreWg5TjJPM3RUcFZRTExhalJyd2tSQ0dqTEc2ekhzWk15dEc5cXJpeHZMRmJHQ08waF90WVpyYw?oc=5"
-    },
-    {
-     "titolo": "Crosetto in Bosnia sul luogo dell'incidente dell'elicottero",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3JGa3VILTJhaEhXWHJSakhTWUFVUnA1RS1BYmdZSWd3UDdkcDUxbkthTTU3bERBTnJBSVh2LUd2WmxrVGE3NnVaN1UyVEhRa28wNmJoU1NZcUNzVXc5blNzcThweVhmVk83VGNEcGc4c3djRk9QUWc0anIxeHBGVjRndGtYbElQVF9pMGgyMnBBN3d6dEVtTTI5RWZiQnZkbTNQdGJqTVA2NjNT?oc=5"
-    },
-    {
-     "titolo": "Elicottero precipitato in Bosnia, l’omaggio a Roma di Meloni e Crosetto alle quattro vittime dell’incidente",
-     "fonte": "Domani",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3pyQVVxNENuZjRDVWJqUzQtUUh5aEt5LVVyT0YxZWh2WHppcXRfUTJsSVVIaEM1dW5wLUtuS0hOX0JwSjFQTHBrOTJEamFRcW5OUFNDanZ1ekl4bFV0Uk8xNE5mUlcwRWxod2xGc0xRM013dTdvLXEwb3lQYUJTT2ZFdnlhdWRYaENZU0d3VHYzcExuNDlCU2d6UXVJRmdBclN4SGZmVWNyU0RaZks3Nm82Vm1Zb0FodDdMNFJVdC0?oc=5"
-    },
-    {
-     "titolo": "Elicottero caduto, Crosetto arrivato in Bosnia",
-     "fonte": "ANSA",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZlEyYnM3cWlWYkYyanc0enNDYVY5N2lzaG01VXhRbXI3c2wtQWJJRmZPUjdoWUNLM3UyTUw0anhHbVk4RUhyR0lCR2Y1aVMwaXkxTkdGOVF5UWJGSnVnSFhITVBrTGE2ekNvZmxua1cySUxEZmZNdW1jbllpSERVUm44bVZObWl4R192MzZ4cUF2VUFIa05lYXZQRXdfZ2g0VkZWdVpXUllVdzVHNnpZSzM3TTYxVXFjOHJBOFZYWUlvLV92WmFOU2haT1ZyTkRvTjlHS251RUd6X3JUb3h3STBSb1dCekdRblE5Nm1MQVpjNnPSAfgBQVVfeXFMUDFEZGR2bWszdnZ5bjJDUkwyeC1TenY1Y3BkVV9NS051NkFaeGtDNlVMeXhzUE1rbmNHdUZyc2RidnVHNVd6dm9EZGpHekJKbnkyTS1RVkVjLWl2SG9HWUhqdlNqakNyeWVKQUF3RnBxLUpyUDNTTFBUMllONG1YVThQMC1pclMtY2tiM1J6LTF2cnRFamV5SmVhN3hiRkJkZ0t1cWxCU3pJZ0tGWDJsbk1XejhBS3VuNnEtSU80cWptQmZJSUp1clpmaW5VS3BzN3BiYTVueWFaUVlqV3pzVUVkS0llWHNvQXhDMTN0eTM1WTV3SUZ6RUs?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": true,
-   "citazioni": [
-    "I feriti stanno abbastanza bene, presto in Italia"
-   ],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "guido-crosetto",
-   "nome": "Guido Crosetto"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0FLem5YY3Y4UXRzcF9zUUZpRHNWcmNJNGJyOUVFY1hFVXRSQ2NFdkttVFFnSTM1dmY2ZmZ3WVZNeWpRZEVPR2ZvTk0wb1k4T0ZFUE5zUDRjTUx4aEI2cTNGdUYweTJqc2xlYTByMkFid1pVRy1QRnIwOUVuNnhYamV6ajNfdDF5VVpTZlBMc0tDZjBmMEh5dVhwb1h3NmlZT2tnSDBCQndFR0N2cnNQX3hzaWd0empxQnByT0l1Ui0tUQ?oc=5",
@@ -61379,16 +62059,17 @@
    "titolo": "Trasporti, Salvini precetta lo sciopero del 30 ottobre. L’Usb: “Disobbediremo”",
    "testate": [
     "BolognaToday",
-    "Energia Oltre",
     "Il Diario del Lavoro",
+    "Milano Post",
     "Odissea Quotidiana",
     "Quotidiano dei Contribuenti",
     "Radio Marte",
     "RomaToday",
     "Today",
-    "pugliain.net"
+    "pugliain.net",
+    "www.egnews.it"
    ],
-   "n_testate": 9,
+   "n_testate": 10,
    "articoli": [
     {
      "titolo": "Trasporti, Salvini precetta lo sciopero del 30 ottobre. L’Usb: “Disobbediremo”",
@@ -61440,9 +62121,11 @@
     }
    ],
    "polemica": true,
-   "social": false,
+   "social": true,
    "virale": true,
-   "citazioni": [],
+   "citazioni": [
+    "L'ordinanza è illegittima, la protesta non si ferma"
+   ],
    "verifiche": [],
    "confronti": [],
    "slug": "matteo-salvini",

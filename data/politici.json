@@ -65,9 +65,9 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 536,
-     "totale": 8963,
-     "percentuale": 6.0
+     "presenti": 498,
+     "totale": 8924,
+     "percentuale": 5.6
     },
     "fedelta_gruppo": {
      "allineati": 39,
@@ -294,9 +294,9 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 152,
-     "totale": 8963,
-     "percentuale": 1.7
+     "presenti": 133,
+     "totale": 8924,
+     "percentuale": 1.5
     },
     "fedelta_gruppo": {
      "allineati": 19,
@@ -381,9 +381,9 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 3016,
-     "totale": 8964,
-     "percentuale": 33.6
+     "presenti": 2977,
+     "totale": 8925,
+     "percentuale": 33.4
     },
     "fedelta_gruppo": {
      "allineati": 112,
@@ -756,8 +756,8 @@
    "Senato": {
     "presenza": {
      "presenti": 3830,
-     "totale": 8963,
-     "percentuale": 42.7
+     "totale": 8924,
+     "percentuale": 42.9
     },
     "fedelta_gruppo": {
      "allineati": 41,

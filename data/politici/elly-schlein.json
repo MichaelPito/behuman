@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-01",
-  "al": "2026-11-01"
+  "dal": "2021-11-02",
+  "al": "2026-11-02"
  },
  "anagrafica": {
   "nascita": "1985-05-04",
@@ -12274,7 +12274,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-01",
+ "aggiornato_il": "2026-11-02",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elly_Schlein_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Elly_Schlein_2023_(cropped).jpg",
