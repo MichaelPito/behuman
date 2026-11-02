@@ -75,6 +75,11 @@ def google_news_libera(parole: str, giorni: int = 7) -> list[dict]:
     return _gnews(f"{parole} when:{giorni}d")
 
 
+def google_news_periodo(parole: str, dal: str, al: str) -> list[dict]:
+    """Titoli che contengono le parole, usciti tra due date (anche anni fa): `al` escluso."""
+    return _gnews(f"{parole} after:{dal} before:{al}")
+
+
 def _gnews(query: str) -> list[dict]:
     q = urllib.parse.quote(query)
     xml = _get(GNEWS.format(q=q), 3 * 3600)

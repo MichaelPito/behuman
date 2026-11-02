@@ -198,3 +198,6 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - Tenuti i titoli dal giorno della dichiarazione a 3 giorni dopo, con il cognome (maiuscola) e due parole
   della dichiarazione o una lunga e specifica; escluse le fonti ufficiali; max 2 per testata.
 - Archivio dei titoli trovati in `data/notizie-dichiarazioni.json` (per URL della dichiarazione).
+- Dichiarazioni più discusse (Pagella Politica): stessa ricerca limitata ai giorni della dichiarazione
+  (operatori `after:`/`before:` di Google News), fatta una volta e archiviata; al massimo 60 nuove ricerche al giorno.
+- Scartati i titoli con un altro nome davanti al cognome (omonimi, es. «Claudia Conte»).

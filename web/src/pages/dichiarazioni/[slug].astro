@@ -28,7 +28,7 @@ const voci: Voce[] = [
   ...d.camera.map((c) => ({ data: c.data, fonte: "camera" as const, titolo: titoloCamera(c), testo: (c as any).sunto ?? c.estratto, temi: (c as any).temi ?? [], url: c.url, extra: [generico(c.argomento) ? c.argomento.replace(/\.$/, "") : c.fase, c.ruolo, `${c.parole.toLocaleString("it-IT")} parole`].filter(Boolean).join(" · "), categoria: c.categoria, verificata: c.verificata, notizie: (c as any).notizie })),
   ...d.senato.map((s) => ({ data: s.data, fonte: "senato" as const, titolo: s.ddl.length ? s.ddl.map((x) => `${x.fase} — ${x.titolo}`).join("; ") : "Intervento in Aula", extra: `Seduta n. ${s.seduta} · ${s.interventi} ${s.interventi === 1 ? "intervento" : "interventi"}`, url: s.ddl[0]?.url })),
   ...d.governo.map((g) => ({ data: g.data, fonte: "governo" as const, titolo: g.titolo, testo: (g as any).sunto ?? g.estratto, temi: (g as any).temi ?? [], url: g.url, extra: `${g.parole.toLocaleString("it-IT")} parole`, notizie: (g as any).notizie })),
-  ...d.verificate.filter((v) => v.data).map((v) => ({ data: v.data!, fonte: "discussa" as const, titolo: `«${v.frase}»`, url: v.url, extra: `Fonte: ${v.fonte_tipo}` })),
+  ...d.verificate.filter((v) => v.data).map((v) => ({ data: v.data!, fonte: "discussa" as const, titolo: `«${v.frase}»`, url: v.url, extra: `Fonte: ${v.fonte_tipo}`, notizie: (v as any).notizie })),
 ].sort((a, b) => a.data.localeCompare(b.data));
 const ETICHETTA = { camera: "Aula della Camera", senato: "Aula del Senato", governo: "Palazzo Chigi", discussa: "Più discussa" };
 const anni = [...new Set(voci.map((v) => v.data.slice(0, 4)))].sort();
@@ -138,7 +138,7 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
                       {v.url && <> · <a href={v.url} target="_blank" rel="noopener">{v.fonte === "discussa" ? "Verifica" : v.fonte === "senato" ? "Scheda del ddl" : v.fonte === "camera" ? "Resoconto ufficiale integrale" : "Testo integrale su governo.it"} <Icon name="ext" class="tiny" /></a></>}
                       {v.verificata && <> · <a href={v.verificata} target="_blank" rel="noopener">verificata da Pagella Politica</a></>}
                     </div>
-                    <Giornali notizie={(v as any).notizie} />
+                    <Giornali notizie={(v as any).notizie} quando="nei giorni in cui è stata detta" />
                   </li>
                 ))}
               </ol></div>

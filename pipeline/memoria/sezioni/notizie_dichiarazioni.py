@@ -1,4 +1,4 @@
-"""Cosa scrivono i giornali sulle dichiarazioni recenti dei politici monitorati.
+"""Cosa scrivono i giornali sulle dichiarazioni dei politici monitorati: le recenti e le più discusse.
 
 Per ogni dichiarazione degli ultimi giorni (interventi in Aula alla Camera, interventi pubblicati da
 Palazzo Chigi) cerca su Google News i titoli che:
@@ -29,6 +29,7 @@ log = logging.getLogger(__name__)
 GIORNI = 14  # dichiarazioni degli ultimi giorni
 DOPO = 3  # titoli dal giorno della dichiarazione a tre giorni dopo
 MAX_RICERCHE = 60
+MAX_DISCUSSE = 60  # frasi più discusse cercate al giorno: l'arretrato si riempie in pochi giorni
 
 # parole che ricorrono in qualunque discorso politico: non dicono di cosa si parla
 DISCORSO = set(
@@ -50,12 +51,13 @@ DISCORSO = set(
     sistema sistemi realtà territorio territori comunità persone cittadini famiglie imprese sviluppo crescita futuro
     internazionale internazionali nazionale nazionali europeo europea economica economico sociale sociali diritto diritti
     precedente precedenti complessivamente occasione occasioni ovviamente qualunque quanto frattempo responsabilità assicurare
+    quasi circa oltre meno tutta tutti
     continuità garantire garantendo dovrebbero dovremmo potremmo question premier alleanza sinistra verdi democratico democratica
     progressista movimento stelle fratelli forza azione popolare popolari riformisti liberali moderati forum mondo assemblea
     assemblee messaggio videomessaggio intervento interventi edizione conferenza stampa evento eventi carissimi carissime""".split()
 )
 # fonti che sono la dichiarazione stessa, già collegata come testo ufficiale
-FONTI_UFFICIALI = re.compile(r"governo\.it|camera\.it|senato\.it|^ministero|^presidenza|^regione", re.I)
+FONTI_UFFICIALI = re.compile(r"governo\.it|camera\.it|senato\.it|^ministero|^presidenza|^regione|^pagella politica|^facta", re.I)
 # annotazioni dei resoconti: «(Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista)»
 ANNOTAZIONI = re.compile(r"\((?:applausi|commenti|proteste|si ride|vive proteste|interruzion)[^)]*\)", re.I)
 
@@ -93,7 +95,8 @@ PROCEDURALE = re.compile(r"^(sull'?ordine|svolgimento|seguito della discussione|
                          r"interventi di fine seduta|commemorazione)", re.I)
 
 
-def notizie_su(nome: str, data: str, testo: str, contesto: str = "") -> list[dict]:
+def notizie_su(nome: str, data: str, testo: str, contesto: str = "", periodo: bool = False) -> list[dict]:
+    """Con `periodo` la ricerca è limitata ai giorni della dichiarazione (serve per quelle di mesi o anni fa)."""
     cognome = nome.split()[-1]
     if PROCEDURALE.search(contesto or ""):  # «Sull'ordine dei lavori.»: il titolo della seduta non dice di cosa si parla
         contesto = ""
@@ -104,22 +107,26 @@ def notizie_su(nome: str, data: str, testo: str, contesto: str = "") -> list[dic
     nell_evento = agmod.radici(contesto or "")
     comuni_generiche = {agmod.radice(w) for w in agmod.COMUNI}
     # la parola principale, se torna più volte nel testo, basta da sola («Legge di Bilancio… questa Legge di Bilancio»)
-    principale = agmod.radice(parole[0]) if conteggi(testo, contesto)[agmod.radice(parole[0])] >= 2 else None
+    principale = agmod.radice(parole[0]) if conteggi(testo, contesto)[agmod.radice(parole[0])] >= 2 and len(parole[0]) >= 7 else None
     fine = (dt.date.fromisoformat(data) + dt.timedelta(days=DOPO)).isoformat()
     # il cognome con la maiuscola («Boschi», non «nei boschi»), anche tutto maiuscolo nei titoli delle agenzie
     nomina = re.compile(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b")
-    tenute = filtra(notmod.google_news_libera(f'"{cognome}" ' + " ".join(parole[:2]), giorni=GIORNI + DOPO),
-                    data, fine, nomina, radici, nell_evento, comuni_generiche, principale)
+    dopo_fine = (dt.date.fromisoformat(fine) + dt.timedelta(days=1)).isoformat()
+
+    def cerca(q: str) -> list[dict]:
+        return notmod.google_news_periodo(q, data, dopo_fine) if periodo else notmod.google_news_libera(q, giorni=GIORNI + DOPO)
+
+    tenute = filtra(cerca(f'"{cognome}" ' + " ".join(parole[:2])), data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome)
     if not tenute:  # ricerca troppo stretta: si riprova con la sola parola principale
-        tenute = filtra(notmod.google_news_libera(f'"{cognome}" {parole[0]}', giorni=GIORNI + DOPO),
-                        data, fine, nomina, radici, nell_evento, comuni_generiche, principale)
+        tenute = filtra(cerca(f'"{cognome}" {parole[0]}'), data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome)
     return scegli(tenute)
 
 
-def filtra(trovate, data, fine, nomina, radici, nell_evento, comuni_generiche, principale) -> list[dict]:
+def filtra(trovate, data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome_completo=None) -> list[dict]:
     tenute = []
     for n in trovate:
-        if not (data <= n["data"] <= fine) or not nomina.search(n["titolo"]) or FONTI_UFFICIALI.search(n.get("fonte") or ""):
+        if not (data <= n["data"] <= fine) or not nomina.search(n["titolo"]) or FONTI_UFFICIALI.search(n.get("fonte") or "") \
+                or (nome_completo and omonimo(n["titolo"], nome_completo)):
             continue
         comuni = radici & agmod.radici(n["titolo"])
         # due parole della dichiarazione, oppure una sola se compare nel titolo dell'evento («Federchimica», «Coldiretti»)
@@ -142,10 +149,27 @@ def scegli(tenute: list[dict]) -> list[dict]:
     return out[:6]
 
 
+# parole con la maiuscola che possono stare davanti al cognome senza essere un altro nome di battesimo
+RUOLI = set("""Premier Presidente Ministro Ministra Vicepremier Segretario Segretaria Leader Senatore Senatrice Deputato Deputata
+    Sottosegretario Sottosegretaria Governo Onorevole On Sen Dep Dott Prof Il La Lo Le Gli I E Ed Ma Con Da Per Su Tra Fra Che
+    A Ad Di Del Della Dei Delle Al Alla Sulla Sul Nel Nella Se Anche Ora Oggi Ecco Così Perché Cosa Quando Come Dove Pd Fdi Lega
+    Avs Azione Iv Ue Usa Ilva Italia Roma Milano Napoli Torino Camera Senato Aula Cdm Pnrr""".split())
+
+
+def omonimo(titolo: str, nome: str) -> bool:
+    """«Ma chi è davvero Claudia Conte?»: davanti al cognome c'è un altro nome di battesimo."""
+    proprio, cognome = nome.split()[0], nome.split()[-1]
+    for m in re.finditer(rf"(?<=[\s«“\"'(])([A-Z][a-zà-ù]{{2,}})\s+{re.escape(cognome)}\b", " " + titolo):
+        if m.group(1) != proprio and m.group(1) not in RUOLI:
+            return True
+    return False
+
+
 def tieni(n: dict, nome: str) -> bool:
-    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali, cognome con la maiuscola."""
+    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali, cognome con la maiuscola, niente omonimi."""
     cognome = nome.split()[-1]
-    return bool(re.search(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b", n["titolo"])) and not FONTI_UFFICIALI.search(n.get("fonte") or "")
+    return (bool(re.search(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b", n["titolo"]))
+            and not FONTI_UFFICIALI.search(n.get("fonte") or "") and not omonimo(n["titolo"], nome))
 
 
 def costruisci(ctx) -> None:
@@ -168,31 +192,53 @@ def costruisci(ctx) -> None:
         except Exception as e:  # noqa: BLE001 - restano i titoli già trovati
             errori += 1
             log.info("notizie dichiarazione %s: %s", r["url"], e)
+    # le più discusse (frasi verificate da Pagella Politica, anche di anni fa): ogni frase si cerca una volta, nei
+    # giorni in cui è stata detta; quelle recenti si ricontrollano finché sono nella finestra
+    nuove = 0
+    for v in sorted(indice.get("discusse", []), key=lambda x: x.get("data") or x["data_verifica"], reverse=True):
+        chiave = "discussa:" + v["url"]
+        data = v.get("data") or v["data_verifica"]
+        if chiave in archivio and data < limite:
+            continue
+        if nuove >= MAX_DISCUSSE:
+            break
+        nuove += 1
+        ricerche += 1
+        try:
+            archivio[chiave] = {"data": data, "notizie": notizie_su(v["nome"], data, v["frase"], periodo=True)}
+        except Exception as e:  # noqa: BLE001
+            errori += 1
+            log.info("notizie discussa %s: %s", v["url"], e)
     if ricerche and errori < ricerche:
         ctx.ok("google_news_dichiarazioni")
     elif errori:
         ctx.errore("dichiarazioni", "google_news", Exception(f"{errori} ricerche non riuscite"))
     # l'archivio tiene solo la finestra recente (i titoli più vecchi non cambiano più ma non servono)
-    archivio = {u: v for u, v in archivio.items() if v["data"] >= (dt.date.today() - dt.timedelta(days=60)).isoformat()}
+    # (le più discusse restano: si cercano una volta sola)
+    archivio = {u: v for u, v in archivio.items()
+                if u.startswith("discussa:") or v["data"] >= (dt.date.today() - dt.timedelta(days=60)).isoformat()}
     archivio_p.write_text(json.dumps(dict(sorted(archivio.items())), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     # le notizie vanno nell'indice e nelle schede dei politici
-    nomi = {r["url"]: r["nome"] for r in indice.get("recenti", [])}
+    nomi = {r["url"]: r["nome"] for r in indice.get("recenti", [])} | {"discussa:" + v["url"]: v["nome"] for v in indice.get("discusse", [])}
     for u, v in archivio.items():
         if u in nomi:
             v["notizie"] = [n for n in v["notizie"] if tieni(n, nomi[u])]
     for r in indice.get("recenti", []):
         if archivio.get(r["url"], {}).get("notizie"):
             r["notizie"] = archivio[r["url"]]["notizie"]
+    for v in indice.get("discusse", []):
+        if archivio.get("discussa:" + v["url"], {}).get("notizie"):
+            v["notizie"] = archivio["discussa:" + v["url"]]["notizie"]
     indice_p.write_text(json.dumps(indice, ensure_ascii=False, indent=1, default=str) + "\n", encoding="utf-8")
     for f in (ctx.out / "dichiarazioni").glob("*.json"):
         if f.name.startswith("_"):
             continue
         d = json.loads(f.read_text(encoding="utf-8"))
         cambiato = False
-        for sez in ("camera", "governo"):
+        for sez in ("camera", "governo", "verificate"):
             for x in d.get(sez, []):
-                n = archivio.get(x.get("url"), {}).get("notizie")
+                n = archivio.get(("discussa:" if sez == "verificate" else "") + (x.get("url") or ""), {}).get("notizie")
                 if n:
                     x["notizie"] = n
                     cambiato = True

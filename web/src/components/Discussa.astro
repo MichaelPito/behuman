@@ -1,6 +1,7 @@
 ---
 // Una dichiarazione «discussa»: scelta e verificata da un fact-checker indipendente.
 // Mostriamo la frase del politico, la data e i collegamenti; non il giudizio del fact-checker.
+import Giornali from "./Giornali.astro";
 import Icon from "./Icon.astro";
 import type { Verificata } from "../lib/data";
 import { dataIt } from "../lib/data";
@@ -28,6 +29,7 @@ const { v, nome, slug } = Astro.props;
     {v.fonte_originale && <a class="small" href={v.fonte_originale} target="_blank" rel="noopener">Fonte originale <Icon name="ext" class="tiny" /></a>}
     <a class="small" href={v.url} target="_blank" rel="noopener">Verifica di Pagella Politica <Icon name="ext" class="tiny" /></a>
   </div>
+  <Giornali notizie={(v as any).notizie} quando="nei giorni in cui è stata detta" />
 </article>
 
 <style>
