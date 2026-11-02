@@ -3,12 +3,12 @@
 import type { TitoloNotizia } from "../lib/data";
 import { dataIt } from "../lib/data";
 
-interface Props { notizie?: TitoloNotizia[] }
-const { notizie = [] } = Astro.props;
+interface Props { notizie?: TitoloNotizia[]; quando?: string }
+const { notizie = [], quando = "negli ultimi 7 giorni" } = Astro.props;
 ---
 {notizie.length > 0 && (
   <details class="giornali">
-    <summary class="small">{`Cosa scrivono i giornali: ${notizie.length} ${notizie.length === 1 ? "titolo" : "titoli"} negli ultimi 7 giorni`}</summary>
+    <summary class="small">{`Cosa scrivono i giornali: ${notizie.length} ${notizie.length === 1 ? "titolo" : "titoli"} ${quando}`}</summary>
     <ul>{notizie.map((n) => <li class="small"><a href={n.url} target="_blank" rel="noopener">{n.titolo}</a>{" "}<span class="tiny muted">{`${n.fonte ?? ""} · ${dataIt(n.data)}`}</span></li>)}</ul>
   </details>
 )}

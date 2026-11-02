@@ -95,7 +95,7 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
           <div class="what"><a href={u(`/dichiarazioni/${r.slug}/`)}>{r.nome}</a> <span class="muted small">— {r.contesto}</span></div>
           <p class="small estratto"><span class="etichetta">In sintesi, con le sue parole</span> «{r.testo}»</p>
           <a class="tiny" href={r.url} target="_blank" rel="noopener">Testo ufficiale integrale <Icon name="ext" class="tiny" /></a>
-          <Giornali notizie={(r as any).notizie} />
+          <Giornali notizie={(r as any).notizie} quando="nei giorni in cui è stata detta" />
         </li>
       ))}
     </ol>
