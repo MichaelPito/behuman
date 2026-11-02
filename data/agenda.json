@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-02T06:08:01+00:00",
+ "aggiornato_il": "2026-11-02T20:44:18+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -125,14 +125,7 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "Più tutele e stop alla frammentazione: cosa prevede il ddl sul registro degli orfani di femminicidio",
-     "fonte": "Vita.it",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDlWYi11VXNXSGRheUhoamNnMFprd3NqdWNKclI4TFJXNG91ZXRnQUg4TXlRNmtUQ3RwOFZNSDFPLW5UTWlsM1hleHlhNHNtTW5oNl93cXFna3lQYUNzLUJPbmVtWFkwRV9FT1VuODRTWDZXRUJHcW9OWG5pS3k5aWxEUTNLV09VMGFqa04xYm1ZeFdCZlc0TWhWYTBaUkZINXMtRGNUeGZNeTFqUkdrWlpPMzg3NHdwVkVuNg?oc=5"
-    }
-   ]
+   "notizie": []
   },
   {
    "id": "52867",
@@ -218,20 +211,7 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53444"
     }
    ],
-   "notizie": [
-    {
-     "titolo": "Per combattere davvero l’antisemitismo va rigettato un disegno di legge controproducente",
-     "fonte": "Terzogiornale",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX2VxYU1rYkRzZURHZklMNjBIMmFMU1FtNC02TmhRM3FkbURzQlh6YVA5X3RiQzNQTkQxRGVlV1B3OHhuRDJTb1NyODdUakEteEQ4bGNKSld1Z1dDd1hIRlJsaUx6OEVZbjBsSzI1YlREQzQ1OEpGNW5IVllFdldtSjVwMk5zNkJYeHhhNDJTSzVVRzhic2pOVnFiNzJJOWtzN2hUZFMzOXh0ZHBveWREakVyZWdQano1SkdZeGxPYzA3Yk42c1c4?oc=5"
-    },
-    {
-     "titolo": "Blog | Perché il ddl Antisemitismo di Meloni vuole riscrivere la Bibbia",
-     "fonte": "Il Fatto Quotidiano",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUtUQ0RFYzRYSm1remdwWkJmT09tVE9hcVlCS0l4UWhIMFF1SkhQUkVnUUZYTkJCTFFwcmdKN0tKdWsydFpOOVVKX0NNSVgtZ1lIWmF1WnJXQnNkMVZfNE0zNG9laWVNb2RvYTdqYnMxUXZZRkxBSXRWV0czakxiQUVnQnFqSncxZ0RvbUg0SEFYdHdjR2w5eHNOaDdwYjB5YWR6Qg?oc=5"
-    }
-   ]
+   "notizie": []
   },
   {
    "id": "54189",
@@ -438,7 +418,32 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
+     "fonte": "L'eco del sud",
+     "data": "2026-11-01",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5"
+    },
+    {
+     "titolo": "Giustizia, Forza Italia rilancia la separazione delle carriere: «Ripresenteremo la proposta di legge popolare",
+     "fonte": "Il Dubbio",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUlhxaHVsdTdndFhvdHJaRkMxZDhDTmk0eWxLTkNlWGhUUVk1eGtJUl8yVWhvN0xfeTQ5N3BjTnNGaFJoWmF0Z1laTnkxU0ZGeG9ZOE85RlF3ZzRsTHp4bGNnNWRmZldMNkVHbEp3amZtQ29taVYzYlhyblA2bFhoZF9IbmRKbXN5WVhhME82OWljZWR3OU9fWG5BMGd4V2VVNTZJX2FHVFNBdnFIVmVCM1JDNjI5NGxuNUROeER6aks4U3VvZElrejJkLU1nQ0ZCZnhRelRxTHhlNExMRW1abTI4eDVVUEkzblVETUkzcw?oc=5"
+    },
+    {
+     "titolo": "FI - FORZA ITALIA * CAMERA: «GIUSTIZIA, COSTA (FI): “RIPRESENTEREMO PDL SEPARAZIONE CARRIERE. GESTO SIMBOLO DI BATTAGLIA CHE NON SI FERMA”",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTJ3R2cxWGZFeG9yZDhoM3gtdl9rdWNINkxDQ0ZwYjR3YkdTV3p2SG11cDVLQWx2N0J4TmdrU3RiUGN5dVV0NVZObkdyT2xSRjY0YldEOU1SOHlWZGNmSlVJaUJMaXZkWDZ0d2Z1V1lDd1NtVnBBdEdmSElQSnFaeG03aDRkWDhOSlppVm1IaC1UR3NVYmtxQnVwYlNNUlpIT0p6QmNRaFFqWXNUY25ySHVMb2phUFI0Rk1VZ0p0cVVlSjlKM19CQ3RIaGNWWlludjFHYk50OHlQS0dpTjhPYjlkUWtYQ1gxN0FKRGlrS2xCV1dleWttcE5UQnRCWkJ2WE81cG5uc1A3Uk0tLWc?oc=5"
+    },
+    {
+     "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «GIUSTIZIA, M5S: NORDIO SORPRESO DA GIP? E' IL RISULTATO CHE INVOCAVA CON SEPARAZIONE CARRIERE",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOG1IbV9PX2FIS21BNFpJTm1iNXdMTzBjQzdxR2dvcXB2Z3hCLU1QamNWYmFYQkNfNVE2elRyVlNyV3VvTjlDN1NLMnhYeTJhQV9scmx5ZVk2cWNrUGFMWDVfS2h4SUFzcnNkb3JmdlVCN2dCR1FTQXRDR3BfYXV2cGdJOERjYkxOS2NOams3R2FUejNxenFDZjhEYkp3LXB1NDBYbmNuNFhnZDBfaktSVEM2enRNMVRWTl93V2pIVEl0YTlmTmZyMG0wTDdSdlVINVpNb3dtTzEwREZacHVXSEhOYVRwNDNXNGtxaGlfYmpxYnVPUnA2Mk5fajBRWVNfSDhmZk41RGhqR3c?oc=5"
+    }
+   ]
   },
   {
    "id": "53561",
@@ -516,7 +521,7 @@
    "descrizione_governo": null,
    "notizie": [
     {
-     "titolo": "Interpellanze e interrogazioni, decreto prezzi petroliferi",
+     "titolo": "Interrogazione, decreto prezzi petroliferi",
      "fonte": "Camera.it",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TX0w2dHhLclNGOTJoZ1RVY0J6Z2tfMzEwT2pBYy1EemFzNXhqSmpfVk9iSDN5MFVRcWFVRlpxRUpnMk9MaUlqLTNwNXlxYVg3M2U5ODQ5M1BnVGlMVlJHalhqeFVnZXZUTnBDQmVtcw?oc=5"
@@ -667,40 +672,40 @@
    "descrizione_governo": null,
    "notizie": [
     {
-     "titolo": "Tgcom24: Napoli, protestano contro il decreto scuola ma devastano gli istituti: altro grave episodio Video",
-     "fonte": "Mediaset Infinity",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTYxaW54VmlRX2tPYWN3TEV3OWdseDBRbnBjeDNBT2RudGMxLURJYS00a25Dc29NN2xscW1FUDYxN3F1VnN6Wld0b0UzdEZpeHE2TFRQVTkzb1JUWHBPM1E1empYOE5rampXY2xXUXo4eE15Z1Y0Vks5ZV9nbVpWU2l2akZLZURtdmpWY2FWcG81SmFGRlBSTGZTdFRIN2hrMVA1VWJKWUhnWGV0UXFwc1BQYTBJdElGRTNJVGt0Vl9QUmowaV9UVy1QTGd1ZjQ4ZEtjUDAzVHFmTXV6bVQwRDlHWmJ5c1pieHhmOEhB?oc=5"
+     "titolo": "Decreto Scuola, lavori a rilento in Commissione: slitta l'approdo nell'Aula del Senato. Ipotesi voto di fiducia",
+     "fonte": "Orizzonte Scuola Notizie",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdnhNYi1JNTV4V01WU2tEblhybUxPUGg5NEljQlVsXzdVT19FT1c0UHlUNjQyakw4dWpZLTNtVWV5UWlHTkVXdHAxOWFRNGpQd3JKdFZOTVktdDNQeDFsdDJ6YzR4YV9nUnZWMzBWdnpaeS0xeGZBUUQtanp1UDI3ZlVTcHVjRG9uVU9BZXdBci1pMGkyWWFjdHRPaENJS1ZJWHVhRmZvNWtva1M0WElleXQyVkI0Nm1CYW5aZ1hYN0xRd2Y4YUdjV2xSNEUydWtISXRISg?oc=5"
     },
     {
-     "titolo": "Napoli, scuole occupate e devastate: nuovo episodio all'istituto De Nicola",
+     "titolo": "Slitta l'esame del Dl scuola al Senato, a rilento il voto emendamenti in commissione",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3I5aWhCc3RUU3ZFYUotUlVXakJCZ3NEWUloR2M2OEVjZk95ZFJQZ0sxeEdydGNURHlxa29WOGJqQ2JGWmNRMHhjb1MzeEl1bkpWTHBmNTlMazRUZm9JeWZYbWdBLXpSVWdScmwwUzNvekpzd25Xbi1GTGVadmVUYjJ1SjBidmthcGhWNTJZWXZzTktJaEpZWHJEelUwRGc2dXY0NzgxeHR2OUE?oc=5"
+    },
+    {
+     "titolo": "Decreto Scuola, idonei 2020 in coda alle assunzioni? Le tre richieste dell’UDIP",
+     "fonte": "Scuolainforma",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlcxaDRvTHRMcXpvTV9LTmJ2UkpzMEpfOHRuRTdkQlVRczFzeHlNUGJuMnp0ekp1NVhHX2RsakFzMXNRVkhuQWRSUDNHTWo2bVZfZlp0eXh3eEtoUS04Q3hVdXhBbjlwWGVDalhtOFdZWW1Nc0dNZXdiSkpkNjlqZVZyRWtqaE02RjhVZUZ6LWFHajljMHNfVjZOck1ESEJsNkZYS2U2SGppQWlw?oc=5"
+    },
+    {
+     "titolo": "Decreto Scuola, l'approdo al Senato potrebbe slittare di una settimana: ipotesi questione di fiducia",
+     "fonte": "Scuolainforma",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFdWUlhHQ3hhSVJJWEhpR2EzdlFPWW5wYUVaUGdhR2tqUEhfc09qWE5lbXpWNFRWUE9MTEpxemRvcFFkNnZVVDNNOHp2dWdoWFlubFcwUGdTTDg2Mk1GRUtGRXhLa2dBYmR6LUU5WFlGY25xdFFPUkpmazIzaGo5NW8wdzFhWWZSQ0UwQ0NxaUFCMTByMWlYWTVYSzkzbEN4bEFianFBQnE3a21WOHA2UFdFMUZOb2R0dkQxMmRGa3hMNGgwUlB4Vw?oc=5"
+    },
+    {
+     "titolo": "Slitta l'esame del Dl scuola al Senato: a rilento il voto degli emendamenti",
      "fonte": "News Istruzione",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORThVNlFZT1hDclc0QkZYb2dVMG5mQmNzaE5zQ0xhVlgwQll3Q2pucGZJS2ZKYUd3X3V3N1F0T3VpclY3b0JlT1lwWUxKeFJuaV9ibk12eFJJUEdYeFFjN3FSWXdJR19fVmVhNnJFaGVZcnIzMkNVZC0zMHVtcmhUX2JtX0wwSmVWZmxtd19KVXlOTG92ZkNWaXVBUdIBoAFBVV95cUxQd0JBek9wbUpMU1IzRTd5MVlWT0g4T0ZMcFZWRmVHSWJTMWRBTHdvMnU3bkUxVUotbVU1b0hOaW9oRzNhVDVic0lDSHZtUlR2R3lZSUxkZDhSTDlQbkF2ZU9yazN1bU9sak13UThOcGVEUlZvc0JiQUNLN2swakcxbkFwRERjaFhvX3FBdnJLYmxTM3hOU0N1VDdfanRaVHlt?oc=5"
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xTllGY2lkejdlbXZSeG5wSFY1S3VRbmFqR3otZVRTZjlJbDJxSnpjSkRacWExaFNlMlJXX2p5TGhmOVRwYktPaDFBdFlKMjNyTTc1OFBmUVVXUHJZTlE1M1lqQ25UeVU0WE1UMGVGOUJLdWZvRmRDMEtn0gF_QVVfeXFMTkRkdF8yM0FUbkw1TWNBUjFhVWpVeFZUYlFBTjRHMDFoY0I1bHkySU1UOHhzajVjM2hfd0tqeFMyNWRGZ183TEgwSE96cVg2cUxMUmZMalJUdWYyQjdmaDE3aFFpZ2tiQ250Skx6cTJDTWdjQTRpSzJ5Z3QwcDJDaw?oc=5"
     },
     {
-     "titolo": "Napoli protestano contro il decreto scuola ma devastano gli istituti | altro grave episodio",
-     "fonte": "Zazoom Social News",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGhIQjd2SGhXOXF6YllrYTZZbjZfRFZpVWt6VzBjcExqTEVMNFdFZWhnUE1KNkZ2YUNjSGJEdVpiTVdiYWRzNzFlMWw1QS1nblNZbzlHaGZkYllMRlU5dEEyNEtqSlRHdGdIVEhqenFVOXZ6UEF1OWd3Q0k4WTNXNXpZTlNhZ1pDazFEMDNPd1VhbUhHOW9fN0FCX2JjbWxwZk4yUjZPXzhzOEpoQXlYWGZTUjZodTc0b3NqcEhnb3lKZG45OXU0Ykx4bVI?oc=5"
-    },
-    {
-     "titolo": "Gli emendamenti della FLC CGIL sul Decreto scuola 2026 arrivano in Senato",
-     "fonte": "flc cgil roma e lazio",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEl3Q21yS0tXc01aNW1JS0tNNEJiWVpJSlJGdFBNZm12b3cyelNUQjYxVmxpU2NJeC05ZEUwandaT2NpYWd3b2RFY2lQTE9SMl9fVzgySWpXVUpyQUg2OEJubVpmMTl3T1luWGVkZ0JackdBcmRQSGFGbXliNnFoOFI3TUlJMmxPNU1Bcm0tcHFqQktZUzVOUURZNGhPUENqT0kxamVidzhSUQ?oc=5"
-    },
-    {
-     "titolo": "Docenti di ruolo e precari: le novità tra rinnovo contratto e decreto scuola – Rivedi la Diretta",
-     "fonte": "Tecnica della Scuola",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQek5zd1JBQk5Dazl0Vk1YYktuN0RteFItNks3Zk9zZHRRa0NUT1RLelhnaDdHcVlEdXpHZXZWVldFcE5YYnd3V1pKbk1RSWJDc2dpcjd2TlVWdnAyODFjSmd5SU9FemRwZFJlRXBrR0pET294aEstQ0FZd2h6ZThZS0Z6bU1WQWl0cWJBS056TFk3U0pJbWVNczY5c0lzUnU2YXVKdTVWRXYzQk5qRkJxbVh2Yjk3SWY5T0RaM1dPX1lQc0E0?oc=5"
-    },
-    {
-     "titolo": "Collettivo Cortocircuito: \"Abbiamo manifestato per dire no a un Decreto Legge razzista e classista. No al riarmo e più soldi alle scuole\"",
-     "fonte": "Rietinvetrina",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOckowTmN5eEEyejZZczR4dHdfdG44ZzVTWElyVUdQRFBEbGo4dWYwNFhXM2xDYkw3Si1WTjRmTVlMa0hEVnBHLVgzRWxGOHRQdGZQeHR4dWJhM1dSbi1rVWtBOGl0aWZ5SERIU1dTLU9NeDlaWV8zcEhnSUpYTDh3NHd5UVdrNEJNaTBlT3dkM0hTM0FKVkR0MnlLNHU3Wnk3bVh6Z2xsemxXQzNtbzJhTmNqUWlyWlNPVElqM2J5SG9wcWRMaVYwLXQ3UUxNY3B3bjlieUU3RHNocG9qbGxjdW1yZ1l2bkQ1R0s1ZmpqX2V3SlcxX0E?oc=5"
+     "titolo": "Manovra, scuola in rivolta contro i 7mila tagli: “È l’ennesima beffa, siamo pronti alla mobilitazione\"",
+     "fonte": "Affaritaliani",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0gzZG1NS19McXVNX3NaZDZEMmtwRk1BNEZ3UnI4UnIxYTJFUWl2OXF3emJ1ampBbHZydFJCTURKVGpZeF95T3QtMVZKVm5qOXpyZUs4X1NkZkFEbWp2TnNGRUdPYjlrQ1NCTTlhcU5OYmlpNXpfRDlBaEZYNnZram9GT01aVmVQWTdHeGRrTmdTUW5YTVlpVGFmc0xEcktHUzl5Ml9SR2V0TWtQMzBxWkpocXRPVHBHV1ozR1FLRWloYUxJSHUwWFVzQk1yR0thWTRjakdR?oc=5"
     }
    ]
   },
@@ -787,6 +792,12 @@
     "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836"
    },
    "notizie": [
+    {
+     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
+     "fonte": "Corriere di Taranto",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
+    },
     {
      "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
      "fonte": "Buonasera24",
@@ -951,6 +962,18 @@
    },
    "notizie": [
     {
+     "titolo": "Riforma responsabilità professioni sanitarie: quale futuro? - Napoli Village - Quotidiano di Informazioni",
+     "fonte": "Napoli Village",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1BTWnhfbkxZN3NfWmtRRkh3cGhJcGJId3NaWUc0WnFoMUpyUE1sQ2MyakpuS1JTSXpRNzJWNzZHc2JQdjk1c2F5XzB0LW1zUzRQelpEazR6WjJ4SlZXZUtKT3VvbjFqYVpETHBJTjZ2SDNfWi1KRzctLW1PbVlhYUN5SHFBMldPcVJsazdkVGdMTVpETTJxT0JPN0t4M3lQbEhB0gGjAUFVX3lxTE43UFNaeF9uTFk3c19aa1FGSHdwaElwYkh3c1pZRzRacWgxSnJQTWxDYzJqSm5LUlNJelE3MlY3NkdzYlB2OTVzYXlfMHQtbXNTNFB6WkRrNHpaMnhKVldlS0pPdW9uMWphWkRMcElONnZIM19aLUpHNy0tbU9tWWFhQ3lIcUEyV09xUmxrN2RUZ0xNWkRNMnFPQk83S3gzeVBsSEE?oc=5"
+    },
+    {
+     "titolo": "Responsabilità medica, la Camera approva la riforma. Mazzucchiello: \"Buone pratiche equiparate alle linee guida, una svolta per medici e pazienti\"",
+     "fonte": "Lo Strillone",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYW9OQUh4amxNaDZrODFOVlJiS3BzWFNOQXdIX0QwbHVQS3lxd19CaUJFY0ltelktaVJIUUQzV3pKVTdPYTFlV0NBQkpGMmhROVpZMnBWbVB0Vjd6M0lOZF9mdHBvOUhqOUxaS3J2Nm90RGV4T2ZuWlF5YXJaeHM4Nlg4UC1TUTh1T19PaGhzak0zTmFDd0Yya2ZyNnpKNU1DWEVQbzRIRUo3SmtLYXNnT01Nb2RWMlk3TnhTWFdXM0xNRlpSV3ZBTXc4X3lpTm90S2duN3c5dENWbFcxS1JaSURObkhMckF4NUdRamQ4M3hVUV9jV3lQLUJrUFdGaTBoNXVXOGdKQlI4LTk3SUUtc3otMWRjRERuWFhUbQ?oc=5"
+    },
+    {
      "titolo": "Professioni sanitarie, la Camera approva la riforma: cosa cambia",
      "fonte": "Nurse Times",
      "data": "2026-10-30",
@@ -973,18 +996,6 @@
      "fonte": "RIFday",
      "data": "2026-10-29",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGZFRTVhTk1kWXBoWmRqZk9nR3hZcmRWVFltdDdGY3dLQ0JiRUJWbEd5MGN1SXZNWkN1WHpXRENJQUdoWDJBRURPc240LVdPbmtaV0JrVmFVenlxcTlqLXJoN0hSWkI2cFZaUnpXekpuQ0p0a2xIc0hyOEV0Nzh2bjhPUXdBRTJxT2NUaHJGQzdkR1VHSkxYQXdYb2VhMXI2WVpSOTcyRUxiTzhZSmdMNTlWWGw?oc=5"
-    },
-    {
-     "titolo": "Professioni sanitarie, Camera approva riforma: nuove competenze e responsabilità per gli infermieri",
-     "fonte": "Infermieristicamente",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVElWWUFWMUVNSE5IeGR6N1dWTTNoUGlmT0ZER29JNkdYTnRkUHhLV0xsdTNJMkEtdGowbWJNcER1MVRad1gyeDZ6ZE1IM0o1N2MzMFpBVDJLS3EyZzUwcFFkNUlSVUZhbTNiSDJVa3V2SncyOFhZa0lQTDRWaGpjS0JjVVpaeWRKMkpWdU5mNFdvbE1faHBXcEtjUDNZNkRfU21ZLW1ySzBnUU1RWVJZTDBaUHdPRndNYWZrbHhwZUZaX2FZU3FvXzJicDVrN2ZheEtyNlRVU3U1M2hMdnh0cnVYcC0?oc=5"
-    },
-    {
-     "titolo": "Responsabilità medica, la Camera approva la riforma. Cosa cambia per i medici",
-     "fonte": "Doctor33",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkk4Y2Y0ZE1Ydm8tc185VkNCeTZGZFd4VnFtMEx1ZG5tZzBDbnVEd1lrTml4YVByOGpYZzRWOGJOc0lkZjlTY3B4VG9RX0hWc3p4VURLNmgxbXFaUmZfeTBWOVllR3V3X3hYWDM3OWR6Y1ZUN3VISThXME13YUpnWWNtSXphX1JpWmpkVGFrQ0Y4LUR3aVlVTVhXVXh2ellNZ1Rnbmc1R1drNEFGaERzTHBGalc?oc=5"
     }
    ]
   },
@@ -1026,8 +1037,8 @@
   },
   {
    "id": "52019",
-   "numero": "S.427-731-888-891-B",
-   "ramo": "Senato",
+   "numero": "C.2197-B",
+   "ramo": "Camera",
    "passaggio": 1,
    "titolo": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
    "titolo_breve": null,
@@ -1035,14 +1046,14 @@
    "oggetto": "Modifica all'articolo 24 della Costituzione in materia di tutela delle vittime di reato",
    "natura": "costituzionale",
    "conversione": false,
-   "stato_ufficiale": "approvato",
-   "stato": "approvata, passa all'altra Camera",
+   "stato_ufficiale": "da assegn. a commis.",
+   "stato": "presentata, da assegnare a una commissione",
    "data_stato": "2026-10-28",
-   "presentato": "2026-05-28",
+   "presentato": "2026-10-28",
    "trasmesso": true,
    "iniziativa": "Sen. Iannone Antonio ed altri",
    "tipo_iniziativa": "parlamentari",
-   "commissione": "1ª Commissione (Affari Costituzionali)",
+   "commissione": null,
    "temi": [
     "Costituzione della repubblica",
     "Vittime di azioni criminose"
@@ -1050,7 +1061,13 @@
    "decreto_del": null,
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52019",
-   "prima": null,
+   "prima": {
+    "ramo": "Senato",
+    "numero": "S.427-731-888-891-B",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-10-28"
+   },
    "proponenti_monitorati": [],
    "approvata": {
     "ramo": "Senato",
@@ -1078,16 +1095,16 @@
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNXzg2UktadVRYdzFnMkdSUHlXakNHdklQa3N3TjhhRzRMUHpld2lJbFZ1dGp2VVhKbUFQMWRPVEo2cDBRRTFvaEpWbWM4WVJ3MmpWd2V0RVRKM2JPMkJIdXhsaUhBMmpfbkRSXzg0LW1tNjY4MzBpcFNpUzFFaDRUQTJPeGdha1ZNM2Y2VU9jamhwTVA0a1FEY3B3VmJhZHVENFFWeUtRbGc3blVVVjVWb01iYW1SeTBiX1puZGgyZG1vOHlxQ0MwMnFTSFVSeVpyT21qLWxnZThpcEpjTFHSAeMBQVVfeXFMT0VjOGlOemhDaGt2UDhFV1F0a1Y0V3VQeEZGU2NmUUNHbF9vT1A1eWljLVlLbDNMSjNnQ2FyLWJtMG5KWEFxeTJPMGNwNUN4VmtqejFTRDdiWTY1QUpNY251dGxvRllwWXdfWlRVQzhNaEswT0pycUtjQjFDM1ZvLTNrVmFOeTRULUM3N0RmSVJXOE50WnJjbk5RREVDeDRsMmd6enhCVUgxWDBDZC1YdjdZM0UyM2M3a0p1WlZMSzRsQzhkdHZfQWgtWU9IeXc2Zm5oVWJ4eXpvdjdiaGlwYjFoeEE?oc=5"
     },
     {
-     "titolo": "Vittime di reato, Iannone (FdI): “Con il voto unanime del Senato siamo prossimi a un traguardo storico”",
-     "fonte": "La Città di Salerno",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXMtWExhQlpFcDc1QjV0SVowSU1NbFlzUFNDZ0phMm8xWFY2a1VNaGd2M3k4aVRnVFBsVVU4OGtFZHFtd0JGNUtteUhQczZKMGwxTnlvdUZVQVNEdjZKNHI3Y3NENGU3WFRrcGd4RkhyWkhlTEFBLXdtbW90Skg5Z2dpOEVkOEdQc1BpZnlkZC1LMWlTVVJDZGlXZlJjNnJ5b0dWSDFuTzdaSUVReFBaTTdQM3MzeDI0TlNHbGdvc01vTUozd01GTlducHFZYUtvMjg4NlZUbkhhUE1vM1QxbURR?oc=5"
-    },
-    {
      "titolo": "FDI - FRATELLI D'ITALIA * SENATO: «GIUSTIZIA, DE PRIAMO (FDI): TUTELA VITTIME REATO È PASSAGGIO STORICO PER ITALIA",
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN19FWWdjWFVtdUNmVlJzSDVfWTBxT2QycWFtck9QSlhpVGEtOUJRNlVRRDkwU1V2WVg2Y01hWW50b2sxNWxQbGhGeE1yOE5hMWdmN0RXNVBXbG9GWmFKM2ZBWWNGYUNPMlFiSzFUcGVkWnRaa3dUaVRmNEFtMWJEajQ3WDdVeWJ2NG5LQUtFV1dVbERfdDd2d1IycTBrSXNtbkJOZElldW43V0twTkFXZDRoSmxzZTBwckhvdWtNVGQ3akM0VzEtNHo2NVlFeUpITUotUUd5dTRHUlRoVnZ0cDEzU1dWcmxvV3VoX2Z4alM?oc=5"
+    },
+    {
+     "titolo": "FDI - FRATELLI D'ITALIA * SENATO: «GIUSTIZIA, DELLA PORTA (FDI): REPUBBLICA TUTELA VITTIME DI REATO",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWpvX19SNklmVGV4Z3l1RGx4ZTNOUXlja2c5NjFWREhGZkdrUy1adU5QbHF3LUhWcUZodTM2a1ZmVUo4V2JBMGM1T21iaWo4NjhyMkgtajRRdkxHUGhUVy1Sd2xKeDBMU0tIa2hNZTFSbHMtbDdZeEdWTjhEVmd1QnBpWFF6eEZaU1pXSHdRMWQ2Y3hndGVXTjVsT19ZeDA3a0g5cWxnX0YxU1hYZGR5Y2UzaFV3cE83bUhjZzVvbmdnVmFrLUhKZ1pScmI5Uzd1eTF1YVpDeGhEZmVP?oc=5"
     }
    ]
   },
@@ -1128,6 +1145,18 @@
    },
    "notizie": [
     {
+     "titolo": "La legge Costa sulla pubblicità delle sentenze di assoluzione: intervista a Enrico Costa (2.11.2026)",
+     "fonte": "Radio Radicale",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHduNEJUclVtajhpMklhdnZJdjM1N2oyaVhaY1JjU3ZmbnhMQ0w3Z1BIT1JwbVVKNENaX1I3LTlJOGlSU3JTZmo0VXNmZDBSYjVRVlRJQzRHX1FGUFpRVmR0OGw1OVM0NmlXMHdOUlVsSkpFLVJ3Q0V3X2RVdE1oaDJhbFlxME5EVHNwTnFlOUZDaGNVY3BBSV9TTTdZelVHRlhFdW5wMHdVUnBMc1R0dTM2LTI5RXlWUnI3QThyRWJqQQ?oc=5"
+    },
+    {
+     "titolo": "È legge il Ddl sulla pubblicità delle sentenze di assoluzione che introduce il nuovo art. 144-ter del Codice della Privacy",
+     "fonte": "Federprivacy",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVkhZd3hVNGVzb082LVl2a2pHYkJXMXk2VDUtMTFnT1ZoR0tHX1BvdkJkTmNVNHFLNGg0cVI1TUsxQ29UdVoyWVdmdV9STFhCVHIycUpFSHVkb3ZROUljNWNXYmdVRU54ckhweGhFaVI0OURXSU5Td01VdGIzcVU4N2pWM0F1TmFjUGFGdVp2U08zemE1WkZNbExmLTQxZzZqelRCUVdoNFlXTGotM3dySUVieVVHdlpIUmdrQzVRcVc4T3N1cEEtakJsNmdFZ1JNNUM5UGNQZ1NnU1R4UlFNYXFiNkVJdVFIZEpYamRqWHJiVC1FNE0tT1RkUUJDbFZoaXYwaWdXLWd3Zw?oc=5"
+    },
+    {
      "titolo": "Pubblicità delle sentenze di assoluzione o proscioglimento: il Senato ha approvato, in via definitiva, il disegno di legge",
      "fonte": "Giurisprudenza penale",
      "data": "2026-10-29",
@@ -1140,12 +1169,6 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVE0U2p5VTFIVmdlNGlFZTdzYTBaai1hOVNtMU83di1wX1Y0NzBYRUpaZC1hTVUyaUZBMTVER01SZTFfMTQ2ajl5TVl3X2ROTmRUbkRSVFVpYTg2V0pMaWdkZUhmcXNvSmN3bE1LZ3NXbTY5YnlBYlBsMllrN054V3E3Mm9qS3g4Y2lCY1VXS1BWMFdIN3F2ckJ0ZG1vOUJG0gGmAUFVX3lxTE9FZUp2TnBEYVV1TlBwSGttREZLYW5jUWxWeEJzNXZham5LT0t5dXRrTDlQMTJXY1g1UGxkeHlkSEVfaUVYZEJkQXdJTDRUTUM2TVM1QkZ5SFZsUkFGMUEydzRmbm5Zci1hV3dLREFaeTZ0SHN3Z2l3Y0dOWkJoN2xtSTRNRjRRM3NELUctZnJhRTE5djYtWW5FM2tydmJLQXNpblhLTlE?oc=5"
     },
     {
-     "titolo": "È legge il Ddl sulla pubblicità delle sentenze di assoluzione",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWV5b2Z3aGJGT3FWZ2hUVThBOXFJMGlJdUdweTQtUDRrRndkZ0QyREpLTUtIMVFoeWhvNHZ3M080Rjdlem1neEZMMVVRS21qeGQ4Y3BBODJuT19FdFZ0eU1UODFMZ1ltNHRja0ttLUVLWjFEcEk5czB3b2V4QldENzFEaWxXaV8wRlZNUTNDMU5YVGVaU2txNk13?oc=5"
-    },
-    {
      "titolo": "L'obbligo di pubblicare le sentenze di assoluzione è legge: anche il Senato approva il ddl di Enrico Costa (FI)",
      "fonte": "Il Fatto Quotidiano",
      "data": "2026-10-28",
@@ -1156,12 +1179,6 @@
      "fonte": "Il Dubbio",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcWJOTXllSWhMcF9Eemc0a2NIS2FYVjRObFF3R0JTR0dzeFd3M2RCSjBabkVKVkxSLWlGYkV3YXZRdi1mMzhTTVlRSzVOU1FEYUJDVUxhWUNORXZ4di1oTzRZSERGVzNIWE5ZNVdBXzZHc2x3MldSX25yMTNVeVg1ME4ydkgxSGtuR01rc08tRVdHNUo3dEFUb0V0eEU3X3NkSHgzUmVFWXp1QjlkMmdCZVVIMzFXVllic0FXcmE0LTlKYW9OTTdXc09yUHQ5Wk9wNW5BVTNYU0FKU19KV0xyU3p3?oc=5"
-    },
-    {
-     "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «GIUSTIZIA, LOPREIATO (M5S): SU PUBBLICITÀ SENTENZE ASSOLUZIONE TESTO SCRITTO MALE E CON PROBLEMI SERI",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZmc3Z0tTdzlSb0paRmVsclI1Zk51RFMwTnpSOTFVQ3dpQ0tPQmhnY2RJbVhKWlZhUHd3VllNMkVKWGJkLTFiMzNjck1iS2szd2VqWHQ0bEszejhPRGcxNUVXYVM4YTk1di1CSWViNVo1RnBYYzVRN1VzYlROaWRvSlBzSlMxUFM2OHVpcVRFOG5DeDVOeUc0ZVEzR0RQMV9oaUpicmQtdF9zdFVucEtna2tIblplMVVYbEhEc0dXb2hrU0QxSGhfbTRodHduTEVObzR0TjhoQmN4dDZfQWtwOUpNUDdnQy1kNWhiMlc1T0hqVFVuQ1J0OTFZak10NGlwNS1LRlg2Q2ZnT2M5RHpjNDJIcnNxUQ?oc=5"
     }
    ]
   },
@@ -1207,18 +1224,6 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDdwc3pXUGtsR1VFOXFqamt6LWdJRUZJb1YyVDA0TXA1dVJzYkRadk42dUZlaV92RS1naFUwazkzUS1BOTNxaGxYZWU1U2RTcm5BeHVUTE1iZk41ZHlXbTlfZjJYWHJDTHV2bE5vUkI2dXIzcFJFSTVkMkZTcVF1QmlScDE4dDQxdnRRMjc0cmRZZ3c?oc=5"
     },
     {
-     "titolo": "MILAZZO, RICEVUTI NELL’AULA CONSILIARE I VOLONTARI DEL SERVIZIO CIVILE",
-     "fonte": "Terminal Milazzo",
-     "data": "2026-10-31",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWtxQmNNOU9mYVVKTXVpWDJIWnJKc2hzLU92UFFGd2lsTWQ2RDh0MmU1YUhodUEwV1hkUzUtZVlfUEY1RVFWc0l4YzZ2SUpVNlZwWUVrRHBVYXZNTjFJd2pYTmk0alEyZzk2S0taWlllcHVOVkFSRTdvVk5IUmJVNmNHSGw3SUt2aU5uTGQ5bmUtVUVla3Qtc1pBSW4tZlAtaDVz?oc=5"
-    },
-    {
-     "titolo": "Abodi: “Con approvazione legge delega passo importante per politiche giovanili e servizio civile”",
-     "fonte": "La Gazzetta Torinese",
-     "data": "2026-10-31",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEU1ZkdUMU94V3loYlJ3UUU3RUU4QVBWTE5FTllwcU4zUDB2ek9UWWZIWE43bkIwVFA1Y1Q3WEx1MGtyRzJZQkFOalhoTkI4TUVhMjZtVUx5MURyZWtfMHBDdkMyQUV1VXE2dW1KVWRuSWFrcUJTekMxdEZjTmpkd3JIZzBQVjZqYlZTUGh3bWZFbzRVQzBWcm9XczVsTS15UzZ1Zk5JMEFQRnVWakE0SWQ4RzNWRHhZaU9XNG9RZENjRjTSAcgBQVVfeXFMTjRPczA0bHlFTHFRVlAxTy04cVM3dzZVUVplaEY4dndHemVjSUthWkpKbnlXNW1FQXdtVklvdi1Da3BFa0pYUEpFRkt2U3Q1SmpkRXhSaTVnRDVBdkNPbEtlOVUzX0JiLWV3ZVBoWUdkN1Q2UnpUZm02MXdJd01RQTl6cnREcDcyd0tnYmhRV3pDcTBMNk9xYUJ1XzRLdGowYWs2S0dKYkgteER0dWs3bXUyUjlOZmFJVDktTmpGVHo1a0k2Rkk4cHE?oc=5"
-    },
-    {
      "titolo": "Legge sul servizio civile approvata in via definitiva al Senato: cosa prevede",
      "fonte": "deQuo",
      "data": "2026-10-30",
@@ -1231,10 +1236,22 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnAwMmg3bFNza1FMejVyblFLX0pkYnhLdkhySXNLQkFzZjNNOTBSYXU5aFI1a3hmSkJBSEFKOEhSZHVoS0hsQmUwWUpuZklsVHhMWTYtYl8wSEJUckMxbm1YRHdoM2NzaGZHVVBwUlltNWgwVV92bHVRTTVtcnBCZXVmTC1JaGVTa3J3WVRLT0ZGVW9aTXV5MVBKM3d1blRNY2ZCTlBpZGdHeThSYk03WUdzLWtSZEpiZWZrVndTWFZfaXJBaGdHZHA1OGRLRWdXd3Nz?oc=5"
     },
     {
+     "titolo": "Servizio Civile, riserva posti del 15% nei concorsi pubblici, Carta giovani fino a 35 anni anche per gli stranieri residenti in Italia (valida anche per Bonus Cultura). OK definitivo al DDL",
+     "fonte": "Orizzonte Scuola Notizie",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNEpLNHVXemhaa0Q4eWlmSnpsWDE0c3RCbU14YTh5VlRnSUpXN2pCWE93V212R1VRNm1HNFV5OGpxZEdpdGI1RjFBWmpLVkQwODhpaFNoME9oaDFhTDRRQTlCUTdjaGE4UDdJMlF6aEF3cVJTdEJNekN0UjJ1T05WZVN2eFRBX0RqNE9qb3Bud2pScE05TmVYTjdSNEoxSzI5N01rRzZuWGVMZXNOY1dpbkJMM1JwZUh2Vi13a0JmWkpld0xoWncxUHpxOVk5dWctS1J1SzJUVWN0M0FfRzN6N1h5ZXhrZ09RTVNfVlBTU3lndzhfeDMwdmY3bDRXbkROVDh4T0tiSkhtMWhMUTYyMXJoRmdtR0U5anpHSGRtWGlrN0J6eFgwS0RPS244Mm9XVnl4UV9EZlhoVTg?oc=5"
+    },
+    {
      "titolo": "Servizio civile, la riforma c’è ma il cambiamento è ancora atteso",
      "fonte": "Vita.it",
      "data": "2026-10-29",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb01aWmxrbU5xVl9Jb0hUaG9rRUVLc3l1NmprSXh0X29qc2xoWlViYWY5M3c1ZEVlTnF5Qkh1SkVDR1puVkNGRXc4WnNmaFptVXpVX1pmOGZ4WTdXdkd1RTFHbHFNYnFRNkJod1c1VWExcWpEWVpBeGs1bUJvVFBXS0xZNG1FTmg2TjJseg?oc=5"
+    },
+    {
+     "titolo": "Giovani e servizio civile, la riforma è legge",
+     "fonte": "Vita.it",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZ25yOEJkQm1rNUhEV2RLay1uOC1SM0lTMUtFdi1Sc1ROaktZeERPVjZ2SmdNQmRNdFl1Yk02TmgxSWMwQ3BvOFBWZTB2WG9BZ25rRGk2NkI5WFpfaFZ3ZXpmQngzXzNQQ3dlTnBZejFwUkhnNEE?oc=5"
     }
    ]
   },
@@ -1279,14 +1296,7 @@
     "definitiva": false,
     "stato": "approvata, passa all'altra Camera"
    },
-   "notizie": [
-    {
-     "titolo": "Camera: approvato il gratuito patrocinio per infortuni sul lavoro",
-     "fonte": "Dottrina Per il Lavoro",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWJDVW9DOWM0MHZZMEU4OEdfMnVFZV8wTVl1eTBUSi1OYk9KMzBMZGxya2RrdnFqRG5VOUJqdGtCUW1YWkFBOFozWUg2aE90cVN3am9ZZnpVb2RTdHhkeVhGbkFwUGhRUjhLajJMMXJDSHNNbkczOHRwa2JGaHJ3bFZGOFc2cDhjUXYxS2hsWXAyUFktcThDRGJhSlF6b2RyS2JMUy1jWQ?oc=5"
-    }
-   ]
+   "notizie": []
   },
   {
    "id": "55322",
@@ -1464,20 +1474,7 @@
     "definitiva": true,
     "stato": "approvata definitivamente: è legge"
    },
-   "notizie": [
-    {
-     "titolo": "Ex Ilva, patto governo-sindacati in sette punti: «Altri investimenti e continuità produttiva»",
-     "fonte": "Quotidiano Di Puglia",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVFWVlROWXNKdF9sVFAxYTlyTENQdlRObWtvQVVWS0pVMzc3RDVrTDVmRW5wX0ZOUktVSkRxYmZVR2xRXzN0ZkZMdHlXQXVHUTlqeTJoOUlseXl2dC1hSXBvbGZ2OXV1WG1iMV9sajdMZ0VtU2VpNTliWW1IUjNmRHhFWTgxdDM3SUQyaHltY3c3b1dpc055OXpDa3Nwb0tfRF8zRlFoVTl2emVwSFg3dXZNMC1HSU9GRzJFZdIBwgFBVV95cUxNSU5kTlluTS1vdnpyRTBSRlJLeXpHbVhpOWJ2Rm9NS1ZCRmg1TGY5S3JGeFJJZ0VFNG9yMTJENXlCQzlZZlZ0ZDBObEdZMUo0M096eEtrWVVXOTJRVjdoMW50NmtNUXlGR085c1AzejRpYVhSMWFJNENxdm12WVBKMDRzbHAycXhCRkxRM0NtNnBJNUk3Wkk0LXhCdkZxWEl6SWJZVnU1Rzdxckx1dlVPeDFQTkNFRWhRa044V3dCdGJnUQ?oc=5"
-    },
-    {
-     "titolo": "Impianti strategici: in vigore la legge sulla continuità operativa",
-     "fonte": "Ipsoa",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3VtbERQS19ERUtHNkhGXzFPeEotTVZNWGVZV3g2b2xuXy1PWFRZdmJOVF8tWE8xdUFPdU5Pck0yYUVjb1JJNlUydWdDR1VrWE01UkpwVUNncjhIVVJsTEZ4dGtHNGNVWVpqZWZvV2txMFVhMFVCV25JdU9heWh0MW1OaV9RM0c4V184M1dUNGoxbkJYX3NJalBIVG4yaG1IQlowdXlzTy10NVdPejNMdVZ5VlNDOU8xWmRVQ2VxNzJscTA?oc=5"
-    }
-   ]
+   "notizie": []
   }
  ],
  "commissione": [
@@ -1545,7 +1542,26 @@
     "adolfo-urso"
    ],
    "abbinate": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Audizioni su legge annuale mercato e concorrenza - Martedì e mercoledì diretta webtv",
+     "fonte": "Camera.it",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04U1NOTVJiTXlkVVVLU3Q5U0FjajBGb01VS3hrdExidG9aWVpZUGU3MWlzeVlabmpBc2FPdFVkWjNrbjRncFhNc21aMFFRYWRUa1J3M0Znci1OcHgycTExVUpicVhkYUZfc2xvOHZHbw?oc=5"
+    },
+    {
+     "titolo": "Audizioni su legge annuale mercato e concorrenza – Martedì e mercoledì diretta webtv",
+     "fonte": "Stampa Parlamento",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjAyVHEwMjJNMk54SVl1Wk1EQ1l3bFM5QUZaMWFUNVVHbVN0bG82ZWluLUpQV21NZVA1NGJ3THFQYUYxUXQ5emgxbElwMURNTnlZM3E1UUdJamZMNXltdW5sNi14SHZkNjk3VHlrUVdvWGQ4LVQ4T0xLLVNzZ2tZMTNFb05VVW1DUDhpU1BlREtRenpFY1dMeENpYy1CSnNZeWlXX29mbXVOdUJ0eFg3NnMxSG1XN01DOWluczZLWlBKaktr?oc=5"
+    },
+    {
+     "titolo": "CAMERA DEI DEPUTATI: «AUDIZIONI SULLA LEGGE ANNUALE PER IL MERCATO E LA CONCORRENZA, LE SESSIONI SI TENGONO IL 3 E IL 4 NOVEMBRE IN DIRETTA WEBTV.",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPa0x2QmItaFd6WFM2Vk9qOW1vdFNzcUY1WnBOOXIxWi1QZDhXWlVQYmJKUWpVUmNTZV9SSzY4cmxHNnlxRTRaQnl5MmFKdkVMXzdTTXFkM3lfZjBNSElndzlLSmVMbm9VTmpkSmktTkJNb2hoOWhFU1lUaEFsZzMxUHZadVMtRzh5SkZJX3RaNmlkYk9xOHh5aWN6WDNFek5MOUVEZlB6cmtJdC1RZTAwQTdsNlRhTWpKN3d4VUhHeEluMUdpS0RSV2p4N1ZrSFdNVm9jQ2s0c2JnLWFfU0d3bFlPbUVKZ29UT090M2E4Sl9ROFhFTHZqVzdzZFBMVG8tMEQwdDJReS1qbGZnLU81UngyZDFDbzBTWmxNMjRZSXA4bDho?oc=5"
+    }
+   ]
   },
   {
    "id": "55569",
@@ -1599,10 +1615,10 @@
    ],
    "notizie": [
     {
-     "titolo": "Senato, ddl su prevenzione disagio giovanile: M5S presenta emendamento contro la promozione del gioco d’azzardo ai minori, sanzioni fino a 100mila euro",
-     "fonte": "JAMMA",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaU8xU3QxOExsS0trbm5iVTBvWXdadmZpRDl4aldDNHg4RXpTOFFEVE1CSHZ0cFJWeGJHNllVYTZlU2RfdlJYcHEzTTFBQUZMQWRBRGN4eFJTSElDeWZuVWt3eUVHOUVWQUNyeHQwUmRSUzN0a3FGYnMzekdPaGNlZk9sVTBCMU0tMUt5WXlHUi05R3lRWVZlVnA5a1l1ZnVwY3RiQXVSREMzQmZJdnd5WGxobUhOeFQzcVZGcUxKZXJycU56UWtZWjBTdXBpOFU5RUNwZDF2U0d6SllPTEdmXy1xUGxBRkwzVmF6QV9NLWxoOV9pOUVWZDAxdFVVSnF1YTNUVnJnVXVmeFFzLTVSM1h3?oc=5"
+     "titolo": "Matone: \"Il governo ha risposto con fermezza al disagio giovanile\"",
+     "fonte": "Adnkronos",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHlaeTI2dzNpUVdVckhYU0ZhcXBhLXpDRDVzaDFiazdvbGFKTHhfU0pPbzJzWHg2X3dQcHc5bHYxeGU3Mjg0Tm4wVnRrTkcxakVwbW1VVWN5SVQwN1VvckVSQy1QLVZGUlJzMTlUTksyVXJLQnpTNkRoUTFobEJFTDVDX1U4V2tMdG1XcFRXTnhXUnZZRDJQSDRKcVI5UVNyS180WmFCVk53UF9VOXhJMmVCOVROQi1Jc1Y5Qw?oc=5"
     }
    ]
   },
@@ -1723,7 +1739,14 @@
     "carlo-nordio"
    ],
    "abbinate": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «FRATELLI D’ITALIA, VENERDÌ 6 NOVEMBRE A ROMA “L’ITALIA DELLE PROFESSIONI”: GOVERNO, ISTITUZIONI E ORDINI PROFESSIONALI A CONFRONTO",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUDNkdE5rMjZHVi1uZU44aWFSVnM4YTJYcWx2Zy03Qlpycl9xU1dBYUR5cllnUGFSSzBaZFdvQk01cWptOXpGbFpzc3pNN2lBR0NtNGQ0ODlKY3g2RlFMNzE4SC0tZm5rU3VraVBkR1M1VVVySzdnSmpBb2NFMHpzN041TmJNYmpTVEZ5bGw5c2JHU0NaaURpSENEc2hQaHVlQjdyRU1DbjZsNjFiYkdXMEMxcFNkeUd5STBNLXZjdy1RMy02TGgwQnZEQ3hpOGlwTDlLUTZvMmFGMGR2bUw4WWF3SHE4Q0hNWnBFSFZMVkxGWF9XMVRjVWJRbDJIR2J1bHVCN2VQQmZ5ZmxLZENDb3NEbVk3clpVZE9mTS1VTUlaNmdBWGhRa0J6c2w?oc=5"
+    }
+   ]
   },
   {
    "id": "54811",
@@ -1764,14 +1787,7 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51040"
     }
    ],
-   "notizie": [
-    {
-     "titolo": "Legge per Roma Capitale, i costruttori al Senato: “Meno burocrazia”",
-     "fonte": "la Repubblica",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWUyN3NkQ0NuWk4zNFVGU0NlekFxZ0ZWTkRlRmdRS291UFFCc2ZrTWhzRlRDX3o4MmttemtCODhFMVVMT1psNnNwSFNNZHhkUnd0SjNtSktYbWphQ09hcGFaa09HS2JBcEpPVURTbExVYnJTX2VBVzdpdXVYaXpZUi1iM0hnVVQ1TmdfaC1lMjNmV2hYa1g2cVQ5T0hyWVZRaWJwQ0lzONIBrAFBVV95cUxOZHNuVnMwM3NiRU84ZDVXQU44aHZJSE1kR0VWVEpBWm5ob0NRTzRSOGU2MUpWaUdJVGtja3M1UUFDeG5GM2x2NmUtZnN4ZGZIQVdxWm40Sko3X1JCYXI3NDdlVC1jNnBtSWJIRUlfN04wdHJZQVgyMFUtUzV4Tnlud0FFZlVWbjVmc2lYOGVfbTRXWGFVVjdqSkFUNzYyOWpUZFhyOGpCMFk4aHBa?oc=5"
-    }
-   ]
+   "notizie": []
   },
   {
    "id": "55584",
@@ -2156,12 +2172,6 @@
    ],
    "abbinate": [],
    "notizie": [
-    {
-     "titolo": "Professioni, Almici (FdI): «Riforma commercialisti, al Senato passo avanti decisivo per valorizzare le competenze sul lavoro»",
-     "fonte": "La Voce del Patriota",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMGplUGxySjl0SXlJTEdiSnVuLUMzbHZzamlhQWdLX1hlSnFiQzBYMzBSMU9BVUxhdG9reU91NFBkT3dqZ3U5QzBBbFc3dzI4SHlxNVRVVV9SbFRVWTQxZGgxVll4ZUtHOG1DeFhLclRTbmpNa0JYTWZUUEtpYkFuVG9qZ0xMdnZ5RTJpY1loT1pGdDViY21NZEQ4Q1hOWE5qVGZxVGpDS0pLWHAtRGE5aUVZV0VTUXpoMjNIa2Zmc1ZMRERNX1VpNGZUdjkzcFdkVE9TbERLR2N6TkZMTGVXWjZzM1kzNjQ?oc=5"
-    },
     {
      "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «PROFESSIONI, ALMICI (FDI): «RIFORMA COMMERCIALISTI, AL SENATO PASSO AVANTI DECISIVO PER VALORIZZARE LE COMPETENZE SUL LAVORO",
      "fonte": "agenzia giornalistica opinione",
@@ -2760,12 +2770,6 @@
      "fonte": "RIFday",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEM0MmhoS20wY181RDZObmtfanM5UGVVQ3plUVdBWC15WldJbXRZeHpMWWRNVEtXN1M5ZUlYdEpVUHVsNmJKYnVXb3dJR0x6N3ZhZTNhbkx3b3F4bGxvemI1TTJpRDVZQy02Y2tIN0xxcERpYkVieTBUTU43amtkc3U1dW83Nmt6TnJGNy1nUWFVQmxIUS1qZzJrZDhkRDFWaThWeEZQWFVMalBtV0hIRDc5S2s?oc=5"
-    },
-    {
-     "titolo": "Riforma farmaceutica. Il testo approvato dal Senato resterà blindato alla Camera. Atteso per la prossima settimana il via libera",
-     "fonte": "Il Farmacista Online",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2JrYWJmb1Z5MEdCRWk3TXFXaWdsRXR4eDF5dTRkTXd3RFhTekpFNDYxMGI1Nm1fdGZmVzA4MWREYURRdDl5dmJfQUI0QU1hdm11ZjBlSGhGMXRnTGJaZ29JdzFmSVZaNFozYmZuZk81UlVDUTZ4OUNGYmFILW0ySmtVbkhQZU9zYnEyaQ?oc=5"
     }
    ]
   },
@@ -3396,6 +3400,33 @@
  ],
  "nuove": [
   {
+   "id": "55755",
+   "numero": "C.3172",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Istituzione della Giornata nazionale del cane guida",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Istituzione della Giornata nazionale del cane guida",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "da assegn. a commis.",
+   "stato": "presentata, da assegnare a una commissione",
+   "data_stato": "2026-10-29",
+   "presentato": "2026-10-29",
+   "trasmesso": false,
+   "iniziativa": "Dep. Faraone Davide",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": null,
+   "temi": [],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55755",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "notizie": []
+  },
+  {
    "id": "55752",
    "numero": "S.2081",
    "ramo": "Senato",
@@ -3485,6 +3516,69 @@
    "decreto_del": null,
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55751",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "notizie": []
+  },
+  {
+   "id": "55754",
+   "numero": "C.3171",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifica all'articolo 48 della Costituzione in materia di attribuzione del diritto di elettorato attivo ai cittadini che hanno compiuto il sedicesimo anno di età",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifica all'articolo 48 della Costituzione in materia di attribuzione del diritto di elettorato attivo ai cittadini che hanno compiuto il sedicesimo anno di età",
+   "natura": "costituzionale",
+   "conversione": false,
+   "stato_ufficiale": "da assegn. a commis.",
+   "stato": "presentata, da assegnare a una commissione",
+   "data_stato": "2026-10-28",
+   "presentato": "2026-10-28",
+   "trasmesso": false,
+   "iniziativa": "Dep. Di Biase Michela",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": null,
+   "temi": [
+    "Costituzione della repubblica",
+    "Elettorato attivo",
+    "Età delle persone",
+    "Minori"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55754",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "notizie": []
+  },
+  {
+   "id": "55753",
+   "numero": "C.3170",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifica all'articolo 328 del codice penale, in materia di omissione di atti d'ufficio, nonché disposizioni concernenti l'accertamento delle responsabilità nell'ambito dei procedimenti amministrativi e delega al Governo per la razionalizzazione del regime sanzionatorio",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifica all'articolo 328 del codice penale, in materia di omissione di atti d'ufficio, nonché disposizioni concernenti l'accertamento delle responsabilità nell'ambito dei procedimenti amministrativi e delega al Governo per la razionalizzazione del regime sanzionatorio",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "da assegn. a commis.",
+   "stato": "presentata, da assegnare a una commissione",
+   "data_stato": "2026-10-28",
+   "presentato": "2026-10-28",
+   "trasmesso": false,
+   "iniziativa": "Dep. D'Alfonso Luciano",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": null,
+   "temi": [
+    "Codice e codificazioni",
+    "Omissione di atti",
+    "Procedimento amministrativo"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55753",
    "prima": null,
    "proponenti_monitorati": [],
    "notizie": []
@@ -3608,7 +3702,20 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55747",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Il governo prova a limitare il rincaro dei libri scolastici",
+     "fonte": "Il Post",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckRSbUNwM0dPZnZUUVdHNWZzM2Q3SFlLVFZXTkk2Y0hXYktYVVJKSktQaUl3blZXTXg0TnBTWWRJaDJIdjkycE1RMklTVkJKbkFHZUR5OS0yUm4xNm5ncS11aENEa2RoQjR1akIwRDZxc3JtRVNzMWdwRzc3S0YwUTVJQzRHM3dEWElEb3ExLVc2T0k5bGMzRXN3WjVNMEVhWk8yXzR1WGlfUQ?oc=5"
+    },
+    {
+     "titolo": "Legge di Bilancio 2027, le misure per la scuola tra organici, libri di testo, buono scuola per le paritarie ed edilizia scolastica",
+     "fonte": "Sinergie di Scuola",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUnlRbXZLWGNWMU1Xa3JXaFp1Vkk2bUhBc21lSkw4WldEWHlwU2g1b2JHS0s5T0lpOFlWRTdHdENUT1RGUnFadHRXcGJCMzQtWWdiMFNHT2xhWkhMRmFVbXVtQWowc2lkRDY3UTVQWmRRV3E5VkV5dEd2QndrME85ZWxtSDJSb3lDeVZNN3ZsYkwyOWJGMjZxazYyWkZ6ZEFrcktvb1NuQWVWRUFDR2NLUmYwVUUxaXNIdGFUQk1Pay1vUUtoWUhWRGhUUURYb3prc1R5QUtodVpmakZSQW9pUERBV1FHbW1Gc0c4a3ZTNlVkRTlaZi1DS0hKazlhaHNJX1ZDaDhnQ3QwdjR6VWtV?oc=5"
+    }
+   ]
   },
   {
    "id": "55746",
@@ -3901,10 +4008,22 @@
    ],
    "notizie": [
     {
+     "titolo": "Più autonomia per Lombardia, Veneto e Piemonte. Dl sui carburanti e attività energetiche strategiche. Cosa succede in Parlamento",
+     "fonte": "Key4biz",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhETmg4YVJVUFdsbEtpTVlJdUZsS3BvUHpLWjM2LXI5VDBKM05ZWkJoX2Z6M2R4Wkt5YVJEaDF4Q1pGUlprUVY1UG45SS1hcDZhNEFtc2RieVdseHhhZC1qRW5jRlBUbWsxM0Y5WE1aTC1KUlk2X3pPSXhNWlhrQjloZ0I1U3dqRXAwLVY0Q0ZWUHJxTUFvaFBqbHB6SnptamdLVmx0bHcyME41SlBZc29pcWs4RGNjN3BKT2pJR3k3YjhxQjFlODUwcS1NZDhkdDc4ZkpSbExUeXdKcXhMYkFua1ZkTUxSUkZzbg?oc=5"
+    },
+    {
      "titolo": "Autonomia, il governo accelera in vista del voto",
      "fonte": "il manifesto",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
+    },
+    {
+     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
+     "fonte": "Altalex",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
     },
     {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
@@ -3947,16 +4066,16 @@
    ],
    "notizie": [
     {
-     "titolo": "Autonomia, il governo accelera in vista del voto",
-     "fonte": "il manifesto",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
+     "titolo": "Più autonomia per Lombardia, Veneto e Piemonte. Dl sui carburanti e attività energetiche strategiche. Cosa succede in Parlamento",
+     "fonte": "Key4biz",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhETmg4YVJVUFdsbEtpTVlJdUZsS3BvUHpLWjM2LXI5VDBKM05ZWkJoX2Z6M2R4Wkt5YVJEaDF4Q1pGUlprUVY1UG45SS1hcDZhNEFtc2RieVdseHhhZC1qRW5jRlBUbWsxM0Y5WE1aTC1KUlk2X3pPSXhNWlhrQjloZ0I1U3dqRXAwLVY0Q0ZWUHJxTUFvaFBqbHB6SnptamdLVmx0bHcyME41SlBZc29pcWs4RGNjN3BKT2pJR3k3YjhxQjFlODUwcS1NZDhkdDc4ZkpSbExUeXdKcXhMYkFua1ZkTUxSUkZzbg?oc=5"
     },
     {
-     "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
-     "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
+     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
+     "fonte": "Altalex",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa3dMa1NOZUJ4VWgzVjJ2cUl2VXJKRXBEQkpYbmJIUmJMbGJzSFROYUFTT2xmc1dBSm55TVdPdml2Q1p4WXh2bzI5OWx4V1NfRWNfLXRWOGJZa0lRVmtReUx3ZzhVdl9EaGZraGNpV0p0d2RTVTF0ODNnU3VXYTVzNXpjWmtZQVVJekpISVV2YnlTQktkTlBRR0xmcmtpZF9yeENkaWRENkV1akgteV9PV3NnYm1idFBlZU01T3F2Qnc1dEpieDVwWVJQWVhYMDR5V1hLX0hHc2VTWnk0VkN2dHB4X21lYW1FMGtFbXJuUnZjSFFaUkM4UDRzQXd3TFVsdUhrcGJIMFJzdVY5?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
     }
    ]
   },
@@ -3993,6 +4112,12 @@
    ],
    "notizie": [
     {
+     "titolo": "Più autonomia per Lombardia, Veneto e Piemonte. Dl sui carburanti e attività energetiche strategiche. Cosa succede in Parlamento",
+     "fonte": "Key4biz",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhETmg4YVJVUFdsbEtpTVlJdUZsS3BvUHpLWjM2LXI5VDBKM05ZWkJoX2Z6M2R4Wkt5YVJEaDF4Q1pGUlprUVY1UG45SS1hcDZhNEFtc2RieVdseHhhZC1qRW5jRlBUbWsxM0Y5WE1aTC1KUlk2X3pPSXhNWlhrQjloZ0I1U3dqRXAwLVY0Q0ZWUHJxTUFvaFBqbHB6SnptamdLVmx0bHcyME41SlBZc29pcWs4RGNjN3BKT2pJR3k3YjhxQjFlODUwcS1NZDhkdDc4ZkpSbExUeXdKcXhMYkFua1ZkTUxSUkZzbg?oc=5"
+    },
+    {
      "titolo": "Autonomia, il governo accelera in vista del voto",
      "fonte": "il manifesto",
      "data": "2026-10-30",
@@ -4005,22 +4130,22 @@
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdFo4WmdtdktDeTlwNGh4VWVrcFVyMkZDU1pKYVBjN254Y0U5bUNNSmpLMFR5eDhjWHFKMktIUnVLRmVZVFpUU2pSVFBTd0xlMnpiVFExSzZoZW5QeGtKTU9PdTY2LThoSlJaU041eXFmckFyXzBEdmJESVFuNUpZRlp3MEtpUkt0Umo2bmhjZEJBeURraHJ1Ql92ajktTDBrTnprUE5mX3FNUDFHV0ZQZXd0OHpQNzFOM0tPQ084b1hfY0JvOFlWc21YQ2RRakc3Rzc5YV9lQ1diZFdNdUhZZlcyM2RCWV9XTmxWTkV1alVib3Z3RlozbHV6N2hKT0pCVThOMnpZX3o5WmRT0gH_AUFVX3lxTE5nRzFGTjVEM0RERlVRWUpxa0xPdEttR0RyWmMtU0Rha04wd1ZDZTRqT0luMk0zdVNmSjg3LTQ1LS1xZFF3TV9SSnNJQUZ1V1pJRGIxb25Uejhud0JpbFBVNEkwUWRtZzd2VGxuenluN3JmMDB1UTZONFNmRTE0ak1UWVRCV2NyY05DbUJXVDBrcWkyY2J2WGRyekl6M3NRbzdaU3dRLU9fMDhJdk52dE5pbFM4ejZTV00tMEtzWHoyUVNHSmZ4TW81eGlrdkFTNERwN3k2Wi03dWZoUDhmLWd4NllxZFJPZm1lUlpUZ1BLS0dPUkx2RHNnU2hncVlzTQ?oc=5"
     },
     {
+     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
+     "fonte": "Altalex",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
+    },
+    {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
      "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa3dMa1NOZUJ4VWgzVjJ2cUl2VXJKRXBEQkpYbmJIUmJMbGJzSFROYUFTT2xmc1dBSm55TVdPdml2Q1p4WXh2bzI5OWx4V1NfRWNfLXRWOGJZa0lRVmtReUx3ZzhVdl9EaGZraGNpV0p0d2RTVTF0ODNnU3VXYTVzNXpjWmtZQVVJekpISVV2YnlTQktkTlBRR0xmcmtpZF9yeENkaWRENkV1akgteV9PV3NnYm1idFBlZU01T3F2Qnc1dEpieDVwWVJQWVhYMDR5V1hLX0hHc2VTWnk0VkN2dHB4X21lYW1FMGtFbXJuUnZjSFFaUkM4UDRzQXd3TFVsdUhrcGJIMFJzdVY5?oc=5"
     },
     {
-     "titolo": "Autonomia, l'allarme di Fontana: \"Tempi lunghi dal Parlamento e rischio modifiche\"",
-     "fonte": "MilanoToday",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmF5VUlFZkhQVzllaWVVR2tocFJfQy1PeWU0ZEthb0dFU1ZNMXNIZVl0ZzNnSkZ1Nk5PendzQ0QzdWs4dGY4R1BBTWhCcFZjLU5nU25sUURTMkFwaW5lR0ZDT2l0VUJRTGcwUXZaLVl4UXpEaFhtXzV6V1lYWDVxbFFR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, Fedriga “Strada ancora lunga ma da Governo primo passo importantissimo”",
-     "fonte": "Radio Lombardia",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTE9BZXN6NktEYVJDY2VGdUQwVVlWWGViQWxCLXlTYlBrRTByZ25SRGdKTEhXVnNKN0hmQW1IZm5VWlpWZDFQVElWWkdvbHMyV1dONjNUUFJ1NDROOEZNZ0dxTkhKQ0w5Yl9ONTlpcEllQkU3eFN2UlhpaWZQTGJmYjlnSm12dHYzSWtrWVpJNHBYN2UzNWJwTk9RMWhiaTJKRFJNS2tmOHBFMkEySHhxM3l3dFR6VTdpUjkzY2N3?oc=5"
+     "titolo": "Intelligenza Artificiale in Lombardia, l’attacco è netto: “La nuova legge è senza visione”",
+     "fonte": "ComoZero",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNajJ2ZURnZ0hsUWRucGN5eUhjdnFweG9iN2FzUlJjd25UVTlzdWx1ek9yQ21FS1F0Tmc0bmRxNE1fSkg4cE5zUmNxYzVHNWRRdUFtd256Tjl0SkFSSXVpWDZkNTllV0FwbnA0NTVFQlVXLUxEZ2lNUWlyUHhEUWtHV1h2TGYtdlBWWUR5QmE2U2UzT1ZWSXJxOFBBU3pMRmY4dHpSRW12b2x5RW9TUHRWYkFvV1VRSHM?oc=5"
     }
    ]
   },
@@ -4057,10 +4182,22 @@
    ],
    "notizie": [
     {
+     "titolo": "Più autonomia per Lombardia, Veneto e Piemonte. Dl sui carburanti e attività energetiche strategiche. Cosa succede in Parlamento",
+     "fonte": "Key4biz",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhETmg4YVJVUFdsbEtpTVlJdUZsS3BvUHpLWjM2LXI5VDBKM05ZWkJoX2Z6M2R4Wkt5YVJEaDF4Q1pGUlprUVY1UG45SS1hcDZhNEFtc2RieVdseHhhZC1qRW5jRlBUbWsxM0Y5WE1aTC1KUlk2X3pPSXhNWlhrQjloZ0I1U3dqRXAwLVY0Q0ZWUHJxTUFvaFBqbHB6SnptamdLVmx0bHcyME41SlBZc29pcWs4RGNjN3BKT2pJR3k3YjhxQjFlODUwcS1NZDhkdDc4ZkpSbExUeXdKcXhMYkFua1ZkTUxSUkZzbg?oc=5"
+    },
+    {
      "titolo": "Autonomia, il governo accelera in vista del voto",
      "fonte": "il manifesto",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
+    },
+    {
+     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
+     "fonte": "Altalex",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
     },
     {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
@@ -4165,7 +4302,14 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55730",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Formazione sulla legge in materia di sicurezza informatica e sulla legge in materia di protezione dei dati personali.",
+     "fonte": "Vietnam.vn",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHpmdkxmaEQ1MU1FbkppdVNOTEZObkVweTZjZ19rSmhzWHA5WlA4V3BCZXBONm1kcElaVHBfeHRWcWJ6S2M0VmwwUlF6RktSWDVxY2J3Z3hrQmNtVjR2ZHJoaW04UndPWnN3QW1SOVdENmRQZGVjaExQS3ZvRi1lTHBhOXgxcWc?oc=5"
+    }
+   ]
   },
   {
    "id": "55732",
@@ -4538,6 +4682,12 @@
    ],
    "notizie": [
     {
+     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
+     "fonte": "Corriere di Taranto",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
+    },
+    {
      "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
      "fonte": "Buonasera24",
      "data": "2026-10-29",
@@ -4592,6 +4742,12 @@
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
    "notizie": [
     {
+     "titolo": "Ricerca: la legge di bilancio per il 2027 conferma per un ulteriore anno il taglio del 25% delle risorse del turn-over dell’anno precedente",
+     "fonte": "FLC CGIL",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWJ1OXJGczZ0ZDNvRVBnSHlYMnpmejNJOXZnUXFCWHY1M1pVZVJwZDVXdnU1VmZJQmk1T3VHYmswZ1BDWmZ4d2FjdkVvRjRuYXBPelhIU0pKTjdETTJvYmozNUZXSTZ6eHBtQzVTY0NWcFdKQ0tsVV9vNHJUTmRsZEp2TmJ1V1RTcHdPSVoxRGJTVk5rbHRLV3VIM1FJRDZlaDVzY2ZVRWJPSWlvbzFadHlwZnF2aXlLUUFoOGJ4ZURDak9MSG1SeFlXUU5fbmRaLWJQRlowWkE1OUR0R3RSbThTcktwR0R3dS1vTnVPMVFTVUU0YmFJa0FxOXVYZkJL?oc=5"
+    },
+    {
      "titolo": "Governo: approvato il disegno di legge di Bilancio per l’anno 2027",
      "fonte": "Dottrina Per il Lavoro",
      "data": "2026-10-29",
@@ -4633,6 +4789,12 @@
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": [
     {
+     "titolo": "Caro ministro Musumeci la sua risposta sul decreto per i Campi Flegrei è irricevibile",
+     "fonte": "Zazoom Social News",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEVLdC1aaWcxWjdacmROUzg4RldsN2tpbExza2lTN1BGSEFIR25obzhSRXVUUTRjM2NhbVBuWm8tVXVRdXpJYXN2MGRUQUdkUzVzRUhRUFFmWV9rT3lGQ0Yxb1R6TkpoTTZqeDhzblV1Z1ZMUVlORUN3aV9ZSFNrWkJZZFA1RUlaVW03TFBBRVNzaElqZ25JMGtEcEpNMDZtdW9WQVp5ckVBQXBFclV2TU05YkR1R0YxVkNPeGhrTGJESXBTQzVJ?oc=5"
+    },
+    {
      "titolo": "Campi Flegrei, il decreto in Gazzetta non c'è. Musumeci: \"Problema burocratico\"",
      "fonte": "RaiNews",
      "data": "2026-10-29",
@@ -4642,19 +4804,13 @@
      "titolo": "Campi Flegrei, il decreto non c'è ancora. Sindaco di Bacoli: «È incredibile che il ministro dia le colpe alla burocrazia ed alla leopardiana natura matrigna»",
      "fonte": "Corriere Del Mezzogiorno",
      "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPUmpYMlphbFVPQXVNS1ZVcXh4TExzSEtZY0lKdHdFWGZrWnZQWVFFSEduM0tFRV9lNnVjNV8zRWFWVVozYkRRcnVNTEpOOTNESWFmclJkMUctNUk5Y3Y3ajE4ODdkZm43VTVQTWNvNklQbU1VRHZSUGtReVRDdjk0Q1hsckw3NWJ2Tm9OMXpvZGNrMzRDZWJ2NF9aM0VzS0N4Vkdhb0Q3SE1Odmd2MmZwNTVQVHJzODA0cTFqN0hUNjZjQ2FWN3pUZnlCOFN2RkZaVlUyN1JZMHlGaEZRLThnalltX3JLU3hIVjFJQW9hVWFINWNhazZxZ1ltMFFjdkZoMHFoYWY0amxwMkdlRmxBUV9ZUUxka0NsMXpDdW9WNGl0S2ljQW9JQ0tDZG1OeHF0QkJCWnQtQTNOdWJFRTFpaHRac0FLUHNqTUljMNIBzAJBVV95cUxPUmpYMlphbFVPQXVNS1ZVcXh4TExzSEtZY0lKdHdFWGZrWnZQWVFFSEduM0tFRV9lNnVjNV8zRWFWVVozYkRRcnVNTEpOOTNESWFmclJkMUctNUk5Y3Y3ajE4ODdkZm43VTVQTWNvNklQbU1VRHZSUGtReVRDdjk0Q1hsckw3NWJ2Tm9OMXpvZGNrMzRDZWJ2NF9aM0VzS0N4Vkdhb0Q3SE1Odmd2MmZwNTVQVHJzODA0cTFqN0hUNjZjQ2FWN3pUZnlCOFN2RkZaVlUyN1JZMHlGaEZRLThnalltX3JLU3hIVjFJQW9hVWFINWNhazZxZ1ltMFFjdkZoMHFoYWY0amxwMkdlRmxBUV9ZUUxka0NsMXpDdW9WNGl0S2ljQW9JQ0tDZG1OeHF0QkJCWnQtQTNOdWJFRTFpaHRac0FLUHNqTUljMA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdzBnYVhBSWtWQmhYaExKcXIyM2lNV0doVG00RG56YkRCZXVYQ3ZRMjE3aWtnS3JBekszeHdGN3czLTdwaWhJaUZFZzFMMEcxeFVtOXJXSy15YXdaSkJmeHY4clZZOGZyeDZRbnFaQXByYjJJeGpwdVZTa3NBOWlMU3dYbUtuUHd2SElMc3htOEZaSGRFbllUT0hsczY1M2Z4VzhfTzU4OEtiM0xfUkRWcjJlZTlZQXRhMC04aTNMZi12UkxLTzVFRUwtWl9sZFp3VjZhTFc4WVR1NEdYX1pBa2h0TnY2OGtfeDRVNGV2WTlPVVp5Q3MwVnVFckdHVjZ4S0FvYWV1Sm0yMXJaVXR5VVdaTno5czdtT0lsUl9XNy1nd0UyQjRjdHlFODFlQjVBd3RVVW5sSXFnMjFTMzlaTk1zRVJpUUnSAcwCQVVfeXFMT1JqWDJaYWxVT0F1TUtWVXF4eExMc0hLWWNJSnR3RVhma1p2UFlRRUhHbjNLRUVfZTZ1YzVfM0VhVlVaM2JEUXJ1TUxKTjkzRElhZnJSZDFHLTVJOWN2N2oxODg3ZGZuN1U1UE1jbzZJUG1NVUR2UlBrUXlUQ3Y5NENYbHJMNzVidk5vTjF6b2RjazM0Q2VidjRfWjNFc0tDeFZHYW9EN0hNTnZndjJmcDU1UFRyczgwNHExajdIVDY2Y0NhVjd6VGZ5QjhTdkZGWlZVMjdSWTB5RmhGUS04Z2pZbV9yS1N4SFYxSUFvYVVhSDVjYWs2cWdZbTBRY3ZGaDBxaGFmNGpscDJHZUZsQVFfWVFMZGtDbDF6Q3VvVjRpdEtpY0FvSUNLQ2RtTnhxdEJCQlp0LUEzTnViRUUxaWh0WnNBS1Bzak1JYzA?oc=5"
     },
     {
-     "titolo": "Campi flegrei, botta e risposta su decreto tra ministro e sindaco di Pozzuoli",
-     "fonte": "Videoinformazioni",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUldEcEpQVmV6WFdZNHVVYUl0R1JWNGpnZm5xWmtvbHp1aExJZ1hpNnhNbE94YkdlOXcxdHYzWE4zWml6Ty0wSGNLWlVENVp4UWc1RFFsVHh6ajlqZWNFN1dWTThMVEluZ2tiUUt4cGd2Tl85WVp6TDAwbGlFbnp0MzJaMThITFJUSTVLRE1MSm4zVzhQZmkwNlBpcy1FX29Wbm5qVWE3X3lRUm8?oc=5"
-    },
-    {
-     "titolo": "Campi Flegrei il decreto non c’è ancora Sindaco di Bacoli | È incredibile che il ministro dia le colpe alla burocrazia ed alla leopardiana natura matrigna",
+     "titolo": "Campi Flegrei il giallo del decreto | Mai pubblicato che aspettano?",
      "fonte": "Zazoom Social News",
      "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOXl2MzRNU2IxZjF2ZW5Bbk1uTFdNSWZBQjRrTnVYNXpYdGVoS0kzRnIzU24zM24tbGZacnJZRlFwaGh5QWNDYmVFcVNHUEdVU2l1V0p2UGYtaVJsNm1VbmRUTUd5MlVjN3F3OVRNRjY1d1VwLTEyYlRKT3FnSS15Z01RUDRuS2xIWWJXZFBQT056T19MZy0zQWkyY0hxTlJQd1ZZNVFKUVBKVVltOUF3UEY2azJUbldLa2drWm1SYk13MVQ1Z0tNM0RheWdGMmc3bng3Ty1SWE9UaFA0Y1RLeVM3YXBmZVEwaDRTOUIyWkVyd3o4OUZqV1pHQnRiRGVfMWlYb3FMOVpqQjF4dUtKOW1RVUVHckRITGtscTNvdw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmhuQTRJX1pwdklOeGhfVXJ0ZTZmaGtob3BHTHpQc1lvdDhnSmFDYjhNT2RZSl9nWHIyb0dXYWd0Um5YaDk0bWdqbVVkaUQzSG93VDdvQjE4SzBGanZXR1BkRzNQc3FOYkk4VzFFeTdKTGJ3RGZLSWI4c0kyVENJcndlM3dHREFnakFtRThDYy1LcTJibDdvalVucGZZNHBWcUp6dUt0alR5Rk0?oc=5"
     }
    ]
   },
@@ -4688,6 +4844,12 @@
    "testo": "[…] ha approvato un decreto-legge che introduce misure urgenti a sostegno dei lavoratori dell’ex ILVA e dell’indotto, per la salvaguardia della funzionalità degli impianti dell’area a caldo e per il rilancio industriale del territorio. […]",
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": [
+    {
+     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
+     "fonte": "Corriere di Taranto",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
+    },
     {
      "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
      "fonte": "Buonasera24",
@@ -4811,7 +4973,7 @@
   "approvate": 10,
   "approvate_definitive": 6,
   "commissione": 48,
-  "nuove": 33,
+  "nuove": 36,
   "nuove_governo": 8,
   "cdm": 16
  }
