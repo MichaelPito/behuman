@@ -452,3 +452,12 @@ def test_notizie_dichiarazioni(monkeypatch):
     # il cognome deve avere la maiuscola: «nei boschi» non è Maria Elena Boschi
     assert not nd.tieni({"titolo": "Scomparso da anni nei boschi", "fonte": "A"}, "Maria Elena Boschi")
     assert nd.tieni({"titolo": "BOSCHI (IV): «Il governo riferisca»", "fonte": "A"}, "Maria Elena Boschi")
+
+
+def test_notizie_dichiarazioni_omonimi():
+    from memoria.sezioni.notizie_dichiarazioni import omonimo
+    assert omonimo("Ma chi è davvero Claudia Conte? Dal documentario alla fondazione", "Giuseppe Conte")
+    assert not omonimo("Conte: «Il governo riferisca in Aula»", "Giuseppe Conte")
+    assert not omonimo("Giuseppe Conte attacca il governo", "Giuseppe Conte")
+    assert not omonimo("La premier Meloni a Bruxelles", "Giorgia Meloni")
+    assert not omonimo("Premier Meloni: «Manovra seria»", "Giorgia Meloni")

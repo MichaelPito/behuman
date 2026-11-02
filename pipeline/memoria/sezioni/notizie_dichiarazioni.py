@@ -107,7 +107,7 @@ def notizie_su(nome: str, data: str, testo: str, contesto: str = "", periodo: bo
     nell_evento = agmod.radici(contesto or "")
     comuni_generiche = {agmod.radice(w) for w in agmod.COMUNI}
     # la parola principale, se torna più volte nel testo, basta da sola («Legge di Bilancio… questa Legge di Bilancio»)
-    principale = agmod.radice(parole[0]) if conteggi(testo, contesto)[agmod.radice(parole[0])] >= 2 else None
+    principale = agmod.radice(parole[0]) if conteggi(testo, contesto)[agmod.radice(parole[0])] >= 2 and len(parole[0]) >= 7 else None
     fine = (dt.date.fromisoformat(data) + dt.timedelta(days=DOPO)).isoformat()
     # il cognome con la maiuscola («Boschi», non «nei boschi»), anche tutto maiuscolo nei titoli delle agenzie
     nomina = re.compile(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b")
@@ -116,16 +116,17 @@ def notizie_su(nome: str, data: str, testo: str, contesto: str = "", periodo: bo
     def cerca(q: str) -> list[dict]:
         return notmod.google_news_periodo(q, data, dopo_fine) if periodo else notmod.google_news_libera(q, giorni=GIORNI + DOPO)
 
-    tenute = filtra(cerca(f'"{cognome}" ' + " ".join(parole[:2])), data, fine, nomina, radici, nell_evento, comuni_generiche, principale)
+    tenute = filtra(cerca(f'"{cognome}" ' + " ".join(parole[:2])), data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome)
     if not tenute:  # ricerca troppo stretta: si riprova con la sola parola principale
-        tenute = filtra(cerca(f'"{cognome}" {parole[0]}'), data, fine, nomina, radici, nell_evento, comuni_generiche, principale)
+        tenute = filtra(cerca(f'"{cognome}" {parole[0]}'), data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome)
     return scegli(tenute)
 
 
-def filtra(trovate, data, fine, nomina, radici, nell_evento, comuni_generiche, principale) -> list[dict]:
+def filtra(trovate, data, fine, nomina, radici, nell_evento, comuni_generiche, principale, nome_completo=None) -> list[dict]:
     tenute = []
     for n in trovate:
-        if not (data <= n["data"] <= fine) or not nomina.search(n["titolo"]) or FONTI_UFFICIALI.search(n.get("fonte") or ""):
+        if not (data <= n["data"] <= fine) or not nomina.search(n["titolo"]) or FONTI_UFFICIALI.search(n.get("fonte") or "") \
+                or (nome_completo and omonimo(n["titolo"], nome_completo)):
             continue
         comuni = radici & agmod.radici(n["titolo"])
         # due parole della dichiarazione, oppure una sola se compare nel titolo dell'evento («Federchimica», «Coldiretti»)
@@ -148,10 +149,27 @@ def scegli(tenute: list[dict]) -> list[dict]:
     return out[:6]
 
 
+# parole con la maiuscola che possono stare davanti al cognome senza essere un altro nome di battesimo
+RUOLI = set("""Premier Presidente Ministro Ministra Vicepremier Segretario Segretaria Leader Senatore Senatrice Deputato Deputata
+    Sottosegretario Sottosegretaria Governo Onorevole On Sen Dep Dott Prof Il La Lo Le Gli I E Ed Ma Con Da Per Su Tra Fra Che
+    A Ad Di Del Della Dei Delle Al Alla Sulla Sul Nel Nella Se Anche Ora Oggi Ecco Così Perché Cosa Quando Come Dove Pd Fdi Lega
+    Avs Azione Iv Ue Usa Ilva Italia Roma Milano Napoli Torino Camera Senato Aula Cdm Pnrr""".split())
+
+
+def omonimo(titolo: str, nome: str) -> bool:
+    """«Ma chi è davvero Claudia Conte?»: davanti al cognome c'è un altro nome di battesimo."""
+    proprio, cognome = nome.split()[0], nome.split()[-1]
+    for m in re.finditer(rf"(?<=[\s«“\"'(])([A-Z][a-zà-ù]{{2,}})\s+{re.escape(cognome)}\b", " " + titolo):
+        if m.group(1) != proprio and m.group(1) not in RUOLI:
+            return True
+    return False
+
+
 def tieni(n: dict, nome: str) -> bool:
-    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali, cognome con la maiuscola."""
+    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali, cognome con la maiuscola, niente omonimi."""
     cognome = nome.split()[-1]
-    return bool(re.search(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b", n["titolo"])) and not FONTI_UFFICIALI.search(n.get("fonte") or "")
+    return (bool(re.search(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b", n["titolo"]))
+            and not FONTI_UFFICIALI.search(n.get("fonte") or "") and not omonimo(n["titolo"], nome))
 
 
 def costruisci(ctx) -> None:
