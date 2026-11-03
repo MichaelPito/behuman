@@ -10,14 +10,14 @@
  "dal": "2021-11-03",
  "al": "2026-11-03",
  "riepilogo": {
-  "totale": 706,
+  "totale": 708,
   "camera": 109,
   "parole_camera": 184826,
-  "governo": 512,
+  "governo": 514,
   "senato": 0,
   "verificate": 85,
   "prima": "2021-11-10",
-  "ultima": "2026-10-28",
+  "ultima": "2026-11-03",
   "per_anno": [
    {
     "anno": "2021",
@@ -57,7 +57,7 @@
    {
     "anno": "2026",
     "camera": 9,
-    "governo": 130,
+    "governo": 132,
     "senato": 0,
     "verificate": 25
    }
@@ -159,7 +159,7 @@
    },
    {
     "tema": "Esteri e difesa",
-    "n": 284
+    "n": 285
    },
    {
     "tema": "Energia e carburanti",
@@ -191,7 +191,7 @@
    },
    {
     "tema": "Scuola e università",
-    "n": 81
+    "n": 82
    },
    {
     "tema": "Fisco e tasse",
@@ -278,12 +278,12 @@
     },
     {
      "tema": "Esteri e difesa",
-     "n": 56
+     "n": 57
     }
    ]
   }
  },
- "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 512 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (284), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 10 novembre 2021 al 3 novembre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 514 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (285), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -709,7 +709,15 @@
    "url": "https://pagellapolitica.it/fact-checking/meloni-astensione-italia-risoluzione-onu-gaza",
    "fonte_originale": "https://corporate.ansa.it/sito/notizie/politica/2023/10/28/meloni-astensione-allonu-per-evitare-lescalation-le-opposizioni-grave-errore_0fa365b4-c075-41d3-a361-6dd33a884847.html",
    "fonte_tipo": "Stampa o altro",
-   "giudizio": "La presidente del Consiglio ha ragione."
+   "giudizio": "La presidente del Consiglio ha ragione.",
+   "notizie": [
+    {
+     "titolo": "Astensione dell'Italia all'ONU su tregua a Gaza, Meloni: posizione equilibrata, pronti nostri aiuti",
+     "fonte": "RaiNews",
+     "data": "2023-10-28",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPei1KQUx5UVNRakwwSXdobnhYLVJRU0RyQlRSZUYtUWctaG5DQ3ZxcmtpRnQ3OEFBQ0RzZ0Y0ZGtmNmlSQkd1NUVoTGxaRWhCRV91VUF0eFNrc1FzMFI5Q0c4Ui00dVBnVGJwRTF1UmRaOW9rOVg0MFBOZzVsVnZhTlRqVGRWV3Jidk94OFMzdGlYTmlRRnZuUnpEMmpBQXdKSE9meFhyNUtpMU9ZdVRFaUxfLWdGVVcwYzEtUDFHRnNYM05PbWRBWXgxRmdEUDdZTjRwMDJEUUlycS1lWGd6VUdrV3Q3a2dMQmRpd3JMQzNtQU5kZEJDajJaT1JwLU5FdjZRTlNBSWs3TmtYNmRYatIBlgJBVV95cUxQa1ZpTzhfVjBLY1pMckY4ZFVnTUt3LWpGYVp3azJLbGgxSnV6MkFPaDExOVpGU29EcTdmUXM5SG8wamUyMkt1eEpVcUVqc0ttRk82Uk9Celd5MEV5WUtCa3dUOE5uTGpkTmhBUlBOLTh1Z3lITUo0U1RDZ3BIeVNPZ0xKbFl1dWR2QWRNdUJEcHBsUWVwN3Ztd0hLOEtDcmhTNGtxcVdScE1xbWtsZEM5Y0xtel9peEN4ZUNBcF9qWWs5NUJqYTBDekhRel9ka1NfeHVWbGFrTHJJUFBReHhnQzBrTmFpd2szUFNySFRXdU1BRDFJbjhGd18zVXJDMV9ubXhqVzlpTXZqT2VVQzdKckI3M0s1dw?oc=5"
+    }
+   ]
   },
   {
    "data": "2024-02-02",
@@ -718,7 +726,21 @@
    "url": "https://pagellapolitica.it/fact-checking/aumento-soldi-pnrr-agricoltura",
    "fonte_originale": "https://www.youtube.com/watch?v=QS248y3rh1E&t=554s",
    "fonte_tipo": "Video",
-   "giudizio": "La presidente del Consiglio ha ragione."
+   "giudizio": "La presidente del Consiglio ha ragione.",
+   "notizie": [
+    {
+     "titolo": "Pnrr, Meloni: le risorse dedicate agli agricoltori salgono a 8 miliardi",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2024-02-03",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUJyWXFwbzJWV05feVNKazRnZ1JNS0d2SGRHSlBvTS04bGxWR2RiaklhZXoxM2R4aVE1ODVZaEEwbjVzd2JaTFBDY1ZjUlVJeU1mMTlpa2RPWGFXZ2NFdmxLa2hMNmRFQzVUX19FU0hRTDlXdzVrbGRaUUEyYW11QnV6cm1DR3pnQ1AtUGphWlowbDNsUEhQdXdhSTBxX2dETHc?oc=5"
+    },
+    {
+     "titolo": "Meloni: le risorse agli agricoltori passano da 5 a 8 miliardi 04/02/2024",
+     "fonte": "L'eco del sud",
+     "data": "2024-02-04",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDh6bGIxMzhKLVAtb3E2ZUtKLWZEVFR2dGRtb3N4REdKYkM3OFV1Q0lGaVlKSnRvRk9zSUFMWm9zMzJrR0t0UFVaMU5jNi1XYmR6TnI0TTRwMUJtU3ZHYlpnamRUbVl3VHlsSWQ2SnhudTdDT2sxaEY5SUV4ckxuQUFrdFI4aXVuUWNVYWFmNllJQnBNTmI5MnpGSmlQbWQwaDFhand0Y2s?oc=5"
+    }
+   ]
   },
   {
    "data": "2024-02-12",
@@ -736,7 +758,27 @@
    "url": "https://pagellapolitica.it/fact-checking/meloni-superbonus-castelli-miliardo-euro",
    "fonte_originale": "https://www.rainews.it/rubriche/tg2post/video/2024/02/TG2-Post-del-28022024-fdf1e58c-4cac-4ae8-b2a6-f5f7262cf00f.html",
    "fonte_tipo": "Stampa o altro",
-   "giudizio": "La cifra indicata dalla leader di Fratelli d’Italia è completamente sbagliata."
+   "giudizio": "La cifra indicata dalla leader di Fratelli d’Italia è completamente sbagliata.",
+   "notizie": [
+    {
+     "titolo": "Meloni al Tg2: \"Col Superbonus ristrutturati 6 castelli spendendo 1 miliardo\". Ma sbaglia di tre zeri. Falso anche il dato sul costo totale",
+     "fonte": "Il Fatto Quotidiano",
+     "data": "2024-02-29",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeER6MzR1bWJvSWM2SXJ6ZWRfNW85Y2I5a3ZmM2VDWWpVUkt2MGNpQU92MC1LOWl3LVFmLVNBck5wWWM4dzdOYTA4WnpHRzVRdHQxZkE3XzlEcTZCX1FDbjJpMDZRUUFoUXR6ZjlYYi03SnlyZlJhN0dzNzRTcV9ycnRkQjl1T0xDZkhFdkl6RkVETXduYURadnpMV3lVVXdNTUd5dFJrcTYzUnpjeDJLQWI3ZktfU3c1ai1yOWhLVHA2SmtiUVd5UTV0eUFkNUZjblF4TVBSMGNGeGVLV1h5eWRsQUJxTXBuMmgxSi00VFF0YXhOSHhYZFdZdU9uell0NjJDYm1UcDhuNjdZNk45RWdFMEJMUQ?oc=5"
+    },
+    {
+     "titolo": "Gaffe di Meloni: \"Con Superbonus ristrutturati 6 castelli, costati 1 mld\". 5S: \"Alticcia, sbaglia di 3 zeri\"",
+     "fonte": "Fanpage",
+     "data": "2024-02-29",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSElCUlJWMXpOSnlPeEtkX2tnY0s0ME9hcFFlbnVEZU5ZZzlWbTJZd2dSb3NwTkhTMVphZzF0QnFHLWVPSUs4U1EtYmdPUTZQWnhoOC1VZWR5cTd6QWItRS0weDdoc282WE9RNFAwMEpPT3Vja2VSQl81UUxwLXBfeVNFTVJVdUlCRGtBdlNIS3RkeDNYX0JlMy1GVzRSYmdxc2h4MXBWQ2hRZzBQS0R3bXF0eDg4bXVvT1l1YUhuWmpnUDc4QnJwRC1mVmU?oc=5"
+    },
+    {
+     "titolo": "Superbonus, la bufala di Giorgia Meloni sulla ristrutturazione dei castelli: \"Investito 1 miliardo\". Ma in realtà è solo 1 milione",
+     "fonte": "la notizia",
+     "data": "2024-02-29",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaWx4azQwN2xaQnBDZ0w4XzBUR3NiYkpIRU9vcnoxLTg5RTE0SWk5Yk0wUW8ycmRxZThma0RZMTFHRGN4QmZ5RlNwXzl3NF9zNEVFUWVQN21KbWlJMDNiYXVkdHh4UnZNczBQcVVRX3h4UEtBQ0djUWM5b0hfb1RyR1JRams5eGtPOTRRbmNPdExGekJwVTg4dXc1STBlb0VUR1dQaVIxZ1p5alZsbmdIcFUwWGFDOGdqcWg3elA4aGNVYzJTRUxOcnlNMjJKRHU4RVNKZ0F4cnFrQlVFTThCSk9JT2hHeDAxZl9vOHVESW8?oc=5"
+    }
+   ]
   },
   {
    "data": "2024-03-15",
@@ -9904,6 +9946,12 @@
      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTWxPenVZa1dVN0RHU3ZCYUw4aTU0aFNnTFNIWHp2bW9yVDlLMTFva2Y2Yl9HOFVXWjRCZFRGUm9yelRCcEQwaDgzZGdHR3d4SHRXaTBGRlJsVG5GY1dnMFpPbVA5bEdfUzVnWVAwUmV6MmU0aGZDeHA3cXBvRHRaa01hcW5pOXRUYkVyUEJ0S3NhV0xpODQ3clkzTzNBR0g4LVhnNmU1dU1YWlNVdDdwdnNNZmNPWTRBQ2JJbU9xYVd4QXVXdEMxWFpYUEcyVFNBMFphSlZubUpBR0FIMmdIdzk3S2RPcldlZlppSmpCMlEyTnFyVV9yOVdkTnNWZTdLX3BVdzdNTUFWR0dKSkZZb1RGdkVvTGlndEsyMGpjdEptYnBZZWhWc05JeEhnZUk?oc=5"
     },
     {
+     "titolo": "Festival delle Regioni, il bilancio del vicepresidente Meloni: “Confronto e impegni importanti su finanza regionale, investimenti e futuro delle politiche europee di coesione”. – CronacaOnline",
+     "fonte": "CronacaOnline",
+     "data": "2026-10-27",
+     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSGJfMXhScEFtM1R6cmladlBPRjlvOTVaczBOUUpvNHl1UTNYRnZIcUptYkRSVDVsNGUyOTItc01MX29oWUlydnNUVXgxR0ttQlJZa1R0eG5kRmJCQWdKMFYwVzcwNFRnLThpc3pla09KcDBxSm1jWE5OSTJFOEhfRXdIR3hwVVBSMXZKWDg0aERZU01mSFhjVFRvSzhiNHpTeTR5M3VQUHhfWjZvWHZHOEVkbWNOeURUUVY2ckItYWpLTllzMS0wWS1Ja3p2MGhTWWh6OWZaX21ULXduZGxuTmNVZENiRE5aaDNqYURUcXh3SlNobkFhUDFaSWpqZjhNVVJjdmpWUHE2UFJPdjlmM0NVZkdSS080cWN4TEFFR1ZqSG9ESkZwblJZZnVRejhGdzlKVHNWVGppZEZHWE42N3l2TQ?oc=5"
+    },
+    {
      "titolo": "Governo, Meloni ribadisce l'impegno sulle autonomie e sulla cooperazione con le Regioni",
      "fonte": "Traders Union",
      "data": "2026-10-27",
@@ -9959,40 +10007,16 @@
    "fonte": "governo.it",
    "notizie": [
     {
-     "titolo": "Manovra 2027, Meloni: \"OK del Cdm a legge di Bilancio da circa 26 mld\"",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFY4bTFfNEZwNS1KTnNVT01LamMxanZQMnY0X0hhMTEtd3dJTC05eW9nM05TWVdRUzN5NVZsZ2xMRFZ3Zm9ORlo3N2MtX0xycWFQM3dfLVZtdjg4RGg4M2VJZ2xjQ283X3FYSlNCN0FaUzB5QTFGUEtGcUdTVXZtYlRWVXMyRi1IempuUG5ndDREQ1p6WGpDSUNpQU9vZjNKdkZPWkRwMFEwOXoySUE?oc=5"
-    },
-    {
      "titolo": "Manovra 2027, la premier Meloni: legge di bilancio da 26 miliardi di euro. La Tobin Tax raddoppia",
      "fonte": "Milano Finanza",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQanQzM1lYWC1wazVaeGxIZU5YRWJmRk8yQXBPVWFIY29zb2ZxQW14QUNwTDdwd01KQkRGamFzcjFvSG5wdTduTklhTEtSS3pRRDRiNGdYNi1pZWdPVjgweHNqekNiMjNhb0RPU0RKeXR2WWN3d0s0UWxIUS1femhodC10a3FIa2ZBemlFNWpQbERFX0ZlQjdsV01TZFVkejYyamJLTlotTnl5RldHVXpqam5YbjZMUjJnMnBmNFFLaHhzajdybXRhVmlGU0lrVVZSdWx2Nm9SMVplZw?oc=5"
     },
     {
-     "titolo": "“Con la legge di bilancio proseguiamo e rafforziamo l’impegno del Governo Meloni per l’agricoltura”",
-     "fonte": "WineNews",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEt3Zzk1ZTkzWEx6S3RNTjZBMlJ2RWdvS195bUV2U3JNWFlUeFpaTjR1YXdfd3BwcjJIeVNLc2dnV1RISU5OZEE4djlCcS0zcnZoZlZzeW5LQVJoT3l3cEVlRXUxOWxUWldlb3lENkNMUVBINjdJSGhNV3NRWUJ2VHpTcXRWdXktTkhWanprYTM2MGt0U2ZJbmlIM3F4TVJXdDhKd0dOR3VBQ1BkS0dGUXZNZ3FXMXl5TVNQRTh5Ump5cDNR?oc=5"
-    },
-    {
-     "titolo": "Legge di Bilancio: Meloni e Giorgetti accontentano gli alleati, ma preservano il controllo dei conti",
-     "fonte": "Il Foglio",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVkZHVFEwSTJwanBMY2ZCN1BUMW9aUHJUNVEzdzNaU1VVc2lXYU91aVAyd1B2Q3NzQTE5eFFaRF8wNnNSSmp2UFg4cVJwUjJicTZJR01fOUoxVkF6cDhkcE1fa3JWemxNUy1tQURzeVBJZjcxTkFxWHdQSWVLU1VWQ2tPd3lZRndiQnNJNFp5OF92aHg5dGFQdmc3c2dYRmZBS2ltNlQ5dWFMR0JkbTg0NEZoTjlIN1dNUjZ1WEliUEtDNWtXTDlRczJLLXdiNGtsMElacklQbmZKYnNOd1BkeUhZRi13Nk92cjgw?oc=5"
-    },
-    {
-     "titolo": "Legge di Bilancio, Meloni: \"Le misure approvate parlano ai giovani, non a chi devasta per rubare\"",
-     "fonte": "Orizzonte Scuola Notizie",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYmFhbFpBRldVcWg2ZFRtcnRsR3gybGNEaDFsZVpkR19tZWlJcXBrcjdCRm5qVnY2SzVaRTNMU3Q3OE55SVFybXYzdHFFamRIeHBUWW00b2ZOQjQyQjVaYVh0bWdxV0I4SXA1QnVBUFVYRVhwNmljOVZUYXplSnFDamNFcWxwb1hQT2UxN0VVQi1jM2M5V0hFRUNnRm5FbXlEaXRjY0lzSGN0ZlJvakhqUTJqN2ZGY3h6eVFFNUVPRHUzdw?oc=5"
-    },
-    {
-     "titolo": "Legge di Bilancio, il governo chiede 700 milioni alle società energetiche. Meloni: «Non è una manovra contro qualcuno",
-     "fonte": "Milano Finanza",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdmdMODlHY3hOb19QV0ZQM1BzTjZwUTBNU1Nmek01TUxyQlNMaEswTDBWVE54RXlacWNWSnJSNlJhTWEwRnk3c2ZiTlJtWlpXSjJtajhVVWlvYVRkMFU4N0NiRGtPSXBndlljX1U1WjRUSTJONmQ0dFlidmlpUWxaZ011YnZTbGJPajh4NFktbG05eWRhc1VaLXh4UFktZ19PQUo1bHl6Y1FJT3JqbWJsNVlmMDB2SFVjZWR0VnBNZGg3Q3BqM0lJclJMOE1DY2l0UXdnd1ZpZXZsSnBzZG1iXzNaZDAyOUMtdzMya1Z3?oc=5"
+     "titolo": "Ddl di Bilancio approvato in CdM: Meloni illustra le misure 2027",
+     "fonte": "PMI.it",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YVDlLM3JoYlVmUmpUWWx1amMtRkhROWt0QzFLbE5SdG9OX0MzOHJjV1BoX25oUDhJQ202NmpQTm52SnVLTENlWTM4T1V4a29MQTlMR3dfeF9KanFJU0tFOUlWU253enlTa3dZMUhzUTBpQk1fMHJtQ1g4ZWRUdG8?oc=5"
     }
    ]
   },
@@ -10013,27 +10037,65 @@
    "notizie": [
     {
      "titolo": "Meloni all’Assemblea di Confartigianato annuncia la riforma della legge quadro dell’artigianato",
-     "fonte": "Confartigianato Imprese",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEFfVVF5eGNkYkpiNUZMRmZ4N3Z0aGRHMkhFYUtUNzFsN1BEUFYtVTFHLU4zVHRMd3hqeTJpMUVBRjBDbDNaOEhSSlFPVlNGWFRvcHNjbFVoZ1JsVmRXOUtSeUMzeGdiQy11NDIwS1JES2gteXZhU0xSV3RLYzR4Q0NaZDdsOTU0VEp6WjdnQWRFNFNuZGlXNG9HVV9qaHJfNS15SWNCSnA5RzJOellnWU5lYzExOW8zaktQZlpEZ1dsSEpCdWVyMktsTldqSWlLU2J0YzNSeFpjYVp3?oc=5"
-    },
-    {
-     "titolo": "Confartigianato: la Premier Meloni interviene all’Assemblea Nazionale a Roma",
-     "fonte": "Corriere dell'Economia",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBTc3g3LUFsZGUtWi15bHBRS2ZVTXNDRjlIaS1UNkJESTIwVEowTHJMSUpVMXZ1eGhiYlhfUjF2Q1M1YW03ZTd1em1GeGtuT09KVUhySWM5Y2tQSG01Nmltb2NmLXFCY2hFdlNyLVNqMkdPYnRYRjR6bi1GMFdGMTl0Wmo1cmNHVFp5MEk2bFpjQUtGQ1dmS2p2Ui1XaTgwcnlSZjNQUmtib0JpdXBpMXRpYlowSXBOVGNmTW05cw?oc=5"
-    },
-    {
-     "titolo": "Artigianato, svolta storica dopo oltre 40 anni: Meloni annuncia la riforma della Legge Quadro all’Assemblea Nazionale di Confartigianato",
-     "fonte": "Confartigianato Cuneo",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSlc5WnJVQ3FmblR5MUttUVBfTWZUV2FUa3pPZEJnRHp2YzhVWXVlMjJleFJGV25CODdzZjY5bzEzb1ljOEtSTllULU5rZ1ZQUjNmS3kyV1dVczY5N0pLQzZxMVl6blNmZkZmVmI3bmEydUpfRDZzRDBibGFQaFIyMHJ5d0Y4X2hCVGdybnhYZHB2dHE2Ri1UM1VpUmNIZURZdXpJNWxWamFZNnRjVTBkQXdWV0ZqaXRMZDJyU2RrbnB3SVloeGUyc2s5WVFJTWFzSXpndjFaVmhMcTU0NVc4OHVKcGxMQ0t5WGhlX3c4bGJtWWk1amtkaXVmMA?oc=5"
+     "fonte": "Confartigianato Ancona - Pesaro Urbino",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXI5aVFBcWlYM0ZzUTNjbEo3T0dwZE1PWUdMeF9kbUlhUXB2TzhodlhIZE43Z3M5bVUtX2t6LWs3aTNmcWNpUEVLaHU2UTNPY3NtNHFWQkJTelhjTTlwc2hzVWQzUS12MlYwVjVJZUpzbmx4NTZHT1ZiYmpIWnJ0R0RDZm1kdm1EYkJLOUhYZXkxNW5YVkV0bExkekg5cGh2QldXYmprT2V1WF9MbGJVWHgyZDBUYVR0N2R3ZzdVdDV5UEFGQXhNWA?oc=5"
     },
     {
      "titolo": "Ue: Meloni, approccio ideologico Green Deal ha impoverito sistemi produttivi",
      "fonte": "Il Sole 24 ORE",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3MDVyMmkzQ2VXaENwVUJwd3lXTG1OVGlYODJKSHZuMnM2QUNtRjdtSEpsX3hXWU1uczQtWk9aNmhKakxTWVdtTWRvZ25aZjE2QjBXNGpjSDVzMlRUdDhIZjBhaE1SMnVway1LMg?oc=5"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "titolo": "2ª edizione di “OrientaTalenti”, il messaggio del Presidente Meloni",
+   "sunto": "Perché ogni ragazzo deve poter trovare la propria strada, esprimere pienamente le proprie capacità e contribuire, con il proprio impegno e le proprie idee, a rendere l'Italia una Nazione sempre più forte, libera e protagonista del proprio futuro. […] Perché il futuro dell'Italia ha bisogno del talento, dell'intelligenza e del coraggio di ciascuno di voi.",
+   "temi": [
+    "Scuola e università"
+   ],
+   "parole": 522,
+   "url": "https://www.governo.it/it/articolo/2-edizione-di-orientatalenti-il-messaggio-del-presidente-meloni/33007",
+   "fonte": "governo.it",
+   "notizie": [
+    {
+     "titolo": "Meloni a ‘OrientaTalenti’: “Investire sui giovani è investire sul futuro dell’Italia, nessuno sia costretto ad andare via”",
+     "fonte": "La Discussione",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmxxZ2JraEtDSFJ0QS04N3o5X3cwNzVsYkJjZHZqeUIwVnk3SVhhTWVYYS1VX2pYWFBDZm5NYU5WQ2hwaXhDT3RBcTBEbGhJRGlHMnlDcFR2WnVFb051dzlLMjk2M3JuYmhJNlh3TFR4VnZESFZfVDg2LV9YMWstekV4VXh4UQ?oc=5"
+    },
+    {
+     "titolo": "\"OrientaTalenti 2026\", messaggio della Premier Meloni: giovani e merito al centro",
+     "fonte": "Corriere dell'Economia",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0ZEU0pyTndaaHRnSmJ6eEJ6bDR1RFo0ZlpzbnI5LURxblhpdjk4TVhGNGhYTVVJUXBqeEEyQzZ2ajBhZVdGVk5GZDdqeXhvd2dKZ3FWUTV3anc1MWZRRjdyVEVCQmNkYTA0NXMxYktadTdPb3BlSXZiX1owOXpYOWJwRUtQSEN5R013d2d0eG9XUVVtVUtSX3lHU1d4b09TbUtGbHRpc013ejBRaEVVT1BHVGplQUM0SURmQlNkdWxhUHM?oc=5"
+    },
+    {
+     "titolo": "Meloni ai giovani: \"Nessuno deve lasciare la propria terra per vedere riconosciuto il proprio valore\"",
+     "fonte": "Secolo d'Italia",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXczNVNrZnhlNDJ6OUgxRmdtT0k4dHJ1cy15aUJxekN4bDRVbmFvd1V3N3NzbXJySkFBbjU5SzF4d0cwYW5KWTlyQW9VMmZzcFE4OWZOVGFQZEUwdnlnUUJHZElsVmRTVU5TYXctYV9Qcnp4REx2UVRfM1JGZlUyU2RzcE1SaXRSRzg1RG5yLXNDeDBzZ3NoSjFZUEVGaDZlNGRhUENFbVFtRE5kdnh5OGY5SHh3djFiVzBUMkFfVkViRGo2RllSQkNRdkNYdnhrU1E?oc=5"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "titolo": "40° anniversario dell’UNICEF Innocenti e 80° anniversario dell’UNICEF, il messaggio del Presidente Meloni",
+   "sunto": "Cara Direttrice Russell, cari amici, mi dispiace moltissimo non aver potuto essere oggi a Firenze, ma ci tenevo a farvi arrivare il mio saluto e a celebrare insieme a voi, anche se a distanza, questo momento così significativo.",
+   "temi": [
+    "Esteri e difesa"
+   ],
+   "parole": 571,
+   "url": "https://www.governo.it/it/articolo/40-anniversario-dell-unicef-innocenti-e-l-80-anniversario-dell-unicef-il-messaggio-del",
+   "fonte": "governo.it",
+   "notizie": [
+    {
+     "titolo": "Meloni invia messaggio al UNICEF Innocenti in occasione del 40° anniversario",
+     "fonte": "La Cronaca di Roma",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWNyWDB4dzdHVTR1Rl80WmFFT1FkOUxDcU9GSFNkaENZeWwtTURoY0YtMVRGUTZFbVdEQkw3c2FJWXIyYkdTdGxUZ1hPb1o1SGdaYlVUSjZIVHZ5WEdTMkZvd1psVkEyZGR4UWY5b2xkM01JVmN4bTVIY3RuSkVUM1NsSEdnbmQxci12WXlpMFlyaG1GVFZJSmNrbFV3a2o3TWVRVXhpdjB0M2F3MF8tLU94ODY?oc=5"
     }
    ]
   }

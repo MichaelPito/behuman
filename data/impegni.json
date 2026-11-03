@@ -21985,7 +21985,21 @@
       "riduzione": 0,
       "aumento": 5
      },
-     "testo": "Prima dell'incarico: 5 frasi sul tema «occupazione» con una richiesta (5 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15."
+     "testo": "Prima dell'incarico: 5 frasi sul tema «occupazione» con una richiesta (5 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15.",
+     "notizie_oggi": [
+      {
+       "titolo": "Telecomunicazioni al collasso, ma Urso evita il confronto e ignora l’allarme occupazione",
+       "fonte": "Domani",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWnRIUE1aMzIxZ3NIQ3ZSc3lKVHl6Y3VfYThqQ0QxT2FZdjBocHA1TGN0SWVKUlVqSVQyWktRNGFVQ1YtYlA1QmhvQWp6Z3hWaF9tX2Q2YWxPbTdDREVTb05abXhNRzZOcXNLUFFHcUNvMTl4UVY0YXNnZ0xRcTN2cXZnbXRjTkpPU0s3bkFZNHdVYm1keEZzSFUxMHRwRVJLOHJuaUtDZElUb0RDMUJncjJsTzE2Z3ktaVB0dGlwS1dPb09QNEl1NTZITkJLWVJzaVliSlFLNjh6aDQ2b2JmdVNCbWtOZw?oc=5"
+      },
+      {
+       "titolo": "Vertenza Ericsson, Regione Liguria scrive ai ministri Calderone e Urso per la tutela dell'occupazione",
+       "fonte": "La Voce di Genova",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOLWxIUHRfUjl5YzIwdGxTYnJrUkgyRWpfeWRocThkSi1wQTF1TlJrQl9qOWh3UWFrWG9FQlR1SldrMkFYYTk2bnd1dXVsZ05yN0RGd2FEZVZVQTFqU1dPRWd0bzlxMVphOUFMN0ZhSU9RSDhuSnRxbEtBQ2d4QmhkbkcySERYckREbVVKWENiS3NLZl9ya1IyS2Q0RTJ3M0RKQmc5NUI4NG5fVzBITGFSbm9TcHp3RnZoRTEtX3I3MVRuazlqNDFXbE5LTjZ0QWdkWk93aWhpajN2cXVOMHhOaU5QbURJNDBvVy1Rcjkxek1YRDJ4LXpJZnk3cURoSzRyYXB1UFcxQVRmUjBBckE0cmJ3R0QtMFHSAYoCQVVfeXFMUEx0UTJ1aGJxbDJYTDVGZWFreEQwMktYcXpuTVd0UkRlSGZNaVphVlRiRTZqU2dzdkdUS1ZubExfeTVMVlNqOUdockpYbk1XRjJUYTV0UmxKOXc3YkRpOWVUeGdXY1laOF8tdFJoU3QwUXhidVRySnNrZmlPR2pOSlRzcFYtSE1UQzhVQTFtcTJHRFpEX0hpaFBQdlF1ZWhOMDQ4OVlsbDJRZVN0UFNUX2tkRk9sclluaW9qZWRqakJRdGFaNENTZkRER0VHZ0R1U0FaNVBxc0RiQUs1WXM4SENNSElJdF9UaTlTbS1QWE5vSzVvaXZ1RVpLMUhUbEt0TThNaXRPeEkzcVE?oc=5"
+      }
+     ]
     },
     {
      "tema": "inflazione",
@@ -28323,7 +28337,15 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1.",
+     "notizie_oggi": [
+      {
+       "titolo": "Manovra, Lollobrigida: confermato azzeramento Irpef per agricoltori, 1 miliardo per le accise sul gasolio agricolo",
+       "fonte": "Teleborsa",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYVNQY2dENmV3dWNHYlZvenNHdTZBLXVvSFoxME5oSV9CcVpOSi0yaHFnSzZnZl8wRWdrakduQVIwSnhRckZpNFppRDVuMjZuRFVSZi1hZGEwUnh4UC1Oa3oyOFNwR2pZWGs1VW41T2k4bEdIRmNDZG4yUXhqLW5RcHVMU19PYjBmelNRa0txeG9Ic0JVMVJxcjMtZThHRkg0RHgxZnFaeHcwRE0zTTh1UVJHRXg3Q0hvZjQwSjNKV3FKa1VzOVlQMWJ6eDM2NzVKYnRtMnJXUFdUcUJrVmppdGUzTVFFblJyNzc0emYxdXBjNDA?oc=5"
+      }
+     ]
     },
     {
      "tema": "tasse",
@@ -28668,7 +28690,21 @@
       "riduzione": 14,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 14 frasi sul tema «livello delle tasse» con una richiesta (14 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti); rispetto alla prima richiesta (1 gennaio 2019: 42,6%) +0,4 punti. Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 14 frasi sul tema «livello delle tasse» con una richiesta (14 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti); rispetto alla prima richiesta (1 gennaio 2019: 42,6%) +0,4 punti. Leggi del Governo con il tema nel titolo da allora: 16.",
+     "notizie_oggi": [
+      {
+       "titolo": "Lollobrigida: \"In legge di bilancio zero tasse per agricoltori e cassa integrazione per i pescatori\"",
+       "fonte": "AGI",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdks5eldwZ3U0QlE4djJFczVRUk9fMGRRYzlLOElKX1M5Wmg0OUlwejZsYm5ROHlMRjBDcnJmdjBHeXJpU3VleXc5WEt5QlFWYzVKTXlUTjdoV0xxWFN2TVdXWFRKb3FzczFIMlRKSjVmMW55eGhyTVBIdDdQeUtvY3dPVjM1Yl9iN1pwZWVUSkFGSGJOY1g2Nnhn0gGfAUFVX3lxTE9sV05Lb1JiM3JadFNtYS1JdWw3OWhraFBZUUpERTlyWWZBUFBnRkN3cEJRVFFjU3ZPRWgzUFJBOFdXTXZvQkl4cXdzYU5yMzJCdU1UTHR4QkNLSDlHYnotZzVmdUdsSEFSX2NoZzNYeldJRFpkM21vSmZfTUw2WGZXR29ueloyNko5M010S0VXOGczZnQ3V2RsbzRFQnNLRQ?oc=5"
+      },
+      {
+       "titolo": "Lollobrigida alla convention di Cateno De Luca: “zero tasse per gli agricoltori, un miliardo per il gasolio agricolo”. Novità anche per i pescatori",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQanBZYmxfOVRzdnhBeFJRZ3N5NDlPaXZLOUNOREpvMUhWLVY0Nzh2S3p0Q2xwanRUZU9GcjRQSTAwZnZpNkEtQVBuREE3c0dCRzd0dVdjNE8taXB1QWp0d0FveVZTeUY3RkgtcGx5Z3NJMEoyS2tDMUlVbjU3X3hjclB6MFppdmRrWXF5ZmVUOXM0VmlGN1hKcTZTRHZCcm5wbGFYa3FnWjFUSE5fczlvbEE0THVwZUVzN2x2RzhXVUNmb2U1N3VQZEx1NldaZmxnM2RoWVNLcHIxRUgyX1pvNEtubDNkZUZON1hUWlYwMmZJeklJdnBXMkdFVzJ5djNuMnBuQ2ZSQmlBOHJjdUR1VG1nQVLSAZoCQVVfeXFMT0tSYkN2SklEeFFEdlpVY191UVN0YWlwVEdBaXBwTUhwZWpZdlZUSnR2N2pPOG1lSXJYNnhURHBwb2t4dy1RYVlibS1xS2p0Yl8zOExSMU0weVFGVUxuSFJTem1GdFVHeGt3V1phbUhXUkRtWVZmT3dRendkYm9zcDVQaVhodXZ1VTJaMnFMUXN4LVd1ejVVN3ZoOWozVG5pa1pSTkp1dmhoRy0wWVAxazl3Tzh2TklSTVJBUlhiZFRLY3ZnRkd0MUoxNmh5NFg2VnItVElBbXdBd1NNYk51S05IWXNkRWNtU0hFcXk3YTJFaUdhYWpiZVdIYVZUdnpjdmE0MVdnaUF3YWFPUmI4ZE1CMzZmUzc3ck1B?oc=5"
+      }
+     ]
     },
     {
      "tema": "sbarchi",
@@ -33410,7 +33446,33 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «livello delle tasse» con una richiesta (3 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti). Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «livello delle tasse» con una richiesta (3 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti). Leggi del Governo con il tema nel titolo da allora: 16.",
+     "notizie_oggi": [
+      {
+       "titolo": "Manovra, Tajani contro Giorgetti: meno tasse per tutti, banche comprese",
+       "fonte": "Notiziario Finanziario",
+       "data": "2026-10-25",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc09GOEQ3aUhLY21wbDBXWC04SVIwcTdnWlV1RWQ3dWp3amhnRmpfRld2V2dlSVZvOE5uOWVKQWJ4dlJleklGTzJSVXZwTWI0eTY5MGJLa09jREtPTE1wVDRLZE9xclBJX1FMdUdMQTduNXdUY0c0aVhiT010Z19EdGZaY2tGcFdSbkRWdVN2ME9PV1FGdlNYbWR1Y2hidWdnRzd6empJX3FWREU?oc=5"
+      },
+      {
+       "titolo": "Manovra 2027, Giorgetti replica alle banche: «Troppe tasse? Il credito alle piccole imprese cala da quattro anni",
+       "fonte": "Milano Finanza",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNVpGVzRsa1l0QzBqZ01XQ09wam05Q3prdVFzUzhpWG9ITE9fblR4dkdSbVFDRFVQYmlLSUdKcUxPTVlWNkYzTEpSYWZRUlBxTnVVM2l6MjgwZ2tBLVlwNDJqVXZpT2ktZ3lpSVJZMXkzd2IxSUJBLXFZVDJZUTVkUDFjLWZsZmxrUmxXaDIzaXdKcGEtTlZET2EwbUI2VndyN2ZvMFZsT09VSmNqVkdiVlBGMk96Wnc?oc=5"
+      },
+      {
+       "titolo": "Le banche: “Aumento tasse preoccupante”. Giorgetti: “Siamo tutti sulla stessa barca”",
+       "fonte": "La Stampa",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0ZiMnQzNjdBUG9UVUFnRXg1NEs5VkVKVmtBQTM0TTdmbTgzSnhmX1JVWDJxMHhHUkxiQ3dHQlVkSFFWVmo1bHZfV28tMWlPb09nYUtfLWpFV3dkVEJtMjNRSHNzdWJSdklCSjNGekhYVlJqUEdiVzhNaW43SmR0R19JRjM2cmhKcVBtdENrUGxKMlVKbUV1cjVYYVM2VldJcXBNc2JCaFZuLWZLc3VqMXpSSkNnOGhzN21oWWpLNnotY2UybUVYanR0SmRmUDJaeXfSAdcBQVVfeXFMTnc1RFY3V3FRYTE3d3BfdnhlTFQ0bktGb2pTcTdtMVdnZ2ZQUFJoOTlGWDBfZFhaNzNYQXIyMWVkTHNEbXJTb01uMHc0OGM0Rm90U2NZMkpoSWE3VmZEbmdLVm9JaVoweDM5NWI1RnljejJ1S0JNeDZLR2xlM1NWcjhDSDA4NnlMd2ZkN2s3SUpNRHBzZXAzVFpUQ05OQmQ4SmhJWE9GQWxyQnZDLVd5ZjZORnQ1dHYtWjl2dk1XWkxhTU0tREdxT3FVLUFWMEtWQ29MTmJHd0U?oc=5"
+      },
+      {
+       "titolo": "Giorgetti: meno tasse e più lavoro per i giovani con imposta a 1% sugli aumenti di reddito",
+       "fonte": "The Epoch Times Italia -",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdG1odGE2SldLZWtKOGF5UEF2NmFRZ3pHcjhHcGVqYUZHRHcwRVZfcUprZEFqa0ZwTHNVcEVKRzVKN0lseTlocVRINWlNdWYyTWxmNjc2UTh5MWQ3NmZWdktZYk02MVhZUXhvV0JXQWRnRXBXWkxjZHhRNGtrUWJNNzNQTjdDVk5RV3VVRzZOTmpUU1AtVXJoWHo2elNJdUF4bnpsb3FOTFVBTlNrNVBsRE55QmQ3RHcwbGp5QUJiWXpMa0Rp?oc=5"
+      }
+     ]
     },
     {
      "tema": "sbarchi",
@@ -34689,7 +34751,15 @@
       "riduzione": 0,
       "aumento": 6
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «occupazione» con una richiesta (6 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «occupazione» con una richiesta (6 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15.",
+     "notizie_oggi": [
+      {
+       "titolo": "Meloni, quattro anni dopo: 140 miliardi di sgravi, più occupati e conti sotto controllo. La partita economica di Giorgetti",
+       "fonte": "Affaritaliani",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNVV2ZUZHMEJkNFJkc3hlNktkc2lxODYtZ2xBdDFsblJoNWhnTnBDc2d2X3A3V0g0b3RlSEJqRGk2UWhrRF9PQVIybmdJOXY5Z0QxZG5pY3JPT0xnLUI1QVFuOTdnVEJ3LUhZZ3d6dFdTY1FjbTFsRTJmXzAwMnUzN3ZrWTd3cU1Lbmx2LWNCZWNyZjVlVW9DdHp2UFNfSGNENjA5UVM5Y3dIeXFkVURKOFNKeG5La0ZrZ2w0ZE04QVo5aXRiTnV3THpOZVYxdzN1cUd6dkhERUlKdlp6d0E4aWd5WlBLM3A1OGdJZUlqNU44Nkk?oc=5"
+      }
+     ]
     },
     {
      "tema": "inflazione",
@@ -35275,7 +35345,45 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «inflazione e costo della vita» con una richiesta (2 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «inflazione e costo della vita» con una richiesta (2 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4.",
+     "notizie_oggi": [
+      {
+       "titolo": "Manovra, la strada in salita di Meloni e Giorgetti tra debito, inflazione ed energia",
+       "fonte": "InsideOver - Inside the news Over the world",
+       "data": "2026-10-25",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0Y2cUpKNW5uU2VoeTJTYU4xX093MHViN1lta19EWG9BX0FmdTdsNkxLYlhNTFhpNU5UbDlzY0lWVndrSmNuZWtzZGpaTVduNll2Zld0YVhsWjhHQXFHVkRfZUpNU2hOcnlUTzFmVlNCZDFZb05QYlF3NnpOQ2FsZzZhQ1pEQ1pXNGNKZW5UUzVhdzRGX2JQQmt6VU93NlRTNnFBSWZFQWlzWDZJZHNNb2E5Yk1lckNPMHRZTXYyOA?oc=5"
+      },
+      {
+       "titolo": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
+       "fonte": "ANSA",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeDN1cXpqMUdhOTBqU1YyUVNINEVMWFdNb2dRV2ZIeTJrME45N2M4ZTN4VmdNUHpqMFBERWJ1a0JabGVRblhzSWl1QjNUdUU1S3NuQmFsOXlLclNHSk1TMmhnNmdnSEs1eVFwdzNnSGRoMW5mWmNUSWI2RkNGZm1WZmY5YlU5WGtxYjZGN3oxTTBXZlJ0SVZfSHM1LUVPMTFZdndHaXRTWjZQVU1VR2xMZkM1bkpfUDVyQ19CNVpIaWhPdk1mbVdsQlRFdU5Pb2o5WWNUREIxanNHdEc0clVQZ1k1SUhRRXlkb1hEbtIB8gFBVV95cUxQeTRZUGdaX3dySEQ0YktGLXlmeEp6V1RPMlRNTWlPRmdmLTF3ay1BeWJpbzcxOGVxNG56Y0MybFgyYWZ3RjVhd28xdDFaMkNDSDB3NzJyRXhyLXNITm1vY1JFZXhrTVV3ZFNMV1pDY2ZuT0xxVnVkRGh0c1pMakVSWmd4UmZjN0swaHZZZ1NIRGpLLVQ3WnVhcXVGcnNiT0lQY2VVbzdIeEROUWdWajJFN3VfYUI1ZDdSSUxsU19LMGhUbTVCVThDeXdzZDY3bEtCd2VaQ2ZsOXlwd2I0UFoxWVNCelY3RElnc3REbjJ1SEhEUQ?oc=5"
+      },
+      {
+       "titolo": "Mattarella: «Inflazione e salari aggrediscono il tenore di vita dei cittadini». Giorgetti: «La manovra? Prudente»",
+       "fonte": "Corriere della Sera",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdmhobVAycURXZ09aSkhlZENkcUowdFNBUXFaS3p4MVlYS1RPV1FQVW16UkFiSkVmLXRQOXJ4WUt4bFZaN0Y4d3RNdGhwTEo0Um1JLUpDM2V3VUt5UGxvUkUtTklNYUNaVnpTYVktSjFBS2dkeElrY2twbElkdE0tS3hkbGZQWEwzS0FXY1hvLVhvWTNsY1NyaFJESE9rMk1zTGhzaDYyM2x3aS0wNFRCMmlzbkEwWkNoRVdvMWQ4LUhKRDhhOHZiaWcyWlB2aXY4S1dPZVVaTU5NYXBCMFg0a1JsM1Y3bmR6aTdyT25JVHBGLXdWRkNPTHlOWDVMRG5sUTdQV1Q1bzBReERxaXpuaWdRNWxlVVHSAZwCQVVfeXFMUEhZWk91dWdTS29QOGhTejdjbWx4UHZZZHlJenYzTWtOa1R4Y05JMDdvRjdZUmhLYzNXQ01PSWI2cDdFOTU5Sjl4ZHRNcE1pZG1yX0R2ZjRoNzZNY1AxajVKSFpfS2NIVlkwdk1aYVlqSDZaLWZUTlBUOU0tU2dqVFhPcXNYZkJHZUp1UXFKMUFRNzdSd2NNSHdZR3dlT2VRLXB0MUpHQlp3ZVczSUdHSllWWXlHU2M2RnBLWUZOR1pUcTBmd3BKdTJDZ2FFckpMWkFLOUhydFZtNXhtc2VZaEtwZUZNa21OeUI1X004YWVlTVM0VW4zYnVValN1SU9NZHBnM0ZyVVNISEtwVXZvZ3AyU1F3X2dpam5KUnk?oc=5"
+      },
+      {
+       "titolo": "Manovra, Giorgetti alle banche: “Siamo sulla stessa barca”. L’allarme di Mattarella sull’inflazione",
+       "fonte": "la Repubblica",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNENTakpsbk92eUV1TTNsX1UyQzF1WDBHQVZqV1ZwRnRzdlpMUmVaWnowUEZ4eXlKYjBmTzMzUlNOS09QMGJWb3Q4WXI0YWdDM21rYm9SV0gzNmJaNVc5Y3dTZkQtX0VnNUowOXdOVmtFenh6Ul9aYl9IdVJZU2N4SUltcG5Zc0w4R0x1OHpzUlk0cDlHN2tqcjMwb0gtVW51TWNYVVd2MWtpdXdWakxmTVVVWUk?oc=5"
+      },
+      {
+       "titolo": "Inflazione al 5,4%: perché Giorgetti lega il rialzo alle guerre e all’energia",
+       "fonte": "SoldiOnline.it",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHRXS0tSSmtyR3I2a0RnRGVDU05FUDdGR1llZll3NndINENERVpRcXF0STFTVEVpU1JsdGtDYzJWS1I4WUxkMmpDNnJFbEpDTmZtN2NfV1pEeDM1X1lycDRrMGdYajVMc0dXZmROdDJabmI3aThQclJURXlNV3hSNzJIQ1FfNHF4a3Z5Q3J2VHNxZ3RIWnlWVDN1aVBZZWFTbXdCTzcyVU1GMFJDRGJGZkNEX1pQcnp3TlMtWEdDNA?oc=5"
+      },
+      {
+       "titolo": "Inflazione, Giorgetti: impatto delle guerre ed energia preoccupa",
+       "fonte": "ildenaro.it",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjVneUlhSkdPZE9VWENxMDJIb3dKTklBSXpNNWRmUHN2SE9MWDNreHdRRk5wYU5DU2oySG9pTkttakFiUDBhc2hTSlM1LVB4bWhEZjB6NThRemo2T0pzUmNEajU4OXlJMmhPN05JVlZtWFNGLURib3JfZjNKSVFEYkxNX1E2UjVwSDJGdnpvSjM?oc=5"
+      }
+     ]
     },
     {
      "tema": "bollette",
@@ -37835,7 +37943,21 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1.",
+     "notizie_oggi": [
+      {
+       "titolo": "Meloni da Spalato: \"Pronti a intervenire su accise. Legge elettorale? Serena, come sempre\"",
+       "fonte": "eg news",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDBfOExCVlJpb0dIX3Q3RzJyYTZnQTN0eHZrUDNiRFRVODFIblR2dk9zWEZ0REVfU1FDVTg3WFlxSWgwSUZtU1RMbmpjZlVIZ1djSV9fWnFpMjhHZ2FlZkJxZ01TOHZ6Rko3RDBfT3RRd1BIVUNuRGgtbWwtQzFKY3pBY1N3TFlmaDhwWlFrNjd5cXN0MVFseHhNbXNZOUl4ZEdYeHhxRS1ycmc?oc=5"
+      },
+      {
+       "titolo": "Carburanti, Meloni “Pronti a intervenire di nuovo con accise mobili”",
+       "fonte": "Il Moderatore",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFRnZFZpNERVdWwwaEktMUxxZk1XTHk5WEpadmZySk5VeWNfQ2pIY2ZPVVNwSjBySEN1QTEzNGUtckF0T3FXLU1SNG9rckpJdS1QOWtZYmwzWmpZZk16bW5IT3VYU0Ffb2o5MExEbHJXUVlnd01oYWl3cVBNZUtzUDRjLVFZMjVxcjIxMFh4Vk10cE5Kc3BuLVhn?oc=5"
+      }
+     ]
     },
     {
      "tema": "tasse",
@@ -38207,7 +38329,45 @@
       "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 15 frasi sul tema «livello delle tasse» con una richiesta (15 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti); rispetto alla prima richiesta (1 gennaio 2018: 41,9%) +1,1 punti. Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «livello delle tasse» con una richiesta (15 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti); rispetto alla prima richiesta (1 gennaio 2018: 41,9%) +1,1 punti. Leggi del Governo con il tema nel titolo da allora: 16.",
+     "notizie_oggi": [
+      {
+       "titolo": "Meloni dice che in quattro anni il governo ha tagliato le tasse e alzato gli stipendi: i numeri non tornano",
+       "fonte": "Fanpage",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0tnTkdFMkVrR3c0dDljVlcxOW9EdWktZjFBM0tIdXlOMVpzQWNlcGRwbUJXLU1ra1JVekpXVnNHZzFRU0tWNjk3bE1QZG8teVkxT3I3VDZWWWNmLUxVS1NYbkZFOFhaVC1vYnRLaXVBT0lQOFFZTy10alJ3SFJFVmtoMnppT2RIWmdFYWczQmxRbUlIQlRNbWJXTFpBa2w0Z1JzaDF3VFJmWnprMVdlNzdPM0NMeUEzZTl6SE5EbzRxcUZscm0yTXpTV1JBbGZ4WGN1cF93?oc=5"
+      },
+      {
+       "titolo": "Taglio tasse, meno sbarchi, più lavoro. I 4 anni del governo Meloni secondo Palazzo Chigi",
+       "fonte": "Formiche.net",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQW5OOWxzZUhFTGcyM1lRdm53TkQtUnBDczhxREtqSHNadlM1SWd0UjlscE54aVJ4LVBmTGU5Si03R051TEZVZFl4QkxMaDhJSU1Zb09DM21uczFJWXpoRE9nWWR1SENhNFRCUE03TjBKVzBYanE0UUd1Rkl0MDZfa0RES01SZw?oc=5"
+      },
+      {
+       "titolo": "Meloni festeggia 4 anni di governo e scrive la storia: 1,4 milioni di posti di lavoro, 140 miliardi di tasse tagliate e sbarchi giù del 70%",
+       "fonte": "Secolo d'Italia",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWU1ySGxzUUxIYURBYUg5REM0LWZDZ0lGQmNuaUFISmVWaEJuZWVlQlZOZzlYQUd4Tk41dWtJQkRYM3BiSEo3U1lzb3I5dXNkRzk5R0NfQV9YVXVHTzRCMmQzbVM4OTlweTRTcEozZWNoOU8tbmd4VnVSRDBIWEJKN2hvOTlndlVsWTJCd0ZmSFQ4QWFQRGlZVkdWb05kZUw3c0VZcF9HTk1ka294Sk9ON21BTDRQWUJQVWFOY2ptQm9tOGlGal9iYzdXVE00czJ0Tjk0d1hmMHVDOGlrb3FBelNEUUZUa0s0VXhXZktQQVZtTDNkMHYwRWxZcFdaejlHTUZn?oc=5"
+      },
+      {
+       "titolo": "Governo Meloni, 4 anni a Palazzo Chigi: il bilancio tra taglio delle tasse, lavoro e immigrazione",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkJxYjNQMjBtVEhWdW9CakpjeGZiZ3k0RnlJU2dSZmJrTnF1UFlWclQyYU1wVm5LZWNUUDc1SmV3ZjNMeGotNlRidlNPbXdRV2N1czZKb0tOVmg0ZHFFc0x6VUtOZVNmZUxnX3lQYzU0MVhwQS1fSDJhRmtIR1dpcUZYRWhiSHhadEtIcFYwc084NkhnTWFSUmw1SnhXcHlHNDdOS2ZHdzFQX05CVlJ3ZlJGTGRvQWFsQkg1WmQzeTR0Z3IwaEpiMU00MlkzcVlESE1BWdIB2gFBVV95cUxQWGNXTGhPSmJFTkVabmdRSFFoMlZ1NjA4aURXUnJ5cU9KQWYtOHJwX1dFb0lMNjlMNHRGTHBhMjNoT2VOd05YalJHWmlzcS1YWjkxYlMtSXZvUEdncnB1VFpXcWlXRzZESDJHSXVzRHpvNFdrYWJNR2l5bk9nUmw4U0kxR2JzUUluMF9TS2VzS2NTU2dpSWlVYVpZWUl1bzU2WF9lUWJyYlJiUXZ4elBFUlg1SU95ODV4TkJjUk5yci0yclRkOEZ0d191aFdha3NadTlBa3dRWFl5UQ?oc=5"
+      },
+      {
+       "titolo": "Con Meloni la pressione fiscale aumenta | Nolli Alberto (Soresina)",
+       "fonte": "WelfareNetwork",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGZzWXhJNkdXTDhlXzZFdTlRUVlzQWNfWF9va251Yk9Od0ZHNWdTa3U0M3QwQ2NELUJVNDhKR1ZaaTR5OWRVT280S3VHa0MtNFFwMDREdGl4dUtUU1h4NXFsamtUTTJ3Q3pWOF82YWY1Umt5YktoWWxNelhIb0dCN0tIcVd4WVFCeGVIU3FHbFhWM0V3b29ldHJNalprS0dLaFlPZg?oc=5"
+      },
+      {
+       "titolo": "Manovra 2027, il Governo Meloni punta su famiglie, giovani e taglio delle tasse",
+       "fonte": "La Voce del Patriota",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkMzWTRTcTlYbnVpXzdONG9LbW1HMldkRklvTjltT0NEWjhuVXdCVWJ3Uy1MeTNfYWhfSGxsTVhIMVQ5V1FkVGxnWENpRFBJUlo0U0dWVUdVNUlZd1h6NTJTamxSd21tNjV1dktCVVNrWFllWDE5ejhJaFQ3NVpod2V2NVowcUR2dkhQbUxlUnJsYzFua1dKMDBSQThLNEFLWmd0X3dnZ1d2MldLSjVXOA?oc=5"
+      }
+     ]
     },
     {
      "tema": "sbarchi",
@@ -38967,7 +39127,27 @@
       "riduzione": 15,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 34.087 nei 12 mesi fino a ottobre 2026 (-63,3%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -53,0%. Leggi del Governo con il tema nel titolo da allora: 14."
+     "testo": "Prima dell'incarico: 15 frasi sul tema «sbarchi e immigrazione irregolare» con una richiesta (15 di ridurre). Persone sbarcate in Italia negli ultimi 12 mesi: 92.938 all'inizio dell'incarico, 34.087 nei 12 mesi fino a ottobre 2026 (-63,3%); rispetto alla prima richiesta (28 maggio 2018: 72.571) -53,0%. Leggi del Governo con il tema nel titolo da allora: 14.",
+     "notizie_oggi": [
+      {
+       "titolo": "Taglio tasse, meno sbarchi, più lavoro. I 4 anni del governo Meloni secondo Palazzo Chigi",
+       "fonte": "Formiche.net",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQW5OOWxzZUhFTGcyM1lRdm53TkQtUnBDczhxREtqSHNadlM1SWd0UjlscE54aVJ4LVBmTGU5Si03R051TEZVZFl4QkxMaDhJSU1Zb09DM21uczFJWXpoRE9nWWR1SENhNFRCUE03TjBKVzBYanE0UUd1Rkl0MDZfa0RES01SZw?oc=5"
+      },
+      {
+       "titolo": "Meloni festeggia 4 anni di governo e scrive la storia: 1,4 milioni di posti di lavoro, 140 miliardi di tasse tagliate e sbarchi giù del 70%",
+       "fonte": "Secolo d'Italia",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWU1ySGxzUUxIYURBYUg5REM0LWZDZ0lGQmNuaUFISmVWaEJuZWVlQlZOZzlYQUd4Tk41dWtJQkRYM3BiSEo3U1lzb3I5dXNkRzk5R0NfQV9YVXVHTzRCMmQzbVM4OTlweTRTcEozZWNoOU8tbmd4VnVSRDBIWEJKN2hvOTlndlVsWTJCd0ZmSFQ4QWFQRGlZVkdWb05kZUw3c0VZcF9HTk1ka294Sk9ON21BTDRQWUJQVWFOY2ptQm9tOGlGal9iYzdXVE00czJ0Tjk0d1hmMHVDOGlrb3FBelNEUUZUa0s0VXhXZktQQVZtTDNkMHYwRWxZcFdaejlHTUZn?oc=5"
+      },
+      {
+       "titolo": "Governo Meloni, quattro anni: dentro le 71 slide su lavoro, fisco, sbarchi e PNRR",
+       "fonte": "Sbircia la Notizia",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVh5UGZDRmRxWnVUcGZnZlZLNVF3VkhXczQ1UHdFM3k4bnJPQ0x3YmdzUmJnZXRGQS10YUVoNjBfZFRyT3JmTmFqMEQwVERldXNDVW9IaG9Hcmlnb183ZHhZSU1TMGZEQnVIN0ZwQzdtSkF6UzU0eFJ4OHVDYnlrZEt0eUZZZw?oc=5"
+      }
+     ]
     },
     {
      "tema": "reddito-cittadinanza",
@@ -39063,7 +39243,33 @@
       "riduzione": 0,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «reddito di cittadinanza» con una richiesta (1 di abolire o eliminare). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «reddito di cittadinanza» con una richiesta (1 di abolire o eliminare). Leggi del Governo con il tema nel titolo da allora: 1.",
+     "notizie_oggi": [
+      {
+       "titolo": "Cateno De Luca boccia Superbonus e reddito di cittadinanza: “negativi per i conti dello Stato. Meloni? Ha garantito stabilità”",
+       "fonte": "StrettoWeb",
+       "data": "2026-10-31",
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTzYybUVLcWFIQk1XUmcyVHdKc0JmYk82WTVJLXZURFJpNlJ2eG53aTc2WE1JUkl5Vy1rTjJJaGc4Q21HbDVWd1lZbmZ2aVhtcDAwLWpoWDlqdko5eTEwQWhHRFlmbV83SXBoTWpSTjVhcnkzbE5STkRYaWEzYVRFRWZQTmpFQzJMY3ExdXkwUkQySVdUUldhLTVzMldkVkZvWFBlQU10UVc3RkJFb0tkSDJyXzg1QzRBNklQbW1XZnQydTBteUpBV0RPbjA5VU1xcDgxQXdpYVVwclF1RE81SXFHWWJTMFJsdUpIdGNjYVpfeV9hRy1VbNIB_gFBVV95cUxNU3VwQ3BLY0xidUpXZm9uX2UwTGpHVVNoY2NrMDBCOVdrLUVTa2lYdjA2YzJBazZzTGFZaVgyLTRnRFV1bE15Rm04MFpxbkVsRHRJeGFkNWVFWlV1SXdtNVlmaGRMcXRqdVJIVnF4S1Y3SlA3TDBTeVZFcHpQZjNTa1JZdjRBWkc1SEhPcWZjb1BtS2Q1YloyNFYtMEZFSFg4R1c1TWd3VVRKRDhZUDI4WklCcnNBcHdDMHhsVnBwZmRJQ0x6ZzRCUTdRSF9Ha0R6OUJlMUx3ZTFJd3lzNVZZbHRhMlltUjR3V2RWRWZIc2d3dUhkQUc2VThYdXJiQQ?oc=5"
+      },
+      {
+       "titolo": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
+       "fonte": "Il Fatto Quotidiano",
+       "data": "2026-11-01",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJKbW13ZWpnN0hJU3djTlVNOFQ3Wk9ZT0dvbTJzVkJWX2FRLUVNSFZkQk9hY1RjTmNfNlhfQlN5WEg1MGZFYlJ6bVUyZnBnODg2Y2M1eTZyeGtkWnFYOXlOc215OUI4U1FITXFUX1owX0pXRjA3LTNlS1o0dHNlY3dXMTVsRFNYQTFtOHp4WXRBbzZWR2kyRXp3V2dsSGFK?oc=5"
+      },
+      {
+       "titolo": "Sicilia, Di Paola (M5S) attacca Meloni e Schifani: ''Sempre più famiglie in povertà, serve il reddito di cittadinanza regionale''",
+       "fonte": "Palermomania.it",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN1RrZENCV0hjNEdlY2NGVi1YQWZnREZMaFJHZ2U0TGRZTUI1ZU1kZklSRllyODcxY2I5RlhCQjRwSEZxa0lJMl94bG9Db3pfRDlhS19DdnJfUTE1aDRjTGdMTUV1S2xjM3pRVGhxTkR1b0ZvNDMyRFVNUHFDVk5yN1A1bDlPa2E2Vmk5YnF3VFZ2Rkk2SXB2Tk9tMmlFMzlrSlVURzZsMlFlckd6TW5FYTllWWxEWmR1TEl3cU9lOFNySnpjWmdZVV9xSloxLU5XUFFLc0wySHc1ZkhwWExiNExMUXUzNGVjeXZleW53LWtMeERYQXN6WC02NkoyOGtISW5vTg?oc=5"
+      },
+      {
+       "titolo": "Conte: 'Il reddito di cittadinanza va rivisto, non abolito da Meloni'",
+       "fonte": "Blasting News",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakEtRmVMV0NIRHhkZkJ4RGQ2dnhHd3N5TTZLWjgta0sydXhVd2haZ3l2aUFiMTdTanI0RE13S1A5SUJEa2VsNXRIZ0ZRRXd2TlFQaEROWkxFVGh6MmJmdS1ZS0QtOHBKRUU4VDM2bWJyMGpwS3luaUdYWThHenBuNFppc1BDdmdERWU4MFExOEZvQ1RMU1IxQnBKa2I2RFgxdTAxeld3NjdjOXhLc3V1bmE3eEhwOHpHVDc4YUJDTmRSYUE?oc=5"
+      }
+     ]
     },
     {
      "tema": "occupazione",
@@ -39648,7 +39854,45 @@
       "riduzione": 0,
       "aumento": 5
      },
-     "testo": "Prima dell'incarico: 5 frasi sul tema «occupazione» con una richiesta (5 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15."
+     "testo": "Prima dell'incarico: 5 frasi sul tema «occupazione» con una richiesta (5 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15.",
+     "notizie_oggi": [
+      {
+       "titolo": "I 4 anni del Governo Meloni: i dati su occupazione, Pil e Pnrr",
+       "fonte": "AGI",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0oxRi1lZEk2VDFZZ2lheVE0ZnQyX3h6NUxRMlZta2ZMTktmbDg5TFZxdzdneF8wX0JFV0VMUjc0MWQxOGVrMGhXZ1hzNGZKVl9xazBpTlROVHFwbkNoUWxHVWFVOXFpcDRneDRISnNSdE9fcGc0YnBwcXhNVFFqZDJZVkh6bjk5Q1HSAY8BQVVfeXFMTlJ3S2hYUEpxSTVTUG1zMEp6SFluMlZxSzVHbGFmYVBCS2p3OHQ4RllsZ2Z4N2V0RkpxOFdrdmVubGY0MFhlTEdsTUFsUmhkQkZOdHllNXpkdy1aOHNfdE1kM0Qta0dfQkhRUnR5c3NrV3JOMldhVTRETXVmNnZfYU9NdTBoUVpoNWtrbExWMXM?oc=5"
+      },
+      {
+       "titolo": "Meloni festeggia 4 anni di governo e scrive la storia: 1,4 milioni di posti di lavoro, 140 miliardi di tasse tagliate e sbarchi giù del 70%",
+       "fonte": "Secolo d'Italia",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWU1ySGxzUUxIYURBYUg5REM0LWZDZ0lGQmNuaUFISmVWaEJuZWVlQlZOZzlYQUd4Tk41dWtJQkRYM3BiSEo3U1lzb3I5dXNkRzk5R0NfQV9YVXVHTzRCMmQzbVM4OTlweTRTcEozZWNoOU8tbmd4VnVSRDBIWEJKN2hvOTlndlVsWTJCd0ZmSFQ4QWFQRGlZVkdWb05kZUw3c0VZcF9HTk1ka294Sk9ON21BTDRQWUJQVWFOY2ptQm9tOGlGal9iYzdXVE00czJ0Tjk0d1hmMHVDOGlrb3FBelNEUUZUa0s0VXhXZktQQVZtTDNkMHYwRWxZcFdaejlHTUZn?oc=5"
+      },
+      {
+       "titolo": "Cambio di Paradigma, il premier Meloni al forum del Mattino: «Il Sud sia sempre più la scelta per chi produce e crea occupazione»",
+       "fonte": "Il Mattino",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGxTM0xlOE9MdkZ2SWZoVzhQTTFNejZFS0ZaVXpyWkg5R3NEbmgyWExEd0cxekQwRkZxWHY0TDlxM0VUNUpOLXBwYklXYzU5MTFpY0VhWXBHbkN1ZFFTSDRrcC11SGFvZDc0STZlZnFfZ0lkNFY1VmNrOVdFRWdReTJDVC1TSy15bDR4enNDU0ZGa0xGbExMT2ZWZW43N3F1d0FpcU1zbFpEbFRYd21RS3NqZXZwUEQ5Vkx3NWtCUHBNTmRnNGdheThLNNIB0AFBVV95cUxNeDRNekxtd3dUTkpTU1dncEI2Zm5FQXVYNG1mQS1NMjJnU25lemNwUmExdFJPeFhnNHRWaFIxS3U2am02azNNSFFKald2NEVyU3U5TXdmZ0dqZzdRSTdiMDRBejFZa3Z2YVpMRXFHemk1T2R4NWYtbTQwdDFPelhHcm5NZGpMQ3Zid0lsaFVab0VkT3ZIVDlkYU44RjFvSWU3ZXliT3JQTWE4bWt1TWFSU1RXQ0NnSUtnemRuT24tam13TThOZnhrSnB6dEY5SGQ0?oc=5"
+      },
+      {
+       "titolo": "Sud, occupazione record: Congedo (FdI) esalta il Governo Meloni",
+       "fonte": "Antenna Sud",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXhfdHJNUTV3OU8yVExyRWNoQnVtaXRkNlkzX1dpUnpCQ1JSY1U3TW5sU2MwY0d1WEVZMlhSVHF5N0IyUE93M3VlOGJKQ2ZXNThBOE1UdE82cW00Vk9ub3VxVjZPdlZNYWw4QkZOTFA1VDIySTAwUlBVRzRJQW9VYUhGYUVJME5zUEEyZks2TEQ?oc=5"
+      },
+      {
+       "titolo": "Meloni, quattro anni dopo: 140 miliardi di sgravi, più occupati e conti sotto controllo. La partita economica di Giorgetti",
+       "fonte": "Affaritaliani",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNVV2ZUZHMEJkNFJkc3hlNktkc2lxODYtZ2xBdDFsblJoNWhnTnBDc2d2X3A3V0g0b3RlSEJqRGk2UWhrRF9PQVIybmdJOXY5Z0QxZG5pY3JPT0xnLUI1QVFuOTdnVEJ3LUhZZ3d6dFdTY1FjbTFsRTJmXzAwMnUzN3ZrWTd3cU1Lbmx2LWNCZWNyZjVlVW9DdHp2UFNfSGNENjA5UVM5Y3dIeXFkVURKOFNKeG5La0ZrZ2w0ZE04QVo5aXRiTnV3THpOZVYxdzN1cUd6dkhERUlKdlp6d0E4aWd5WlBLM3A1OGdJZUlqNU44Nkk?oc=5"
+      },
+      {
+       "titolo": "Sud: Meloni, cresciuto piu' del resto d'Italia, record storico occupazione",
+       "fonte": "Il Sole 24 ORE",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fVGNYNXNhTEVlN1ctTzktWENydUc4TDFrMkFTQmFyM1BGdjRaaUxiVHZoSEFyVkg2cXZvbGk0VFlPWG9Ga0IzbmZUTWpxVTdBYlRJSWNqdkNyWG5XQlViWERsZHVDTGRjYy10Sw?oc=5"
+      }
+     ]
     },
     {
      "tema": "inflazione",
@@ -40223,7 +40467,45 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «inflazione e costo della vita» con una richiesta (1 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4."
+     "testo": "Prima dell'incarico: 1 frase sul tema «inflazione e costo della vita» con una richiesta (1 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4.",
+     "notizie_oggi": [
+      {
+       "titolo": "Caro Vita: Palmisano (M5S), \"Sud in crisi tra carovita e proteste, governo Meloni muto\"",
+       "fonte": "Touchpoint News",
+       "data": "2026-10-20",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0V1ejczbmtqazRiR3dNYThYMEJON3AtMFlIbVl4cklONk9CdWpWR3EyYlJmcW9Malh4ZEx2a1JkYVpHREZZMEJUVzhZLWhOXzFKYkItOTBfTTVKMS1fOVpfZE9PUnlGM1VRaVZaLUVYbUNaajNXc0x0QzhQbmttQThxUXU3Q3lmY09RSUR4M2tTcUx0elhCVDhsdmJoanJiaHBzUDFwN3QxZFlRUTNhbU1XcV9RRGFjWWE4MXhpZw?oc=5"
+      },
+      {
+       "titolo": "Caro Vita, Palmisano (M5S): \"\"Sud in crisi tra carovita e proteste, governo Meloni muto\"\"",
+       "fonte": "Rec News",
+       "data": "2026-10-20",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlGTU9SVU9MM3piNHR6RDl0LWZ1aEpxQ0NqYU82dVpFS1BKVWtuamZPeFc5M0V4OGNMMFdLSXl3UFZNU0tONzMxdng0SXJFQWhaNEtvMDdBd3JOWTh1eW1ydlprSFZlQ3FiVzJLX0dqTE1xYmZnSlQ2a04zN0NXYUNOdHZURTBITnJ0OEJRZVJvYk9MVTBOR1JhM3ZiMDFpcGh2M2FLV2RJbU91SmJJWl9wSlhVdw?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte del M5S attacca Rai, Mediaset e Governo Meloni: \"Oscurano le proteste contro il carovita e il caro carburanti\"",
+       "fonte": "PaeseRoma",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTFJBamVfcGdIMGlHdzZicDBpU2F5c1VBZEdIaWpyWkx4VTVMeGxBZ29Bbm1pLXBlMVpqTFdUdm16azZsTmlnQ3dEaUxFSlFzZDIxX216YnRHc19UYVFRR0JPWlgydzVXb3VfMWs2VVBsemNkLVo0WEdKWjh3ejFYQ1kxY2JLZ3F0SGNSaUd2U2xfSUc2dDRxMlJVZHdfSGlZLW13ckJxanR6VlhCa09zWFVnQWJKZEk4MWczamNNRzhQb1dZRzNYbUxGZGh2T3JaMHNBQUNyVVBYNlpuSHBINHFxYXR0ZVVVWERQbmwzSHJTbTVCdVItSDBVcDk?oc=5"
+      },
+      {
+       "titolo": "L’Italia protesta contro il carovita, il governo Meloni risponde con un nuovo decreto Sicurezza",
+       "fonte": "TPI - The Post Internazionale",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTRoT0ExODlHRWphdnE3V2pLLXpGazFfWE0tcEVzQzloMmVGaEVJMVA3NVhMTUFMRTU1VEprYThydk4xSUVXUmRzQVhZdlRFTmE3dVAwdkRkX1NFX1gtOU9sOHphX2pWd3hjblotZ1RuMW9jeV9sRkxGaWNZUXlTWkZzUGlIS1d6RmJwRXlyd1M5NUtmZFY2cVlFaWzSAaIBQVVfeXFMTW9IeDliYVBhV18xX0w5M0oybXIxOEFyZDRxZ0RMcFgwNkhZdmFONjdZOEtDX19pNjk3WVVUcWsyYlZjS2hFLVl4WExRM0tvOHpsbDg5eU1COHRrZW1jX1pTbUJnS055UDhxR1YzNTM2UU0wZURCRnFZVHFCUURxN2czSkYzQ3Y0RDRmQ1AyQ084eXhRTURFTFhBakNaUHFQa1NB?oc=5"
+      },
+      {
+       "titolo": "Conte su carovita: Meloni confeziona video patinati ma lontana dalla realtà. Riferisca in Parlamento",
+       "fonte": "Quotidiano Nazionale",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3ktUFp2VXgteVZzX2pCdGlNZEEyNkFGMEM0Ri1qb0x5WWxwSE5ZOUFkSEtWeXNhSWpDRGYzemhUNnZ1SzJVdV9SRDlsS0ZvZ1hWOFlETjVxN2JjbG1sanU5ZlY2Xy1DbEFORERIV1FVanhELTl0Y29meHltTl9VdEZzWk5FY0x6MGJHeXVVb0hNSTVrX3hyeUx1Q3RsVkxSeEdEdWxSRHNlbG5vYjBTOFExaTlaZy13WGlXYXluU2U0VFNSNHFhMDdvdWdrMUdsRU5nakZmdHNteUlOc2tfS2tyZw?oc=5"
+      },
+      {
+       "titolo": "Cambio di Paradigma, Fitto: «Bruxelles valuterà la flessibilità sull’inflazione». Meloni: Sud determinante",
+       "fonte": "Il Messaggero",
+       "data": "2026-10-23",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXVsVTd3bWhxc0RNOEx5LVl1d2pWTkhPMTNZaVU1bDREaklrd2xJcDhRQml1N1FNME9YaG1zYTFuRlRydnE4S2xBWDBidUFwM2pBMnZJY21OQW9IOHdhRFBXcm41VUFtWTg0MFRma2V1VTRnSWJ2eXpsM18zRzhsdGpBazl6azVETy1rVUM3VFNpTmZTTW5Db0hvY21mZHBBUDZ2b3dmM1M3eE5YX2cxZTFCMDF1TE1nWW5UMHN0LWVRWUNNQlJn0gHMAUFVX3lxTE5nV0lHbVpZZ2RSWEJ0Z2xwTGc3VFFVZTEtdWU2T1Z0SDN4QWswSlVlakJNbjVOVTB2bkFTOEdMLTdwVk8wZHpucFNJdlFPamFPTll1Q2Nla2tsSGEzWHNDOGZ0NWt5YV85aFBNdUhjZVctR2VyQkRmajRWdHdUMEE5VXVJdUZKbXVLckJiRXJfc0hETnNmRFFsNkNWZ0FPX3drd0VfSlVvVVBybHBXRlVOdnJNZktxSHZaTTNUWmNmaVhzSU9ta1dkQkFOWQ?oc=5"
+      }
+     ]
     },
     {
      "tema": "bollette",
@@ -40607,7 +40889,45 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «bollette di luce e gas» con una richiesta (1 di ridurre). Prezzo dell'elettricità per le famiglie: 0,311 €/kWh all'inizio dell'incarico, 0,314 €/kWh nel 1° semestre 2026 (+0,9%). Prezzo del gas per le famiglie: 0,099 €/kWh all'inizio dell'incarico, 0,114 €/kWh nel 1° semestre 2026 (+15,3%). Leggi del Governo con il tema nel titolo da allora: 12."
+     "testo": "Prima dell'incarico: 1 frase sul tema «bollette di luce e gas» con una richiesta (1 di ridurre). Prezzo dell'elettricità per le famiglie: 0,311 €/kWh all'inizio dell'incarico, 0,314 €/kWh nel 1° semestre 2026 (+0,9%). Prezzo del gas per le famiglie: 0,099 €/kWh all'inizio dell'incarico, 0,114 €/kWh nel 1° semestre 2026 (+15,3%). Leggi del Governo con il tema nel titolo da allora: 12.",
+     "notizie_oggi": [
+      {
+       "titolo": "Meloni strappa un tetto al prezzo del gas, ma per le bollette più basse serve tempo",
+       "fonte": "Istituto Bruno Leoni",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1l1QmpnWDVIelBTVl9FSTZIVE84YVVXOHdTUTZfQnNVTUdQSkd4UWFTNkNqNjZJSXJhU21pNTJwdUkyMjc5TGpPaEZLcGpVaHRzNXdrQUtTRmdKTkhHVzRjOWo0b3A5QU5YR3FjWmcxZ3BsbDFITE10UF9DQng0UTA2US1RaXFFRlJiTHpuSXBoVHR3Z3M3RnFvVEo5ZEJtNzByVW45REVEQ0RYVkE?oc=5"
+      },
+      {
+       "titolo": "Bollette, Eni taglia 30% su luce-gas. Enel, già da aprile sconto del 50% su elettricità. Meloni: \"Anche altri attori diano una mano\"",
+       "fonte": "eg news",
+       "data": "2026-10-23",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDFlYW9QOTNwdjBOQ3hCWE9OU25uYjUyRjAzRmNIalFBOVRoc2g4R1R3b2JBTTlnc2J3TGxNR29TTHRUTWY1UXY3WUNvYnd3bkh3UTVuSXNEc01tWDJwazBJb0tDaU52NmRWYnFPTW1XUHVPV3Y1amxfQ3VGbHdGY1V3bUtxcS1jaEI5eFNRV3I2UUQ0MWxjZVk5Mjc1UEQzUkRYNnJVaTAwdzNkVng3NENoZXFZakVBcGxMdFNLNVZuQi15dmxOOUwxbC1xZllrVi1uQXN5bVJubFlkV2Q4?oc=5"
+      },
+      {
+       "titolo": "AVS lancia bolletta sociale, Fratoianni e Bonelli: \"In Italia 2,8 milioni famiglie in povertà energetica che Meloni non vuole vedere\"",
+       "fonte": "Corriere Toscano",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbmhkaGh2amlvaWY3QTlTeU1rb29MdERfRGZST2xMZkM1ZURNQzZtRGIzVDItalhkT0hsUElKU0Z2SG5iand6ZXNnbnNMRndmUERKdlZZYU5qY3VvWTg3eWRZMkZydDM5dFhTeTlqeGhjRHlUendRODd5cVdXclZjWmpiYmVFRUQ1dDJpeWdveldZWGtyTHpBM0NieGhUVnhuZksxQ1pDT05ESkNPZTM2bDZIVzEyUFJBYmFVWF95T08yeDd4WjcwenFWTGdYSUVfTmV2end4SUlHdzRtZXhUdTZBVzVQd3VaMVFia3NNaHBzMXcxMndGUVNKeU5vSDBPNDMw?oc=5"
+      },
+      {
+       "titolo": "Bollette: accordo tra governo Meloni e Ue sul prezzo del gas. Fitto: «Proteggiamo famiglie e imprese",
+       "fonte": "Secolo d'Italia",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkNMTk5fV1M2eGVJZEhRVURVVzVVblQ0bkQwRVRZNW00RW9FU2kycEU2RVZXTHNKUTBENjZuY0VEc0RNNS1IemwxOXdtWVZyanVoWGNvcGVNdEw3NTVZNHpFNXB2QTI1bWlIN2Y1ZW5KVDJNZWJkNnZHSDBQQU5LQnJBUDgtYTFsQVhIaVN1ZUhwTDlrVjJ2ZVM5Vl9LX2pKMnZUQ2RtT0tBdWxoamZrQ05YaWxHYW9IZFotMEtNLXZhOXFyTWlsaXc4MmFCOU0?oc=5"
+      },
+      {
+       "titolo": "Manovra, via libera del Cdm. Meloni: \"Sono molto soddisfatta\". Slitta il decreto bollette",
+       "fonte": "Cremaoggi",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDA1RXNfRlYyTWV1aXE4U0s1ZUYwbm5CZE5EWTF6dVNSZi01dWJYZTlpanNkWThlNnFENGRxenJYOW9hM2prZHdVU0ZLd051b2syOTh5RTRNZkNBZWMtM3dJSEhNeG9nVUZIazN1cUhwNU9uMVFjR2hNQnhaRlB4Z0poOWljc3V2NGhTREpScThFQTl4eEE1Q014V3ZfSG4yM0w2eUNJbEVEOXRaQ213RlR1bTdhYWJiZ2ozcQ?oc=5"
+      },
+      {
+       "titolo": "Manovra, via libera del Cdm. Meloni: “Sono molto soddisfatta”. Slitta il decreto bollette",
+       "fonte": "Telesettelaghi",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODF2TXlpcXZlclNzQ0NLVG9fTnFOOU04RHV2Vi1qYnluWERxRnVVcE03eEJHV1hhdExfM2NFMFFaaXNLcGQ4SllhUlcyX0NTaW5iMWptczhLcVZnYWVxZG81NUs3ZThxamFhRWpOM1NadmNxWmpVVkJNZEVjZU9kcmlnWnZLMkctSzhMOEoycEI0cjZORVpobFI2RkYwdENVbEpKU2NBUUtCb0NTWDdhYnZKdjVOVGR5d2ltREQ4Z0JZWkU?oc=5"
+      }
+     ]
     },
     {
      "tema": "natalita",
@@ -40809,7 +41129,45 @@
       "riduzione": 0,
       "aumento": 3
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «natalità» con una richiesta (3 di aumentare o rafforzare). Nati in un anno: 393.333 all'inizio dell'incarico, 355.435 nel 2025 (ultimo anno disponibile) (-9,6%). Leggi del Governo con il tema nel titolo da allora: 3."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «natalità» con una richiesta (3 di aumentare o rafforzare). Nati in un anno: 393.333 all'inizio dell'incarico, 355.435 nel 2025 (ultimo anno disponibile) (-9,6%). Leggi del Governo con il tema nel titolo da allora: 3.",
+     "notizie_oggi": [
+      {
+       "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «DENATALITÀ, CASTELLONE (M5S): MELONI PENSA AD ARMI INVECE CHE A CONGEDO PARITARIO",
+       "fonte": "agenzia giornalistica opinione",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQWJWZVo0WjJET094eWhVdXRLc0xKTXlRRm5TRXA5VW9WZVZiRW1zeXNIR2kwbGw5WWtaZ3hYeXRLUkpZRG1MYmhxS3FOcjhFdW80eVlxbDBMR0tDYXl6T2ZnelYxcmF2Tm90VXY4Z0c1UXpBekY1M1h1SFhUWWJWNDl0Zkh6Tm1ZbHJFUTNUWldZMHg2YktsVS1hcFlWQjQzUThWTUVzRkJNbVA5V3lKVlNteTB2cHhXQzdJNjVZc1hTWXU4ZnhfSmJvalJXUlN6VENvY3ZGU3o5TXB6Tk9kbVhINjBrU2tTRzJ0cXpVNWhzZXJRRWVqUHJ2MU9JZw?oc=5"
+      },
+      {
+       "titolo": "Meloni sacrifica il futuro degli italiani: armi e repressione al posto di scuola, sanità e natalità",
+       "fonte": "Agenparl",
+       "data": "2026-10-22",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEtHbU9ZUlVGbXBHRXl4b2xsRXJ6N3J1T19MX09qS3lJS2RuTlFhS01RQV9pNG9sRUd0T0RhYUx6Nl9FYUZPcnZia09NR3JZOEpKS0REUldyR05jOTNyRDFRaDVFSDJhdURVSWdfU0JNTFlIR1RlVHI4T29HNkt5S1QyT0xISW5GZ0o2SUZ5d2FwWGxLVVAyZ04xeXdoQU8tNXZOcDJ0MWptcXdRQjU4ODJrOHJrUVgtSXBKcERFZlNOQU5menAwaw?oc=5"
+      },
+      {
+       "titolo": "Le nuove misure del governo Meloni contro l’inverno demografico: nasce il salvadanaio previdenziale per i neonati e crescono i congedi parentali fino a 6 mesi",
+       "fonte": "MeteoWeb",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdnJpbHI0YUlzQk5GZktBQWNiNXpFdXBoMUhtMmkxdktOTFk4T2RzMlQyMV8xeXBUTDJYTl8wY09CdUpRUVBjRm90RXY2VXBrZEd5dmdqV01HNnlLekl5Q0lQanNiUm5wcGJUbDQxbVBzazd1NVBKdVdXMWlSYllTVWU3NWhpbjFQblk1aFZ5VV9lLWxfeWhHbnR6OEU2LTR1aEMxZFFfSVpPOS1ORmFsYVhzSmN2RFJBMU1HOWduUlRxQ1JFVGxmdTIyeXhxWnlSUlJUamhhdEdFbUV4akl3V0J5eERvQklScGNNeEVpc29yMW1rZlNmQThrYmZtUnJUcGdLUkZxUlBqTEJRa0ZIVERJMmlpUnZKVkZNamZ6ZmNGbENlbkJJ0gGvAkFVX3lxTE52RXF1NEZWZlN3ZklUVU5UczZjdjd2bGtEcmphMmsyZDdjVlYwY0paRXd4V0cya1pwUlg5R2s0SFlYRDhBQWZ0YVpURVp3U0dFMEtEQ3dOWURlbWZZc1dDM0lxZHpLY2NMbnZ4a09oR1FXVlJiMXVia1ZfakRPcmdrbnBZSG15WTJvZWVHM2xOTjg1M1Q0M2NfeXVzUlBRTDN4M1cwczBzbGJpbVBZRWZQR1RMUWtsTDhwR2xWUmd5ZlJ1cE52U216Rkt2LWFpdlBVWEZwajlrbjB3d0JaZHUtUmJDRGpCa3E4Tko1ZUwzMWJwdG9vQzRhcld5WkpvTGVCSDZOQS1WNVNfRzRycFdJWS1CWGU0TTFEelFfczNPQkRYYTdfVXdwcnF3VkxKNA?oc=5"
+      },
+      {
+       "titolo": "Meloni: priorità a famiglia, natalità, riduzione tasse, incentivi al lavoro e alle imprese, salute 29/10/2026",
+       "fonte": "L'eco del sud",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONGFoRmRMSkdQTzZMWGRwT05yNmdiNkRXSkQzR1N6YXA5ZzFrbm5UakFZdXN0UjRCTm5sdHN3a3lsd0JJRUFqQXppYWtEQkhYUXF5dDVSNmtkZEdBYjdnZ3VQUmJvRUxvT0xNTTF4ZXhpeFJuNndpbW1Pb0I1aHB1SUo2YmY1MWVfUGYtX3hvb1JMRzBDS1FnZ0JXbEtUSFptLUYtWHBSbXMyWFhKLURNSHFBSkUtblNzZGJiVlZHX2lmTFJBYm9LZEhZb0lqbGRXendNdw?oc=5"
+      },
+      {
+       "titolo": "Asili nido, per il Governo Meloni ci sono troppi fondi perché nascono pochi bambini: una scelta che condanna il Paese alla denatalità",
+       "fonte": "Eleonora Mattia",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbWZRbG1nU2l6V1B6VEhLbVRuNlFudEpUNHgyZkRrTWVSTk93MTZyaWJYQ0lVZVBVV09ESmhGRWVrQjNMdXRfNS1kcEtOZjluMmFlb1RVVTFFZl81RllMeUwtcmtXRmpZenUwcWVVSVF2WUlVR2F2RjU5MjFGRDVXVWhWVTZYa1VYcEoxdERVRjRpbXdFZHpZMzYwV1IwdE1iMzVta2NtaUhMdEhsSmsybWtsVmZpc1VBNExUU2x0V2U0WVZVeE1CdHRMNEw0WjNvRUFYOFktZThLOXhzdDdyWXhHZTJGdVZPcFhPQk1GclVnWV9MMDU0eExrOGNvd0ZkWHBr?oc=5"
+      },
+      {
+       "titolo": "Fratelli d’Italia ammette il fallimento del governo Meloni su natalità e scuola",
+       "fonte": "Movimento 5 Stelle",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmVXV0lyLWhGQlJoeVFhY3hXRWJlRFd0N0syMUVKeVZtdk1kMW1BWHRiUEtmbUJzOTVqVEpJV295MjVBMDJBamRHN0tsTjQtcmRleFNOcXgwV1NJOFRKbm1HcTFKVmlqR0UtcUo0b0ZubWVVV1d2bHVkY0pnbUZOZjF5QVN3ZTRBU0w1U3ZpOWpISHNlTXQ3TUhqVTM5RkpwVm5YU3ktV2RjY1dWTjRMbA?oc=5"
+      }
+     ]
     }
    ],
    "riepilogo": {
@@ -46459,7 +46817,45 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1.",
+     "notizie_oggi": [
+      {
+       "titolo": "Caro carburanti, Salvini: “Oltre un miliardo agli autotrasportatori, al via i pagamenti”. Linea dura su blocchi illegali e violenze",
+       "fonte": "La Discussione",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlNBMVQtVUR6MnpWLV9VT3MwbjU2WFlOMUlLWTFEWm9lNzBHQlJ2b3l3UG1tbnlDcXJVSEJjXzFCMHhrZ3NuUmdCM2VpekdQeEd2blFUSmExWHhQUklnNFl1c3QzNzl4UUtfSTJKNmlDdW1rR1VJdDEzb0s4ejhScQ?oc=5"
+      },
+      {
+       "titolo": "Gasolio, Salvini: disponibili a ragionare su tetto al prezzo",
+       "fonte": "Staffetta Quotidiana",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqSFRlZEV5TTdkSnJ5WC1aRWQ1RHNULVo0VTFZUm1UUFNsRmxmd0NHNWJ5ekdOVGl2TE1KbHVQQjZXcnpyLU9Ha2t6OEdGQWo4V2VFeFZuQ0g4SEtyVGRHR3JLb1hHdw?oc=5"
+      },
+      {
+       "titolo": "Caro gasolio, Salvini promette aiuti agli autotrasportatori: ma la protesta non si ferma nelle Marche",
+       "fonte": "Corriere Adriatico",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVnFPQU5vSG5zSjFTZlJXTmxwa0N0QWZ5S1RlQ21CODdiSElOSmxBQkt4TUxacUdqYWFmanMya2M3dEREVGRqaTFiU3hSSHdhWEZFS1M1ZGRXelk4TzZ3ZVJGcEpYdy1RQXBPdllzanpwNUlVUDk2VjhZa2xBdl9fRU1zLU1sRURISTlhdHJnT2FsSURnNGthM2dxNm10NGZlYkpOUWt0bHZOSGd0NHc3eldZM2k1ai1iRDdvMGxXem0zWHA5bWwxazJTWjPSAdIBQVVfeXFMUGNwdnY1RlRQUDVDdVE3aVdUXzEyaGRaQWZFcXJlMExabzhZcmVWclpjbFR3cDQySE9UQnB3bHpQSVpHV0s0LTk3WlpDdWFCMjZHS2kwbHg1aXhhVGVuSTIwRzl5SVlleDdHaEZacFRaOTR3TVJLZXoyZVdJcmFPWmtHSjE4aFBmZUtrZXJPQ25HNUlkcU1yN3lDZW5VZ0RmcXo5dkhwTGhMS2o2T0NrUzdEY3VwMFpTU0NWOHJxa0FUMEpqei1PbmdMdGx5TXZWZlJ3?oc=5"
+      },
+      {
+       "titolo": "Le promesse di Salvini non bastano, il blocco dei tir resta: supermercati vuoti, distributori di benzina a secco e trasporti a rischio. I problemi da Sud a Nord",
+       "fonte": "Today",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdoVjd4ZEt3d1I5MUNTSE1waXFOUVRzNGZPcjdKQnNGUmVvbUp3ZXpwQlUxNF84SklXMUVsZnRjOFNLYk1JbXFPVFV1VWFlbmNiQ1JUQXdyd0NEWXRjejZ5Z3kxT2wteHFHemYxNEVsOEdXck55eWxhSFpwWWY0VGQ1ZlFRQ19qSHRQSnJ0NERnNXdCVlhjUw?oc=5"
+      },
+      {
+       "titolo": "Caro carburante, Salvini: «Disponibili a ragionare su un tetto al prezzo del gasolio, ma non tolleriamo i criminali» · LaC News24",
+       "fonte": "LaC News24",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPczlMLTMtNTVBVC1XNHVhNkRyU3ZaWkNyTWtTTmZUcGgwaDVFNk9CTTdUMExWa01RM09yQ2tIOFZQaExnVkJ2eFJSbWQ1STRsU2pRdExKaWFZNzBmV3ZTbmJxc1lPTEpBUXRveHE4TFF0WTNqOWwwcVM0WW4yU0c1Q1kxOE80dnNVcDREY24zTWJBaFBzWWs2a1EtQ1B0NEczc3NDdHIzanpPUHhTMmxZcjQtWmVtdzA4ZFN4eTM4cy05U0RGTk5lYlM1TGxSNnRGWDZ2Z2V3OEduY2pNQXljeTZJYl93ZGN5ZmfSAe8BQVVfeXFMTmlWU0IyXzBIdTh3Y0lsTXR1UDl4SVc3QnNVYjJqcE1zWHo4RHNvU191Y0ptdjNkb3JmMGVwV0lUY09wTWQzNXQ2R3F2VUxQLVpZeUYwcGtIOFRhdTZBRklhMGxEcHRma2xmVmU1Tmh3ZWhUbjVvMWFzQVhVbDc2Z3FvRXhzSDBVVFR3czAzTHlxZ2kyTnZPcVV4b2R5T3BjYkJfNkhxa0pFSmNSRjR5a3p2aDA1SWhEajBaWURpcmF0X29Wc0ZOTHFrYW11aGJfMllYSkprOUhlOTlZY2JuRmhqZV9GTkpNMzVfcFN3MnM?oc=5"
+      },
+      {
+       "titolo": "Caro gasolio, Salvini: «Valutiamo un tetto al prezzo». E avverte: «Basta criminalità»",
+       "fonte": "Meridionews",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmV3lJUGxxdGhmbjBtREkyMFpuR1M0SVRXbGc2TzZOX3g3YjFqQllEUzhJc2pGN1llMjBOUmpTNzgtWkhDQjFyam11cTVfRDNaUkRQMWtaSQ?oc=5"
+      }
+     ]
     },
     {
      "tema": "tasse",
@@ -46743,7 +47139,21 @@
       "riduzione": 3,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «livello delle tasse» con una richiesta (3 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti). Leggi del Governo con il tema nel titolo da allora: 16."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «livello delle tasse» con una richiesta (3 di ridurre). Pressione fiscale (tasse e contributi in % del PIL): 41,9% all'inizio dell'incarico, 43,0% nel 2025 (ultimo anno disponibile) (+1,1 punti). Leggi del Governo con il tema nel titolo da allora: 16.",
+     "notizie_oggi": [
+      {
+       "titolo": "Salvini: tetto per le partite Iva fino a 100 mila euro, tasse al 15% e Irpef ridotta al 33%",
+       "fonte": "The Epoch Times Italia -",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOEJxYUF3T1ZVRmkwMWZieGNGOTQ2YS1IRlVmRnc5bnJ6RVlDWWlSYzEtQXR1d0gza2FHYmJGcHVpRC11VTBRMUxIZWRwNmRzTjdldGV3eFRYWGlXaTVkY3NPN3BGd2drZnpZeDdxYXozLXdqM0FFaTVWbEVyRkVFVEV5ZUUxMTNYQkkyem5BRGlQcW5MZVlWQ2MwY3dnaXZQYk5mRFpGbTU0QVVjUVAtenJIUlF3S0FtOWdZNGZualozVkk?oc=5"
+      },
+      {
+       "titolo": "MATTEO SALVINI * (X.COM) : «DALLE PAROLE AI FATTI, RIFORMA PENSIONI E TAGLIO TASSE PER IL CETO MEDIO",
+       "fonte": "agenzia giornalistica opinione",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1VNN3k0UGEzYTVSaC15RFJCUGFLMzlnRFNoWUJDYVIwV2tuX1FGVktFNVdEMVVYSk14SWQ1WnBaNXJoUlpXdHFkZjFENnJ1RF9pblVETkpHc0M5cXM0X2FlMVh4cktmbDI5SVdGWlFxX19PUE1Yak1rQi1qZDNaN3pldVZ2bURfZDg3a3Azc19xVXFTZjNzMHRRbW5lWjB1QWhSNThCSWphTmhRMXF1R0FJUU9wME8zMlZEUF9VZVZZc1RKdUN6X3RTVzBBODA1aV9PbFV6MnktSHRMVkhCMV9B?oc=5"
+      }
+     ]
     },
     {
      "tema": "sbarchi",
@@ -47467,7 +47877,45 @@
       "riduzione": 0,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «pensioni e legge fornero» con una richiesta (1 di abolire o eliminare). Nessuna legge del Governo con il tema nel titolo da allora."
+     "testo": "Prima dell'incarico: 1 frase sul tema «pensioni e legge fornero» con una richiesta (1 di abolire o eliminare). Nessuna legge del Governo con il tema nel titolo da allora.",
+     "notizie_oggi": [
+      {
+       "titolo": "Sulle pensioni il Campo largo vuole abbattere i pilastri della legge Fornero, come Salvini",
+       "fonte": "Il Foglio",
+       "data": "2026-10-23",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYVlNcFhYbWpNZUg0bXRLTHpNdWVGUjRMbms0S2wxUFhhMGpTZXptTXVyVy12M0VUR0VfblN2XzM1UmlRZXh5TGxEd2lZNzFqeVlhbUk4WmdQbWNtWHpXMFBjaDNqLU9LWC1qNm1lLU0wRzlHelFLZm5ocTJmYmtYX0RZM3FGeVcxa19sM3lQN0xrWk0zUWJ2YzBnVk9uU1Zub3U4UV92NHczRDJlRVVaR0lKeW01b2R6YWtsY0Q5dnZTTU1JMGVlemtlbWRYdExsZjRaVC1BVklEb0NhczFZ?oc=5"
+      },
+      {
+       "titolo": "Manovra: Salvini, smonteremo Legge Fornero per pensione a 64 anni",
+       "fonte": "Il Sole 24 ORE",
+       "data": "2026-10-25",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yMkpOWWJlS0J1dzNlS012NmxoVTFuUHBXN09FRjVjQmtOenBiMHdfUk9zcV81NzJsWkp4bm52eVo3aVJWamtZQVh3VlBfNS15OE1OZ21OZHAxQkMxMFhNcUFFd2VNbndRbGszUlVQbFpLYUU?oc=5"
+      },
+      {
+       "titolo": "Salvini confermato segretario della Lega: bordate a giornalisti, Schlein, Fornero e Vannacci | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-10-25",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1ppMWk4Y2ZqQkR0TURxUU9sUE56NFVzVDhpUEdkdUIxM01CVlRER1JSVi1keUdkUDhxbVZLd0o3M2FFTnpueTRZemhCWXlSeGxOUDN2eU50YWdGNThJTFh3ZzBQenZxbXBZdmRfWl9iOEFONDd1YVlsaGpmakFlZzl1MnZvS1hCNFdYQWdzLUlNdDlPMzVqTmhVMHpWU3JOc0NqSzNaQ0dyZTVLSHJ4OER3VWMxaTU1N081aWNXNTlTaE0tb2FWT2ZRRnZhbG5h0gHUAUFVX3lxTE9TbVFucEQxcVBMQk5jdnJxRXgxZDlzNDBwNnNwUlRCeUQtR09sYU1PaVliMTVXUkl3YkJpeG82ZlVnUWotdmpCblNuVjY2SDBhS3dQUHppcTBicEdSazNOb1BjU2IzOUhwQnlCY1NrYWJsZkJsc1pSNlQtekhSX09HNUtSeVlGWXBhZkR2LVNJaXMxZmJIQW1Vaml4Q2F1OUoxYXJBWFJ4cVVNWE1yWWw4dnA0VjdBRHJCYzk4ZHZzVU9BdnBVTHkwUWZNbnNQUzF6VzIy?oc=5"
+      },
+      {
+       "titolo": "Pensione a 64 anni, Salvini: 'Fiducioso di superare la legge Fornero con la Manovra 2027'",
+       "fonte": "Sky TG24",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2M0V3VON09jRFFQSWQzcWg0TkUxNGR0TWhic0FWT1JsNnQ3YVVJY3dmdjZzeEZkZElNNzctcjJPZDVFZDR5TlZhLUlVcHZOUjJ4WUtnUHBRb2M1Ri1OcHpjeWswSDBOTGg1b0dMVXVJZ0FoUXdQM05qNUVkLVFPa2UwNlZ3YUdTSnZ1bTNURTk3dw?oc=5"
+      },
+      {
+       "titolo": "Salvini: 'Fiducioso di superare la legge Fornero, pensione a 64 anni'",
+       "fonte": "ANSA",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYjNhWmpmbEpWeURMOHRLNDQ5NzNHc1lKRVdVWmtLYjV5WlhPTU5wMDI5VVEzMXFrQ0NaU2lwXzlSQl9wNDRVOWdnUnJLZ3BfRjEzY1U3SkprSDRMM1dnR3I4Nk9GRmRqdzQ0dUlKWjg4aVZKbURQazhpVFAyRExvdjlEYkZ2M2E3X0xGdkM4YWRuVzQ2WU95Y1J2UEtRRVM4aWp5bUdVYUdXSG5vZ2gwWlV2QkdlY1VRc05JZlhKdzFlZGg1VVhvYzd6dkt5aXhJNGo2eEJfOXpxUFVFa1hVV3RBRy1vNlBiSUR4a1oxM05lQdIB9wFBVV95cUxQTVNMeUlmM2FacFI1VDY2bnltT3RBb2EwaGNDUHdZSV9kTnFwaUUtRnEtLWhmMzNhaTF6aUxXOTQ2aUhITm95N0MtRjVrNzN3WFE3b2Z4cHhXWHVvTHRYS2l1MXBtSm54SFRuZDNjWHcyWGhwTGVjWFB1cVJFaEJTWFVhT09uUjl5d015aTB0MzhpaDRGYXRLeWs3Wnhad0NLRFh1VW0zeURkSnFQMjRrMXlqb05fTFN1Q1ozUk5ORFEtUkRyelpnYjRPRGZzR191NTdNYmRFa1dRN2ZrUVBZMFpkdzVGb1FkZTJ4dV9rb2lxb2ZBWTZZ?oc=5"
+      },
+      {
+       "titolo": "Manovra verso il Cdm di mercoledì. Salvini: «Abbiamo accordo e risorse per superare la Fornero",
+       "fonte": "Il Sole 24 ORE",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdF9YTnNDaFNiV0c3U3dRdVRMTjc5eFRCNnZjbVRhQk9lTnpLaTNNV0plczZ6c0JIWXdwdEdieng3TVY4LUc5VkpBVUVzdWJlLTZLNEtITzdRZ3FxaTV6OTVRcEQwVWFIRndRZVAzb1F4TGxWRWxIVXBwRDQzREdrejUta3pQX3FXMlZ5LUpJRG14NWgtM0gyb1haYjM4RGVjR1dKdGVsWnc2dw?oc=5"
+      }
+     ]
     },
     {
      "tema": "occupazione",
@@ -48064,7 +48512,15 @@
       "riduzione": 0,
       "aumento": 6
      },
-     "testo": "Prima dell'incarico: 6 frasi sul tema «occupazione» con una richiesta (6 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15."
+     "testo": "Prima dell'incarico: 6 frasi sul tema «occupazione» con una richiesta (6 di aumentare o rafforzare). Occupati (15-64 anni): 22.371 mila all'inizio dell'incarico, 23.436 mila nel 2° trimestre 2026 (+4,8%). Tasso di occupazione (15-64 anni): 60,1% all'inizio dell'incarico, 63,2% nel 2° trimestre 2026 (+3,1 punti). Leggi del Governo con il tema nel titolo da allora: 15.",
+     "notizie_oggi": [
+      {
+       "titolo": "Milano, sciopero 30 ottobre: Atm e Trenord regolari ma Usb sfida Salvini. Cortei verso la periferia, tangenziale est a rischio occupazione",
+       "fonte": "Corriere Milano",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPS3N1RlNzR25kNlY0MTdrQVNWZTZxRGphQkZfaE9CaDJGNHNnVEFBYkhodUZjdVNrbjEtR0ZZU28tX1pySUZQWHpPTHFiTnhGSExSdGoyaVJzLUgwNmFIN0FqQmlFWXBVOW9lVG9uMjRldnY4UktTeEQyUFNDVk1BeXRaV2RuWlp4cmRpQ0FuU3NFQ2JvbC0yem9EMUpWQ1Nnd1UyVUlQNHc3WWNEa2RiWDdoa0xQYi1GOXJJcG16TDQyaUwzMTBhMlc1WWpTbl80R0NBRVVZQzRfMHUwSnJOYTh3OUR1RWdxSEViMjF3U1kwZU5SdE5TdHVYRG53aG1iREhFcFFKREZKX3lnTkc1aHVUaWlUSTJYQkVCWndMbFVGNmJoTzQwVmFpTENTbVMydmhVMVFTR0JZZG1Id1NrMFplSnBnU2Iy0gHOAkFVX3lxTFBhV0JtOFB1WloyTlpKTWUyQmVlb2tza3h6Sy1hbnRlLVZVazhUNjBLak5GYmF0UWJKa3JoRlNrMUhaQXd4NVdUMFkxVlNJOGpidEc0UDNKeHlobHBQUHU3RDR4d28tOGxtMmNidF9kYnFBTTVOSTJSeFFzUlJ5djFSRUR3U0ZIb0VCWVJuZFFOa1RTb0VNZEJ3ZThkQ1NHNmw1eTVzSGtsdTFaRm1wUG1WMmtvWWpReGtZS1ZiQ2FOeE1iOXJZTmRCMWhfVTdkTWNBYlVjb3NGb25GX08zU210MXVXSmdZenc4bEtNbXAyMGRLelVndlpMWDhKV2stenJSVGdadGd2T2M2UU00Ui1RYXdlcGxNUElnWW9xX3JvWkdONGx0WDdlbTJuY2loSnlESzhUQzhiQzNhUFRuRkpYbWlITUxBbm51RDVneGc?oc=5"
+      }
+     ]
     },
     {
      "tema": "inflazione",
@@ -48605,7 +49061,21 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «inflazione e costo della vita» con una richiesta (2 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «inflazione e costo della vita» con una richiesta (2 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4.",
+     "notizie_oggi": [
+      {
+       "titolo": "Salvini precetta i trasporti; USB non fa passi indietro: il 30 ottobre sciopero generale contro carovita e guerra. Smantelliamo la 146/90",
+       "fonte": "Usb Pubblico Impiego",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbDNsdzROM2xhVGh2b0hKSmRBWnk1Q0JfSWY3eE51N0tuUDRaRTNzRGxjbU5qUVo5UXU1bWlJQXlCMWtYWFhPTXFIRmlNTWlueklnZVBxaE1NRkdhVGxpSjFXVU05MXRIT2hxaE1HSWdvVjhUT2hmS3RXeGxWclp1OVROaWtzNmpQdlV0UzZ3VF9KQ3F6c0RHc1E2R3FNMTZlVlExZFUtU2JSVmhhV2V2YUVUcFc0LXpEY0hGbHdfZklySmNnS1VtZWNPNUhNVTJmUFNobGpMaWk1bkJEc0p6SUFQazZJNWgtNDAzYVdUQVNHR0lKWGZ4ZUFycGswYjFNV1lVT09MOU5oMWZrSzRncTRFTE9qNDg?oc=5"
+      },
+      {
+       "titolo": "Venerdì con lo sciopero contro il carovita. Ma trasporti regolari in tutta la provincia: Salvini rinvia la protesta",
+       "fonte": "CiaoComo",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUFVQdGJoODlDRm9HamI3RTAtNkdYUi15ZkVRLTN5M0JuNTJGcHIzelUwcUVZZWFFRU4yNjRIMWtyZ2VMb1gzV3RpNEYzeFF1VFVIMUJtNHRfbHVPbjJ4UWN4Y0xCY0dTUTdwdF85cFpDd3EybENDdzg3ejFRMEktWXB2TkpoZXcxZkRRdnBsQng5VkVrLUdYRDV4X29xWWU0YmlsUlhrUzg3ekpYYWg4NDNORm1IOTh2WlRBSGhKZTBHTWpoZ3dELU14M0ZrRkxmSVVNakY0RU1xODZZc2ctc2JWS1pOa2paT3c?oc=5"
+      }
+     ]
     },
     {
      "tema": "bollette",
