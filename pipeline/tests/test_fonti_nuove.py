@@ -461,3 +461,36 @@ def test_notizie_dichiarazioni_omonimi():
     assert not omonimo("Giuseppe Conte attacca il governo", "Giuseppe Conte")
     assert not omonimo("La premier Meloni a Bruxelles", "Giorgia Meloni")
     assert not omonimo("Premier Meloni: «Manovra seria»", "Giorgia Meloni")
+
+
+def test_parole_semplici():
+    from memoria.analisi.semplice import semplice
+    assert semplice("Modifiche alla legge 5 febbraio 1992, n. 91, in materia di acquisto e di revoca della cittadinanza", "ordinaria") \
+        == "Cambia la legge sulla cittadinanza su acquisto e revoca della cittadinanza."
+    assert semplice("Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di "
+                    "sicurezza pubblica e contrasto alla criminalità minorile", "di conversione di decreto-legge") \
+        == "Rende definitivo il decreto del Governo del 22 ottobre 2026, già in vigore: misure urgenti su sicurezza pubblica e contrasto alla criminalità minorile."
+    assert semplice("Delega al Governo per la riforma della disciplina degli ordinamenti professionali", "ordinaria") \
+        == "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma della disciplina degli ordinamenti professionali."
+    assert semplice("Istituzione della Giornata nazionale del cane guida e del cane di assistenza") == "Crea la Giornata nazionale del cane guida e del cane di assistenza."
+    assert semplice("Istituzione in Sassari della corte di appello e della procura generale della Repubblica presso la corte di appello") \
+        == "Crea a Sassari la corte di appello e la procura generale della Repubblica presso la corte di appello."
+    assert semplice("Modifica all'articolo 48 della Costituzione in materia di attribuzione del diritto di elettorato attivo ai cittadini "
+                    "che hanno compiuto il sedicesimo anno di età", "costituzionale") \
+        == "Cambia la Costituzione (articolo 48): diritto di voto ai cittadini che hanno almeno 16 anni."
+    assert semplice("Modifiche al codice penale e altre disposizioni concernenti l'introduzione del reato di omicidio nautico") \
+        == "Introduce un nuovo reato: omicidio nautico."
+    assert semplice("Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, "
+                    "terzo comma, della Costituzione") == "Dà alla Regione Veneto più competenze (autonomia differenziata)."
+    # la spiegazione tra parentesi non si ripete
+    assert semplice("Disposizioni concernenti lo sviluppo dell'edilizia residenziale pubblica e altre misure per la riduzione del disagio abitativo").count("(") == 1
+    # titoli senza una forma nota: niente versione semplice
+    assert semplice("Piano straordinario per i Campi Flegrei") is None
+
+
+def test_notizie_filtri_social_e_vecchie():
+    from memoria.sezioni.notizie_dichiarazioni import tieni
+    assert not tieni({"titolo": "Sbarchi: per Crosetto è colpa di Putin", "fonte": "Instagram", "data": "2026-10-26"}, "Guido Crosetto")
+    assert not tieni({"titolo": "Giorgetti promette: bollette in calo del 40% 29/01/2023", "fonte": "L'eco del sud", "data": "2026-10-22"}, "Giancarlo Giorgetti")
+    assert tieni({"titolo": "Giorgetti: alta inflazione 'drammatica conseguenza' caro energia", "fonte": "ANSA", "data": "2026-10-30"}, "Giancarlo Giorgetti")
+

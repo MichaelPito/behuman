@@ -1,6 +1,7 @@
 ---
 // Prima e dopo l'incarico: cosa si chiedeva, cosa dice l'indicatore ufficiale, quali leggi.
 // Nessun giudizio: l'esito è una regola fissa sul segno della variazione (vedi FAQ).
+import Giornali from "./Giornali.astro";
 import Icon from "./Icon.astro";
 import type { ImpegniPolitico, MisuraImpegno } from "../lib/data";
 import { dataIt, ESITO_CLASSE, periodo, slugLegge, valore, variazione } from "../lib/data";
@@ -52,6 +53,7 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
                 {(f as any).testo_pubblicato && <span class="small muted">Testo pubblicato con il video: «{(f as any).testo_pubblicato}»</span>}
                 <span class="tiny">Chiede di <strong>{VERBO[f.direzione ?? ""] ?? "intervenire"}</strong> («{f.verbo}») · <a href={f.url} target="_blank" rel="noopener">fonte <Icon name="ext" class="tiny" /></a>{f.verifica && <> · <a href={f.verifica} target="_blank" rel="noopener">verifica</a></>}</span>
                 {(f as any).verifica_note && <span class="tiny muted">Verificata con: {((f as any).verifica_note as string[]).join("; ")}</span>}
+                <Giornali notizie={f.notizie} quando="nei giorni in cui l'ha detto" />
               </li>
             ))}
             {t.programma.slice(0, 2).map((f) => (
@@ -100,6 +102,7 @@ const VERBO: Record<string, string> = { abolizione: "abolire", riduzione: "ridur
               <ul>{t.leggi.map((l) => <li class="small"><span class="mono tiny muted">{dataIt(l.data)}</span> <a href={u(`/governo/${slugLegge(l)}/`)}>{l.argomento}</a></li>)}</ul>
             </details>
           )}
+          <Giornali notizie={t.notizie_oggi} quando={`negli ultimi 14 giorni su ${d.nome.split(" ").slice(-1)[0]} e questo tema`} />
           {t.dopo.length > 0 && (
             <details class="leggi">
               <summary class="small">Cosa ha detto sul tema da quando governa: {t.dopo_totale} frasi</summary>

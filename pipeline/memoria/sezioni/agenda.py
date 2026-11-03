@@ -23,6 +23,7 @@ import logging
 import re
 
 from ..analisi import affermazioni as aff
+from ..analisi.semplice import semplice
 from ..fonti import agenda as agmod
 from ..fonti import cdm as cdmmod
 from ..fonti import notizie as notmod
@@ -305,6 +306,12 @@ def costruisci(ctx, politici: list[dict]) -> dict:
             log.info("notizie CdM %s: %s", c["titolo"][:40], e)
     if errori_news < len(principali):
         ctx.ok("google_news_agenda")
+
+    # «In parole semplici»: il titolo ufficiale riscritto con regole fisse (vedi analisi/semplice.py)
+    for v in decreti + aula + approvate + commissione + nuove:
+        v["semplice"] = semplice(v["titolo"], v.get("natura"))
+    for c in cdm:
+        c["semplice"] = semplice(c["titolo"])
 
     dati = {
         "aggiornato_il": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),

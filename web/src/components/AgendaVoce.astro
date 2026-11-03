@@ -2,6 +2,7 @@
 // Un testo in discussione (decreto da convertire o testo in Aula): cosa è, a che punto è,
 // chi l'ha proposto, cosa dice il Governo e cosa ne scrivono i giornali, con le fonti.
 import Icon from "./Icon.astro";
+import Semplice from "./Semplice.astro";
 import type { VoceAgenda } from "../lib/data";
 import { ALTRA_CAMERA, dataIt, INIZIATIVA } from "../lib/data";
 import { u } from "../lib/url";
@@ -26,6 +27,7 @@ const numeri = [v.numero, ...(v.abbinate ?? []).map((a) => a.numero)];
   </header>
   <h3>{titolo}</h3>
   {v.nome_breve && <p class="small muted ogg">{v.oggetto}</p>}
+  <Semplice testo={v.semplice} />
   {(v.abbinate?.length ?? 0) > 0 && <p class="tiny muted">Esaminata insieme {v.abbinate!.length === 1 ? "a un'altra proposta" : `ad altre ${v.abbinate!.length} proposte`} sullo stesso tema.</p>}
 
   <dl class="fatti">

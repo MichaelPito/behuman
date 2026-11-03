@@ -178,6 +178,16 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "parole-semplici",
+        q: "Come scrivete la versione «In parole semplici» delle leggi?",
+        a: [
+          "Partiamo solo dal titolo ufficiale del testo e lo riscriviamo con regole fisse, uguali per tutti, scritte nel codice pubblico (pipeline/memoria/analisi/semplice.py). Non aggiungiamo niente che non sia nel titolo: né effetti previsti né giudizi.",
+          "Prima diciamo cosa fa il testo, dalla forma del titolo: «Delega al Governo…» diventa «Autorizza il Governo a scrivere, con propri decreti, le regole…»; «Conversione in legge del decreto-legge…» diventa «Rende definitivo il decreto del Governo…, già in vigore»; «Istituzione della Giornata…» diventa «Crea la Giornata…»; «Ratifica…» diventa «Approva un accordo internazionale»; «Modifiche alla legge 5 febbraio 1992, n. 91» diventa «Cambia la legge sulla cittadinanza»; un titolo che introduce un reato diventa «Introduce un nuovo reato».",
+          "Poi di cosa parla: il resto del titolo senza i riferimenti ad altre norme («articolo 14», «legge 11 febbraio 1992, n. 157») e con un piccolo glossario per le parole giuridiche («attività venatoria» → «attività di caccia», «edilizia residenziale pubblica» → «edilizia popolare»). Quando una parola tecnica resta, la spieghiamo tra parentesi.",
+          "Il titolo ufficiale resta sempre accanto, con il link alla scheda e al testo. Se un titolo non segue una forma nota, la versione semplice non compare. Le regole possono sbagliare: se trovi una frase sbagliata, segnalala e correggiamo la regola per tutti.",
+        ],
+      },
+      {
         id: "numeri",
         q: "Da dove vengono «I numeri» e come li leggete?",
         a: [
@@ -199,6 +209,15 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
           "Ogni tema ha uno o più indicatori ufficiali, tutti nella pagina «I numeri»: accise e prezzo alla pompa di benzina e gasolio (Ministero dell'Ambiente e della Sicurezza Energetica), pressione fiscale, disoccupazione, occupati, inflazione, prezzo di luce e gas per le famiglie, debito, deficit, spread, PIL, spesa pubblica per sanità, istruzione e difesa, nascite, persone a rischio di povertà (Eurostat su dati ISTAT), persone sbarcate negli ultimi 12 mesi (UNHCR su dati del Ministero dell'Interno). Pensioni/legge Fornero e reddito di cittadinanza non hanno un indicatore numerico semplice: mostriamo solo le leggi.",
           "L'esito è una regola fissa sul valore all'inizio dell'incarico e sull'ultimo dato: «nella direzione chiesta» se l'indicatore è sceso di oltre l'1% quando si chiedeva di ridurlo (o salito quando si chiedeva di aumentarlo), «quasi invariato» entro ±1%, «nella direzione opposta» nel caso contrario, «obiettivo raggiunto» se si chiedeva di abolire e il valore è zero. Se un tema ha più indicatori che vanno in direzioni diverse (es. spesa sanitaria in euro su, in rapporto al PIL giù) l'esito è «misto». Mostriamo anche il valore di un anno prima dell'incarico, per vedere misure temporanee in corso all'insediamento (es. il taglio delle accise del 2022).",
           "Non diciamo se una promessa è stata «mantenuta»: un indicatore dipende anche da fattori esterni (prezzi internazionali, guerre, economia). Mostriamo le frasi, i numeri e le leggi, con le fonti; il giudizio resta a chi legge.",
+        ],
+      },
+      {
+        id: "giornali-promesse",
+        q: "Come trovate cosa scrivono i giornali sulle promesse?",
+        a: [
+          "Per ogni tema di una promessa cerchiamo ogni giorno su Google News i titoli degli ultimi 14 giorni con il cognome del politico (con la maiuscola) e la parola del tema, la stessa delle regole sulle promesse («accise», «sbarchi», «legge Fornero»…). Così si vede se e come se ne parla oggi.",
+          "Per ogni frase detta prima dell'incarico cerchiamo anche i titoli usciti dal giorno della frase ai tre giorni dopo, una volta sola. L'archivio di Google News per gli anni prima del 2022 è molto scarso: per molte frasi non ci sono titoli.",
+          "Escludiamo fonti ufficiali, social network, articoli vecchi ripubblicati (con una data vecchia nel titolo) e omonimi; al massimo due titoli per testata. È un segnale di quanto se ne parla, non una valutazione: un titolo può anche parlare d'altro, per questo c'è sempre il link.",
         ],
       },
       {
