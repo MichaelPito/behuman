@@ -57,7 +57,7 @@ DISCORSO = set(
     assemblee messaggio videomessaggio intervento interventi edizione conferenza stampa evento eventi carissimi carissime""".split()
 )
 # fonti che sono la dichiarazione stessa, già collegata come testo ufficiale
-FONTI_UFFICIALI = re.compile(r"governo\.it|camera\.it|senato\.it|^ministero|^presidenza|^regione|^pagella politica|^facta", re.I)
+FONTI_UFFICIALI = re.compile(r"governo\.it|camera\.it|senato\.it|^camera dei deputati|^senato della repubblica|^ministero|^presidenza|^regione|^pagella politica|^facta", re.I)
 # annotazioni dei resoconti: «(Applausi dei deputati del gruppo Partito Democratico-Italia Democratica e Progressista)»
 ANNOTAZIONI = re.compile(r"\((?:applausi|commenti|proteste|si ride|vive proteste|interruzion)[^)]*\)", re.I)
 

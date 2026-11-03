@@ -201,6 +201,14 @@ export const ETICHETTA_ORIENTAMENTO: Record<string, string> = { sinistra: "Sinis
 export const iniziali = (nome: string) => nome.split(" ").map((s) => s[0]).slice(0, 2).join("");
 export const ordinaPerData = <T extends { data?: string | null }>(xs: T[]) => [...xs].sort((a, b) => (a.data ?? "").localeCompare(b.data ?? ""));
 
+// Titoli dei giornali sui voti finali, nei giorni del voto (data/notizie-voti.json).
+// La chiave è la stessa della pipeline (memoria/sezioni/notizie_voti.py): Camera, giorno, titolo dell'atto.
+export const chiaveVoto = (v: { camera: string; data: string; titolo?: string | null }) =>
+  `${v.camera}:${v.data}:${(v.titolo ?? "").split(/\s+/).filter(Boolean).join(" ").toLowerCase().slice(0, 120)}`;
+let _notizieVoti: Record<string, { data: string; notizie: TitoloNotizia[] }> | null = null;
+export const notizieVoti = () => (_notizieVoti ??= leggi<Record<string, { data: string; notizie: TitoloNotizia[] }>>("notizie-voti.json", {}));
+export const notizieDelVoto = (v: { camera: string; data: string; titolo?: string | null }) => notizieVoti()[chiaveVoto(v)]?.notizie ?? [];
+
 // Ultimo voto finale (non di fiducia) registrato nelle schede: serve per l'emiciclo della home.
 export function ultimoVotoFinale(camera = "Camera"): (VotoFinale & { esito?: { favorevoli: number; contrari: number; astenuti: number } }) | null {
   let migliore: any = null;

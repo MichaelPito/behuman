@@ -2,7 +2,8 @@
 import Base from "../../layouts/Base.astro";
 import Emiciclo from "../../components/Emiciclo.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, ETICHETTA_POSIZIONE, temi, totaliVotazione, votazioniTemi, annoDi } from "../../lib/data";
+import Giornali from "../../components/Giornali.astro";
+import { dataIt, ETICHETTA_POSIZIONE, temi, totaliVotazione, votazioniTemi, annoDi , notizieDelVoto } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -45,6 +46,7 @@ const vt = votazioniTemi();
                 <Emiciclo favorevoli={tot.favorevoli} contrari={tot.contrari} astenuti={tot.astenuti} seggi={v.camera === "Camera" ? 400 : 200} etichetta={v.titolo ?? v.id} />
                 <p class="small">{v.titolo}</p>
                 {v.nota && <p class="tiny muted">{v.nota}</p>}
+                <Giornali notizie={notizieDelVoto(v)} quando="nei giorni del voto" />
                 {v.polarita === "inversa" && <span class="pill plum">votare sì = contro la proposizione</span>}
                 {v.url && <a class="tiny" href={v.url} rel="noopener" target="_blank">Votazione ufficiale <Icon name="ext" class="i-ext" /></a>}
               </article>

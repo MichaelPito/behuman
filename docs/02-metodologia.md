@@ -222,3 +222,10 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   fiducia dell'anno), con le stesse regole del periodo intero; `presenza_anno` in `data/politici.json`.
 - Promesse prima/dopo l'incarico e «I numeri» non cambiano: confrontano per definizione un prima e un dopo.
 
+## 3-nonies. Cosa scrivono i giornali sui voti finali
+- Per ogni atto votato in via finale o con la fiducia (stessa Camera, stesso giorno, stesso titolo: conta una volta):
+  titoli di Google News dal giorno del voto a 3 giorni dopo, con lo stesso filtro della pagina «In discussione»
+  (parole distintive del titolo dell'atto + citazione di un atto).
+- Ricerca fatta una volta, a finestra chiusa (prima si ricontrolla); fino a 60 voti al giorno, dal più recente.
+  Archivio in `data/notizie-voti.json`, letto dal sito (tabella dei voti del politico, votazioni dei temi).
+

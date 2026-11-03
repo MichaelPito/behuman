@@ -505,3 +505,24 @@ def test_presenza_anno():
     assert presenza_anno(p, 2026) == {"Camera": {"anno": 2026, "presenti": 3, "totale": 8, "percentuale": 37.5}}
     assert presenza_anno(p, 2024) == {}
 
+
+def test_chiave_voto():
+    from memoria.sezioni.notizie_voti import chiave
+    fiducia = {"camera": "Camera", "data": "2026-10-28", "titolo": "Conversione in legge  del decreto-legge X", "fiducia": True}
+    finale = {"camera": "Camera", "data": "2026-10-28", "titolo": "Conversione in legge del decreto-legge X", "fiducia": False}
+    assert chiave(fiducia) == chiave(finale) == "Camera:2026-10-28:conversione in legge del decreto-legge x"
+    assert chiave({**finale, "camera": "Senato"}) != chiave(finale)
+
+
+def test_titolo_atto_camera():
+    from memoria.sezioni.notizie_voti import titolo_atto
+    assert titolo_atto('S. 1971. - BIGNAMI ed altri: "Disposizioni in materia di elezioni della Camera dei deputati" (approvata dal Senato)') \
+        == "Disposizioni in materia di elezioni della Camera dei deputati"
+    assert titolo_atto('FARAONE ed altri: "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"') \
+        == "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"
+    assert titolo_atto("Delega al Governo in materia di energia nucleare sostenibile") == "Delega al Governo in materia di energia nucleare sostenibile"
+    # titolo tagliato prima della virgoletta di chiusura
+    assert titolo_atto('PROPOSTA DI LEGGE COSTITUZIONALE SCHULLIAN ed altri: "Abrogazione dell’articolo 99 della Costituzione') \
+        == "Abrogazione dell’articolo 99 della Costituzione"
+    assert titolo_atto('S. 1779. - "Disposizioni in materia di protezione civile"(approvato dal Senato)') == "Disposizioni in materia di protezione civile"
+
