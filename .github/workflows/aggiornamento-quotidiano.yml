@@ -68,6 +68,8 @@ jobs:
           git add data contenuti/coda_revisione || true
           if git diff --cached --quiet; then echo "Nessuna variazione"; else
             git commit -m "dati: aggiornamento del $(date -u +%F)"
+            # se nel frattempo è arrivato altro codice su main, i dati si mettono in coda senza conflitti
+            git pull --rebase origin main
             git push
           fi
 
