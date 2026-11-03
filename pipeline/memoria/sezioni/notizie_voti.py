@@ -40,13 +40,13 @@ def voti_unici(cartella) -> dict[str, dict]:
             for v in a.get("voti_finali") or []:
                 if v.get("titolo"):
                     voti.setdefault(chiave(v), v)
-    # anche le votazioni dei temi monitorati
+    # anche le votazioni dei temi monitorati (segnate: si cercano per prime, servono ai cambi di posizione)
     temi_p = cartella.parent / "temi.json"
     for t in json.loads(temi_p.read_text(encoding="utf-8")) if temi_p.exists() else []:
         for prop in t.get("proposizioni", []):
             for v in prop.get("voti", []):
                 if v.get("titolo") and v.get("data"):
-                    voti.setdefault(chiave(v), v)
+                    voti[chiave(v)] = {**voti.get(chiave(v), v), "_tema": True}
     return voti
 
 
@@ -83,7 +83,8 @@ def costruisci(ctx) -> None:
     archivio = json.loads(archivio_p.read_text(encoding="utf-8")) if archivio_p.exists() else {}
     voti = voti_unici(cartella)
     nuovi = errori = 0
-    for k, v in sorted(voti.items(), key=lambda kv: kv[1]["data"], reverse=True):
+    ordine = sorted(voti.items(), key=lambda kv: kv[1]["data"], reverse=True)
+    for k, v in sorted(ordine, key=lambda kv: not kv[1].get("_tema")):
         if k in archivio and archivio[k].get("cercato_il", "") > (dt.date.fromisoformat(v["data"]) + dt.timedelta(days=DOPO)).isoformat():
             continue  # cercato quando i tre giorni erano già passati: non cambia più
         if nuovi >= MAX_NUOVI:

@@ -45,6 +45,7 @@ from .sezioni import agenda as agendamod
 from .sezioni import notizie_dichiarazioni as notiziedichmod
 from .sezioni import notizie_impegni as notizieimpmod
 from .sezioni import notizie_voti as notizievotimod
+from .sezioni import notizie_cambi as notiziecambimod
 from .sezioni import osservatorio as osservatoriomod
 
 log = logging.getLogger("memoria")
@@ -655,6 +656,11 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
             notizievotimod.costruisci(ctx)
         except Exception as e:  # noqa: BLE001 - restano i titoli già trovati
             ctx.errore("voti", "notizie", e)
+            traceback.print_exc()
+        try:
+            notiziecambimod.costruisci(ctx)
+        except Exception as e:  # noqa: BLE001 - restano i titoli già trovati
+            ctx.errore("cambi", "notizie", e)
             traceback.print_exc()
         try:
             osservatoriomod.costruisci(ctx, politici)

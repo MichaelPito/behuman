@@ -526,3 +526,10 @@ def test_titolo_atto_camera():
         == "Abrogazione dell’articolo 99 della Costituzione"
     assert titolo_atto('S. 1779. - "Disposizioni in materia di protezione civile"(approvato dal Senato)') == "Disposizioni in materia di protezione civile"
 
+
+def test_parole_tema_cambi():
+    from memoria.sezioni.notizie_cambi import chiave, parole_tema
+    assert parole_tema("ucraina-cessione-armi") == ["ucraina", "cessione", "armi"]
+    assert parole_tema("autonomia-differenziata-legge-calderoli") == ["autonomia", "differenziata", "calderoli"]
+    assert chiave("m5s", "ucraina-cessione-armi", "2022-03-17") == "m5s:ucraina-cessione-armi:2022-03-17"
+
