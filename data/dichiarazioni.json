@@ -620,15 +620,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 264,
-    "camera": 264,
+    "totale": 265,
+    "camera": 265,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
     "prima": "2022-06-22",
-    "ultima": "2026-10-28"
+    "ultima": "2026-11-03"
    },
-   "recap": "Dal 22 giugno 2022 al 28 ottobre 2026: 264 interventi nell'Aula della Camera (121.907 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
+   "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.470 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
    "valutazione_coerenza": {
     "stato": "con_cambi",
     "temi_confrontabili": 1,
@@ -3958,7 +3958,15 @@
    "url": "https://pagellapolitica.it/fact-checking/italia-g7-salario-minimo",
    "fonte_originale": "https://www.repubblica.it/politica/2023/07/02/news/calenda_terzo_polo_salario_minimo-406347782/",
    "fonte_tipo": "Stampa o altro",
-   "giudizio": "Il segretario di Azione ha ragione."
+   "giudizio": "Il segretario di Azione ha ragione.",
+   "notizie": [
+    {
+     "titolo": "Calenda: \"Ho scritto a Meloni, sul salario minimo riceva le opposizioni\"",
+     "fonte": "la Repubblica",
+     "data": "2023-07-02",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2Z2VnREaWk0OVY2UFhWN1lndlpjY3NfSkhZSnFjb3FoeW1SVWZVS1A2MzhRVmpkTUMza2pjVE9IT0I2Q2dYRzM1QVZYaW0tdXBwbHdEYjRka1BXWk5teGQxUjBLaEZyUmdMNWd6OUdTNnIyckRCdjYzN2tjZEtrdnBYOXJlLXp2SFpKS1V0YVFmeWtDWDhldUlXY9IBoAFBVV95cUxNS3RUUWxxczF6elk3OEFVbUFLNm5QOHJ5OWJscHdTaVZnOXZxb0VsYm1jVl90Z3JrOWtScEVubWFSV1hyUGU5S1NDMV9RaTg3UGIwOUViQmlpSnBuYVY3WEFSQVBPUW5rUWxhTkxrbmxIWkczY0txWkNmMEpUY0ppMlUxMDVOTER1blpBelpIbnZHNklzME1pbWE2ZVVkaW1H?oc=5"
+    }
+   ]
   },
   {
    "slug": "giuseppe-conte",
@@ -3992,7 +4000,15 @@
    "url": "https://pagellapolitica.it/fact-checking/paesi-europa-via-seta-cina",
    "fonte_originale": "https://www.youtube.com/live/rmvcnnrolPI?feature=share&t=1944",
    "fonte_tipo": "Video",
-   "giudizio": "La dichiarazione della presidente del Consiglio è sbagliata."
+   "giudizio": "La dichiarazione della presidente del Consiglio è sbagliata.",
+   "notizie": [
+    {
+     "titolo": "Meloni soddisfatta, in un'Europa che ha deciso di confinare i migranti all'interno delle loro frontiere",
+     "fonte": "Eunews",
+     "data": "2023-06-30",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50cllOQXdfcVNJbm1pZ3RXSmJFUkhxb01uQ1RDNzRaS05HSjZIdGppNkxZM2ZycHFDWTEzaDBjSmdWZkZVOUpqWEVPZGhzZVpwVkZLZUxQRjFKUnM2TkhGazNtUmFuMGdPdzdn?oc=5"
+    }
+   ]
   },
   {
    "slug": "francesco-boccia",
@@ -4240,6 +4256,21 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWNyWDB4dzdHVTR1Rl80WmFFT1FkOUxDcU9GSFNkaENZeWwtTURoY0YtMVRGUTZFbVdEQkw3c2FJWXIyYkdTdGxUZ1hPb1o1SGdaYlVUSjZIVHZ5WEdTMkZvd1psVkEyZGR4UWY5b2xkM01JVmN4bTVIY3RuSkVUM1NsSEdnbmQxci12WXlpMFlyaG1GVFZJSmNrbFV3a2o3TWVRVXhpdjB0M2F3MF8tLU94ODY?oc=5"
     }
    ]
+  },
+  {
+   "slug": "riccardo-ricciardi",
+   "nome": "Riccardo Ricciardi",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-11-03",
+   "testo": "Il problema è, quindi, Stefania Ascari, la nostra collega, che porta alla Camera persone che fanno delle comunicazioni in arabo e chissà cosa dicono, come se l'arabo non si potesse tradurre (Applausi dei deputati del gruppo MoVimento 5 Stelle – Commenti della deputata Kelany). […] Ma il problema è Stefania Ascari, sono le frequentazioni di Stefania Ascari.",
+   "contesto": "Per richiami al Regolamento e sull'ordine dei lavori.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00080.int00120"
   },
   {
    "slug": "giorgia-meloni",
@@ -6249,21 +6280,6 @@
    "testo": "Io le chiedo: ma da oggi, in questo Parlamento, che si chiama Parlamento, si può discutere solo ciò che decide la maggioranza? […] E allora, se uno decide di fare il soprammobile di questa maggioranza , ogni tanto fa le feste di partito e poi urla “siamo liberali, europeisti, popolari”, e dà una spolverata al soprammobile, poi torna in Parlamento e torna a fare il soprammobile.",
    "contesto": "Rinvio del seguito della discussione delle mozioni Richetti ed altri n. 1-00582 , Della Vedova ed altri n. 1-00585 e De Luca, Scerra, Grimaldi ed altri n. 1-00602 in materia di superamento del diritto di veto nelle…",
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00060.int00040"
-  },
-  {
-   "slug": "riccardo-ricciardi",
-   "nome": "Riccardo Ricciardi",
-   "partito": {
-    "slug": "m5s",
-    "nome": "Movimento 5 Stelle",
-    "sigla": "M5S"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-16",
-   "testo": "Bene, quello che accade oggi è che le tre forze del campo progressista - MoVimento 5 Stelle, Partito Democratico e AVS -, pur non avendo l'obbligo di esprimere una mozione unitaria - perché le opposizioni non hanno l'obbligo politico di esprimere una mozione unitaria, l'obbligo politico di…",
-   "contesto": "Rinvio del seguito della discussione delle mozioni Richetti ed altri n. 1-00582 , Della Vedova ed altri n. 1-00585 e De Luca, Scerra, Grimaldi ed altri n. 1-00602 in materia di superamento del diritto di veto nelle…",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00060.int00160"
   }
  ]
 }

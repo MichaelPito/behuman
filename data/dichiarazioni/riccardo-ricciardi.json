@@ -10,14 +10,14 @@
  "dal": "2021-11-03",
  "al": "2026-11-03",
  "riepilogo": {
-  "totale": 264,
-  "camera": 264,
-  "parole_camera": 121907,
+  "totale": 265,
+  "camera": 265,
+  "parole_camera": 122470,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
   "prima": "2022-06-22",
-  "ultima": "2026-10-28",
+  "ultima": "2026-11-03",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 64,
+    "camera": 65,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -66,7 +66,7 @@
    },
    {
     "categoria": "Altri argomenti",
-    "n": 25
+    "n": 26
    },
    {
     "categoria": "Informative e comunicazioni del Governo",
@@ -127,7 +127,7 @@
   "temi": [
    {
     "tema": "Esteri e difesa",
-    "n": 104
+    "n": 105
    },
    {
     "tema": "Unione europea",
@@ -171,7 +171,7 @@
    },
    {
     "tema": "Giustizia",
-    "n": 12
+    "n": 13
    },
    {
     "tema": "Casa e infrastrutture",
@@ -242,7 +242,7 @@
    "2026": [
     {
      "tema": "Esteri e difesa",
-     "n": 25
+     "n": 26
     },
     {
      "tema": "Energia e carburanti",
@@ -255,7 +255,7 @@
    ]
   }
  },
- "recap": "Dal 22 giugno 2022 al 28 ottobre 2026: 264 interventi nell'Aula della Camera (121.907 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (104), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
+ "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.470 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
  "valutazione_coerenza": {
   "stato": "con_cambi",
   "temi_confrontabili": 1,
@@ -4523,6 +4523,23 @@
    ],
    "parole": 569,
    "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00070.int00040"
+  },
+  {
+   "data": "2026-11-03",
+   "leg": 19,
+   "seduta": 737,
+   "argomento": "Per richiami al Regolamento e sull'ordine dei lavori.",
+   "fase": null,
+   "categoria": "Altri argomenti",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "sunto": "Il problema è, quindi, Stefania Ascari, la nostra collega, che porta alla Camera persone che fanno delle comunicazioni in arabo e chissà cosa dicono, come se l'arabo non si potesse tradurre (Applausi dei deputati del gruppo MoVimento 5 Stelle – Commenti della deputata Kelany). […] Ma il problema è Stefania Ascari, sono le frequentazioni di Stefania Ascari.",
+   "temi": [
+    "Esteri e difesa",
+    "Giustizia"
+   ],
+   "parole": 563,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00080.int00120"
   }
  ],
  "governo": [],

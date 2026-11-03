@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-03T14:12:36+00:00",
+ "aggiornato_il": "2026-11-03T15:27:54+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -412,6 +412,7 @@
      "data": "2026-11-02",
      "titolo": "Funerali solenni dei quattro militari caduti in Bosnia: presenti Mattarella, Meloni e le massime cariche dello Stato",
      "testate": [
+      "AGI",
       "Adnkronos",
       "Askanews",
       "Il Fatto Quotidiano",
@@ -420,11 +421,12 @@
       "La Fune",
       "LaC News24",
       "Quotidiano Nazionale",
+      "Studio90 Italia",
       "TGLA7",
       "Virgilio",
       "Vista Agenzia Televisiva Nazionale"
      ],
-     "n_testate": 11,
+     "n_testate": 13,
      "articoli": [
       {
        "titolo": "Funerali solenni dei quattro militari caduti in Bosnia: presenti Mattarella, Meloni e le massime cariche dello Stato",
@@ -11684,6 +11686,82 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVZRQkZUTG9vZk9OUjROdWFEdFNKNFhpOTNFWTlsZHNaQlVCVTN3UnhMZUw2RmhJOTlDRGs2RURKakVUSWFCcldZQnMtQ2hZcERnc09pUm5hWTBqSFdTUTcxMllNRjlzNHA4aFA1ZUpKRjN6UEFmYkUyUGYxMkZ4LV9MMElWZUJqZkpyWGI5ODdzWEIwbTlvdTllcEZXZHlwMTFMbGp4OEtzRUdmUjk3NjJHZVVDZTRaQ0dHZWMxZWJZUQ?oc=5",
+     "data": "2026-11-03",
+     "titolo": "Tagli sulla scuola, Salvini: \"Io non ne sapevo niente, faremo qualche proposta\"",
+     "testate": [
+      "Corriere dello Sport",
+      "Giornale di Brescia",
+      "LaRampa",
+      "QuiNewsValdera.it",
+      "Quotidiano Nazionale",
+      "TAG24 by Unicusano",
+      "Voce della Scuola",
+      "YouTG.NET",
+      "Zazoom Social News"
+     ],
+     "n_testate": 9,
+     "articoli": [
+      {
+       "titolo": "Tagli sulla scuola, Salvini: \"Io non ne sapevo niente, faremo qualche proposta\"",
+       "fonte": "YouTG.NET",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVZRQkZUTG9vZk9OUjROdWFEdFNKNFhpOTNFWTlsZHNaQlVCVTN3UnhMZUw2RmhJOTlDRGs2RURKakVUSWFCcldZQnMtQ2hZcERnc09pUm5hWTBqSFdTUTcxMllNRjlzNHA4aFA1ZUpKRjN6UEFmYkUyUGYxMkZ4LV9MMElWZUJqZkpyWGI5ODdzWEIwbTlvdTllcEZXZHlwMTFMbGp4OEtzRUdmUjk3NjJHZVVDZTRaQ0dHZWMxZWJZUQ?oc=5"
+      },
+      {
+       "titolo": "Tagli alla scuola, Manzi incalza Salvini: «Chieda in Lega»",
+       "fonte": "Voce della Scuola",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFBTQUNBS1NlVVZoNE1zTWRCd1pUYUNuTlIyZG9tZEEzN05Sc0RnZHRfR1ZfbG1xMVJsX1Z6OUxjYm0tOXVyR216NFMyR05EY205c3dKdUNZUUpaTW1IUzNVV0FKY1Q5S280b3d3V1NZcFNQeXhmU09qeGwxSGFZSzlheEVYLWxnTklJcmtR?oc=5"
+      },
+      {
+       "titolo": "Salvini, dei tagli alla scuola non sapevo niente, ora faremo delle proposte",
+       "fonte": "Giornale di Brescia",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGRrdm9heWlHT2hod1htdl9BSFlkMmNVSmppU2swa2FCc1N2ZFZMRnBzU05ySzJmdkxvNDQtUXNTTTdkaWQ5azZoblpkRjR3Y25wc1NOQmNMQ1BWM3N2SXdZWlByNktFTmZsTS1KUDZGa1BwZXFSMFpqSUxZSWNITGFaUWhQdU1QNktiaHVwRm5Xc2cxREdLamQ0R1RIS25vck81SFZXTTZHQVRLcGY5dk4zckRYTVhnaTZrWVowbGdOOS02V3hIdEQ5Zw?oc=5"
+      },
+      {
+       "titolo": "Salvini, dei tagli alla scuola non sapevo niente, ora faremo delle proposte",
+       "fonte": "Quotidiano Nazionale",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblFKcUE2ZHdvdlhWdHEyMWl1MnVZbXJhbjJVbE1iTWFSU19FbElDYjhZUGIwTTRpMjBsOEhkamViRE83QkhaaHdGWHdVTXpmb19WVkwzWVR2djV2SnBHN1NnOXJuOXJMdWVpUGZrbWlrZURlaUVZY1gxT1kyQkNSOA?oc=5"
+      },
+      {
+       "titolo": "Salvini, dei tagli alla scuola non sapevo niente, ora faremo delle proposte",
+       "fonte": "Corriere dello Sport",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFpNajlxNTlpTHlqZFBkMGFDYklmOVZBZTYtYlMxdThpMjdnQ1I2TEVXVDlKYzJ4SUl6V2tiOGZHYzdZN2pRS3ZpTFVxSHdWU2RpWW5fcDZzVm9VMV9pRnFvMmYydFNaN1JpMkpibFZuUHdVRFZHMllENkJQbG9SZmw5cVdjV2xGU2pGYnJ1ZzltRlk5ZnhsVGU1LXphdUowNUdReWI2eElZOXRfVHBQRTlDcGlOSFA0cEZQNE1HbjdtS0RPXzBwZjJKT1pic25wNy1iTnlzVTNNZ3Iya1pMdE5rTVo4TjjSAeoBQVVfeXFMUHVrcUVnbUxrZHR3b0dhSkdDVnRNMjBYRzdJamV2SUxzay1iZDRGYU5meklLM0NOOXdOZFJMbzJvX1lkYV9rRjNnLVJDZlhKWXdrMEJ3TEZXbnhFWjVoM0J0dWs2NXo1Y2tHVXQxamhYeGR0SjBDUjQwT2hscU9rZDE0MGp3NE5yZFdMcEZlbGpqZG1aUE5NWjc5OXB6eHZfdzE1OHJRTEdPNWlybnJtcEREQVFhWTVpN2dVcUxFUG1DMXdNSGZ3Y0FlVFpKYk5PTHdHN05fZUpTRkI4OS1JelpiaHJCNnNFWW9n?oc=5"
+      },
+      {
+       "titolo": "Manovra, Salvini “Tagli alla scuola? Non sapevo nulla, faremo delle proposte” Qui News valdera",
+       "fonte": "QuiNewsValdera.it",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblhWUUgyY2t3YnkzdVQwOUxUb2M5Rl91RWdXdWhpa3NLUVBaZkRGQUVhWXdTSG84Znc0UV9ETmxWUDk2SHV3bW1HRWJ0aHJWSnktR3dOT3hWRWFIS2FIbmVidzhWNVhDemFjVmJhUnNiTzNteWZsbWY1YVpiNkFBZDh1S0ZXd0wxYUZsSkZ0XzFERVB5ZjIxbzl4dktBeVFuZG5TazZRanEteUVaYTNOWlFR?oc=5"
+      },
+      {
+       "titolo": "Salvini “Tagli alla scuola? Non sapevo nulla, ora faremo delle proposte” / Video",
+       "fonte": "LaRampa",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFNiSzRNY1VUR0dHQ1JDMS1uSHNkQkU4ZFZOQnV0UWxNM2k3WEhWUmNveldvOGRjc3JHQnI5c2hXUFUyNkhGVzI2ZHRjcGFJS18yNnJadmlFakptS1FkemVVUmdGTFpFSmtmcHZ6Sm12Z2t6cnRIQWJpMVBuOVhxcjRycmFTTlMzWmV5dXgyOTRVM0lNazhPM245czdlT0xqWkt2Y1oyWVN3Zk5L?oc=5"
+      },
+      {
+       "titolo": "Sulla manovra inizia la resa dei conti Salvini | Non sapevo dei tagli alla scuola e manda un avvertimento agli alleati sulle pensioni",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWkJhWU1VYmhic3FzR0RYVWJXLUFTa2tHank5MllzajNRUTFMdUF0TDBVOEp1bDZBWmRNOW9yVU5TUDI1VGN4aXQzbXc1UUVkVUcxOTBTbjlKeVVNTm0tamhyM29uRkNrcVVjeVZ6V3FtMk92R0l1RTJIS2VSOEZBZXhqWDQyRWFVU3JKQXNnandNUi0zbzRadHlYUFAxa2dkd3FQUUVxMklDb1ZPZkY4dndBNGZqUVdiRkdOYVV0dG9lc2Nuc0tRUXl5V2pFbTFkblBPaUhhUmtWS0V3ek1RUjFOeUtJUV9lZnA3dzQ3OHlCWl8ySHVXd1lDTFhlV0tHMjR5dA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Io non ne sapevo niente, faremo qualche proposta",
+      "Chieda in Lega"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZllEdWJlR3J4eU1tUm1GellSYUpyaGdFa0pBUVNpNW45SXZsTjl3ZzZTWWhxeUhlZjNJcHN5ZTJ0SVBsbVFLeS05UlFMdUZrZ2ZVRVVmSldlMmhGX2pzWVJmdWx4X2R1X3psQ3ZkYVZXbEx2Ri1UajcyaUVXVm9qbEJUZFhJVTVZWVkwMlozcGU0QVFTZkZlTDdFMEd2VWZEdVc3amhYT2NwcUs3VjRER2duTmRxVFRHVG0xTEloV3oxRDFBSFBhTlhDcmU3QVJORHR1UldZaWtHOFc0YkRGUXdpWWdQX1c1and5WE9MTVc5VFhwa05lQWZBSXVyV3lZS0E?oc=5",
      "data": "2026-11-03",
      "titolo": "Salvini, gli alleati rispettino le priorità della Lega, a partire dalle pensioni",
@@ -11976,6 +12054,52 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZWY2eFg4ZUpuVjNLY1I1UjY2R0JQXzZvaFUzLXRpYWR4SFR2enFWT1Rmem5WYS1hZHhSX1UyMGhlYVlSeEZPT2YxQ0VJdVpKcml1eGhqODRZXzJHMTlaZ1ZhTmt3eGs2Wm9YWTdfZkw?oc=5",
+     "data": "2026-11-03",
+     "titolo": "Scuola, Salvini scopre i tagli e Bruxelles frena sul tetto agli stranieri",
+     "testate": [
+      "Stylo24"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Scuola, Salvini scopre i tagli e Bruxelles frena sul tetto agli stranieri",
+       "fonte": "Stylo24",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZWY2eFg4ZUpuVjNLY1I1UjY2R0JQXzZvaFUzLXRpYWR4SFR2enFWT1Rmem5WYS1hZHhSX1UyMGhlYVlSeEZPT2YxQ0VJdVpKcml1eGhqODRZXzJHMTlaZ1ZhTmt3eGs2Wm9YWTdfZkw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2NUOXQzUUNjTzFQakYwcXd5eXlpTHd1elNITVpMUlBmblBPYVZmZEozOXd5NThmX09sa05oMTh2dEhmUm41X3VCVkpodHgxalBaVGFUMFBCTE9HZVVNOGpScmxIVlhiLU03U0plemJDQ0x0UHM5U0VIcUJ6OE9YczVpZ3NWS1RWaHhtUl9IT1dhRTB4T0ExNjhR?oc=5",
+     "data": "2026-11-03",
+     "titolo": "Veronese: ‘La scuola non si tocca’. E al Governo e a Salvini: ‘Stop tagli. Carta del docente a 700 euro’",
+     "testate": [
+      "CityNow"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Veronese: ‘La scuola non si tocca’. E al Governo e a Salvini: ‘Stop tagli. Carta del docente a 700 euro’",
+       "fonte": "CityNow",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2NUOXQzUUNjTzFQakYwcXd5eXlpTHd1elNITVpMUlBmblBPYVZmZEozOXd5NThmX09sa05oMTh2dEhmUm41X3VCVkpodHgxalBaVGFUMFBCTE9HZVVNOGpScmxIVlhiLU03U0plemJDQ0x0UHM5U0VIcUJ6OE9YczVpZ3NWS1RWaHhtUl9IT1dhRTB4T0ExNjhR?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa3p6b0JoWmRVbDIycjE0SERpaUVjQXVqeDA2UkpyMkJueWk0Ujd5LUxGbTJpbWZqbWRRRVpjZVRoeGZmV3B4Z3owOHM2UUc3dkFXWkFVQUNEOE51X1RLOE1qcGhiNjFXMjBJSlFQRC1xN2VxRDBHc1JsMktyWWl1YlhxejVpTkZfWGM0SlJVRGwwQTRQQjNHb0xkLXdoVWFBSEh6NGhtZTBaQXh5eC1TQy1haw?oc=5",
      "data": "2026-11-02",
      "titolo": "Suppletive Chieti, Salvini a Ortona a sostegno del candidato Colantonio",
@@ -12241,14 +12365,13 @@
       "ANSA",
       "Corriere della Sera",
       "Il Sole 24 ORE",
+      "Informazione Scuola",
       "LaPresse",
       "Orizzonte Scuola Notizie",
       "Tecnica della Scuola",
-      "Voce della Scuola",
-      "YouTG.NET",
       "la Repubblica"
      ],
-     "n_testate": 9,
+     "n_testate": 8,
      "articoli": [
       {
        "titolo": "Manovra 2027, il centrosinistra contro i tagli alla scuola. Salvini: \"Sulle banche si può fare di più\"",
@@ -12308,9 +12431,7 @@
       "Non sapevo dei tagli alla scuola",
       "Sono segretario della Lega e non sapevo nulla su tagli a scuola",
       "Gli alleati rispettino la Lega sulle pensioni, non sapevo dei tagli alla scuola",
-      "Tagli alla scuola? Non ne sapevo niente. Faremo delle proposte",
-      "Io non ne sapevo niente, faremo qualche proposta",
-      "Chieda in Lega"
+      "Tagli alla scuola? Non ne sapevo niente. Faremo delle proposte"
      ],
      "verifiche": [
       {
@@ -18954,10 +19075,10 @@
     }
    ],
    "conteggi": {
-    "storie": 210,
+    "storie": 213,
     "polemiche": 24,
     "polemiche_social": 4,
-    "virali": 59,
+    "virali": 60,
     "citazioni": 105,
     "verifiche_non_dimostrabile": 3,
     "confronti_coerente": 3,
@@ -19117,6 +19238,29 @@
        "fonte": "L'eco del sud",
        "data": "2026-11-03",
        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1lqTDBrY2xXd0hEVTFHX2YtVm5CdTdYZGRBT1dSTExuMVRUVHlHcW5mcWs1SEJfclNhaWs3dllHcVc0VFdPNFZCcExPbDh5VDFIRlJTTDZVc0RuWVNjR0F3SlZBZzc4cUoyRmtLa21GcDdDaDh1YWtiWHNrUy1qNmNnUEpFTVBMT2Fpbkszb3F5UlVnMmRvREdGdmw1aGNpZTJTQzlpNG9CVnd3cnNTcktqejBrZXVudHlldQ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUVVIRmVDQWdIbnBNTWxpN0ZIV1U5OE03VkxMc0hBQ0lKUHBfMTFKVlBJSDNSaUtjZjJ6LUQ5NnQ3RXNITWxwVzFPQWlhV3BQTmxZODE4NEtvWUdKVGRXeE9wc0d5cGVUQzFyMC1XcWU5bWp5YmFCcnZFRlhDazdOR0x3V1pSMkNER3FLY0txemhxdDdBLXA1dXdQak5sSklqUFZDMjZxTUVmVWxSNURkUDNJX1JSdEktd3B6akxLTEwxZ01HbldzMjZHOUNScTR0djd6azJObVRKMEt3dDFuU25NRExXMXhiMU9RaEd2Y1VTbjV1TGh1RXVNRTB4OTN0S3ljRVU4UHd5RHhQTmFfMXNR?oc=5",
+     "data": "2026-11-03",
+     "titolo": "Tajani apre al dialogo sulla Legge di bilancio con la Cisl su pensioni, fisco e scuola",
+     "testate": [
+      "The Epoch Times Italia -"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Tajani apre al dialogo sulla Legge di bilancio con la Cisl su pensioni, fisco e scuola",
+       "fonte": "The Epoch Times Italia -",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUVVIRmVDQWdIbnBNTWxpN0ZIV1U5OE03VkxMc0hBQ0lKUHBfMTFKVlBJSDNSaUtjZjJ6LUQ5NnQ3RXNITWxwVzFPQWlhV3BQTmxZODE4NEtvWUdKVGRXeE9wc0d5cGVUQzFyMC1XcWU5bWp5YmFCcnZFRlhDazdOR0x3V1pSMkNER3FLY0txemhxdDdBLXA1dXdQak5sSklqUFZDMjZxTUVmVWxSNURkUDNJX1JSdEktd3B6akxLTEwxZ01HbldzMjZHOUNScTR0djd6azJObVRKMEt3dDFuU25NRExXMXhiMU9RaEd2Y1VTbjV1TGh1RXVNRTB4OTN0S3ljRVU4UHd5RHhQTmFfMXNR?oc=5"
       }
      ],
      "polemica": false,
@@ -24910,7 +25054,7 @@
     }
    ],
    "conteggi": {
-    "storie": 164,
+    "storie": 165,
     "polemiche": 13,
     "polemiche_social": 1,
     "virali": 46,
@@ -28316,6 +28460,29 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakpKdmZMSDJ0c080bC1WQVJDcWozWWpDZjR5RFZwNjhRSnNhWG9wQ0dqUW1GV21KNEFKME1TcWtvWGtBWk41RlVvVDgyeHBzRExMdTZMR1MxWm4zLUdQVEJHbFpfZTBJQjBrdmtGNmJ5WkdsLU9BZ3U1dWU4TXRseEcwLWEtdDEtY1pPc3U5cnRUQkNzajVXY2xrc0J6YWc1Vlc4Y0M3TDBwaTdQRDA4dTdCcVZxeUZDaFFncThxSlU2Nk5Vb1dPcWVFSi0xR0Y3Q0hTOTVQMVNBN2V6cW5rR2d6VEFFVWpMLXRmT3J0SmJUOXNGNTJWTmo5TDlQNGc?oc=5",
+     "data": "2026-11-03",
+     "titolo": "«Prima di essere militari erano i loro bambini»: l’addio di Crosetto ai quattro caduti in Bosnia e il monumento che unisce chi si odiava da generazioni",
+     "testate": [
+      "infodifesa"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "«Prima di essere militari erano i loro bambini»: l’addio di Crosetto ai quattro caduti in Bosnia e il monumento che unisce chi si odiava da generazioni",
+       "fonte": "infodifesa",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakpKdmZMSDJ0c080bC1WQVJDcWozWWpDZjR5RFZwNjhRSnNhWG9wQ0dqUW1GV21KNEFKME1TcWtvWGtBWk41RlVvVDgyeHBzRExMdTZMR1MxWm4zLUdQVEJHbFpfZTBJQjBrdmtGNmJ5WkdsLU9BZ3U1dWU4TXRseEcwLWEtdDEtY1pPc3U5cnRUQkNzajVXY2xrc0J6YWc1Vlc4Y0M3TDBwaTdQRDA4dTdCcVZxeUZDaFFncThxSlU2Nk5Vb1dPcWVFSi0xR0Y3Q0hTOTVQMVNBN2V6cW5rR2d6VEFFVWpMLXRmT3J0SmJUOXNGNTJWTmo5TDlQNGc?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaTVldVppQXROQlJrdm9Yai0xQW5iTlRaR0ZkaDA5S0xYZkdfNGp3MkNFMFJKcWlIZkY4Ni0xMlF5bU1VUkJnLXMxQS15aE93YUFkSTR5dm45SnAtd2RlWHozMVVYb3NuNHh0MTZWT2JhMVRKYV9BTTdvQ0JUQXF6YXNHd0twd3hTOGxuVHoyTnRDRVl2bDhkYlFSYkVjaC1nRWRBMHh2Tk1VMDJQNzZSU3JLM0lRY1ZnWHBDVmZ3?oc=5",
      "data": "2026-11-02",
      "titolo": "Militari morti in Bosnia, le salme rientrano a Ciampino: ad attenderle Meloni e Crosetto",
@@ -31301,7 +31468,7 @@
     }
    ],
    "conteggi": {
-    "storie": 83,
+    "storie": 84,
     "polemiche": 12,
     "polemiche_social": 0,
     "virali": 24,
@@ -43180,11 +43347,12 @@
      "titolo": "Ecomondo apre i battenti, Rimini capitale della green economy: 1.800 espositori e il ministro Pichetto Fratin",
      "testate": [
       "Cagliaripad.it",
+      "Chiamami Città",
       "Newsrimini",
       "Olbianova",
       "RiminiToday"
      ],
-     "n_testate": 4,
+     "n_testate": 5,
      "articoli": [
       {
        "titolo": "Ecomondo apre i battenti, Rimini capitale della green economy: 1.800 espositori e il ministro Pichetto Fratin",
@@ -43209,13 +43377,26 @@
        "fonte": "Cagliaripad.it",
        "data": "2026-11-02",
        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmMwMWJuVmZMLVJhZlJyN1B6a1Q1dl9pdGloNFVXTkgxNUdGTkVTZXB3YkNNSWJ3T1V6ZFJIUjZVTzN4dnRseHBhdy1HckNJam96NTFIZ3Z2cTVJOHVSd3pWOTZESFdjRjZROXFuZlQ3U2N4anAzNkJCcExRajhkeE5MLUE2bFdnaUoyb1dldGRhWXZwOXgyRW9KRE16cnpIT1FXMXlOaDZFd0gzREVzLTZtVExQS2s?oc=5"
+      },
+      {
+       "titolo": "Ecomondo, via alla 29^ edizione. Taglio del nastro con il ministro Fratin",
+       "fonte": "Newsrimini",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1p1UlpBR0xtYXdZVmtkM3k3QTNQYVBleVk4THlmQUlWOTZYaEpibkxmNkg1VzRPRWdaSV8yVWRTTmg0dm1MTm91Q0RoWmdyYi1nUlpTNS1XREYtclVIV0ZUSklaSzE4R3BJUU1zTmJKVW9jXzl3UFAwWUZWZTJ3cnViWXkzbmJQREhGaVNkdlBUSlI4Unh1UFI3czJTNWtvaXA3UXFyTTg5Mms?oc=5"
+      },
+      {
+       "titolo": "Ecomondo, Pichetto Fratin: \"La sostenibilità non è soltanto tutela dell’ambiente\"",
+       "fonte": "Chiamami Città",
+       "data": "2026-11-03",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd1h6enFsajVLcUpZUThQUDZnSk5mcWtyMlF6d19pNVltLTVqcVNaTTJINUY1dkJEelZyZGxBZkJJVE1MU2xKX01hQXczLW9VdHZWYzAyNTliTnR6ZTlUUFotZzJjclFsU2NSLWhyZ0xMQmFKZHNLei1pMWN6cTRPMzVoMFRRRzlMdDNIQ2x4SHJDNVRzalJsMzNpZ1JyeFAyaWJON0NiNmdYZw?oc=5"
       }
      ],
      "polemica": false,
      "social": false,
      "virale": true,
      "citazioni": [
-      "Assurdo portarle in Sardegna"
+      "Assurdo portarle in Sardegna",
+      "La sostenibilità non è soltanto tutela dell’ambiente"
      ],
      "verifiche": [],
      "confronti": []
@@ -44217,7 +44398,7 @@
     "polemiche": 1,
     "polemiche_social": 0,
     "virali": 14,
-    "citazioni": 28,
+    "citazioni": 29,
     "giorni": 45
    }
   },
@@ -56111,8 +56292,8 @@
     "polemiche_social": 0,
     "virali": 47,
     "citazioni": 71,
-    "verifiche_non_dimostrabile": 1,
     "verifiche_confermata": 1,
+    "verifiche_non_dimostrabile": 1,
     "giorni": 45
    }
   },
@@ -68017,6 +68198,7 @@
    "data": "2026-11-02",
    "titolo": "Funerali solenni dei quattro militari caduti in Bosnia: presenti Mattarella, Meloni e le massime cariche dello Stato",
    "testate": [
+    "AGI",
     "Adnkronos",
     "Askanews",
     "Il Fatto Quotidiano",
@@ -68025,11 +68207,12 @@
     "La Fune",
     "LaC News24",
     "Quotidiano Nazionale",
+    "Studio90 Italia",
     "TGLA7",
     "Virgilio",
     "Vista Agenzia Televisiva Nazionale"
    ],
-   "n_testate": 11,
+   "n_testate": 13,
    "articoli": [
     {
      "titolo": "Funerali solenni dei quattro militari caduti in Bosnia: presenti Mattarella, Meloni e le massime cariche dello Stato",
@@ -68594,14 +68777,13 @@
     "ANSA",
     "Corriere della Sera",
     "Il Sole 24 ORE",
+    "Informazione Scuola",
     "LaPresse",
     "Orizzonte Scuola Notizie",
     "Tecnica della Scuola",
-    "Voce della Scuola",
-    "YouTG.NET",
     "la Repubblica"
    ],
-   "n_testate": 9,
+   "n_testate": 8,
    "articoli": [
     {
      "titolo": "Manovra 2027, il centrosinistra contro i tagli alla scuola. Salvini: \"Sulle banche si può fare di più\"",
@@ -68661,9 +68843,7 @@
     "Non sapevo dei tagli alla scuola",
     "Sono segretario della Lega e non sapevo nulla su tagli a scuola",
     "Gli alleati rispettino la Lega sulle pensioni, non sapevo dei tagli alla scuola",
-    "Tagli alla scuola? Non ne sapevo niente. Faremo delle proposte",
-    "Io non ne sapevo niente, faremo qualche proposta",
-    "Chieda in Lega"
+    "Tagli alla scuola? Non ne sapevo niente. Faremo delle proposte"
    ],
    "verifiche": [
     {
