@@ -2,7 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Emiciclo from "../../components/Emiciclo.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, ETICHETTA_POSIZIONE, temi, totaliVotazione, votazioniTemi } from "../../lib/data";
+import { dataIt, ETICHETTA_POSIZIONE, temi, totaliVotazione, votazioniTemi, annoDi } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -37,7 +37,7 @@ const vt = votazioniTemi();
           {p.voti.map((v, i) => {
             const tot = totaliVotazione(vt[v.id]);
             return (
-              <article class="card stack rise" style={`--i:${i}`}>
+              <article class="card stack rise" style={`--i:${i}`} data-anno={annoDi(v.data)}>
                 <div class="row" style="justify-content:space-between">
                   <span class="mono small">{dataIt(v.data)}</span>
                   <span class="pill">{v.camera}</span>

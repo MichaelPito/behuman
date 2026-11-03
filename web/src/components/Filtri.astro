@@ -137,7 +137,10 @@ const gruppi: { chiave: string; titolo: string; opzioni: [string, string, number
         });
         const crit = ordine.value;
         const ord = [...cards].sort((a, b) =>
-          crit === "presenza" ? Number(b.dataset.presenza) - Number(a.dataset.presenza)
+          crit === "presenza"
+            ? (document.documentElement.dataset.periodo === "anno"
+              ? Number(b.dataset.presenzaAnno) - Number(a.dataset.presenzaAnno)
+              : Number(b.dataset.presenza) - Number(a.dataset.presenza))
           : crit === "cambi" ? Number(b.dataset.cambi) - Number(a.dataset.cambi) || a.dataset.cognome!.localeCompare(b.dataset.cognome!, "it")
           : a.dataset.cognome!.localeCompare(b.dataset.cognome!, "it"),
         );
@@ -162,7 +165,11 @@ const gruppi: { chiave: string; titolo: string; opzioni: [string, string, number
     ordine.onchange = () => applica(true);
     azzera.onclick = () => { chips.forEach((c) => c.setAttribute("aria-pressed", "false")); testo.value = ""; applica(true); };
     cards.forEach((el) => (el.style.viewTransitionName = `card-${el.getAttribute("href")!.split("/").filter(Boolean).pop()}`));
+    riordina = () => applica(false);
     applica(false);
   }
+  // con il periodo cambiato, l'ordine per presenza usa la presenza dell'anno in corso
+  let riordina: () => void = () => {};
+  document.addEventListener("periodo-cambiato", () => riordina());
   document.addEventListener("astro:page-load", init);
 </script>

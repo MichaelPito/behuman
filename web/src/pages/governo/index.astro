@@ -183,6 +183,7 @@ const ESITO_CLASSE: Record<string, string> = {
         {leggi.map((l) => (
           <li
             data-item
+            data-anno={l.data.slice(0, 4)}
             data-testo={`${l.titolo} ${l.titolo_breve ?? ""} ${l.numero}/${l.data.slice(0, 4)}`}
             data-f-iniziativa={l.del_governo ? "governo" : l.iniziativa === "Parlamentare" ? "parlamento" : "altro"}
             data-f-tipo={l.tipo.replace(/\W+/g, "-")}

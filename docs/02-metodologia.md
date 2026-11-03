@@ -214,3 +214,11 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   al giorno); l'archivio di Google News prima del 2022 è scarso.
 - Esclusi fonti ufficiali, social, articoli ripubblicati con una data vecchia nel titolo e omonimi; max 2 per testata.
   Archivio in `data/notizie-impegni.json`.
+
+## 3-octies. Periodo: tutto o solo l'anno in corso
+- Selettore in alto (scelta salvata nel browser): con l'anno in corso si vedono solo gli elementi datati di
+  quell'anno (voti, dichiarazioni, leggi, atti, notizie); incarichi, gruppi e coalizioni se in corso nell'anno.
+- Presenza al voto e voti come il gruppo ricalcolati sul solo anno (presenze mensili e voti finali e di
+  fiducia dell'anno), con le stesse regole del periodo intero; `presenza_anno` in `data/politici.json`.
+- Promesse prima/dopo l'incarico e «I numeri» non cambiano: confrontano per definizione un prima e un dopo.
+

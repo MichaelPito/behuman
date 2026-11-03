@@ -1,6 +1,7 @@
 ---
 import Icon from "./Icon.astro";
 import { u } from "../lib/url";
+import { ANNO } from "../lib/data";
 
 export const NAV: [string, string][] = [
   ["/politici/", "Politici"],
@@ -29,13 +30,17 @@ const attivo = (href: string) => path.startsWith(u(href));
           return <circle cx={17 + 7.5 * Math.cos(a)} cy={18 - 7.5 * Math.sin(a)} r="2.1" fill={i < 3 ? "var(--accent)" : "var(--neutral)"} />;
         })}
       </svg>
-      Memoria Politica
+      <span class="brand-nome">Memoria Politica</span>
     </a>
     <nav class="nav" aria-label="Principale" data-nav>
       <span class="nav-ind" data-ind></span>
       {NAV.map(([href, label]) => <a href={u(href)} aria-current={attivo(href) ? "page" : undefined}>{label}</a>)}
     </nav>
     <div class="header-actions">
+      <div class="periodo periodo-barra" role="group" aria-label="Periodo dei dati" title="Periodo: tutti gli anni o solo l'anno in corso">
+        <button type="button" data-periodo-scegli="tutto" aria-pressed="true">Tutto</button>
+        <button type="button" data-periodo-scegli="anno" aria-pressed="false">{ANNO}</button>
+      </div>
       <button class="search-btn" type="button" data-open-search aria-label="Cerca">
         <Icon name="search" /><span class="label">Cerca</span><kbd>/</kbd>
       </button>
@@ -49,6 +54,13 @@ const attivo = (href: string) => path.startsWith(u(href));
   </div>
   <div class="mobile-nav" id="mobile-nav" data-mobile>
     <div class="wrap">
+      <div class="periodo-riga">
+        <span class="small muted">Periodo dei dati</span>
+        <div class="periodo" role="group" aria-label="Periodo dei dati">
+          <button type="button" data-periodo-scegli="tutto" aria-pressed="true">Tutto</button>
+          <button type="button" data-periodo-scegli="anno" aria-pressed="false">Solo {ANNO}</button>
+        </div>
+      </div>
       <ul>
         {NAV.map(([href, label]) => (
           <li><a href={u(href)} aria-current={attivo(href) ? "page" : undefined}>{label}<Icon name="arrow" class="tiny" /></a></li>
@@ -64,6 +76,25 @@ const attivo = (href: string) => path.startsWith(u(href));
 </style>
 
 <script>
+  // periodo: «Tutto» o solo l'anno in corso; la scelta resta mentre si naviga (localStorage)
+  function segnaPeriodo() {
+    const anno = document.documentElement.dataset.periodo === "anno";
+    document.querySelectorAll<HTMLButtonElement>("[data-periodo-scegli]").forEach((b) => {
+      if (b.closest(".periodo")) b.setAttribute("aria-pressed", String((b.dataset.periodoScegli === "anno") === anno));
+    });
+  }
+  document.addEventListener("click", (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>("[data-periodo-scegli]");
+    if (!b) return;
+    const anno = b.dataset.periodoScegli === "anno";
+    try { localStorage.setItem("periodo", anno ? "anno" : "tutto"); } catch (err) { /* resta solo per questa pagina */ }
+    if (anno) document.documentElement.dataset.periodo = "anno";
+    else delete document.documentElement.dataset.periodo;
+    segnaPeriodo();
+    document.dispatchEvent(new CustomEvent("periodo-cambiato"));
+  });
+  document.addEventListener("astro:page-load", segnaPeriodo);
+
   function aggiornaIndicatore() {
     const nav = document.querySelector<HTMLElement>("[data-nav]");
     const ind = nav?.querySelector<HTMLElement>("[data-ind]");

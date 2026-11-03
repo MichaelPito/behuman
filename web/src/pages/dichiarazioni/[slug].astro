@@ -127,7 +127,7 @@ const perAnno = Object.fromEntries(anni.map((a) => [a, voci.filter((v) => v.data
               <summary><span><span class="mono">{a}</span> <span class="muted small">· {perAnno[a].length} dichiarazioni</span></span><Icon name="chev" class="chev" /></summary>
               <div class="body"><ol class="timeline">
                 {perAnno[a].map((v) => (
-                  <li data-item data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : v.fonte === "discussa" ? "sun" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
+                  <li data-item data-anno={a} data-tipo={v.fonte === "governo" ? "partito" : v.fonte === "senato" ? "gruppo" : v.fonte === "discussa" ? "sun" : undefined} data-testo={`${v.titolo} ${v.testo ?? ""}`}
                     data-f-fonte={v.fonte} data-f-anno={a} data-f-occasione={v.categoria?.replace(/\W+/g, "-") ?? ""} data-f-tema={(v.temi ?? []).map(slugTema).join(" ")}>
                     <span class="when">{dataIt(v.data)} · {ETICHETTA[v.fonte]}</span>
                     <div class="what">{v.titolo}</div>

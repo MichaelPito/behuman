@@ -5,7 +5,7 @@ import Coerenza from "../../components/Coerenza.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import ScalaPosizione from "../../components/ScalaPosizione.astro";
-import { dataIt, ETICHETTA_ORIENTAMENTO, ordinaPerData, partiti, partito, politici, proposizioniIndice } from "../../lib/data";
+import { dataIt, ETICHETTA_ORIENTAMENTO, ordinaPerData, partiti, partito, politici, proposizioniIndice, annoDi } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -73,7 +73,7 @@ const prog = p.ideologia?.programma_2022;
     <div class="card">
       <ol class="timeline">
         {[...p.coalizioni].sort((a, b) => a.inizio.localeCompare(b.inizio)).map((c) => (
-          <li>
+          <li data-anno={annoDi(c.inizio, c.fine)}>
             <div class="when">{dataIt(c.inizio)} → {c.fine ? dataIt(c.fine) : "in corso"}</div>
             <div class="what">{c.governo}: {c.ruolo}</div>
             {c.nota && <div class="tiny muted">{c.nota}</div>}

@@ -8,7 +8,7 @@ import Storia from "../../components/Storia.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import PresenzeChart from "../../components/PresenzeChart.astro";
-import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, osservatorio, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice } from "../../lib/data";
+import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, osservatorio, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice, ANNO, annoDi, fedeltaNellAnno, presenzaNellAnno } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -101,11 +101,22 @@ const sezioni: [string, string][] = [
         <span class="eyebrow">Sintesi dai dati</span>
         <ul class="sintesi">{(p.sintesi ?? []).map((s) => <li>{s}</li>)}</ul>
         <p class="tiny muted">Frasi composte automaticamente con i numeri di questa pagina, senza aggettivi né interpretazioni. <a href={u("/faq/#sintesi")}>Come funziona</a></p>
+        <p class="tiny muted" data-solo="anno">Queste frasi riguardano tutto il periodo analizzato; presenze e voti del {ANNO} sono qui accanto.</p>
       </div>
       <div class="stack">
         <Coerenza v={p.valutazione_coerenza} />
+        {Object.entries(p.indicatori).map(([camera, i]) => {
+          const pa = presenzaNellAnno(p.parlamento[camera]?.presenze_mensili as any);
+          return (
+          <div class="stat" data-solo="anno">
+            <div class="row" style="justify-content:space-between"><span class="eyebrow">Presenza al voto nel {ANNO} · {camera}</span><span class="v num">{pa ? pct(pa.percentuale) : "—"}</span></div>
+            <div class="meter" style={`--w:${pa?.percentuale ?? 0}%`}><span></span></div>
+            <div class="l">{pa ? `${pa.presenti.toLocaleString("it-IT")} su ${pa.totale.toLocaleString("it-IT")} votazioni del ${ANNO}.` : `Nessuna votazione registrata nel ${ANNO}.`}</div>
+          </div>
+          );
+        })}
         {Object.entries(p.indicatori).map(([camera, i]) => (
-          <div class="stat">
+          <div class="stat" data-solo="tutto">
             <div class="row" style="justify-content:space-between"><span class="eyebrow">Presenza al voto · {camera}</span><span class="v num">{pct(i.presenza.percentuale)}</span></div>
             <div class="meter" style={`--w:${i.presenza.percentuale ?? 0}%; --m:${med[camera] ?? 0}%`}><span></span>{med[camera] != null && <i title="mediana"></i>}</div>
             <div class="l">
@@ -115,8 +126,17 @@ const sezioni: [string, string][] = [
             </div>
           </div>
         ))}
+        {Object.entries(p.indicatori).map(([camera, i]) => {
+          const fa = fedeltaNellAnno(p.parlamento[camera]?.voti_finali as any);
+          return (
+          <div class="stat" data-solo="anno">
+            <div class="row" style="justify-content:space-between"><span class="eyebrow">Voti come il gruppo nel {ANNO} · {camera}</span><span class="v num">{fa ? pct(fa.percentuale) : "—"}</span></div>
+            <div class="l">{fa ? `${fa.allineati} voti finali o di fiducia del ${ANNO} in linea con il gruppo, ${fa.difformi} diversi.` : `Nessun voto finale o di fiducia nel ${ANNO}.`}</div>
+          </div>
+          );
+        })}
         {Object.entries(p.indicatori).map(([camera, i]) => (
-          <div class="stat">
+          <div class="stat" data-solo="tutto">
             <div class="row" style="justify-content:space-between"><span class="eyebrow">Voti come il gruppo · {camera}</span><span class="v num">{pct(i.fedelta_gruppo.percentuale_allineati)}</span></div>
             <div class="l">{i.fedelta_gruppo.allineati} voti finali o di fiducia in linea con il gruppo, {i.fedelta_gruppo.difformi} diversi.</div>
           </div>
@@ -137,7 +157,7 @@ const sezioni: [string, string][] = [
     <div class="section-head"><h2>Cambi di posizione</h2><span class="small muted">dal più vecchio al più recente</span></div>
     <p class="small muted prose">Un cambio c'è quando, sullo stesso tema, una presa di posizione «a favore» è seguita da una «contro» (o viceversa). Entrambe sono mostrate con la fonte.</p>
     {cambi.length === 0 && <p class="callout neutral">Nessun cambio rilevato sui temi monitorati finora.</p>}
-    <div class="grid">{cambi.map((c, i) => <Cambio c={c} i={i} />)}</div>
+    <div class="grid">{cambi.map((c, i) => <div style="display:contents" data-anno={annoDi(c.dopo.data)}><Cambio c={c} i={i} /></div>)}</div>
   </section>
 
   <section class="section" id="percorso">
@@ -145,7 +165,7 @@ const sezioni: [string, string][] = [
     <div class="card">
       <ol class="timeline">
         {percorso.map((e) => (
-          <li data-tipo={e.tipo}>
+          <li data-tipo={e.tipo} data-anno={annoDi(e.inizio, e.fine)}>
             <div class="when">{e.inizio ? dataIt(e.inizio) : "data non registrata"} → {e.fine ? dataIt(e.fine) : "in corso"}</div>
             <div class="what">{e.titolo}</div>
             <div class="tiny muted">
@@ -178,7 +198,7 @@ const sezioni: [string, string][] = [
         </div>
         <p class="small muted prose">«Linea del gruppo» è il voto più frequente tra i colleghi dello stesso gruppo in quella votazione. Gli anni vanno dal più vecchio al più recente.</p>
         {anni.map(([anno, voti], k) => (
-          <details class="disc" open={k === anni.length - 1}>
+          <details class="disc" open={k === anni.length - 1} data-anno={anno}>
             <summary><span>{anno} <span class="muted small">· {voti.length} voti</span></span><Icon name="chev" class="chev" /></summary>
             <div class="body">
               <div class="table-wrap">
@@ -211,9 +231,9 @@ const sezioni: [string, string][] = [
     <h2>Posizioni per tema</h2>
     {perProp.length === 0 && <p class="callout neutral">Nessuna posizione registrata sui temi monitorati.</p>}
     {perProp.map(([pid, lista]) => (
-      <details class="disc">
+      <details class="disc" data-gruppo-anno>
         <summary><span>«{props[pid]?.testo ?? pid}» <span class="muted small">· {lista.length} {lista.length === 1 ? "presa" : "prese"} di posizione</span></span><Icon name="chev" class="chev" /></summary>
-        <div class="body"><ol class="timeline">{lista.map((x) => <li><PosizioneRiga p={x} /></li>)}</ol></div>
+        <div class="body"><ol class="timeline">{lista.map((x) => <li data-anno={annoDi(x.data)}><PosizioneRiga p={x} /></li>)}</ol></div>
       </details>
     ))}
   </section>
@@ -224,13 +244,13 @@ const sezioni: [string, string][] = [
     {discusse.length > 0 && (
       <>
         <h3 class="sotto">Le più discusse, le ultime</h3>
-        <div class="grid discusse">{discusse.map((v) => <Discussa v={v} />)}</div>
+        <div class="grid discusse">{discusse.map((v) => <div style="display:contents" data-anno={annoDi(v.data ?? v.data_verifica)}><Discussa v={v} /></div>)}</div>
       </>
     )}
     {dichiarazioni.length > 0 && (
       <>
         <h3 class="sotto">Dichiarazioni usate per le posizioni sui temi</h3>
-        <ol class="timeline">{dichiarazioni.map((x) => <li><PosizioneRiga p={x} /></li>)}</ol>
+        <ol class="timeline">{dichiarazioni.map((x) => <li data-anno={annoDi(x.data)}><PosizioneRiga p={x} /></li>)}</ol>
       </>
     )}
     {!dich && dichiarazioni.length === 0 && (
@@ -255,7 +275,7 @@ const sezioni: [string, string][] = [
     {news.length === 0 && <p class="muted">Nessuno nel periodo raccolto.</p>}
     <ol class="timeline">
       {news.map((a) => (
-        <li><div class="when">{dataIt(a.data)} · {a.fonte}</div><a href={a.url} rel="noopener" target="_blank">{a.titolo}</a></li>
+        <li data-anno={annoDi(a.data)}><div class="when">{dataIt(a.data)} · {a.fonte}</div><a href={a.url} rel="noopener" target="_blank">{a.titolo}</a></li>
       ))}
     </ol>
   </section>

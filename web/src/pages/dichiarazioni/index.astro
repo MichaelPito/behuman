@@ -5,7 +5,7 @@ import Discussa from "../../components/Discussa.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
 import Giornali from "../../components/Giornali.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, indiceDichiarazioni, partiti, perCognome } from "../../lib/data";
+import { dataIt, indiceDichiarazioni, partiti, perCognome, annoDi } from "../../lib/data";
 import { u } from "../../lib/url";
 
 const idx = indiceDichiarazioni();
@@ -52,7 +52,7 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
         <FiltroLista id="discusse" gruppi={gruppi} placeholder="Cerca nelle frasi: tasse, migranti, sanità…" nome={["dichiarazione", "dichiarazioni"]} limite={24} />
         <div class="grid discusse" data-lista="discusse">
           {discusse.map((d) => (
-            <div data-item data-testo={`${d.frase} ${d.nome}`} data-f-schieramento={d.schieramento} data-f-politico={d.slug} data-f-anno={anno(d)} data-f-fonte={d.fonte_tipo.replace(/\W+/g, "-")}>
+            <div data-item data-anno={anno(d)} data-testo={`${d.frase} ${d.nome}`} data-f-schieramento={d.schieramento} data-f-politico={d.slug} data-f-anno={anno(d)} data-f-fonte={d.fonte_tipo.replace(/\W+/g, "-")}>
               <Discussa v={d} nome={d.nome} slug={d.slug} />
             </div>
           ))}
@@ -90,7 +90,7 @@ const totale = pol.reduce((n, p) => n + p.riepilogo.totale, 0);
     <div class="section-head"><h2>Le ultime dichiarazioni ufficiali</h2></div>
     <ol class="timeline">
       {idx.recenti.slice(0, 40).map((r) => (
-        <li>
+        <li data-anno={annoDi(r.data)}>
           <span class="when">{dataIt(r.data)} · {r.fonte === "Camera" ? "Aula della Camera" : "governo.it"}</span>
           <div class="what"><a href={u(`/dichiarazioni/${r.slug}/`)}>{r.nome}</a> <span class="muted small">— {r.contesto}</span></div>
           <p class="small estratto"><span class="etichetta">In sintesi, con le sue parole</span> «{r.testo}»</p>

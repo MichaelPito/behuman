@@ -494,3 +494,14 @@ def test_notizie_filtri_social_e_vecchie():
     assert not tieni({"titolo": "Giorgetti promette: bollette in calo del 40% 29/01/2023", "fonte": "L'eco del sud", "data": "2026-10-22"}, "Giancarlo Giorgetti")
     assert tieni({"titolo": "Giorgetti: alta inflazione 'drammatica conseguenza' caro energia", "fonte": "ANSA", "data": "2026-10-30"}, "Giancarlo Giorgetti")
 
+
+def test_presenza_anno():
+    from memoria.build import presenza_anno
+    p = {"parlamento": {"Camera": {"presenze_mensili": [
+        {"mese": "2025-12", "presenti": 10, "totale": 10},
+        {"mese": "2026-01", "presenti": 3, "totale": 4},
+        {"mese": "2026-02", "presenti": 0, "totale": 4},
+    ]}}}
+    assert presenza_anno(p, 2026) == {"Camera": {"anno": 2026, "presenti": 3, "totale": 8, "percentuale": 37.5}}
+    assert presenza_anno(p, 2024) == {}
+
