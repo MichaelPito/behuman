@@ -7,8 +7,8 @@
   "sigla": "PD"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-02",
- "al": "2026-11-02",
+ "dal": "2021-11-03",
+ "al": "2026-11-03",
  "riepilogo": {
   "totale": 106,
   "camera": 72,
@@ -511,7 +511,15 @@
    "url": "https://pagellapolitica.it/fact-checking/numero-morti-gaza-oltre-50-mila",
    "fonte_originale": "https://youtu.be/L03h7WHJPok?si=zUiSny_6Yy07l2o7",
    "fonte_tipo": "Video",
-   "giudizio": "I numeri citati dalla segretaria del PD sono attendibili."
+   "giudizio": "I numeri citati dalla segretaria del PD sono attendibili.",
+   "notizie": [
+    {
+     "titolo": "Schlein a Meloni: \"A Gaza c'è l'inferno in terra, il suo silenzio è complice\"",
+     "fonte": "La Stampa",
+     "data": "2025-05-21",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVJJTHoyc2dmTjE4czhlRm82VTBzMUc4NG4yOXZ2SWpRbVNUZUJ0VmVpc09CbC1LYzIzNHVzWnlaeXpUVW5QUjg3RlJCbzE3dFdfcWxKQ250Y2lReXlXRnBaVy1nX1YwVUZzMHdEWDhKU2NNTmRMbVhEdU9OaW1sUVNveDBRbjBEaUJfNzJETm9oUFZxM04yMEF0d3BjbGkxSXliSF9Mc2lBZnJUdGk1OERQU25PZ3h4VjBCVUtMSC1QVmtKOTlYT2RKTQ?oc=5"
+    }
+   ]
   },
   {
    "data": "2025-10-14",

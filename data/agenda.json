@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-02T20:44:18+00:00",
+ "aggiornato_il": "2026-11-03T06:55:32+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -254,6 +254,12 @@
    ],
    "notizie": [
     {
+     "titolo": "Edilizia pubblica in Calabria, pressing per riformare la legge sui canoni: focus su occupazioni abusive e Scordovillo",
+     "fonte": "Calabria 7",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekJ1Rlh1T1FHWW0zTHRoOHdCRGRldkRXblZBNmJKZGVGVjRVaHByOUZPdzA4aGdvQWRsUzhwUmo2cjdRTGtXaHVLcEh2VzgtSmZFRnlvNndpVkYzSXpGSDlVd0VqdnRiRVNTdVRmbzdpYVZGS1JTcENtY0JLNGtsOXZfd1BBQ0taVFd4cEF6VTV4dkw5M1FhNVdZLVJIdEVoQ0J3bTVmQngtN2lZNjFvOWw4bVFweHY0VmZ2OUZPeHZWMGY5VkN5TloydGhiNmxLRHBFMlJTR3c3akpEbEF4MGtPMA?oc=5"
+    },
+    {
      "titolo": "Nuovo regolamento Edilizia Residenziale Pubblica: sette emendamenti delle minoranze dell'Unione Terre d'Argine",
      "fonte": "VOCE.IT",
      "data": "2026-10-28",
@@ -292,6 +298,12 @@
    "proponenti_monitorati": [],
    "abbinate": [],
    "notizie": [
+    {
+     "titolo": "Edilizia pubblica in Calabria, pressing per riformare la legge sui canoni: focus su occupazioni abusive e Scordovillo",
+     "fonte": "Calabria 7",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekJ1Rlh1T1FHWW0zTHRoOHdCRGRldkRXblZBNmJKZGVGVjRVaHByOUZPdzA4aGdvQWRsUzhwUmo2cjdRTGtXaHVLcEh2VzgtSmZFRnlvNndpVkYzSXpGSDlVd0VqdnRiRVNTdVRmbzdpYVZGS1JTcENtY0JLNGtsOXZfd1BBQ0taVFd4cEF6VTV4dkw5M1FhNVdZLVJIdEVoQ0J3bTVmQngtN2lZNjFvOWw4bVFweHY0VmZ2OUZPeHZWMGY5VkN5TloydGhiNmxLRHBFMlJTR3c3akpEbEF4MGtPMA?oc=5"
+    },
     {
      "titolo": "Nuovo regolamento Edilizia Residenziale Pubblica: sette emendamenti delle minoranze dell'Unione Terre d'Argine",
      "fonte": "VOCE.IT",
@@ -517,7 +529,7 @@
     "giorgia-meloni",
     "giancarlo-giorgetti"
    ],
-   "giorni_rimasti": 7,
+   "giorni_rimasti": 6,
    "descrizione_governo": null,
    "notizie": [
     {
@@ -560,7 +572,7 @@
     "giorgia-meloni",
     "giancarlo-giorgetti"
    ],
-   "giorni_rimasti": 14,
+   "giorni_rimasti": 13,
    "descrizione_governo": null,
    "notizie": []
   },
@@ -597,7 +609,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 25,
+   "giorni_rimasti": 24,
    "descrizione_governo": null,
    "notizie": []
   },
@@ -632,7 +644,7 @@
     "giorgia-meloni",
     "carlo-nordio"
    ],
-   "giorni_rimasti": 26,
+   "giorni_rimasti": 25,
    "descrizione_governo": null,
    "notizie": []
   },
@@ -668,20 +680,20 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 27,
+   "giorni_rimasti": 26,
    "descrizione_governo": null,
    "notizie": [
+    {
+     "titolo": "SCUOLA | Buono scuola anche nel 2027, un sostegno ai diritti (e alle famiglie) in un’Italia senza figli",
+     "fonte": "IlSussidiario.net",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYTg0REF3ZmFoRUttalgxa2xVbV9EUWdQRTlULWxWSzZfNkNWRzVBU1hkSnRYSkVxNWhXeEdIN215cndzdkdaRVFOOGdOX2F4YTZ1S0NENmRoUXRVWWR1ai1rZzMtdGtqRXhGdjYzQnB2SlZwQ05KV2U0VjRQMWdPa1NPeWJxVGJyRDRORDdxRDFkTlR6XzhNNHJKd3pYeXU2Sy1Vc3laM0hack5BRWNYYkZlVXlJblhaSjZ3d3hqY0hDam5ZLVhSb0dNVXhNUWFDeExKcHRqTzPSAd4BQVVfeXFMTzZNT0tuTjdpaWl4a0tuSHBjakY3ek5ZMnRPTXNZQ0dTR1ZXUmpuMEpYVzh6R2FrbWlZX0IyT01aUEtDTERFMGczT3ZRSG1adVZ1bXR4U2hPZjBWTGNuUS00aVc4R0gzMmdKaHNMSEtPdl9CT1owY3RvUzd5VWtGcy1kX2VQamJKNWpmVmFOa21YVmRXUGpjZ1o1OGd0ZDRaRDJ3N00zXzN1R3RPZWE4NGl6RU15NE5vOG0wSHNIbGt3OTZkaFZrSGtNMGNzRnVybUc4T1JQcTVGWGNud05R?oc=5"
+    },
     {
      "titolo": "Decreto Scuola, lavori a rilento in Commissione: slitta l'approdo nell'Aula del Senato. Ipotesi voto di fiducia",
      "fonte": "Orizzonte Scuola Notizie",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdnhNYi1JNTV4V01WU2tEblhybUxPUGg5NEljQlVsXzdVT19FT1c0UHlUNjQyakw4dWpZLTNtVWV5UWlHTkVXdHAxOWFRNGpQd3JKdFZOTVktdDNQeDFsdDJ6YzR4YV9nUnZWMzBWdnpaeS0xeGZBUUQtanp1UDI3ZlVTcHVjRG9uVU9BZXdBci1pMGkyWWFjdHRPaENJS1ZJWHVhRmZvNWtva1M0WElleXQyVkI0Nm1CYW5aZ1hYN0xRd2Y4YUdjV2xSNEUydWtISXRISg?oc=5"
-    },
-    {
-     "titolo": "Slitta l'esame del Dl scuola al Senato, a rilento il voto emendamenti in commissione",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3I5aWhCc3RUU3ZFYUotUlVXakJCZ3NEWUloR2M2OEVjZk95ZFJQZ0sxeEdydGNURHlxa29WOGJqQ2JGWmNRMHhjb1MzeEl1bkpWTHBmNTlMazRUZm9JeWZYbWdBLXpSVWdScmwwUzNvekpzd25Xbi1GTGVadmVUYjJ1SjBidmthcGhWNTJZWXZzTktJaEpZWHJEelUwRGc2dXY0NzgxeHR2OUE?oc=5"
     },
     {
      "titolo": "Decreto Scuola, idonei 2020 in coda alle assunzioni? Le tre richieste dell’UDIP",
@@ -690,10 +702,10 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlcxaDRvTHRMcXpvTV9LTmJ2UkpzMEpfOHRuRTdkQlVRczFzeHlNUGJuMnp0ekp1NVhHX2RsakFzMXNRVkhuQWRSUDNHTWo2bVZfZlp0eXh3eEtoUS04Q3hVdXhBbjlwWGVDalhtOFdZWW1Nc0dNZXdiSkpkNjlqZVZyRWtqaE02RjhVZUZ6LWFHajljMHNfVjZOck1ESEJsNkZYS2U2SGppQWlw?oc=5"
     },
     {
-     "titolo": "Decreto Scuola, l'approdo al Senato potrebbe slittare di una settimana: ipotesi questione di fiducia",
-     "fonte": "Scuolainforma",
+     "titolo": "Slitta l'esame del Dl scuola al Senato, a rilento il voto emendamenti in commissione",
+     "fonte": "Il Sole 24 ORE",
      "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFdWUlhHQ3hhSVJJWEhpR2EzdlFPWW5wYUVaUGdhR2tqUEhfc09qWE5lbXpWNFRWUE9MTEpxemRvcFFkNnZVVDNNOHp2dWdoWFlubFcwUGdTTDg2Mk1GRUtGRXhLa2dBYmR6LUU5WFlGY25xdFFPUkpmazIzaGo5NW8wdzFhWWZSQ0UwQ0NxaUFCMTByMWlYWTVYSzkzbEN4bEFianFBQnE3a21WOHA2UFdFMUZOb2R0dkQxMmRGa3hMNGgwUlB4Vw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3I5aWhCc3RUU3ZFYUotUlVXakJCZ3NEWUloR2M2OEVjZk95ZFJQZ0sxeEdydGNURHlxa29WOGJqQ2JGWmNRMHhjb1MzeEl1bkpWTHBmNTlMazRUZm9JeWZYbWdBLXpSVWdScmwwUzNvekpzd25Xbi1GTGVadmVUYjJ1SjBidmthcGhWNTJZWXZzTktJaEpZWHJEelUwRGc2dXY0NzgxeHR2OUE?oc=5"
     },
     {
      "titolo": "Slitta l'esame del Dl scuola al Senato: a rilento il voto degli emendamenti",
@@ -702,10 +714,10 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xTllGY2lkejdlbXZSeG5wSFY1S3VRbmFqR3otZVRTZjlJbDJxSnpjSkRacWExaFNlMlJXX2p5TGhmOVRwYktPaDFBdFlKMjNyTTc1OFBmUVVXUHJZTlE1M1lqQ25UeVU0WE1UMGVGOUJLdWZvRmRDMEtn0gF_QVVfeXFMTkRkdF8yM0FUbkw1TWNBUjFhVWpVeFZUYlFBTjRHMDFoY0I1bHkySU1UOHhzajVjM2hfd0tqeFMyNWRGZ183TEgwSE96cVg2cUxMUmZMalJUdWYyQjdmaDE3aFFpZ2tiQ250Skx6cTJDTWdjQTRpSzJ5Z3QwcDJDaw?oc=5"
     },
     {
-     "titolo": "Manovra, scuola in rivolta contro i 7mila tagli: “È l’ennesima beffa, siamo pronti alla mobilitazione\"",
-     "fonte": "Affaritaliani",
+     "titolo": "Decreto Scuola, l'approdo al Senato potrebbe slittare di una settimana: ipotesi questione di fiducia",
+     "fonte": "Scuolainforma",
      "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0gzZG1NS19McXVNX3NaZDZEMmtwRk1BNEZ3UnI4UnIxYTJFUWl2OXF3emJ1ampBbHZydFJCTURKVGpZeF95T3QtMVZKVm5qOXpyZUs4X1NkZkFEbWp2TnNGRUdPYjlrQ1NCTTlhcU5OYmlpNXpfRDlBaEZYNnZram9GT01aVmVQWTdHeGRrTmdTUW5YTVlpVGFmc0xEcktHUzl5Ml9SR2V0TWtQMzBxWkpocXRPVHBHV1ozR1FLRWloYUxJSHUwWFVzQk1yR0thWTRjakdR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFdWUlhHQ3hhSVJJWEhpR2EzdlFPWW5wYUVaUGdhR2tqUEhfc09qWE5lbXpWNFRWUE9MTEpxemRvcFFkNnZVVDNNOHp2dWdoWFlubFcwUGdTTDg2Mk1GRUtGRXhLa2dBYmR6LUU5WFlGY25xdFFPUkpmazIzaGo5NW8wdzFhWWZSQ0UwQ0NxaUFCMTByMWlYWTVYSzkzbEN4bEFianFBQnE3a21WOHA2UFdFMUZOb2R0dkQxMmRGa3hMNGgwUlB4Vw?oc=5"
     }
    ]
   },
@@ -740,15 +752,8 @@
     "giorgia-meloni",
     "gilberto-pichetto-fratin"
    ],
-   "giorni_rimasti": 35,
-   "descrizione_governo": {
-    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#10",
-    "data": "2026-10-02",
-    "titolo": "Disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione di problemi climatici, l’economia circolare e le bonifiche",
-    "tipo": "decreto-legge",
-    "testo": "[…] ha approvato un decreto-legge che introduce disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione di problemi climatici, l’economia circolare e le bonifiche. Il provvedimento rafforza l’impegno dello Stato per il risanamento e la bonifica dell’area denominata “Terra dei Fuochi”, a tutela del territorio e della salute della popolazione che vi risiede. Per la realizzazione urgente degli interventi da parte del Commissario unico lo stanziamento è innalzato a 200 milioni di euro. […]",
-    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740"
-   },
+   "giorni_rimasti": 34,
+   "descrizione_governo": null,
    "notizie": []
   },
   {
@@ -782,7 +787,7 @@
     "giorgia-meloni",
     "adolfo-urso"
    ],
-   "giorni_rimasti": 43,
+   "giorni_rimasti": 42,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#7",
     "data": "2026-10-13",
@@ -792,6 +797,12 @@
     "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836"
    },
    "notizie": [
+    {
+     "titolo": "Ex Ilva, indotto senza soldi e cassa. Cantoro (Cisl): «Sono 230 le aziende che rischiano di saltare, il Governo si muova»",
+     "fonte": "La Gazzetta del Mezzogiorno",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UdIBigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UQ?oc=5"
+    },
     {
      "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
      "fonte": "Corriere di Taranto",
@@ -855,7 +866,7 @@
     "giorgia-meloni",
     "matteo-piantedosi"
    ],
-   "giorni_rimasti": 49,
+   "giorni_rimasti": 48,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#4",
     "data": "2026-10-20",
@@ -899,7 +910,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 50,
+   "giorni_rimasti": 49,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#3",
     "data": "2026-10-22",
@@ -1077,12 +1088,6 @@
    },
    "notizie": [
     {
-     "titolo": "Vittime di reato, il Senato approva la tutela in Costituzione : ultimo passaggio alla Camera",
-     "fonte": "Fede e Ragione",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXRMSG0tX2dhMFN2dUFvMUItaUpWclgwWl91SDJRS09tajZQZDgxMnJHOVhwZUpoMGZ6R09yellTSlp2YVZndEdKeWxlUDRiYUF2TElLY2NRaHZXMWFjZEw0XzIyNGxvUzlHdktiaGtSalpnVjRaT0l4N1lrN2hVNHBmNUFySWZUVXM2cC1RdnRrdDV2dnZTVElldnlORHYtY29oS01wVTJDY05Xdnp4bGFJTTVXVzN3UU1wR3RoUUFHMEE4MkRRbQ?oc=5"
-    },
-    {
      "titolo": "Tutela vittime di reato, dopo il sì del Senato ultimo passaggio alla Camera",
      "fonte": "Il Sole 24 ORE",
      "data": "2026-10-29",
@@ -1099,12 +1104,6 @@
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN19FWWdjWFVtdUNmVlJzSDVfWTBxT2QycWFtck9QSlhpVGEtOUJRNlVRRDkwU1V2WVg2Y01hWW50b2sxNWxQbGhGeE1yOE5hMWdmN0RXNVBXbG9GWmFKM2ZBWWNGYUNPMlFiSzFUcGVkWnRaa3dUaVRmNEFtMWJEajQ3WDdVeWJ2NG5LQUtFV1dVbERfdDd2d1IycTBrSXNtbkJOZElldW43V0twTkFXZDRoSmxzZTBwckhvdWtNVGQ3akM0VzEtNHo2NVlFeUpITUotUUd5dTRHUlRoVnZ0cDEzU1dWcmxvV3VoX2Z4alM?oc=5"
-    },
-    {
-     "titolo": "FDI - FRATELLI D'ITALIA * SENATO: «GIUSTIZIA, DELLA PORTA (FDI): REPUBBLICA TUTELA VITTIME DI REATO",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWpvX19SNklmVGV4Z3l1RGx4ZTNOUXlja2c5NjFWREhGZkdrUy1adU5QbHF3LUhWcUZodTM2a1ZmVUo4V2JBMGM1T21iaWo4NjhyMkgtajRRdkxHUGhUVy1Sd2xKeDBMU0tIa2hNZTFSbHMtbDdZeEdWTjhEVmd1QnBpWFF6eEZaU1pXSHdRMWQ2Y3hndGVXTjVsT19ZeDA3a0g5cWxnX0YxU1hYZGR5Y2UzaFV3cE83bUhjZzVvbmdnVmFrLUhKZ1pScmI5Uzd1eTF1YVpDeGhEZmVP?oc=5"
     }
    ]
   },
@@ -1224,6 +1223,18 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDdwc3pXUGtsR1VFOXFqamt6LWdJRUZJb1YyVDA0TXA1dVJzYkRadk42dUZlaV92RS1naFUwazkzUS1BOTNxaGxYZWU1U2RTcm5BeHVUTE1iZk41ZHlXbTlfZjJYWHJDTHV2bE5vUkI2dXIzcFJFSTVkMkZTcVF1QmlScDE4dDQxdnRRMjc0cmRZZ3c?oc=5"
     },
     {
+     "titolo": "MILAZZO, RICEVUTI NELL’AULA CONSILIARE I VOLONTARI DEL SERVIZIO CIVILE",
+     "fonte": "Terminal Milazzo",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWtxQmNNOU9mYVVKTXVpWDJIWnJKc2hzLU92UFFGd2lsTWQ2RDh0MmU1YUhodUEwV1hkUzUtZVlfUEY1RVFWc0l4YzZ2SUpVNlZwWUVrRHBVYXZNTjFJd2pYTmk0alEyZzk2S0taWlllcHVOVkFSRTdvVk5IUmJVNmNHSGw3SUt2aU5uTGQ5bmUtVUVla3Qtc1pBSW4tZlAtaDVz?oc=5"
+    },
+    {
+     "titolo": "Abodi: “Con approvazione legge delega passo importante per politiche giovanili e servizio civile”",
+     "fonte": "La Gazzetta Torinese",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEU1ZkdUMU94V3loYlJ3UUU3RUU4QVBWTE5FTllwcU4zUDB2ek9UWWZIWE43bkIwVFA1Y1Q3WEx1MGtyRzJZQkFOalhoTkI4TUVhMjZtVUx5MURyZWtfMHBDdkMyQUV1VXE2dW1KVWRuSWFrcUJTekMxdEZjTmpkd3JIZzBQVjZqYlZTUGh3bWZFbzRVQzBWcm9XczVsTS15UzZ1Zk5JMEFQRnVWakE0SWQ4RzNWRHhZaU9XNG9RZENjRjTSAcgBQVVfeXFMTjRPczA0bHlFTHFRVlAxTy04cVM3dzZVUVplaEY4dndHemVjSUthWkpKbnlXNW1FQXdtVklvdi1Da3BFa0pYUEpFRkt2U3Q1SmpkRXhSaTVnRDVBdkNPbEtlOVUzX0JiLWV3ZVBoWUdkN1Q2UnpUZm02MXdJd01RQTl6cnREcDcyd0tnYmhRV3pDcTBMNk9xYUJ1XzRLdGowYWs2S0dKYkgteER0dWs3bXUyUjlOZmFJVDktTmpGVHo1a0k2Rkk4cHE?oc=5"
+    },
+    {
      "titolo": "Legge sul servizio civile approvata in via definitiva al Senato: cosa prevede",
      "fonte": "deQuo",
      "data": "2026-10-30",
@@ -1240,18 +1251,6 @@
      "fonte": "Orizzonte Scuola Notizie",
      "data": "2026-10-29",
      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNEpLNHVXemhaa0Q4eWlmSnpsWDE0c3RCbU14YTh5VlRnSUpXN2pCWE93V212R1VRNm1HNFV5OGpxZEdpdGI1RjFBWmpLVkQwODhpaFNoME9oaDFhTDRRQTlCUTdjaGE4UDdJMlF6aEF3cVJTdEJNekN0UjJ1T05WZVN2eFRBX0RqNE9qb3Bud2pScE05TmVYTjdSNEoxSzI5N01rRzZuWGVMZXNOY1dpbkJMM1JwZUh2Vi13a0JmWkpld0xoWncxUHpxOVk5dWctS1J1SzJUVWN0M0FfRzN6N1h5ZXhrZ09RTVNfVlBTU3lndzhfeDMwdmY3bDRXbkROVDh4T0tiSkhtMWhMUTYyMXJoRmdtR0U5anpHSGRtWGlrN0J6eFgwS0RPS244Mm9XVnl4UV9EZlhoVTg?oc=5"
-    },
-    {
-     "titolo": "Servizio civile, la riforma c’è ma il cambiamento è ancora atteso",
-     "fonte": "Vita.it",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb01aWmxrbU5xVl9Jb0hUaG9rRUVLc3l1NmprSXh0X29qc2xoWlViYWY5M3c1ZEVlTnF5Qkh1SkVDR1puVkNGRXc4WnNmaFptVXpVX1pmOGZ4WTdXdkd1RTFHbHFNYnFRNkJod1c1VWExcWpEWVpBeGs1bUJvVFBXS0xZNG1FTmg2TjJseg?oc=5"
-    },
-    {
-     "titolo": "Giovani e servizio civile, la riforma è legge",
-     "fonte": "Vita.it",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZ25yOEJkQm1rNUhEV2RLay1uOC1SM0lTMUtFdi1Sc1ROaktZeERPVjZ2SmdNQmRNdFl1Yk02TmgxSWMwQ3BvOFBWZTB2WG9BZ25rRGk2NkI5WFpfaFZ3ZXpmQngzXzNQQ3dlTnBZejFwUkhnNEE?oc=5"
     }
    ]
   },
@@ -1372,12 +1371,6 @@
     "stato": "approvata definitivamente, in attesa di pubblicazione"
    },
    "notizie": [
-    {
-     "titolo": "Oggiono: da rivedere il Piano comunale di emergenza di Protezione civile. Verrà riportato in commissione",
-     "fonte": "Casateonline",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd0dLTGNLSWpvRUFtOTcwZHk2TmQydlZLU2hSODVJU2ZDb1hBUFBwXzVIX2k5VlRtTmdxbzgyN3ZxQURRZzBxMDNOVjFXaGI4Q0EwVzk5and2VjNLeXp0MTBuUmo4blBTNEVIMERuX0lfWXJSTEhiOEM3MXdZcU11WGtwdGNfSkZ4S29XaVhhemhoTDNFVGRldWdfN2wxcWJFcGNIUnM3eVpjZ2dxLXdXY1VzaW9RLWFMNEFLX2R0VTRHX1ZuZlpBSjJQZExUb212emR0ZzA3bVZQdHlWLS1z?oc=5"
-    },
     {
      "titolo": "Volontari occasionali e Protezione Civile, Marta Logli: \"La Regione dia piena attuazione alla legge per valorizzare la solidarietà dei giovani dell'alluvione 2023\"",
      "fonte": "Notizie di Prato",
@@ -1787,7 +1780,14 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51040"
     }
    ],
-   "notizie": []
+   "notizie": [
+    {
+     "titolo": "Legge per Roma Capitale, i costruttori al Senato: “Meno burocrazia”",
+     "fonte": "la Repubblica",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWUyN3NkQ0NuWk4zNFVGU0NlekFxZ0ZWTkRlRmdRS291UFFCc2ZrTWhzRlRDX3o4MmttemtCODhFMVVMT1psNnNwSFNNZHhkUnd0SjNtSktYbWphQ09hcGFaa09HS2JBcEpPVURTbExVYnJTX2VBVzdpdXVYaXpZUi1iM0hnVVQ1TmdfaC1lMjNmV2hYa1g2cVQ5T0hyWVZRaWJwQ0lzONIBrAFBVV95cUxOZHNuVnMwM3NiRU84ZDVXQU44aHZJSE1kR0VWVEpBWm5ob0NRTzRSOGU2MUpWaUdJVGtja3M1UUFDeG5GM2x2NmUtZnN4ZGZIQVdxWm40Sko3X1JCYXI3NDdlVC1jNnBtSWJIRUlfN04wdHJZQVgyMFUtUzV4Tnlud0FFZlVWbjVmc2lYOGVfbTRXWGFVVjdqSkFUNzYyOWpUZFhyOGpCMFk4aHBa?oc=5"
+    }
+   ]
   },
   {
    "id": "55584",
@@ -2172,6 +2172,12 @@
    ],
    "abbinate": [],
    "notizie": [
+    {
+     "titolo": "STP tra commercialisti e DdL 2628: la posizione del socio investitore - EC News - Area fiscale",
+     "fonte": "EC News",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVRGRUVHdXZWWlVGOXkyYWpQT2xuRThxcnpKN05nOWtXbzlQTGYzeFFoWnlhb0JrcmtVc0RlRndqZzJ0Wkh1TVVodXBsXzd1SFhDM3BmaFh1bE04WE5xYjJpSktKa3dQRTB5WkZrdDM0ZGFJU3ZyWGFReU5ZMGpLa3BDRkhBR29RX21hVVU1dS1yNVgyQjhrY0tseHFjZ1Z6ZmlpSlVjVHh5aXl0SXVLalEyNjAyV2xWWXJCa3ZVd0RxMExJQ3JVYVNnQkVVU2lIbTFfUlVfQWpyeU0?oc=5"
+    },
     {
      "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «PROFESSIONI, ALMICI (FDI): «RIFORMA COMMERCIALISTI, AL SENATO PASSO AVANTI DECISIVO PER VALORIZZARE LE COMPETENZE SUL LAVORO",
      "fonte": "agenzia giornalistica opinione",
@@ -4020,12 +4026,6 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
     },
     {
-     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
-     "fonte": "Altalex",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
-    },
-    {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
      "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
      "data": "2026-10-28",
@@ -4072,10 +4072,16 @@
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDhETmg4YVJVUFdsbEtpTVlJdUZsS3BvUHpLWjM2LXI5VDBKM05ZWkJoX2Z6M2R4Wkt5YVJEaDF4Q1pGUlprUVY1UG45SS1hcDZhNEFtc2RieVdseHhhZC1qRW5jRlBUbWsxM0Y5WE1aTC1KUlk2X3pPSXhNWlhrQjloZ0I1U3dqRXAwLVY0Q0ZWUHJxTUFvaFBqbHB6SnptamdLVmx0bHcyME41SlBZc29pcWs4RGNjN3BKT2pJR3k3YjhxQjFlODUwcS1NZDhkdDc4ZkpSbExUeXdKcXhMYkFua1ZkTUxSUkZzbg?oc=5"
     },
     {
-     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
-     "fonte": "Altalex",
+     "titolo": "Autonomia, il governo accelera in vista del voto",
+     "fonte": "il manifesto",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
+    },
+    {
+     "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
+     "fonte": "Dipartimento per gli Affari Regionali e le Autonomie",
      "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPa3dMa1NOZUJ4VWgzVjJ2cUl2VXJKRXBEQkpYbmJIUmJMbGJzSFROYUFTT2xmc1dBSm55TVdPdml2Q1p4WXh2bzI5OWx4V1NfRWNfLXRWOGJZa0lRVmtReUx3ZzhVdl9EaGZraGNpV0p0d2RTVTF0ODNnU3VXYTVzNXpjWmtZQVVJekpISVV2YnlTQktkTlBRR0xmcmtpZF9yeENkaWRENkV1akgteV9PV3NnYm1idFBlZU01T3F2Qnc1dEpieDVwWVJQWVhYMDR5V1hLX0hHc2VTWnk0VkN2dHB4X21lYW1FMGtFbXJuUnZjSFFaUkM4UDRzQXd3TFVsdUhrcGJIMFJzdVY5?oc=5"
     }
    ]
   },
@@ -4128,12 +4134,6 @@
      "fonte": "VareseNoi",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdFo4WmdtdktDeTlwNGh4VWVrcFVyMkZDU1pKYVBjN254Y0U5bUNNSmpLMFR5eDhjWHFKMktIUnVLRmVZVFpUU2pSVFBTd0xlMnpiVFExSzZoZW5QeGtKTU9PdTY2LThoSlJaU041eXFmckFyXzBEdmJESVFuNUpZRlp3MEtpUkt0Umo2bmhjZEJBeURraHJ1Ql92ajktTDBrTnprUE5mX3FNUDFHV0ZQZXd0OHpQNzFOM0tPQ084b1hfY0JvOFlWc21YQ2RRakc3Rzc5YV9lQ1diZFdNdUhZZlcyM2RCWV9XTmxWTkV1alVib3Z3RlozbHV6N2hKT0pCVThOMnpZX3o5WmRT0gH_AUFVX3lxTE5nRzFGTjVEM0RERlVRWUpxa0xPdEttR0RyWmMtU0Rha04wd1ZDZTRqT0luMk0zdVNmSjg3LTQ1LS1xZFF3TV9SSnNJQUZ1V1pJRGIxb25Uejhud0JpbFBVNEkwUWRtZzd2VGxuenluN3JmMDB1UTZONFNmRTE0ak1UWVRCV2NyY05DbUJXVDBrcWkyY2J2WGRyekl6M3NRbzdaU3dRLU9fMDhJdk52dE5pbFM4ejZTV00tMEtzWHoyUVNHSmZ4TW81eGlrdkFTNERwN3k2Wi03dWZoUDhmLWd4NllxZFJPZm1lUlpUZ1BLS0dPUkx2RHNnU2hncVlzTQ?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
-     "fonte": "Altalex",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
     },
     {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
@@ -4192,12 +4192,6 @@
      "fonte": "il manifesto",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbEJaNmIyUFN6QWl6UVA1YXFkeUszWUFUSmxKNEVmRzVVYmxURmhqeXhMTDcyLWtfWnZTcTJnc2ozaEhoU2FpQUdXckRxejQyVGtMcUczV0c4RHdrRDNQaGNlTTRSd2RHTVIwWlQ4MXRuNFRqMldVcUp3?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata: il Governo approva i disegni di legge per quattro regioni",
-     "fonte": "Altalex",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0dDN0hkWWZhbWdtVmtZc1hndl9SYzNaV2xTb1FMbjF3NTMta2xmVzI0VFl4VUExSnA3cVJMSVJaV1BPSTNtdmpoVGlHeUV3dlRTcEFLeC1tN0VDRW1vWHhmdWUtQ1dyUjcyS3JvRHZZQWVIMnRUTjkyZkpnVjBabU8ybmVDLVpBTmE0WmtPQlMxNHNtRzlhdW1lVmRDSGpHNlZlSmdEUzJfTzhEeklkUFJWT1NjNDNyQlYzVFZ4U05QQ0hWNm5iTXQwNA?oc=5"
     },
     {
      "titolo": "Autonomia, la soddisfazione di Calderoli: “Sottoscritte le intese definitive con le regioni, ora l’ultimo miglio in parlamento”",
@@ -4557,161 +4551,6 @@
    "prima": null,
    "proponenti_monitorati": [],
    "notizie": []
-  },
-  {
-   "id": "55723",
-   "numero": "C.3152",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Istituzione del Piano straordinario nazionale per la sicurezza, la riqualificazione, l'accessibilità e la resilienza climatica dell'edilizia scolastica nonché disposizioni per favorire l'apertura delle scuole al territorio",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Istituzione del Piano straordinario nazionale per la sicurezza, la riqualificazione, l'accessibilità e la resilienza climatica dell'edilizia scolastica nonché disposizioni per favorire l'apertura delle scuole al territorio",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "da assegn. a commis.",
-   "stato": "presentata, da assegnare a una commissione",
-   "data_stato": "2026-10-19",
-   "presentato": "2026-10-19",
-   "trasmesso": false,
-   "iniziativa": "Dep. Caso Antonio",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": null,
-   "temi": [
-    "Edilizia scolastica"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55723",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "notizie": []
-  },
-  {
-   "id": "55722",
-   "numero": "S.2067",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Disposizioni in materia di aggravanti penali, misure cautelari ed esecuzione delle espulsioni per gli stranieri in condizione di soggiorno irregolare",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Disposizioni in materia di aggravanti penali, misure cautelari ed esecuzione delle espulsioni per gli stranieri in condizione di soggiorno irregolare",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "da assegn. a commis.",
-   "stato": "presentata, da assegnare a una commissione",
-   "data_stato": "2026-10-19",
-   "presentato": "2026-10-19",
-   "trasmesso": false,
-   "iniziativa": "Sen. Cantalamessa Gianluca",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": null,
-   "temi": [
-    "Espulsione di stranieri",
-    "Immigrati clandestini",
-    "Stranieri"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55722",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "notizie": []
-  },
-  {
-   "id": "55718",
-   "numero": "S.2066",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Istituzione del Parco nazionale dell'Etna",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Istituzione del Parco nazionale dell'Etna",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "da assegn. a commis.",
-   "stato": "presentata, da assegnare a una commissione",
-   "data_stato": "2026-10-19",
-   "presentato": "2026-10-19",
-   "trasmesso": false,
-   "iniziativa": "Sen. Nicita Antonio ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": null,
-   "temi": [
-    "Parchi nazionali e riserve naturali",
-    "Provincia di catania",
-    "Vulcani"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55718",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "notizie": []
-  },
-  {
-   "id": "55717",
-   "numero": "S.2065",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Conversione in legge del decreto-legge 16 ottobre 2026, n. 185, recante misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-   "titolo_breve": "d-l 185/2026 - ILVA",
-   "nome_breve": null,
-   "oggetto": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio",
-   "natura": "di conversione di decreto-legge",
-   "conversione": true,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-10-21",
-   "presentato": "2026-10-19",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro sviluppo economico Urso ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "Commissioni riunite 9ª (Industria, commercio, turismo, agricoltura e produzione agroalimentare) 10ª (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
-   "temi": [
-    "Ilva spa",
-    "Misure contro la disoccupazione"
-   ],
-   "decreto_del": "2026-10-16",
-   "scadenza": "2026-12-15",
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55717",
-   "prima": null,
-   "proponenti_monitorati": [
-    "giorgia-meloni",
-    "adolfo-urso"
-   ],
-   "notizie": [
-    {
-     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
-     "fonte": "Corriere di Taranto",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
-     "fonte": "Buonasera24",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3Vsdkd3RFhDY016M2h6UTdGZlJTVUNoVXVoRl8xSWFSYlo3SE5VeVR3emllNVZPRzdoUHE4RVZPMEI0emJUamcxMlcyUmZwUG1QZUoyRkdZNk5XOEl4U2p2OWk5cVRxc1FtdlVHTUdkeW00Z1Q3STBsZXk4M3g3Uk5DVUJLcFdvVHBZdllKc0FXQnpXelZXcWMwVlFKQ0JCeVNJRU80VVZKMDJENHNmaGx2TThPTWFRUHJvLXJuaEJ0eWdEYlZXVWlod0ZhU2VoTF9kb0M2QzZKMXNlNUhhbG4wc3JFWDAzYzBPVg?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, i sindacati in Senato: “Servono misure straordinarie per i lavoratori”",
-     "fonte": "CosmoPolis",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmpqa2twNm16UkUxU1B0S2hYay1Id0hPMUExUDJ0dVQ2TG9oVDZlVWpDRDJrRFNpMll3UDEyQWZ1SnBkNlM3d0l5UzFsZjlPQ2tuQ0lzX29KQjJlRUpqS25wc1JXVmJSNDEyX1MxcWYtRHRObm1HQUoyN2hDTVY4OVhzU1FnMF9VS2pURFpKSGxGSzYydjJHR1B0bWVITnpOZ0ludmcydGxPWVNOS1U5Z01zOFIxN0EtYVZOWGZXa0l1cFJUS2NCQjBBODF3OWpRQzQya0U3SFk?oc=5"
-    },
-    {
-     "titolo": "Audizioni in Senato su decreto ex Ilva, indotto rischia di essere spazzato via: assenza di tutele, sindacati preoccupati",
-     "fonte": "TarantoToday",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQzJvTTBrWHFWcGIzUkpoYlRTVTBpQU1CYXh0ZHJKdG91dmNqTGdEa2ZUWE11YUFPR25QTUg3OFpIOGtMUzJxZ29Ld0dOY0RiX3NZelRTZ0NCZTAydWFIdG5ubEFNVWlS?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, la Fiom boccia il decreto del Governo: «L'indotto rischia di essere spazzato via»",
-     "fonte": "Buonasera24",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEdXSmo1eFBfOEZqcWJsR1RFbk5hbUM0cmdhZVJUTkVoSzBTY0duX3R3ZjBEcmlXWmRtUmt4VTVCeFVRUE9ORm52eDFkbER3dlJNWGZTalk4OHhmQjdtUHFSemdrekhlZEktTUlST0dVUTYyRERPVHVjd280dkRSTE0xWFRIeDljcTloODNwemZGQlB1YTBKZ1dJLTFnQXlvLTM1RDBGd0xvYUdjTkpWYWFER3hiZUszRS1sUGhIQjFTVVpaYVFTTF9xODc3ZUZyUDNOQg?oc=5"
-    }
-   ]
   }
  ],
  "cdm": [
@@ -4845,6 +4684,12 @@
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": [
     {
+     "titolo": "Ex Ilva, indotto senza soldi e cassa. Cantoro (Cisl): «Sono 230 le aziende che rischiano di saltare, il Governo si muova»",
+     "fonte": "La Gazzetta del Mezzogiorno",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UdIBigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UQ?oc=5"
+    },
+    {
      "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
      "fonte": "Corriere di Taranto",
      "data": "2026-11-02",
@@ -4895,12 +4740,6 @@
      "fonte": "Finanza & Fisco",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlVXZzNfUjdqREJvcWhFU3FKNmxaV2NHVV9Jc3I2RV9SbjFURXZrWDdjamlpcVdmVzdVbUJ1SlJPMzNLc19YUlF2c0ZxZnhhZk1iTnVXcllWazJOTE5qeFlueXR2SG9Zemx1YlhrcGNrdEtYWnhWVUhZWmltNjhXQlRWRENKSVZza05Bc213?oc=5"
-    },
-    {
-     "titolo": "Conto Termico 3.0: intesa sul decreto correttivo, ecco tutte le novità",
-     "fonte": "Lavori Pubblici",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnRKNGQtQVhYOTZtblhQWFBKb3o3NXpoUWJiVnE2Q2o2VkJ1U3dBZXJSWkIwM0xyUmpsaHV5TE9WTEYzU2JTUWhGc0U2NGRSTGNWV1ozdG5JZlljZE5RalB3NUJaa1hpN0FVY21IMkk1Ny1rVFpSMUgyYzVwNHkwcWJPVUNudDZJMlF6UdIBkgFBVV95cUxQbnhDOTZFVkZ2cVRlZFlQd3gwLUpVVUxoSE9ZLWdialdHelUzQ3hkYjNKYktkc2tiMmVPeEEySWNhVHhzTkdJYXFwN2tuNnNxMjBDYlZXeWtZcUtCM242QVl4a0Ztc2U0V2QwZ2hmNS1iR3dseTYzdnlxalVaUWx6VWZnRTNHbXZvVGFhemhFV19mUQ?oc=5"
     }
    ]
   },
@@ -4912,59 +4751,6 @@
    "testo": "Il Consiglio dei ministri, su proposta del Ministro per gli affari regionali e le autonomie Roberto Calderoli, ha approvato, in esame preliminare, un disegno di legge costituzionale recante disposizioni concernenti l’adeguamento dello Statuto speciale della Regione Friuli-Venezia Giulia. […]",
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#10",
-   "data": "2026-10-02",
-   "titolo": "Disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione di problemi climatici, l’economia circolare e le bonifiche",
-   "tipo": "decreto-legge",
-   "testo": "[…] ha approvato un decreto-legge che introduce disposizioni urgenti per il rafforzamento delle istruttorie ambientali, la gestione di problemi climatici, l’economia circolare e le bonifiche. Il provvedimento rafforza l’impegno dello Stato per il risanamento e la bonifica dell’area denominata “Terra dei Fuochi”, a tutela del territorio e della salute della popolazione che vi risiede. Per la realizzazione urgente degli interventi da parte del Commissario unico lo stanziamento è innalzato a 200 milioni di euro. […]",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740",
-   "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#11",
-   "data": "2026-10-02",
-   "titolo": "Disposizioni per l’adeguamento della normativa nazionale al regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativo a requisiti orizzontali di cibersicurezza per i prodotti con elementi digitali e che modifica i regolamenti (UE) n. 168/2013 e (UE) 2019/1020 e la direttiva (UE) 2020/1828 (regolamento sulla ciberresilienza)",
-   "tipo": "decreto legislativo – esame preliminare",
-   "testo": "Il Consiglio dei ministri, su proposta del Presidente Giorgia Meloni e del Ministro per gli affari europei, il PNRR e le politiche di coesione Tommaso Foti, ha approvato, in esame preliminare, un decreto legislativo che adegua la normativa nazionale al regolamento europeo sulla ciberresilienza, che fissa requisiti di cibersicurezza per i prodotti hardware e software immessi sul mercato dell’Unione. […]",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740",
-   "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#12",
-   "data": "2026-10-02",
-   "titolo": "Disposizioni concernenti l’adeguamento dello Statuto speciale della Regione Friuli-Venezia Giulia",
-   "tipo": "disegno di legge costituzionale",
-   "testo": "Il Consiglio dei ministri ha avviato l’esame di un disegno di legge costituzionale di modifica dello Statuto speciale della Regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1, e ne ha rinviato l’approvazione a una successiva seduta. ٠٠٠٠٠",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740",
-   "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#13",
-   "data": "2026-10-02",
-   "titolo": "Attuazione dell’articolo 18 della legge 17 marzo 2026, n. 36, per l’adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare l’ecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724",
-   "tipo": "decreto legislativo – esame preliminare",
-   "testo": "Il Consiglio dei ministri, su proposta del Ministro per gli affari europei, il PNRR e le politiche di coesione Tommaso Foti e del Ministro delle imprese e del Made in Italy Adolfo Urso, ha approvato, in esame preliminare, un decreto legislativo di adeguamento della normativa nazionale al regolamento (UE) 2024/1735, il cosiddetto Net-Zero Industry Act, volto a rafforzare la capacità produttiva dell’Unione nel settore delle tecnologie a zero emissioni nette, accrescendo la competitività e la resilienza del relativo sistema industriale. […]",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740",
-   "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#14",
-   "data": "2026-10-02",
-   "titolo": "Attuazione della legge 28 luglio 2026, n. 137, recante delega al Governo per la riforma dell’ordinamento forense",
-   "tipo": "decreto legislativo – esame preliminare",
-   "testo": "Il Consiglio dei ministri, su proposta del Ministro della giustizia Carlo Nordio, ha approvato, in esame preliminare, un decreto legislativo che riforma in modo organico l’ordinamento della professione forense e sostituisce la disciplina della legge 31 dicembre 2012, n. 247. Il testo afferma la libertà e l’indipendenza dell’avvocato come principio fondante dell’ordinamento forense e ne riconosce il ruolo nel garantire il rispetto dei principi dello Stato di diritto e la corretta amministrazione della giustizia. […]",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740",
-   "notizie": []
-  },
-  {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740#15",
-   "data": "2026-10-02",
-   "titolo": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1230 del Parlamento europeo e del Consiglio, del 14 giugno 2023, relativo alle macchine e che abroga la direttiva 2006/42/CE del Parlamento europeo e del Consiglio e la direttiva 73/361/CEE del Consiglio",
-   "tipo": "decreto legislativo – esame preliminare",
-   "testo": "Il Consiglio dei ministri, su proposta del Ministro per gli affari europei, il PNRR e le politiche di coesione Tommaso Foti e del Ministro delle imprese e del Made in Italy Adolfo Urso, ha approvato, in esame preliminare, un decreto legislativo che adegua la normativa nazionale al regolamento europeo relativo alle macchine, che sostituisce la direttiva 2006/42/CE. […]",
-   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-191/32740"
   }
  ],
  "conteggi": {
@@ -4973,8 +4759,8 @@
   "approvate": 10,
   "approvate_definitive": 6,
   "commissione": 48,
-  "nuove": 36,
-  "nuove_governo": 8,
-  "cdm": 16
+  "nuove": 32,
+  "nuove_governo": 7,
+  "cdm": 10
  }
 }

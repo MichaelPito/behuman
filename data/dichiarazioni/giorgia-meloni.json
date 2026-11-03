@@ -7,16 +7,16 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-11-02",
- "al": "2026-11-02",
+ "dal": "2021-11-03",
+ "al": "2026-11-03",
  "riepilogo": {
-  "totale": 707,
+  "totale": 706,
   "camera": 109,
   "parole_camera": 184826,
   "governo": 512,
   "senato": 0,
-  "verificate": 86,
-  "prima": "2021-11-02",
+  "verificate": 85,
+  "prima": "2021-11-10",
   "ultima": "2026-10-28",
   "per_anno": [
    {
@@ -24,7 +24,7 @@
     "camera": 1,
     "governo": 0,
     "senato": 0,
-    "verificate": 3
+    "verificate": 2
    },
    {
     "anno": "2022",
@@ -125,7 +125,7 @@
    },
    {
     "fonte": "Facebook",
-    "n": 20
+    "n": 19
    },
    {
     "fonte": "Stampa o altro",
@@ -283,7 +283,7 @@
    ]
   }
  },
- "recap": "Dal 2 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 512 interventi pubblicati da Palazzo Chigi, 86 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (284), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+ "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 512 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (284), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -297,15 +297,6 @@
   "cambi_totali": 0
  },
  "verificate": [
-  {
-   "data": "2021-11-02",
-   "data_verifica": "2021-11-04",
-   "frase": "Il governo sembra perseverare investendo ulteriori 220 mila euro per i servizi di assistenza dell’applicazione Immuni",
-   "url": "https://pagellapolitica.it/fact-checking/meloni-sbaglia-il-governo-non-spendera-altri-220-mila-euro-per-immuni",
-   "fonte_originale": "https://www.facebook.com/38919827644/posts/10159534325592645",
-   "fonte_tipo": "Facebook",
-   "giudizio": "Nì"
-  },
   {
    "data": "2021-12-13",
    "data_verifica": "2021-12-13",
@@ -781,7 +772,15 @@
    "url": "https://pagellapolitica.it/fact-checking/meloni-governo-immigrazione-g7-puglia",
    "fonte_originale": "https://www.youtube.com/watch?v=LvmWTzD8SFs&t=171s",
    "fonte_tipo": "Video",
-   "giudizio": "La dichiarazione della presidente del Consiglio è esagerata."
+   "giudizio": "La dichiarazione della presidente del Consiglio è esagerata.",
+   "notizie": [
+    {
+     "titolo": "G7 Italia, la conferenza stampa finale di Meloni: «Sono molto fiera. Per la prima volta in questo summit si è parlato di flussi migratori",
+     "fonte": "Open",
+     "data": "2024-06-15",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iS1VTYS03d1NRODl4VEhTLUVhbGRnRm9adXl6ckpxUmZiWGV5R0pQLTE5R0dLZXhPY29oMElwZ3lrTElIc0dIenAxUThkZjVsaExHX0pCNm5MWVN5QXF0Q0Y3VWd2c29VakNxZmY3bS1jUVNPOVM5R0dB?oc=5"
+    }
+   ]
   },
   {
    "data": "2024-06-25",
@@ -844,7 +843,27 @@
    "url": "https://pagellapolitica.it/fact-checking/errore-meloni-spread-question-time",
    "fonte_originale": "https://www.youtube.com/live/TBarKaZGja0?si=Iy0ZkhtVPCKrrpNw&t=3114",
    "fonte_tipo": "Video",
-   "giudizio": "La presidente del Consiglio sbaglia."
+   "giudizio": "La presidente del Consiglio sbaglia.",
+   "notizie": [
+    {
+     "titolo": "Meloni: «Titoli Stato italiani considerati più sicuri di quelli tedeschi». E Giorgetti scuote la testa",
+     "fonte": "Corriere della Sera",
+     "data": "2025-05-14",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQXFnMEFTdm5HRVUzcE1mRWlacHdHenNrM3pPbFBlTklQdV9HSDFJNXRsblVPcVc1Sk1tWlZYSVRlSUN2OXIxQktlZ1hPZlk5UktxU2NROEE4aV9pcEVNd1BYd1F0Y1hBbzFqc3ZJTU1Ybk5NbnBsUWtJTUxobGJ3YUp1cGx2VmFXQXFHRXg5MzhvOGNLSXJ2RzdxaEsyZkVFMEhSaUhzdGp4V2ljZzlqMGI0aEhZNzkxVm43ekw3LXB0aEhCdUkzOHgzSHA5RHp0Z2lSMzQ0c285VHlQZnNobGJoS1FMS0I0ektfZ1pIMjQ0X0l1T0d0ckpzeC1MaFU?oc=5"
+    },
+    {
+     "titolo": "Meloni e lo spread: \"Titoli di Stato italiani più sicuri dei tedeschi\". Ma Giorgetti scuote la testa",
+     "fonte": "la Repubblica",
+     "data": "2025-05-14",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnNyQmZzTmxDZEFUd1o1bE9CVE50eHJrY1Q5NFI0bkthbzJUbHBzNXhJc1ZGWGRFZlN4am5aSWtrUW5teVpHcXJGNkotMVBCRUMtS09mU21zMGZ0N1BuSjBhYXNBakw4U0FuRmdlNjY4UDAtNVVackYxaDQwTHd3ZGZhbjlzc00tbWRnUDM4UGZVN0NWN21lUHhGRmxXU3otQTVLZUNsSWZ4Mk9qZm1vdHlnVmpvQzJ1a00xQWN6ZkNnTlZ0M2ZXVzhiNWxTSXJvcjhfNVhHZ3VWMDdtWTk3YkZYQlBSc1JTMmV6alVZdXE?oc=5"
+    },
+    {
+     "titolo": "Meloni: spread sotto 100, titoli italiani più sicuri dei tedeschi. Ma Giorgetti scuote la testa",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2025-05-15",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEdLeHpfZThWZ2NnNTBuYTQzanhMLS1ES29FSGpXdHdlajIyY09yZHBiaGx1anp5aHlNUUJEX1VoM29vM0ctVzQxY1VCbUtWd2dqSnVhS0FDbXpJZlFkNTN4c2RJd29FX1FJdW84b1Z3ZzJxVEdLSDFQODhlQnNja3hDSW8tZlJmai1kdENpcUdzMGRzTHJqbWRockxMWmlUVGF3ZmRoZGkyWHJtZzljbWdYNmo1d1RYZDQ5MUV3YjB5WFRocmR6dGkybV9TZnBFX2luaGt3?oc=5"
+    }
+   ]
   },
   {
    "data": "2026-03-02",
@@ -9746,12 +9765,6 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdThsd3dBd29qcGVMZkpGOGMtTWNRdHBNVnVJbFFiMm1fellJTDhKZGN0TzVUZlUtVk9oNm15ZmpUWVczSXZjdkN3MkhvS2hOOW9WWmpTZS0zUEoycmNvaUZsbDNKUDF3Sm40bnJRcHA3VXhMRkdoRnZqbzN4QldyYUtma1lzNVdtMWZOTFFwanlmaFlCZlVZLUQxZDFHQVhpemduZ0wxSE5abGNQT3U3QXlyUzXSAboBQVVfeXFMT003Y1ZiQWsybUl3VUhWUVloOGFoeGFFRW9iVzZad0VqUEVia1MxWGZLS1VHbDdEbTJhVDA0YTFnVEpkTExCZ0RrUnV6Z0tJUWJvaU1SSTBrd0tIaTk3R25CQ0UxSjdacWNJRnhnVko3ZG9FcXY0a1NwRHJIVndfYmNRbmVNZWVxSXlpRVk3aE11UGZ3Q1l4MU1McFRVRWJ2YXFSNl9YY1B5WGdNY2xoVjNjd1NNNVZ4eDhR?oc=5"
     },
     {
-     "titolo": "Caro Carburanti, Meloni: \"Accordo con autotrasporto, non promesse ma risorse già arrivate\"",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVMzZnZybUp4SW10ai1QcXY2TjlJX2lVZ1ZqYlZNMEFSbFdhOXR0WlEzalRhZjh3T3V0WkRmZFF0d1U2RjdLT0FTdTcwYlRsQURPaDlUZHJnY3AzajhNVndKMlhOZ2kwZGUzVy1QU1JGYTZlVHpJUGEwcHpmWGwtNjRReHNJTkZodHB6SEdrbllrQmtYNzNSaW9yVDZwd2xPX01GbWxZWUVzajRRemxqRlo4anNoLUdYTzF1UVp6LWFxZXNPZnpxSVVzRW9pdERtdmc?oc=5"
-    },
-    {
      "titolo": "Trovato accordo con l'autotrasporto, Meloni: «Risorse già in pagamento»",
      "fonte": "Corriere del Ticino",
      "data": "2026-10-22",
@@ -9764,16 +9777,22 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGszMmVOLTFTTTJRd2MyTFJCSmRVMzhKa0p6WnEyOEJDcmRCbGFPYWFZT1lSZXdJcTFydzlsNThGSU9tUHZuTzhSLWZkdmtZdmg1WGM5TEo4UmpQYUtqOERvaVhfRzFjT1hQc3J0VEg0Zm9VQTdnZkUxVU9PZ2YteURfVzlENzBMNm5qTkNlZmM5X3NEcEZKanBUTEcxR0lTNG1oT3hNMGdvZm02b2pKeGJzNA?oc=5"
     },
     {
-     "titolo": "Video. Accordo con le associazioni dell'autotrasporto, videomessaggio del Presidente Meloni",
-     "fonte": "Goldwebtv",
+     "titolo": "Autotrasporto: Meloni, non tolleriamo intimidazioni, blocchi da rimuovere -2-",
+     "fonte": "Il Sole 24 ORE",
      "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXVCRHJVQWlYRGNsNkQwdGxnZ0lMVFpRVVg3eDU1c3hGZV8zZVNIemw4NzdoMnBCTTN5QmE5QzhxMFAxbzl2dXZ1NWhGazZFVTJNMEhzZUV6SV9mQ3dGb2dMWW9uX3lBT0tCSE92OEVEWmxYendCM0VseGhSSUtvMmduNXNTRkNNMG5pbDFtRTF1M0d4dzVDR3NWdDBjOG12eWpoT29FN1M2TWIya3o2dkFRclBJY0Q1OFFj?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQXNJME1sLVFaWGNQVDVzYUVXblc5d0NTbldENHM1TlREWk1aUVlZVDdaY1gwRUpaSDRDWlVQTVIxcm9jTDQ1aEpHVXRyb0xpSVR2cThfVnFXOUcwUS10dlhDTGgtdVN6REFqWg?oc=5"
     },
     {
-     "titolo": "Autotrasporto, Meloni: sì agli aiuti, no ai blocchi [VIDEO]",
-     "fonte": "Vado e Torno Web",
-     "data": "2026-10-23",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXhRdVByWU56bnVhbC1YMUhjQlIzMXFDQkFBUFFpWjVEVWE3VHN3T2tkZTU1Y2p5czF1bnhkOG1xc3dIeHhlODBJTTQ0alk3OUhpRjNleGh1ZFEyY19aR2lzNmNoUlY0eTlhVXhfRDVueF9wWlJpX1lGQXdTOEJMY1RiSFQ?oc=5"
+     "titolo": "Carburanti, Meloni: \"Accordo con autotrasporto, non promesse ma risorse già arrivate\"ù",
+     "fonte": "Ore12",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtjcTgwQ1pnX2lCMC1ra2lYbTUtVGJ4Q1MwS3J0Z0VkZ3kyZWN4bUl0b0VsSDdxRVRJOUhzVmtjbjNwQUV4ZWItREczOWFJSndMTzN2Tk03UndrY1NhSkhob2thRDVwOUxGVjByclRZOGZnRkhBN09LMUxlV0VKRmJjQjZUcFpKdHA5a2w0eWV1LUNNOWlJYktJODUtMlZmTWZ3SVpUaw?oc=5"
+    },
+    {
+     "titolo": "Autotrasporto, agricoltura e pesca, ok al decreto. Meloni: non ci facciamo intimidire",
+     "fonte": "Gazzetta di Napoli",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemFKM2JaZ0gwbUlia093Z2M5OU10alpudVR6emJaVnVLNVlzbEFqak1JOTFZMFZvb3VSbXJVMzBQNEFxWXh6c3RnaXVwdC1OVGpDNXMxRVl3V0VXbEhnNTBTbVVYbUtqR3dCTW5nZVZMMW93QlpvdW5obV8zNmZWM3g3WENmQ2ZmTDNzZUdhekNqN0xudldVQ0xlcFUwLWxTMEpUSW1JaGtCODAzVExGeHk3eVFwRHVVOHBNU1JTdjV2d1NkWXFvUjZRU2lVVWM?oc=5"
     }
    ]
   },
@@ -9840,10 +9859,22 @@
    "fonte": "governo.it",
    "notizie": [
     {
-     "titolo": "Meloni a Federchimica : ricerca, lavoro e competitività per il futuro dell’industria",
-     "fonte": "Fede e Ragione",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVcwMWFvOHFFQVhpMVM4clVCUi01OVR1NE1sa2tzZW1GVkVtM1dIR3pHeXhLdDJrbzUtdGlscml6MnVZQXp4SnVMeFppbVdiRzJWVVVISFhDd3hSWU1VUldZVjZhclBCZ09tY3BfOUtPZUg4dVY0Rjg0SFE1Ql9NdmdySThfbVl1OV9XX2t5VWJITHJkTXZ0YzFNdy0yY3pQTG80b3BmWS1lNjZzUjhMYlBpeVJ4QlJ5YXN4Sw?oc=5"
+     "titolo": "GOVERNO, MELONI ALL’ASSEMBLEA DI FEDERCHIMICA: “L’EUROPA NON PUÒ RISPONDERE ALLE SFIDE DELL’INDUSTRIA AGGIUNGENDO COSTI. CI BATTEREMO PER LA REVISIONE DEL SISTEMA ETS”",
+     "fonte": "FRV News Magazine",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTEpIbS0tMFZSaTVCWFJXZmt2VGtZT3lVT0pVcGIxbkJxaEt4VEM5MWZtZTFPSUViTFl6WnNObE1vX242N2xKUWxqMFlVVDFyaVhyRndzOGhwMk5Ma3ZiSFEzeVZsa1NGWHpzMi1vUHdiY2xWTFNlY1FfRUdKSHhaektVM1pyaTFja21ITnVTdDNNQVBMOERUaUFUWWZFTVdONXpmc0U5RWE3THRSMmU2cEZyVFpKaFlMYnNrZ3NtRkFzVU1Zd3FoT29uc1JlcHhvMzhLUnRqMnJwX0lNU2tqRUlFTFE1b3hYWjhTdENPZ3pLb1lqbnZqbHlBdm5iOVFnY2dFR0lyempadS1sQ0w0S2lOaXd1YnRYMWgw?oc=5"
+    },
+    {
+     "titolo": "Meloni a Federchimica: \"Green Deal e sistema ETS da rivedere per salvare l'industria\"",
+     "fonte": "https://www.primanotizia24.it/",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFpjY0pVWHktbmd2OWh1V0IyUjBHVm82SU5PQW5GTU56Q3Y0YlpJM0RQOTQ2N2N5Snd3Rk9UNkdTVExxelZyT25qZ0dONTNLZlVKYWxpQ0dkNkVqeFFaVDVuVXBrSlZORjZJOHVqVmtfTVlEc3Ftc1VoNFByRHpCODFnb2lZaHB4MmVENmZ1V2RBOF9HbnV2clZ4UFdyV2kwWVJ6eVp6YzhITE9xVC1yZnJpQkgwUFBKaWxwUzdHejQ1elJWV1VB?oc=5"
+    },
+    {
+     "titolo": "Meloni a Federchimica chiede una revisione dell’ETS tra costi energetici e produzione europea",
+     "fonte": "Sbircia la Notizia",
+     "data": "2026-10-26",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2M0cVpsNDZFTzR0NnIyZ2dGUUQxZC1YdVM2S1VWN2VVeVQ0cFAyR3RGTDlvX19ndVc3MEFRZkRjNWZfMUN6Uy1Kdk1GSEpGLWtyT3R4bU9oUm9lNlNSWmxQMXhWekZHa1BSdnhZbUlWbnFETXNYb1FHWVpwVF9uTFh4NVg?oc=5"
     }
    ]
   },
@@ -9861,10 +9892,10 @@
    "fonte": "governo.it",
    "notizie": [
     {
-     "titolo": "Meloni: \"Costituzione valorizza le autonomie. Governo impegnato a garantirle\"",
-     "fonte": "Teleborsa",
+     "titolo": "Meloni: “Costituzione valorizza le autonomie. Governo impegnato a garantirle”",
+     "fonte": "ANSA",
      "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVVrdTJ2NUVITy1OMy1mbWdaZ1pJekRhMlZ0RGxUTUlJeHM3NTVHVzBfOVhNNy0xWktDUzUtTDNfSXRJVmt3WmFEMXYtZmdPMkpKVzFjLW5nWnd5ZGg3RGN3WHF3dzdXQ3Z5enZUUktNWXpvY1JoWnM1U1BEZDVMSi1hLWV6RURhX1FKYjNleGlhOEUxWlNfMmZkenBfeXRPUVBjOGV2UDNNQXhGNlpmSE8zdzhTSHY4ZTVNdEZLUjU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlRpSFFMUl9BdnBaQ21xUUFnRmZSNDZxdTR2OWdYeUcyZWJiUUxOTE11SkgwanFCU0Y3dWVtZlIwRzJ5Zzc5TER1RXlNVTZ2SzFWMzlkQTRoSWQ0ZTlSR0JPUzBGSF9fMU9wemt5OGhLMFp3dGNhY2hIRnN4M1ZDVGFmdE40eEgtalRURmZCSTVXZVBaZlBnRklzSENhd1lqa3lQRWNpNUoycE9xOEN5SVFhQmtSbGpKM0c4ag?oc=5"
     },
     {
      "titolo": "L'intervento di Meloni al Festival delle Regioni: «L'Italia è prima in Ue per avanzamento finanziario del Pnrr e per obiettivi raggiunti",
