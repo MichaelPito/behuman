@@ -78,7 +78,7 @@ def raggruppa_abbinati(voci: list[dict]) -> list[dict]:
     return gruppi
 
 
-VUOTE = {"contro", "presso", "relative", "relativo", "connessi", "connesse", "nonché", "ulteriori", "alcune", "fini", "termini", "istituzione",
+VUOTE = {"camera", "deputati", "senato", "repubblica", "parlamento", "proposta", "costituzionale", "approvato", "approvata", "contro", "presso", "relative", "relativo", "connessi", "connesse", "nonché", "ulteriori", "alcune", "fini", "termini", "istituzione",
          "modifiche", "articolo", "articoli", "codice", "testo", "unico", "decreto", "legislativo", "concernenti", "riguardanti", "sviluppo",
          "garantire", "rafforzamento", "sostegno", "tutela", "prevenzione", "lotta", "riconoscimento", "valorizzazione",
          "delega", "riforma", "riordino", "disciplina", "ordinamento", "legislazione", "quadro", "adeguamento", "norme", "nazionale",

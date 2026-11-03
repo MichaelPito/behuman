@@ -53,14 +53,17 @@ def voti_unici(cartella) -> dict[str, dict]:
 # il titolo deve parlare del Parlamento o di una legge («ok della Camera», «è legge», «via libera al ddl»)
 PARLAMENTO = re.compile(r"\b(camera|senato|parlament\w*|aula|legge|ddl|dl|decreto|decreti|fiducia)\b", re.I)
 # bilanci e delibere di Regioni e Comuni non sono il voto del Parlamento
-LOCALE = re.compile(r"\b(consiglio regionale|consiglio comunale|giunta|regional[ei]|comunal[ei]|comune di)\b", re.I)
+LOCALE = re.compile(r"\b(consiglio regionale|consiglio comunale|giunta|regional[ei]|comunal[ei]|comune di|camer[ae] di commercio)\b", re.I)
 
 
 def titolo_atto(titolo: str) -> str:
     """Alla Camera il titolo può avere numero e proponenti davanti:
     «S. 1971. - BIGNAMI ed altri: "Disposizioni in materia di elezioni…" (approvata dal Senato)» → il testo tra virgolette."""
-    m = re.search(r'["“«](.{15,})["”»]', titolo)
-    return m.group(1).strip() if m else titolo
+    m = re.search(r'(?:^|[:\-]\s*)["“«](.{15,})$', titolo)
+    if not m:
+        return titolo
+    t = re.sub(r'\s*\((?:approvat|modificat|testo)[^)]*\)\s*$', "", m.group(1).strip())  # «(approvato dal Senato)»
+    return re.sub(r'["”»]\s*$', "", t).strip()
 
 
 def notizie_voto(v: dict) -> list[dict]:

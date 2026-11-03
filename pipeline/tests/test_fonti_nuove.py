@@ -521,4 +521,8 @@ def test_titolo_atto_camera():
     assert titolo_atto('FARAONE ed altri: "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"') \
         == "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"
     assert titolo_atto("Delega al Governo in materia di energia nucleare sostenibile") == "Delega al Governo in materia di energia nucleare sostenibile"
+    # titolo tagliato prima della virgoletta di chiusura
+    assert titolo_atto('PROPOSTA DI LEGGE COSTITUZIONALE SCHULLIAN ed altri: "Abrogazione dell’articolo 99 della Costituzione') \
+        == "Abrogazione dell’articolo 99 della Costituzione"
+    assert titolo_atto('S. 1779. - "Disposizioni in materia di protezione civile"(approvato dal Senato)') == "Disposizioni in materia di protezione civile"
 
