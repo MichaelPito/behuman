@@ -165,11 +165,30 @@ def omonimo(titolo: str, nome: str) -> bool:
     return False
 
 
+# social e aggregatori di post: non sono giornali
+SOCIAL = re.compile(r"^(instagram|facebook|x|twitter|tiktok|youtube|threads|zazoom\b.*)$", re.I)
+# titolo con una data vecchia («… 29/01/2023»): articolo vecchio ripubblicato
+DATA_NEL_TITOLO = re.compile(r"\b(\d{1,2})/(\d{1,2})/(\d{4})\b")
+
+
+def vecchio(n: dict) -> bool:
+    m = DATA_NEL_TITOLO.search(n["titolo"])
+    if not m:
+        return False
+    try:
+        d = dt.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+    except ValueError:
+        return False
+    return (dt.date.fromisoformat(n["data"]) - d).days > 7
+
+
 def tieni(n: dict, nome: str) -> bool:
-    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali, cognome con la maiuscola, niente omonimi."""
+    """Controllo applicato anche ai titoli già salvati: niente fonti ufficiali né social, cognome con la maiuscola,
+    niente omonimi né articoli vecchi ripubblicati."""
     cognome = nome.split()[-1]
     return (bool(re.search(rf"\b(?:{re.escape(cognome)}|{re.escape(cognome.upper())})\b", n["titolo"]))
-            and not FONTI_UFFICIALI.search(n.get("fonte") or "") and not omonimo(n["titolo"], nome))
+            and not FONTI_UFFICIALI.search(n.get("fonte") or "") and not SOCIAL.search((n.get("fonte") or "").strip())
+            and not omonimo(n["titolo"], nome) and not vecchio(n))
 
 
 def costruisci(ctx) -> None:

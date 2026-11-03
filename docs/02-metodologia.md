@@ -192,6 +192,11 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   radice, singolare/plurale); tenuti solo i titoli che citano un atto e contengono due parole del testo di cui
   una specifica (o una coppia attaccata come «professioni sanitarie», o una parola lunga e specifica); max 2 per testata.
 
+- **In parole semplici**: il titolo ufficiale riscritto con regole fisse (`pipeline/memoria/analisi/semplice.py`):
+  cosa fa il testo dalla forma del titolo (delega, conversione di decreto, istituzione, ratifica, modifica di
+  una legge nota, nuovo reato…) e di cosa parla, senza riferimenti ad altre norme e con un piccolo glossario.
+  Niente di aggiunto rispetto al titolo; il titolo ufficiale resta accanto.
+
 ## 3-sexies. Cosa scrivono i giornali sulle dichiarazioni
 - Dichiarazioni degli ultimi 14 giorni (Camera, Palazzo Chigi): ricerca su Google News con il cognome e le
   parole più frequenti del testo (tolte parole di ogni discorso, nomi dei gruppi, annotazioni del resoconto).
@@ -201,3 +206,11 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - Dichiarazioni più discusse (Pagella Politica): stessa ricerca limitata ai giorni della dichiarazione
   (operatori `after:`/`before:` di Google News), fatta una volta e archiviata; al massimo 60 nuove ricerche al giorno.
 - Scartati i titoli con un altro nome davanti al cognome (omonimi, es. «Claudia Conte»).
+
+## 3-septies. Cosa scrivono i giornali sulle promesse
+- Per ogni tema con richieste prima dell'incarico: titoli di Google News degli ultimi 14 giorni con il cognome
+  (maiuscola) e la parola del tema (stessa espressione di `config/impegni.yaml`), cercati ogni giorno.
+- Per ogni frase di allora: titoli dal giorno della frase a 3 giorni dopo, cercati una volta (fino a 40
+  al giorno); l'archivio di Google News prima del 2022 è scarso.
+- Esclusi fonti ufficiali, social, articoli ripubblicati con una data vecchia nel titolo e omonimi; max 2 per testata.
+  Archivio in `data/notizie-impegni.json`.

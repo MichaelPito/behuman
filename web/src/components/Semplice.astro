@@ -1,0 +1,16 @@
+---
+// «In parole semplici»: il titolo ufficiale riscritto con regole fisse (nessun giudizio, niente di aggiunto).
+import { u } from "../lib/url";
+
+interface Props { testo?: string | null }
+const { testo } = Astro.props;
+---
+{testo && (
+  <p class="semplice small"><a class="eti" href={u("/faq/#parole-semplici")} title="Come scriviamo la versione semplice">In parole semplici</a>{" "}{testo}</p>
+)}
+
+<style>
+  .semplice { margin: 0; padding: 8px 10px; border-left: 3px solid var(--accent); background: var(--surface-2); border-radius: 0 8px 8px 0; }
+  .eti { display: inline-block; margin-right: 4px; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); text-decoration: none; }
+  .eti:hover { text-decoration: underline; }
+</style>

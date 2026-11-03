@@ -315,7 +315,7 @@ const STATI: Record<string, string> = {
 export const statoIter = (s: string) => STATI[s] ?? STATI[s.trim()] ?? s;
 
 // ----------------------------------------------------------------- promesse prima/dopo l'incarico
-export type FraseImpegno = { tema: string; data: string; fonte: string; frase: string; url: string; verifica?: string; sezione?: string; metodo?: string; direzione: string | null; verbo: string | null };
+export type FraseImpegno = { tema: string; data: string; fonte: string; frase: string; url: string; verifica?: string; sezione?: string; metodo?: string; direzione: string | null; verbo: string | null; notizie?: TitoloNotizia[] };
 // come mostrare un valore: decimali, suffisso («%», « €/l», « mila»), variazione in punti per i tassi
 export type FormatoIndicatore = { unita: string; frequenza?: string; decimali?: number; suffisso?: string; punti?: boolean; somma_12_mesi?: boolean };
 export type MisuraImpegno = FormatoIndicatore & {
@@ -330,6 +330,7 @@ export type TemaImpegno = {
   tema: string; nome: string; direzione_chiesta: string; prima: FraseImpegno[]; prima_totale: number; programma: FraseImpegno[]; programma_totale: number;
   dopo: FraseImpegno[]; dopo_totale: number; indicatori: MisuraImpegno[]; leggi: { id: string; data: string; numero: number; argomento: string; tipo: string }[];
   esito: string; esito_etichetta: string; testo: string; richieste_per_tipo: Record<string, number>;
+  notizie_oggi?: TitoloNotizia[];
 };
 export type ImpegniPolitico = {
   slug: string; nome: string; incarico: { carica: string; dal: string }; temi: TemaImpegno[];
@@ -408,11 +409,11 @@ export type VoceAgenda = {
   temi: string[]; decreto_del: string | null; scadenza: string | null; scheda: string; proponenti_monitorati: string[];
   prima: { ramo: string; numero: string; stato_ufficiale: string; stato: string; data_stato: string } | null;
   abbinate?: { id: string; numero: string; titolo: string; iniziativa: string | null; scheda: string }[];
-  notizie?: TitoloNotizia[]; giorni_rimasti?: number;
+  notizie?: TitoloNotizia[]; giorni_rimasti?: number; semplice?: string | null;
   descrizione_governo?: { data: string; titolo: string; tipo: string; testo: string; url: string } | null;
   approvata?: { ramo: string; data: string; definitiva: boolean; stato: string };
 };
-export type ProvvedimentoCdm = { id?: string; data: string | null; titolo: string; tipo: string; testo: string; url: string; notizie?: TitoloNotizia[] };
+export type ProvvedimentoCdm = { id?: string; data: string | null; titolo: string; tipo: string; testo: string; url: string; notizie?: TitoloNotizia[]; semplice?: string | null };
 export type Agenda = {
   aggiornato_il: string; finestra_giorni: number; aula: VoceAgenda[]; decreti: VoceAgenda[]; approvate: VoceAgenda[];
   commissione: VoceAgenda[]; nuove: VoceAgenda[]; cdm: ProvvedimentoCdm[]; conteggi: Record<string, number>;
