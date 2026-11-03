@@ -160,13 +160,21 @@ def ha_coppia(titolo: str, coppie: set[str]) -> bool:
     return False
 
 
-def notizie_su(v: dict) -> list[dict]:
+def notizie_su(v: dict, periodo: tuple[str, str] | None = None) -> list[dict]:
     """Titoli degli ultimi 7 giorni che parlano del testo: ricerca per nome breve («decreto scuola»)
     o per parole dell'oggetto. Con le parole si tengono solo i titoli che ne contengono almeno due
-    e che parlano di un atto (decreto, legge, Camera, Senato, emendamenti…)."""
+    e che parlano di un atto (decreto, legge, Camera, Senato, emendamenti…).
+    Con `periodo` (dal, al compresi) la ricerca è limitata a quei giorni, anche di anni fa."""
     parole = parole_ricerca(v)
+
+    def libera(q: str) -> list[dict]:
+        if not periodo:
+            return notmod.google_news_libera(q, giorni=7)
+        al = (dt.date.fromisoformat(periodo[1]) + dt.timedelta(days=1)).isoformat()
+        return [n for n in notmod.google_news_periodo(q, periodo[0], al) if periodo[0] <= n["data"] <= periodo[1]]
+
     if v.get("nome_breve"):
-        trovate = notmod.google_news(v["nome_breve"], giorni=7)
+        trovate = libera(f'"{v["nome_breve"]}"') if periodo else notmod.google_news(v["nome_breve"], giorni=7)
         chiavi = {radice(w) for w in re.findall(r"[a-zàèéìòù]+", v["nome_breve"].lower()) if w not in cdmmod.GENERICHE and w not in VUOTE and len(w) > 3}
         tenute = []
         for n in trovate:
@@ -175,9 +183,9 @@ def notizie_su(v: dict) -> list[dict]:
                 tenute.append(n)
     elif len(parole) >= 2:
         prefisso = "decreto " if v["conversione"] else ""
-        trovate = notmod.google_news_libera(prefisso + " ".join(parole), giorni=7)
+        trovate = libera(prefisso + " ".join(parole))
         if len(trovate) < 3 and len(parole) > 2:  # ricerca troppo stretta: si riprova con le prime due parole
-            trovate += [n for n in notmod.google_news_libera(prefisso + " ".join(parole[:2]), giorni=7) if n["url"] not in {x["url"] for x in trovate}]
+            trovate += [n for n in libera(prefisso + " ".join(parole[:2])) if n["url"] not in {x["url"] for x in trovate}]
         chiavi = {radice(w): w for w in parole}
         coppie = coppie_testo(v["oggetto"])
         tenute = []

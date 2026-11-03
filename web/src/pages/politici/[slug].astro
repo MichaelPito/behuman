@@ -6,9 +6,10 @@ import Discussa from "../../components/Discussa.astro";
 import Promesse from "../../components/Promesse.astro";
 import Storia from "../../components/Storia.astro";
 import Icon from "../../components/Icon.astro";
+import Giornali from "../../components/Giornali.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import PresenzeChart from "../../components/PresenzeChart.astro";
-import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, osservatorio, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice, ANNO, annoDi, fedeltaNellAnno, presenzaNellAnno } from "../../lib/data";
+import { aggiornamenti, dataIt, dichiarazioni as datiDichiarazioni, impegni, osservatorio, ETICHETTA_ORIENTAMENTO, iniziali, mediane, ordinaPerData, pct, politici, politico, proposizioniIndice, ANNO, annoDi, fedeltaNellAnno, presenzaNellAnno , notizieDelVoto } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -210,7 +211,7 @@ const sezioni: [string, string][] = [
                       return (
                         <tr data-difforme={difforme ? "1" : "0"}>
                           <td class="mono tiny" style="white-space:nowrap">{dataIt(v.data)}</td>
-                          <td class="small">{v.fiducia && <span class="pill">fiducia</span>} {v.atto} {v.titolo ?? v.descrizione} {v.url && <a href={v.url} rel="noopener" target="_blank" aria-label="Votazione ufficiale">↗</a>}</td>
+                          <td class="small">{v.fiducia && <span class="pill">fiducia</span>} {v.atto} {v.titolo ?? v.descrizione} {v.url && <a href={v.url} rel="noopener" target="_blank" aria-label="Votazione ufficiale">↗</a>}<Giornali notizie={notizieDelVoto(v)} quando="nei giorni del voto" /></td>
                           <td class="small">{v.voto ?? "—"}{difforme && <span class="pill plum" style="margin-left:4px">diverso dal gruppo</span>}</td>
                           <td class="small">{v.linea_gruppo ?? "—"}</td>
                           <td class="small">{v.approvato ? "Approvato" : "Respinto"}</td>

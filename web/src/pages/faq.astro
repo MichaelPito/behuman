@@ -212,6 +212,15 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "giornali-voti",
+        q: "Come trovate cosa scrivono i giornali sui voti finali?",
+        a: [
+          "Per ogni testo votato in via finale o con la fiducia (Camera o Senato) cerchiamo su Google News i titoli usciti dal giorno del voto ai tre giorni dopo, con le parole che distinguono il titolo dell'atto, tolti date e riferimenti ad altre leggi. Il voto di fiducia e quello finale sullo stesso testo, nello stesso giorno, contano una volta.",
+          "Teniamo solo i titoli che parlano di un atto (legge, decreto, Camera, Senato…) e contengono almeno due di quelle parole, di cui una specifica, oppure una parola lunga e specifica: lo stesso filtro della pagina «In discussione». Escludiamo fonti ufficiali, social e articoli vecchi ripubblicati; al massimo due titoli per testata.",
+          "Ogni voto si cerca una volta, quando i tre giorni sono passati, e i titoli restano in archivio. I voti degli anni passati si completano un po' ogni giorno, dal più recente; per gli anni prima del 2022 l'archivio di Google News è scarso.",
+        ],
+      },
+      {
         id: "giornali-promesse",
         q: "Come trovate cosa scrivono i giornali sulle promesse?",
         a: [

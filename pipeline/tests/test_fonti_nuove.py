@@ -505,3 +505,11 @@ def test_presenza_anno():
     assert presenza_anno(p, 2026) == {"Camera": {"anno": 2026, "presenti": 3, "totale": 8, "percentuale": 37.5}}
     assert presenza_anno(p, 2024) == {}
 
+
+def test_chiave_voto():
+    from memoria.sezioni.notizie_voti import chiave
+    fiducia = {"camera": "Camera", "data": "2026-10-28", "titolo": "Conversione in legge  del decreto-legge X", "fiducia": True}
+    finale = {"camera": "Camera", "data": "2026-10-28", "titolo": "Conversione in legge del decreto-legge X", "fiducia": False}
+    assert chiave(fiducia) == chiave(finale) == "Camera:2026-10-28:conversione in legge del decreto-legge x"
+    assert chiave({**finale, "camera": "Senato"}) != chiave(finale)
+
