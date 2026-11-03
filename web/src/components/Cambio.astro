@@ -1,12 +1,13 @@
 ---
 import Icon from "./Icon.astro";
 import PosizioneRiga from "./PosizioneRiga.astro";
+import Giornali from "./Giornali.astro";
 import type { Cambio } from "../lib/data";
-import { proposizioniIndice } from "../lib/data";
+import { notizieCambio, proposizioniIndice } from "../lib/data";
 import { u } from "../lib/url";
 
-interface Props { c: Cambio; i?: number }
-const { c, i = 0 } = Astro.props;
+interface Props { c: Cambio; i?: number; soggetto?: string }
+const { c, i = 0, soggetto } = Astro.props;
 const prop = proposizioniIndice()[c.proposizione];
 ---
 <article class="card cambio rise" style={`--i:${i}`}>
@@ -16,9 +17,9 @@ const prop = proposizioniIndice()[c.proposizione];
   </div>
   <h3 class="q">«{prop?.testo ?? c.proposizione}»</h3>
   <div class="due">
-    <div class="lato"><span class="eyebrow">Prima</span><PosizioneRiga p={c.prima} /></div>
+    <div class="lato"><span class="eyebrow">Prima</span><PosizioneRiga p={c.prima} />{soggetto && <Giornali notizie={notizieCambio(soggetto, c.prima)} quando="in quei giorni" />}</div>
     <div class="freccia" aria-hidden="true"><Icon name="arrow" /></div>
-    <div class="lato"><span class="eyebrow">Dopo</span><PosizioneRiga p={c.dopo} /></div>
+    <div class="lato"><span class="eyebrow">Dopo</span><PosizioneRiga p={c.dopo} />{soggetto && <Giornali notizie={notizieCambio(soggetto, c.dopo)} quando="in quei giorni" />}</div>
   </div>
 </article>
 <style>

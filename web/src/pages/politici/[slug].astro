@@ -158,7 +158,7 @@ const sezioni: [string, string][] = [
     <div class="section-head"><h2>Cambi di posizione</h2><span class="small muted">dal più vecchio al più recente</span></div>
     <p class="small muted prose">Un cambio c'è quando, sullo stesso tema, una presa di posizione «a favore» è seguita da una «contro» (o viceversa). Entrambe sono mostrate con la fonte.</p>
     {cambi.length === 0 && <p class="callout neutral">Nessun cambio rilevato sui temi monitorati finora.</p>}
-    <div class="grid">{cambi.map((c, i) => <div style="display:contents" data-anno={annoDi(c.dopo.data)}><Cambio c={c} i={i} /></div>)}</div>
+    <div class="grid">{cambi.map((c, i) => <div style="display:contents" data-anno={annoDi(c.dopo.data)}><Cambio c={c} i={i} soggetto={p.slug} /></div>)}</div>
   </section>
 
   <section class="section" id="percorso">

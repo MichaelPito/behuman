@@ -87,7 +87,7 @@ const prog = p.ideologia?.programma_2022;
   <section class="section">
     <div class="section-head"><h2>Cambi di posizione</h2><span class="small muted">dal più vecchio al più recente</span></div>
     {cambi.length === 0 && <p class="callout neutral">Nessun cambio rilevato sui temi monitorati finora.</p>}
-    <div class="grid">{cambi.map((c, i) => <Cambio c={c} i={i} />)}</div>
+    <div class="grid">{cambi.map((c, i) => <Cambio c={c} i={i} soggetto={p.slug} />)}</div>
   </section>
 
   <section class="section">

@@ -229,3 +229,10 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - Ricerca fatta una volta, a finestra chiusa (prima si ricontrolla); fino a 60 voti al giorno, dal più recente.
   Archivio in `data/notizie-voti.json`, letto dal sito (tabella dei voti del politico, votazioni dei temi).
 
+## 3-decies. Cosa scrivono i giornali sui cambi di posizione
+- Per la posizione di prima e per quella di dopo: titoli di Google News dal giorno della posizione a 3 giorni
+  dopo con il nome del soggetto (cognome con la maiuscola, o nome/sigla del partito) e una parola del tema
+  (dall'identificativo della proposizione); ricerca fatta una volta, archivio in `data/notizie-cambi.json`.
+- Se la posizione è un voto, il sito aggiunge i titoli sul voto (`data/notizie-voti.json`); le votazioni dei
+  temi si cercano per prime.
+

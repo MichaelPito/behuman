@@ -209,6 +209,23 @@ let _notizieVoti: Record<string, { data: string; notizie: TitoloNotizia[] }> | n
 export const notizieVoti = () => (_notizieVoti ??= leggi<Record<string, { data: string; notizie: TitoloNotizia[] }>>("notizie-voti.json", {}));
 export const notizieDelVoto = (v: { camera: string; data: string; titolo?: string | null }) => notizieVoti()[chiaveVoto(v)]?.notizie ?? [];
 
+// Titoli dei giornali su una posizione di un cambio (data/notizie-cambi.json, memoria/sezioni/notizie_cambi.py):
+// quelli che nominano il politico o il partito e il tema, più quelli sul voto se la posizione è un voto.
+let _notizieCambi: Record<string, { data: string; notizie: TitoloNotizia[] }> | null = null;
+let _votiTemi: Record<string, { camera: string; data: string; titolo?: string | null }> | null = null;
+export function notizieCambio(soggetto: string, p: Posizione): TitoloNotizia[] {
+  _notizieCambi ??= leggi<Record<string, { data: string; notizie: TitoloNotizia[] }>>("notizie-cambi.json", {});
+  if (!_votiTemi) {
+    _votiTemi = {};
+    for (const t of leggi<any[]>("temi.json", [])) for (const pr of t.proposizioni ?? []) for (const v of pr.voti ?? []) _votiTemi[v.id] = v;
+  }
+  const propri = _notizieCambi[`${soggetto}:${p.proposizione}:${p.data}`]?.notizie ?? [];
+  const id = (p as any).dettagli?.votazione as string | undefined;
+  const sulVoto = id && _votiTemi[id] ? notizieDelVoto(_votiTemi[id]) : [];
+  const visti = new Set<string>();
+  return [...propri, ...sulVoto].filter((n) => !visti.has(n.url) && (visti.add(n.url), true)).slice(0, 6);
+}
+
 // Ultimo voto finale (non di fiducia) registrato nelle schede: serve per l'emiciclo della home.
 export function ultimoVotoFinale(camera = "Camera"): (VotoFinale & { esito?: { favorevoli: number; contrari: number; astenuti: number } }) | null {
   let migliore: any = null;
