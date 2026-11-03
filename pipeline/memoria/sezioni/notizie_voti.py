@@ -12,6 +12,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import logging
+import re
 
 from ..fonti import agenda as agfonti
 from . import agenda as agmod
@@ -49,13 +50,26 @@ def voti_unici(cartella) -> dict[str, dict]:
     return voti
 
 
+# il titolo deve parlare del Parlamento o di una legge («ok della Camera», «è legge», «via libera al ddl»)
+PARLAMENTO = re.compile(r"\b(camera|senato|parlament\w*|aula|legge|ddl|dl|decreto|decreti|fiducia)\b", re.I)
+# bilanci e delibere di Regioni e Comuni non sono il voto del Parlamento
+LOCALE = re.compile(r"\b(consiglio regionale|consiglio comunale|giunta|regional[ei]|comunal[ei]|comune di)\b", re.I)
+
+
+def titolo_atto(titolo: str) -> str:
+    """Alla Camera il titolo può avere numero e proponenti davanti:
+    «S. 1971. - BIGNAMI ed altri: "Disposizioni in materia di elezioni…" (approvata dal Senato)» → il testo tra virgolette."""
+    m = re.search(r'["“«](.{15,})["”»]', titolo)
+    return m.group(1).strip() if m else titolo
+
+
 def notizie_voto(v: dict) -> list[dict]:
-    titolo = v["titolo"]
+    titolo = titolo_atto(v["titolo"])
     voce = {"oggetto": agfonti.oggetto(titolo), "conversione": titolo.lower().startswith("conversione in legge"), "nome_breve": None}
     fine = (dt.date.fromisoformat(v["data"]) + dt.timedelta(days=DOPO)).isoformat()
     trovate = agmod.notizie_su(voce, periodo=(v["data"], fine))
     return [n for n in trovate if not FONTI_UFFICIALI.search(n.get("fonte") or "") and not SOCIAL.search((n.get("fonte") or "").strip())
-            and not vecchio(n)]
+            and not vecchio(n) and PARLAMENTO.search(n["titolo"]) and not LOCALE.search(n["titolo"])]
 
 
 def costruisci(ctx) -> None:

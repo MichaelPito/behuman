@@ -513,3 +513,12 @@ def test_chiave_voto():
     assert chiave(fiducia) == chiave(finale) == "Camera:2026-10-28:conversione in legge del decreto-legge x"
     assert chiave({**finale, "camera": "Senato"}) != chiave(finale)
 
+
+def test_titolo_atto_camera():
+    from memoria.sezioni.notizie_voti import titolo_atto
+    assert titolo_atto('S. 1971. - BIGNAMI ed altri: "Disposizioni in materia di elezioni della Camera dei deputati" (approvata dal Senato)') \
+        == "Disposizioni in materia di elezioni della Camera dei deputati"
+    assert titolo_atto('FARAONE ed altri: "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"') \
+        == "Istituzione della Giornata nazionale “Enzo Tortora” in memoria delle vittime"
+    assert titolo_atto("Delega al Governo in materia di energia nucleare sostenibile") == "Delega al Governo in materia di energia nucleare sostenibile"
+
