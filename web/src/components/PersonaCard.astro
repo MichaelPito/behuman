@@ -1,12 +1,13 @@
 ---
 import type { PoliticoBreve } from "../lib/data";
-import { ETICHETTA_ORIENTAMENTO, iniziali, pct } from "../lib/data";
+import { ANNO, ETICHETTA_ORIENTAMENTO, iniziali, pct } from "../lib/data";
 import { u } from "../lib/url";
 
 interface Props { p: PoliticoBreve; i?: number }
 const { p, i = 0 } = Astro.props;
 const ind = Object.entries(p.indicatori || {});
 const pres = ind.length ? ind.map(([, x]) => x.presenza.percentuale ?? 0).reduce((a, b) => Math.max(a, b), 0) : null;
+const presAnno = Object.values(p.presenza_anno ?? {}).map((x) => x.percentuale).reduce<number | null>((a, b) => (a == null ? b : Math.max(a, b)), null);
 const fed = ind.length ? ind.map(([, x]) => x.fedelta_gruppo.percentuale_allineati).find((x) => x != null) ?? null : null;
 const cognome = p.nome.split(" ").slice(-1)[0];
 ---
@@ -22,6 +23,7 @@ const cognome = p.nome.split(" ").slice(-1)[0];
   data-orientamento={p.orientamento ?? "nd"}
   data-schieramento={p.schieramento}
   data-presenza={pres ?? -1}
+  data-presenza-anno={presAnno ?? -1}
   data-cambi={p.coerenza.cambi_totali}
 >
   {p.foto ? (
@@ -39,7 +41,8 @@ const cognome = p.nome.split(" ").slice(-1)[0];
     </div>
   </div>
   <div class="facts">
-    <div class="fact"><div class="v">{pres == null ? "—" : pct(pres)}</div><div class="l">presenza al voto</div></div>
+    <div class="fact" data-solo="tutto"><div class="v">{pres == null ? "—" : pct(pres)}</div><div class="l">presenza al voto</div></div>
+    <div class="fact" data-solo="anno"><div class="v">{presAnno == null ? "—" : pct(presAnno)}</div><div class="l">presenza nel {ANNO}</div></div>
     <div class="fact"><div class="v">{fed == null ? "—" : pct(fed)}</div><div class="l">voti col gruppo</div></div>
     <div class="fact"><div class="v">{p.coerenza.cambi_totali}</div><div class="l">cambi di posizione</div></div>
   </div>

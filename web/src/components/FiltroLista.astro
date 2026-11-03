@@ -51,7 +51,16 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
 </style>
 
 <script>
+  // con «solo l'anno in corso» (selettore in alto) contano solo gli elementi con data-anno di quest'anno
+  let applicatori: (() => void)[] = [];
+  const nelPeriodo = (el: HTMLElement) => {
+    const h = document.documentElement;
+    return h.dataset.periodo !== "anno" || !el.dataset.anno || el.dataset.anno === h.dataset.annoCorrente;
+  };
+  document.addEventListener("periodo-cambiato", () => applicatori.forEach((f) => f()));
+
   function init() {
+    applicatori = [];
     document.querySelectorAll<HTMLElement>("[data-filtro-lista]").forEach((box) => {
       const id = box.dataset.filtroLista!;
       const lista = document.querySelector<HTMLElement>(`[data-lista="${id}"]`);
@@ -87,6 +96,7 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
           let n = 0, visibili = 0;
           items.forEach((el, i) => {
             const ok =
+              nelPeriodo(el) &&
               (!q || testi[i].includes(q)) &&
               Object.entries(scelti).every(([k, vs]) => {
                 const have = (el.getAttribute(`data-f-${k}`) || "").split(" ");
@@ -104,7 +114,8 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
             g.hidden = !pieno;
             if (attivo && pieno && g instanceof HTMLDetailsElement) g.open = true;
           });
-          esito.textContent = n === items.length ? `${n} ${n === 1 ? n1 : n2}` : `${n} di ${items.length} ${n2}`;
+          const tot = items.filter(nelPeriodo).length;
+          esito.textContent = n === tot ? `${n} ${n === 1 ? n1 : n2}` : `${n} di ${tot} ${n2}`;
           if (vuoto) vuoto.hidden = n > 0;
           if (altri) { altri.hidden = visibili >= n; altri.textContent = `Mostra altri ${Math.min(limite, n - visibili)} (${n - visibili} rimanenti)`; }
           azzera.hidden = !q && Object.keys(scelti).length === 0;
@@ -123,6 +134,7 @@ const { id, gruppi, placeholder, nome, limite = 0, nota, predefiniti = {} } = As
       testo.oninput = () => { mostra = limite; applica(false); };
       azzera.onclick = () => { chips.forEach((c) => c.setAttribute("aria-pressed", "false")); testo.value = ""; mostra = limite; applica(true); };
       if (altri) altri.onclick = () => { mostra += limite; applica(false); };
+      applicatori.push(() => { mostra = limite; applica(false); });
       applica(false);
     });
   }

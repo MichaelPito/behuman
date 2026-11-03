@@ -3,7 +3,7 @@ import "../styles/global.css";
 import { ClientRouter } from "astro:transitions";
 import Header from "../components/Header.astro";
 import SearchPalette from "../components/SearchPalette.astro";
-import { meta } from "../lib/data";
+import { ANNO, meta } from "../lib/data";
 import { u } from "../lib/url";
 
 interface Props {
@@ -16,7 +16,7 @@ const m = meta();
 const pageTitle = title === NOME ? NOME : `${title} · ${NOME}`;
 ---
 <!doctype html>
-<html lang="it">
+<html lang="it" data-anno-corrente={ANNO}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -43,6 +43,17 @@ const pageTitle = title === NOME ? NOME : `${title} · ${NOME}`;
         applica();
         document.addEventListener("astro:after-swap", applica);
       })();
+      // periodo scelto (tutto / anno in corso), applicato prima del disegno e dopo ogni navigazione
+      (function () {
+        function periodo() {
+          try {
+            if (localStorage.getItem("periodo") === "anno") document.documentElement.dataset.periodo = "anno";
+            else delete document.documentElement.dataset.periodo;
+          } catch (e) {}
+        }
+        periodo();
+        document.addEventListener("astro:after-swap", periodo);
+      })();
       // se una foto non si carica, al suo posto compaiono le iniziali
       document.addEventListener("error", function (e) {
         var img = e.target;
@@ -56,11 +67,15 @@ const pageTitle = title === NOME ? NOME : `${title} · ${NOME}`;
         img.replaceWith(span);
       }, true);
     </script>
+    <Fragment set:html={`<style>html[data-periodo="anno"] [data-anno]:not([data-anno="${ANNO}"]),html[data-periodo="anno"] [data-solo="tutto"],html:not([data-periodo="anno"]) [data-solo="anno"]{display:none!important}html[data-periodo="anno"] [data-gruppo-anno]:not(:has([data-anno="${ANNO}"])){display:none!important}</style>`} />
     <ClientRouter fallback="swap" />
   </head>
   <body>
     <a class="sr-only" href="#contenuto">Vai al contenuto</a>
     <Header />
+    <div class="avviso-periodo" data-solo="anno" role="status">
+      <div class="wrap">Stai vedendo solo i dati del {ANNO}: voti, presenze, dichiarazioni e leggi degli altri anni sono nascosti. <button type="button" class="link" data-periodo-scegli="tutto">Mostra tutto</button></div>
+    </div>
     <main class="wrap" id="contenuto">
       <slot />
     </main>

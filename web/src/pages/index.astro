@@ -3,7 +3,7 @@ import Base from "../layouts/Base.astro";
 import Emiciclo from "../components/Emiciclo.astro";
 import Icon from "../components/Icon.astro";
 import Discussa from "../components/Discussa.astro";
-import { agenda, aggiornamenti, dataIt, ETICHETTA_POSIZIONE, governo as datiGoverno, indiceDichiarazioni, slugLegge, iniziali, meta, partiti, perCognome, politici, proposizioniIndice, tuttiICambi, ultimoVotoFinale } from "../lib/data";
+import { agenda, aggiornamenti, dataIt, ETICHETTA_POSIZIONE, governo as datiGoverno, indiceDichiarazioni, slugLegge, iniziali, meta, partiti, perCognome, politici, proposizioniIndice, tuttiICambi, ultimoVotoFinale, annoDi } from "../lib/data";
 import { u } from "../lib/url";
 
 const tutti = politici().sort(perCognome);
@@ -137,7 +137,7 @@ const scorciatoie: [string, string][] = [
         </div>
         <ul class="news">
           {ultimeLeggi.map((l) => (
-            <li><span class="mono tiny muted">{dataIt(l.data)}</span><a href={u(`/governo/${slugLegge(l)}/`)}>{l.in_pratica.argomento}</a><span class="tiny muted">{l.tipo}</span></li>
+            <li data-anno={annoDi(l.data)}><span class="mono tiny muted">{dataIt(l.data)}</span><a href={u(`/governo/${slugLegge(l)}/`)}>{l.in_pratica.argomento}</a><span class="tiny muted">{l.tipo}</span></li>
           ))}
         </ul>
       </div>
@@ -171,7 +171,7 @@ const scorciatoie: [string, string][] = [
     <div class="section-head"><h2>Ultimi atti e comunicati ufficiali</h2><a href={u("/aggiornamenti/")} class="small">Tutti →</a></div>
     <ul class="news">
       {ultimi.map((a) => (
-        <li>
+        <li data-anno={annoDi(a.data)}>
           <span class="mono tiny muted">{dataIt(a.data)}</span>
           <a href={a.url} rel="noopener" target="_blank">{a.titolo}</a>
           <span class="tiny muted">{a.fonte}</span>

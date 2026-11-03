@@ -174,7 +174,7 @@ p.prose { display: block; }
   .search-btn { width: 40px; padding: 0; justify-content: center; }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   .nav { display: none; }
   .menu-btn { display: inline-grid; }
   .search-btn .label, .search-btn kbd { display: none; }
@@ -419,3 +419,18 @@ dialog.palette::backdrop { background: rgb(8 16 19 / 0.45); backdrop-filter: blu
 .prose-page dl { display: grid; gap: 14px; }
 .prose-page dd { margin: 4px 0 0; color: var(--ink-2); }
 .prose-page ul { padding-left: 20px; display: grid; gap: 8px; }
+
+/* periodo: tutto / anno in corso */
+.periodo { display: inline-flex; padding: 2px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+.periodo button { border: 0; background: none; font: 600 0.78rem var(--f-sans); color: var(--ink-2); padding: 5px 10px; border-radius: 999px; cursor: pointer; }
+.periodo button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+.periodo button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.avviso-periodo { background: color-mix(in srgb, var(--accent) 12%, var(--surface)); border-bottom: 1px solid var(--line); font-size: 0.86rem; }
+.avviso-periodo .wrap { padding-block: 8px; }
+.avviso-periodo .link { border: 0; background: none; padding: 0; font: inherit; font-weight: 700; color: var(--accent-ink); text-decoration: underline; cursor: pointer; }
+.periodo-riga { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 0 6px; }
+@media (max-width: 720px) { .periodo-barra { display: none; } }
+/* con il menu orizzontale e il selettore del periodo, sotto i 1200px resta solo il logo */
+@media (min-width: 1001px) and (max-width: 1360px) { .brand-nome { display: none; } }
+@media (min-width: 1100px) { .nav a { white-space: nowrap; } }
+

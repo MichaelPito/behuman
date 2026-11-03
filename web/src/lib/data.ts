@@ -51,6 +51,7 @@ export type PoliticoBreve = {
   valutazione_coerenza?: ValutazioneCoerenza;
   attivo: boolean;
   indicatori: Indicatori;
+  presenza_anno?: Record<string, { anno: number; presenti: number; totale: number; percentuale: number }>;
   coerenza: Coerenza;
 };
 
@@ -422,3 +423,30 @@ export const agenda = () =>
   leggi<Agenda>("agenda.json", { aggiornato_il: "", finestra_giorni: 14, aula: [], decreti: [], approvate: [], commissione: [], nuove: [], cdm: [], conteggi: {} });
 export const ALTRA_CAMERA: Record<string, string> = { Camera: "Senato", Senato: "Camera" };
 export const INIZIATIVA: Record<string, string> = { governo: "Governo", parlamentari: "Parlamentari", cittadini: "Cittadini", altro: "Regioni e altri" };
+
+// ----------------------------------------------------------------- periodo: tutto / anno in corso
+// Il sito si ricostruisce ogni giorno: l'anno in corso è quello del giorno della costruzione.
+export const ANNO = String(new Date().getFullYear());
+/** Anno da usare in data-anno: per un evento con inizio e fine, l'anno in corso se l'evento lo tocca. */
+export function annoDi(data?: string | null, fine?: string | null | undefined): string | undefined {
+  if (fine !== undefined) {
+    const inizia = !data || data.slice(0, 4) <= ANNO;
+    const finisce = !fine || fine.slice(0, 4) >= ANNO;
+    return inizia && finisce ? ANNO : (fine ?? data ?? "").slice(0, 4) || undefined;
+  }
+  return data ? data.slice(0, 4) : undefined;
+}
+/** Presenze mese per mese → presenza nell'anno in corso. */
+export function presenzaNellAnno(mesi: { mese: string; presenti: number; totale: number }[] = []) {
+  const m = mesi.filter((x) => x.mese.startsWith(ANNO));
+  const totale = m.reduce((n, x) => n + x.totale, 0);
+  const presenti = m.reduce((n, x) => n + x.presenti, 0);
+  return totale ? { presenti, totale, percentuale: Math.round((1000 * presenti) / totale) / 10 } : null;
+}
+/** Voti finali e di fiducia dell'anno in corso: quanti come la linea del gruppo e quanti diversi. */
+export function fedeltaNellAnno(voti: { data: string; voto?: string | null; linea_gruppo?: string | null }[] = []) {
+  const v = voti.filter((x) => x.data.startsWith(ANNO) && x.linea_gruppo && ["Favorevole", "Contrario", "Astensione"].includes(x.voto ?? ""));
+  const allineati = v.filter((x) => x.voto === x.linea_gruppo).length;
+  return v.length ? { allineati, difformi: v.length - allineati, percentuale: Math.round((1000 * allineati) / v.length) / 10 } : null;
+}
+

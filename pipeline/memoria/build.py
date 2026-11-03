@@ -432,6 +432,19 @@ def costruisci_partito(ctx: Contesto, par: cfgmod.Partito, politici: list[dict],
 
 # ----------------------------------------------------------------------------- temi
 
+def presenza_anno(p: dict, anno: int | None = None) -> dict:
+    """Presenza al voto nel solo anno in corso, dalle presenze mese per mese (per il filtro «anno in corso»)."""
+    anno = str(anno or dt.date.today().year)
+    out = {}
+    for camera, a in (p.get("parlamento") or {}).items():
+        mesi = [m for m in a.get("presenze_mensili") or [] if m["mese"].startswith(anno)]
+        tot = sum(m["totale"] for m in mesi)
+        if tot:
+            pres = sum(m["presenti"] for m in mesi)
+            out[camera] = {"anno": int(anno), "presenti": pres, "totale": tot, "percentuale": round(100 * pres / tot, 1)}
+    return out
+
+
 def costruisci_temi(ctx: Contesto, politici: list[dict], partiti: list[dict]) -> list[dict]:
     out = []
     for t in ctx.cfg.temi:
@@ -603,6 +616,7 @@ def esegui(solo: str | None = None, offline: bool = False, calcola_mediane: bool
                 "valutazione_coerenza": p.get("valutazione_coerenza"),
                 "attivo": p["attivo"],
                 "indicatori": p["indicatori"],
+                "presenza_anno": presenza_anno(p),
                 "coerenza": p["coerenza"],
             }
             for p in politici
