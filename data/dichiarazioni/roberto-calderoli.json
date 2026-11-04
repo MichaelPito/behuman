@@ -7,23 +7,23 @@
   "sigla": "Lega"
  },
  "schieramento": "governo",
- "dal": "2021-11-03",
- "al": "2026-11-03",
+ "dal": "2021-11-04",
+ "al": "2026-11-04",
  "riepilogo": {
-  "totale": 184,
+  "totale": 182,
   "camera": 54,
   "parole_camera": 22926,
   "governo": 0,
-  "senato": 130,
+  "senato": 128,
   "verificate": 0,
-  "prima": "2021-11-03",
+  "prima": "2021-11-04",
   "ultima": "2026-07-29",
   "per_anno": [
    {
     "anno": "2021",
     "camera": 0,
     "governo": 0,
-    "senato": 29,
+    "senato": 27,
     "verificate": 0
    },
    {
@@ -190,7 +190,7 @@
    ]
   }
  },
- "recap": "Dal 3 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 130 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "recap": "Dal 4 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 128 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -993,34 +993,6 @@
  ],
  "governo": [],
  "senato": [
-  {
-   "data": "2021-11-03",
-   "seduta": 374,
-   "ddl": [
-    {
-     "fase": "S.674",
-     "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il recupero di rifiuti in mare",
-     "url": "https://dati.senato.it/ddl/50237.html"
-    },
-    {
-     "fase": "S.1503",
-     "titolo": "Disposizioni per il recupero dei rifiuti solidi dispersi in mare e per la protezione dell'ecosistema marino",
-     "url": "https://dati.senato.it/ddl/52270.html"
-    },
-    {
-     "fase": "S.1571",
-     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
-     "url": "https://dati.senato.it/ddl/52448.html"
-    },
-    {
-     "fase": "S.2437",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "url": "https://dati.senato.it/ddl/54526.html"
-    }
-   ],
-   "interventi": 2,
-   "id": "2021-11-03:374"
-  },
   {
    "data": "2021-11-04",
    "seduta": 375,

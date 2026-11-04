@@ -163,7 +163,7 @@
     "valore": 0.7284
    },
    "oggi": {
-    "data": "2026-10-26",
+    "data": "2026-11-02",
     "valore": 0.6729
    },
    "variazione_dall_incarico": 40.7,
@@ -592,6 +592,10 @@
     [
      "2026-10-26",
      0.6729
+    ],
+    [
+     "2026-11-02",
+     0.6729
     ]
    ],
    "temi": [
@@ -3013,6 +3017,10 @@
     [
      "2026-10-26",
      0.6729
+    ],
+    [
+     "2026-11-02",
+     0.6729
     ]
    ]
   },
@@ -3038,11 +3046,11 @@
     "valore": 0.6174
    },
    "oggi": {
-    "data": "2026-10-26",
-    "valore": 0.6729
+    "data": "2026-11-02",
+    "valore": 0.6329
    },
-   "variazione_dall_incarico": 83.2,
-   "differenza_dall_incarico": 0.3055,
+   "variazione_dall_incarico": 72.3,
+   "differenza_dall_incarico": 0.2655,
    "serie": [
     [
      "2018-01-29",
@@ -3467,6 +3475,10 @@
     [
      "2026-10-26",
      0.6729
+    ],
+    [
+     "2026-11-02",
+     0.6329
     ]
    ],
    "temi": [
@@ -5888,6 +5900,10 @@
     [
      "2026-10-26",
      0.6729
+    ],
+    [
+     "2026-11-02",
+     0.6329
     ]
    ]
   },
@@ -10877,11 +10893,11 @@
     "valore": 1.7338
    },
    "oggi": {
-    "data": "2026-10-26",
-    "valore": 2.0058
+    "data": "2026-11-02",
+    "valore": 2.0006
    },
-   "variazione_dall_incarico": 18.2,
-   "differenza_dall_incarico": 0.3082,
+   "variazione_dall_incarico": 17.8,
+   "differenza_dall_incarico": 0.303,
    "serie": [
     [
      "2018-01-29",
@@ -11306,6 +11322,10 @@
     [
      "2026-10-26",
      2.0058
+    ],
+    [
+     "2026-11-02",
+     2.0006
     ]
    ],
    "temi": [
@@ -13727,6 +13747,10 @@
     [
      "2026-10-26",
      2.0058
+    ],
+    [
+     "2026-11-02",
+     2.0006
     ]
    ]
   },
@@ -13752,11 +13776,11 @@
     "valore": 1.5932
    },
    "oggi": {
-    "data": "2026-10-26",
-    "valore": 2.2467
+    "data": "2026-11-02",
+    "valore": 2.2384
    },
-   "variazione_dall_incarico": 19.3,
-   "differenza_dall_incarico": 0.364,
+   "variazione_dall_incarico": 18.9,
+   "differenza_dall_incarico": 0.3557,
    "serie": [
     [
      "2018-01-29",
@@ -14181,6 +14205,10 @@
     [
      "2026-10-26",
      2.2467
+    ],
+    [
+     "2026-11-02",
+     2.2384
     ]
    ],
    "temi": [
@@ -16602,6 +16630,10 @@
     [
      "2026-10-26",
      2.2467
+    ],
+    [
+     "2026-11-02",
+     2.2384
     ]
    ]
   },
@@ -19525,7 +19557,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -19956,6 +19988,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -19986,13 +20022,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -20417,6 +20453,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -20438,7 +20478,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -23868,7 +23908,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -24299,6 +24339,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -24329,13 +24373,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -24760,6 +24804,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -24781,7 +24829,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -27424,7 +27472,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -27855,6 +27903,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -27885,13 +27937,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -28316,6 +28368,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -28337,7 +28393,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1.",
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1.",
      "notizie_oggi": [
       {
        "titolo": "Manovra, Lollobrigida: confermato azzeramento Irpef per agricoltori, 1 miliardo per le accise sul gasolio agricolo",
@@ -31246,7 +31302,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -31677,6 +31733,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -31707,13 +31767,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -32138,6 +32198,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -32159,7 +32223,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -32240,13 +32304,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.0058
+        "data": "2026-11-02",
+        "valore": 2.0006
        },
-       "variazione_dall_incarico": 18.2,
-       "variazione_dalla_prima_richiesta": 18.6,
-       "differenza_dall_incarico": 0.3082,
-       "differenza_dalla_prima_richiesta": 0.3143,
+       "variazione_dall_incarico": 17.8,
+       "variazione_dalla_prima_richiesta": 18.3,
+       "differenza_dall_incarico": 0.303,
+       "differenza_dalla_prima_richiesta": 0.3091,
        "serie": [
         [
          "2018-01-29",
@@ -32671,6 +32735,10 @@
         [
          "2026-10-26",
          2.0058
+        ],
+        [
+         "2026-11-02",
+         2.0006
         ]
        ],
        "esito": "direzione_opposta"
@@ -32701,13 +32769,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.2467
+        "data": "2026-11-02",
+        "valore": 2.2384
        },
-       "variazione_dall_incarico": 19.3,
-       "variazione_dalla_prima_richiesta": 24.6,
-       "differenza_dall_incarico": 0.364,
-       "differenza_dalla_prima_richiesta": 0.4436,
+       "variazione_dall_incarico": 18.9,
+       "variazione_dalla_prima_richiesta": 24.1,
+       "differenza_dall_incarico": 0.3557,
+       "differenza_dalla_prima_richiesta": 0.4353,
        "serie": [
         [
          "2018-01-29",
@@ -33132,6 +33200,10 @@
         [
          "2026-10-26",
          2.2467
+        ],
+        [
+         "2026-11-02",
+         2.2384
         ]
        ],
        "esito": "direzione_opposta"
@@ -33153,7 +33225,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,001 €/l al 2 novembre 2026 (+17,8%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,238 €/l al 2 novembre 2026 (+18,9%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -35348,12 +35420,6 @@
      "testo": "Prima dell'incarico: 2 frasi sul tema «inflazione e costo della vita» con una richiesta (2 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 4,2% a settembre 2026 (-5,3 punti). Leggi del Governo con il tema nel titolo da allora: 4.",
      "notizie_oggi": [
       {
-       "titolo": "Manovra, la strada in salita di Meloni e Giorgetti tra debito, inflazione ed energia",
-       "fonte": "InsideOver - Inside the news Over the world",
-       "data": "2026-10-25",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0Y2cUpKNW5uU2VoeTJTYU4xX093MHViN1lta19EWG9BX0FmdTdsNkxLYlhNTFhpNU5UbDlzY0lWVndrSmNuZWtzZGpaTVduNll2Zld0YVhsWjhHQXFHVkRfZUpNU2hOcnlUTzFmVlNCZDFZb05QYlF3NnpOQ2FsZzZhQ1pEQ1pXNGNKZW5UUzVhdzRGX2JQQmt6VU93NlRTNnFBSWZFQWlzWDZJZHNNb2E5Yk1lckNPMHRZTXYyOA?oc=5"
-      },
-      {
        "titolo": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
        "fonte": "ANSA",
        "data": "2026-10-30",
@@ -35382,6 +35448,12 @@
        "fonte": "ildenaro.it",
        "data": "2026-10-30",
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjVneUlhSkdPZE9VWENxMDJIb3dKTklBSXpNNWRmUHN2SE9MWDNreHdRRk5wYU5DU2oySG9pTkttakFiUDBhc2hTSlM1LVB4bWhEZjB6NThRemo2T0pzUmNEajU4OXlJMmhPN05JVlZtWFNGLURib3JfZjNKSVFEYkxNX1E2UjVwSDJGdnpvSjM?oc=5"
+      },
+      {
+       "titolo": "Manovra, Giorgetti: \"Ragionevole che banche aiutino lo Stato\". E sull'inflazione ha le idee chiare",
+       "fonte": "Affaritaliani",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmVNTHpPRUhYb0RDeGtsN1JrQkJ5TDRILWZTc1dvdW5SR0V0bW52R28xeUdEWjQ1YmdQM041VG5FTXBWOS1vLV9reF9QZm5pQXFtVXdLbVB5NHo3bVlLNHU4N2p3LWNKTXFXc3pMNDVFTDRNamcwQXdWNzF4enhzSUtMdURrVnRmT0pZc25yUGhzeXgzRFU5aTRIMVRMeUZnRzIydHNuNHJ0VjBCeTFDMEthMmlybEpVdm0xaUlCXzBOQWE0OU1adVNPRTFDSENK?oc=5"
       }
      ]
     },
@@ -37030,7 +37102,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -37461,6 +37533,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -37491,13 +37567,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 9.0,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.0555,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 2.5,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.0155,
        "serie": [
         [
          "2018-01-29",
@@ -37922,6 +37998,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -37943,7 +38023,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1.",
+     "testo": "Prima dell'incarico: 2 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%); rispetto alla prima richiesta (6 maggio 2019: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%); rispetto alla prima richiesta (6 maggio 2019: 0,617 €/l) +2,5%. Leggi del Governo con il tema nel titolo da allora: 1.",
      "notizie_oggi": [
       {
        "titolo": "Meloni da Spalato: \"Pronti a intervenire su accise. Legge elettorale? Serena, come sempre\"",
@@ -40471,15 +40551,9 @@
      "notizie_oggi": [
       {
        "titolo": "Caro Vita: Palmisano (M5S), \"Sud in crisi tra carovita e proteste, governo Meloni muto\"",
-       "fonte": "Touchpoint News",
-       "data": "2026-10-20",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0V1ejczbmtqazRiR3dNYThYMEJON3AtMFlIbVl4cklONk9CdWpWR3EyYlJmcW9Malh4ZEx2a1JkYVpHREZZMEJUVzhZLWhOXzFKYkItOTBfTTVKMS1fOVpfZE9PUnlGM1VRaVZaLUVYbUNaajNXc0x0QzhQbmttQThxUXU3Q3lmY09RSUR4M2tTcUx0elhCVDhsdmJoanJiaHBzUDFwN3QxZFlRUTNhbU1XcV9RRGFjWWE4MXhpZw?oc=5"
-      },
-      {
-       "titolo": "Caro Vita, Palmisano (M5S): \"\"Sud in crisi tra carovita e proteste, governo Meloni muto\"\"",
-       "fonte": "Rec News",
-       "data": "2026-10-20",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXlGTU9SVU9MM3piNHR6RDl0LWZ1aEpxQ0NqYU82dVpFS1BKVWtuamZPeFc5M0V4OGNMMFdLSXl3UFZNU0tONzMxdng0SXJFQWhaNEtvMDdBd3JOWTh1eW1ydlprSFZlQ3FiVzJLX0dqTE1xYmZnSlQ2a04zN0NXYUNOdHZURTBITnJ0OEJRZVJvYk9MVTBOR1JhM3ZiMDFpcGh2M2FLV2RJbU91SmJJWl9wSlhVdw?oc=5"
+       "fonte": "Sassari Notizie",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXpYUTBNNXFITF9QbzhpX2tJTGF3VXZrUVRoUFdoTUNkWllvanQ3ZmZmOUIzcG5jS0hMVHc0aFZqcm1Wd0NwV0ZjZ1l3QWhxYkJSMGlLdG9nc2dvYlpqRUc0cDhIWjRuTlk5UmFrZERsRWpKSVBHWlM4Ry12bUVHZ0dadlNDT3ZCU2RBWmVuNnpZSVBpTFZrUWNQWXNqUkplZUU4ZFVsMW5UOWM2QUtPLTEtZmdMekhEd01oQkJpd1BWMEk?oc=5"
       },
       {
        "titolo": "Giuseppe Conte del M5S attacca Rai, Mediaset e Governo Meloni: \"Oscurano le proteste contro il carovita e il caro carburanti\"",
@@ -40504,6 +40578,12 @@
        "fonte": "Il Messaggero",
        "data": "2026-10-23",
        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTXVsVTd3bWhxc0RNOEx5LVl1d2pWTkhPMTNZaVU1bDREaklrd2xJcDhRQml1N1FNME9YaG1zYTFuRlRydnE4S2xBWDBidUFwM2pBMnZJY21OQW9IOHdhRFBXcm41VUFtWTg0MFRma2V1VTRnSWJ2eXpsM18zRzhsdGpBazl6azVETy1rVUM3VFNpTmZTTW5Db0hvY21mZHBBUDZ2b3dmM1M3eE5YX2cxZTFCMDF1TE1nWW5UMHN0LWVRWUNNQlJn0gHMAUFVX3lxTE5nV0lHbVpZZ2RSWEJ0Z2xwTGc3VFFVZTEtdWU2T1Z0SDN4QWswSlVlakJNbjVOVTB2bkFTOEdMLTdwVk8wZHpucFNJdlFPamFPTll1Q2Nla2tsSGEzWHNDOGZ0NWt5YV85aFBNdUhjZVctR2VyQkRmajRWdHdUMEE5VXVJdUZKbXVLckJiRXJfc0hETnNmRFFsNkNWZ0FPX3drd0VfSlVvVVBybHBXRlVOdnJNZktxSHZaTTNUWmNmaVhzSU9ta1dkQkFOWQ?oc=5"
+      },
+      {
+       "titolo": "Napoli, corteo contro il carovita: cori offensivi contro Meloni",
+       "fonte": "Il Roma",
+       "data": "2026-10-24",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWZiU29zZjJtZk1NYUpiQ1FsRFpKSnRnUVM0NmhvR1BSNmw4TEl2dHJvak9xMXdydnZ1UnMyaFhPRGh3aHJXd1U3NXBTeEVzay1uUERHMjlPaE1uRFFzeUlBYXFsa2s1eFJjSUVPUFBVLWhEUHRTNGVFWWprbDNuSzQ4anRIZFRnWXZHS0JHLU5yNXlUSUE0WHFzTHRmSFI0dHhXZUo4ZWJJbC1Ra0pxRDBrSWZKOFkz?oc=5"
       }
      ]
     },
@@ -40898,10 +40978,16 @@
        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1l1QmpnWDVIelBTVl9FSTZIVE84YVVXOHdTUTZfQnNVTUdQSkd4UWFTNkNqNjZJSXJhU21pNTJwdUkyMjc5TGpPaEZLcGpVaHRzNXdrQUtTRmdKTkhHVzRjOWo0b3A5QU5YR3FjWmcxZ3BsbDFITE10UF9DQng0UTA2US1RaXFFRlJiTHpuSXBoVHR3Z3M3RnFvVEo5ZEJtNzByVW45REVEQ0RYVkE?oc=5"
       },
       {
-       "titolo": "Bollette, Eni taglia 30% su luce-gas. Enel, già da aprile sconto del 50% su elettricità. Meloni: \"Anche altri attori diano una mano\"",
-       "fonte": "eg news",
+       "titolo": "Tetto al prezzo del gas, Giorgia Meloni incassa l’intesa tra Roma e Bruxelles: quando può scendere la bolletta",
+       "fonte": "Alphabetcity",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNalNaYXR3SnRnMDNnNWE4T3E1OV9qTHAyWE1TTXVoUVdveS14bGE3ek9zRFowM1FkZHZVNHVHSHZFQlR6bWhPcnhVZ3dkbFBFRXB2T2U3ZlBIMVlkalZOSUlKNDkyYkJ6N3VWN3g3SmpSMHUwSVRiWEVOajE4MVFKWnVEbGZkSC03SjA3b1NfWUN0a3M0Wkdyb2hfdF83d3plNHRYckZMemtHZm1VUGQ4SV9SaldDeTR6QkM5MDJoZXlOc1dVSG9kQ3Q3cDNEZFpVb3ZYU1NDUTNnYjg?oc=5"
+      },
+      {
+       "titolo": "Da Vibo la sfida di Giuseppe Conte a Giorgia Meloni: «Carburante al +25%, bollette al +60%: è questa la storia che stanno facendo» · ilvibonese.it",
+       "fonte": "Il Vibonese",
        "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDFlYW9QOTNwdjBOQ3hCWE9OU25uYjUyRjAzRmNIalFBOVRoc2g4R1R3b2JBTTlnc2J3TGxNR29TTHRUTWY1UXY3WUNvYnd3bkh3UTVuSXNEc01tWDJwazBJb0tDaU52NmRWYnFPTW1XUHVPV3Y1amxfQ3VGbHdGY1V3bUtxcS1jaEI5eFNRV3I2UUQ0MWxjZVk5Mjc1UEQzUkRYNnJVaTAwdzNkVng3NENoZXFZakVBcGxMdFNLNVZuQi15dmxOOUwxbC1xZllrVi1uQXN5bVJubFlkV2Q4?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONm0wN1M1UGthbDJmV0p4R2xjZUo4cjNLTzlUQWpidWxEWkktZU9FS2dHUUFtN2FDeXJsekJWalpPLU9zbms0bndkdmdzLVYxbWRCRGxhbUFQd0VyVzRfdFczZlZya21yWG8zcUczU1c0RjNBal8yNFRZaTlFZlZKYUJvblNZTWo4b3U5Q1JQV2ZkWEYtbWV5bEg0Wl9zZFQ3RHZIek8tSHhXZ2t4ZXZDTUNOZUd3ZHVUaGJGSkRUQUI1VHV2Q0JfQjRmTU1HU0V3d1hTNVVDUnk1UDF0VVY0ZU1RTW1rOHdpUE92dUlScFJHV183RFR3V9IB_gFBVV95cUxOY0JMV21TdU5ETmMwRXBob05BdGNrb1dFRksySUQ4Rld6WEZsOERZLTM3RFJUR0JOcGtCd1d1S3R6VWpyN1BJQWwtQ01wNVpxblJOSnFxal8wRlkzb3NUaDhILTUzUm1XcWExZC1Lanh4TE5RSDQ4VEExNXJRRlhtV0VXMUN3UUZGTjZmRjBIcmlBSGJYM2lwMGJiNVo3QnE1bW5rWnQwbVpFQ0RWNjQ5bWF6SDlINjVCdll5aDhpeDhoT0V0ajE3TFRvallrU1h3eWJmN29FNl9WYTVtNGtVNXdjVUVuYTFHa0VpM3doU2pSSEFoVE1jNUhRY2FPUQ?oc=5"
       },
       {
        "titolo": "AVS lancia bolletta sociale, Fratoianni e Bonelli: \"In Italia 2,8 milioni famiglie in povertà energetica che Meloni non vuole vedere\"",
@@ -40916,16 +41002,10 @@
        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkNMTk5fV1M2eGVJZEhRVURVVzVVblQ0bkQwRVRZNW00RW9FU2kycEU2RVZXTHNKUTBENjZuY0VEc0RNNS1IemwxOXdtWVZyanVoWGNvcGVNdEw3NTVZNHpFNXB2QTI1bWlIN2Y1ZW5KVDJNZWJkNnZHSDBQQU5LQnJBUDgtYTFsQVhIaVN1ZUhwTDlrVjJ2ZVM5Vl9LX2pKMnZUQ2RtT0tBdWxoamZrQ05YaWxHYW9IZFotMEtNLXZhOXFyTWlsaXc4MmFCOU0?oc=5"
       },
       {
-       "titolo": "Manovra, via libera del Cdm. Meloni: \"Sono molto soddisfatta\". Slitta il decreto bollette",
-       "fonte": "Cremaoggi",
+       "titolo": "Dl bollette: Meloni, slittato al prossimo Cdm, nessun problema di coperture",
+       "fonte": "Il Sole 24 ORE",
        "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDA1RXNfRlYyTWV1aXE4U0s1ZUYwbm5CZE5EWTF6dVNSZi01dWJYZTlpanNkWThlNnFENGRxenJYOW9hM2prZHdVU0ZLd051b2syOTh5RTRNZkNBZWMtM3dJSEhNeG9nVUZIazN1cUhwNU9uMVFjR2hNQnhaRlB4Z0poOWljc3V2NGhTREpScThFQTl4eEE1Q014V3ZfSG4yM0w2eUNJbEVEOXRaQ213RlR1bTdhYWJiZ2ozcQ?oc=5"
-      },
-      {
-       "titolo": "Manovra, via libera del Cdm. Meloni: “Sono molto soddisfatta”. Slitta il decreto bollette",
-       "fonte": "Telesettelaghi",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODF2TXlpcXZlclNzQ0NLVG9fTnFOOU04RHV2Vi1qYnluWERxRnVVcE03eEJHV1hhdExfM2NFMFFaaXNLcGQ4SllhUlcyX0NTaW5iMWptczhLcVZnYWVxZG81NUs3ZThxamFhRWpOM1NadmNxWmpVVkJNZEVjZU9kcmlnWnZLMkctSzhMOEoycEI0cjZORVpobFI2RkYwdENVbEpKU2NBUUtCb0NTWDdhYnZKdjVOVGR5d2ltREQ4Z0JZWkU?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSFRMX1RWb01JMkJtNGc3ZTBzZ185ZUladDlhdFlQVTB5a2Q1dTlFSTFDRmJ0dUZMYU13RXNJUEg1QmlJeDZqOGdtUGtDSHBOMGhHVW5CYnltaGo5Y005SUlGc2NHLXhkb2xwX21GSFBCc2M?oc=5"
       }
      ]
     },
@@ -41238,7 +41318,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -41669,6 +41749,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -41699,13 +41783,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -42130,6 +42214,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -42151,7 +42239,7 @@
       "riduzione": 1,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 1 frase sul tema «accise sui carburanti» con una richiesta (1 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",
@@ -44874,7 +44962,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -45305,6 +45393,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -45335,13 +45427,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 9.0,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.0555,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 2.5,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.0155,
        "serie": [
         [
          "2018-01-29",
@@ -45766,6 +45858,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -45787,7 +45883,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%); rispetto alla prima richiesta (5 marzo 2018: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%); rispetto alla prima richiesta (5 marzo 2018: 0,617 €/l) +9,0%. Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 4 frasi sul tema «accise sui carburanti» con una richiesta (2 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%); rispetto alla prima richiesta (5 marzo 2018: 0,728 €/l) -7,6%. Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%); rispetto alla prima richiesta (5 marzo 2018: 0,617 €/l) +2,5%. Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -45904,13 +46000,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.0058
+        "data": "2026-11-02",
+        "valore": 2.0006
        },
-       "variazione_dall_incarico": 18.2,
-       "variazione_dalla_prima_richiesta": 18.6,
-       "differenza_dall_incarico": 0.3082,
-       "differenza_dalla_prima_richiesta": 0.3143,
+       "variazione_dall_incarico": 17.8,
+       "variazione_dalla_prima_richiesta": 18.3,
+       "differenza_dall_incarico": 0.303,
+       "differenza_dalla_prima_richiesta": 0.3091,
        "serie": [
         [
          "2018-01-29",
@@ -46335,6 +46431,10 @@
         [
          "2026-10-26",
          2.0058
+        ],
+        [
+         "2026-11-02",
+         2.0006
         ]
        ],
        "esito": "direzione_opposta"
@@ -46365,13 +46465,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.2467
+        "data": "2026-11-02",
+        "valore": 2.2384
        },
-       "variazione_dall_incarico": 19.3,
-       "variazione_dalla_prima_richiesta": 24.6,
-       "differenza_dall_incarico": 0.364,
-       "differenza_dalla_prima_richiesta": 0.4436,
+       "variazione_dall_incarico": 18.9,
+       "variazione_dalla_prima_richiesta": 24.1,
+       "differenza_dall_incarico": 0.3557,
+       "differenza_dalla_prima_richiesta": 0.4353,
        "serie": [
         [
          "2018-01-29",
@@ -46796,6 +46896,10 @@
         [
          "2026-10-26",
          2.2467
+        ],
+        [
+         "2026-11-02",
+         2.2384
         ]
        ],
        "esito": "direzione_opposta"
@@ -46817,7 +46921,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1.",
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,001 €/l al 2 novembre 2026 (+17,8%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,238 €/l al 2 novembre 2026 (+18,9%). Leggi del Governo con il tema nel titolo da allora: 1.",
      "notizie_oggi": [
       {
        "titolo": "Caro carburanti, Salvini: “Oltre un miliardo agli autotrasportatori, al via i pagamenti”. Linea dura su blocchi illegali e violenze",
@@ -46832,28 +46936,28 @@
        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqSFRlZEV5TTdkSnJ5WC1aRWQ1RHNULVo0VTFZUm1UUFNsRmxmd0NHNWJ5ekdOVGl2TE1KbHVQQjZXcnpyLU9Ha2t6OEdGQWo4V2VFeFZuQ0g4SEtyVGRHR3JLb1hHdw?oc=5"
       },
       {
+       "titolo": "Autotrasporto, Salvini annuncia lo sblocco dei pagamenti per il gasolio",
+       "fonte": "GazzettadiMilano.it",
+       "data": "2026-10-21",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzZoXzBZMTJTVndOTjRUd0ZkeWo0ZnVGODZGNFhNVDRIZEoyUlV0aGsyMzV2ckFjQzFxTjJiT2FpdVRxZ1ZFci01bmtVT2JWbndUX2RCYzJfa2NYd3Vva0VOVXJVV1NMWmZhbVFyMFVFUHFrOG16QkJSNGVJaVdlY0t2VU9ZSk9uTldpV2dlNW1xN3hCbEEyMmltWklma0drTkg2NzJqLTA5MDZNWWhZVGFR?oc=5"
+      },
+      {
        "titolo": "Caro gasolio, Salvini promette aiuti agli autotrasportatori: ma la protesta non si ferma nelle Marche",
        "fonte": "Corriere Adriatico",
        "data": "2026-10-21",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVnFPQU5vSG5zSjFTZlJXTmxwa0N0QWZ5S1RlQ21CODdiSElOSmxBQkt4TUxacUdqYWFmanMya2M3dEREVGRqaTFiU3hSSHdhWEZFS1M1ZGRXelk4TzZ3ZVJGcEpYdy1RQXBPdllzanpwNUlVUDk2VjhZa2xBdl9fRU1zLU1sRURISTlhdHJnT2FsSURnNGthM2dxNm10NGZlYkpOUWt0bHZOSGd0NHc3eldZM2k1ai1iRDdvMGxXem0zWHA5bWwxazJTWjPSAdIBQVVfeXFMUGNwdnY1RlRQUDVDdVE3aVdUXzEyaGRaQWZFcXJlMExabzhZcmVWclpjbFR3cDQySE9UQnB3bHpQSVpHV0s0LTk3WlpDdWFCMjZHS2kwbHg1aXhhVGVuSTIwRzl5SVlleDdHaEZacFRaOTR3TVJLZXoyZVdJcmFPWmtHSjE4aFBmZUtrZXJPQ25HNUlkcU1yN3lDZW5VZ0RmcXo5dkhwTGhMS2o2T0NrUzdEY3VwMFpTU0NWOHJxa0FUMEpqei1PbmdMdGx5TXZWZlJ3?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVnFPQU5vSG5zSjFTZlJXTmxwa0N0QWZ5S1RlQ21CODdiSElOSmxBQkt4TUxacUdqYWFmanMya2M3dEREVGRqaTFiU3hSSHdhWEZFS1M1ZGRXelk4TzZ3ZVJGcEpYdy1RQXBPdllzanpwNUlVUDk2VjhZa2xBdl9fRU1zLU1sRURISTlhdHJnT2FsSURnNGthM2dxNm10NGZlYkpOUWt0bHZOSGd0NHc3eldZM2k1ai1iRDdvMGxXem0zWHA5bWwxazJTWjM?oc=5"
       },
       {
        "titolo": "Le promesse di Salvini non bastano, il blocco dei tir resta: supermercati vuoti, distributori di benzina a secco e trasporti a rischio. I problemi da Sud a Nord",
        "fonte": "Today",
        "data": "2026-10-21",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdoVjd4ZEt3d1I5MUNTSE1waXFOUVRzNGZPcjdKQnNGUmVvbUp3ZXpwQlUxNF84SklXMUVsZnRjOFNLYk1JbXFPVFV1VWFlbmNiQ1JUQXdyd0NEWXRjejZ5Z3kxT2wteHFHemYxNEVsOEdXck55eWxhSFpwWWY0VGQ1ZlFRQ19qSHRQSnJ0NERnNXdCVlhjUw?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdoVjd4ZEt3d1I5MUNTSE1waXFOUVRzNGZPcjdKQnNGUmVvbUp3ZXpwQlUxNF84SklXMUVsZnRjOFNLYk1JbXFPVFV1VWFlbmNiQ1JUQXdyd0NEWXRjejZ5Z3kxT2wteHFHemYxNEVsOEdXck55eWxhSFpwWWY0VGQ1ZlFRQ19qSHRQSnJ0NERnNXdCVlhjU9IBmAFBVV95cUxObEk3UEE1ZHFoeWtJRTRwd2otZHJySHNMTkpRSTFYaVZZQ082ZFRfalhsYTNqQ1F4eEU5U3BOenRnRWZoaTBNNnR4OWFzaTFmSUoyQ19mOHJCV2FjMjRudzViazJqYkN1eHZvMWhzNS1fMFl6TnY4RWhqM3MxLXNrRl9pMGdqRWt3MlJUejhLOGU2YjNSTnliOQ?oc=5"
       },
       {
        "titolo": "Caro carburante, Salvini: «Disponibili a ragionare su un tetto al prezzo del gasolio, ma non tolleriamo i criminali» · LaC News24",
        "fonte": "LaC News24",
        "data": "2026-10-21",
        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPczlMLTMtNTVBVC1XNHVhNkRyU3ZaWkNyTWtTTmZUcGgwaDVFNk9CTTdUMExWa01RM09yQ2tIOFZQaExnVkJ2eFJSbWQ1STRsU2pRdExKaWFZNzBmV3ZTbmJxc1lPTEpBUXRveHE4TFF0WTNqOWwwcVM0WW4yU0c1Q1kxOE80dnNVcDREY24zTWJBaFBzWWs2a1EtQ1B0NEczc3NDdHIzanpPUHhTMmxZcjQtWmVtdzA4ZFN4eTM4cy05U0RGTk5lYlM1TGxSNnRGWDZ2Z2V3OEduY2pNQXljeTZJYl93ZGN5ZmfSAe8BQVVfeXFMTmlWU0IyXzBIdTh3Y0lsTXR1UDl4SVc3QnNVYjJqcE1zWHo4RHNvU191Y0ptdjNkb3JmMGVwV0lUY09wTWQzNXQ2R3F2VUxQLVpZeUYwcGtIOFRhdTZBRklhMGxEcHRma2xmVmU1Tmh3ZWhUbjVvMWFzQVhVbDc2Z3FvRXhzSDBVVFR3czAzTHlxZ2kyTnZPcVV4b2R5T3BjYkJfNkhxa0pFSmNSRjR5a3p2aDA1SWhEajBaWURpcmF0X29Wc0ZOTHFrYW11aGJfMllYSkprOUhlOTlZY2JuRmhqZV9GTkpNMzVfcFN3MnM?oc=5"
-      },
-      {
-       "titolo": "Caro gasolio, Salvini: «Valutiamo un tetto al prezzo». E avverte: «Basta criminalità»",
-       "fonte": "Meridionews",
-       "data": "2026-10-21",
-       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmV3lJUGxxdGhmbjBtREkyMFpuR1M0SVRXbGc2TzZOX3g3YjFqQllEUzhJc2pGN1llMjBOUmpTNzgtWkhDQjFyam11cTVfRDNaUkRQMWtaSQ?oc=5"
       }
      ]
     },
@@ -47892,12 +47996,6 @@
        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yMkpOWWJlS0J1dzNlS012NmxoVTFuUHBXN09FRjVjQmtOenBiMHdfUk9zcV81NzJsWkp4bm52eVo3aVJWamtZQVh3VlBfNS15OE1OZ21OZHAxQkMxMFhNcUFFd2VNbndRbGszUlVQbFpLYUU?oc=5"
       },
       {
-       "titolo": "Salvini confermato segretario della Lega: bordate a giornalisti, Schlein, Fornero e Vannacci | Libero Quotidiano.it",
-       "fonte": "Libero Quotidiano",
-       "data": "2026-10-25",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1ppMWk4Y2ZqQkR0TURxUU9sUE56NFVzVDhpUEdkdUIxM01CVlRER1JSVi1keUdkUDhxbVZLd0o3M2FFTnpueTRZemhCWXlSeGxOUDN2eU50YWdGNThJTFh3ZzBQenZxbXBZdmRfWl9iOEFONDd1YVlsaGpmakFlZzl1MnZvS1hCNFdYQWdzLUlNdDlPMzVqTmhVMHpWU3JOc0NqSzNaQ0dyZTVLSHJ4OER3VWMxaTU1N081aWNXNTlTaE0tb2FWT2ZRRnZhbG5h0gHUAUFVX3lxTE9TbVFucEQxcVBMQk5jdnJxRXgxZDlzNDBwNnNwUlRCeUQtR09sYU1PaVliMTVXUkl3YkJpeG82ZlVnUWotdmpCblNuVjY2SDBhS3dQUHppcTBicEdSazNOb1BjU2IzOUhwQnlCY1NrYWJsZkJsc1pSNlQtekhSX09HNUtSeVlGWXBhZkR2LVNJaXMxZmJIQW1Vaml4Q2F1OUoxYXJBWFJ4cVVNWE1yWWw4dnA0VjdBRHJCYzk4ZHZzVU9BdnBVTHkwUWZNbnNQUzF6VzIy?oc=5"
-      },
-      {
        "titolo": "Pensione a 64 anni, Salvini: 'Fiducioso di superare la legge Fornero con la Manovra 2027'",
        "fonte": "Sky TG24",
        "data": "2026-10-27",
@@ -47914,6 +48012,12 @@
        "fonte": "Il Sole 24 ORE",
        "data": "2026-10-27",
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdF9YTnNDaFNiV0c3U3dRdVRMTjc5eFRCNnZjbVRhQk9lTnpLaTNNV0plczZ6c0JIWXdwdEdieng3TVY4LUc5VkpBVUVzdWJlLTZLNEtITzdRZ3FxaTV6OTVRcEQwVWFIRndRZVAzb1F4TGxWRWxIVXBwRDQzREdrejUta3pQX3FXMlZ5LUpJRG14NWgtM0gyb1haYjM4RGVjR1dKdGVsWnc2dw?oc=5"
+      },
+      {
+       "titolo": "Salvini: \"Stiamo lavorando per superare legge Fornero, in pensione a 64 anni\"",
+       "fonte": "Startupbusiness.it",
+       "data": "2026-10-27",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdV9UMThVQXZYUXhQakVkTWFHOU5ybVVDUVlHRWllT1ZQaUhfMzBmcXdLelJGOU81UjV1elo0NTdDTG5na1dKcTdFV1FvdUYtSmpORTJBWS1KYmZhMVFwUWJJQUlRVThNNGQ5TVJJOGRqb3Zwd0JGWi1ueFJybnF1VERiSGIzSUt0RkJwR05UNnRuUWF6RloxNGI3S0QxblpnT0hRMHZVcTNYYVFZUDZOZHV3?oc=5"
       }
      ]
     },
@@ -49898,7 +50002,7 @@
         "valore": 0.7284
        },
        "oggi": {
-        "data": "2026-10-26",
+        "data": "2026-11-02",
         "valore": 0.6729
        },
        "variazione_dall_incarico": 40.7,
@@ -50329,6 +50433,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6729
         ]
        ],
        "esito": "direzione_opposta"
@@ -50359,13 +50467,13 @@
         "valore": 0.6174
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 0.6729
+        "data": "2026-11-02",
+        "valore": 0.6329
        },
-       "variazione_dall_incarico": 83.2,
-       "variazione_dalla_prima_richiesta": 83.2,
-       "differenza_dall_incarico": 0.3055,
-       "differenza_dalla_prima_richiesta": 0.3055,
+       "variazione_dall_incarico": 72.3,
+       "variazione_dalla_prima_richiesta": 72.3,
+       "differenza_dall_incarico": 0.2655,
+       "differenza_dalla_prima_richiesta": 0.2655,
        "serie": [
         [
          "2018-01-29",
@@ -50790,6 +50898,10 @@
         [
          "2026-10-26",
          0.6729
+        ],
+        [
+         "2026-11-02",
+         0.6329
         ]
        ],
        "esito": "direzione_opposta"
@@ -50811,7 +50923,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,673 €/l al 26 ottobre 2026 (+83,2%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 3 frasi sul tema «accise sui carburanti» con una richiesta (1 di abolire o eliminare, 2 di ridurre). Accisa sulla benzina: 0,478 €/l all'inizio dell'incarico, 0,673 €/l al 2 novembre 2026 (+40,7%). Accisa sul gasolio per auto: 0,367 €/l all'inizio dell'incarico, 0,633 €/l al 2 novembre 2026 (+72,3%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "prezzo-carburanti",
@@ -50873,13 +50985,13 @@
         "valore": 1.7338
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.0058
+        "data": "2026-11-02",
+        "valore": 2.0006
        },
-       "variazione_dall_incarico": 18.2,
-       "variazione_dalla_prima_richiesta": 18.6,
-       "differenza_dall_incarico": 0.3082,
-       "differenza_dalla_prima_richiesta": 0.3143,
+       "variazione_dall_incarico": 17.8,
+       "variazione_dalla_prima_richiesta": 18.3,
+       "differenza_dall_incarico": 0.303,
+       "differenza_dalla_prima_richiesta": 0.3091,
        "serie": [
         [
          "2018-01-29",
@@ -51304,6 +51416,10 @@
         [
          "2026-10-26",
          2.0058
+        ],
+        [
+         "2026-11-02",
+         2.0006
         ]
        ],
        "esito": "direzione_opposta"
@@ -51334,13 +51450,13 @@
         "valore": 1.5932
        },
        "oggi": {
-        "data": "2026-10-26",
-        "valore": 2.2467
+        "data": "2026-11-02",
+        "valore": 2.2384
        },
-       "variazione_dall_incarico": 19.3,
-       "variazione_dalla_prima_richiesta": 24.6,
-       "differenza_dall_incarico": 0.364,
-       "differenza_dalla_prima_richiesta": 0.4436,
+       "variazione_dall_incarico": 18.9,
+       "variazione_dalla_prima_richiesta": 24.1,
+       "differenza_dall_incarico": 0.3557,
+       "differenza_dalla_prima_richiesta": 0.4353,
        "serie": [
         [
          "2018-01-29",
@@ -51765,6 +51881,10 @@
         [
          "2026-10-26",
          2.2467
+        ],
+        [
+         "2026-11-02",
+         2.2384
         ]
        ],
        "esito": "direzione_opposta"
@@ -51786,7 +51906,7 @@
       "riduzione": 2,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,006 €/l al 26 ottobre 2026 (+18,2%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,247 €/l al 26 ottobre 2026 (+19,3%). Leggi del Governo con il tema nel titolo da allora: 1."
+     "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,001 €/l al 2 novembre 2026 (+17,8%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,238 €/l al 2 novembre 2026 (+18,9%). Leggi del Governo con il tema nel titolo da allora: 1."
     },
     {
      "tema": "tasse",

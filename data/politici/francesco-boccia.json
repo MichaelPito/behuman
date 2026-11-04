@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-03",
-  "al": "2026-11-03"
+  "dal": "2021-11-04",
+  "al": "2026-11-04"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 172,
-     "assenti": 134,
-     "totale": 306
+     "presenti": 139,
+     "assenti": 128,
+     "totale": 267
     },
     {
      "mese": "2021-12",
@@ -2039,30 +2039,6 @@
       "astenuti": 50
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_587_037",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile (Approvato dal Senato) (DDL 3341)",
-     "atto": "C.3341",
-     "titolo": "S. 2381. - \"Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 35,
-      "Favorevole": 60
-     },
-     "esito": {
-      "favorevoli": 337,
-      "contrari": 4,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -2519,6 +2495,15 @@
      "assenti": 42,
      "missione": 4,
      "totale": 107
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Senato",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 1,
+     "missione": 0,
+     "totale": 1
     }
    ],
    "voti_finali": [
@@ -10492,9 +10477,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 943,
-    "totale": 1952,
-    "percentuale": 48.3
+    "presenti": 910,
+    "totale": 1913,
+    "percentuale": 47.6
    },
    "fedelta_gruppo": {
     "allineati": 33,
@@ -10502,12 +10487,12 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 81
+   "voti_finali_e_fiducia": 80
   },
   "Senato": {
    "presenza": {
     "presenti": 6348,
-    "totale": 8410,
+    "totale": 8411,
     "percentuale": 75.5
    },
    "fedelta_gruppo": {
@@ -10634,7 +10619,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-03",
+ "aggiornato_il": "2026-11-04",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10651,9 +10636,9 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 48,3% delle votazioni del periodo (943 su 1.952); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 47,6% delle votazioni del periodo (910 su 1.913); la mediana dei colleghi è 72,6%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 33 volte su 33 (100,0%).",
-  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.410); 451 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.411); 451 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

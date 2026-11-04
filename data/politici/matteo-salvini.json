@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-03",
-  "al": "2026-11-03"
+  "dal": "2021-11-04",
+  "al": "2026-11-04"
  },
  "anagrafica": {
   "nascita": "1973-03-09",
@@ -88,10 +88,10 @@
      "mese": "2021-11",
      "camera": "Senato",
      "legislatura": 18,
-     "presenti": 84,
+     "presenti": 83,
      "assenti": 46,
      "missione": 0,
-     "totale": 130
+     "totale": 129
     },
     {
      "mese": "2021-12",
@@ -623,6 +623,15 @@
      "assenti": 1,
      "missione": 104,
      "totale": 107
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Senato",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 0,
+     "missione": 1,
+     "totale": 1
     }
    ],
    "voti_finali": [
@@ -9365,82 +9374,6 @@
       "Presidente di turno": 1,
       "In congedo o missione": 12
      }
-    },
-    {
-     "id": "18-374-40",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.212",
-     "titolo": "Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 218,
-      "contrari": 0,
-      "astenuti": 2
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=49283&sessionId=374&voteId=40",
-     "voto": "Presente non votante",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 51,
-      "Astensione": 1,
-      "In congedo o missione": 10,
-      "Presente non votante": 2
-     }
-    },
-    {
-     "id": "18-374-39",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.865",
-     "titolo": "Modifica all'articolo 119 della Costituzione, concernente il riconoscimento delle peculiarità delle Isole e il superamento degli svantaggi derivanti dall'insularità",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 223,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=50760&sessionId=374&voteId=39",
-     "voto": "Presente non votante",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 51,
-      "In congedo o missione": 9,
-      "Presente non votante": 3
-     }
-    },
-    {
-     "id": "18-374-34",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.2169",
-     "titolo": "Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - Legge europea 2019-2020",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 199,
-      "contrari": 0,
-      "astenuti": 22
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=53891&sessionId=374&voteId=34",
-     "voto": "Presente non votante",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 51,
-      "In congedo o missione": 10,
-      "Presente non votante": 3
-     }
     }
    ],
    "gruppi": [
@@ -9475,7 +9408,7 @@
  "indicatori": {
   "Senato": {
    "presenza": {
-    "presenti": 465,
+    "presenti": 464,
     "totale": 8884,
     "percentuale": 5.2
    },
@@ -9485,7 +9418,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 356
+   "voti_finali_e_fiducia": 353
   }
  },
  "posizioni": [
@@ -9524,7 +9457,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-03",
+ "aggiornato_il": "2026-11-04",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/500px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini,_2025.12.04_(cropped).jpg",
@@ -9541,7 +9474,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle infrastrutture e dei trasporti (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 5,2% delle votazioni del periodo (465 su 8.884); 8.122 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 5,2% delle votazioni del periodo (464 su 8.884); 8.123 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 39 volte su 39 (100,0%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."

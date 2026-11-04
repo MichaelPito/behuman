@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-03",
-  "al": "2026-11-03"
+  "dal": "2021-11-04",
+  "al": "2026-11-04"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -63,8 +63,8 @@
      "legislatura": 18,
      "presenti": 0,
      "assenti": 0,
-     "missione": 130,
-     "totale": 130
+     "missione": 129,
+     "totale": 129
     },
     {
      "mese": "2021-12",
@@ -596,6 +596,15 @@
      "assenti": 1,
      "missione": 104,
      "totale": 107
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Senato",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 0,
+     "missione": 1,
+     "totale": 1
     }
    ],
    "voti_finali": [
@@ -9317,82 +9326,6 @@
       "Contrario": 18,
       "In congedo o missione": 1
      }
-    },
-    {
-     "id": "18-374-40",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.212",
-     "titolo": "Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 218,
-      "contrari": 0,
-      "astenuti": 2
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=49283&sessionId=374&voteId=40",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 1,
-      "In congedo o missione": 3,
-      "Presente non votante": 12
-     }
-    },
-    {
-     "id": "18-374-39",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.865",
-     "titolo": "Modifica all'articolo 119 della Costituzione, concernente il riconoscimento delle peculiarità delle Isole e il superamento degli svantaggi derivanti dall'insularità",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 223,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=50760&sessionId=374&voteId=39",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 14,
-      "In congedo o missione": 2,
-      "Presente non votante": 2
-     }
-    },
-    {
-     "id": "18-374-34",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Votazione finale",
-     "atto": "S.2169",
-     "titolo": "Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - Legge europea 2019-2020",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 199,
-      "contrari": 0,
-      "astenuti": 22
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=53891&sessionId=374&voteId=34",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 15,
-      "Presidente di turno": 1,
-      "In congedo o missione": 2,
-      "Presente non votante": 1
-     }
     }
    ],
    "gruppi": [
@@ -9429,7 +9362,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 356
+   "voti_finali_e_fiducia": 353
   }
  },
  "posizioni": [],
@@ -9454,7 +9387,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-03",
+ "aggiornato_il": "2026-11-04",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",

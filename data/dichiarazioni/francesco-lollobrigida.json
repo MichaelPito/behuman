@@ -7,21 +7,21 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-11-03",
- "al": "2026-11-03",
+ "dal": "2021-11-04",
+ "al": "2026-11-04",
  "riepilogo": {
-  "totale": 157,
-  "camera": 150,
-  "parole_camera": 84230,
+  "totale": 156,
+  "camera": 149,
+  "parole_camera": 83402,
   "governo": 0,
   "senato": 0,
   "verificate": 7,
-  "prima": "2021-11-03",
+  "prima": "2021-11-04",
   "ultima": "2026-10-21",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 13,
+    "camera": 12,
     "governo": 0,
     "senato": 0,
     "verificate": 1
@@ -69,7 +69,7 @@
    },
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 42
+    "n": 41
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -143,7 +143,7 @@
   "temi": [
    {
     "tema": "Unione europea",
-    "n": 43
+    "n": 42
    },
    {
     "tema": "Ambiente e clima",
@@ -209,7 +209,7 @@
      "n": 2
     },
     {
-     "tema": "Unione europea",
+     "tema": "Esteri e difesa",
      "n": 1
     }
    ],
@@ -285,7 +285,7 @@
    ]
   }
  },
- "recap": "Dal 3 novembre 2021 al 21 ottobre 2026: 150 interventi nell'Aula della Camera (84.230 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (43), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+ "recap": "Dal 4 novembre 2021 al 21 ottobre 2026: 149 interventi nell'Aula della Camera (83.402 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -364,22 +364,6 @@
   }
  ],
  "camera": [
-  {
-   "data": "2021-11-03",
-   "leg": 18,
-   "seduta": 587,
-   "argomento": "Sull'ordine dei lavori.",
-   "fase": null,
-   "categoria": "Ordine dei lavori e procedura",
-   "ruolo": null,
-   "gruppo": "FDI",
-   "sunto": "Preventivamente si adotta il Daspo verso una persona che, civilmente, in piazza, annuncia la volontà di contestare il green pass , da vaccinato, nemmeno da No-vax, uno degli organizzatori di manifestazioni che io ho visto abbastanza civili nella città di Trieste, certo represse in maniera molto…",
-   "temi": [
-    "Unione europea"
-   ],
-   "parole": 828,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0587&tipo=stenografico#sed0587.stenografico.tit00040.int00020"
-  },
   {
    "data": "2021-11-04",
    "leg": 18,

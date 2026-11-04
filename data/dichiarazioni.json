@@ -219,15 +219,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 157,
-    "camera": 150,
+    "totale": 156,
+    "camera": 149,
     "senato": 0,
     "governo": 0,
     "verificate": 7,
-    "prima": "2021-11-03",
+    "prima": "2021-11-04",
     "ultima": "2026-10-21"
    },
-   "recap": "Dal 3 novembre 2021 al 21 ottobre 2026: 150 interventi nell'Aula della Camera (84.230 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (43), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+   "recap": "Dal 4 novembre 2021 al 21 ottobre 2026: 149 interventi nell'Aula della Camera (83.402 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -245,15 +245,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 184,
+    "totale": 182,
     "camera": 54,
-    "senato": 130,
+    "senato": 128,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-11-03",
+    "prima": "2021-11-04",
     "ultima": "2026-07-29"
    },
-   "recap": "Dal 3 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 130 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+   "recap": "Dal 4 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 128 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -352,15 +352,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 139,
-    "camera": 85,
+    "totale": 140,
+    "camera": 86,
     "senato": 0,
     "governo": 0,
     "verificate": 54,
     "prima": "2021-12-09",
-    "ultima": "2026-10-24"
+    "ultima": "2026-11-03"
    },
-   "recap": "Dal 9 dicembre 2021 al 24 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+   "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -378,15 +378,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 274,
-    "camera": 257,
+    "totale": 275,
+    "camera": 258,
     "senato": 0,
     "governo": 0,
     "verificate": 17,
     "prima": "2022-01-03",
-    "ultima": "2026-10-14"
+    "ultima": "2026-11-03"
    },
-   "recap": "Dal 3 gennaio 2022 al 14 ottobre 2026: 257 interventi nell'Aula della Camera (157.699 parole), 17 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (121), lavoro, salari e pensioni (46), scuola e università (34). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (119 interventi).",
+   "recap": "Dal 3 gennaio 2022 al 3 novembre 2026: 258 interventi nell'Aula della Camera (158.326 parole), 17 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (122), lavoro, salari e pensioni (46), scuola e università (34). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (119 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -512,15 +512,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 195,
-    "camera": 195,
+    "totale": 194,
+    "camera": 194,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-11-03",
+    "prima": "2022-01-19",
     "ultima": "2026-10-13"
    },
-   "recap": "Dal 3 novembre 2021 al 13 ottobre 2026: 195 interventi nell'Aula della Camera (113.956 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (31), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (126 interventi).",
+   "recap": "Dal 19 gennaio 2022 al 13 ottobre 2026: 194 interventi nell'Aula della Camera (112.752 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (31), unione europea (28), economia e conti pubblici (26). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (125 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -593,15 +593,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 132,
-    "camera": 131,
+    "totale": 133,
+    "camera": 132,
     "senato": 0,
     "governo": 0,
     "verificate": 1,
     "prima": "2022-10-25",
-    "ultima": "2026-10-20"
+    "ultima": "2026-11-03"
    },
-   "recap": "Dal 25 ottobre 2022 al 20 ottobre 2026: 131 interventi nell'Aula della Camera (74.522 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (27), esteri e difesa (27), lavoro, salari e pensioni (22). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (60 interventi).",
+   "recap": "Dal 25 ottobre 2022 al 3 novembre 2026: 132 interventi nell'Aula della Camera (74.905 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (27), esteri e difesa (27), lavoro, salari e pensioni (22). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (61 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -628,7 +628,7 @@
     "prima": "2022-06-22",
     "ultima": "2026-11-03"
    },
-   "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.470 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
+   "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.474 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
    "valutazione_coerenza": {
     "stato": "con_cambi",
     "temi_confrontabili": 1,
@@ -4215,22 +4215,16 @@
    "url": "https://www.governo.it/it/articolo/2-edizione-di-orientatalenti-il-messaggio-del-presidente-meloni/33007",
    "notizie": [
     {
-     "titolo": "Meloni a ‘OrientaTalenti’: “Investire sui giovani è investire sul futuro dell’Italia, nessuno sia costretto ad andare via”",
-     "fonte": "La Discussione",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmxxZ2JraEtDSFJ0QS04N3o5X3cwNzVsYkJjZHZqeUIwVnk3SVhhTWVYYS1VX2pYWFBDZm5NYU5WQ2hwaXhDT3RBcTBEbGhJRGlHMnlDcFR2WnVFb051dzlLMjk2M3JuYmhJNlh3TFR4VnZESFZfVDg2LV9YMWstekV4VXh4UQ?oc=5"
-    },
-    {
      "titolo": "\"OrientaTalenti 2026\", messaggio della Premier Meloni: giovani e merito al centro",
      "fonte": "Corriere dell'Economia",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0ZEU0pyTndaaHRnSmJ6eEJ6bDR1RFo0ZlpzbnI5LURxblhpdjk4TVhGNGhYTVVJUXBqeEEyQzZ2ajBhZVdGVk5GZDdqeXhvd2dKZ3FWUTV3anc1MWZRRjdyVEVCQmNkYTA0NXMxYktadTdPb3BlSXZiX1owOXpYOWJwRUtQSEN5R013d2d0eG9XUVVtVUtSX3lHU1d4b09TbUtGbHRpc013ejBRaEVVT1BHVGplQUM0SURmQlNkdWxhUHM?oc=5"
     },
     {
-     "titolo": "Meloni ai giovani: \"Nessuno deve lasciare la propria terra per vedere riconosciuto il proprio valore\"",
-     "fonte": "Secolo d'Italia",
+     "titolo": "Meloni a ‘OrientaTalenti’: “Investire sui giovani è investire sul futuro dell’Italia, nessuno sia costretto ad andare via”",
+     "fonte": "La Discussione",
      "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXczNVNrZnhlNDJ6OUgxRmdtT0k4dHJ1cy15aUJxekN4bDRVbmFvd1V3N3NzbXJySkFBbjU5SzF4d0cwYW5KWTlyQW9VMmZzcFE4OWZOVGFQZEUwdnlnUUJHZElsVmRTVU5TYXctYV9Qcnp4REx2UVRfM1JGZlUyU2RzcE1SaXRSRzg1RG5yLXNDeDBzZ3NoSjFZUEVGaDZlNGRhUENFbVFtRE5kdnh5OGY5SHh3djFiVzBUMkFfVkViRGo2RllSQkNRdkNYdnhrU1E?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84NDBJWkJfa2dnWlpJeGJ2QnlZNjN1Q3d6VGtESEdBSGFCY2V2cEFaYWJ2YWQ0T1NFdzVwbklZbmxURXJRYXBsc2tHMDJ3YmdPUlJ0UjRqUjE3MkRWeTM0cXpyYjhnbVRzWEZ3LWZUX1FQZU84c3ZtTlZCNkU?oc=5"
     }
    ]
   },
@@ -4256,6 +4250,51 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWNyWDB4dzdHVTR1Rl80WmFFT1FkOUxDcU9GSFNkaENZeWwtTURoY0YtMVRGUTZFbVdEQkw3c2FJWXIyYkdTdGxUZ1hPb1o1SGdaYlVUSjZIVHZ5WEdTMkZvd1psVkEyZGR4UWY5b2xkM01JVmN4bTVIY3RuSkVUM1NsSEdnbmQxci12WXlpMFlyaG1GVFZJSmNrbFV3a2o3TWVRVXhpdjB0M2F3MF8tLU94ODY?oc=5"
     }
    ]
+  },
+  {
+   "slug": "giuseppe-conte",
+   "nome": "Giuseppe Conte",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-11-03",
+   "testo": "Bisogna decidere se vogliamo l'Italia dei nostri principi costituzionali, l'Italia dei valori democratici, oppure se vogliamo l'Italia dell'ignavia. […] Dobbiamo decidere se vogliamo l'Italia per cui il diritto internazionale vale sempre e comunque, oppure l'Italia dove il diritto internazionale - sono parole del vostro Vicepremier e Ministro degli Affari esteri - vale “fino a un certo punto”.",
+   "contesto": "Dichiarazione di urgenza della proposta di legge n. 2916 ​ (ore 16,30) .",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060"
+  },
+  {
+   "slug": "nicola-fratoianni",
+   "nome": "Nicola Fratoianni",
+   "partito": {
+    "slug": "avs",
+    "nome": "Alleanza Verdi e Sinistra",
+    "sigla": "AVS"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-11-03",
+   "testo": "Proprio mentre noi siamo chiamati a discutere, in Cisgiordania le comunità palestinesi sono sotto il costante attacco dei coloni e dell'esercito israeliano, che insieme perpetuano, da ormai molto tempo, un piano che, come ho già detto, è fatto di annessione e pulizia etnica.",
+   "contesto": "Dichiarazione di urgenza della proposta di legge n. 2916 ​ (ore 16,30) .",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00020"
+  },
+  {
+   "slug": "matteo-richetti",
+   "nome": "Matteo Richetti",
+   "partito": {
+    "slug": "azione",
+    "nome": "Azione",
+    "sigla": "Azione"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-11-03",
+   "testo": "Avete forzato su una riforma della giustizia anche nel modo, nell'iter, nell'impossibilità di presentare qualunque emendamento, e lo dice chi l'ha sostenuta, e lo dice chi ha fatto campagna referendaria; avete forzato una legge elettorale, credo facendo male i conti, ma avete utilizzato l'Aula…",
+   "contesto": "Si riprende la discussione.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00110.int00220"
   },
   {
    "slug": "riccardo-ricciardi",
@@ -4318,9 +4357,21 @@
    "notizie": [
     {
      "titolo": "Meloni all’Assemblea di Confartigianato annuncia la riforma della legge quadro dell’artigianato",
-     "fonte": "Confartigianato Ancona - Pesaro Urbino",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXI5aVFBcWlYM0ZzUTNjbEo3T0dwZE1PWUdMeF9kbUlhUXB2TzhodlhIZE43Z3M5bVUtX2t6LWs3aTNmcWNpUEVLaHU2UTNPY3NtNHFWQkJTelhjTTlwc2hzVWQzUS12MlYwVjVJZUpzbmx4NTZHT1ZiYmpIWnJ0R0RDZm1kdm1EYkJLOUhYZXkxNW5YVkV0bExkekg5cGh2QldXYmprT2V1WF9MbGJVWHgyZDBUYVR0N2R3ZzdVdDV5UEFGQXhNWA?oc=5"
+     "fonte": "Confartigianato Imprese",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEFfVVF5eGNkYkpiNUZMRmZ4N3Z0aGRHMkhFYUtUNzFsN1BEUFYtVTFHLU4zVHRMd3hqeTJpMUVBRjBDbDNaOEhSSlFPVlNGWFRvcHNjbFVoZ1JsVmRXOUtSeUMzeGdiQy11NDIwS1JES2gteXZhU0xSV3RLYzR4Q0NaZDdsOTU0VEp6WjdnQWRFNFNuZGlXNG9HVV9qaHJfNS15SWNCSnA5RzJOellnWU5lYzExOW8zaktQZlpEZ1dsSEpCdWVyMktsTldqSWlLU2J0YzNSeFpjYVp3?oc=5"
+    },
+    {
+     "titolo": "Confartigianato: la Premier Meloni interviene all’Assemblea Nazionale a Roma",
+     "fonte": "Corriere dell'Economia",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBTc3g3LUFsZGUtWi15bHBRS2ZVTXNDRjlIaS1UNkJESTIwVEowTHJMSUpVMXZ1eGhiYlhfUjF2Q1M1YW03ZTd1em1GeGtuT09KVUhySWM5Y2tQSG01Nmltb2NmLXFCY2hFdlNyLVNqMkdPYnRYRjR6bi1GMFdGMTl0Wmo1cmNHVFp5MEk2bFpjQUtGQ1dmS2p2Ui1XaTgwcnlSZjNQUmtib0JpdXBpMXRpYlowSXBOVGNmTW05cw?oc=5"
+    },
+    {
+     "titolo": "Artigianato, svolta storica dopo oltre 40 anni: Meloni annuncia la riforma della Legge Quadro all'Assemblea Nazionale di Confartigianato",
+     "fonte": "TargatoCN",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOGFpVDV5ZllXd3U1cVAwU1M5MmVpSC1Oc2p4Z3VXbFVWT0VUTmlZNmhObFB1cDhlbjdGUEhZNlE0YzR1SnBxOHNBTldvUm82ZnlvY3VYNnlmLWhvdU5rMWFQZ3V3ZUJyWEFVRThjV1Fxd2MwRmNsME4wYkluT3dLWjRIT0dnajNKaVRDNlVXWWUwT3BZTnN4M0JhUGc2SkQyQTZHYWN4d0sxb2dYQVY1SW96UHhXd0dGX0VWcGRja2tzMEs2TU9raWNHcFN1UVhNR3BxWkR4RnF5NGNDMmVNT18zcVRLczAxU28tSkpxcm80X0RNTEJqSlFuYUZtNk5lc1Izd3g3bWRXbFI2VFlF0gGCAkFVX3lxTFAyOEJXSW1qTGt6T1EwdHpQUjAyODlKRlVPTmhqcjZUY3pkbEVOMkN1Qk9mUjk1bWQ5U2prdHRoa1l2OG8tVUtRZzIwYXZ0RjM4ZDlHdjNVRk1iMFhaN1QxY3loNG1BUTFFbEpRdzFDM0lSOW1CTVJuX3hwcml6RnN0dUpQWWc1WktqWmdaWFVuQVhnVzdJajNjWFN1bGlHZWZrVU1GRWRtRDh0RDNyUUFyMml0SnBUYjFqcVBvRUhkaURqeXY2UW1Xb2NabEFNajhET2VrQ1dDVmt0ZHVkeEdnM0xiaDFrTU90UGZ5LUkxR1JWQ2lsQlQtQzdnZWVEVlk2UQ?oc=5"
     },
     {
      "titolo": "Ue: Meloni, approccio ideologico Green Deal ha impoverito sistemi produttivi",
@@ -4421,22 +4472,16 @@
    "url": "https://www.governo.it/it/articolo/festival-delle-regioni-e-delle-province-autonome-il-videomessaggio-del-presidente-meloni",
    "notizie": [
     {
-     "titolo": "Meloni: “Costituzione valorizza le autonomie. Governo impegnato a garantirle”",
-     "fonte": "ANSA",
+     "titolo": "Meloni: \"Costituzione valorizza le autonomie. Governo impegnato a garantirle\"",
+     "fonte": "Teleborsa",
      "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlRpSFFMUl9BdnBaQ21xUUFnRmZSNDZxdTR2OWdYeUcyZWJiUUxOTE11SkgwanFCU0Y3dWVtZlIwRzJ5Zzc5TER1RXlNVTZ2SzFWMzlkQTRoSWQ0ZTlSR0JPUzBGSF9fMU9wemt5OGhLMFp3dGNhY2hIRnN4M1ZDVGFmdE40eEgtalRURmZCSTVXZVBaZlBnRklzSENhd1lqa3lQRWNpNUoycE9xOEN5SVFhQmtSbGpKM0c4ag?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVVrdTJ2NUVITy1OMy1mbWdaZ1pJekRhMlZ0RGxUTUlJeHM3NTVHVzBfOVhNNy0xWktDUzUtTDNfSXRJVmt3WmFEMXYtZmdPMkpKVzFjLW5nWnd5ZGg3RGN3WHF3dzdXQ3Z5enZUUktNWXpvY1JoWnM1U1BEZDVMSi1hLWV6RURhX1FKYjNleGlhOEUxWlNfMmZkenBfeXRPUVBjOGV2UDNNQXhGNlpmSE8zdzhTSHY4ZTVNdEZLUjU?oc=5"
     },
     {
      "titolo": "L'intervento di Meloni al Festival delle Regioni: «L'Italia è prima in Ue per avanzamento finanziario del Pnrr e per obiettivi raggiunti",
      "fonte": "Corriere della Sera",
      "data": "2026-10-27",
      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTWxPenVZa1dVN0RHU3ZCYUw4aTU0aFNnTFNIWHp2bW9yVDlLMTFva2Y2Yl9HOFVXWjRCZFRGUm9yelRCcEQwaDgzZGdHR3d4SHRXaTBGRlJsVG5GY1dnMFpPbVA5bEdfUzVnWVAwUmV6MmU0aGZDeHA3cXBvRHRaa01hcW5pOXRUYkVyUEJ0S3NhV0xpODQ3clkzTzNBR0g4LVhnNmU1dU1YWlNVdDdwdnNNZmNPWTRBQ2JJbU9xYVd4QXVXdEMxWFpYUEcyVFNBMFphSlZubUpBR0FIMmdIdzk3S2RPcldlZlppSmpCMlEyTnFyVV9yOVdkTnNWZTdLX3BVdzdNTUFWR0dKSkZZb1RGdkVvTGlndEsyMGpjdEptYnBZZWhWc05JeEhnZUk?oc=5"
-    },
-    {
-     "titolo": "Festival delle Regioni, il bilancio del vicepresidente Meloni: “Confronto e impegni importanti su finanza regionale, investimenti e futuro delle politiche europee di coesione”. – CronacaOnline",
-     "fonte": "CronacaOnline",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSGJfMXhScEFtM1R6cmladlBPRjlvOTVaczBOUUpvNHl1UTNYRnZIcUptYkRSVDVsNGUyOTItc01MX29oWUlydnNUVXgxR0ttQlJZa1R0eG5kRmJCQWdKMFYwVzcwNFRnLThpc3pla09KcDBxSm1jWE5OSTJFOEhfRXdIR3hwVVBSMXZKWDg0aERZU01mSFhjVFRvSzhiNHpTeTR5M3VQUHhfWjZvWHZHOEVkbWNOeURUUVY2ckItYWpLTllzMS0wWS1Ja3p2MGhTWWh6OWZaX21ULXduZGxuTmNVZENiRE5aaDNqYURUcXh3SlNobkFhUDFaSWpqZjhNVVJjdmpWUHE2UFJPdjlmM0NVZkdSS080cWN4TEFFR1ZqSG9ESkZwblJZZnVRejhGdzlKVHNWVGppZEZHWE42N3l2TQ?oc=5"
     },
     {
      "titolo": "Governo, Meloni ribadisce l'impegno sulle autonomie e sulla cooperazione con le Regioni",
@@ -4466,12 +4511,6 @@
      "fonte": "Affaritaliani",
      "data": "2026-10-27",
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPanl6ZTd1Rnhnc2ZBUEVlQjRfSEZLcWQtWkN4NVdWdGZXWElJZFIyVnhta0ktVmcydWRXUEU0SFo4TDdaNjUyYW13Y095MjB4RGpiVFBwRFhCM1ZJUFBDYVFITzI3b1VlZy04Ukx6R25faFA5UUNEZ2hSSFF5NFRXdUJENDVwdEtZejlkUFJNV0p4cnNQdjJ2Mk40VmliMGl0SFY2bTVUM1R6ZXpQdkFSVWFPU1B5SGVKUy1EeU1KcVFnMndMcFdzT2o0ZXltRXk5bFVGYTVPaFpiY0VWaVdiQlFmVjVHSl9zZTdSSnY0MGRlUWc4WGt4V0I3T0ExeDR5QVE?oc=5"
-    },
-    {
-     "titolo": "Meloni al Forum Moneta : comprendere l’economia per essere più liberi",
-     "fonte": "Fede e Ragione",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmJ6SE9KY3Z0ejVxU3dnQmRDYTM0Ukd3OXRrRHVRZ0RlaGcxWW5JUWNMMHJlVktZR1VyLXkzeXk4OHh1UDloQzFmTVpjU2doX0QtNWVqNTlwUmxkV1dWQlUzVEUzQ2FhWTVrZTcxSjlIcE5Pcno1QUpFdFFhcWJXQXRUVmJTMXBxRDJrdTNyZzd3MHlhd3h1dGIxdElZb2dIc0wwRmN3RUVKdw?oc=5"
     }
    ]
   },
@@ -4516,12 +4555,6 @@
      "fonte": "https://www.primanotizia24.it/",
      "data": "2026-10-26",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFpjY0pVWHktbmd2OWh1V0IyUjBHVm82SU5PQW5GTU56Q3Y0YlpJM0RQOTQ2N2N5Snd3Rk9UNkdTVExxelZyT25qZ0dONTNLZlVKYWxpQ0dkNkVqeFFaVDVuVXBrSlZORjZJOHVqVmtfTVlEc3Ftc1VoNFByRHpCODFnb2lZaHB4MmVENmZ1V2RBOF9HbnV2clZ4UFdyV2kwWVJ6eVp6YzhITE9xVC1yZnJpQkgwUFBKaWxwUzdHejQ1elJWV1VB?oc=5"
-    },
-    {
-     "titolo": "Meloni a Federchimica chiede una revisione dell’ETS tra costi energetici e produzione europea",
-     "fonte": "Sbircia la Notizia",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2M0cVpsNDZFTzR0NnIyZ2dGUUQxZC1YdVM2S1VWN2VVeVQ0cFAyR3RGTDlvX19ndVc3MEFRZkRjNWZfMUN6Uy1Kdk1GSEpGLWtyT3R4bU9oUm9lNlNSWmxQMXhWekZHa1BSdnhZbUlWbnFETXNYb1FHWVpwVF9uTFh4NVg?oc=5"
     }
    ]
   },
@@ -4735,6 +4768,12 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjFfYXZRMkgyc0tlQkNxNzdCSUNncWdKb2tWMXNWUXFhZkxOblpNLXJISjJGRm1udVBsMmtJYTZDeE16X3BEeGpGMjV0MzBNd0lockVYeGVab01kNkNEOVBUTmJfVXB5ZlZlSi1BQWlnTnp6QlMxbS1KRG5CV2M2UzFRemZGUXpxVDFOVlJaeXQzVU5fdUNOclFzbndYanFndkFleWNzcnVSbmNKNk45Zy1fQUJSV2hpS3JVWEdiNkt3ckN0?oc=5"
     },
     {
+     "titolo": "Forum Coldiretti, De Carlo: con governo Meloni abbiamo rimesso al centro agricoltura. Continuiamo a lavorare per il settore. VIDEOINTERVISTA",
+     "fonte": "Agricolae",
+     "data": "2026-10-21",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVHJmYVRJbFlLVVZPYzNZY2UxdFlzeUxuci1xMTJIWndtVG5jLXFZR1JTeXNBeUhFSG93SEc4bTY2UDBrMXhKeWFxdk9OVDNxa2o3N1E1dlpubkFhUGlGdldGZXhXVlg0MWVaNGN4eWpfNGxmNmRfeExvcnFvakZPbDBmX2dONFJvUC1oMENpZDQ2ckpyUXJrcldGc0dOYjlnTHhHSlZPeDZoRno3UnR2cUY2ejFXOERKWUlHQlhjRXUzdEdLUHAxUjRvczVDYzBENEVYTUlhUTJYd1NPZnZUcHM0bkdvNzVWZkdNUURQcw?oc=5"
+    },
+    {
      "titolo": "Meloni a Forum Coldiretti: Tutelare settore significa difendere l'Italia",
      "fonte": "Quotidiano Nazionale",
      "data": "2026-10-21",
@@ -4854,6 +4893,12 @@
      "fonte": "QdS",
      "data": "2026-10-21",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2RscTAxZS1mTW1KTHFEdFdfd1JTVUNOVXRxblczUm1MRjJXdkpHcjdWYVR5SDBPakVDMjVOWW9YVjBncXVIRk51WlUySWgtTWhIVkEySjVST0l3SkVjZzlIR1haQnVELWZFNk5QdElqTTE0UVBBSFF1QjVhcFZIeg?oc=5"
+    },
+    {
+     "titolo": "Urso: Governo sblocca oltre 1 miliardo di euro per sostenere gli autotrasportatori",
+     "fonte": "The Epoch Times Italia -",
+     "data": "2026-10-22",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkwxWHdSVGxVdFV4MUZCMWhxNEtOODVNdTc0b1l2R0h6OVFjRlZ1SGhMZHd0alJUdm1vRlZNdlRMcndpVWxKZkdyRmdKS29mYk5RNHF5UlZ1bDdvemUxREVsb0MwWkV2bjJQbWRDc3MtZWE5N01GWWtDdW1FazM0bmVYbjI0eFZ1eWdiOHZrYXh1UXFfSWs4XzE0Zk9pd2pMTWlmUmpYUEFMYnhJWVpPNThJLU9OaGxKWWtv?oc=5"
     }
    ]
   },
@@ -6235,51 +6280,6 @@
    "testo": "E allora, come i ciucci, io sono qui, testardamente, a chiederle ancora una volta se avete intenzione, se ha intenzione di fare qualcosa di fronte ai crimini di guerra e alla violenza fascista di Benjamin Netanyahu e del suo Governo, agli insediamenti che continuano ad annettere la Cisgiordania… […] Ci faccia sapere se finalmente ha deciso di fare qualcosa .",
    "contesto": "Svolgimento di interrogazioni a risposta immediata.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00020.int00020"
-  },
-  {
-   "slug": "nicola-fratoianni",
-   "nome": "Nicola Fratoianni",
-   "partito": {
-    "slug": "avs",
-    "nome": "Alleanza Verdi e Sinistra",
-    "sigla": "AVS"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-16",
-   "testo": "Non so con chi vi confrontate in Europa sulle sanzioni e sui limiti commerciali ai prodotti provenienti dalle colonie, perché la informo che l'8 settembre scorso undici Paesi europei - Regno Unito, Francia, Danimarca, Finlandia, Islanda, Irlanda, Norvegia, Polonia, Portogallo, Spagna e Svezia -…",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00020.int00060"
-  },
-  {
-   "slug": "nicola-fratoianni",
-   "nome": "Nicola Fratoianni",
-   "partito": {
-    "slug": "avs",
-    "nome": "Alleanza Verdi e Sinistra",
-    "sigla": "AVS"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-16",
-   "testo": "Lo è stato per la sua carriera lunga, articolata - lei l'ha ricostruita puntualmente -, lo è stato innanzitutto per la sua capacità di attraversare questa storia, la sua storia, una grande storia collettiva con la curiosità di un'intelligenza capace di nutrirsi della cultura come di un fatto vivo. […] La cultura come cosa viva, perché per Fabio la cultura è sempre stata una ricerca.",
-   "contesto": "Commemorazione dell'onorevole Fabio Mussi.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00130.int00020"
-  },
-  {
-   "slug": "matteo-richetti",
-   "nome": "Matteo Richetti",
-   "partito": {
-    "slug": "azione",
-    "nome": "Azione",
-    "sigla": "Azione"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-16",
-   "testo": "Io le chiedo: ma da oggi, in questo Parlamento, che si chiama Parlamento, si può discutere solo ciò che decide la maggioranza? […] E allora, se uno decide di fare il soprammobile di questa maggioranza , ogni tanto fa le feste di partito e poi urla “siamo liberali, europeisti, popolari”, e dà una spolverata al soprammobile, poi torna in Parlamento e torna a fare il soprammobile.",
-   "contesto": "Rinvio del seguito della discussione delle mozioni Richetti ed altri n. 1-00582 , Della Vedova ed altri n. 1-00585 e De Luca, Scerra, Grimaldi ed altri n. 1-00602 in materia di superamento del diritto di veto nelle…",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00060.int00040"
   }
  ]
 }

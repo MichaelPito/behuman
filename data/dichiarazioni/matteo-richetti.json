@@ -7,17 +7,17 @@
   "sigla": "Azione"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-03",
- "al": "2026-11-03",
+ "dal": "2021-11-04",
+ "al": "2026-11-04",
  "riepilogo": {
-  "totale": 132,
-  "camera": 131,
-  "parole_camera": 74522,
+  "totale": 133,
+  "camera": 132,
+  "parole_camera": 74905,
   "governo": 0,
   "senato": 0,
   "verificate": 1,
   "prima": "2022-10-25",
-  "ultima": "2026-10-20",
+  "ultima": "2026-11-03",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 36,
+    "camera": 37,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -58,7 +58,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 60
+    "n": 61
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -172,7 +172,7 @@
    },
    {
     "tema": "Giustizia",
-    "n": 4
+    "n": 5
    },
    {
     "tema": "Sicurezza e criminalità",
@@ -260,7 +260,7 @@
    ]
   }
  },
- "recap": "Dal 25 ottobre 2022 al 20 ottobre 2026: 131 interventi nell'Aula della Camera (74.522 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (27), esteri e difesa (27), lavoro, salari e pensioni (22). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (60 interventi).",
+ "recap": "Dal 25 ottobre 2022 al 3 novembre 2026: 132 interventi nell'Aula della Camera (74.905 parole), 1 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (27), esteri e difesa (27), lavoro, salari e pensioni (22). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (61 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -2355,6 +2355,22 @@
    "temi": [],
    "parole": 142,
    "url": "https://www.camera.it/leg19/410?idSeduta=0729&tipo=stenografico#sed0729.stenografico.tit00060.sub00010.int00740"
+  },
+  {
+   "data": "2026-11-03",
+   "leg": 19,
+   "seduta": 737,
+   "argomento": "Si riprende la discussione.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "AZ-PER-RE",
+   "sunto": "Avete forzato su una riforma della giustizia anche nel modo, nell'iter, nell'impossibilità di presentare qualunque emendamento, e lo dice chi l'ha sostenuta, e lo dice chi ha fatto campagna referendaria; avete forzato una legge elettorale, credo facendo male i conti, ma avete utilizzato l'Aula…",
+   "temi": [
+    "Giustizia"
+   ],
+   "parole": 383,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00110.int00220"
   }
  ],
  "governo": [],

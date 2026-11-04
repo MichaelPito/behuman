@@ -7,12 +7,12 @@
   "sigla": "M5S"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-03",
- "al": "2026-11-03",
+ "dal": "2021-11-04",
+ "al": "2026-11-04",
  "riepilogo": {
   "totale": 265,
   "camera": 265,
-  "parole_camera": 122470,
+  "parole_camera": 122474,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
@@ -255,7 +255,7 @@
    ]
   }
  },
- "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.470 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
+ "recap": "Dal 22 giugno 2022 al 3 novembre 2026: 265 interventi nell'Aula della Camera (122.474 parole). Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (105), unione europea (39), famiglia e natalità (32). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (153 interventi).",
  "valutazione_coerenza": {
   "stato": "con_cambi",
   "temi_confrontabili": 1,
@@ -4538,7 +4538,7 @@
     "Esteri e difesa",
     "Giustizia"
    ],
-   "parole": 563,
+   "parole": 567,
    "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00080.int00120"
   }
  ],

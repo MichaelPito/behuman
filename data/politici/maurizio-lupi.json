@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-03",
-  "al": "2026-11-03"
+  "dal": "2021-11-04",
+  "al": "2026-11-04"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -54,9 +54,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 40,
-     "assenti": 266,
-     "totale": 306
+     "presenti": 38,
+     "assenti": 229,
+     "totale": 267
     },
     {
      "mese": "2021-12",
@@ -2423,29 +2423,6 @@
       "astenuti": 50
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_587_037",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-03",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile (Approvato dal Senato) (DDL 3341)",
-     "atto": "C.3341",
-     "titolo": "S. 2381. - \"Conversione in legge, con modificazioni, del decreto-legge 8 settembre 2021, n. 120, recante disposizioni per il contrasto degli incendi boschivi e altre misure urgenti di protezione civile\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-NCI",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 337,
-      "contrari": 4,
-      "astenuti": 38
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=587_37&tipo=dettaglio"
     },
     {
      "id": "vs19_735_017",
@@ -14132,8 +14109,8 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 3705,
-    "totale": 22210,
+    "presenti": 3703,
+    "totale": 22171,
     "percentuale": 16.7
    },
    "fedelta_gruppo": {
@@ -14142,7 +14119,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 567
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14231,7 +14208,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-11-03",
+ "aggiornato_il": "2026-11-04",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
@@ -14248,7 +14225,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,7% delle votazioni del periodo (3.705 su 22.210); la mediana dei colleghi è 73,0%.",
+  "Alla Camera ha partecipato al 16,7% delle votazioni del periodo (3.703 su 22.171); la mediana dei colleghi è 72,6%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

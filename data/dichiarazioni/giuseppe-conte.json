@@ -7,17 +7,17 @@
   "sigla": "M5S"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-03",
- "al": "2026-11-03",
+ "dal": "2021-11-04",
+ "al": "2026-11-04",
  "riepilogo": {
-  "totale": 139,
-  "camera": 85,
-  "parole_camera": 65994,
+  "totale": 140,
+  "camera": 86,
+  "parole_camera": 66565,
   "governo": 0,
   "senato": 0,
   "verificate": 54,
   "prima": "2021-12-09",
-  "ultima": "2026-10-24",
+  "ultima": "2026-11-03",
   "per_anno": [
    {
     "anno": "2021",
@@ -56,7 +56,7 @@
    },
    {
     "anno": "2026",
-    "camera": 14,
+    "camera": 15,
     "governo": 0,
     "senato": 0,
     "verificate": 10
@@ -69,7 +69,7 @@
    },
    {
     "categoria": "Leggi e decreti in esame",
-    "n": 12
+    "n": 13
    },
    {
     "categoria": "Informative e comunicazioni del Governo",
@@ -157,7 +157,7 @@
   "temi": [
    {
     "tema": "Esteri e difesa",
-    "n": 41
+    "n": 42
    },
    {
     "tema": "Unione europea",
@@ -272,7 +272,7 @@
    "2026": [
     {
      "tema": "Esteri e difesa",
-     "n": 9
+     "n": 10
     },
     {
      "tema": "Energia e carburanti",
@@ -285,7 +285,7 @@
    ]
   }
  },
- "recap": "Dal 9 dicembre 2021 al 24 ottobre 2026: 85 interventi nell'Aula della Camera (65.994 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (41), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+ "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -2312,6 +2312,22 @@
    ],
    "parole": 592,
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00020"
+  },
+  {
+   "data": "2026-11-03",
+   "leg": 19,
+   "seduta": 737,
+   "argomento": "Dichiarazione di urgenza della proposta di legge n. 2916 ​ (ore 16,30) .",
+   "fase": null,
+   "categoria": "Leggi e decreti in esame",
+   "ruolo": null,
+   "gruppo": "M5S",
+   "sunto": "Bisogna decidere se vogliamo l'Italia dei nostri principi costituzionali, l'Italia dei valori democratici, oppure se vogliamo l'Italia dell'ignavia. […] Dobbiamo decidere se vogliamo l'Italia per cui il diritto internazionale vale sempre e comunque, oppure l'Italia dove il diritto internazionale - sono parole del vostro Vicepremier e Ministro degli Affari esteri - vale “fino a un certo punto”.",
+   "temi": [
+    "Esteri e difesa"
+   ],
+   "parole": 571,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060"
   }
  ],
  "governo": [],
