@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1972-03-21",
@@ -62,8 +62,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 67,
-     "assenti": 200,
-     "totale": 267
+     "assenti": 170,
+     "totale": 237
     },
     {
      "mese": "2021-12",
@@ -520,6 +520,14 @@
      "presenti": 5,
      "assenti": 609,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -2424,30 +2432,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
-     "id": "vs18_588_030",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010 (Approvata dal Senato) (PDL 2332)",
-     "atto": "C.2332",
-     "titolo": "S. 667. - Senatori AIROLA ed altri: \"Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 12,
-      "Contrario": 25
-     },
-     "esito": {
-      "favorevoli": 224,
-      "contrari": 119,
-      "astenuti": 50
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3340,7 +3324,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -3364,7 +3348,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -3388,7 +3372,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -3412,7 +3396,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -14146,7 +14130,7 @@
   "Camera": {
    "presenza": {
     "presenti": 467,
-    "totale": 22171,
+    "totale": 22158,
     "percentuale": 2.1
    },
    "fedelta_gruppo": {
@@ -14155,7 +14139,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 565
   }
  },
  "posizioni": [],
@@ -14180,7 +14164,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg/500px-Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Lollobrigida_in_the_Agriculture_and_Fisheries_Council_-_November_2023_(01)_(cropped).jpg",
@@ -14197,7 +14181,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'agricoltura, della sovranità alimentare e delle foreste (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (467 su 22.171); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (467 su 22.158); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 47 volte su 47 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

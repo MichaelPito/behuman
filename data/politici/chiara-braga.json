@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1979-09-02",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 154,
-     "assenti": 113,
-     "totale": 267
+     "presenti": 126,
+     "assenti": 111,
+     "totale": 237
     },
     {
      "mese": "2021-12",
@@ -501,6 +501,14 @@
      "presenti": 149,
      "assenti": 465,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 1,
+     "assenti": 16,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -2409,30 +2417,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
-     "id": "vs18_588_030",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010 (Approvata dal Senato) (PDL 2332)",
-     "atto": "C.2332",
-     "titolo": "S. 667. - Senatori AIROLA ed altri: \"Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 31,
-      "Favorevole": 64
-     },
-     "esito": {
-      "favorevoli": 224,
-      "contrari": 119,
-      "astenuti": 50
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3323,7 +3307,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -3347,7 +3331,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -3371,7 +3355,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -3395,7 +3379,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -14139,17 +14123,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 11496,
-    "totale": 22170,
-    "percentuale": 51.9
+    "presenti": 11469,
+    "totale": 22157,
+    "percentuale": 51.8
    },
    "fedelta_gruppo": {
-    "allineati": 386,
+    "allineati": 385,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 565
   }
  },
  "posizioni": [
@@ -14280,7 +14264,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiara_Braga_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Chiara_Braga_daticamera_2018.jpg",
@@ -14297,8 +14281,8 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 51,9% delle votazioni del periodo (11.496 su 22.170); la mediana dei colleghi è 72,6%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 386 volte su 386 (100,0%).",
+  "Alla Camera ha partecipato al 51,8% delle votazioni del periodo (11.469 su 22.157); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 385 volte su 385 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

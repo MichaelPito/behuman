@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1947-02-06",
@@ -439,6 +439,14 @@
      "presenti": 28,
      "assenti": 586,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -1335,7 +1343,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -1359,7 +1367,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -1383,7 +1391,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -1407,7 +1415,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -12133,7 +12141,7 @@
   "Camera": {
    "presenza": {
     "presenti": 524,
-    "totale": 20258,
+    "totale": 20275,
     "percentuale": 2.6
    },
    "fedelta_gruppo": {
@@ -12208,7 +12216,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg/500px-Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Carlo_Nordio_in_the_Justice_and_Home_Affairs_Council_-_June_2024_(01)_(cropped).jpg",
@@ -12225,7 +12233,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro della giustizia (dal 23 ottobre 2022).",
-  "Alla Camera ha partecipato al 2,6% delle votazioni del periodo (524 su 20.258); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 2,6% delle votazioni del periodo (524 su 20.275); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 46 volte su 46 (100,0%).",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

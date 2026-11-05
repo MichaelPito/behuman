@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1974-08-03",
@@ -429,6 +429,14 @@
      "presenti": 396,
      "assenti": 218,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -1326,7 +1334,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -1350,7 +1358,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -1374,7 +1382,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -1398,7 +1406,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -2113,6 +2121,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
     },
     {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "APERRE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Favorevole": 5
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
+    },
+    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -2183,30 +2215,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "APERRE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 5,
-      "Favorevole": 5
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
     },
     {
      "id": "vs19_634_033",
@@ -12120,8 +12128,8 @@
   "Camera": {
    "presenza": {
     "presenti": 9107,
-    "totale": 20258,
-    "percentuale": 45.0
+    "totale": 20275,
+    "percentuale": 44.9
    },
    "fedelta_gruppo": {
     "allineati": 184,
@@ -12234,7 +12242,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Matteo_Richetti_datisenato_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Richetti_datisenato_2018.jpg",
@@ -12251,7 +12259,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 45,0% delle votazioni del periodo (9.107 su 20.258); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 44,9% delle votazioni del periodo (9.107 su 20.275); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 184 volte su 184 (100,0%).",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

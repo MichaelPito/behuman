@@ -5024,6 +5024,60 @@
 "tema": "sanita",
 "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060",
 "verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Quindi, questo è un provvedimento che è proprio l'emblema del vostro fallimento: avete speso in totale - non solo con questo decreto, ma con la riduzione delle accise - circa 3 miliardi di euro di soldi pubblici, quando potevate far pagare i soldi a chi si è arricchito, ovvero ai petrolieri.",
+"tema": "accise-carburanti",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Noi, come Alleanza Verdi e Sinistra, abbiamo interrogato questo Governo per un semplice motivo, ossia che quell'operazione è stata un'operazione truffaldina, perché il 29 settembre il prezzo era di 0,17 centesimi per kilowattora, dopodiché, la notte del 30 settembre è stato aumentato il prezzo della bolletta elettrica e lo sconto del 30 per cento è stato applicato sull'aumento e non sul prezzo con cui era stato…",
+"tema": "bollette",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Però, la Presidente Meloni - non più tardi di 3-4 settimane fa - ha ringraziato la società ENI perché aveva ridotto il prezzo dell'energia della bolletta elettrica del 30 per cento.",
+"tema": "bollette",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Siccome noi abbiamo 2,8 milioni di famiglie che hanno rinunciato a riscaldarsi perché sono in povertà energetica e siccome con il vostro Governo, ad ottobre, c'è stato l'aumento del 37 per cento della bolletta per le famiglie vulnerabili, ci troviamo di fronte a una situazione che è un disastro, come è un disastro ovviamente la vostra finanziaria.",
+"tema": "bollette",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Una situazione che sta facendo pagare un prezzo enorme alle famiglie, con l'aumento dei prezzi dei carburanti che hanno sfiorato i 2 euro, ma anche agli agricoltori, ai pescatori e agli autotrasportatori che voi avete anche criminalizzato, dicendo che erano infiltrati dalla criminalità, solo perché protestavano.",
+"tema": "prezzo-carburanti",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Aula della Camera",
+"frase": "Quei 3 miliardi di euro potevano essere utilizzati per fare cose importanti nella sanità pubblica, per esempio, invece di dare i soldi alla sanità privata, come avete fatto con quella orribile norma della finanziaria che prevedeva 300 euro per gli anziani, che vanno tutti nella sanità privata, piuttosto che finanziare e garantire la possibilità che le persone vadano a curarsi, visto che abbiamo 5,8 milioni di…",
+"tema": "sanita",
+"url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100",
+"verbo": null
 }
 ],
 "antonio-tajani": [
@@ -60075,6 +60129,15 @@
 "frase": "È una responsabilità condivisa che chiama in causa le Istituzioni, la scuola, le università, le imprese e il mondo della ricerca.",
 "tema": "istruzione",
 "url": "https://www.governo.it/it/articolo/2-edizione-di-orientatalenti-il-messaggio-del-presidente-meloni/33007",
+"verbo": null
+},
+{
+"data": "2026-11-04",
+"direzione": null,
+"fonte": "Intervento pubblicato su governo.it",
+"frase": "Famiglie che, particolarmente nell'ultimo periodo, si sono dovute confrontare con un problema in più, che è la crescita dell'inflazione dovuta alla difficile situazione internazionale che stiamo attraversando.",
+"tema": "inflazione",
+"url": "https://www.governo.it/it/articolo/carta-dedicata-te-videomessaggio-del-presidente-meloni/33028",
 "verbo": null
 }
 ]

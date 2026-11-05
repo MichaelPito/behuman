@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -51,9 +51,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 138,
+     "presenti": 108,
      "assenti": 129,
-     "totale": 267
+     "totale": 237
     },
     {
      "mese": "2021-12",
@@ -510,6 +510,14 @@
      "presenti": 222,
      "assenti": 392,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 15,
+     "assenti": 2,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -2431,30 +2439,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
-     "id": "vs18_588_030",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010 (Approvata dal Senato) (PDL 2332)",
-     "atto": "C.2332",
-     "titolo": "S. 667. - Senatori AIROLA ed altri: \"Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "LEU",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 3,
-      "Favorevole": 9
-     },
-     "esito": {
-      "favorevoli": 224,
-      "contrari": 119,
-      "astenuti": 50
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3345,7 +3329,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -3368,7 +3352,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -3392,7 +3376,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -3416,7 +3400,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -8294,7 +8278,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "PDL 1987-A - VOTO FINALE",
+     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -8318,7 +8302,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
+     "descrizione": "PDL 1987-A - VOTO FINALE",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -14119,12 +14103,12 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 12178,
-    "totale": 22171,
+    "presenti": 12163,
+    "totale": 22158,
     "percentuale": 54.9
    },
    "fedelta_gruppo": {
-    "allineati": 249,
+    "allineati": 248,
     "difformi": 19,
     "percentuale_allineati": 92.9,
     "voti_difformi": [
@@ -14149,7 +14133,7 @@
      "vs18_592_017"
     ]
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 565
   }
  },
  "posizioni": [
@@ -14267,7 +14251,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",
@@ -14284,8 +14268,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.178 su 22.171); la mediana dei colleghi è 72,6%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 249 volte su 268 (92,9%).",
+  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.163 su 22.158); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 248 volte su 267 (92,9%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

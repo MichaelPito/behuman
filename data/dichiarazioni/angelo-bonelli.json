@@ -7,17 +7,17 @@
   "sigla": "AVS"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-04",
- "al": "2026-11-04",
+ "dal": "2021-11-05",
+ "al": "2026-11-05",
  "riepilogo": {
-  "totale": 441,
-  "camera": 427,
-  "parole_camera": 227495,
+  "totale": 442,
+  "camera": 428,
+  "parole_camera": 228923,
   "governo": 0,
   "senato": 0,
   "verificate": 14,
   "prima": "2022-07-28",
-  "ultima": "2026-10-28",
+  "ultima": "2026-11-04",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 67,
+    "camera": 68,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -58,7 +58,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 169
+    "n": 170
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -156,7 +156,7 @@
    },
    {
     "tema": "Energia e carburanti",
-    "n": 107
+    "n": 108
    },
    {
     "tema": "Esteri e difesa",
@@ -164,11 +164,11 @@
    },
    {
     "tema": "Unione europea",
-    "n": 65
+    "n": 66
    },
    {
     "tema": "Famiglia e natalità",
-    "n": 60
+    "n": 61
    },
    {
     "tema": "Giustizia",
@@ -188,7 +188,7 @@
    },
    {
     "tema": "Sanità",
-    "n": 31
+    "n": 32
    },
    {
     "tema": "Scuola e università",
@@ -267,20 +267,20 @@
    "2026": [
     {
      "tema": "Energia e carburanti",
-     "n": 26
+     "n": 27
     },
     {
      "tema": "Esteri e difesa",
      "n": 23
     },
     {
-     "tema": "Giustizia",
+     "tema": "Unione europea",
      "n": 12
     }
    ]
   }
  },
- "recap": "Dal 28 luglio 2022 al 28 ottobre 2026: 427 interventi nell'Aula della Camera (227.495 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (107), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (169 interventi).",
+ "recap": "Dal 28 luglio 2022 al 4 novembre 2026: 428 interventi nell'Aula della Camera (228.923 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (108), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (170 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -7450,6 +7450,25 @@
    ],
    "parole": 345,
    "url": "https://www.camera.it/leg19/410?idSeduta=0735&tipo=stenografico#sed0735.stenografico.tit00080.sub00080.int00060"
+  },
+  {
+   "data": "2026-11-04",
+   "leg": 19,
+   "seduta": 738,
+   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 3148.",
+   "fase": "Dichiarazioni di voto finale - A.C. 3148 ​",
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Del resto, voi siete i migliori alleati di Donald Trump, perché avete lavorato per fermare la transizione ecologica ed energetica e oggi state facendo pagare un prezzo enorme all'Italia.",
+   "temi": [
+    "Sanità",
+    "Energia e carburanti",
+    "Unione europea",
+    "Famiglia e natalità"
+   ],
+   "parole": 1428,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100"
   }
  ],
  "governo": [],

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1985-05-04",
@@ -444,6 +444,14 @@
      "presenti": 34,
      "assenti": 580,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -1338,7 +1346,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -1362,7 +1370,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -1386,7 +1394,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -1410,7 +1418,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -3113,30 +3121,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=577_100&tipo=dettaglio"
     },
     {
-     "id": "vs19_573_043",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-11-27",
-     "descrizione": "Modifiche all'articolo 40 della legge 28 luglio 2016, n. 154, in materia di contrasto del bracconaggio ittico nelle acque interne (Approvata dal Senato) (PDL 1806 e abbinata PDL 830)",
-     "atto": "C.1806",
-     "titolo": "S. 316. - Senatore BERGESIO: \"Modifiche all’articolo 40 della legge 28 luglio 2016, n. 154, in materia di contrasto del bracconaggio ittico nelle acque interne\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "PD-IDP",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 35,
-      "Non ha votato": 35
-     },
-     "esito": {
-      "favorevoli": 101,
-      "contrari": 0,
-      "astenuti": 62
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_43&tipo=dettaglio"
-    },
-    {
      "id": "vs19_573_031",
      "camera": "Camera",
      "legislatura": 19,
@@ -3159,6 +3143,30 @@
       "astenuti": 29
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_31&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_573_043",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-11-27",
+     "descrizione": "Modifiche all'articolo 40 della legge 28 luglio 2016, n. 154, in materia di contrasto del bracconaggio ittico nelle acque interne (Approvata dal Senato) (PDL 1806 e abbinata PDL 830)",
+     "atto": "C.1806",
+     "titolo": "S. 316. - Senatore BERGESIO: \"Modifiche all’articolo 40 della legge 28 luglio 2016, n. 154, in materia di contrasto del bracconaggio ittico nelle acque interne\" (approvata dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 35,
+      "Non ha votato": 35
+     },
+     "esito": {
+      "favorevoli": 101,
+      "contrari": 0,
+      "astenuti": 62
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_43&tipo=dettaglio"
     },
     {
      "id": "vs19_572_211",
@@ -12147,7 +12155,7 @@
   "Camera": {
    "presenza": {
     "presenti": 3670,
-    "totale": 20258,
+    "totale": 20275,
     "percentuale": 18.1
    },
    "fedelta_gruppo": {
@@ -12274,7 +12282,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elly_Schlein_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Elly_Schlein_2023_(cropped).jpg",
@@ -12291,7 +12299,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 18,1% delle votazioni del periodo (3.670 su 20.258); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 18,1% delle votazioni del periodo (3.670 su 20.275); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 118 volte su 118 (100,0%).",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1956-04-18",
@@ -594,11 +594,84 @@
      "legislatura": 19,
      "presenti": 0,
      "assenti": 0,
-     "missione": 1,
-     "totale": 1
+     "missione": 13,
+     "totale": 13
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-472-2",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.1299",
+     "titolo": "Modifiche all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 134,
+      "contrari": 1,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58684&sessionId=472&voteId=2",
+     "voto": "In congedo o missione",
+     "gruppo": "LSP-PSd'Az",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 17,
+      "In congedo o missione": 10
+     }
+    },
+    {
+     "id": "19-472-12",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2035",
+     "titolo": "Disposizioni in materia di cinema",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 123,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60453&sessionId=472&voteId=12",
+     "voto": "In congedo o missione",
+     "gruppo": "LSP-PSd'Az",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 15,
+      "In congedo o missione": 9,
+      "Presente non votante": 3
+     }
+    },
+    {
+     "id": "19-472-1",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2015",
+     "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 76,
+      "contrari": 0,
+      "astenuti": 64
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60415&sessionId=472&voteId=1",
+     "voto": "In congedo o missione",
+     "gruppo": "LSP-PSd'Az",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 16,
+      "In congedo o missione": 11
+     }
+    },
     {
      "id": "19-469-6",
      "camera": "Senato",
@@ -9313,31 +9386,6 @@
       "In congedo o missione": 13,
       "Presente non votante": 3
      }
-    },
-    {
-     "id": "18-375-1",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Disegno di legge n. 2437. Votazione questione di fiducia",
-     "atto": "S.2437",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 190,
-      "contrari": 34,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54526",
-     "voto": "Presidente di turno",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 40,
-      "Presidente di turno": 1,
-      "In congedo o missione": 12
-     }
     }
    ],
    "gruppi": [
@@ -9365,8 +9413,8 @@
   "Senato": {
    "presenza": {
     "presenti": 2937,
-    "totale": 8885,
-    "percentuale": 33.1
+    "totale": 8897,
+    "percentuale": 33.0
    },
    "fedelta_gruppo": {
     "allineati": 109,
@@ -9374,7 +9422,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 353
+   "voti_finali_e_fiducia": 355
   }
  },
  "posizioni": [
@@ -9440,7 +9488,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:RobertoCalderoli.jpg",
@@ -9457,7 +9505,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro per gli affari regionali e le autonomie (dal 23 ottobre 2022).",
-  "Al Senato ha partecipato al 33,1% delle votazioni del periodo (2.937 su 8.885); 5.897 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 33,0% delle votazioni del periodo (2.937 su 8.897); 5.909 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 109 volte su 109 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

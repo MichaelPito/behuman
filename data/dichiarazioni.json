@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 708,
+    "totale": 709,
     "camera": 109,
     "senato": 0,
-    "governo": 514,
+    "governo": 515,
     "verificate": 85,
     "prima": "2021-11-10",
-    "ultima": "2026-11-03"
+    "ultima": "2026-11-04"
    },
-   "recap": "Dal 10 novembre 2021 al 3 novembre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 514 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (285), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 10 novembre 2021 al 4 novembre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 515 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (285), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -219,15 +219,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 156,
-    "camera": 149,
+    "totale": 154,
+    "camera": 148,
     "senato": 0,
     "governo": 0,
-    "verificate": 7,
-    "prima": "2021-11-04",
+    "verificate": 6,
+    "prima": "2021-11-08",
     "ultima": "2026-10-21"
    },
-   "recap": "Dal 4 novembre 2021 al 21 ottobre 2026: 149 interventi nell'Aula della Camera (83.402 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+   "recap": "Dal 8 novembre 2021 al 21 ottobre 2026: 148 interventi nell'Aula della Camera (82.450 parole), 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), energia e carburanti (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -245,15 +245,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 182,
+    "totale": 180,
     "camera": 54,
-    "senato": 128,
+    "senato": 126,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-11-04",
+    "prima": "2021-11-09",
     "ultima": "2026-07-29"
    },
-   "recap": "Dal 4 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 128 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+   "recap": "Dal 9 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 126 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -405,15 +405,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 441,
-    "camera": 427,
+    "totale": 442,
+    "camera": 428,
     "senato": 0,
     "governo": 0,
     "verificate": 14,
     "prima": "2022-07-28",
-    "ultima": "2026-10-28"
+    "ultima": "2026-11-04"
    },
-   "recap": "Dal 28 luglio 2022 al 28 ottobre 2026: 427 interventi nell'Aula della Camera (227.495 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (107), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (169 interventi).",
+   "recap": "Dal 28 luglio 2022 al 4 novembre 2026: 428 interventi nell'Aula della Camera (228.923 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (108), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (170 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -4209,6 +4209,74 @@
    },
    "schieramento": "governo",
    "fonte": "Governo",
+   "data": "2026-11-04",
+   "testo": "Da oggi 4 novembre è nuovamente attiva la Carta “Dedicata a Te”, la carta istituita dal Governo per sostenere il potere d'acquisto delle famiglie più fragili e in difficoltà.",
+   "contesto": "Carta \"Dedicata a Te\", videomessaggio del Presidente Meloni",
+   "url": "https://www.governo.it/it/articolo/carta-dedicata-te-videomessaggio-del-presidente-meloni/33028",
+   "notizie": [
+    {
+     "titolo": "Da oggi i primi 500 euro della carta 'Dedicata a te'. Meloni, con la manovra raddoppiamo il budget",
+     "fonte": "ANSA",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUXFfdGQ0WXFtbWxtemtlLTRZWDVUaE9sX1dKbHpReVAxX2RKckNLOWctdEh4VERRbktxSFZfbFktblh3RWhPR2NIQ2dUNGs1dDlldExBRWZxRXhaUWlmN3d1VEpqZnlVNUFqQ3JHV0hCNzVwWDZhVzFJZVo5dW1vRHJFQjExNXBnNElOOGdUUjFoUk0wNHdYTmRzeWxhSzFyMjRSTWdfZVd5Vjd4Tm1RdmxCcUlSNnpWXzhFTXNtWXdLRndoU2FCMVpBSHBlMG9TWXI1WkhXUmN5V0s4S1FhOW5wZXRaNGgzMkdCRXpKbWZqd9IB9wFBVV95cUxNaFRmVV9xXzFzbFhJdHM1NE45ZDhHb2NIZWlxeFd1aXRKQkRrV3JXd3dkNVB4cDM2NjRfbnZVSFRENXk5QldHMzBHTjhvaHctLUlfR0haMHVaR2tmT3VXcXJ5MFV4LXNfRHVpQi1wM1B2MldjTjBjUUxyeVlvYWVlOWFGN1E4aHF5SjhuTnNSeWZ2YUdGZTRHTmlXVmJiVWtGMUZ2eDUwY2JNb0tmV2o0WGd1eWh0S3dndTF2ZWxRc0xUeVNKZ3Z3a2xpQjZ5MFJ4VU9yU1ZUTmZGLVR0LXZ0enR0MVg4T3FYOWhDTVVDejlhVUl3Wjhj?oc=5"
+    },
+    {
+     "titolo": "Meloni: da oggi di nuovo attiva la carta 'Dedicata a te', budget 1000 euro",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zbVJfSzhJeWo5RWxNcjhaVEZsYXVNMWlFa3Boa0pHZnhKeG16UTh5NVRYbFZvMTJWWHB2RmU4QUdUSEREWmx4OHZ0SmpSdW5RZHpIc2VxRW1sYnkzQkFUcWtaWlVJNW1sSXJoUQ?oc=5"
+    },
+    {
+     "titolo": "Meloni annuncia il ritorno della Carta “Dedicata a te”: mille euro per fare la spesa a 1,2 milioni di famiglie (VIDEO)",
+     "fonte": "Secolo d'Italia",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3hsT3hmeFlHeWF1VUhXQ0V2YUtrZnJaVlZrR2E4ZHRKZzRfWDkwRGF5V09zR0w2QnNaVmlRSlRHTUlEM2xGU3hHODV3cWxMVWpmcTliUXFScDlYbjh2Rl9wSDl1YldJS25iWDlUTno0NGtKNDVKR1FJT1lDeXBTaDlzNm5JTjFxbDRRUHFnTGZJbEItVEJ1MzAxYjRER2huQ2hyMWRZM0RKZ0RidWo3V2oxSFdmeGRTSVpTMXU3QkwtUk4xb1RSVGJ2MXNjMmV4eWNrNWJnRlZFVVFDQjJ1R2otdUc?oc=5"
+    },
+    {
+     "titolo": "Meloni: Rinnovata e potenziata ‘La carta dedicata a te’ per le famiglie più fragili",
+     "fonte": "Vista Agenzia Televisiva Nazionale",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOXN4WnZoT1JYZkFFMmFOYmNkdzIzMnhoY3lOX3ZkM24tNW0zV2kyc01WVzhUSjI1eVVEUkFJdHNWZzNkOE5FcG5CV0hnQUs2QjB2WE8yVmQwSkpSWmE5bHhuWElIeWF4RDhsZW12T01rSDF3bnNTazF5ZU45NVlyamZjblJsa3ducHZ2MlpZNm9QeDlSSTNuOHdlN2t2WEZyM2xDeVZTWUpLdmpwYkllckdGODViVmxOMHRvdE54UjQta3NRTWlaQzE0ZnZqYUU?oc=5"
+    },
+    {
+     "titolo": "Meloni \"Torna la carta 'dedicata a te', un aiuto ai più fragili\" 04/11/2026",
+     "fonte": "L'eco del sud",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTYzWloyYnZMb3VyLWo0V05rWDZiYk05a2xkNDEtZ3FUckk4ZDl1OHI1N0FCbzZNbXlQWngyT0FIRTZHS2tLTWx4VGFXQjlZR1ZzbHdMMWN4ajFKakQ4YkE3RnJIVnZ5ZVQxNHg3b2R0NjhLWW1GVkNFNWNDTXdGUXBkTFNpZXhCMmtaQXZjYlAwMHBvWW9iWHdxd1hVUUI3T0ZjLVNnVQ?oc=5"
+    },
+    {
+     "titolo": "Meloni “Torna la carta ‘dedicata a te’, un aiuto ai più fragili”",
+     "fonte": "ilQuaderno",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUM2SGRXU3hVQUNOTGZ6TWNUVkFfTGpQV0xwdnVWR0g3eno5ZHY0UUliNC1IaXE3VGhOcmIxQW1TRTFHUklqM3hpMFJKQkJxMlE4TmhSaHNzOHFRUHNnYnlJdm5ldkFrLWNOTEludEtoVHdFaDVYNnpqeVM0ajAxa2dmQ1dDR0RlTDN2OWhZRVdqT0twTzdlNjNsZ05uZw?oc=5"
+    }
+   ]
+  },
+  {
+   "slug": "angelo-bonelli",
+   "nome": "Angelo Bonelli",
+   "partito": {
+    "slug": "avs",
+    "nome": "Alleanza Verdi e Sinistra",
+    "sigla": "AVS"
+   },
+   "schieramento": "opposizione",
+   "fonte": "Camera",
+   "data": "2026-11-04",
+   "testo": "Del resto, voi siete i migliori alleati di Donald Trump, perché avete lavorato per fermare la transizione ecologica ed energetica e oggi state facendo pagare un prezzo enorme all'Italia.",
+   "contesto": "Si riprende la discussione del disegno di legge di conversione n. 3148.",
+   "url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100"
+  },
+  {
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni",
+   "partito": {
+    "slug": "fdi",
+    "nome": "Fratelli d'Italia",
+    "sigla": "FdI"
+   },
+   "schieramento": "governo",
+   "fonte": "Governo",
    "data": "2026-11-03",
    "testo": "Perché ogni ragazzo deve poter trovare la propria strada, esprimere pienamente le proprie capacità e contribuire, con il proprio impegno e le proprie idee, a rendere l'Italia una Nazione sempre più forte, libera e protagonista del proprio futuro. […] Perché il futuro dell'Italia ha bisogno del talento, dell'intelligenza e del coraggio di ciascuno di voi.",
    "contesto": "2ª edizione di “OrientaTalenti”, il messaggio del Presidente Meloni",
@@ -4225,6 +4293,12 @@
      "fonte": "La Discussione",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84NDBJWkJfa2dnWlpJeGJ2QnlZNjN1Q3d6VGtESEdBSGFCY2V2cEFaYWJ2YWQ0T1NFdzVwbklZbmxURXJRYXBsc2tHMDJ3YmdPUlJ0UjRqUjE3MkRWeTM0cXpyYjhnbVRzWEZ3LWZUX1FQZU84c3ZtTlZCNkU?oc=5"
+    },
+    {
+     "titolo": "Meloni ai giovani: \"Nessuno deve lasciare la propria terra per vedere riconosciuto il proprio valore\"",
+     "fonte": "Secolo d'Italia",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXczNVNrZnhlNDJ6OUgxRmdtT0k4dHJ1cy15aUJxekN4bDRVbmFvd1V3N3NzbXJySkFBbjU5SzF4d0cwYW5KWTlyQW9VMmZzcFE4OWZOVGFQZEUwdnlnUUJHZElsVmRTVU5TYXctYV9Qcnp4REx2UVRfM1JGZlUyU2RzcE1SaXRSRzg1RG5yLXNDeDBzZ3NoSjFZUEVGaDZlNGRhUENFbVFtRE5kdnh5OGY5SHh3djFiVzBUMkFfVkViRGo2RllSQkNRdkNYdnhrU1E?oc=5"
     }
    ]
   },
@@ -4357,27 +4431,9 @@
    "notizie": [
     {
      "titolo": "Meloni all’Assemblea di Confartigianato annuncia la riforma della legge quadro dell’artigianato",
-     "fonte": "Confartigianato Imprese",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEFfVVF5eGNkYkpiNUZMRmZ4N3Z0aGRHMkhFYUtUNzFsN1BEUFYtVTFHLU4zVHRMd3hqeTJpMUVBRjBDbDNaOEhSSlFPVlNGWFRvcHNjbFVoZ1JsVmRXOUtSeUMzeGdiQy11NDIwS1JES2gteXZhU0xSV3RLYzR4Q0NaZDdsOTU0VEp6WjdnQWRFNFNuZGlXNG9HVV9qaHJfNS15SWNCSnA5RzJOellnWU5lYzExOW8zaktQZlpEZ1dsSEpCdWVyMktsTldqSWlLU2J0YzNSeFpjYVp3?oc=5"
-    },
-    {
-     "titolo": "Confartigianato: la Premier Meloni interviene all’Assemblea Nazionale a Roma",
-     "fonte": "Corriere dell'Economia",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnBTc3g3LUFsZGUtWi15bHBRS2ZVTXNDRjlIaS1UNkJESTIwVEowTHJMSUpVMXZ1eGhiYlhfUjF2Q1M1YW03ZTd1em1GeGtuT09KVUhySWM5Y2tQSG01Nmltb2NmLXFCY2hFdlNyLVNqMkdPYnRYRjR6bi1GMFdGMTl0Wmo1cmNHVFp5MEk2bFpjQUtGQ1dmS2p2Ui1XaTgwcnlSZjNQUmtib0JpdXBpMXRpYlowSXBOVGNmTW05cw?oc=5"
-    },
-    {
-     "titolo": "Artigianato, svolta storica dopo oltre 40 anni: Meloni annuncia la riforma della Legge Quadro all'Assemblea Nazionale di Confartigianato",
-     "fonte": "TargatoCN",
-     "data": "2026-10-28",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOGFpVDV5ZllXd3U1cVAwU1M5MmVpSC1Oc2p4Z3VXbFVWT0VUTmlZNmhObFB1cDhlbjdGUEhZNlE0YzR1SnBxOHNBTldvUm82ZnlvY3VYNnlmLWhvdU5rMWFQZ3V3ZUJyWEFVRThjV1Fxd2MwRmNsME4wYkluT3dLWjRIT0dnajNKaVRDNlVXWWUwT3BZTnN4M0JhUGc2SkQyQTZHYWN4d0sxb2dYQVY1SW96UHhXd0dGX0VWcGRja2tzMEs2TU9raWNHcFN1UVhNR3BxWkR4RnF5NGNDMmVNT18zcVRLczAxU28tSkpxcm80X0RNTEJqSlFuYUZtNk5lc1Izd3g3bWRXbFI2VFlF0gGCAkFVX3lxTFAyOEJXSW1qTGt6T1EwdHpQUjAyODlKRlVPTmhqcjZUY3pkbEVOMkN1Qk9mUjk1bWQ5U2prdHRoa1l2OG8tVUtRZzIwYXZ0RjM4ZDlHdjNVRk1iMFhaN1QxY3loNG1BUTFFbEpRdzFDM0lSOW1CTVJuX3hwcml6RnN0dUpQWWc1WktqWmdaWFVuQVhnVzdJajNjWFN1bGlHZWZrVU1GRWRtRDh0RDNyUUFyMml0SnBUYjFqcVBvRUhkaURqeXY2UW1Xb2NabEFNajhET2VrQ1dDVmt0ZHVkeEdnM0xiaDFrTU90UGZ5LUkxR1JWQ2lsQlQtQzdnZWVEVlk2UQ?oc=5"
-    },
-    {
-     "titolo": "Ue: Meloni, approccio ideologico Green Deal ha impoverito sistemi produttivi",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3MDVyMmkzQ2VXaENwVUJwd3lXTG1OVGlYODJKSHZuMnM2QUNtRjdtSEpsX3hXWU1uczQtWk9aNmhKakxTWVdtTWRvZ25aZjE2QjBXNGpjSDVzMlRUdDhIZjBhaE1SMnVway1LMg?oc=5"
+     "fonte": "Confartigianato Ancona - Pesaro Urbino",
+     "data": "2026-10-29",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXI5aVFBcWlYM0ZzUTNjbEo3T0dwZE1PWUdMeF9kbUlhUXB2TzhodlhIZE43Z3M5bVUtX2t6LWs3aTNmcWNpUEVLaHU2UTNPY3NtNHFWQkJTelhjTTlwc2hzVWQzUS12MlYwVjVJZUpzbmx4NTZHT1ZiYmpIWnJ0R0RDZm1kdm1EYkJLOUhYZXkxNW5YVkV0bExkekg5cGh2QldXYmprT2V1WF9MbGJVWHgyZDBUYVR0N2R3ZzdVdDV5UEFGQXhNWA?oc=5"
     }
    ]
   },
@@ -4656,40 +4712,34 @@
    "url": "https://www.governo.it/it/articolo/accordo-con-le-associazioni-dellautotrasporto-videomessaggio-del-presidente-meloni/32898",
    "notizie": [
     {
-     "titolo": "Carburanti, Meloni: Accordo con associazioni autotrasporto, risorse e non promesse - Geagency",
-     "fonte": "Geagency",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdThsd3dBd29qcGVMZkpGOGMtTWNRdHBNVnVJbFFiMm1fellJTDhKZGN0TzVUZlUtVk9oNm15ZmpUWVczSXZjdkN3MkhvS2hOOW9WWmpTZS0zUEoycmNvaUZsbDNKUDF3Sm40bnJRcHA3VXhMRkdoRnZqbzN4QldyYUtma1lzNVdtMWZOTFFwanlmaFlCZlVZLUQxZDFHQVhpemduZ0wxSE5abGNQT3U3QXlyUzXSAboBQVVfeXFMT003Y1ZiQWsybUl3VUhWUVloOGFoeGFFRW9iVzZad0VqUEVia1MxWGZLS1VHbDdEbTJhVDA0YTFnVEpkTExCZ0RrUnV6Z0tJUWJvaU1SSTBrd0tIaTk3R25CQ0UxSjdacWNJRnhnVko3ZG9FcXY0a1NwRHJIVndfYmNRbmVNZWVxSXlpRVk3aE11UGZ3Q1l4MU1McFRVRWJ2YXFSNl9YY1B5WGdNY2xoVjNjd1NNNVZ4eDhR?oc=5"
-    },
-    {
      "titolo": "Trovato accordo con l'autotrasporto, Meloni: «Risorse già in pagamento»",
      "fonte": "Corriere del Ticino",
      "data": "2026-10-22",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0Q3T2VLNTlwOWtrejlMUHNvNFhJSjVHYUtiTzhscU93LVhBWV9WLXpEbURpb0c0Umk1MDJ0MTQ1ZFhySmlzeXJFT1dBNk11RDVnRFJtY0c5aVZCUmF5T1ZTNERjRXNzUWo5ZmVFLUZzVWNCWDlKWlFqVkt5V0RYcE9iVTYtTWNyQW9UOWdYNGpmRlNZYmlmRDZ1Ni1WZzcz?oc=5"
     },
     {
-     "titolo": "Meloni: Accordo con autotrasporto e risorse per agricoltura e pesca",
-     "fonte": "Il Sole 24 ORE",
+     "titolo": "Caro Carburanti, Meloni: \"Accordo con autotrasporto, non promesse ma risorse già arrivate\"",
+     "fonte": "LaPresse",
      "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGszMmVOLTFTTTJRd2MyTFJCSmRVMzhKa0p6WnEyOEJDcmRCbGFPYWFZT1lSZXdJcTFydzlsNThGSU9tUHZuTzhSLWZkdmtZdmg1WGM5TEo4UmpQYUtqOERvaVhfRzFjT1hQc3J0VEg0Zm9VQTdnZkUxVU9PZ2YteURfVzlENzBMNm5qTkNlZmM5X3NEcEZKanBUTEcxR0lTNG1oT3hNMGdvZm02b2pKeGJzNA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYkRTNkNBdG5fUkI2VVlQeXM3ODJ3TkpvcHdyMGdMT2dXVDZEVHpnd1Z0VHdjZmpFWVNkZFo1SHViajQtWUY1WUhKZjBZbjZLVnBWelF2eGhWR1pnZ21pdWVHaFBmQ0g0bTBoVlNxU2t0TGkwa3RWZGhucENmc0JnMkgtNEwxUjdsOURwOGk4TEFOQXZqeHJhV1BHdEJfY3hzN1NNZlBIby10M1hON1VES2xQNWlFZU1ZekNCZjk2Rkx0YlJlUmc?oc=5"
     },
     {
-     "titolo": "Autotrasporto: Meloni, non tolleriamo intimidazioni, blocchi da rimuovere -2-",
-     "fonte": "Il Sole 24 ORE",
+     "titolo": "Meloni: accordo con le associazioni dell’autotrasporto",
+     "fonte": "The Epoch Times Italia -",
      "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQXNJME1sLVFaWGNQVDVzYUVXblc5d0NTbldENHM1TlREWk1aUVlZVDdaY1gwRUpaSDRDWlVQTVIxcm9jTDQ1aEpHVXRyb0xpSVR2cThfVnFXOUcwUS10dlhDTGgtdVN6REFqWg?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNi1GVVZWeWszWlNOQy01VVRMcDlKTUhqWkJRSmQ0SmRDZ1pmTHcxcERTMVh6T2t4ZXVrM1hZdmZyWVBZN19HTnRWX3FNQ0JYeWZGbXBRdDNIV2R0bjFaVldETzgwX3dhdDZHd3BZd0YwUkR6WWN5a09wOFdINlpOTHNBRUxUQTl2bUJCVjVjVVRXb1ZH?oc=5"
     },
     {
-     "titolo": "Carburanti, Meloni: \"Accordo con autotrasporto, non promesse ma risorse già arrivate\"ù",
-     "fonte": "Ore12",
+     "titolo": "Video. Accordo con le associazioni dell'autotrasporto, videomessaggio del Presidente Meloni",
+     "fonte": "Goldwebtv",
      "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtjcTgwQ1pnX2lCMC1ra2lYbTUtVGJ4Q1MwS3J0Z0VkZ3kyZWN4bUl0b0VsSDdxRVRJOUhzVmtjbjNwQUV4ZWItREczOWFJSndMTzN2Tk03UndrY1NhSkhob2thRDVwOUxGVjByclRZOGZnRkhBN09LMUxlV0VKRmJjQjZUcFpKdHA5a2w0eWV1LUNNOWlJYktJODUtMlZmTWZ3SVpUaw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXVCRHJVQWlYRGNsNkQwdGxnZ0lMVFpRVVg3eDU1c3hGZV8zZVNIemw4NzdoMnBCTTN5QmE5QzhxMFAxbzl2dXZ1NWhGazZFVTJNMEhzZUV6SV9mQ3dGb2dMWW9uX3lBT0tCSE92OEVEWmxYendCM0VseGhSSUtvMmduNXNTRkNNMG5pbDFtRTF1M0d4dzVDR3NWdDBjOG12eWpoT29FN1M2TWIya3o2dkFRclBJY0Q1OFFj?oc=5"
     },
     {
-     "titolo": "Autotrasporto, agricoltura e pesca, ok al decreto. Meloni: non ci facciamo intimidire",
-     "fonte": "Gazzetta di Napoli",
-     "data": "2026-10-22",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemFKM2JaZ0gwbUlia093Z2M5OU10alpudVR6emJaVnVLNVlzbEFqak1JOTFZMFZvb3VSbXJVMzBQNEFxWXh6c3RnaXVwdC1OVGpDNXMxRVl3V0VXbEhnNTBTbVVYbUtqR3dCTW5nZVZMMW93QlpvdW5obV8zNmZWM3g3WENmQ2ZmTDNzZUdhekNqN0xudldVQ0xlcFUwLWxTMEpUSW1JaGtCODAzVExGeHk3eVFwRHVVOHBNU1JTdjV2d1NkWXFvUjZRU2lVVWM?oc=5"
+     "titolo": "Autotrasporto, Meloni: sì agli aiuti, no ai blocchi [VIDEO]",
+     "fonte": "Vado e Torno Web",
+     "data": "2026-10-23",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXhRdVByWU56bnVhbC1YMUhjQlIzMXFDQkFBUFFpWjVEVWE3VHN3T2tkZTU1Y2p5czF1bnhkOG1xc3dIeHhlODBJTTQ0alk3OUhpRjNleGh1ZFEyY19aR2lzNmNoUlY0eTlhVXhfRDVueF9wWlJpX1lGQXdTOEJMY1RiSFQ?oc=5"
     }
    ]
   },
@@ -5036,21 +5086,6 @@
    "testo": "Guardi, lo dice un partito che non ha avuto nessuna incertezza, mai, nel condannare tutti i fatti di violenza, compresi quelli di Milano, nello schierarsi dalla parte delle Forze dell'ordine: ma le pare normale che, di fronte a una richiesta di informativa del Ministro Piantedosi, che abbiamo…",
    "contesto": "Sull'ordine dei lavori.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0730&tipo=stenografico#sed0730.stenografico.tit00140.int00200"
-  },
-  {
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni",
-   "partito": {
-    "slug": "fdi",
-    "nome": "Fratelli d'Italia",
-    "sigla": "FdI"
-   },
-   "schieramento": "governo",
-   "fonte": "Governo",
-   "data": "2026-10-20",
-   "testo": "Inoltre, ci tengo a ringraziare la Fondazione Atena per l’instancabile impegno e l’attenzione nei confronti del contrasto alla droga e a tutte le dipendenze, su cui c’è il massimo impegno anche da parte del Governo. […] Con questo spirito voglio rivolgere le mie congratulazioni a Fabiola Gianotti, che riceverà il Premio Atena Donna e il Premio Atena Scienza.",
-   "contesto": "Premio Atena 2026, il messaggio del Presidente Meloni",
-   "url": "https://www.governo.it/it/articolo/premio-atena-2026-il-messaggio-del-presidente-meloni/32879"
   },
   {
    "slug": "angelo-bonelli",
@@ -6265,21 +6300,6 @@
    "testo": "Ha fatto bene a ribadire con forza che il pilastro fondamentale della nostra politica estera è da sempre, in tutto il mondo, il rispetto e la tutela delle libertà e dei diritti umani. […] La libertà non si impicca, i diritti umani non possono essere calpestati, non possono essere dimenticati neanche da una guerra in corso, non possono essere dimenticati neanche da interessi economici da una parte e dall'altra.",
    "contesto": "Svolgimento di interrogazioni a risposta immediata.",
    "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00040.int00060"
-  },
-  {
-   "slug": "nicola-fratoianni",
-   "nome": "Nicola Fratoianni",
-   "partito": {
-    "slug": "avs",
-    "nome": "Alleanza Verdi e Sinistra",
-    "sigla": "AVS"
-   },
-   "schieramento": "opposizione",
-   "fonte": "Camera",
-   "data": "2026-09-16",
-   "testo": "E allora, come i ciucci, io sono qui, testardamente, a chiederle ancora una volta se avete intenzione, se ha intenzione di fare qualcosa di fronte ai crimini di guerra e alla violenza fascista di Benjamin Netanyahu e del suo Governo, agli insediamenti che continuano ad annettere la Cisgiordania… […] Ci faccia sapere se finalmente ha deciso di fare qualcosa .",
-   "contesto": "Svolgimento di interrogazioni a risposta immediata.",
-   "url": "https://www.camera.it/leg19/410?idSeduta=0710&tipo=stenografico#sed0710.stenografico.tit00110.sub00020.int00020"
   }
  ]
 }

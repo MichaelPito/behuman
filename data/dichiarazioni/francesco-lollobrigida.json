@@ -7,24 +7,24 @@
   "sigla": "FdI"
  },
  "schieramento": "governo",
- "dal": "2021-11-04",
- "al": "2026-11-04",
+ "dal": "2021-11-05",
+ "al": "2026-11-05",
  "riepilogo": {
-  "totale": 156,
-  "camera": 149,
-  "parole_camera": 83402,
+  "totale": 154,
+  "camera": 148,
+  "parole_camera": 82450,
   "governo": 0,
   "senato": 0,
-  "verificate": 7,
-  "prima": "2021-11-04",
+  "verificate": 6,
+  "prima": "2021-11-08",
   "ultima": "2026-10-21",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 12,
+    "camera": 11,
     "governo": 0,
     "senato": 0,
-    "verificate": 1
+    "verificate": 0
    },
    {
     "anno": "2022",
@@ -80,12 +80,12 @@
     "n": 4
    },
    {
-    "categoria": "Altri argomenti",
+    "categoria": "Documenti di bilancio e programmazione",
     "n": 2
    },
    {
-    "categoria": "Documenti di bilancio e programmazione",
-    "n": 2
+    "categoria": "Altri argomenti",
+    "n": 1
    }
   ],
   "argomenti_frequenti": [
@@ -132,10 +132,6 @@
     "n": 5
    },
    {
-    "fonte": "Facebook",
-    "n": 1
-   },
-   {
     "fonte": "X",
     "n": 1
    }
@@ -150,15 +146,15 @@
     "n": 30
    },
    {
-    "tema": "Esteri e difesa",
-    "n": 13
-   },
-   {
     "tema": "Energia e carburanti",
     "n": 13
    },
    {
     "tema": "Lavoro, salari e pensioni",
+    "n": 12
+   },
+   {
+    "tema": "Esteri e difesa",
     "n": 12
    },
    {
@@ -170,10 +166,6 @@
     "n": 10
    },
    {
-    "tema": "Famiglia e natalità",
-    "n": 4
-   },
-   {
     "tema": "Casa e infrastrutture",
     "n": 4
    },
@@ -183,6 +175,10 @@
    },
    {
     "tema": "Immigrazione",
+    "n": 3
+   },
+   {
+    "tema": "Famiglia e natalità",
     "n": 3
    },
    {
@@ -205,11 +201,11 @@
      "n": 3
     },
     {
-     "tema": "Famiglia e natalità",
-     "n": 2
+     "tema": "Immigrazione",
+     "n": 1
     },
     {
-     "tema": "Esteri e difesa",
+     "tema": "Giustizia",
      "n": 1
     }
    ],
@@ -285,7 +281,7 @@
    ]
   }
  },
- "recap": "Dal 4 novembre 2021 al 21 ottobre 2026: 149 interventi nell'Aula della Camera (83.402 parole), 7 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), esteri e difesa (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+ "recap": "Dal 8 novembre 2021 al 21 ottobre 2026: 148 interventi nell'Aula della Camera (82.450 parole), 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), energia e carburanti (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -299,15 +295,6 @@
   "cambi_totali": 0
  },
  "verificate": [
-  {
-   "data": "2021-11-04",
-   "data_verifica": "2021-11-04",
-   "frase": "Nella sola Campania c’è un numero di percettori del reddito di cittadinanza equivalente a tutto il Nord Italia",
-   "url": "https://pagellapolitica.it/fact-checking/campania-nord-beneficiari-reddito-cittadinanza",
-   "fonte_originale": "https://www.facebook.com/watch/?v=438962820963683",
-   "fonte_tipo": "Facebook",
-   "giudizio": "Vero"
-  },
   {
    "data": "2022-10-24",
    "data_verifica": "2022-10-24",
@@ -364,23 +351,6 @@
   }
  ],
  "camera": [
-  {
-   "data": "2021-11-04",
-   "leg": 18,
-   "seduta": 588,
-   "argomento": "Nella ricorrenza della Giornata dell'Unità nazionale e delle Forze armate.",
-   "fase": null,
-   "categoria": "Altri argomenti",
-   "ruolo": null,
-   "gruppo": "FDI",
-   "sunto": "Ma la stessa consapevolezza, che lui raccoglie in quei magnifici versi, è la consapevolezza di tanti uomini, di tante famiglie, di tante donne impiegate, anche come ausiliarie, in quella circostanza, che avevano ragioni profonde, che necessitavano di affrontare quei sacrifici, per l'unità…",
-   "temi": [
-    "Esteri e difesa",
-    "Famiglia e natalità"
-   ],
-   "parole": 952,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0588&tipo=stenografico#sed0588.stenografico.tit00060.int00110"
-  },
   {
    "data": "2021-11-08",
    "leg": 18,

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1964-08-08",
@@ -429,6 +429,14 @@
      "presenti": 18,
      "assenti": 596,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 13,
+     "assenti": 4,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -1325,7 +1333,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -1349,7 +1357,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -1373,7 +1381,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -1397,7 +1405,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -2138,54 +2146,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_026",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
-     "atto": "C.2759",
-     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 34,
-      "Non ha votato": 15
-     },
-     "esito": {
-      "favorevoli": 264,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_015",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell'Uzbekistan sulla cooperazione di polizia, fatto a Roma l'8 giugno 2023 (Approvato dal Senato) (DDL 2589)",
-     "atto": "C.2589",
-     "titolo": "S. 1446. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell’Uzbekistan sulla cooperazione di polizia, fatto a Roma l’8 giugno 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 13,
-      "Favorevole": 36
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_020",
      "camera": "Camera",
      "legislatura": 19,
@@ -2232,6 +2192,54 @@
       "astenuti": 105
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_026",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025 (Approvato dal Senato) (DDL 2759)",
+     "atto": "C.2759",
+     "titolo": "S. 1622. - \"Ratifica ed esecuzione dell'Accordo tra la Repubblica Italiana e la Santa Sede per un impianto agrivoltaico a Santa Maria di Galeria, fatto a Roma il 31 luglio 2025\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 34,
+      "Non ha votato": 15
+     },
+     "esito": {
+      "favorevoli": 264,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_26&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_015",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell'Uzbekistan sulla cooperazione di polizia, fatto a Roma l'8 giugno 2023 (Approvato dal Senato) (DDL 2589)",
+     "atto": "C.2589",
+     "titolo": "S. 1446. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica dell’Uzbekistan sulla cooperazione di polizia, fatto a Roma l’8 giugno 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Favorevole": 36
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -12120,9 +12128,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 3270,
-    "totale": 20258,
-    "percentuale": 16.1
+    "presenti": 3283,
+    "totale": 20275,
+    "percentuale": 16.2
    },
    "fedelta_gruppo": {
     "allineati": 73,
@@ -12169,7 +12177,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte,_2018.06.29_(06)_(cropped).jpg",
@@ -12185,7 +12193,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,1% delle votazioni del periodo (3.270 su 20.258); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 16,2% delle votazioni del periodo (3.283 su 20.275); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 73 volte su 73 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

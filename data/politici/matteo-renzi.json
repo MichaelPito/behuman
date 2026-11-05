@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1975-01-11",
@@ -583,12 +583,84 @@
      "camera": "Senato",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 1,
+     "assenti": 13,
      "missione": 0,
-     "totale": 1
+     "totale": 13
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-472-2",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.1299",
+     "titolo": "Modifiche all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 134,
+      "contrari": 1,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58684&sessionId=472&voteId=2",
+     "voto": "Non ha votato",
+     "gruppo": "IV-CR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 5,
+      "In congedo o missione": 2
+     }
+    },
+    {
+     "id": "19-472-12",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2035",
+     "titolo": "Disposizioni in materia di cinema",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 123,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60453&sessionId=472&voteId=12",
+     "voto": "Non ha votato",
+     "gruppo": "IV-CR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 5,
+      "In congedo o missione": 2
+     }
+    },
+    {
+     "id": "19-472-1",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2015",
+     "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 76,
+      "contrari": 0,
+      "astenuti": 64
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60415&sessionId=472&voteId=1",
+     "voto": "Non ha votato",
+     "gruppo": "IV-CR",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 4,
+      "In congedo o missione": 2
+     }
+    },
     {
      "id": "19-469-6",
      "camera": "Senato",
@@ -9015,30 +9087,6 @@
       "Favorevole": 9,
       "In congedo o missione": 4
      }
-    },
-    {
-     "id": "18-375-1",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Disegno di legge n. 2437. Votazione questione di fiducia",
-     "atto": "S.2437",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "fiducia": true,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 190,
-      "contrari": 34,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54526",
-     "voto": "In congedo o missione",
-     "gruppo": "IV-PSI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 9,
-      "In congedo o missione": 6
-     }
     }
    ],
    "gruppi": [
@@ -9074,7 +9122,7 @@
   "Senato": {
    "presenza": {
     "presenti": 3830,
-    "totale": 8884,
+    "totale": 8896,
     "percentuale": 43.1
    },
    "fedelta_gruppo": {
@@ -9083,7 +9131,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 353
+   "voti_finali_e_fiducia": 355
   }
  },
  "posizioni": [
@@ -9119,7 +9167,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Matteo_Renzi_2.jpg/500px-Matteo_Renzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Renzi_2.jpg",
@@ -9136,7 +9184,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Al Senato ha partecipato al 43,1% delle votazioni del periodo (3.830 su 8.884); 1.389 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 43,1% delle votazioni del periodo (3.830 su 8.896); 1.389 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 41 volte su 41 (100,0%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."

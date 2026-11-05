@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1962-07-30",
@@ -429,6 +429,14 @@
      "presenti": 305,
      "assenti": 309,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -1323,7 +1331,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -1346,7 +1354,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -1370,7 +1378,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -1394,7 +1402,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -7776,29 +7784,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=293_9&tipo=dettaglio"
     },
     {
-     "id": "vs19_288_024",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-05-07",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023 (Approvato dal Senato) (DDL 1745)",
-     "atto": "C.1745",
-     "titolo": "S. 967. - \"Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "AVS",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 10
-     },
-     "esito": {
-      "favorevoli": 234,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_24&tipo=dettaglio"
-    },
-    {
      "id": "vs19_288_019",
      "camera": "Camera",
      "legislatura": 19,
@@ -7843,6 +7828,29 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_29&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_288_024",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-05-07",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023 (Approvato dal Senato) (DDL 1745)",
+     "atto": "C.1745",
+     "titolo": "S. 967. - \"Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 10
+     },
+     "esito": {
+      "favorevoli": 234,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_24&tipo=dettaglio"
     },
     {
      "id": "vs19_283_047",
@@ -12082,8 +12090,8 @@
   "Camera": {
    "presenza": {
     "presenti": 12995,
-    "totale": 20257,
-    "percentuale": 64.2
+    "totale": 20274,
+    "percentuale": 64.1
    },
    "fedelta_gruppo": {
     "allineati": 296,
@@ -12183,7 +12191,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Festival_di_Open_2024_11.jpg/500px-Festival_di_Open_2024_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Festival_di_Open_2024_11.jpg",
@@ -12200,7 +12208,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 64,2% delle votazioni del periodo (12.995 su 20.257); la mediana dei colleghi è 72,6%.",
+  "Alla Camera ha partecipato al 64,1% delle votazioni del periodo (12.995 su 20.274); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 296 volte su 296 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."

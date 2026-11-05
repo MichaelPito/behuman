@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 114,
+     "presenti": 84,
      "assenti": 153,
-     "totale": 267
+     "totale": 237
     },
     {
      "mese": "2021-12",
@@ -501,6 +501,14 @@
      "presenti": 225,
      "assenti": 389,
      "totale": 614
+    },
+    {
+     "mese": "2026-11",
+     "camera": "Camera",
+     "legislatura": 19,
+     "presenti": 0,
+     "assenti": 17,
+     "totale": 17
     }
    ],
    "voti_finali": [
@@ -2388,30 +2396,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
-     "id": "vs18_588_030",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010 (Approvata dal Senato) (PDL 2332)",
-     "atto": "C.2332",
-     "titolo": "S. 667. - Senatori AIROLA ed altri: \"Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M-AERI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 1,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 224,
-      "contrari": 119,
-      "astenuti": 50
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
-    },
-    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3285,7 +3269,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-23",
-     "descrizione": "DDL 2920-A - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa (DDL 2920)",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": false,
@@ -3309,7 +3293,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-22",
-     "descrizione": "DDL.n. 2920-A",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 7 maggio 2026, n. 66, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia",
      "atto": "C.2920",
      "titolo": "Conversione in legge del decreto-legge 7 maggio 2026, n. 66, recante disposizioni urgenti per il Piano Casa",
      "fiducia": true,
@@ -3332,7 +3316,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-17",
-     "descrizione": "DDL 2962 - VOTO FINALE",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali (Approvato dal Senato) (DDL 2962)",
      "atto": "C.2962",
      "titolo": "S. 1891. - \"Conversione in legge, con modificazioni, del decreto-legge 30 aprile 2026, n. 63, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della crisi dei mercati internazionali\" (approvato dal Senato)",
      "fiducia": false,
@@ -3355,7 +3339,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-06-16",
-     "descrizione": "DDL 2947 - VOTO FINALE",
+     "descrizione": "Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti (Approvato dal Senato) (DDL 2947)",
      "atto": "C.2947",
      "titolo": "S. 1885. - \"Conversione in legge del decreto-legge 24 aprile 2026, n. 55, recante disposizioni urgenti in materia di rimpatri volontari assistiti\" (approvato dal Senato)",
      "fiducia": false,
@@ -3565,29 +3549,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=665_84&tipo=dettaglio"
     },
     {
-     "id": "vs19_664_016",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-05-20",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 27 marzo 2026, n. 38, nel testo della Commissione, identico a quello approvato dal Senato, sul quale il Governo ha posto la questione di fiducia.",
-     "atto": "C.2935",
-     "titolo": "S. 1852. - \"Conversione in legge, con modificazioni, del decreto-legge 27 marzo 2026, n. 38, recante disposizioni urgenti in materia fiscale ed economica\" (approvato dal Senato)",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Contrario",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 3
-     },
-     "esito": {
-      "favorevoli": 169,
-      "contrari": 93,
-      "astenuti": 4
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_16&tipo=dettaglio"
-    },
-    {
      "id": "vs19_664_015",
      "camera": "Camera",
      "legislatura": 19,
@@ -3610,6 +3571,29 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_15&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_664_016",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-05-20",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 27 marzo 2026, n. 38, nel testo della Commissione, identico a quello approvato dal Senato, sul quale il Governo ha posto la questione di fiducia.",
+     "atto": "C.2935",
+     "titolo": "S. 1852. - \"Conversione in legge, con modificazioni, del decreto-legge 27 marzo 2026, n. 38, recante disposizioni urgenti in materia fiscale ed economica\" (approvato dal Senato)",
+     "fiducia": true,
+     "approvato": true,
+     "voto": "Contrario",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 3
+     },
+     "esito": {
+      "favorevoli": 169,
+      "contrari": 93,
+      "astenuti": 4
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=664_16&tipo=dettaglio"
     },
     {
      "id": "vs19_660_001",
@@ -5990,6 +5974,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio"
     },
     {
+     "id": "vs19_527_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-10",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell'istruzione, della scienza, della tecnologia e dell'informazione, fatto a Roma il 4 febbraio 2020 (DDL 1451)",
+     "atto": "C.1451",
+     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell’istruzione, della scienza, della tecnologia e dell’informazione, fatto a Roma il 4 febbraio 2020",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 2,
+      "Non ha votato": 1
+     },
+     "esito": {
+      "favorevoli": 281,
+      "contrari": 2,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_12&tipo=dettaglio"
+    },
+    {
      "id": "vs19_527_039",
      "camera": "Camera",
      "legislatura": 19,
@@ -6014,28 +6022,28 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_39&tipo=dettaglio"
     },
     {
-     "id": "vs19_527_012",
+     "id": "vs19_527_028",
      "camera": "Camera",
      "legislatura": 19,
      "data": "2025-09-10",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell'istruzione, della scienza, della tecnologia e dell'informazione, fatto a Roma il 4 febbraio 2020 (DDL 1451)",
-     "atto": "C.1451",
-     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell’istruzione, della scienza, della tecnologia e dell’informazione, fatto a Roma il 4 febbraio 2020",
+     "descrizione": "Ratifica ed esecuzione dell'Atto di Ginevra dell'Accordo di Lisbona sulle denominazioni d'origine e le indicazioni geografiche, fatto a Ginevra il 20 maggio 2015 (DDL 1502)",
+     "atto": "C.1502",
+     "titolo": "Ratifica ed esecuzione dell’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche, fatto a Ginevra il 20 maggio 2015",
      "fiducia": false,
      "approvato": true,
      "voto": "Non ha votato",
      "gruppo": "M-+EUR",
      "linea_gruppo": "Favorevole",
      "conteggi_gruppo": {
-      "Favorevole": 2,
-      "Non ha votato": 1
+      "Non ha votato": 1,
+      "Favorevole": 2
      },
      "esito": {
-      "favorevoli": 281,
-      "contrari": 2,
+      "favorevoli": 282,
+      "contrari": 1,
       "astenuti": 0
      },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_12&tipo=dettaglio"
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_28&tipo=dettaglio"
     },
     {
      "id": "vs19_527_034",
@@ -6084,30 +6092,6 @@
       "astenuti": 1
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_527_028",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-10",
-     "descrizione": "Ratifica ed esecuzione dell'Atto di Ginevra dell'Accordo di Lisbona sulle denominazioni d'origine e le indicazioni geografiche, fatto a Ginevra il 20 maggio 2015 (DDL 1502)",
-     "atto": "C.1502",
-     "titolo": "Ratifica ed esecuzione dell’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche, fatto a Ginevra il 20 maggio 2015",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 1,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 282,
-      "contrari": 1,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_28&tipo=dettaglio"
     },
     {
      "id": "vs19_524_041",
@@ -8200,7 +8184,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
+     "descrizione": "PDL 1987-A - VOTO FINALE",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -8223,7 +8207,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "PDL 1987-A - VOTO FINALE",
+     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -8691,53 +8675,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=354_1&tipo=dettaglio"
     },
     {
-     "id": "vs19_350_031",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-09-19",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kosovo sulla cooperazione di Polizia, fatto a Roma il 12 novembre 2020 (Approvato dal Senato) (DDL 1388)",
-     "atto": "C.1388",
-     "titolo": "S. 694. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kosovo sulla cooperazione di polizia, fatto a Roma il 12 novembre 2020\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 3
-     },
-     "esito": {
-      "favorevoli": 256,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_31&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_350_014",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-09-19",
-     "descrizione": "Ratifica ed esecuzione del Trattato di assistenza giudiziaria in materia penale tra il Governo della Repubblica italiana ed il Governo della Repubblica del Senegal, fatto a Dakar il 4 gennaio 2018 (Approvato dal Senato) (DDL 1149)",
-     "atto": "C.1149",
-     "titolo": "S. 613. - \"Ratifica ed esecuzione del Trattato di assistenza giudiziaria in materia penale tra il Governo della Repubblica italiana ed il Governo della Repubblica del Senegal, fatto a Dakar il 4 gennaio 2018\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 1,
-      "Non ha votato": 2
-     },
-     "esito": {
-      "favorevoli": 273,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_14&tipo=dettaglio"
-    },
-    {
      "id": "vs19_350_020",
      "camera": "Camera",
      "legislatura": 19,
@@ -8784,6 +8721,29 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_25&tipo=dettaglio"
     },
     {
+     "id": "vs19_350_031",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-09-19",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kosovo sulla cooperazione di Polizia, fatto a Roma il 12 novembre 2020 (Approvato dal Senato) (DDL 1388)",
+     "atto": "C.1388",
+     "titolo": "S. 694. - \"Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kosovo sulla cooperazione di polizia, fatto a Roma il 12 novembre 2020\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": null,
+     "conteggi_gruppo": {
+      "Non ha votato": 3
+     },
+     "esito": {
+      "favorevoli": 256,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_31&tipo=dettaglio"
+    },
+    {
      "id": "vs19_350_009",
      "camera": "Camera",
      "legislatura": 19,
@@ -8806,6 +8766,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_9&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_350_014",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-09-19",
+     "descrizione": "Ratifica ed esecuzione del Trattato di assistenza giudiziaria in materia penale tra il Governo della Repubblica italiana ed il Governo della Repubblica del Senegal, fatto a Dakar il 4 gennaio 2018 (Approvato dal Senato) (DDL 1149)",
+     "atto": "C.1149",
+     "titolo": "S. 613. - \"Ratifica ed esecuzione del Trattato di assistenza giudiziaria in materia penale tra il Governo della Repubblica italiana ed il Governo della Repubblica del Senegal, fatto a Dakar il 4 gennaio 2018\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 1,
+      "Non ha votato": 2
+     },
+     "esito": {
+      "favorevoli": 273,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=350_14&tipo=dettaglio"
     },
     {
      "id": "vs19_349_113",
@@ -13938,17 +13922,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 9011,
-    "totale": 22171,
-    "percentuale": 40.6
+    "presenti": 8981,
+    "totale": 22158,
+    "percentuale": 40.5
    },
    "fedelta_gruppo": {
-    "allineati": 191,
+    "allineati": 190,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 565
   }
  },
  "posizioni": [
@@ -14001,7 +13985,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",
@@ -14017,8 +14001,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 40,6% delle votazioni del periodo (9.011 su 22.171); la mediana dei colleghi è 72,6%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 191 volte su 191 (100,0%).",
+  "Alla Camera ha partecipato al 40,5% delle votazioni del periodo (8.981 su 22.158); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 190 volte su 190 (100,0%).",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]
 }

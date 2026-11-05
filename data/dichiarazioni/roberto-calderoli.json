@@ -7,23 +7,23 @@
   "sigla": "Lega"
  },
  "schieramento": "governo",
- "dal": "2021-11-04",
- "al": "2026-11-04",
+ "dal": "2021-11-05",
+ "al": "2026-11-05",
  "riepilogo": {
-  "totale": 182,
+  "totale": 180,
   "camera": 54,
   "parole_camera": 22926,
   "governo": 0,
-  "senato": 128,
+  "senato": 126,
   "verificate": 0,
-  "prima": "2021-11-04",
+  "prima": "2021-11-09",
   "ultima": "2026-07-29",
   "per_anno": [
    {
     "anno": "2021",
     "camera": 0,
     "governo": 0,
-    "senato": 27,
+    "senato": 25,
     "verificate": 0
    },
    {
@@ -190,7 +190,7 @@
    ]
   }
  },
- "recap": "Dal 4 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 128 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "recap": "Dal 9 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 126 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -993,19 +993,6 @@
  ],
  "governo": [],
  "senato": [
-  {
-   "data": "2021-11-04",
-   "seduta": 375,
-   "ddl": [
-    {
-     "fase": "S.2437",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2021, n. 121, recante disposizioni urgenti in materia di investimenti e sicurezza delle infrastrutture, dei trasporti e della circolazione stradale, per la funzionalità del Ministero delle infrastrutture e della mobilità sostenibili, del Consiglio superiore dei lavori pubblici e dell'Agenzia nazionale per la sicurezza delle infrastrutture stradali e autostradali",
-     "url": "https://dati.senato.it/ddl/54526.html"
-    }
-   ],
-   "interventi": 2,
-   "id": "2021-11-04:375"
-  },
   {
    "data": "2021-11-09",
    "seduta": 376,

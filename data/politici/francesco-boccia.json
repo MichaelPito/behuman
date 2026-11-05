@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-04",
-  "al": "2026-11-04"
+  "dal": "2021-11-05",
+  "al": "2026-11-05"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 139,
+     "presenti": 109,
      "assenti": 128,
-     "totale": 267
+     "totale": 237
     },
     {
      "mese": "2021-12",
@@ -2015,30 +2015,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_588_030",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-04",
-     "descrizione": "Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010 (Approvata dal Senato) (PDL 2332)",
-     "atto": "C.2332",
-     "titolo": "S. 667. - Senatori AIROLA ed altri: \"Ratifica ed esecuzione degli emendamenti allo Statuto istitutivo della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232, adottati a Kampala il 10 e l'11 giugno 2010\" (approvata dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 31,
-      "Favorevole": 64
-     },
-     "esito": {
-      "favorevoli": 224,
-      "contrari": 119,
-      "astenuti": 50
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=588_30&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -2500,13 +2476,88 @@
      "mese": "2026-11",
      "camera": "Senato",
      "legislatura": 19,
-     "presenti": 0,
-     "assenti": 1,
+     "presenti": 11,
+     "assenti": 2,
      "missione": 0,
-     "totale": 1
+     "totale": 13
     }
    ],
    "voti_finali": [
+    {
+     "id": "19-472-2",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.1299",
+     "titolo": "Modifiche all'articolo 38 della Costituzione in materia di diritti delle persone con disabilità",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 134,
+      "contrari": 1,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=58684&sessionId=472&voteId=2",
+     "voto": "Non ha votato",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 24,
+      "Contrario": 1,
+      "In congedo o missione": 4,
+      "Presente non votante": 3
+     }
+    },
+    {
+     "id": "19-472-12",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2035",
+     "titolo": "Disposizioni in materia di cinema",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 123,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60453&sessionId=472&voteId=12",
+     "voto": "Favorevole",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 27,
+      "In congedo o missione": 4,
+      "Presente non votante": 2
+     }
+    },
+    {
+     "id": "19-472-1",
+     "camera": "Senato",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "Votazione finale",
+     "atto": "S.2015",
+     "titolo": "Misure di consolidamento e sviluppo del settore agricolo",
+     "fiducia": false,
+     "approvato": true,
+     "esito": {
+      "favorevoli": 76,
+      "contrari": 0,
+      "astenuti": 64
+     },
+     "url": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=60415&sessionId=472&voteId=1",
+     "voto": "Astensione",
+     "gruppo": "PD-IDP",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 29,
+      "In congedo o missione": 4
+     }
+    },
     {
      "id": "19-469-6",
      "camera": "Senato",
@@ -10477,31 +10528,31 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 910,
-    "totale": 1913,
-    "percentuale": 47.6
+    "presenti": 880,
+    "totale": 1883,
+    "percentuale": 46.7
    },
    "fedelta_gruppo": {
-    "allineati": 33,
+    "allineati": 32,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 80
+   "voti_finali_e_fiducia": 79
   },
   "Senato": {
    "presenza": {
-    "presenti": 6348,
-    "totale": 8411,
+    "presenti": 6359,
+    "totale": 8423,
     "percentuale": 75.5
    },
    "fedelta_gruppo": {
-    "allineati": 235,
+    "allineati": 237,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 319
+   "voti_finali_e_fiducia": 322
   }
  },
  "posizioni": [
@@ -10619,7 +10670,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-04",
+ "aggiornato_il": "2026-11-05",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10636,10 +10687,10 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 47,6% delle votazioni del periodo (910 su 1.913); la mediana dei colleghi è 72,6%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 33 volte su 33 (100,0%).",
-  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.348 su 8.411); 451 votazioni risultano in congedo o missione.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 235 volte su 235 (100,0%).",
+  "Alla Camera ha partecipato al 46,7% delle votazioni del periodo (880 su 1.883); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 32 volte su 32 (100,0%).",
+  "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.359 su 8.423); 451 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 237 volte su 237 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]
