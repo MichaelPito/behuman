@@ -7,15 +7,15 @@
   "sigla": "M5S"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-05",
- "al": "2026-11-05",
+ "dal": "2021-11-06",
+ "al": "2026-11-06",
  "riepilogo": {
-  "totale": 140,
+  "totale": 141,
   "camera": 86,
   "parole_camera": 66565,
   "governo": 0,
   "senato": 0,
-  "verificate": 54,
+  "verificate": 55,
   "prima": "2021-12-09",
   "ultima": "2026-11-03",
   "per_anno": [
@@ -59,7 +59,7 @@
     "camera": 15,
     "governo": 0,
     "senato": 0,
-    "verificate": 10
+    "verificate": 11
    }
   ],
   "categorie": [
@@ -147,7 +147,7 @@
    },
    {
     "fonte": "Camera",
-    "n": 3
+    "n": 4
    },
    {
     "fonte": "TV",
@@ -285,7 +285,7 @@
    ]
   }
  },
- "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+ "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 55 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -784,6 +784,19 @@
    "fonte_originale": "https://www.facebook.com/reel/2687551818343748",
    "fonte_tipo": "Facebook",
    "giudizio": null
+  },
+  {
+   "data": "2026-11-03",
+   "data_verifica": "2026-11-05",
+   "frase": "Ho vietato, durante il mio governo, l’export di armi all’Arabia Saudita e agli Emirati Arabi",
+   "url": "https://pagellapolitica.it/fact-checking/ho-vietato-durante-il-mio-governo-lexport-di-armi-allarabia-saudita-e-agli-emirati-arabi",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#:~:text=%C3%A8%20per%20questa%20ragione%20che%20ho%20vietato%2C%20durante%20il%20mio%20Governo%2C%20l%27export%20di%20armi%20all%27Arabia%20Saudita%20e%20agli%20Emirati%20Arabi%2C%20perch%C3%A9%20si%20commettevano%2C%20con%20quelle%20armi%2C%20dei%20crimini%20di%20guerra%20e%20contro%20l%27umanit%C3%A0%20nello%20Yemen",
+   "fonte_tipo": "Camera",
+   "giudizio": null,
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, onorevoli colleghi, questa proposta di legge vieta le importazioni di beni e servizi dagli insediamenti israeliani illegali che sono nei territori occupati palestinesi. Vedete, è più di una semplice proposta di legge, perché, con questo voto, quest'Aula deciderà l'Italia che vogliamo. È un bivio, siamo di fronte a un bivio. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060"
+   }
   }
  ],
  "camera": [
@@ -2327,7 +2340,8 @@
     "Esteri e difesa"
    ],
    "parole": 571,
-   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060"
+   "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060",
+   "verificata": "https://pagellapolitica.it/fact-checking/ho-vietato-durante-il-mio-governo-lexport-di-armi-allarabia-saudita-e-agli-emirati-arabi"
   }
  ],
  "governo": [],

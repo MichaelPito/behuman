@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1954-01-04",
@@ -463,11 +463,35 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 17,
-     "totale": 17
+     "assenti": 136,
+     "totale": 136
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FI-PPE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 26,
+      "Favorevole": 26
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
     {
      "id": "vs19_735_017",
      "camera": "Camera",
@@ -1313,7 +1337,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -1337,7 +1361,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -12172,7 +12196,7 @@
   "Camera": {
    "presenza": {
     "presenti": 631,
-    "totale": 20275,
+    "totale": 20394,
     "percentuale": 3.1
    },
    "fedelta_gruppo": {
@@ -12181,7 +12205,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 486
+   "voti_finali_e_fiducia": 487
   }
  },
  "posizioni": [],
@@ -12206,7 +12230,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gilberto_Pichetto_Fratin.jpg/500px-Gilberto_Pichetto_Fratin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Gilberto_Pichetto_Fratin.jpg",
@@ -12223,7 +12247,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'ambiente e della sicurezza energetica (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 3,1% delle votazioni del periodo (631 su 20.275); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 3,1% delle votazioni del periodo (631 su 20.394); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 32 volte su 32 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

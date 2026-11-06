@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1974-08-03",
@@ -434,12 +434,36 @@
      "mese": "2026-11",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 0,
-     "assenti": 17,
-     "totale": 17
+     "presenti": 118,
+     "assenti": 18,
+     "totale": 136
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Contrario",
+     "gruppo": "APERRE",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Contrario": 5
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
     {
      "id": "vs19_735_017",
      "camera": "Camera",
@@ -1286,7 +1310,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -1310,7 +1334,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -2121,30 +2145,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_5&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "APERRE",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 5,
-      "Favorevole": 5
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_010",
      "camera": "Camera",
      "legislatura": 19,
@@ -2215,6 +2215,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "APERRE",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Favorevole": 5
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
     },
     {
      "id": "vs19_634_033",
@@ -7761,30 +7785,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=297_26&tipo=dettaglio"
     },
     {
-     "id": "vs19_293_001",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-05-15",
-     "descrizione": "Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici (DDL 1717)",
-     "atto": "C.1717",
-     "titolo": "Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Astensione",
-     "gruppo": "APERRE",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 8,
-      "Non ha votato": 4
-     },
-     "esito": {
-      "favorevoli": 149,
-      "contrari": 8,
-      "astenuti": 109
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=293_1&tipo=dettaglio"
-    },
-    {
      "id": "vs19_293_009",
      "camera": "Camera",
      "legislatura": 19,
@@ -7807,6 +7807,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=293_9&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_293_001",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-05-15",
+     "descrizione": "Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici (DDL 1717)",
+     "atto": "C.1717",
+     "titolo": "Disposizioni in materia di rafforzamento della cybersicurezza nazionale e di reati informatici",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Astensione",
+     "gruppo": "APERRE",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 8,
+      "Non ha votato": 4
+     },
+     "esito": {
+      "favorevoli": 149,
+      "contrari": 8,
+      "astenuti": 109
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=293_1&tipo=dettaglio"
     },
     {
      "id": "vs19_288_024",
@@ -12127,17 +12151,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 9107,
-    "totale": 20275,
-    "percentuale": 44.9
+    "presenti": 9225,
+    "totale": 20394,
+    "percentuale": 45.2
    },
    "fedelta_gruppo": {
-    "allineati": 184,
+    "allineati": 185,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 486
+   "voti_finali_e_fiducia": 487
   }
  },
  "posizioni": [
@@ -12242,7 +12266,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Matteo_Richetti_datisenato_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Richetti_datisenato_2018.jpg",
@@ -12259,8 +12283,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 44,9% delle votazioni del periodo (9.107 su 20.275); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 184 volte su 184 (100,0%).",
+  "Alla Camera ha partecipato al 45,2% delle votazioni del periodo (9.225 su 20.394); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 185 volte su 185 (100,0%).",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]
 }

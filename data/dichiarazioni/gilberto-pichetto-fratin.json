@@ -7,25 +7,18 @@
   "sigla": "FI"
  },
  "schieramento": "governo",
- "dal": "2021-11-05",
- "al": "2026-11-05",
+ "dal": "2021-11-06",
+ "al": "2026-11-06",
  "riepilogo": {
-  "totale": 145,
-  "camera": 145,
-  "parole_camera": 47453,
+  "totale": 143,
+  "camera": 143,
+  "parole_camera": 46317,
   "governo": 0,
   "senato": 0,
   "verificate": 0,
-  "prima": "2021-11-05",
+  "prima": "2022-06-17",
   "ultima": "2026-09-09",
   "per_anno": [
-   {
-    "anno": "2021",
-    "camera": 2,
-    "governo": 0,
-    "senato": 0,
-    "verificate": 0
-   },
    {
     "anno": "2022",
     "camera": 22,
@@ -81,7 +74,7 @@
    },
    {
     "categoria": "Interpellanze e interrogazioni",
-    "n": 5
+    "n": 3
    },
    {
     "categoria": "Fiducia al Governo",
@@ -118,31 +111,31 @@
     "al": "2024-11-06"
    },
    {
-    "argomento": "Svolgimento di interpellanze urgenti.",
-    "n": 3,
-    "dal": "2021-11-05",
-    "al": "2022-06-17"
-   },
-   {
     "argomento": "Svolgimento di un' interpellanza e interrogazioni.",
     "n": 2,
     "dal": "2022-07-12",
     "al": "2022-07-12"
+   },
+   {
+    "argomento": "Discussione del disegno di legge: Conversione in legge, con modificazioni, del decreto-legge 29 maggio 2023, n. 57, recante misure urgenti per gli enti territoriali, nonché per garantire la tempestiva attuazione del…",
+    "n": 2,
+    "dal": "2023-07-14",
+    "al": "2023-07-14"
    }
   ],
   "fonti_verificate": [],
   "temi": [
    {
     "tema": "Energia e carburanti",
-    "n": 74
+    "n": 73
    },
    {
     "tema": "Ambiente e clima",
-    "n": 47
+    "n": 46
    },
    {
     "tema": "Unione europea",
-    "n": 14
+    "n": 13
    },
    {
     "tema": "Economia e conti pubblici",
@@ -178,20 +171,6 @@
    }
   ],
   "temi_per_anno": {
-   "2021": [
-    {
-     "tema": "Energia e carburanti",
-     "n": 1
-    },
-    {
-     "tema": "Unione europea",
-     "n": 1
-    },
-    {
-     "tema": "Ambiente e clima",
-     "n": 1
-    }
-   ],
    "2022": [
     {
      "tema": "Ambiente e clima",
@@ -264,7 +243,7 @@
    ]
   }
  },
- "recap": "Dal 5 novembre 2021 al 9 settembre 2026: 145 interventi nell'Aula della Camera (47.453 parole). Gli argomenti che tornano più spesso nei suoi interventi: energia e carburanti (74), ambiente e clima (47), unione europea (14). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
+ "recap": "Dal 17 giugno 2022 al 9 settembre 2026: 143 interventi nell'Aula della Camera (46.317 parole). Gli argomenti che tornano più spesso nei suoi interventi: energia e carburanti (73), ambiente e clima (46), unione europea (13). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
  "valutazione_coerenza": {
   "stato": "dati_insufficienti",
   "temi_confrontabili": 0,
@@ -279,39 +258,6 @@
  },
  "verificate": [],
  "camera": [
-  {
-   "data": "2021-11-05",
-   "leg": 18,
-   "seduta": 589,
-   "argomento": "Svolgimento di interpellanze urgenti.",
-   "fase": "Iniziative di competenza, anche in sede di Unione europea, per contrastare l'incremento dei costi delle materie prime – n. 2-01356",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": "Vice Ministro dello Sviluppo economico",
-   "gruppo": null,
-   "sunto": "Come ha già avuto modo di riferire il Ministro dello Sviluppo economico nell'Aula del Senato sulla medesima questione, durante un question time , nel corso degli ultimi mesi è emersa una grande preoccupazione per l'aumento globale dei prezzi delle materie prime sia per le imprese che per le…",
-   "temi": [
-    "Energia e carburanti",
-    "Unione europea"
-   ],
-   "parole": 819,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00040.sub00020.int00040"
-  },
-  {
-   "data": "2021-11-05",
-   "leg": 18,
-   "seduta": 589,
-   "argomento": "Svolgimento di interpellanze urgenti.",
-   "fase": "Iniziative di competenza in relazione all'impiego dell'olio di girasole come corroborante per la conservazione dei tuberi di patata – n. 2-01350",
-   "categoria": "Interpellanze e interrogazioni",
-   "ruolo": "Vice Ministro dello Sviluppo economico",
-   "gruppo": null,
-   "sunto": "Naturalmente, parlo anche a nome del Ministero delle Politiche agricole, alimentari e forestali e in loro rappresentanza. […] Ciò detto, rilevo che, il 9 aprile scorso, la commissione, nell'esaminare un'istanza specifica relativa all'utilizzo dell'olio di girasole quale corroborante, ha ritenuto necessario richiedere un'integrazione documentale al dossier tecnico per superare le criticità riscontrate durante la…",
-   "temi": [
-    "Ambiente e clima"
-   ],
-   "parole": 317,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0589&tipo=stenografico#sed0589.stenografico.tit00040.sub00030.int00040"
-  },
   {
    "data": "2022-06-17",
    "leg": 18,

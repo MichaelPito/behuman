@@ -1,44 +1,8 @@
 {
- "aggiornato_il": "2026-11-05T06:56:12+00:00",
+ "aggiornato_il": "2026-11-06T06:47:33+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
-  {
-   "id": "55661",
-   "numero": "C.3106",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
-   "natura": "di conversione di decreto-legge",
-   "conversione": true,
-   "stato_ufficiale": "all'esame assemblea",
-   "stato": "in discussione in Aula",
-   "data_stato": "2026-11-04",
-   "presentato": "2026-09-18",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro economia e finanze Giorgetti ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "6ª Commissione (Finanze)",
-   "temi": [
-    "Entrate tributarie",
-    "Prezzi",
-    "Prodotti petroliferi"
-   ],
-   "decreto_del": "2026-09-17",
-   "scadenza": "2026-11-16",
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55661",
-   "prima": null,
-   "proponenti_monitorati": [
-    "giorgia-meloni",
-    "giancarlo-giorgetti"
-   ],
-   "abbinate": [],
-   "notizie": [],
-   "semplice": "Rende definitivo il decreto del Governo del 17 settembre 2026, già in vigore: misure urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, e in materia fiscale."
-  },
   {
    "id": "55733",
    "numero": "C.3159",
@@ -159,10 +123,10 @@
    ],
    "notizie": [
     {
-     "titolo": "La legge popolare fa tremare le braci di Catania: cavalli come animali d'affezione, superato in anticipo il quorum delle 50mila firme per la legge di iniziativa popolare",
-     "fonte": "La Sicilia",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblJ6cDZUajNFd1ZpLVBLMjVsYUhOdF9tU0pCWTlTLTdVUE1VQ1RTMGhxZDZEZkJLX2h1M2xIa2ZOT0YtYmNpYkJnUVhzaGFlN0lrazZMU3BiWS1VbGU2WHZoRElxMXFFS29WTmZjOGpaSm1ld3lFckk2Zkx6MS1YZ3FuVDVnRTh2RlkyR0hlS09nN2JYRDNCZzVQUTN3dXFjSkxGbGVYalIyMFpJZy1FZ0E2d1c0aTRhc1hnU0NhNmk4Q19xNkpRekxsODJRUnlQN1htZmpyb2lhNE5DbnRndG1JMUVtYXhsb0hxQzl5Z0x1NE82THloLWJlcjM?oc=5"
+     "titolo": "EQUIDI SOLO D’AFFEZIONE: Pdl Equidi, dubbi di copertura e sul registro presso le Asl",
+     "fonte": "Brontolo dice la sua",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGFSbUstQkdYSVVqQl9CQm9EdlkxTnBmMHhPblJWQ1FOVFNDR1FXTTdodUVwMUNYYWtSR2RmbGlsZ1V0ZDFkYnlDM0hoSnlWdlhJLTlwbnNxX0NrN3MwaElsSExOTXdfUkxBRmplbUc4RjU5U2hVbWtHRkhmZnVvRFJXUE5RVl9oWVdHcHV3SFVJSHdEa1dGNkJ3bHFGY0hvOGljRThycVpWYzBaRlBTdVFCT1o?oc=5"
     }
    ],
    "semplice": "Riconosce per legge gli equidi (cavalli, asini e muli) come animali da compagnia e regole per la loro tutela e per la promozione di misure per la riconversione degli allevamenti."
@@ -287,6 +251,24 @@
     }
    ],
    "notizie": [
+    {
+     "titolo": "Sul ddl antisemitismo mi pare onesto astenersi (di M. Perduca)",
+     "fonte": "HuffPost Italia",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmE5RGlnQ3NOSVFTMk1YZnR1N3U5ckVvaTMxXzVIMExFYWZidWRPRGI0RThRY0tDMWFXd2FINlNKZXFpUWl5OEstcE9HN1ZSVGlSQ3NiR3lnQVpUdVF6MUpTMFQyNXlENl95Q3FIdmVqRjZVdHJURGFrcm1TY0hmRnFXV3RxaFhYZ1NQeVQzUUpwMEtEM05rV1BXeURVT1hrNUo2bGxJUWRoYjg?oc=5"
+    },
+    {
+     "titolo": "I tempi del DDL sull'antisemitismo: intervista a Paolo Emilio Russo (5.11.2026)",
+     "fonte": "Radio Radicale",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFyZVlFRVZNcWd5REpiVXlzTG8tTldheTVxUE15QU56M25iVnFTOUwyTHdVbWdGNlBsTDk2NGx3dW9RaldyOUZvQkJKZmVUX0tybTNtRTdmTnU4RXd4TWJzNktnMXU5QXNsYXE1a1lPb2ZpdUtYN2VjUktqcVNlX1hHYS1PeUQzaGpzeE16NkJrYU13NWN2THNXNmplT3NZWVV6N19VZVpXMzdw?oc=5"
+    },
+    {
+     "titolo": "DDL sull’antisemitismo, le critiche alla definizione IHRA e il dibattito sulla libertà di espressione",
+     "fonte": "Blitz quotidiano",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdGNHZ3VDeUkxU2xlVlU4bVFGbTlMWDJ6TEF5RlZ0bjVVVTZlb0hMOTZQODJYZ1QtaUtublZrWXNrMXo0MkZzemlITlkybWdYa19yeVpiamN6djFmX0RWdGwyY1RHdGQwWDduZ0ktYTZNUEc1dDExWng0RnVCVlB5cDJXYmRmRDFRTEp2RnZ2dVJhWVJITEZlOW1XREN4cEpGMnVnWlZRbWtHWUtCdWk5cTg1RjBHblNMT2kyRHNLaVp5eUZoMF9lb2NST0dzT0JVU3p3UzdWb2hnVVFGWjZqMmtR0gHnAUFVX3lxTE1MMlZEeHlnOEUtVzNLRWNLcWpaSks0U1hwMUpaUml5R28yQ0NRLTQ3VVV1WHo0ZFB3WFRycU9TWlZuQlRhajZicDFVQktNcXJLZjBaVW9OcFVKV001MUVjZWpmc085MXdaR0hhMGl3SHBac1hLdEREUHBQY1JLbHJJNVM3RDhtQV9jZkRKODBzQ1RUSW9wZnVWc1dIOV9oQklScmd0bGhrbzg4bzlwV0ZvWWpPR2dMakdTajhXM2FYQVlqWXRGQmJLUFpzcHFwOVplazIyQUV0RUpFaWpTYkQwMXJ1aUdjUQ?oc=5"
+    },
     {
      "titolo": "Ostia, incontro pubblico sulla proposta di legge contro l'antisemitismo: il dibattito su libertà di critica e sionismo",
      "fonte": "Ostiatv",
@@ -532,6 +514,12 @@
    "abbinate": [],
    "notizie": [
     {
+     "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
+     "fonte": "L'eco del sud",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5"
+    },
+    {
      "titolo": "Separazione delle carriere, Forza Italia rilancia la riforma dopo il No al referendum",
      "fonte": "Antimafia Duemila",
      "data": "2026-11-04",
@@ -544,12 +532,6 @@
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0JDYl9vNHBMbTdVaVBxcVJXaFJQRnVGanhpRlRKZkl4RE9CZGxZRXlkallXVDdWcVhlZlItaGxPeGtVYi1xZlVMNjd3aVMyN3Y5enZKeWJpQkQtb3hXYkczMnNqS3RsYlhldnFwb3lRbVphYXA5alBhR09vSUFQN3AzU3hPcjRobFhMQnVHTmtldWRtcFhud1lTOU1rbGcyNWctTDBZS1ZyVVQ2OExXbFg5cGJiVzNidTZlc01lc2ZTSHlOblB4LWZn?oc=5"
     },
     {
-     "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
-     "fonte": "L'eco del sud",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5"
-    },
-    {
      "titolo": "Giustizia, Forza Italia rilancia la separazione delle carriere: «Ripresenteremo la proposta di legge popolare",
      "fonte": "Il Dubbio",
      "data": "2026-10-31",
@@ -560,12 +542,6 @@
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-10-31",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTJ3R2cxWGZFeG9yZDhoM3gtdl9rdWNINkxDQ0ZwYjR3YkdTV3p2SG11cDVLQWx2N0J4TmdrU3RiUGN5dVV0NVZObkdyT2xSRjY0YldEOU1SOHlWZGNmSlVJaUJMaXZkWDZ0d2Z1V1lDd1NtVnBBdEdmSElQSnFaeG03aDRkWDhOSlppVm1IaC1UR3NVYmtxQnVwYlNNUlpIT0p6QmNRaFFqWXNUY25ySHVMb2phUFI0Rk1VZ0p0cVVlSjlKM19CQ3RIaGNWWlludjFHYk50OHlQS0dpTjhPYjlkUWtYQ1gxN0FKRGlrS2xCV1dleWttcE5UQnRCWkJ2WE81cG5uc1A3Uk0tLWc?oc=5"
-    },
-    {
-     "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «GIUSTIZIA, M5S: NORDIO SORPRESO DA GIP? E' IL RISULTATO CHE INVOCAVA CON SEPARAZIONE CARRIERE",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOG1IbV9PX2FIS21BNFpJTm1iNXdMTzBjQzdxR2dvcXB2Z3hCLU1QamNWYmFYQkNfNVE2elRyVlNyV3VvTjlDN1NLMnhYeTJhQV9scmx5ZVk2cWNrUGFMWDVfS2h4SUFzcnNkb3JmdlVCN2dCR1FTQXRDR3BfYXV2cGdJOERjYkxOS2NOams3R2FUejNxenFDZjhEYkp3LXB1NDBYbmNuNFhnZDBfaktSVEM2enRNMVRWTl93V2pIVEl0YTlmTmZyMG0wTDdSdlVINVpNb3dtTzEwREZacHVXSEhOYVRwNDNXNGtxaGlfYmpxYnVPUnA2Mk5fajBRWVNfSDhmZk41RGhqR3c?oc=5"
     }
    ],
    "semplice": "Cambia la Costituzione (articolo 87): separazione delle carriere giudicante e requirente della magistratura."
@@ -607,23 +583,23 @@
  "decreti": [
   {
    "id": "55661",
-   "numero": "C.3106",
-   "ramo": "Camera",
+   "numero": "S.2085",
+   "ramo": "Senato",
    "passaggio": 1,
-   "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+   "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
    "titolo_breve": null,
    "nome_breve": null,
    "oggetto": "Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
    "natura": "di conversione di decreto-legge",
    "conversione": true,
-   "stato_ufficiale": "all'esame assemblea",
-   "stato": "in discussione in Aula",
-   "data_stato": "2026-11-04",
-   "presentato": "2026-09-18",
-   "trasmesso": false,
+   "stato_ufficiale": "assegnato (no esame)",
+   "stato": "assegnata a una commissione, esame non ancora iniziato",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-11-05",
+   "trasmesso": true,
    "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro economia e finanze Giorgetti ed altri",
    "tipo_iniziativa": "governo",
-   "commissione": "6ª Commissione (Finanze)",
+   "commissione": "6ª Commissione (Finanze e tesoro)",
    "temi": [
     "Entrate tributarie",
     "Prezzi",
@@ -632,12 +608,18 @@
    "decreto_del": "2026-09-17",
    "scadenza": "2026-11-16",
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55661",
-   "prima": null,
+   "prima": {
+    "ramo": "Camera",
+    "numero": "C.3106",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-11-05"
+   },
    "proponenti_monitorati": [
     "giorgia-meloni",
     "giancarlo-giorgetti"
    ],
-   "giorni_rimasti": 11,
+   "giorni_rimasti": 10,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 17 settembre 2026, già in vigore: misure urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, e in materia fiscale."
@@ -653,9 +635,9 @@
    "oggetto": "Misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»",
    "natura": "di conversione di decreto-legge",
    "conversione": true,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-10-21",
+   "stato_ufficiale": "concluso l'esame",
+   "stato": "esame in commissione concluso",
+   "data_stato": "2026-11-04",
    "presentato": "2026-09-28",
    "trasmesso": false,
    "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro infrastrutture e mobilità sostenibili Salvini",
@@ -675,7 +657,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 28 settembre 2026, già in vigore: misure urgenti per la circolazione dei veicoli ad alimentazione diesel appartenenti alla categoria ambientale «EURO 5»."
@@ -693,7 +675,7 @@
    "conversione": true,
    "stato_ufficiale": "esame in comm.",
    "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
+   "data_stato": "2026-11-04",
    "presentato": "2026-09-29",
    "trasmesso": false,
    "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro giustizia Nordio ed altri",
@@ -711,7 +693,7 @@
     "giorgia-meloni",
     "carlo-nordio"
    ],
-   "giorni_rimasti": 23,
+   "giorni_rimasti": 22,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 29 settembre 2026, già in vigore: misure urgenti su giustizia, funzionalità del Ministero dell'interno e impianti di interesse strategico nazionale."
@@ -748,44 +730,44 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 24,
+   "giorni_rimasti": 23,
    "descrizione_governo": null,
    "notizie": [
     {
-     "titolo": "Conversione in legge del decreto scuola e interventi sui precari: occorrono misure concrete a tutela degli idonei 2020 e dei concorsi PNRR e risorse per abbattere i costi della formazione",
-     "fonte": "FLC CGIL",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORTF3S3dYTHhEMlJuUDkyaGZSbEZQdW41RnlmekxCcGRjMjdxQlhvZnlnSFpWbHRRZUZEcWNWd04wRHR5TzlpRS1WWkg0TkJ5cFVReGw2ZlNZeVZicXFwbzhSSlNUMFNoUTVLT3dSLWxHa09ZRmJvbS1sNU1XTk5CN1EyU3Nkb3FGWXhyLVZYaHhodHVhaUZ0YXdQLUFuYkhvREVIUVN4bG1jUi04ZGRISVVIVzV6aVNIU2JYUDhQaDRjRVVveElLd0pCcUluUkxGNkhwOHU5X1pLQU5UcFFIZFpRVi1uTE55M1kxVk4yZnZrSE9BSjl1bW1XSTZuS1JLTTFSYzJ3LUVUTmcteDdxMTFnSFY5Tm53TXRIN0pBSDhEMXdYWllFV0d6OUpsWnpuSGZoY2pKZ21iSXVfNHY4cGNIc0JaYnJyZXBZ?oc=5"
+     "titolo": "Il doppio canale di assunzioni di cui si discute nel Decreto Scuola 2026 riguarda solo prima fascia GPS, sia sostegno sia classe di concorso",
+     "fonte": "Orizzonte Scuola Notizie",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ1NWOGlMenJhcEpPb3Y0eUY5TGw4U0NMZFhEUmVwUWRVZ0g1MzhDSGRtTlota3hQTDBmUXN5RU42X3gwdE1WNFVnRFhvNnB2QjFWeXhTa3cyMzJnaXVYLXY0bU42U2JyNjN5bjRyTXJNTkswUDVrZXI3R29qM2FMVElPQXNLc3hTd1RJOTdsZmV3VmdtWDhEYllTeFh3OF9hUmh3RXltRjd1eHJCYXljWmREbzNzYVkyOV9hVUFEMWJBUjZnbEpFVXhKb2RSWnFkUW1BNUFGcU1pUjNOTTQwU0xDaXdmSGF5OGQwRmlCSVJreUpHbmVmaUlfbTEzUVFp?oc=5"
     },
     {
-     "titolo": "Scuola, Bruxelles “segue attentamente” decreto su tetto a studenti stranieri",
+     "titolo": "Decreto scuola dalla Ue “nessuna azione sull’Italia”",
+     "fonte": "L'Identità",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbUt2d1lITGVfTjV5UzBHTVRoUmVHVEx0VFZjazFObGhDX3RkUU82bW0xZl8xSENnVE8zcjd0WW1oNFF5X1poSTc5VkJYMkoyOEU0QzVGR1NNT1doUVZwVzJGZlNLSS1pTm1HVFl3ZGZVYTJYR05Lb2VQYnBtTWM?oc=5"
+    },
+    {
+     "titolo": "Ue ribadisce, 'monitoriamo decreto scuola ma è competenza nazionale'",
      "fonte": "ANSA",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzVkaEVCV2diVTdpYjhQcnJxdEIyNERvY2gwT2dxejJUV3ZpUS11WGdsRGhWa3QwT05ua1dWRHRmUG5vQ0VQQzJxN3VsMGF5U2cxR2dleFFMSEpRbkhfdGdGS1JKZjRVRjBUNGJSNVJFM2FIRkRuLWlwWUMwakcxVDFkZXdtWWltT0tpVUtMSVBncmpUamNaX3FRbTVZMUVzVFNPN1Y1a1VoUmV6c3NEelZsajE1bWdDUDFwSQ?oc=5"
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRzRQVGxrUXhlRU9ubzFvWUdxRFNBd2JQNHZSNHdxMGtwZlhqWV84MGRWbmJkQmZxZzRJUndzVldCdXMtTXZsTFI2T0R5ak50TUU0N2g4RHE4bGFmZGM4VXdUcF82TkhxMHowdk52emhFbFllbmY0dlVPSVRETHVzMHQ5V3hWZlRHcTYxWUhrQ0RzTS1qMGItQk1XTG04RUdzSkRyaDJqZHlxTVNEVTlLMTVERmRLTUdVVmJBNllSTThQRl9rcVI1MHoxeGFuVFVjX0VJb1Q3elMtVkctSkMxM3VNeWpELTg2b2hkX1Nka1lqSU1CMHJzdW1vTzBCY3dFLXfSAYcCQVVfeXFMTnZnS1NpLUN1dnpubHl0c1NKZHNIYjRLSVNSWkFGZldfaUlhQzZacVNGTjNfdHk1UjFtang3WVFCaU1sU0lnZWk0NlV0eVk4WXF6eVE3VVVXZ1RMOTlmOVRvZGZUaXNBTS15bU1ZaFAwS0d2MzM1NERPYmtQV3E5Y3g4RnRiYm1LSDZ5Ymh2TXNaSmo4V0k1N1VOYTMtUFU5WDI4V2F3R3hadE5mc2NrYTgyVXI0aU9LdkJjYVY2WjVmYzliX0xSTDN5UmM5UGVLNE1hOGF5enVVTUlwdTRySXpURDVwZUJZelpCYjNQQXJQTmEzOWFQb2RCaHZ2d0pJU1JYMGNOWDA?oc=5"
     },
     {
-     "titolo": "Decreto Scuola al Senato: la FLC CGIL incalza il Governo su precari e assunzioni",
-     "fonte": "Scuola Mag",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbG5sNDk2eGdlUFhDUHJlWjlXaXhtUFlYLVpIbUlzVDZGb0F3LW5uc0UtaE9lU0EzMWxscGdUMjVfVzlFbDFDS0JLZXBWYnBoSkM3ZUo3eUM5c3VFbFBmcEtwNlFOeEVkV1RVNEl5SjlYQm4zTW8yRFphYnJkTDhWVEpkSXMtcW9wMWt2R2NLNktHNXh2cEExZk45MGhBVnRBWFI1emN0NVd2Y1JwTWVMSGd4NDV6MDJDUHVn?oc=5"
+     "titolo": "Decreto scuola e tetto alunni stranieri, la Commissione Ue: “Non intrapresa alcuna azione nei confronti del governo italiano”",
+     "fonte": "Orizzonte Scuola Notizie",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZzQydllEOHNiZ2xmSGNLZllURXE3WEduY0RWb1dVNTVHQmt3V19YS2dmMi1jNTd2WmU2dGhCSnB0clN3N1pIZjBUSXlLVTJEYlQxaTI4Y3pWZURuaUZNMk5GOTN3WDhSb1ltNkJheHFhZFdZLWhNN0NKeXp0cXdRc0pwa3RJR3FOWWZtMEFRTHlEOXR2MHF5T2dwX2VTdHpETmZJSURKSGxxZ05pSThHbUdiS3JiN3FXWjFQbHJGOFRMcFo3cEN5bEYtQ0hCVVNLajBudVVsWnpzLUF2dnlHMEF0QVpSQjlw?oc=5"
     },
     {
-     "titolo": "Scuola, la Ue sul tetto agli stranieri: «I trattati vietano le discriminazioni». Valditara: «Andiamo avanti»",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX2NvQ1REX2hja3hUTldtNlBDSUxRMUJtYVBXNzBETzNGazJnYlBDLWJUYnJydzlzTHVjczNKT2QwTHpycHNPbVh5M19OTGI1MnZrWjJGNWRzV3MtVjBDY0lpeEptZjJ2SVhQdjkwTEFFNlpjWHFMdEJlUFlENUFZNnB4YjVqQXNTX3dSdFlRV3MtQ1pfTFR1UTNqYzkxSVVXWnhRbk92OTNZeF9sOEs1TFNWazVvRG9KTUppMmQ2MDN5Qzcx?oc=5"
-    },
-    {
-     "titolo": "ASACOM, stabilizzazione di 40mila assistenti per gli alunni con disabilità: emendamento al Decreto Scuola",
-     "fonte": "Scuolainforma",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWmJOby0wM00tZjBCOHBwbTFycWNUNUNTcUZhRndmRHV1RUg0MHZjX3l0eVUyNXZJR0tnaFlSMHQ1SU04cE5kUnExM040RFdOR2R6dGYyakxpYXRsZGRXVGtDaVREdVdaZjFUSG1zcWY5bnVCYXZtLWZXWmVyMHVXLUJqY2ctQUg3Zktubm5BUU45SGNKb1lJTlhLUWdVSTdFSjZXa0wzSlZWbWRFUjBNVko1eGp1X1RobGxhMDRIT2xQejBhVFp1YXYxcG1UVl8z?oc=5"
-    },
-    {
-     "titolo": "Il digitale tra scuola e famiglia: educare insieme alla consapevolezza",
+     "titolo": "Tetto agli alunni stranieri nel decreto scuola discriminatorio? L'Ue chiarisce: \"Nessuna azione intrapresa nei confronti dell'Italia\"",
      "fonte": "Tecnica della Scuola",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2RGSWkyODdjYk1SandoRXY2eGxIODJORF8wWmhfVUV4WVNPckRlb2JyRlhkOGNBcXJBd2VhVk9yN21rXzBORTkzWF9zSnBjV0RRUDdRTXp5ZGdSTkhHOXoxOFluYW9pOUxmT3g4RDNpSkF1Y0pndlhxS283SEp0VFdjWjNnOFRONzQwdVgwNXg0RU56VzY3VXFPYm1URndpeU1EN3p3?oc=5"
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbnBpWGVzUDVMOTBtdjRsMnhFT1M1eTJHNzFhNkFJWDNBN1F4WTFKLUNQOVJVekJrUU9OMF9PckFrVFY1QnAwTUhzdDF2OUdGNEFFTU1YLUkxckp5ZHM3cUdpNkxOb0s1d2VMSFp2NXhZSDVzLWRrczN5MWdNQjVKaHlDOVJMdFNaTnRKeVRWamxUcGdTWDVEUW5VM1pzLURDSEd0Q3BsTHhEQWhEWUNiRHpNbTkxRXZDZVR4TGpjRXhHRWFxbFUtUkhDaDJfLTlwV2s5U1ZsOHhXQUtFNlRBbEZpM05mTFVvLTBOLVJRYTFkMzA?oc=5"
+    },
+    {
+     "titolo": "Decreto scuola, Confintesa: \"14.808 tagli inaccettabili, ricorso al Tar e sciopero\"",
+     "fonte": "PalermoToday",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1J4b1otZmoybUJUN3hyTm9HdjZBU3NlY1ZCQ2g3NGR6TElQZDVENmhuRGVjaWphRGw1VE53c2tMNFVQVUtsX21uMFlna1VyanFkVk00TXJNZ3RlZlI4SjBBdUFtb2JJRDJfb2JGYzJkVTZQWVc4MkdKZENVenNJTWRQQnFaaXhzeE5ZTA?oc=5"
     }
    ],
    "semplice": "Rende definitivo il decreto del Governo del 30 settembre 2026, già in vigore: misure urgenti per garantire il regolare avvio dell'anno scolastico 2026/2027, per l'accompagnamento delle misure del Piano nazionale di ripresa e resilienza (PNRR) di competenza…"
@@ -803,7 +785,7 @@
    "conversione": true,
    "stato_ufficiale": "esame in comm.",
    "stato": "in esame in commissione",
-   "data_stato": "2026-10-27",
+   "data_stato": "2026-11-04",
    "presentato": "2026-10-08",
    "trasmesso": false,
    "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro transizione ecologica Pichetto Fratin",
@@ -821,7 +803,7 @@
     "giorgia-meloni",
     "gilberto-pichetto-fratin"
    ],
-   "giorni_rimasti": 32,
+   "giorni_rimasti": 31,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo dell'8 ottobre 2026, già in vigore: misure urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche."
@@ -857,9 +839,9 @@
     "giorgia-meloni",
     "adolfo-urso"
    ],
-   "giorni_rimasti": 40,
+   "giorni_rimasti": 39,
    "descrizione_governo": {
-    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#7",
+    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#9",
     "data": "2026-10-13",
     "titolo": "Misure urgenti a sostegno dei lavoratori dell’ex ILVA, dell’indotto e per il rilancio industriale del territorio",
     "tipo": "decreto-legge",
@@ -867,12 +849,6 @@
     "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836"
    },
    "notizie": [
-    {
-     "titolo": "Ex Ilva, indotto senza soldi e cassa. Cantoro (Cisl): «Sono 230 le aziende che rischiano di saltare, il Governo si muova»",
-     "fonte": "La Gazzetta del Mezzogiorno",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UdIBigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UQ?oc=5"
-    },
     {
      "titolo": "Ex Ilva, Piana al Senato: \"Garanzie per i lavoratori e un piano ordini per Cornigliano, Novi Ligure e Racconigi\"",
      "fonte": "La Voce di Genova",
@@ -884,12 +860,6 @@
      "fonte": "Corriere di Taranto",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
-     "fonte": "Buonasera24",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3Vsdkd3RFhDY016M2h6UTdGZlJTVUNoVXVoRl8xSWFSYlo3SE5VeVR3emllNVZPRzdoUHE4RVZPMEI0emJUamcxMlcyUmZwUG1QZUoyRkdZNk5XOEl4U2p2OWk5cVRxc1FtdlVHTUdkeW00Z1Q3STBsZXk4M3g3Uk5DVUJLcFdvVHBZdllKc0FXQnpXelZXcWMwVlFKQ0JCeVNJRU80VVZKMDJENHNmaGx2TThPTWFRUHJvLXJuaEJ0eWdEYlZXVWlod0ZhU2VoTF9kb0M2QzZKMXNlNUhhbG4wc3JFWDAzYzBPVg?oc=5"
     }
    ],
    "semplice": "Rende definitivo il decreto del Governo del 16 ottobre 2026, già in vigore: misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio."
@@ -925,9 +895,9 @@
     "giorgia-meloni",
     "matteo-piantedosi"
    ],
-   "giorni_rimasti": 46,
+   "giorni_rimasti": 45,
    "descrizione_governo": {
-    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#4",
+    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#6",
     "data": "2026-10-20",
     "titolo": "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
     "tipo": "decreto-legge",
@@ -970,9 +940,9 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 47,
+   "giorni_rimasti": 46,
    "descrizione_governo": {
-    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#3",
+    "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#5",
     "data": "2026-10-22",
     "titolo": "Disposizioni urgenti e misure di sostegno ai settori dell’autotrasporto, dell’agricoltura e della pesca",
     "tipo": "decreto-legge",
@@ -991,6 +961,53 @@
   }
  ],
  "approvate": [
+  {
+   "id": "55661",
+   "numero": "S.2085",
+   "ramo": "Senato",
+   "passaggio": 1,
+   "titolo": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+   "natura": "di conversione di decreto-legge",
+   "conversione": true,
+   "stato_ufficiale": "assegnato (no esame)",
+   "stato": "assegnata a una commissione, esame non ancora iniziato",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-11-05",
+   "trasmesso": true,
+   "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro economia e finanze Giorgetti ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "6ª Commissione (Finanze e tesoro)",
+   "temi": [
+    "Entrate tributarie",
+    "Prezzi",
+    "Prodotti petroliferi"
+   ],
+   "decreto_del": "2026-09-17",
+   "scadenza": "2026-11-16",
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55661",
+   "prima": {
+    "ramo": "Camera",
+    "numero": "C.3106",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-11-05"
+   },
+   "proponenti_monitorati": [
+    "giorgia-meloni",
+    "giancarlo-giorgetti"
+   ],
+   "approvata": {
+    "ramo": "Camera",
+    "data": "2026-11-05",
+    "definitiva": false,
+    "stato": "approvata, passa all'altra Camera"
+   },
+   "notizie": [],
+   "semplice": "Rende definitivo il decreto del Governo del 17 settembre 2026, già in vigore: misure urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, e in materia fiscale."
+  },
   {
    "id": "55642",
    "numero": "C.3148",
@@ -1189,6 +1206,18 @@
    },
    "notizie": [
     {
+     "titolo": "Legge sui caregiver: libera scelta e autodeterminazione sia per la persona con disabilità che per il familiare",
+     "fonte": "Superando",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1NNT0NYT2NNSnl2a3NfT2VGaHdKQXJ0RHN5Wk1idDVocWJoT1RKdXpscWQ3WmJWcGM3T0lMMUtjS0RZejRHZkxOQTVHaUtPRWRkNDViaGJaTmdoeExFc2x1aTBpdmUxU1k4RUpQbWRFNlhRUVBJanVIXzN0RXZhMjhzeHpfTVUtUTA0cktER2ZkVjhFeWhLUXc0NzZ4aklUcXBxNHNMY1lIXzVLa2dSUVdwWi10U2J0Mmw1Y09OcTlUS3c4eUxVajFuckU0TkVFM0dUU2xxS2xiQQ?oc=5"
+    },
+    {
+     "titolo": "Disabilità, il senatore Gianni Berrino: \"Il Ddl Guidi riconosce dignità e diritti nella Costituzione\"",
+     "fonte": "Sanremonews",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOY2NHTXQ4dHhscjlwQ2Y2TzZvQ0t5dENYbWFBa1ZsV2I3cWJydHh4NG1Hdl9BeDR4MzZaN1I1MHNMVGFNMjI1dzRIaWV5cEk1aHdWbEdyUTBYTEd2dlRORTByYVk5cVJXY3R1WWNlNTNTSzVyV1dIWkVOV19Rc0ZObzNfREwyZFBiT0tDOGZrQWFMNGswT1VsOU5FbkR0b1FUZE1VUHhHMC1VRi1PdDBxcUpUM2NPMEdYM2VlZ3gyNXB1T0k1VnM2REVjVklWTGxNa0ZzTjBlV2JUZWplY1hSOHBlR3hVUndIXzhXOFowdl84Y1VkT3g3UEx3a2VaZE9Gb09KOGRFUDcydHdMa0HSAYACQVVfeXFMTy1raW5kWm5FLVRKUmpaa1c5QUtUdFVtQUFBWWRuajFjU010cW13aS1Ib2NGbm81S3cyVTNRMWJsWlM0cmlNdGQ0OE96d1NMZUVmVkZhR1R3QTFWN1ZDdTJPUEd0VHpfbUV3dVMyWnZHeXdjTHY2S2Jmdk5HekdXQmtGOURIaHFDaV96bG95eW5yYTI2U2t5bHBvc041RE9jeXNxVWRfSUVpc1hJQjNOd1JuejVsbHZQbk95V3duTlQ5UUdOeDZCT09tY3lYc09HYy13Q0JpcFNIbVBKaHJ5ZXBja2hadnZ5VVhoTm9fVy1FZndlRC0yc094dEQ5REZKVw?oc=5"
+    },
+    {
      "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «DISABILITÀ, CATALDI (M5S): TOGLIAMO UNA PAROLA, SCRIVIAMO DIRITTI. ORA LA RIFORMA NON RIMANGA LETTERA MORTA",
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-11-04",
@@ -1258,22 +1287,22 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0lzc3NVUXdDOGpyc3JfNjZlT1Q2T3AxSGFodHlVenhNeEpRZjBQdldrekVVS183UmhXS1VnVzYyMVdld1gyaGZJb3NCeEFEUnhJMEJYaEIwcVFSeDJfQ2NfVWgxbUV4SkFiYk84TXNGc2lxTXNDWGNabmVCZm52WEkxWEw3aHAydFpz?oc=5"
     },
     {
-     "titolo": "Odontoiatria societaria. Andi: “Il Parlamento torni a mettere al centro pazienti e responsabilità professionale”",
-     "fonte": "Quotidiano Sanità",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFFqRlpuT2lDY0w0X0ROTFROaWVjYWdoQzZ2VmhBREoyN1JLOWNwUk5OR1REaERCTmQ3RTluTzFGTk1XTGQyYTZtV2dNLU15dUVIVGxJVnlzaldHVDRtTzA0dmJRT2xMYlo4LTRJQThKWk5fWGFqcnFQRVpVdGw4OFlVdGQxamF4YkI0VHlxbVVRWkJqSGRhNWJRdlVRNHdQSk5Tc1l6elFWQm84RUNGb05VNFNrOUEzZ3AxYm5zdW4yZmJfZ0RGeExxWXFMcW1PT1NqZjRnSFEwMjVMRDV4YTYtSUplVlJibWtB?oc=5"
-    },
-    {
      "titolo": "FarmacistaPiù 2026. Al via a Roma il XIII Congresso dei Farmacisti Italiani: \"Unità, responsabilità e governo dei territori\"",
      "fonte": "Il Farmacista Online",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUXVlYVMtU1V2cFJKM2xYdXhVN2xWSkRzczhrSmFtNFlIbXBkOGtHUDNNdmJZQ3FjWUV6c2QyN1gxMndIT2JuLXQ3OGpPNzJCRHpuU19UTE5fVTZfcGV1WUh5UjFvRkJtTlU4VkNJdEJvRVlybXVKSXBNTGw3dFBZS3F2QjY2Sk80STdvSmdtcw?oc=5"
     },
     {
-     "titolo": "Riforma responsabilità professioni sanitarie: quale futuro? - Napoli Village - Quotidiano di Informazioni",
-     "fonte": "Napoli Village",
+     "titolo": "Odontoiatria societaria. Andi: “Il Parlamento torni a mettere al centro pazienti e responsabilità professionale”",
+     "fonte": "Quotidiano Sanità",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFFqRlpuT2lDY0w0X0ROTFROaWVjYWdoQzZ2VmhBREoyN1JLOWNwUk5OR1REaERCTmQ3RTluTzFGTk1XTGQyYTZtV2dNLU15dUVIVGxJVnlzaldHVDRtTzA0dmJRT2xMYlo4LTRJQThKWk5fWGFqcnFQRVpVdGw4OFlVdGQxamF4YkI0VHlxbVVRWkJqSGRhNWJRdlVRNHdQSk5Tc1l6elFWQm84RUNGb05VNFNrOUEzZ3AxYm5zdW4yZmJfZ0RGeExxWXFMcW1PT1NqZjRnSFEwMjVMRDV4YTYtSUplVlJibWtB?oc=5"
+    },
+    {
+     "titolo": "Le novità legislative sulla riforma relativa alla responsabilità professioni sanitarie",
+     "fonte": "Metropolisweb",
      "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1BTWnhfbkxZN3NfWmtRRkh3cGhJcGJId3NaWUc0WnFoMUpyUE1sQ2MyakpuS1JTSXpRNzJWNzZHc2JQdjk1c2F5XzB0LW1zUzRQelpEazR6WjJ4SlZXZUtKT3VvbjFqYVpETHBJTjZ2SDNfWi1KRzctLW1PbVlhYUN5SHFBMldPcVJsazdkVGdMTVpETTJxT0JPN0t4M3lQbEhB0gGjAUFVX3lxTE43UFNaeF9uTFk3c19aa1FGSHdwaElwYkh3c1pZRzRacWgxSnJQTWxDYzJqSm5LUlNJelE3MlY3NkdzYlB2OTVzYXlfMHQtbXNTNFB6WkRrNHpaMnhKVldlS0pPdW9uMWphWkRMcElONnZIM19aLUpHNy0tbU9tWWFhQ3lIcUEyV09xUmxrN2RUZ0xNWkRNMnFPQk83S3gzeVBsSEE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMURtZUpvLWpEM04tNGJPSXNLRTZhNWxsenpnMVpiT1dNUGFDdm9wWXczUlJDcFQxRjl3Q0ZtMjNBeVYxZHFtZXBCbXBJOWZKUnRxajhkTWh4bnlPNjBzdS1RdDZpUGE0N2hJYWNGaHlfaFBMM3RTV2s0TEJpdlUteHlWWW1ZUjdmdjZLWWpTbjh4YmlqdGdLbEhfd3h4aVhkMmtBaHJvMXlBUkRLeEhoeU9yU2NoTFRuQmJOZUl6NzlneVQyNlE?oc=5"
     },
     {
      "titolo": "Responsabilità medica, la Camera approva la riforma. Mazzucchiello: \"Buone pratiche equiparate alle linee guida, una svolta per medici e pazienti\"",
@@ -1379,12 +1408,6 @@
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmEtaDZDVTZjMmFEcC1NRE1jeGt0czdOcWMzcm1Mb1NZNzdMYVA5dnYtVUptSFluME9XdC0waWc4Z1hTeV9VSEE5RTRZQkRhS3FOc3owc0t1Q2xNM2ZPQzVra2xZeWZpaWhkdkVVSE1wRWhzbWN4OTNYc1FxWFZRbW96TktUNG9YZ05VUEZKN0tuODhRVnYzTnR0NzM5Q0JTUnBnSkdYWnVwaUV5UDhmQkJrcXhpLWljWER6SjdqVkQ2UTBDcVZlaFI2VC13emhkTnh6X3pvUUE4TGxFU2NsQQ?oc=5"
-    },
-    {
-     "titolo": "Tutela vittime di reato, dopo il sì del Senato ultimo passaggio alla Camera",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2pLQnhLbThndFlvX2hPSVREUFdSTWVqY0E5Ul9mTEFja3FqQThVYS1abHV1RW82Tk9SMG1taDJ2dktkRDZfQmlKLTk2Unlrb044azNtN0hUeS10dnA5TmFpSjM1VmtWRVZqZUhnbW5hM3Vab2RrNk1HUEtOSElOeUUwTlJ6cmw5dkpEZUJjVEhRZzhSNlFxdDAwN2J6UWJ3UjdSY1pUclNJZlFx?oc=5"
     }
    ],
    "semplice": "Cambia la Costituzione (articolo 24): tutela delle vittime di reato."
@@ -1426,22 +1449,16 @@
    },
    "notizie": [
     {
-     "titolo": "È legge il Ddl sulla pubblicità delle sentenze di assoluzione che introduce il nuovo art. 144-ter del Codice della Privacy",
-     "fonte": "Federprivacy",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVkhZd3hVNGVzb082LVl2a2pHYkJXMXk2VDUtMTFnT1ZoR0tHX1BvdkJkTmNVNHFLNGg0cVI1TUsxQ29UdVoyWVdmdV9STFhCVHIycUpFSHVkb3ZROUljNWNXYmdVRU54ckhweGhFaVI0OURXSU5Td01VdGIzcVU4N2pWM0F1TmFjUGFGdVp2U08zemE1WkZNbExmLTQxZzZqelRCUVdoNFlXTGotM3dySUVieVVHdlpIUmdrQzVRcVc4T3N1cEEtakJsNmdFZ1JNNUM5UGNQZ1NnU1R4UlFNYXFiNkVJdVFIZEpYamRqWHJiVC1FNE0tT1RkUUJDbFZoaXYwaWdXLWd3Zw?oc=5"
-    },
-    {
      "titolo": "La legge Costa sulla pubblicità delle sentenze di assoluzione: intervista a Enrico Costa (2.11.2026)",
      "fonte": "Radio Radicale",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHduNEJUclVtajhpMklhdnZJdjM1N2oyaVhaY1JjU3ZmbnhMQ0w3Z1BIT1JwbVVKNENaX1I3LTlJOGlSU3JTZmo0VXNmZDBSYjVRVlRJQzRHX1FGUFpRVmR0OGw1OVM0NmlXMHdOUlVsSkpFLVJ3Q0V3X2RVdE1oaDJhbFlxME5EVHNwTnFlOUZDaGNVY3BBSV9TTTdZelVHRlhFdW5wMHdVUnBMc1R0dTM2LTI5RXlWUnI3QThyRWJqQQ?oc=5"
     },
     {
-     "titolo": "Pubblicità delle sentenze di assoluzione o proscioglimento: il Senato ha approvato, in via definitiva, il disegno di legge",
-     "fonte": "Giurisprudenza penale",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXBPUDB3ZW4wTVJaUnJqMWkyUWRkVUQ5OS1PbUtncEx2cTJoZWhBV19tQmNuLTFjcVpPVHBKdXZjMXlxb296WlRQSlcxY1M2WVV1dGpTbVFNTk1OUVBqcjZJX3pIVHZrSXZHMmNpdEtBOTZaYmJDNEpXRWFpWlZ4dGpNbTRJQnhMbVBRVjVzLXZpSWRwWEVQandsT3MxNDFqdnpuXzhhckdtX1lWZUNZMkpTNERMWHN2RkFFbWFkNGZGQnRzQk44LWtoRTR1WGxvdFlUWXc4bkRTeXVjRWh0Tkl3bWk?oc=5"
+     "titolo": "È legge il Ddl sulla pubblicità delle sentenze di assoluzione che introduce il nuovo art. 144-ter del Codice della Privacy",
+     "fonte": "Federprivacy",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVkhZd3hVNGVzb082LVl2a2pHYkJXMXk2VDUtMTFnT1ZoR0tHX1BvdkJkTmNVNHFLNGg0cVI1TUsxQ29UdVoyWVdmdV9STFhCVHIycUpFSHVkb3ZROUljNWNXYmdVRU54ckhweGhFaVI0OURXSU5Td01VdGIzcVU4N2pWM0F1TmFjUGFGdVp2U08zemE1WkZNbExmLTQxZzZqelRCUVdoNFlXTGotM3dySUVieVVHdlpIUmdrQzVRcVc4T3N1cEEtakJsNmdFZ1JNNUM5UGNQZ1NnU1R4UlFNYXFiNkVJdVFIZEpYamRqWHJiVC1FNE0tT1RkUUJDbFZoaXYwaWdXLWd3Zw?oc=5"
     }
    ],
    "semplice": "Cambia il codice della privacy su pubblicità delle sentenze di assoluzione o proscioglimento."
@@ -1504,68 +1521,359 @@
      "fonte": "deQuo",
      "data": "2026-10-30",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QVkdySnV1Z2UyT083dVNUcE0xN1E0STJhTHk4YVpCaDJGTkhRQWt0SFBsell3bmhKaWk0ZERTdkpJcUNYcnB5LUdmZklHcXowWXFUcXJjZ05IZ0JiU1JMQg?oc=5"
-    },
-    {
-     "titolo": "Approvato il DDL Giovani, la Cnesc chiede ascolto degli enti di servizio civile e dei giovani",
-     "fonte": "Forum Nazionale del Terzo Settore",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnAwMmg3bFNza1FMejVyblFLX0pkYnhLdkhySXNLQkFzZjNNOTBSYXU5aFI1a3hmSkJBSEFKOEhSZHVoS0hsQmUwWUpuZklsVHhMWTYtYl8wSEJUckMxbm1YRHdoM2NzaGZHVVBwUlltNWgwVV92bHVRTTVtcnBCZXVmTC1JaGVTa3J3WVRLT0ZGVW9aTXV5MVBKM3d1blRNY2ZCTlBpZGdHeThSYk03WUdzLWtSZEpiZWZrVndTWFZfaXJBaGdHZHA1OGRLRWdXd3Nz?oc=5"
-    },
-    {
-     "titolo": "Servizio civile, la riforma c’è ma il cambiamento è ancora atteso",
-     "fonte": "Vita.it",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb01aWmxrbU5xVl9Jb0hUaG9rRUVLc3l1NmprSXh0X29qc2xoWlViYWY5M3c1ZEVlTnF5Qkh1SkVDR1puVkNGRXc4WnNmaFptVXpVX1pmOGZ4WTdXdkd1RTFHbHFNYnFRNkJod1c1VWExcWpEWVpBeGs1bUJvVFBXS0xZNG1FTmg2TjJseg?oc=5"
     }
    ],
    "semplice": "Nuove regole su giovani e servizio civile universale e deleghe al Governo per il riordino della materia."
-  },
-  {
-   "id": "55347",
-   "numero": "S.2071",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Modifica all'articolo 76 del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, in materia di patrocinio a spese dello Stato in favore delle persone offese da reati commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro, da cui consegua totale inabilità o decesso",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-10-29",
-   "presentato": "2026-10-23",
-   "trasmesso": true,
-   "iniziativa": "Dep. Gribaudo Chiara ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "2ª Commissione (Giustizia)",
-   "temi": [
-    "Caduti e feriti per servizio",
-    "Gratuito patrocinio",
-    "Infortuni sul lavoro"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55347",
-   "prima": {
-    "ramo": "Camera",
-    "numero": "C.2904",
-    "stato_ufficiale": "approvato",
-    "stato": "approvata, passa all'altra Camera",
-    "data_stato": "2026-10-22"
-   },
-   "proponenti_monitorati": [],
-   "approvata": {
-    "ramo": "Camera",
-    "data": "2026-10-22",
-    "definitiva": false,
-    "stato": "approvata, passa all'altra Camera"
-   },
-   "notizie": [],
-   "semplice": "Cambia una legge già in vigore su patrocinio a spese dello Stato (l'avvocato pagato dallo Stato) a favore delle vittime di reati commessi con violazione delle norme per la prevenzione degli infortuni sul…"
   }
  ],
  "commissione": [
+  {
+   "id": "55375",
+   "numero": "S.1896",
+   "ramo": "Senato",
+   "passaggio": 1,
+   "titolo": "Disposizioni in materia di rilascio di immobili",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Disposizioni in materia di rilascio di immobili",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-05-12",
+   "trasmesso": false,
+   "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro giustizia Nordio",
+   "tipo_iniziativa": "governo",
+   "commissione": "2ª Commissione (Giustizia)",
+   "temi": [
+    "Codice e codificazioni",
+    "Rilascio di immobili"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55375",
+   "prima": null,
+   "proponenti_monitorati": [
+    "carlo-nordio",
+    "giorgia-meloni"
+   ],
+   "abbinate": [
+    {
+     "id": "55682",
+     "numero": "S.2052",
+     "titolo": "Istituzione della Card del caregiver e disposizioni in materia di contribuzione figurativa per i caregiver familiari conviventi",
+     "iniziativa": "Sen. Versace Giusy",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55682"
+    }
+   ],
+   "notizie": [],
+   "semplice": "Nuove regole su rilascio di immobili."
+  },
+  {
+   "id": "55153",
+   "numero": "S.2063",
+   "ramo": "Senato",
+   "passaggio": 1,
+   "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+   "titolo_breve": "Caregiver",
+   "nome_breve": null,
+   "oggetto": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-10-16",
+   "trasmesso": true,
+   "iniziativa": "Gov. Meloni-I: Ministro disabilità Locatelli ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "10ª Commissione (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
+   "temi": [
+    "Organizzazione e responsabilità familiari"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55153",
+   "prima": {
+    "ramo": "Camera",
+    "numero": "C.2789",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-10-14"
+   },
+   "proponenti_monitorati": [],
+   "abbinate": [
+    {
+     "id": "53073",
+     "numero": "S.874",
+     "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
+     "iniziativa": "Sen. Amidei Bartolomeo",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53073"
+    }
+   ],
+   "notizie": [],
+   "semplice": "Riconosce per legge e tutela le persone che assistono e si prendono cura dei propri cari."
+  },
+  {
+   "id": "54910",
+   "numero": "S.2045",
+   "ramo": "Senato",
+   "passaggio": 1,
+   "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+   "titolo_breve": "Riforma dell'ordinamento della professione di dottore commercialista ed esperto contabile",
+   "nome_breve": null,
+   "oggetto": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "in relazione",
+   "stato": "la commissione ha concluso: pronta per l'Aula",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-09-24",
+   "trasmesso": true,
+   "iniziativa": "Gov. Meloni-I: Ministro giustizia Nordio ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "2ª Commissione (Giustizia)",
+   "temi": [
+    "Dottori commercialisti",
+    "Ragionieri"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54910",
+   "prima": {
+    "ramo": "Camera",
+    "numero": "C.2628",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-09-23"
+   },
+   "proponenti_monitorati": [
+    "carlo-nordio"
+   ],
+   "abbinate": [],
+   "notizie": [
+    {
+     "titolo": "STP tra commercialisti e DdL 2628: la posizione del socio investitore - EC News - Area fiscale",
+     "fonte": "EC News",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVRGRUVHdXZWWlVGOXkyYWpQT2xuRThxcnpKN05nOWtXbzlQTGYzeFFoWnlhb0JrcmtVc0RlRndqZzJ0Wkh1TVVodXBsXzd1SFhDM3BmaFh1bE04WE5xYjJpSktKa3dQRTB5WkZrdDM0ZGFJU3ZyWGFReU5ZMGpLa3BDRkhBR29RX21hVVU1dS1yNVgyQjhrY0tseHFjZ1Z6ZmlpSlVjVHh5aXl0SXVLalEyNjAyV2xWWXJCa3ZVd0RxMExJQ3JVYVNnQkVVU2lIbTFfUlVfQWpyeU0?oc=5"
+    },
+    {
+     "titolo": "Cassa Dottori Commercialisti, il progetto 'La Cassa torna in aula' coinvolge studenti in tutta Italia",
+     "fonte": "Affaritaliani",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTg1MnhsLUZzd0pLeHZTUTJfYV9rTVhzdm85MHE1NFphamNpRWlTUUZCQjR6ZnQ5dmZzSk1wVzU1RXNEWDdraW5vM0xUb1VsVlRsc3N3a1U4S1Y3VVhQWGU2YnJ3V3Q3cjRxTVFTYjJzOHpqYjJuWl9wcEtyQnRqaUowN0hMRHl6T204Z193eUpheUd0T294d1Q5Qy16LTdUenRmbEc0NkJ6eWRSZFktVkFzWTFHYU1MM2wwU09seThodWNobkJUbmpqTGV5blRsYlR4ZlI0VzI2OGNPTmRRekhqOG1KVV8zdTZlN0pn?oc=5"
+    },
+    {
+     "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «PROFESSIONI, ALMICI (FDI): «RIFORMA COMMERCIALISTI, AL SENATO PASSO AVANTI DECISIVO PER VALORIZZARE LE COMPETENZE SUL LAVORO",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-10-30",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWTFFNWc0Q2l6RFAxVU1DWExmdEM0Z0VwZWtNNkhEenY2WWJvN2RQeVJMa2hFZlhMamxVQTd5Zkd1UW9rRDVkYmlGRWMxcjNXSFZvRFVyMXluNjVSdnp5SjdUb09wVmo0dXJwUWJLZWhlbHJ0Q1NmeVU2UDZMZVF1VHdMMUxRbHdJTUxxdHlzZ0N6OWJEQUQ0M3VnazhmVlEtQnZJYmt4ZWctcTBOeFY2NjZCZmctOTlnb0FQdjRrenhCdHVuYzNVNkRNY2lSNDQybGtWWWdMYkItLV9IbnhDWjZlYlFqS0oyb0tIR0s4Z0k5YmZETnVkbGVyVU5fM1pXZ2F6bzlWY0txRUVLNFJVYTBaZ252cUx0S0tSaGlfa2NjLUlQanVoY3BR?oc=5"
+    }
+   ],
+   "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile."
+  },
+  {
+   "id": "55398",
+   "numero": "S.1909",
+   "ramo": "Senato",
+   "passaggio": 1,
+   "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+   "titolo_breve": "Caregiver",
+   "nome_breve": null,
+   "oggetto": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-05",
+   "presentato": "2026-05-19",
+   "trasmesso": false,
+   "iniziativa": "Sen. Gelmini Mariastella",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "10ª Commissione (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
+   "temi": [
+    "Concorsi pubblici",
+    "Organizzazione e responsabilità familiari",
+    "Riserva di posti"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55398",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [
+    {
+     "titolo": "Agenzia nr. 1946 - Riforma della disabilità e inclusione lavorativa: il garante Giampietro all’incontro promosso da ARPAL Puglia",
+     "fonte": "Easy News Press Agency",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZUxaWTJ2UE5vUmNUODNPZVhFRVFod1h6em9hNkJqMkUycTZMc1NCS0JFTjNrNTBRZzZPNjZEWmYtbHZsakNMMU9BXzJnX0lUaEl1ZzF1c3A4eDVfNGZzRm4yR0lkeDlJdDRYaWVEOUFjYlpnSUF6YUVTV1pTajBLbFFSR2NXZ1ZGRmNlRlZPSm4wX3JTQy0tdktjMzVqX0JLVUFGRUljbGE4ZEtZYjB4MzBNZTdDZDl2RFJZcG9rZHd4Z2Z5MU16T19US2o2TzdFN3BBR3dNbW5KdFRCc21qY1g5cjVGa2M?oc=5"
+    }
+   ],
+   "semplice": "Nuove regole per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici."
+  },
+  {
+   "id": "55740",
+   "numero": "C.3164",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2026-10-22",
+   "trasmesso": false,
+   "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "1ª Commissione (Affari costituzionali)",
+   "temi": [
+    "Autonomia amministrativa patrimoniale e contabile",
+    "Regione veneto",
+    "Regioni"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55740",
+   "prima": null,
+   "proponenti_monitorati": [
+    "roberto-calderoli"
+   ],
+   "abbinate": [
+    {
+     "id": "55739",
+     "numero": "C.3163",
+     "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+     "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55739"
+    },
+    {
+     "id": "55738",
+     "numero": "C.3162",
+     "titolo": "Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+     "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55738"
+    },
+    {
+     "id": "55737",
+     "numero": "C.3161",
+     "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
+     "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55737"
+    }
+   ],
+   "notizie": [
+    {
+     "titolo": "Autonomia e intese delle Regioni del Nord. I dubbi dell’Ufficio studi del Parlamento e l'effetto domino sulla Calabria",
+     "fonte": "Corriere della Calabria",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHVCOXBWbFNsYko1ajhHSGx0Um1vYkxMZjB0UmNqUHRYV1NRQk5salhOX1ZrcTJwSDBobnNHY3BYakwxcWo5V2lKVW1obWdSSzI2Q2RXSXYxNXY2eWItZnNOSjRmck8zVWN1SF9zRUNUcWlad1pLdDl4TERaQmdxLU41eDYtZ05qMTR5TS1BeXBTVGxrQXozVFNvSTA5eWo3aUZQMl9WV3djY3lGMUtFSFFmMVpjRGN1QVFRMS1Id2lqN0xEYW9xWjByQ2c3YnVSbHVkb1o3MHZQUDQ1MktWU3lRMlNWTjZyOE9sd1Jva3ZsWVlvSzNV?oc=5"
+    },
+    {
+     "titolo": "Autonomia, via libera dal Parlamento per lo schema di intesa con il Veneto",
+     "fonte": "www.lavitadelpopolo.it",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3A4Wlg5bTc2cFE1SnpsTklUc09lSDhXczVGbXExRTZ1ZkloSFEtMkVfb0pMT0VPV3BQOUxKQWE3RjRpSklxM2ZRVllONVY5Y3Z6LTRKQXNPZkVOcklENnl1NEN1UWFrdGtxMGxNajFPUWVUZGE3S3M4UTROem00S1A1aVZiay16X0FtNWJOVm1Bc2dFS1czX3ZaTi1YVGVtTU5wNTlDc3psSDRsd1V1QnVwa09iMFpQR1luQmYzZUFjQUFyZ01yUm1HelM?oc=5"
+    },
+    {
+     "titolo": "Legge sul fine vita in Veneto impugnata dal governo Magi +Europa | Esecutivo talebano anche con i suoi stessi governatori altro che autonomia",
+     "fonte": "Zazoom Social News",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU0VnZlNpWlU3ZW4xemVsdUhpcVktbFpGV1NmTEEyaUlHTllacGxrZEIyUmw5eF9mWEpqc3JiMHQ0NUtxLXRteU85NDVBZVRJOHJoS2F3RURHX0tFSExoc2hOdUI3MmwxY2M1dlAtc3hwZDdPelAxVWNGcVIzWG9vVkpBMENBaWxDeURzbDFHaEVaZ2xoMmpoTDFyVElabzJlOHlJRnY3V2p5MWlRbVJwT0RDUUx5dXJncnFrOTBnenh6UHpPeWpQUkJ3Zm1KMkJOOFlxdUVycEM3aWQ4RFNuX1pNdWRnQ2xiLVlXdV96dXJ5UWVpdjRjSDltX2tGMVZhNTFqQkZJSFR5cEJiMmc?oc=5"
+    },
+    {
+     "titolo": "Autonomia differenziata accelera: la Camera stabilisce il 20 gennaio per Veneto, Lombardia, Liguria e Piemonte",
+     "fonte": "La Piazza Web",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
+    },
+    {
+     "titolo": "Autonomia, la Camera fissa le date: Veneto il 20 gennaio",
+     "fonte": "Daily Verona Network",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2I1YWNweUZMenlZTnExbnl3VHFSODk3ZlBIQWlMa3JraGNDUG4zcDhkSkdFTWRjbktvM2VmdElmMC12d21XV0tsckpwd2JDVW9HOWEwUVFydWNScmpGdGMxMjJCNzNMTVVlVWtFUFJaNkZGR2EwZ1ZIU09Rcm1HbmIzVnZvNHZSaGRfSHNYbHFNT0piZ0VBUFJIZw?oc=5"
+    },
+    {
+     "titolo": "Autonomia del Veneto, nuovo via libera alla Camera: fissata la scadenza del 20 gennaio 2027",
+     "fonte": "Il Gazzettino",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTF9PTUlSRzN3RjdUTTdLUjdFdWhiTk93NGtKcWVkaEhtaFNabGwzR0lCSTV6V3NfOEJKVmFlOGpmUFpQZUFOWDBfSzBkalVvOHVfOHUzb3JMUjhVTklwQ3hiUXM1eUl4ZF83aFg5QTdPalB1cVg1d3Y3Nnl3UTFyRFozVU1aRld0Nkc3T2JrZklhS2hCTUpXTGpla3BZaVpwTFRaM3hpclYzR1NpNEZCdFlDQzcwTnpIRHNTNktkRWR5cGRvTXNUMjdwY9IBxgFBVV95cUxPM1ZlSkRzZDVva3lzN1pLRWRhRURmTmVLZ0h2dWJ5UjNHR0dSTFhmNnFoaDUzYnh6aDJhUG51NGRTMFB3b1JpMWh2TG1UM3Uzc0NwQk9HWlJBc2JKNndrMkh0YUtmRGVjY2QtWFYwLUFaWXQ4MUZPRm1CN2NpQVc1eExDOFEyLUtLdVpSdzN5WGlBQUFtRjN2b043VzRrcjNVN01mMHptSGU4YTVYdEtaWkZjNWFsT3J0VEpwRW9YMHdveG80LVE?oc=5"
+    }
+   ],
+   "semplice": "Dà alla Regione Veneto più competenze (autonomia differenziata)."
+  },
+  {
+   "id": "55685",
+   "numero": "C.3120",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Legge annuale per il mercato e la concorrenza 2026",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Legge annuale per il mercato e la concorrenza 2026",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2026-09-28",
+   "trasmesso": false,
+   "iniziativa": "Gov. Meloni-I: Ministro sviluppo economico Urso ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "10ª Commissione (Attività produttive, commercio e turismo)",
+   "temi": [
+    "Concorrenza",
+    "Mercato",
+    "Tutela dei consumatori e degli utenti"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55685",
+   "prima": null,
+   "proponenti_monitorati": [
+    "adolfo-urso"
+   ],
+   "abbinate": [],
+   "notizie": [
+    {
+     "titolo": "Ddl concorrenza 2026: ok Aula Camera a conclusione esame entro 11 dicembre",
+     "fonte": "Il Sole 24 ORE",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTVE3SEdBZ0NOejVMTDlaMFlJWll3RHFlajBuY0RNSWlsV2VCZENXYXotYTJJZXVFdjZ3MzNVODl6eWo2VUhlMVh4a2J0YXN6OWVXcTg2U3hta3ZwTmlXSGJCbVRtaV9udDJ1TA?oc=5"
+    },
+    {
+     "titolo": "Ddl Concorrenza, ok della Camera entro l’11 dicembre",
+     "fonte": "Staffetta Quotidiana",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzd3E3T0daSHhpVDkySDZUWXVsUmZ5YUEyMUtqVk9MWmN2d0FJYUtxSkgxcXRaNldWMVN5VVMyNlpHS1VVUWt0YU1aZ2tIdEFJcmZzVmI0eXNrSUo4ZjVJVDJfWnRPQQ?oc=5"
+    },
+    {
+     "titolo": "Ddl Concorrenza 2026, come può cambiare la rete dei carburanti",
+     "fonte": "BusinessWeekly",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRW1wM2lWM2N3Y0VSM0NRYnRTLWdfRHNxS2dUTE1lNEhrRUYwUjFxck94Zm40V0p1S3VEZ0dnTlRLYUhveFduZU5LTVFHbDRyTlQ3eE04bzVqcXpqNjlRbzNLMzRUX1BXeFYwZmJwSGY2SXdldDY5S1hUZmZqSHRHRmllQld6anpRY2MyMlhSQ3czUdIBlwFBVV95cUxPQTg2dUgtZ0c3VV9xekpkaWRqQ2VkdldOdzhFRHp6TkJiWk1LdmZQRUFTeHQ2bVR0dG1VWFE3M3I4dk9CZ3d5TlZ1M24yV3ZISU9JaGJkSG5rc29TcVdoNGxCNzZSdGZTSDN6Nk9uQ18zcjlxS1o2V0pTaUJYMHJ2ZVRndWo5OTlYNkx1NDFDRDNjY3p0c0Vr?oc=5"
+    },
+    {
+     "titolo": "Audizioni su legge annuale mercato e concorrenza – Martedì e mercoledì diretta webtv",
+     "fonte": "Stampa Parlamento",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjAyVHEwMjJNMk54SVl1Wk1EQ1l3bFM5QUZaMWFUNVVHbVN0bG82ZWluLUpQV21NZVA1NGJ3THFQYUYxUXQ5emgxbElwMURNTnlZM3E1UUdJamZMNXltdW5sNi14SHZkNjk3VHlrUVdvWGQ4LVQ4T0xLLVNzZ2tZMTNFb05VVW1DUDhpU1BlREtRenpFY1dMeENpYy1CSnNZeWlXX29mbXVOdUJ0eFg3NnMxSG1XN01DOWluczZLWlBKaktr?oc=5"
+    },
+    {
+     "titolo": "CAMERA DEI DEPUTATI: «AUDIZIONI SULLA LEGGE ANNUALE PER IL MERCATO E LA CONCORRENZA, LE SESSIONI SI TENGONO IL 3 E IL 4 NOVEMBRE IN DIRETTA WEBTV.",
+     "fonte": "agenzia giornalistica opinione",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPa0x2QmItaFd6WFM2Vk9qOW1vdFNzcUY1WnBOOXIxWi1QZDhXWlVQYmJKUWpVUmNTZV9SSzY4cmxHNnlxRTRaQnl5MmFKdkVMXzdTTXFkM3lfZjBNSElndzlLSmVMbm9VTmpkSmktTkJNb2hoOWhFU1lUaEFsZzMxUHZadVMtRzh5SkZJX3RaNmlkYk9xOHh5aWN6WDNFek5MOUVEZlB6cmtJdC1RZTAwQTdsNlRhTWpKN3d4VUhHeEluMUdpS0RSV2p4N1ZrSFdNVm9jQ2s0c2JnLWFfU0d3bFlPbUVKZ29UT090M2E4Sl9ROFhFTHZqVzdzZFBMVG8tMEQwdDJReS1qbGZnLU81UngyZDFDbzBTWmxNMjRZSXA4bDho?oc=5"
+    }
+   ],
+   "semplice": "La legge annuale sulla concorrenza 2026: ogni anno aggiorna le regole per la concorrenza tra imprese."
+  },
   {
    "id": "55628",
    "numero": "S.2025",
@@ -1627,19 +1935,10 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55569",
    "prima": null,
    "proponenti_monitorati": [
-    "carlo-nordio",
     "giorgia-meloni",
     "matteo-piantedosi"
    ],
-   "abbinate": [
-    {
-     "id": "55375",
-     "numero": "S.1896",
-     "titolo": "Disposizioni in materia di rilascio di immobili",
-     "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro giustizia Nordio",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55375"
-    }
-   ],
+   "abbinate": [],
    "notizie": [
     {
      "titolo": "Dl sicurezza, superare la repressione per affrontare il disagio giovanile",
@@ -1649,9 +1948,9 @@
     },
     {
      "titolo": "Stati generali dell'educazione e della prevenzione, alla Camera incontro per dare risposta comune al disagio giovanile",
-     "fonte": "La Gazzetta del Mezzogiorno",
+     "fonte": "Adnkronos",
      "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbE10MmgtUTRMbU5tc1BlUko5WXdXSGdMRFA0cFRjdnFDX3E3Yjk0OEtWNjJxUzR4Ynk5RjJKMjJpcDJQd2FoNmNEQXhkcjBqeWI4LXhhdHZId1B6XzNSY050WWZOMmk2UFJ1bWhvelhmV3c4a2p6NE9VWm0zcE56c000VzZKSXlLaWliWGVkdU90Sm1Ga0ZMYnlOYU5qMHRnM0pHZzdudFFmeEw2VnNBV2Q0UjRCOGRXeHJrYlNxQklLTHdVWm9oOG4yOENvNGFfV0xoZU1yUjFoT0poYTRfRnpjS04zbExPWGIzaGtBb2dLWXBpVVdJa3E3NnNnOFI2UWlQOE84cnhtZ0p4Qlk5RWlxVdIBkwJBVV95cUxNbE10MmgtUTRMbU5tc1BlUko5WXdXSGdMRFA0cFRjdnFDX3E3Yjk0OEtWNjJxUzR4Ynk5RjJKMjJpcDJQd2FoNmNEQXhkcjBqeWI4LXhhdHZId1B6XzNSY050WWZOMmk2UFJ1bWhvelhmV3c4a2p6NE9VWm0zcE56c000VzZKSXlLaWliWGVkdU90Sm1Ga0ZMYnlOYU5qMHRnM0pHZzdudFFmeEw2VnNBV2Q0UjRCOGRXeHJrYlNxQklLTHdVWm9oOG4yOENvNGFfV0xoZU1yUjFoT0poYTRfRnpjS04zbExPWGIzaGtBb2dLWXBpVVdJa3E3NnNnOFI2UWlQOE84cnhtZ0p4Qlk5RWlxVQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVGZzRWZMb2ZsNWE3XzIzZnloVjlCYXpDQXZSdWNjd1pLSUNsOUFWMzAtbldrckJTVUVUNE14NjJ2LUhGNnd0SWEtTjc0RnBHMF9rWHN2VnJxc0E5UllyVFVsX1ZqQ08tOWtWZGpvYnlMWlAtS2dVcmVTZXc3UHVRbUZzRS1ZQlcyRUNHX2l2TWM0SHdUZVhtaGhmbU12UkNFWmxPZTlaeFFPQ21Zb0lDVUVjS3ZXbGpidWw2SkdQeUE2c05wWHZOekFuUGI1M0x5N0Q4RnNNWTVCR18yQVRyX2VjMGJ2azlwXy1icnNEYlh5M1hTUzZJakVSR3JOVndHOVg4?oc=5"
     }
    ],
    "semplice": "Nuove regole su sicurezza e per la prevenzione del disagio giovanile, e ordinamento, organizzazione e funzionamento delle Forze di polizia e del Ministero dell'interno."
@@ -1701,15 +2000,48 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51024"
     }
    ],
-   "notizie": [
-    {
-     "titolo": "Isole Minori, Codacons: le prime 5 proposte al Governo",
-     "fonte": "Pantelleria Notizie - Punto a Capo Online",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUZRZUUyQTluT3AtUjFCZTI4NElDM1dfN25JU1U5V0ExQV9kd3h1WkZjX3hnVWpzYTZ5aUt4eW5qc29hblBUQUtFRFYtWlFYdV9QeXUzaW5VZy1kNTh4QlQzS2lQanltYTdjN0hRQXdNZWdFaHU1WXdWWWhJdmJSaXd4M1hRUUtDVWVqS2htQlNNQTE0NUFQYTB3cXQ5TmM?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Nuove regole per la valorizzazione delle isole minori marine, lagunari e lacustri."
+  },
+  {
+   "id": "55147",
+   "numero": "C.3135",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2026-10-08",
+   "trasmesso": true,
+   "iniziativa": "Gov. Meloni-I: Ministro salute Schillaci, Ministro riforme istituzionali Alberti Casellati ed altri",
+   "tipo_iniziativa": "governo",
+   "commissione": "12ª Commissione (Affari sociali)",
+   "temi": [
+    "Assistenza sanitaria",
+    "Farmacie",
+    "Medicinali",
+    "Spesa sanitaria"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55147",
+   "prima": {
+    "ramo": "Senato",
+    "numero": "S.1786",
+    "stato_ufficiale": "approvato",
+    "stato": "approvata, passa all'altra Camera",
+    "data_stato": "2026-10-07"
+   },
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [],
+   "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul…"
   },
   {
    "id": "54997",
@@ -1788,6 +2120,12 @@
    ],
    "notizie": [
     {
+     "titolo": "A che punto è la proposta di legge su Roma Capitale",
+     "fonte": "PublicPolicy",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGJBYWozWUdwbXdhQmVqem1DQ0VTSWZEMmNrSTIzSkJsQWdqY2xxVEt1UUxrSzV0TkM3MXRlS1I0RTFYckJqYTlyYksyeXVrdVR4dWd4S2FOZWJ4Q2ZSRTFyU0NBbXdpYUt5a2U0bUZTeFY1eEtLbGdBZ2JySjVRUHBycWY4aTJzWU0wVm93bkZxXzZkOGI4?oc=5"
+    },
+    {
      "titolo": "Roma Capitale, al Senato parte la discussione sulla riforma: emendamenti entro il 10 novembre",
      "fonte": "La Capitale",
      "data": "2026-11-04",
@@ -1795,6 +2133,74 @@
     }
    ],
    "semplice": "Cambia la Costituzione (articolo 114): Roma Capitale."
+  },
+  {
+   "id": "55176",
+   "numero": "C.2799",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2026-02-13",
+   "trasmesso": false,
+   "iniziativa": "Dep. Zanella Luana ed altri",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Guardie venatorie e guardie zoofile",
+    "Obiezione di coscienza del militare"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55176",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [
+    {
+     "id": "54658",
+     "numero": "C.2984",
+     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+     "iniziativa": "Sen. Malan Lucio ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54658"
+    },
+    {
+     "id": "53447",
+     "numero": "C.1673",
+     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+     "iniziativa": "Dep. Zanella Luana ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53447"
+    },
+    {
+     "id": "53436",
+     "numero": "C.1670",
+     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+     "iniziativa": "Dep. Brambilla Michela Vittoria ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53436"
+    },
+    {
+     "id": "53410",
+     "numero": "C.1652",
+     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+     "iniziativa": "Dep. Costa Sergio ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53410"
+    }
+   ],
+   "notizie": [
+    {
+     "titolo": "La riforma del T.U.F.: una introduzione",
+     "fonte": "Altalex",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRJSmVmM0JaTTZYU2djNVVUU3d3SEJ1ckMzT2hOa1RnQXRITFNIMndYdEF0R2ZVTDdGZ21BNFpfV2ViN1lzcTA1VEhNUEVwSXVzMU9jMmxzeFRaNkJtc2JoQUhnQmFDcHc2UHk2NExjM3hOX250WC01TU1EVEh1WjFFZXJmdW9aNWc?oc=5"
+    }
+   ],
+   "semplice": "Cambia la legge sulla caccia sul diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza sulla caccia."
   },
   {
    "id": "54853",
@@ -1830,6 +2236,235 @@
    "semplice": "Nuove regole per la semplificazione delle procedure di trasferimento di beni immobili tra pubbliche amministrazioni."
   },
   {
+   "id": "54563",
+   "numero": "C.2422",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2025-05-22",
+   "trasmesso": false,
+   "iniziativa": "Dep. Zanella Luana",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Caccia sportiva",
+    "Codice e codificazioni",
+    "Diritto di accesso",
+    "Terreni agricoli e fondi rustici"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54563",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [
+    {
+     "id": "54552",
+     "numero": "C.2413",
+     "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+     "iniziativa": "Dep. Caramiello Alessandro ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54552"
+    },
+    {
+     "id": "51122",
+     "numero": "C.27",
+     "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
+     "iniziativa": "Dep. Brambilla Michela Vittoria",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51122"
+    }
+   ],
+   "notizie": [],
+   "semplice": "Cambia il codice civile su abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia."
+  },
+  {
+   "id": "54165",
+   "numero": "C.2162",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2024-12-04",
+   "trasmesso": false,
+   "iniziativa": "Dep. Bruzzone Francesco ed altri",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Animali",
+    "Protezione degli animali"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54165",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [],
+   "semplice": "Cambia la legge sulla caccia su esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette."
+  },
+  {
+   "id": "53990",
+   "numero": "C.2047",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2024-09-18",
+   "trasmesso": false,
+   "iniziativa": "Dep. Caramiello Alessandro ed altri",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Caccia sportiva",
+    "Codice e codificazioni",
+    "Divieti"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53990",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [
+    {
+     "id": "53261",
+     "numero": "C.1541",
+     "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
+     "iniziativa": "Dep. Brambilla Michela Vittoria",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53261"
+    },
+    {
+     "id": "51164",
+     "numero": "C.54",
+     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
+     "iniziativa": "Dep. Brambilla Michela Vittoria",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51164"
+    }
+   ],
+   "notizie": [],
+   "semplice": "Cambia la legge sulla caccia e il codice penale: divieto di utilizzo dei richiami vivi nell'attività di caccia."
+  },
+  {
+   "id": "52574",
+   "numero": "C.1081",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2023-04-06",
+   "trasmesso": false,
+   "iniziativa": "Dep. Bof Gianangelo ed altri",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Ambiente",
+    "Direttive dell'unione europea",
+    "Tutela della fauna",
+    "Tutela della flora"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52574",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [],
+   "semplice": "Nuove regole per l'integrazione delle norme adottate in attuazione di una direttiva europea, sulla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche…"
+  },
+  {
+   "id": "52468",
+   "numero": "C.1002",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2023-03-15",
+   "trasmesso": false,
+   "iniziativa": "Regione Friuli-Venezia Giulia",
+   "tipo_iniziativa": "altro",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Caccia sportiva",
+    "Tutela dei beni culturali e ambientali",
+    "Tutela della fauna"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52468",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [],
+   "semplice": "Nuove regole su prevenzione dei danni causati dalla fauna selvatica."
+  },
+  {
+   "id": "51280",
+   "numero": "C.136",
+   "ramo": "Camera",
+   "passaggio": 1,
+   "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+   "titolo_breve": null,
+   "nome_breve": null,
+   "oggetto": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
+   "natura": "ordinaria",
+   "conversione": false,
+   "stato_ufficiale": "esame in comm.",
+   "stato": "in esame in commissione",
+   "data_stato": "2026-11-04",
+   "presentato": "2022-10-13",
+   "trasmesso": false,
+   "iniziativa": "Dep. Bruzzone Francesco ed altri",
+   "tipo_iniziativa": "parlamentari",
+   "commissione": "13ª Commissione (Agricoltura)",
+   "temi": [
+    "Caccia sportiva",
+    "Tutela della fauna",
+    "Valutazione di impatto ambientale"
+   ],
+   "decreto_del": null,
+   "scadenza": null,
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51280",
+   "prima": null,
+   "proponenti_monitorati": [],
+   "abbinate": [],
+   "notizie": [],
+   "semplice": "Cambia la legge sulla caccia su revisione dei piani faunistici e per la caccia regionali, valutazione di incidenza ambientale e controllo della fauna selvatica."
+  },
+  {
    "id": "55641",
    "numero": "S.2028",
    "ramo": "Senato",
@@ -1861,53 +2496,6 @@
    "abbinate": [],
    "notizie": [],
    "semplice": "Nuove regole per il rafforzamento e l'adeguamento della capacità di difesa nazionale."
-  },
-  {
-   "id": "55147",
-   "numero": "C.3135",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Delega al Governo per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul territorio da parte delle farmacie e rafforzamento della rete assistenziale farmaceutica",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2026-10-08",
-   "trasmesso": true,
-   "iniziativa": "Gov. Meloni-I: Ministro salute Schillaci, Ministro riforme istituzionali Alberti Casellati ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "12ª Commissione (Affari sociali)",
-   "temi": [
-    "Assistenza sanitaria",
-    "Farmacie",
-    "Medicinali",
-    "Spesa sanitaria"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55147",
-   "prima": {
-    "ramo": "Senato",
-    "numero": "S.1786",
-    "stato_ufficiale": "approvato",
-    "stato": "approvata, passa all'altra Camera",
-    "data_stato": "2026-10-07"
-   },
-   "proponenti_monitorati": [],
-   "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "Manovra. Ecco il testo con tutte le misure per la sanità e la farmaceutica",
-     "fonte": "Il Farmacista Online",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDRjTWVfUlh4QnRlNFZESk40SmFGa1RjaEc4Nm9STnVoUU1Rc2FvVWlmcEdvRkI5R2RPNUE1TEx3VkJkLTVBRzNjVk5QUVBXenNLVlBqNFBzX0luNmVZYm5aUnlmSXJwek9LbzZLbVgxaWJ0ZDNiYjNUa0hQOHY1a0JRWDNVRTQxd19FTA?oc=5"
-    }
-   ],
-   "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul…"
   },
   {
    "id": "53997",
@@ -2081,74 +2669,6 @@
    "semplice": "Cambia una legge già in vigore su corresponsione della retribuzione su conto corrente intestato al lavoratore o alla lavoratrice."
   },
   {
-   "id": "55176",
-   "numero": "C.2799",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Introduzione dell'articolo 19.1 e modifica all'articolo 27 della legge 11 febbraio 1992, n. 157, concernenti il diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza venatoria",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2026-02-13",
-   "trasmesso": false,
-   "iniziativa": "Dep. Zanella Luana ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Guardie venatorie e guardie zoofile",
-    "Obiezione di coscienza del militare"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55176",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [
-    {
-     "id": "54658",
-     "numero": "C.2984",
-     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-     "iniziativa": "Sen. Malan Lucio ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54658"
-    },
-    {
-     "id": "53447",
-     "numero": "C.1673",
-     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-     "iniziativa": "Dep. Zanella Luana ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53447"
-    },
-    {
-     "id": "53436",
-     "numero": "C.1670",
-     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-     "iniziativa": "Dep. Brambilla Michela Vittoria ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53436"
-    },
-    {
-     "id": "53410",
-     "numero": "C.1652",
-     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-     "iniziativa": "Dep. Costa Sergio ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53410"
-    }
-   ],
-   "notizie": [
-    {
-     "titolo": "La riforma del T.U.F.: una introduzione",
-     "fonte": "Altalex",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRJSmVmM0JaTTZYU2djNVVUU3d3SEJ1ckMzT2hOa1RnQXRITFNIMndYdEF0R2ZVTDdGZ21BNFpfV2ViN1lzcTA1VEhNUEVwSXVzMU9jMmxzeFRaNkJtc2JoQUhnQmFDcHc2UHk2NExjM3hOX250WC01TU1EVEh1WjFFZXJmdW9aNWc?oc=5"
-    }
-   ],
-   "semplice": "Cambia la legge sulla caccia sul diritto all'obiezione di coscienza per il personale addetto al controllo della fauna selvatica e la formazione del personale preposto alla vigilanza sulla caccia."
-  },
-  {
    "id": "54970",
    "numero": "S.1693",
    "ramo": "Senato",
@@ -2181,135 +2701,6 @@
    "abbinate": [],
    "notizie": [],
    "semplice": "Crea il Parco nazionale dell'Etna."
-  },
-  {
-   "id": "54563",
-   "numero": "C.2422",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Modifiche all'articolo 842 del codice civile, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2025-05-22",
-   "trasmesso": false,
-   "iniziativa": "Dep. Zanella Luana",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Caccia sportiva",
-    "Codice e codificazioni",
-    "Diritto di accesso",
-    "Terreni agricoli e fondi rustici"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54563",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [
-    {
-     "id": "54552",
-     "numero": "C.2413",
-     "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-     "iniziativa": "Dep. Caramiello Alessandro ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54552"
-    },
-    {
-     "id": "51122",
-     "numero": "C.27",
-     "titolo": "Modifiche all'articolo 842 del codice civile e alla legge 11 febbraio 1992, n. 157, in materia di abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia",
-     "iniziativa": "Dep. Brambilla Michela Vittoria",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51122"
-    }
-   ],
-   "notizie": [],
-   "semplice": "Cambia il codice civile su abolizione del diritto di accesso al fondo altrui per l'esercizio della caccia."
-  },
-  {
-   "id": "54165",
-   "numero": "C.2162",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Modifica all'articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2024-12-04",
-   "trasmesso": false,
-   "iniziativa": "Dep. Bruzzone Francesco ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Animali",
-    "Protezione degli animali"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54165",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [],
-   "notizie": [],
-   "semplice": "Cambia la legge sulla caccia su esclusione del lupo (canis lupus) dall'elenco delle specie particolarmente protette."
-  },
-  {
-   "id": "53990",
-   "numero": "C.2047",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Modifiche alla legge 11 febbraio 1992, n. 157, e all'articolo 544-ter del codice penale, in materia di divieto di utilizzo dei richiami vivi nell'attività venatoria",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2024-09-18",
-   "trasmesso": false,
-   "iniziativa": "Dep. Caramiello Alessandro ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Caccia sportiva",
-    "Codice e codificazioni",
-    "Divieti"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53990",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [
-    {
-     "id": "53261",
-     "numero": "C.1541",
-     "titolo": "Modifiche agli articoli 12, 13 e 22 della legge 11 febbraio 1992, n. 157, in materia di divieto dell'esercizio dell'attività venatoria mediante l'uso dell'arco",
-     "iniziativa": "Dep. Brambilla Michela Vittoria",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53261"
-    },
-    {
-     "id": "51164",
-     "numero": "C.54",
-     "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di periodi di attività venatoria, di divieto dell'esercizio venatorio con l'accompagnamento di minori e di disciplina del rilascio della licenza di porto di fucile per uso di caccia",
-     "iniziativa": "Dep. Brambilla Michela Vittoria",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51164"
-    }
-   ],
-   "notizie": [],
-   "semplice": "Cambia la legge sulla caccia e il codice penale: divieto di utilizzo dei richiami vivi nell'attività di caccia."
   },
   {
    "id": "53606",
@@ -2379,14 +2770,7 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "CAMERA DEI DEPUTATI: «LA COMMISSIONE DIFESA AUDISCE IL PROFESSORE VILLORESI SULLE TECNOLOGIE QUANTISTICHE, IL RICERCATORE ILLUSTRA LE APPLICAZIONI NEL SETTORE DELLA SICUREZZA.",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPcFBwWkVUcTFWVldzWGxKNS1uUzh6TWstdlZuODk2TlhRQkczMkthdmhzdlVtRmJzUEZBREFlenZNZjlBVVFkZ3lNN0d1a3RsSmh4c0tvWnNRcm1OMFdMZnJBTkpsemVHSTcwZTY2eUxwQkQyX3RJbkwyQWkzaXBGbHdLS2J3Y0tOdnp4cjVobk9qS1N0S0t3Y1JEYWQwdzJHM1R3cURINkZqR2pjWE1QWXRRcC1LWk1ZZWctcWRZU2JjdzJhNjRGdk1WYW1PWFBkZkkwTTJUdGVPTjFQSzBXQXF1ZUhic2lfMjlsNU93bGtFNlo1cXFGNVRqZnNYMHhoOTFxX0l4Q0xuSFh3Z0xVR1R2OEEtZ1paV09sckZfX0VDZWZ1T0JRa3dfemRCUmt3VmtjZU94bS1XY1hfNTh1OVlBeVhfdkJhRkVz?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Nuove regole per lo sviluppo delle tecnologie quantistiche."
   },
   {
@@ -2419,20 +2803,7 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "La legge sull'identificazione elettronica prevede molteplici livelli di protezione della privacy.",
-     "fonte": "Vietnam.vn",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOEVfak5jWFRFRWhJU1AtU0xGVUtRMTQ2bGRLWUwtWV9QVUtFRk5DcWRYNnBxVlRFUlM3aGFSQ2FMQndldlV5MjdoOGpwTnBUX0NVdUJHWG82MVJSM0tQMXJhbTlaOHNjWUNDaVNPbllrQXRVQjRxVk53LUFXblJWb0xZX0xUcVdlMXRQXzFyd3NXaEk?oc=5"
-    },
-    {
-     "titolo": "Legge sulla sicurezza dei dati: un meccanismo per la protezione delle risorse digitali nazionali.",
-     "fonte": "Vietnam.vn",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjlJU242V0ZfTmhWXzRqZ1daSVhxc0Npa0ZQdFpkRkl4YVdQeTBYel96bVdvc014M2dFZjFybkdWN29ZVXhzc1U0OWotRGZRWnFuUWNRY2dNWWFUX0ZhektOd1pMM2tfbmhjVzdaUG83cGlXcUhjajJIR1F2STJnZ3BrYlJUWkdqU3Jv?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Cambia una legge già in vigore su norme fondamentali di sicurezza sulla protezione contro i pericoli derivanti dall'esposizione alle radiazioni ionizzanti."
   },
   {
@@ -2465,82 +2836,8 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "La riforma del T.U.F.: una introduzione",
-     "fonte": "Altalex",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRJSmVmM0JaTTZYU2djNVVUU3d3SEJ1ckMzT2hOa1RnQXRITFNIMndYdEF0R2ZVTDdGZ21BNFpfV2ViN1lzcTA1VEhNUEVwSXVzMU9jMmxzeFRaNkJtc2JoQUhnQmFDcHc2UHk2NExjM3hOX250WC01TU1EVEh1WjFFZXJmdW9aNWc?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Cambia il codice civile su obbligo di contrarre e recesso della banca nei rapporti di conto corrente."
-  },
-  {
-   "id": "52574",
-   "numero": "C.1081",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Disposizioni per l'integrazione delle norme adottate in attuazione della direttiva 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, mediante introduzione di un regime di deroga per la specie canis lupus",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2023-04-06",
-   "trasmesso": false,
-   "iniziativa": "Dep. Bof Gianangelo ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Ambiente",
-    "Direttive dell'unione europea",
-    "Tutela della fauna",
-    "Tutela della flora"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52574",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [],
-   "notizie": [],
-   "semplice": "Nuove regole per l'integrazione delle norme adottate in attuazione di una direttiva europea, sulla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche…"
-  },
-  {
-   "id": "52468",
-   "numero": "C.1002",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Norme in materia di prevenzione dei danni causati dalla fauna selvatica. Modifica alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2023-03-15",
-   "trasmesso": false,
-   "iniziativa": "Regione Friuli-Venezia Giulia",
-   "tipo_iniziativa": "altro",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Caccia sportiva",
-    "Tutela dei beni culturali e ambientali",
-    "Tutela della fauna"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52468",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [],
-   "notizie": [],
-   "semplice": "Nuove regole su prevenzione dei danni causati dalla fauna selvatica."
   },
   {
    "id": "52426",
@@ -2608,111 +2905,6 @@
    "semplice": null
   },
   {
-   "id": "51280",
-   "numero": "C.136",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Modifiche alla legge 11 febbraio 1992, n. 157, in materia di revisione dei piani faunistico-venatori regionali, di valutazione di incidenza ambientale e di controllo della fauna selvatica",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-11-03",
-   "presentato": "2022-10-13",
-   "trasmesso": false,
-   "iniziativa": "Dep. Bruzzone Francesco ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "13ª Commissione (Agricoltura)",
-   "temi": [
-    "Caccia sportiva",
-    "Tutela della fauna",
-    "Valutazione di impatto ambientale"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51280",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [],
-   "notizie": [],
-   "semplice": "Cambia la legge sulla caccia su revisione dei piani faunistici e per la caccia regionali, valutazione di incidenza ambientale e controllo della fauna selvatica."
-  },
-  {
-   "id": "55685",
-   "numero": "C.3120",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Legge annuale per il mercato e la concorrenza 2026",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Legge annuale per il mercato e la concorrenza 2026",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-10-28",
-   "presentato": "2026-09-28",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Ministro sviluppo economico Urso ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "10ª Commissione (Attività produttive, commercio e turismo)",
-   "temi": [
-    "Concorrenza",
-    "Mercato",
-    "Tutela dei consumatori e degli utenti"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55685",
-   "prima": null,
-   "proponenti_monitorati": [
-    "adolfo-urso"
-   ],
-   "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "Ddl concorrenza 2026: ok Aula Camera a conclusione esame entro 11 dicembre",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTVE3SEdBZ0NOejVMTDlaMFlJWll3RHFlajBuY0RNSWlsV2VCZENXYXotYTJJZXVFdjZ3MzNVODl6eWo2VUhlMVh4a2J0YXN6OWVXcTg2U3hta3ZwTmlXSGJCbVRtaV9udDJ1TA?oc=5"
-    },
-    {
-     "titolo": "Ddl Concorrenza, ok della Camera entro l’11 dicembre",
-     "fonte": "Staffetta Quotidiana",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzd3E3T0daSHhpVDkySDZUWXVsUmZ5YUEyMUtqVk9MWmN2d0FJYUtxSkgxcXRaNldWMVN5VVMyNlpHS1VVUWt0YU1aZ2tIdEFJcmZzVmI0eXNrSUo4ZjVJVDJfWnRPQQ?oc=5"
-    },
-    {
-     "titolo": "Ddl Concorrenza 2026, come può cambiare la rete dei carburanti",
-     "fonte": "BusinessWeekly",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRW1wM2lWM2N3Y0VSM0NRYnRTLWdfRHNxS2dUTE1lNEhrRUYwUjFxck94Zm40V0p1S3VEZ0dnTlRLYUhveFduZU5LTVFHbDRyTlQ3eE04bzVqcXpqNjlRbzNLMzRUX1BXeFYwZmJwSGY2SXdldDY5S1hUZmZqSHRHRmllQld6anpRY2MyMlhSQ3czUdIBlwFBVV95cUxPQTg2dUgtZ0c3VV9xekpkaWRqQ2VkdldOdzhFRHp6TkJiWk1LdmZQRUFTeHQ2bVR0dG1VWFE3M3I4dk9CZ3d5TlZ1M24yV3ZISU9JaGJkSG5rc29TcVdoNGxCNzZSdGZTSDN6Nk9uQ18zcjlxS1o2V0pTaUJYMHJ2ZVRndWo5OTlYNkx1NDFDRDNjY3p0c0Vr?oc=5"
-    },
-    {
-     "titolo": "Audizioni su legge annuale mercato e concorrenza - Martedì e mercoledì diretta webtv",
-     "fonte": "Camera.it",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04U1NOTVJiTXlkVVVLU3Q5U0FjajBGb01VS3hrdExidG9aWVpZUGU3MWlzeVlabmpBc2FPdFVkWjNrbjRncFhNc21aMFFRYWRUa1J3M0Znci1OcHgycTExVUpicVhkYUZfc2xvOHZHbw?oc=5"
-    },
-    {
-     "titolo": "Audizioni su legge annuale mercato e concorrenza – Martedì e mercoledì diretta webtv",
-     "fonte": "Stampa Parlamento",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjAyVHEwMjJNMk54SVl1Wk1EQ1l3bFM5QUZaMWFUNVVHbVN0bG82ZWluLUpQV21NZVA1NGJ3THFQYUYxUXQ5emgxbElwMURNTnlZM3E1UUdJamZMNXltdW5sNi14SHZkNjk3VHlrUVdvWGQ4LVQ4T0xLLVNzZ2tZMTNFb05VVW1DUDhpU1BlREtRenpFY1dMeENpYy1CSnNZeWlXX29mbXVOdUJ0eFg3NnMxSG1XN01DOWluczZLWlBKaktr?oc=5"
-    },
-    {
-     "titolo": "CAMERA DEI DEPUTATI: «AUDIZIONI SULLA LEGGE ANNUALE PER IL MERCATO E LA CONCORRENZA, LE SESSIONI SI TENGONO IL 3 E IL 4 NOVEMBRE IN DIRETTA WEBTV.",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPa0x2QmItaFd6WFM2Vk9qOW1vdFNzcUY1WnBOOXIxWi1QZDhXWlVQYmJKUWpVUmNTZV9SSzY4cmxHNnlxRTRaQnl5MmFKdkVMXzdTTXFkM3lfZjBNSElndzlLSmVMbm9VTmpkSmktTkJNb2hoOWhFU1lUaEFsZzMxUHZadVMtRzh5SkZJX3RaNmlkYk9xOHh5aWN6WDNFek5MOUVEZlB6cmtJdC1RZTAwQTdsNlRhTWpKN3d4VUhHeEluMUdpS0RSV2p4N1ZrSFdNVm9jQ2s0c2JnLWFfU0d3bFlPbUVKZ29UT090M2E4Sl9ROFhFTHZqVzdzZFBMVG8tMEQwdDJReS1qbGZnLU81UngyZDFDbzBTWmxNMjRZSXA4bDho?oc=5"
-    }
-   ],
-   "semplice": "La legge annuale sulla concorrenza 2026: ogni anno aggiorna le regole per la concorrenza tra imprese."
-  },
-  {
    "id": "55190",
    "numero": "C.3001",
    "ramo": "Camera",
@@ -2778,8 +2970,14 @@
    "abbinate": [],
    "notizie": [
     {
+     "titolo": "FDI – FRATELLI D’ITALIA * CAMERA: «FRATELLI D’ITALIA, DOMANI 6 NOVEMBRE A ROMA “L’ITALIA DELLE PROFESSIONI”: GOVERNO, ISTITUZIONI E ORDINI PROFESSIONALI A CONFRONTO» – Agenzia giornalistica Opinione. Notizie da Italia – Mond",
+     "fonte": "Opinione Agenzia Giornalistica",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQmtCMTFGcDdzaWROVWxXbTRzbWJSRGYwSjVkZ0pCNnpBcEtldDVQQnlHRVdBU21SZnRPUG1jc0VkbEY4aEVBZlhDRnJKT2FhUWNQdjhiRTNYLUFfNXozaHNHZ2M1cEtwWVRvWERjZXR2OS1fbTh3NnF1RjdvV3Ric3QtYkU1NGIwZ2FJVHpzdVJGWTN2N3hETEg0bEUzM3BPSENWUzQ0WFhhSy12WVdJcnRMckZLY2ZuU3RUTTQ2ZmFvT095TFgzUGhoaGJyQzRtLTBiMXRsN0RKZDJvb1FISEhaREVWSm4xQU5fOUFjVTc1ZGQ3V1lCSFFlc00teEx6bE9IdmFBR3g0a1psLXFNbEdrcnpPM1p5Q3FXTGhKOGtaZjJTS3kxY09VZU4?oc=5"
+    },
+    {
      "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «FRATELLI D’ITALIA, VENERDÌ 6 NOVEMBRE A ROMA “L’ITALIA DELLE PROFESSIONI”: GOVERNO, ISTITUZIONI E ORDINI PROFESSIONALI A CONFRONTO",
-     "fonte": "agenzia giornalistica opinione",
+     "fonte": "Opinione Agenzia Giornalistica",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUDNkdE5rMjZHVi1uZU44aWFSVnM4YTJYcWx2Zy03Qlpycl9xU1dBYUR5cllnUGFSSzBaZFdvQk01cWptOXpGbFpzc3pNN2lBR0NtNGQ0ODlKY3g2RlFMNzE4SC0tZm5rU3VraVBkR1M1VVVySzdnSmpBb2NFMHpzN041TmJNYmpTVEZ5bGw5c2JHU0NaaURpSENEc2hQaHVlQjdyRU1DbjZsNjFiYkdXMEMxcFNkeUd5STBNLXZjdy1RMy02TGgwQnZEQ3hpOGlwTDlLUTZvMmFGMGR2bUw4WWF3SHE4Q0hNWnBFSFZMVkxGWF9XMVRjVWJRbDJIR2J1bHVCN2VQQmZ5ZmxLZENDb3NEbVk3clpVZE9mTS1VTUlaNmdBWGhRa0J6c2w?oc=5"
     }
@@ -3083,122 +3281,6 @@
    "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la definizione di un quadro legislativo di riferimento per la filiera carbon capture, utilization and storage (CCUS), e regole per la disciplina dello sviluppo dell'idrogeno…"
   },
   {
-   "id": "55153",
-   "numero": "S.2063",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-   "titolo_breve": "Caregiver",
-   "nome_breve": null,
-   "oggetto": "Riconoscimento e tutela delle persone che assistono e si prendono cura dei propri cari",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-10-27",
-   "presentato": "2026-10-16",
-   "trasmesso": true,
-   "iniziativa": "Gov. Meloni-I: Ministro disabilità Locatelli ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "10ª Commissione (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
-   "temi": [
-    "Organizzazione e responsabilità familiari"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55153",
-   "prima": {
-    "ramo": "Camera",
-    "numero": "C.2789",
-    "stato_ufficiale": "approvato",
-    "stato": "approvata, passa all'altra Camera",
-    "data_stato": "2026-10-14"
-   },
-   "proponenti_monitorati": [],
-   "abbinate": [
-    {
-     "id": "53073",
-     "numero": "S.874",
-     "titolo": "Disposizioni per il riconoscimento e la tutela del caregiver familiare",
-     "iniziativa": "Sen. Amidei Bartolomeo",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=53073"
-    }
-   ],
-   "notizie": [],
-   "semplice": "Riconosce per legge e tutela le persone che assistono e si prendono cura dei propri cari."
-  },
-  {
-   "id": "54910",
-   "numero": "S.2045",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-   "titolo_breve": "Riforma dell'ordinamento della professione di dottore commercialista ed esperto contabile",
-   "nome_breve": null,
-   "oggetto": "Delega al Governo per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "concluso l'esame",
-   "stato": "esame in commissione concluso",
-   "data_stato": "2026-10-27",
-   "presentato": "2026-09-24",
-   "trasmesso": true,
-   "iniziativa": "Gov. Meloni-I: Ministro giustizia Nordio ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "2ª Commissione (Giustizia)",
-   "temi": [
-    "Dottori commercialisti",
-    "Ragionieri"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54910",
-   "prima": {
-    "ramo": "Camera",
-    "numero": "C.2628",
-    "stato_ufficiale": "approvato",
-    "stato": "approvata, passa all'altra Camera",
-    "data_stato": "2026-09-23"
-   },
-   "proponenti_monitorati": [
-    "carlo-nordio"
-   ],
-   "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "STP tra commercialisti e DdL 2628: la posizione del socio investitore",
-     "fonte": "EC News",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeVRGRUVHdXZWWlVGOXkyYWpQT2xuRThxcnpKN05nOWtXbzlQTGYzeFFoWnlhb0JrcmtVc0RlRndqZzJ0Wkh1TVVodXBsXzd1SFhDM3BmaFh1bE04WE5xYjJpSktKa3dQRTB5WkZrdDM0ZGFJU3ZyWGFReU5ZMGpLa3BDRkhBR29RX21hVVU1dS1yNVgyQjhrY0tseHFjZ1Z6ZmlpSlVjVHh5aXl0SXVLalEyNjAyV2xWWXJCa3ZVd0RxMExJQ3JVYVNnQkVVU2lIbTFfUlVfQWpyeU0?oc=5"
-    },
-    {
-     "titolo": "Cassa Dottori Commercialisti, il progetto 'La Cassa torna in aula' coinvolge studenti in tutta Italia",
-     "fonte": "Affaritaliani",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTg1MnhsLUZzd0pLeHZTUTJfYV9rTVhzdm85MHE1NFphamNpRWlTUUZCQjR6ZnQ5dmZzSk1wVzU1RXNEWDdraW5vM0xUb1VsVlRsc3N3a1U4S1Y3VVhQWGU2YnJ3V3Q3cjRxTVFTYjJzOHpqYjJuWl9wcEtyQnRqaUowN0hMRHl6T204Z193eUpheUd0T294d1Q5Qy16LTdUenRmbEc0NkJ6eWRSZFktVkFzWTFHYU1MM2wwU09seThodWNobkJUbmpqTGV5blRsYlR4ZlI0VzI2OGNPTmRRekhqOG1KVV8zdTZlN0pn?oc=5"
-    },
-    {
-     "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «PROFESSIONI, ALMICI (FDI): «RIFORMA COMMERCIALISTI, AL SENATO PASSO AVANTI DECISIVO PER VALORIZZARE LE COMPETENZE SUL LAVORO",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWTFFNWc0Q2l6RFAxVU1DWExmdEM0Z0VwZWtNNkhEenY2WWJvN2RQeVJMa2hFZlhMamxVQTd5Zkd1UW9rRDVkYmlGRWMxcjNXSFZvRFVyMXluNjVSdnp5SjdUb09wVmo0dXJwUWJLZWhlbHJ0Q1NmeVU2UDZMZVF1VHdMMUxRbHdJTUxxdHlzZ0N6OWJEQUQ0M3VnazhmVlEtQnZJYmt4ZWctcTBOeFY2NjZCZmctOTlnb0FQdjRrenhCdHVuYzNVNkRNY2lSNDQybGtWWWdMYkItLV9IbnhDWjZlYlFqS0oyb0tIR0s4Z0k5YmZETnVkbGVyVU5fM1pXZ2F6bzlWY0txRUVLNFJVYTBaZ252cUx0S0tSaGlfa2NjLUlQanVoY3BR?oc=5"
-    },
-    {
-     "titolo": "Professioni sanitarie: le novità del disegno di legge delega",
-     "fonte": "Ipsoa",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmJ1clRGSVJhZzFwQUw0V2VYQzZ5dkNndktlbWxGYkh1TldaeWhDUkh2UUk5S2gxWEk2TFpqQ3hyYlgtWWgydU1YcDlZQ3ZGUk9MbTJoSkdRTUtDUmpISWwxVnRhQjdabV84eXlscVdXSlR6QXdEbmRpNnJGclR1dkJfXy1Idm1FV2JOaG4tamVVWEY5WkQ2dlAzT2xKREtaN3dtNlhScmVIb0JPczhZV1VzUE5rREh2NU9vc2FxeDRvc3FlWU1uallBNVA?oc=5"
-    },
-    {
-     "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «RIFORMA COMMERCIALISTI. ALMICI (FDI), IN SENATO MANTENUTO MIO EMENDAMENTO SU COMPETENZE GIUSLAVORISTE",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaGo0TC15b2VoWlNia1c3azc3RjhtTmMyRXVScG5FdjM0R25MeVpBbmktb3J4QW5rdFp5QjVfMnBGS0VSQVEwNDRIRGVFQS03anpxSEstZ1RIaHJuOFRKcDVMblBETVpsTlhKbWVydE05Q1dBWXR2ZXExdTVxU0JRNGdqWmZxcTE1STRsLU4yZUpadFNCNlZlbEhvTldqd2Q4UDN5NElveUhzVEtpWXJ5a1J6Q1BLV2ZQVGkwZkVicDIzdzZCY2Yxb3YzX0tUalVDY2t2WW4tR3hPVHNRQUpaX0h1ZUVIWEZ1U2pkT3VuZXN0REoyTGpyWU0zeC1Wd2FNRUo1eVdXcWlIa3d4dUE?oc=5"
-    }
-   ],
-   "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma della disciplina dell'ordinamento della professione di dottore commercialista e di esperto contabile."
-  },
-  {
    "id": "55547",
    "numero": "S.1977",
    "ramo": "Senato",
@@ -3229,54 +3311,6 @@
    "abbinate": [],
    "notizie": [],
    "semplice": "Nuove regole su usi e redazione e aggiornamento delle raccolte degli usi generali, regionali, interregionali e locali."
-  },
-  {
-   "id": "55398",
-   "numero": "S.1909",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-   "titolo_breve": "Caregiver",
-   "nome_breve": null,
-   "oggetto": "Disposizioni per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "esame in comm.",
-   "stato": "in esame in commissione",
-   "data_stato": "2026-10-27",
-   "presentato": "2026-05-19",
-   "trasmesso": false,
-   "iniziativa": "Sen. Gelmini Mariastella",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "10ª Commissione (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
-   "temi": [
-    "Concorsi pubblici",
-    "Organizzazione e responsabilità familiari",
-    "Riserva di posti"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55398",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "abbinate": [
-    {
-     "id": "51003",
-     "numero": "S.134",
-     "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
-     "iniziativa": "Sen. Guidolin Barbara ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51003"
-    },
-    {
-     "id": "50885",
-     "numero": "S.24",
-     "titolo": "Disposizioni per il riconoscimento ed il sostegno del caregiver familiare",
-     "iniziativa": "Sen. Malpezzi Simona Flavia ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=50885"
-    }
-   ],
-   "notizie": [],
-   "semplice": "Nuove regole per il riconoscimento e l'inclusione lavorativa dei caregiver familiari mediante riserve di posti e titoli di preferenza nei concorsi pubblici."
   },
   {
    "id": "53658",
@@ -3343,46 +3377,43 @@
    "semplice": "Crea la Settimana nazionale della scrittura a mano."
   },
   {
-   "id": "54546",
-   "numero": "C.2407",
-   "ramo": "Camera",
+   "id": "51003",
+   "numero": "S.134",
+   "ramo": "Senato",
    "passaggio": 1,
-   "titolo": "Modifiche agli articoli 12 e 22 della legge 24 gennaio 1979, n. 18, in materia di liste di minoranza linguistica collegate nelle elezioni dei membri del Parlamento europeo spettanti all'Italia",
-   "titolo_breve": null,
+   "titolo": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
+   "titolo_breve": "Caregiver",
    "nome_breve": null,
-   "oggetto": "Modifiche agli articoli 12 e 22 della legge 24 gennaio 1979, n. 18, in materia di liste di minoranza linguistica collegate nelle elezioni dei membri del Parlamento europeo spettanti all'Italia",
+   "oggetto": "Disposizioni per il riconoscimento e il sostegno dell'attività del caregiver familiare",
    "natura": "ordinaria",
    "conversione": false,
    "stato_ufficiale": "esame in comm.",
    "stato": "in esame in commissione",
-   "data_stato": "2026-10-22",
-   "presentato": "2025-05-15",
+   "data_stato": "2026-10-27",
+   "presentato": "2022-10-13",
    "trasmesso": false,
-   "iniziativa": "Dep. Urzi' Alessandro ed altri",
+   "iniziativa": "Sen. Guidolin Barbara ed altri",
    "tipo_iniziativa": "parlamentari",
-   "commissione": "1ª Commissione (Affari costituzionali)",
+   "commissione": "10ª Commissione (Affari sociali, sanità, lavoro pubblico e privato, previdenza sociale)",
    "temi": [
-    "Elezioni europee",
-    "Liste elettorali",
-    "Minoranze linguistiche",
-    "Parlamento europeo"
+    "Organizzazione e responsabilità familiari"
    ],
    "decreto_del": null,
    "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54546",
+   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51003",
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [
     {
-     "id": "52739",
-     "numero": "C.1175",
-     "titolo": "Modifica all'articolo 22 della legge 24 gennaio 1979, n. 18, in materia di elezione dei candidati delle liste di minoranza linguistica collegate, per la regione Valle d'Aosta, nelle elezioni dei membri del Parlamento europeo spettanti all'Italia",
-     "iniziativa": "Dep. Manes Franco ed altri",
-     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=52739"
+     "id": "50885",
+     "numero": "S.24",
+     "titolo": "Disposizioni per il riconoscimento ed il sostegno del caregiver familiare",
+     "iniziativa": "Sen. Malpezzi Simona Flavia ed altri",
+     "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=50885"
     }
    ],
    "notizie": [],
-   "semplice": "Cambia la legge sull'elezione del Parlamento europeo su liste di minoranza linguistica collegate nelle elezioni dei membri del Parlamento europeo spettanti all'Italia."
+   "semplice": "Nuove regole per il riconoscimento e il sostegno dell'attività del caregiver familiare."
   }
  ],
  "nuove": [
@@ -3405,7 +3436,10 @@
    "iniziativa": "Sen. Gelmini Mariastella",
    "tipo_iniziativa": "parlamentari",
    "commissione": null,
-   "temi": [],
+   "temi": [
+    "Informazione",
+    "Reati informatici"
+   ],
    "decreto_del": null,
    "scadenza": null,
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55759",
@@ -3639,9 +3673,10 @@
    "tipo_iniziativa": "parlamentari",
    "commissione": "9ª Commissione (Industria, commercio, turismo, agricoltura e produzione agroalimentare)",
    "temi": [
+    "Commercio al dettaglio",
     "Elusione fiscale",
-    "Negozi e rivendite",
-    "Orario di lavoro"
+    "Iva",
+    "Negozi e rivendite"
    ],
    "decreto_del": null,
    "scadenza": null,
@@ -3883,7 +3918,14 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55746",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": [],
+   "notizie": [
+    {
+     "titolo": "La riforma del T.U.F.: una introduzione",
+     "fonte": "Altalex",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRJSmVmM0JaTTZYU2djNVVUU3d3SEJ1ckMzT2hOa1RnQXRITFNIMndYdEF0R2ZVTDdGZ21BNFpfV2ViN1lzcTA1VEhNUEVwSXVzMU9jMmxzeFRaNkJtc2JoQUhnQmFDcHc2UHk2NExjM3hOX250WC01TU1EVEh1WjFFZXJmdW9aNWc?oc=5"
+    }
+   ],
    "semplice": "Cambia il codice dell'ambiente sul sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati."
   },
   {
@@ -4011,6 +4053,12 @@
    "proponenti_monitorati": [],
    "notizie": [
     {
+     "titolo": "Fiscalità europea | Il Parlamento propone una risoluzione attrattiva",
+     "fonte": "IlSussidiario.net",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDRVUHpjNFZ0cU4tYmdtZjZhWVh0b0RPU1R5amZtWkQ3RDlVeEt3OVQ0STR6ek5vSUtfMDh2WmN3T0JqUW5WVE0xQUZKVGkxYzYyR2xGNVNMV0htNUVlNFFjWUpCc0EwZEhDalpqX0FlSUlpQ00yNktSY1Q1NU41XzBMTEZ4eEdqa2stelk5eGptQTVhUGNmUXhfZUFUZ0luQ0luVG9JSmJlbVNHdkVr0gG0AUFVX3lxTFBrM2RZQWo1LTJPM2VmeW5uU3N5T1YtWTRBR1BzUW9WSDhkbENyanBxMFMzZ2JxQUdXeEQ1YzRNSmxXbldaV1Rtb01BaHozbFNtT3lTWUZBcW9nSzZfOUwtd0RlUnpwNVQzWTZsWk9Rd3lDMGNlT2tQMUE3d0dqWDVaZ0Z0cVNvVDhlN050ZE1NbWg1RmRzcTJSWHFWMVlzUTk3N1V4dkR1ZUttZHRtdGd5SWR1bQ?oc=5"
+    },
+    {
      "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «MANOVRA, TURCO (M5S): NOSTRI EMENDAMENTI PER TAGLIO TASSE CON IMPOSTA SU GRANDI ATTIVITÀ FINANZIARIE",
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-11-04",
@@ -4126,395 +4174,44 @@
    ],
    "notizie": [],
    "semplice": "Approva un accordo internazionale: Protocollo modificativo tra l'Italia e l'Organizzazione europea di diritto pubblico riguardante l'Accordo per lo stabilimento di un Ufficio in Italia."
-  },
-  {
-   "id": "55740",
-   "numero": "C.3164",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Attribuzione alla regione Veneto di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-10-28",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "1ª Commissione (Affari costituzionali)",
-   "temi": [
-    "Autonomia amministrativa patrimoniale e contabile",
-    "Regione veneto",
-    "Regioni"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55740",
-   "prima": null,
-   "proponenti_monitorati": [
-    "roberto-calderoli"
-   ],
-   "notizie": [
-    {
-     "titolo": "Autonomia differenziata accelera: la Camera stabilisce il 20 gennaio per Veneto, Lombardia, Liguria e Piemonte",
-     "fonte": "La Piazza Web",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, la Camera fissa le date: Veneto il 20 gennaio",
-     "fonte": "Daily Verona Network",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2I1YWNweUZMenlZTnExbnl3VHFSODk3ZlBIQWlMa3JraGNDUG4zcDhkSkdFTWRjbktvM2VmdElmMC12d21XV0tsckpwd2JDVW9HOWEwUVFydWNScmpGdGMxMjJCNzNMTVVlVWtFUFJaNkZGR2EwZ1ZIU09Rcm1HbmIzVnZvNHZSaGRfSHNYbHFNT0piZ0VBUFJIZw?oc=5"
-    },
-    {
-     "titolo": "Autonomia del Veneto, nuovo via libera alla Camera: fissata la scadenza del 20 gennaio 2027",
-     "fonte": "Il Gazzettino",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTF9PTUlSRzN3RjdUTTdLUjdFdWhiTk93NGtKcWVkaEhtaFNabGwzR0lCSTV6V3NfOEJKVmFlOGpmUFpQZUFOWDBfSzBkalVvOHVfOHUzb3JMUjhVTklwQ3hiUXM1eUl4ZF83aFg5QTdPalB1cVg1d3Y3Nnl3UTFyRFozVU1aRld0Nkc3T2JrZklhS2hCTUpXTGpla3BZaVpwTFRaM3hpclYzR1NpNEZCdFlDQzcwTnpIRHNTNktkRWR5cGRvTXNUMjdwY9IBxgFBVV95cUxPM1ZlSkRzZDVva3lzN1pLRWRhRURmTmVLZ0h2dWJ5UjNHR0dSTFhmNnFoaDUzYnh6aDJhUG51NGRTMFB3b1JpMWh2TG1UM3Uzc0NwQk9HWlJBc2JKNndrMkh0YUtmRGVjY2QtWFYwLUFaWXQ4MUZPRm1CN2NpQVc1eExDOFEyLUtLdVpSdzN5WGlBQUFtRjN2b043VzRrcjNVN01mMHptSGU4YTVYdEtaWkZjNWFsT3J0VEpwRW9YMHdveG80LVE?oc=5"
-    },
-    {
-     "titolo": "Intese sull'autonomia entro gennaio, via libera dalla Camera",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEROU0d0R3p2UHRXak5VMnZCN1NDX2ZmWWlJWWZJNi1oSmt5SUYxTXFjZDVzc1VFazBfT19leWNXbk9Ka3hiZGFENVNkZUl1RkVzOURzbDRqT0RiX2N5OTl1WWxXVmhQRnNOQVFZLUpXLXJsM3VHR2NqRlBIOTh6Z1ZWbjBZMmpjNmQ4Yw?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata, entro gennaio l'esame dei decreti per Veneto, Liguria, Lombardia e Piemonte. Piero De Luca (Pd): «Per il governo viene prima Pontida e poi il bradisismo»",
-     "fonte": "Corriere Del Mezzogiorno",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVTk1clBFVzk5cUduZEswR1E1UEloQXUxbWZkRmxrajdUNDIyZHhPMmZPWVc4QmJ2a0dFRGE4NWJjanZkc0ZkX3FBc0wyU0RyWm1KSnZfTjBKMmJfMENKcVdKYjgtNEJySEVFdUNOX2V5N1ZwWm43UEgzdVc5NkRjVHMxSXJ2ampNUmVxNTJzc3RhWEtYSFlBTHZKR1lPZlFWa2JZdXllVFVmX0c1M3lQQ2RkYWI0eW1qSFBybmU1b1dxWFdtN2htNUlidWRhU3NxYnA4MmFmM3NncFlrdEx0SzlySzRvQ2VGdEtacjBlbGVFZE9MaHNIeE9WQ182Y201YmdzZWVwT1JrMGNVV3pHWmdaM1p5UlZVQnRIeTdDN3d1M25GbGt2NldlVkVFNWp5SHpYcWlSSDcwUGtDMmVUN3lRak5CZ9IBywJBVV95cUxOQjJWNTFoNThKS0N4cVY5OHhEN3h5V0NCSGZjQVV0Tm16dzMwUGVxcFRWWGRTTkRybElCUC1QSDdFOWpOUWZ4SEo5ejZMV0ppXzczWk41RU5GVm1TRDlKTF8tdjlVS2hIRFc2UlRFYmJWVXUtb3lWLXZVOVhlZnZQZzZsa3E4V19hU1ZzaDZRdEFkZXo4MWRKZkNmVXZ6ZjVkQXJobElPc2Nic3cwa1ZsQTFCZmtPMGpSUmJ4YlNGM3lfQTgzcFBiM093LVlKYm8zbW4zcUpRZndWTnZZNnZ3STJ2em5GTkJiMzhIWEtKc2hZZmpCeFR6RnN4RXpaVTVZcTItOWpjb0E4Mzd4NGxhOFcxa2JqQUtJZ2FQcWw2NWx5U0RPMkdMQXZmNzVQWUh1dlE5dDRhcjhLMUtiekwySWdEZ2JRQ2NXZkZz?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata, il 20 gennaio voto finale alla Camera: il patto Meloni-Salvini e lo sprint per la campagna elettorale",
-     "fonte": "Il Messaggero",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkZGeWlGdGwzQ0JDdUpfX3pBS2J5UmZ5ZWZhZnVYWlZmOWN3SnU4cmF5LXQ5OGJROE5RQVppUDUwRl9qdzZSRFRCWDRTRm9PS2ZUUUdnbEhNVzVDX1ZfTFNweThodWJYa0k0aFBZSkxBRWhMQnFoR2FLeTVwTlZ1bU9weWRfRVdrWllUendVQ0tFd0JHZWNFV3RPZl9NX0F3NDNjTXE4UWFkMk9CV0NObXdvcEo1ZHJJLV9NUFhYTmFEZ9IBxwFBVV95cUxPWFM0NExabjhTdGdNTFY1TmJmVUd2T0dCdGxHQzNkR1haQTRmSjV3WnNyTEtzLTMwcHE5VnlERHhZbTYtUzV0cmdGSk44OC05WFB0SUpOWFRwcWRVOHpyRmFyTFZRdW10eXdrQVViLVRYb3lmRm9sVDU1NnlzRk5nLXY4UmRfY1dNN3dPLVZJT0FIVVJUUTJld1cweUpfU2pnZ3VfSWZYWTFORmVZZGlQRy13M0dsTVMwOWVWSVBqanNKTnhrSHJF?oc=5"
-    }
-   ],
-   "semplice": "Dà alla Regione Veneto più competenze (autonomia differenziata)."
-  },
-  {
-   "id": "55739",
-   "numero": "C.3163",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Attribuzione alla regione Piemonte di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-10-28",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "1ª Commissione (Affari costituzionali)",
-   "temi": [
-    "Autonomia amministrativa patrimoniale e contabile",
-    "Regione piemonte",
-    "Regioni"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55739",
-   "prima": null,
-   "proponenti_monitorati": [
-    "roberto-calderoli"
-   ],
-   "notizie": [
-    {
-     "titolo": "Autonomia differenziata accelera: la Camera stabilisce il 20 gennaio per Veneto, Lombardia, Liguria e Piemonte",
-     "fonte": "La Piazza Web",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, l’ufficio studi della Camera mette in dubbio le intese",
-     "fonte": "il manifesto",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG1VTlFEMzZCdFFPa2N5TVhmYVRzbE5jMndwYjJFcmZQTnNjUjVHektyZVdpNDI3TEF1dDdrMjRocWNVRXBJUGpIRlBzVEF3RGNXTTBxT3FvaXZmVkpxWUhudjc4TFBJQ3ZtZTRYaDVXa3ljdERWQ0tVeFFMUFg1NkczOEpTSFVVY2p5S2Y2UQ?oc=5"
-    },
-    {
-     "titolo": "Intese sull'autonomia entro gennaio, via libera dalla Camera",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEROU0d0R3p2UHRXak5VMnZCN1NDX2ZmWWlJWWZJNi1oSmt5SUYxTXFjZDVzc1VFazBfT19leWNXbk9Ka3hiZGFENVNkZUl1RkVzOURzbDRqT0RiX2N5OTl1WWxXVmhQRnNOQVFZLUpXLXJsM3VHR2NqRlBIOTh6Z1ZWbjBZMmpjNmQ4Yw?oc=5"
-    },
-    {
-     "titolo": "Autonomia: ok Camera a conclusione esame intese con Regioni entro 28 gennaio 2027",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lU0Uwa2dqaVZBMEdGZnk5amtyV3hIOXA0bHhrZ1R5NWJWSVFYQ21jRm5SX2x2WEpTdjd2Rzk2U1h2UkhxdnhiamZTYXJINUFILUpEN0ZwdWpKc3loY0hPSnRweDF3bmRfUGJueg?oc=5"
-    },
-    {
-     "titolo": "Autonomia del Veneto, nuovo via libera alla Camera: fissata la scadenza del 20 gennaio 2027",
-     "fonte": "Il Gazzettino",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTF9PTUlSRzN3RjdUTTdLUjdFdWhiTk93NGtKcWVkaEhtaFNabGwzR0lCSTV6V3NfOEJKVmFlOGpmUFpQZUFOWDBfSzBkalVvOHVfOHUzb3JMUjhVTklwQ3hiUXM1eUl4ZF83aFg5QTdPalB1cVg1d3Y3Nnl3UTFyRFozVU1aRld0Nkc3T2JrZklhS2hCTUpXTGpla3BZaVpwTFRaM3hpclYzR1NpNEZCdFlDQzcwTnpIRHNTNktkRWR5cGRvTXNUMjdwY9IBxgFBVV95cUxPM1ZlSkRzZDVva3lzN1pLRWRhRURmTmVLZ0h2dWJ5UjNHR0dSTFhmNnFoaDUzYnh6aDJhUG51NGRTMFB3b1JpMWh2TG1UM3Uzc0NwQk9HWlJBc2JKNndrMkh0YUtmRGVjY2QtWFYwLUFaWXQ4MUZPRm1CN2NpQVc1eExDOFEyLUtLdVpSdzN5WGlBQUFtRjN2b043VzRrcjNVN01mMHptSGU4YTVYdEtaWkZjNWFsT3J0VEpwRW9YMHdveG80LVE?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata, il 20 gennaio voto finale alla Camera: il patto Meloni-Salvini e lo sprint per la campagna elettorale",
-     "fonte": "Il Messaggero",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkZGeWlGdGwzQ0JDdUpfX3pBS2J5UmZ5ZWZhZnVYWlZmOWN3SnU4cmF5LXQ5OGJROE5RQVppUDUwRl9qdzZSRFRCWDRTRm9PS2ZUUUdnbEhNVzVDX1ZfTFNweThodWJYa0k0aFBZSkxBRWhMQnFoR2FLeTVwTlZ1bU9weWRfRVdrWllUendVQ0tFd0JHZWNFV3RPZl9NX0F3NDNjTXE4UWFkMk9CV0NObXdvcEo1ZHJJLV9NUFhYTmFEZ9IBxwFBVV95cUxPWFM0NExabjhTdGdNTFY1TmJmVUd2T0dCdGxHQzNkR1haQTRmSjV3WnNyTEtzLTMwcHE5VnlERHhZbTYtUzV0cmdGSk44OC05WFB0SUpOWFRwcWRVOHpyRmFyTFZRdW10eXdrQVViLVRYb3lmRm9sVDU1NnlzRk5nLXY4UmRfY1dNN3dPLVZJT0FIVVJUUTJld1cweUpfU2pnZ3VfSWZYWTFORmVZZGlQRy13M0dsTVMwOWVWSVBqanNKTnhrSHJF?oc=5"
-    }
-   ],
-   "semplice": "Dà alla Regione Piemonte più competenze (autonomia differenziata)."
-  },
-  {
-   "id": "55738",
-   "numero": "C.3162",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Attribuzione alla regione Lombardia di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-10-28",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "1ª Commissione (Affari costituzionali)",
-   "temi": [
-    "Autonomia amministrativa patrimoniale e contabile",
-    "Regione lombardia",
-    "Regioni"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55738",
-   "prima": null,
-   "proponenti_monitorati": [
-    "roberto-calderoli"
-   ],
-   "notizie": [
-    {
-     "titolo": "Autonomia differenziata accelera: la Camera stabilisce il 20 gennaio per Veneto, Lombardia, Liguria e Piemonte",
-     "fonte": "La Piazza Web",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, l’ufficio studi della Camera mette in dubbio le intese",
-     "fonte": "il manifesto",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG1VTlFEMzZCdFFPa2N5TVhmYVRzbE5jMndwYjJFcmZQTnNjUjVHektyZVdpNDI3TEF1dDdrMjRocWNVRXBJUGpIRlBzVEF3RGNXTTBxT3FvaXZmVkpxWUhudjc4TFBJQ3ZtZTRYaDVXa3ljdERWQ0tVeFFMUFg1NkczOEpTSFVVY2p5S2Y2UQ?oc=5"
-    },
-    {
-     "titolo": "Intese sull'autonomia entro gennaio, via libera dalla Camera",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEROU0d0R3p2UHRXak5VMnZCN1NDX2ZmWWlJWWZJNi1oSmt5SUYxTXFjZDVzc1VFazBfT19leWNXbk9Ka3hiZGFENVNkZUl1RkVzOURzbDRqT0RiX2N5OTl1WWxXVmhQRnNOQVFZLUpXLXJsM3VHR2NqRlBIOTh6Z1ZWbjBZMmpjNmQ4Yw?oc=5"
-    },
-    {
-     "titolo": "Autonomia: ok Camera a conclusione esame intese con Regioni entro 28 gennaio 2027",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lU0Uwa2dqaVZBMEdGZnk5amtyV3hIOXA0bHhrZ1R5NWJWSVFYQ21jRm5SX2x2WEpTdjd2Rzk2U1h2UkhxdnhiamZTYXJINUFILUpEN0ZwdWpKc3loY0hPSnRweDF3bmRfUGJueg?oc=5"
-    },
-    {
-     "titolo": "Autonomia del Veneto, nuovo via libera alla Camera: fissata la scadenza del 20 gennaio 2027",
-     "fonte": "Il Gazzettino",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTF9PTUlSRzN3RjdUTTdLUjdFdWhiTk93NGtKcWVkaEhtaFNabGwzR0lCSTV6V3NfOEJKVmFlOGpmUFpQZUFOWDBfSzBkalVvOHVfOHUzb3JMUjhVTklwQ3hiUXM1eUl4ZF83aFg5QTdPalB1cVg1d3Y3Nnl3UTFyRFozVU1aRld0Nkc3T2JrZklhS2hCTUpXTGpla3BZaVpwTFRaM3hpclYzR1NpNEZCdFlDQzcwTnpIRHNTNktkRWR5cGRvTXNUMjdwY9IBxgFBVV95cUxPM1ZlSkRzZDVva3lzN1pLRWRhRURmTmVLZ0h2dWJ5UjNHR0dSTFhmNnFoaDUzYnh6aDJhUG51NGRTMFB3b1JpMWh2TG1UM3Uzc0NwQk9HWlJBc2JKNndrMkh0YUtmRGVjY2QtWFYwLUFaWXQ4MUZPRm1CN2NpQVc1eExDOFEyLUtLdVpSdzN5WGlBQUFtRjN2b043VzRrcjNVN01mMHptSGU4YTVYdEtaWkZjNWFsT3J0VEpwRW9YMHdveG80LVE?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata, entro gennaio l'esame dei decreti per Veneto, Liguria, Lombardia e Piemonte. Piero De Luca (Pd): «Per il governo viene prima Pontida e poi il bradisismo»",
-     "fonte": "Corriere Del Mezzogiorno",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVTk1clBFVzk5cUduZEswR1E1UEloQXUxbWZkRmxrajdUNDIyZHhPMmZPWVc4QmJ2a0dFRGE4NWJjanZkc0ZkX3FBc0wyU0RyWm1KSnZfTjBKMmJfMENKcVdKYjgtNEJySEVFdUNOX2V5N1ZwWm43UEgzdVc5NkRjVHMxSXJ2ampNUmVxNTJzc3RhWEtYSFlBTHZKR1lPZlFWa2JZdXllVFVmX0c1M3lQQ2RkYWI0eW1qSFBybmU1b1dxWFdtN2htNUlidWRhU3NxYnA4MmFmM3NncFlrdEx0SzlySzRvQ2VGdEtacjBlbGVFZE9MaHNIeE9WQ182Y201YmdzZWVwT1JrMGNVV3pHWmdaM1p5UlZVQnRIeTdDN3d1M25GbGt2NldlVkVFNWp5SHpYcWlSSDcwUGtDMmVUN3lRak5CZ9IBywJBVV95cUxOQjJWNTFoNThKS0N4cVY5OHhEN3h5V0NCSGZjQVV0Tm16dzMwUGVxcFRWWGRTTkRybElCUC1QSDdFOWpOUWZ4SEo5ejZMV0ppXzczWk41RU5GVm1TRDlKTF8tdjlVS2hIRFc2UlRFYmJWVXUtb3lWLXZVOVhlZnZQZzZsa3E4V19hU1ZzaDZRdEFkZXo4MWRKZkNmVXZ6ZjVkQXJobElPc2Nic3cwa1ZsQTFCZmtPMGpSUmJ4YlNGM3lfQTgzcFBiM093LVlKYm8zbW4zcUpRZndWTnZZNnZ3STJ2em5GTkJiMzhIWEtKc2hZZmpCeFR6RnN4RXpaVTVZcTItOWpjb0E4Mzd4NGxhOFcxa2JqQUtJZ2FQcWw2NWx5U0RPMkdMQXZmNzVQWUh1dlE5dDRhcjhLMUtiekwySWdEZ2JRQ2NXZkZz?oc=5"
-    }
-   ],
-   "semplice": "Dà alla Regione Lombardia più competenze (autonomia differenziata)."
-  },
-  {
-   "id": "55737",
-   "numero": "C.3161",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Attribuzione alla regione Liguria di ulteriori forme e condizioni particolari di autonomia, ai sensi dell'articolo 116, terzo comma, della Costituzione",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-10-28",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Ministro affari regionali e le autonomie Calderoli ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "1ª Commissione (Affari costituzionali)",
-   "temi": [
-    "Autonomia amministrativa patrimoniale e contabile",
-    "Regione liguria",
-    "Regioni"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55737",
-   "prima": null,
-   "proponenti_monitorati": [
-    "roberto-calderoli"
-   ],
-   "notizie": [
-    {
-     "titolo": "Autonomia differenziata accelera: la Camera stabilisce il 20 gennaio per Veneto, Lombardia, Liguria e Piemonte",
-     "fonte": "La Piazza Web",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, l’ufficio studi della Camera mette in dubbio le intese",
-     "fonte": "il manifesto",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG1VTlFEMzZCdFFPa2N5TVhmYVRzbE5jMndwYjJFcmZQTnNjUjVHektyZVdpNDI3TEF1dDdrMjRocWNVRXBJUGpIRlBzVEF3RGNXTTBxT3FvaXZmVkpxWUhudjc4TFBJQ3ZtZTRYaDVXa3ljdERWQ0tVeFFMUFg1NkczOEpTSFVVY2p5S2Y2UQ?oc=5"
-    },
-    {
-     "titolo": "Autonomia differenziata, via libera della Camera: per la Liguria fissata la scadenza del 21 gennaio 2027",
-     "fonte": "La Voce di Genova",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWXdPejFPcjQxY01Ua0Rvb1Fic3Fkdks4N0pGQ21sUS11OF94R01ndENTMzZMMGE3VDhpT0xLbFN6VVktVVlYVzdCSC13Y3pYS0JDREVPd1o2SWZpOTdjd1ktbTE5SjF0QXlGLXdZQ1Nfb1U2Yk5ITGZzQ3l6T1RkY3M2ak1GMThTYzZ0TUtDdTVwZ0x1QzNSY2Q4dmpQYTJ3SzdYS3dCU3NDa0Q5ME1VcmNuWG1fMEVfN0pNcUxlSVExMnVmc3BoUlB0cW1iU3pqX2FiZENoZHFheVhIV0dFN2o2dlE5UXA0anRRdHgxOExyQzdYN2dlZHU2aHRFUnZnTWNubEl4R3rSAYgCQVVfeXFMTVl3T3oxT3I0MWNNVGtEb29RYnNxZHZLODdKRkNtbFEtdThfeEdNZ3RDUzM2TDBhN1Q4aU9MS2xTelVZLVVZWFc3Qkgtd2N6WEtCQ0RFT3daNklmaTk3Y3dZLW0xOUoxdEF5Ri13WUNTX29VNmJOSExmc0N5ek9UZGNzNmpNRjE4U2M2dE1LQ3U1cGdMdUMzUmNkOHZqUGEyd0s3WEt3QlNzQ2tEOTBNVXJjblhtXzBFXzdKTXFMZUlRMTJ1ZnNwaFJQdHFtYlN6al9hYmRDaGRxYXlYSFdHRTdqNnZROVFwNGp0UXR4MThMckM3WDdnZWR1Nmh0RVJ2Z01jbmxJeEd6?oc=5"
-    },
-    {
-     "titolo": "Intese sull'autonomia entro gennaio, via libera dalla Camera",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEROU0d0R3p2UHRXak5VMnZCN1NDX2ZmWWlJWWZJNi1oSmt5SUYxTXFjZDVzc1VFazBfT19leWNXbk9Ka3hiZGFENVNkZUl1RkVzOURzbDRqT0RiX2N5OTl1WWxXVmhQRnNOQVFZLUpXLXJsM3VHR2NqRlBIOTh6Z1ZWbjBZMmpjNmQ4Yw?oc=5"
-    },
-    {
-     "titolo": "Autonomia: ok Camera a conclusione esame intese con Regioni entro 28 gennaio 2027",
-     "fonte": "Il Sole 24 ORE",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lU0Uwa2dqaVZBMEdGZnk5amtyV3hIOXA0bHhrZ1R5NWJWSVFYQ21jRm5SX2x2WEpTdjd2Rzk2U1h2UkhxdnhiamZTYXJINUFILUpEN0ZwdWpKc3loY0hPSnRweDF3bmRfUGJueg?oc=5"
-    },
-    {
-     "titolo": "Autonomia del Veneto, nuovo via libera alla Camera: fissata la scadenza del 20 gennaio 2027",
-     "fonte": "Il Gazzettino",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTF9PTUlSRzN3RjdUTTdLUjdFdWhiTk93NGtKcWVkaEhtaFNabGwzR0lCSTV6V3NfOEJKVmFlOGpmUFpQZUFOWDBfSzBkalVvOHVfOHUzb3JMUjhVTklwQ3hiUXM1eUl4ZF83aFg5QTdPalB1cVg1d3Y3Nnl3UTFyRFozVU1aRld0Nkc3T2JrZklhS2hCTUpXTGpla3BZaVpwTFRaM3hpclYzR1NpNEZCdFlDQzcwTnpIRHNTNktkRWR5cGRvTXNUMjdwY9IBxgFBVV95cUxPM1ZlSkRzZDVva3lzN1pLRWRhRURmTmVLZ0h2dWJ5UjNHR0dSTFhmNnFoaDUzYnh6aDJhUG51NGRTMFB3b1JpMWh2TG1UM3Uzc0NwQk9HWlJBc2JKNndrMkh0YUtmRGVjY2QtWFYwLUFaWXQ4MUZPRm1CN2NpQVc1eExDOFEyLUtLdVpSdzN5WGlBQUFtRjN2b043VzRrcjNVN01mMHptSGU4YTVYdEtaWkZjNWFsT3J0VEpwRW9YMHdveG80LVE?oc=5"
-    }
-   ],
-   "semplice": "Dà alla Regione Liguria più competenze (autonomia differenziata)."
-  },
-  {
-   "id": "55736",
-   "numero": "C.3160",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Concessione di un'agevolazione contributiva in favore dei datori di lavoro che erogano mensilità aggiuntive ai lavoratori per ogni figlio nato o adottato, nonché modifica all'articolo 18 della legge 22 maggio 2017, n. 81, in materia di esecuzione del rapporto di lavoro in modalità agile da parte delle lavoratrici e dei lavoratori con figli fino a dodici anni di età o disabili",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Concessione di un'agevolazione contributiva in favore dei datori di lavoro che erogano mensilità aggiuntive ai lavoratori per ogni figlio nato o adottato, nonché modifica all'articolo 18 della legge 22 maggio 2017, n. 81, in materia di esecuzione del rapporto di lavoro in modalità agile da parte delle lavoratrici e dei lavoratori con figli fino a dodici anni di età o disabili",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "ritirato",
-   "stato": "ritirata da chi l'ha presentata",
-   "data_stato": "2026-10-22",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Dep. Caretta Maria Cristina, Dep. Ciaburro Monica",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": null,
-   "temi": [
-    "Adozione",
-    "Agevolazioni fiscali",
-    "Datori di lavoro",
-    "Figli"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55736",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "notizie": [],
-   "semplice": "Concede uno sconto sui contributi a favore dei datori di lavoro che erogano mensilità in più nello stipendio ai lavoratori per ogni figlio nato o adottato, e cambia le regole su…"
-  },
-  {
-   "id": "55733",
-   "numero": "C.3159",
-   "ramo": "Camera",
-   "passaggio": 1,
-   "titolo": "Conversione in legge del decreto-legge 22 ottobre 2026, n. 190, recante disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
-   "natura": "di conversione di decreto-legge",
-   "conversione": true,
-   "stato_ufficiale": "all'esame assemblea",
-   "stato": "in discussione in Aula",
-   "data_stato": "2026-11-03",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Gov. Meloni-I: Pres. Consiglio Meloni, Ministro interno Piantedosi ed altri",
-   "tipo_iniziativa": "governo",
-   "commissione": "2ª Commissione (Giustizia)",
-   "temi": [
-    "Criminalità minorile",
-    "Reati contro l'ordine e la sicurezza pubblica"
-   ],
-   "decreto_del": "2026-10-22",
-   "scadenza": "2026-12-21",
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55733",
-   "prima": null,
-   "proponenti_monitorati": [
-    "giorgia-meloni",
-    "matteo-piantedosi"
-   ],
-   "notizie": [],
-   "semplice": "Rende definitivo il decreto del Governo del 22 ottobre 2026, già in vigore: misure urgenti su sicurezza pubblica e contrasto alla criminalità minorile."
-  },
-  {
-   "id": "55730",
-   "numero": "S.2068",
-   "ramo": "Senato",
-   "passaggio": 1,
-   "titolo": "Delega al Governo per la protezione del processo elettorale a livello locale, regionale e nazionale nonché per l'elezione dei membri del Parlamento europeo spettanti all'Italia",
-   "titolo_breve": null,
-   "nome_breve": null,
-   "oggetto": "Delega al Governo per la protezione del processo elettorale a livello locale, regionale e nazionale nonché per l'elezione dei membri del Parlamento europeo spettanti all'Italia",
-   "natura": "ordinaria",
-   "conversione": false,
-   "stato_ufficiale": "assegnato (no esame)",
-   "stato": "assegnata a una commissione, esame non ancora iniziato",
-   "data_stato": "2026-11-04",
-   "presentato": "2026-10-22",
-   "trasmesso": false,
-   "iniziativa": "Sen. Craxi Stefania Gabriella Anastasia ed altri",
-   "tipo_iniziativa": "parlamentari",
-   "commissione": "1ª Commissione (Affari Costituzionali)",
-   "temi": [
-    "Altri aspetti delle elezioni",
-    "Elezioni",
-    "Elezioni amministrative",
-    "Elezioni europee"
-   ],
-   "decreto_del": null,
-   "scadenza": null,
-   "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55730",
-   "prima": null,
-   "proponenti_monitorati": [],
-   "notizie": [],
-   "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la protezione del processo elettorale a livello locale, regionale e nazionale e per l'elezione dei membri del Parlamento europeo spettanti all'Italia."
   }
  ],
  "cdm": [
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#0",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042#0",
+   "data": "2026-11-05",
+   "titolo": "Revisione della disciplina in materia di personale della Croce Rossa Italiana ausiliario delle forze armate, ai sensi dell’articolo 2 della legge 1° aprile 2026, n. 48",
+   "tipo": "decreto legislativo – esame preliminare",
+   "testo": "Il Consiglio dei Ministri, su proposta del Presidente Giorgia Meloni, del Ministro della difesa Guido Crosetto e del Ministro della salute Orazio Schillaci, ha approvato, in esame preliminare, un decreto legislativo che, in attuazione della delega di cui all’articolo 2 della legge 1° aprile 2026, n. 48, rivede la disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie della Croce Rossa italiana, ausiliari delle Forze armate, contenuta nel Codice dell’ordinamento militare (decreto legislativo 15 marzo 2010, n. 66). […]",
+   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
+   "notizie": [
+    {
+     "titolo": "Croce Rossa, il governo approva la riforma: arriva il nome ufficiale «crocerossine»",
+     "fonte": "Lo Strillone",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVTTmF5eUZKd05Kc0dZSW9KQnFjLTNDdEN1LUp4V3FDVy1zWWFuWk5DaFZtR0pPdm9YUFFMRlhZNUcteHVLYjVETms0R294UzlhYXZaMHJpblA1dDRJVVZJcDlpV1c4Qzc4VG1mYlZGYVNOQmoweDdDUFlwSXNRSFgyTmNJZEdDT3dUemtEOEdNTlU3VnIyUjhXSkNPakdfTnJmOWp0UzZfalJKQlptNG5KdXpCSDVhM3NSS05nNzQ2Q3dFaVZyVUFaOA?oc=5"
+    },
+    {
+     "titolo": "Il CdM approva il decreto legislativo sul Corpo militare e delle infermiere volontarie della Croce Rossa",
+     "fonte": "Italpress",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0kxT0hSQmNpVG1FSUdTT2dmaE5ObTRtY0JuellJUi15MGpPQjF6cF9UM1lub2FtazI1WVJCbHFaRmZteHRsN1lDOTJjZFlva1BieUE3YmVXVHNmdmxNWVVEUFJMMUVRLTd6TDBsc0EwQjdHcmdaZi1SZWVMM1o4TVNuRVZ2d1lhdVlXTXpxdWpqRkZORGZaVThYQ21xVFQ4UTlHS3pJcWNWTWpaQmVoYTgzWFlCNkxzWDJsU1JubGVXU3Y4aGt3dUV2TQ?oc=5"
+    }
+   ],
+   "semplice": null
+  },
+  {
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042#1",
+   "data": "2026-11-05",
+   "titolo": "Misure urgenti per assicurare la continuità delle funzioni dell’Autorità Nazionale Anticorruzione (ANAC)",
+   "tipo": "decreto-legge",
+   "testo": "[…] ha approvato un decreto-legge che introduce misure urgenti per assicurare la continuità delle funzioni dell’Autorità Nazionale Anticorruzione (ANAC). Il testo dispone che il Presidente e i componenti dell’ANAC, nominati con decreti del Presidente della Repubblica 11 settembre 2020, continuino a esercitare le proprie funzioni, limitatamente agli atti di ordinaria amministrazione e a quelli indifferibili e urgenti, fino alla nomina del nuovo presidente e dei nuovi componenti dell’Autorità e comunque non oltre 45 giorni dalla data di entrata in vigore del decreto-legge.",
+   "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
+   "notizie": [],
+   "semplice": "Misure urgenti per assicurare la continuità delle funzioni dell'Autorità Nazionale Anticorruzione (ANAC)."
+  },
+  {
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#2",
    "data": "2026-10-28",
    "titolo": "Riordino e coordinamento delle disposizioni concernenti la concessione di spazi e aree pubblici di interesse culturale o paesaggistico alle imprese di pubblico esercizio per l’installazione di strutture amovibili funzionali all’attività esercitata, in attuazione dell’articolo 26 della legge 16 dicembre 2024, n. 193, recante legge annuale per il mercato e la concorrenza 2023",
    "tipo": "decreto legislativo – esame preliminare",
@@ -4524,7 +4221,7 @@
    "semplice": "Riorganizza le regole sulla concessione di spazi e aree pubblici di interesse culturale o paesaggistico alle imprese di pubblico esercizio per l'installazione di strutture amovibili funzionali…"
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#1",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#3",
    "data": "2026-10-28",
    "titolo": "Modifiche alla legge quadro per l’artigianato 8 agosto 1985, n. 443",
    "tipo": "decreto legislativo – esame preliminare",
@@ -4534,7 +4231,7 @@
    "semplice": "Cambia la legge quadro sull'artigianato."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#2",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973#4",
    "data": "2026-10-28",
    "titolo": "Bilancio di previsione dello Stato per l’anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029",
    "tipo": "disegno di legge",
@@ -4557,7 +4254,7 @@
    "semplice": "La manovra: le entrate e le spese dello Stato per il 2027 e per il triennio 2027-2029."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#3",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#5",
    "data": "2026-10-22",
    "titolo": "Disposizioni urgenti e misure di sostegno ai settori dell’autotrasporto, dell’agricoltura e della pesca",
    "tipo": "decreto-legge",
@@ -4574,7 +4271,7 @@
    "semplice": "Misure urgenti e di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#4",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#6",
    "data": "2026-10-20",
    "titolo": "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile",
    "tipo": "decreto-legge",
@@ -4584,7 +4281,7 @@
    "semplice": "Misure urgenti su sicurezza pubblica e contrasto alla criminalità minorile."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#5",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#7",
    "data": "2026-10-13",
    "titolo": "Piano straordinario per i Campi Flegrei nonché ulteriori disposizioni urgenti di protezione civile",
    "tipo": "decreto-legge",
@@ -4592,63 +4289,56 @@
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": [
     {
-     "titolo": "Caro ministro Musumeci la sua risposta sul decreto per i Campi Flegrei è irricevibile",
+     "titolo": "Un miliardo in 10 anni, contributi e delocalizzazioni: la bozza del nuovo decreto Campi Flegrei",
+     "fonte": "Cronaca Flegrea",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmdIdkFGOGYtT3ZBRFJqdE1uT1dnX1RYVUJ1UHJGTmNUa2VuMUVTVkttdlVvM3dSQ29UcGd6MXhDY3MzRWREd3JVbVR6cXJsaWRqc1VLU0lMYjY0R2VNOXZFV01obUpqVlB2VDhISWlzXzlzRWdxSDc3X1ZWazNlSVR5NFI2aFNXTjVRbm56aGRmUzdQbWZ6d01NdEdQdTNuWDZfU3VXRnVaMHgzVExYZldtVU5DeE9XTWJxZkZuOUhzZw?oc=5"
+    },
+    {
+     "titolo": "Campi Flegrei Fico annuncia | Il decreto è ormai vicino alla pubblicazione",
      "fonte": "Zazoom Social News",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME4ycnpVRXhYNGJmVi14M0lzT1A2a01ITVRUMlB2eXF1TkZJbEJEb0pVSklTVUJzakZRQVZlemNwV2t3dm9xSWZNU01vRHB5aVFveHNwMHV6UGp4dUVqMG95clZUMkVmRnFPbGdxaVBUQlpodzlZZkNCdmZMbHk1TVRSYzFaVVdIOTBIQURIRTczLXhzbGs3SjZLV1dJTmVxLU14Vm4xRmRpVG0wQVBFUWxNeEw3dw?oc=5"
+    },
+    {
+     "titolo": "Campi Flegrei Fico | Decreto in arrivo",
+     "fonte": "Zazoom Social News",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDFpTWVvT2t3R3ZNejY5eHBlOTViRnFSTE9vbm5iUGdqbWpmSnBZMFFoN3ZWY1JtWHBDODRMaW1TY2gzZ2t2Tkl6WWxJZGZYRG0yYTVJVEJ2WDRnalhNUjM0SGwxcTdENG5TM3hMV2hVX0pBVi1jd3VWbng2dmJreHF5YW9hdw?oc=5"
+    },
+    {
+     "titolo": "Campi Flegrei: il decreto mai pubblicato in Gazzetta ufficiale, protestano i sindaci",
+     "fonte": "La Settimana TV -",
+     "data": "2026-10-31",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkNmNVVlTXNEUW8xR1ZVUHg0NUp4S2FmcGhtaEdTclh0TW1xcTcxZnpuMHgyRzFhcnZNVmJ1UmxialpYd1JHc1E0OWdELU4tMU1PSU8xeDRBeEFFZmNqc1FyV1FOU2hqdHd4X1lkUFZEb0pQeERhSFBLUE1SOHdTTjMzTGtnOHlKNG43ZHF3bEF6U2txWkQzNGRWX0JOYjUzaWdKNWkzMEE5UmFMd1loX25B?oc=5"
+    },
+    {
+     "titolo": "Campi Flegrei, decreto fermo, Musumeci: \"Con altre scosse gli sfollati diventeranno 15mila\"",
+     "fonte": "Pozzuoli News 24",
      "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEVLdC1aaWcxWjdacmROUzg4RldsN2tpbExza2lTN1BGSEFIR25obzhSRXVUUTRjM2NhbVBuWm8tVXVRdXpJYXN2MGRUQUdkUzVzRUhRUFFmWV9rT3lGQ0Yxb1R6TkpoTTZqeDhzblV1Z1ZMUVlORUN3aV9ZSFNrWkJZZFA1RUlaVW03TFBBRVNzaElqZ25JMGtEcEpNMDZtdW9WQVp5ckVBQXBFclV2TU05YkR1R0YxVkNPeGhrTGJESXBTQzVJ?oc=5"
-    },
-    {
-     "titolo": "Campi Flegrei, il decreto in Gazzetta non c'è. Musumeci: \"Problema burocratico\"",
-     "fonte": "RaiNews",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbFJ1RURER2o3VE51MDg4M1NRb1JQS1NCQkFudWttel85YTllZUpOZkF1RWNPdFhkYk14OWgzMzdlTlhhbmRnQ1oxM1BnVjdjMFhUc1AyMVVNZEhkcFpXeEsyVElhUWJGXzh6MGRCQ19OaHJOdVVHQmVTR3g3WEVUdXVMQ2owc2JuNGdqNFhWMzNXN1FtV2hKWnQ3UktiNzRTVHFsd3Z1TzRKU2JjNi1fY1JoTnNvd2ZqZmgtT2ZsdTJ1TTNOcm1WMG5wU3JHbGVYa3E0Tm1zQzRtUFN3aVN1ZWVYMUFqSmhkZ001M2pwQWc0OHc1Y20zc2JuQkhSVzJtbmtwaEFiOUFaSGduUG5Id2UtMDFwN1JJRHF5ONIBogJBVV95cUxQaFpKdXQ3Q3NuV0d3RFJBaGc4U0Y2UE1FQVVsWXVPUTFLcklvdWctZ3dpcTZrTGJhSjhxWGNqeXFxaFNyV2VKVUZienVZMUw2WFJkX0Z4Njg1bWlfbEdnUmhYTGZvOTBDNm9id2pnbV9oVk1jYmZiajFRZHFpLS1IN0xidTZXZlNlZk9NcVNyRlFlVnBLNFhOU2lWN2lTNzhIMWRkajZnU09rRHpJNDZnblZWajZaSW1LVllXTEtuZUxNUS1JVXJuYnlUc1hSNkd1MkRyV08xX3o5RlBOWGhrS1FqdGlnME9UYUJpQlU5NzdndDdvMXlJM1lJZlA4ZEc0T0RRazNEUW93WV9jM1pUTXhkSEFfazh1NU9MWm1pTmhCQQ?oc=5"
-    },
-    {
-     "titolo": "Campi Flegrei, il decreto non c'è ancora. Sindaco di Bacoli: «È incredibile che il ministro dia le colpe alla burocrazia ed alla leopardiana natura matrigna»",
-     "fonte": "Corriere Del Mezzogiorno",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQdzBnYVhBSWtWQmhYaExKcXIyM2lNV0doVG00RG56YkRCZXVYQ3ZRMjE3aWtnS3JBekszeHdGN3czLTdwaWhJaUZFZzFMMEcxeFVtOXJXSy15YXdaSkJmeHY4clZZOGZyeDZRbnFaQXByYjJJeGpwdVZTa3NBOWlMU3dYbUtuUHd2SElMc3htOEZaSGRFbllUT0hsczY1M2Z4VzhfTzU4OEtiM0xfUkRWcjJlZTlZQXRhMC04aTNMZi12UkxLTzVFRUwtWl9sZFp3VjZhTFc4WVR1NEdYX1pBa2h0TnY2OGtfeDRVNGV2WTlPVVp5Q3MwVnVFckdHVjZ4S0FvYWV1Sm0yMXJaVXR5VVdaTno5czdtT0lsUl9XNy1nd0UyQjRjdHlFODFlQjVBd3RVVW5sSXFnMjFTMzlaTk1zRVJpUUnSAcwCQVVfeXFMT1JqWDJaYWxVT0F1TUtWVXF4eExMc0hLWWNJSnR3RVhma1p2UFlRRUhHbjNLRUVfZTZ1YzVfM0VhVlVaM2JEUXJ1TUxKTjkzRElhZnJSZDFHLTVJOWN2N2oxODg3ZGZuN1U1UE1jbzZJUG1NVUR2UlBrUXlUQ3Y5NENYbHJMNzVidk5vTjF6b2RjazM0Q2VidjRfWjNFc0tDeFZHYW9EN0hNTnZndjJmcDU1UFRyczgwNHExajdIVDY2Y0NhVjd6VGZ5QjhTdkZGWlZVMjdSWTB5RmhGUS04Z2pZbV9yS1N4SFYxSUFvYVVhSDVjYWs2cWdZbTBRY3ZGaDBxaGFmNGpscDJHZUZsQVFfWVFMZGtDbDF6Q3VvVjRpdEtpY0FvSUNLQ2RtTnhxdEJCQlp0LUEzTnViRUUxaWh0WnNBS1Bzak1JYzA?oc=5"
-    },
-    {
-     "titolo": "Campi Flegrei il giallo del decreto | Mai pubblicato che aspettano?",
-     "fonte": "Zazoom Social News",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmhuQTRJX1pwdklOeGhfVXJ0ZTZmaGtob3BHTHpQc1lvdDhnSmFDYjhNT2RZSl9nWHIyb0dXYWd0Um5YaDk0bWdqbVVkaUQzSG93VDdvQjE4SzBGanZXR1BkRzNQc3FOYkk4VzFFeTdKTGJ3RGZLSWI4c0kyVENJcndlM3dHREFnakFtRThDYy1LcTJibDdvalVucGZZNHBWcUp6dUt0alR5Rk0?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3Q3ZU03ajZZb0hpNDFMWDJvamN1LVJGel85Q1luSXdPMHc5UThqaHMzTXZYaW03Z1ZXNnVHaHo5TFI0RTZVLTVoX1RVMzdZNlVZRHFSSXN4bFpGZlp5WDcyVWdtT3NubGk3WF8wdjNPUDQ2WFA4cTFnbFFDbExORTlqN1k3Y1p6RlpTRVN0bDJTdE9UZXc?oc=5"
     }
    ],
    "semplice": null
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#6",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#8",
    "data": "2026-10-13",
    "titolo": "Nuovo codice della strada",
    "tipo": "decreto legislativo – esame preliminare",
    "testo": "Il Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti Matteo Salvini, ha approvato, in esame preliminare, un decreto legislativo che, in attuazione della delega di cui all’articolo 35 della legge 25 novembre 2024, n. 177, introduce il nuovo Codice della strada, destinato a sostituire quello vigente (decreto legislativo 30 aprile 1992, n. 285). […]",
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
-   "notizie": [
-    {
-     "titolo": "Targhe personalizzate, via libera del governo nel nuovo Codice della strada: costo di 600€ per le auto e 360€ per le moto",
-     "fonte": "Il Giornale d'Italia",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRUU3azdJX0ktZHRiZkNlR2dUYm1VaWxGdnlaMzN1clBzY19HdGFUTGRZSDBTS1drNzcxVWxDMDlWNDFZSFVyY1QtM2dvN2Zra3N5Y2tSczdKaS10TmJHZUpiOGFHRUlGcEJYb1RPbF9LUUlUOVJWenJvekZqWi1PZTJfOXpDUFhCeGdXcmE0cFhrZU5KcTBRSThZVGtmc2pwMTFJYnRGcExOTmhFNm50MDQzcHZPVU9MWC1KNVRxZV85cmJLR1VIOUhIc1psNG1NcHJtYVVfb1lINzJMLUtDamliTDdmS011QmxGaGZjTFptWlhiVUZoc0RiZ1MzNkRzY0xyNFFR?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Riscrive il codice della strada."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#7",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#9",
    "data": "2026-10-13",
    "titolo": "Misure urgenti a sostegno dei lavoratori dell’ex ILVA, dell’indotto e per il rilancio industriale del territorio",
    "tipo": "decreto-legge",
    "testo": "[…] ha approvato un decreto-legge che introduce misure urgenti a sostegno dei lavoratori dell’ex ILVA e dell’indotto, per la salvaguardia della funzionalità degli impianti dell’area a caldo e per il rilancio industriale del territorio. […]",
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836",
    "notizie": [
-    {
-     "titolo": "Ex Ilva, indotto senza soldi e cassa. Cantoro (Cisl): «Sono 230 le aziende che rischiano di saltare, il Governo si muova»",
-     "fonte": "La Gazzetta del Mezzogiorno",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UdIBigJBVV95cUxPV3BCVlJPQVZkSkNNOXI3ZmJxX3NKY1dldktVOGhpdDhJUHBaZW9MQlFOcXZkd09pRjREcV9yaVpzR1hUNXNKam9OYnl3ZnM0STFjTm53YWFBdGdVNXdsU0xsMnVBb2tGZVlXaVRuemd4NngyYWpfMTd5M2xKaUJ3QnB4bmRZenBjeWl5VDF3WVEta1M1MXNyalp2N0Z6M2hQNXJLZC1OYVpZaWdrQll5bHRHUnVfQldET1F6eUR5cmJlYVJKNV9WZWthbzlxSnFTdVlXRTM0ODRUbnBRa0JsOVFIcnZLRXdOcWV3OUx1UHlGTkdQM2ZlOGw5dXNMUGJ6MFYxMVlROEg4UQ?oc=5"
-    },
     {
      "titolo": "Ex Ilva, Piana al Senato: \"Garanzie per i lavoratori e un piano ordini per Cornigliano, Novi Ligure e Racconigi\"",
      "fonte": "La Voce di Genova",
@@ -4660,18 +4350,12 @@
      "fonte": "Corriere di Taranto",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, Decaro chiede al Governo garanzie per 20mila lavoratori: «Stop ai licenziamenti anche nell'indotto",
-     "fonte": "Buonasera24",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3Vsdkd3RFhDY016M2h6UTdGZlJTVUNoVXVoRl8xSWFSYlo3SE5VeVR3emllNVZPRzdoUHE4RVZPMEI0emJUamcxMlcyUmZwUG1QZUoyRkdZNk5XOEl4U2p2OWk5cVRxc1FtdlVHTUdkeW00Z1Q3STBsZXk4M3g3Uk5DVUJLcFdvVHBZdllKc0FXQnpXelZXcWMwVlFKQ0JCeVNJRU80VVZKMDJENHNmaGx2TThPTWFRUHJvLXJuaEJ0eWdEYlZXVWlod0ZhU2VoTF9kb0M2QzZKMXNlNUhhbG4wc3JFWDAzYzBPVg?oc=5"
     }
    ],
    "semplice": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA, dell'indotto e per il rilancio industriale del territorio."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#8",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#10",
    "data": "2026-10-13",
    "titolo": "Interventi di coordinamento e correttivi di disposizioni emanate in attuazione della delega fiscale",
    "tipo": "decreto legislativo – esame preliminare",
@@ -4688,7 +4372,7 @@
    "semplice": "Corregge regole già in vigore: disposizioni emanate in attuazione della delega fiscale."
   },
   {
-   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#9",
+   "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#11",
    "data": "2026-10-13",
    "titolo": "Disposizioni concernenti l’adeguamento dello Statuto speciale della Regione Friuli-Venezia Giulia",
    "tipo": "disegno di legge costituzionale – esame preliminare",
@@ -4699,13 +4383,13 @@
   }
  ],
  "conteggi": {
-  "aula": 13,
+  "aula": 12,
   "decreti": 8,
   "approvate": 10,
   "approvate_definitive": 6,
-  "commissione": 45,
-  "nuove": 28,
-  "nuove_governo": 8,
-  "cdm": 10
+  "commissione": 47,
+  "nuove": 21,
+  "nuove_governo": 3,
+  "cdm": 12
  }
 }

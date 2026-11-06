@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1976-08-07",
@@ -506,9 +506,9 @@
      "mese": "2026-11",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 0,
-     "assenti": 17,
-     "totale": 17
+     "presenti": 54,
+     "assenti": 82,
+     "totale": 136
     }
    ],
    "voti_finali": [
@@ -2396,6 +2396,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+E-S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 2,
+      "Contrario": 1
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
+    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3222,7 +3246,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -3245,7 +3269,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -5974,30 +5998,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=531_1&tipo=dettaglio"
     },
     {
-     "id": "vs19_527_012",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-10",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell'istruzione, della scienza, della tecnologia e dell'informazione, fatto a Roma il 4 febbraio 2020 (DDL 1451)",
-     "atto": "C.1451",
-     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell’istruzione, della scienza, della tecnologia e dell’informazione, fatto a Roma il 4 febbraio 2020",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 2,
-      "Non ha votato": 1
-     },
-     "esito": {
-      "favorevoli": 281,
-      "contrari": 2,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_12&tipo=dettaglio"
-    },
-    {
      "id": "vs19_527_039",
      "camera": "Camera",
      "legislatura": 19,
@@ -6020,6 +6020,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_39&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_527_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-10",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell'istruzione, della scienza, della tecnologia e dell'informazione, fatto a Roma il 4 febbraio 2020 (DDL 1451)",
+     "atto": "C.1451",
+     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo del Regno del Bahrein sulla cooperazione nei settori della cultura, dell’istruzione, della scienza, della tecnologia e dell’informazione, fatto a Roma il 4 febbraio 2020",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 2,
+      "Non ha votato": 1
+     },
+     "esito": {
+      "favorevoli": 281,
+      "contrari": 2,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_12&tipo=dettaglio"
     },
     {
      "id": "vs19_527_028",
@@ -9077,30 +9101,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=335_63&tipo=dettaglio"
     },
     {
-     "id": "vs19_333_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-07-25",
-     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
-     "atto": "C.39",
-     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 1,
-      "Favorevole": 2
-     },
-     "esito": {
-      "favorevoli": 240,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
-    },
-    {
      "id": "vs19_333_021",
      "camera": "Camera",
      "legislatura": 19,
@@ -9125,6 +9125,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_21&tipo=dettaglio"
     },
     {
+     "id": "vs19_333_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 1,
+      "Favorevole": 2
+     },
+     "esito": {
+      "favorevoli": 240,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
      "id": "vs19_332_004",
      "camera": "Camera",
      "legislatura": 19,
@@ -9146,6 +9170,29 @@
       "astenuti": 7
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=332_4&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_332_023",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-24",
+     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2024 (DDL 1952)",
+     "atto": "C.1952",
+     "titolo": "Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2024",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M-+EUR",
+     "linea_gruppo": null,
+     "conteggi_gruppo": {
+      "Non ha votato": 3
+     },
+     "esito": {
+      "favorevoli": 168,
+      "contrari": 85,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=332_23&tipo=dettaglio"
     },
     {
      "id": "vs19_332_012",
@@ -9194,29 +9241,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=332_1&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_332_023",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-07-24",
-     "descrizione": "Disposizioni per l'assestamento del bilancio dello Stato per l'anno finanziario 2024 (DDL 1952)",
-     "atto": "C.1952",
-     "titolo": "Disposizioni per l’assestamento del bilancio dello Stato per l’anno finanziario 2024",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M-+EUR",
-     "linea_gruppo": null,
-     "conteggi_gruppo": {
-      "Non ha votato": 3
-     },
-     "esito": {
-      "favorevoli": 168,
-      "contrari": 85,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=332_23&tipo=dettaglio"
     },
     {
      "id": "vs19_329_001",
@@ -13922,9 +13946,9 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8981,
-    "totale": 22158,
-    "percentuale": 40.5
+    "presenti": 9035,
+    "totale": 22277,
+    "percentuale": 40.6
    },
    "fedelta_gruppo": {
     "allineati": 190,
@@ -13932,7 +13956,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -13985,7 +14009,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Riccardo_Magi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Magi_daticamera_2018.jpg",
@@ -14001,7 +14025,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 40,5% delle votazioni del periodo (8.981 su 22.158); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 40,6% delle votazioni del periodo (9.035 su 22.277); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 190 volte su 190 (100,0%).",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

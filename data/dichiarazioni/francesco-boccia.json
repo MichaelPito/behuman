@@ -7,17 +7,17 @@
   "sigla": "PD"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-05",
- "al": "2026-11-05",
+ "dal": "2021-11-06",
+ "al": "2026-11-06",
  "riepilogo": {
-  "totale": 92,
+  "totale": 93,
   "camera": 2,
   "parole_camera": 1339,
   "governo": 0,
-  "senato": 84,
+  "senato": 85,
   "verificate": 6,
   "prima": "2021-12-15",
-  "ultima": "2026-10-15",
+  "ultima": "2026-11-04",
   "per_anno": [
    {
     "anno": "2021",
@@ -58,7 +58,7 @@
     "anno": "2026",
     "camera": 0,
     "governo": 0,
-    "senato": 26,
+    "senato": 27,
     "verificate": 0
    }
   ],
@@ -122,7 +122,7 @@
    ]
   }
  },
- "recap": "Dal 15 dicembre 2021 al 15 ottobre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 84 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sanità (1), energia e carburanti (1), unione europea (1). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
+ "recap": "Dal 15 dicembre 2021 al 4 novembre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 85 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sanità (1), energia e carburanti (1), unione europea (1). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 2,
@@ -1495,6 +1495,19 @@
    ],
    "interventi": 1,
    "id": "2026-10-15:467"
+  },
+  {
+   "data": "2026-11-04",
+   "seduta": 472,
+   "ddl": [
+    {
+     "fase": "S.2035",
+     "titolo": "Disposizioni in materia di cinema",
+     "url": "https://dati.senato.it/ddl/60453.html"
+    }
+   ],
+   "interventi": 1,
+   "id": "2026-11-04:472"
   }
  ]
 }

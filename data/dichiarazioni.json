@@ -272,15 +272,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 145,
-    "camera": 145,
+    "totale": 143,
+    "camera": 143,
     "senato": 0,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-11-05",
+    "prima": "2022-06-17",
     "ultima": "2026-09-09"
    },
-   "recap": "Dal 5 novembre 2021 al 9 settembre 2026: 145 interventi nell'Aula della Camera (47.453 parole). Gli argomenti che tornano più spesso nei suoi interventi: energia e carburanti (74), ambiente e clima (47), unione europea (14). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
+   "recap": "Dal 17 giugno 2022 al 9 settembre 2026: 143 interventi nell'Aula della Camera (46.317 parole). Gli argomenti che tornano più spesso nei suoi interventi: energia e carburanti (73), ambiente e clima (46), unione europea (13). In Aula alla Camera l'occasione più frequente è «Question time» (107 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -352,15 +352,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 140,
+    "totale": 141,
     "camera": 86,
     "senato": 0,
     "governo": 0,
-    "verificate": 54,
+    "verificate": 55,
     "prima": "2021-12-09",
     "ultima": "2026-11-03"
    },
-   "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 54 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
+   "recap": "Dal 9 dicembre 2021 al 3 novembre 2026: 86 interventi nell'Aula della Camera (66.565 parole), 55 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: esteri e difesa (42), unione europea (33), sanità (28). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (44 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -539,15 +539,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 92,
+    "totale": 93,
     "camera": 2,
-    "senato": 84,
+    "senato": 85,
     "governo": 0,
     "verificate": 6,
     "prima": "2021-12-15",
-    "ultima": "2026-10-15"
+    "ultima": "2026-11-04"
    },
-   "recap": "Dal 15 dicembre 2021 al 15 ottobre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 84 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sanità (1), energia e carburanti (1), unione europea (1). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
+   "recap": "Dal 15 dicembre 2021 al 4 novembre 2026: 2 interventi nell'Aula della Camera (1.339 parole), 85 interventi nell'Aula del Senato, 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: sanità (1), energia e carburanti (1), unione europea (1). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (1 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 2,
@@ -639,6 +639,27 @@
   }
  ],
  "discusse": [
+  {
+   "slug": "giuseppe-conte",
+   "nome": "Giuseppe Conte",
+   "partito": {
+    "slug": "m5s",
+    "nome": "Movimento 5 Stelle",
+    "sigla": "M5S"
+   },
+   "schieramento": "opposizione",
+   "data": "2026-11-03",
+   "data_verifica": "2026-11-05",
+   "frase": "Ho vietato, durante il mio governo, l’export di armi all’Arabia Saudita e agli Emirati Arabi",
+   "url": "https://pagellapolitica.it/fact-checking/ho-vietato-durante-il-mio-governo-lexport-di-armi-allarabia-saudita-e-agli-emirati-arabi",
+   "fonte_originale": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#:~:text=%C3%A8%20per%20questa%20ragione%20che%20ho%20vietato%2C%20durante%20il%20mio%20Governo%2C%20l%27export%20di%20armi%20all%27Arabia%20Saudita%20e%20agli%20Emirati%20Arabi%2C%20perch%C3%A9%20si%20commettevano%2C%20con%20quelle%20armi%2C%20dei%20crimini%20di%20guerra%20e%20contro%20l%27umanit%C3%A0%20nello%20Yemen",
+   "fonte_tipo": "Camera",
+   "giudizio": null,
+   "testo_ufficiale": {
+    "estratto": "Signor Presidente, onorevoli colleghi, questa proposta di legge vieta le importazioni di beni e servizi dagli insediamenti israeliani illegali che sono nei territori occupati palestinesi. Vedete, è più di una semplice proposta di legge, perché, con questo voto, quest'Aula deciderà l'Italia che vogliamo. È un bivio, siamo di fronte a un bivio. […]",
+    "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#sed0737.stenografico.tit00120.int00060"
+   }
+  },
   {
    "slug": "giuseppe-conte",
    "nome": "Giuseppe Conte",
@@ -4179,23 +4200,6 @@
    "fonte_originale": "https://www.youtube.com/watch?v=3NBU4h9MzJA&feature=youtu.be&t=343",
    "fonte_tipo": "Video",
    "giudizio": "I numeri danno ragione alla presidente del Consiglio."
-  },
-  {
-   "slug": "elly-schlein",
-   "nome": "Elly Schlein",
-   "partito": {
-    "slug": "pd",
-    "nome": "Partito Democratico",
-    "sigla": "PD"
-   },
-   "schieramento": "opposizione",
-   "data": "2023-06-06",
-   "data_verifica": "2023-06-07",
-   "frase": "I dati sull’occupazione femminile nelle regioni del Sud del nostro Paese sono i peggiori d’Europa",
-   "url": "https://pagellapolitica.it/fact-checking/regioni-sud-occupazione-femminile-europa",
-   "fonte_originale": "https://www.raiplay.it/video/2023/05/cartabianca---Puntata-del-06062023-4267795e-95fc-4b0c-b5dd-d7ce2f4fc480.html",
-   "fonte_tipo": "TV",
-   "giudizio": "La dichiarazione della segretaria del Partito Democratico è corretta."
   }
  ],
  "recenti": [
@@ -4246,9 +4250,9 @@
     },
     {
      "titolo": "Meloni “Torna la carta ‘dedicata a te’, un aiuto ai più fragili”",
-     "fonte": "ilQuaderno",
+     "fonte": "Economy Magazine",
      "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUM2SGRXU3hVQUNOTGZ6TWNUVkFfTGpQV0xwdnVWR0g3eno5ZHY0UUliNC1IaXE3VGhOcmIxQW1TRTFHUklqM3hpMFJKQkJxMlE4TmhSaHNzOHFRUHNnYnlJdm5ldkFrLWNOTEludEtoVHdFaDVYNnpqeVM0ajAxa2dmQ1dDR0RlTDN2OWhZRVdqT0twTzdlNjNsZ05uZw?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnhIUk4wbTduZjkwRkhKLTJQZldYRFM2WHlMckxJUUUtbnR4ZkRPcEMweHdTUXBERVI0RzlfdjZuSVIwY0s3dnFVVmk4SkpzeXFXOUlyamxjQXV6cC1vVjM2MlB2UTczN21kYjA1TkNZODhiOXFhYy1IWXNsWXZqSTVPXzctazZRUUpqeUdkbU50ZExoSFE?oc=5"
     }
    ]
   },
@@ -4293,12 +4297,6 @@
      "fonte": "La Discussione",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84NDBJWkJfa2dnWlpJeGJ2QnlZNjN1Q3d6VGtESEdBSGFCY2V2cEFaYWJ2YWQ0T1NFdzVwbklZbmxURXJRYXBsc2tHMDJ3YmdPUlJ0UjRqUjE3MkRWeTM0cXpyYjhnbVRzWEZ3LWZUX1FQZU84c3ZtTlZCNkU?oc=5"
-    },
-    {
-     "titolo": "Meloni ai giovani: \"Nessuno deve lasciare la propria terra per vedere riconosciuto il proprio valore\"",
-     "fonte": "Secolo d'Italia",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXczNVNrZnhlNDJ6OUgxRmdtT0k4dHJ1cy15aUJxekN4bDRVbmFvd1V3N3NzbXJySkFBbjU5SzF4d0cwYW5KWTlyQW9VMmZzcFE4OWZOVGFQZEUwdnlnUUJHZElsVmRTVU5TYXctYV9Qcnp4REx2UVRfM1JGZlUyU2RzcE1SaXRSRzg1RG5yLXNDeDBzZ3NoSjFZUEVGaDZlNGRhUENFbVFtRE5kdnh5OGY5SHh3djFiVzBUMkFfVkViRGo2RllSQkNRdkNYdnhrU1E?oc=5"
     }
    ]
   },
@@ -4405,12 +4403,6 @@
      "fonte": "Milano Finanza",
      "data": "2026-10-28",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQanQzM1lYWC1wazVaeGxIZU5YRWJmRk8yQXBPVWFIY29zb2ZxQW14QUNwTDdwd01KQkRGamFzcjFvSG5wdTduTklhTEtSS3pRRDRiNGdYNi1pZWdPVjgweHNqekNiMjNhb0RPU0RKeXR2WWN3d0s0UWxIUS1femhodC10a3FIa2ZBemlFNWpQbERFX0ZlQjdsV01TZFVkejYyamJLTlotTnl5RldHVXpqam5YbjZMUjJnMnBmNFFLaHhzajdybXRhVmlGU0lrVVZSdWx2Nm9SMVplZw?oc=5"
-    },
-    {
-     "titolo": "Ddl di Bilancio approvato in CdM: Meloni illustra le misure 2027",
-     "fonte": "PMI.it",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YVDlLM3JoYlVmUmpUWWx1amMtRkhROWt0QzFLbE5SdG9OX0MzOHJjV1BoX25oUDhJQ202NmpQTm52SnVLTENlWTM4T1V4a29MQTlMR3dfeF9KanFJU0tFOUlWU253enlTa3dZMUhzUTBpQk1fMHJtQ1g4ZWRUdG8?oc=5"
     }
    ]
   },
@@ -4427,15 +4419,7 @@
    "data": "2026-10-28",
    "testo": "Buongiorno a tutti, grazie dell'invito, grazie dell'accoglienza. […] Allora è un lavoro di sistema che abbiamo fatto e che dobbiamo fare insieme, che il Governo fa dal suo canto per fare in modo che poi il mondo produttivo possa attraversare quel varco, ma il mondo produttivo deve avere gli strumenti che gli consentono di essere forte mentre attraversa quel varco.",
    "contesto": "Il Presidente Meloni interviene all’Assemblea di Confartigianato",
-   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960",
-   "notizie": [
-    {
-     "titolo": "Meloni all’Assemblea di Confartigianato annuncia la riforma della legge quadro dell’artigianato",
-     "fonte": "Confartigianato Ancona - Pesaro Urbino",
-     "data": "2026-10-29",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXI5aVFBcWlYM0ZzUTNjbEo3T0dwZE1PWUdMeF9kbUlhUXB2TzhodlhIZE43Z3M5bVUtX2t6LWs3aTNmcWNpUEVLaHU2UTNPY3NtNHFWQkJTelhjTTlwc2hzVWQzUS12MlYwVjVJZUpzbmx4NTZHT1ZiYmpIWnJ0R0RDZm1kdm1EYkJLOUhYZXkxNW5YVkV0bExkekg5cGh2QldXYmprT2V1WF9MbGJVWHgyZDBUYVR0N2R3ZzdVdDV5UEFGQXhNWA?oc=5"
-    }
-   ]
+   "url": "https://www.governo.it/it/articolo/il-presidente-meloni-interviene-all-assemblea-di-confartigianato/32960"
   },
   {
    "slug": "angelo-bonelli",
@@ -4528,22 +4512,10 @@
    "url": "https://www.governo.it/it/articolo/festival-delle-regioni-e-delle-province-autonome-il-videomessaggio-del-presidente-meloni",
    "notizie": [
     {
-     "titolo": "Meloni: \"Costituzione valorizza le autonomie. Governo impegnato a garantirle\"",
-     "fonte": "Teleborsa",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVVrdTJ2NUVITy1OMy1mbWdaZ1pJekRhMlZ0RGxUTUlJeHM3NTVHVzBfOVhNNy0xWktDUzUtTDNfSXRJVmt3WmFEMXYtZmdPMkpKVzFjLW5nWnd5ZGg3RGN3WHF3dzdXQ3Z5enZUUktNWXpvY1JoWnM1U1BEZDVMSi1hLWV6RURhX1FKYjNleGlhOEUxWlNfMmZkenBfeXRPUVBjOGV2UDNNQXhGNlpmSE8zdzhTSHY4ZTVNdEZLUjU?oc=5"
-    },
-    {
      "titolo": "L'intervento di Meloni al Festival delle Regioni: «L'Italia è prima in Ue per avanzamento finanziario del Pnrr e per obiettivi raggiunti",
      "fonte": "Corriere della Sera",
      "data": "2026-10-27",
      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQTWxPenVZa1dVN0RHU3ZCYUw4aTU0aFNnTFNIWHp2bW9yVDlLMTFva2Y2Yl9HOFVXWjRCZFRGUm9yelRCcEQwaDgzZGdHR3d4SHRXaTBGRlJsVG5GY1dnMFpPbVA5bEdfUzVnWVAwUmV6MmU0aGZDeHA3cXBvRHRaa01hcW5pOXRUYkVyUEJ0S3NhV0xpODQ3clkzTzNBR0g4LVhnNmU1dU1YWlNVdDdwdnNNZmNPWTRBQ2JJbU9xYVd4QXVXdEMxWFpYUEcyVFNBMFphSlZubUpBR0FIMmdIdzk3S2RPcldlZlppSmpCMlEyTnFyVV9yOVdkTnNWZTdLX3BVdzdNTUFWR0dKSkZZb1RGdkVvTGlndEsyMGpjdEptYnBZZWhWc05JeEhnZUk?oc=5"
-    },
-    {
-     "titolo": "Governo, Meloni ribadisce l'impegno sulle autonomie e sulla cooperazione con le Regioni",
-     "fonte": "Traders Union",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVo0a0R4clZreUROLWQ5TjM2bU5rQ1lzd2JvT0tvY0gwaVl3NFhESGFvUkY0bGVfU043YzJRdUVsNmR3d2xBclB1VEVvM2lFN0hYVWFqMXNoQ3BTWm80aTRtYmdzM09OcDdZbDhrRi1LVDVHbXNwZVY5Wk16ZkxRWE1UcXJtdVp5WlM3dDBrRU5CVHA0dTBVRG1IUV8xZw?oc=5"
     }
    ]
   },
@@ -4600,12 +4572,6 @@
    "contesto": "Assemblea Pubblica 2026 di Federchimica, il messaggio del Presidente Meloni",
    "url": "https://www.governo.it/it/articolo/messaggio-del-presidente-meloni-occasione-della-assemblea-pubblica-2026-di-federchimica",
    "notizie": [
-    {
-     "titolo": "GOVERNO, MELONI ALL’ASSEMBLEA DI FEDERCHIMICA: “L’EUROPA NON PUÒ RISPONDERE ALLE SFIDE DELL’INDUSTRIA AGGIUNGENDO COSTI. CI BATTEREMO PER LA REVISIONE DEL SISTEMA ETS”",
-     "fonte": "FRV News Magazine",
-     "data": "2026-10-26",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTEpIbS0tMFZSaTVCWFJXZmt2VGtZT3lVT0pVcGIxbkJxaEt4VEM5MWZtZTFPSUViTFl6WnNObE1vX242N2xKUWxqMFlVVDFyaVhyRndzOGhwMk5Ma3ZiSFEzeVZsa1NGWHpzMi1vUHdiY2xWTFNlY1FfRUdKSHhaektVM1pyaTFja21ITnVTdDNNQVBMOERUaUFUWWZFTVdONXpmc0U5RWE3THRSMmU2cEZyVFpKaFlMYnNrZ3NtRkFzVU1Zd3FoT29uc1JlcHhvMzhLUnRqMnJwX0lNU2tqRUlFTFE1b3hYWjhTdENPZ3pLb1lqbnZqbHlBdm5iOVFnY2dFR0lyempadS1sQ0w0S2lOaXd1YnRYMWgw?oc=5"
-    },
     {
      "titolo": "Meloni a Federchimica: \"Green Deal e sistema ETS da rivedere per salvare l'industria\"",
      "fonte": "https://www.primanotizia24.it/",

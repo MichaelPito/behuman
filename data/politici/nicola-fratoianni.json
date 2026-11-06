@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -515,9 +515,9 @@
      "mese": "2026-11",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 15,
-     "assenti": 2,
-     "totale": 17
+     "presenti": 74,
+     "assenti": 62,
+     "totale": 136
     }
    ],
    "voti_finali": [
@@ -2439,6 +2439,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "AVS",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 3,
+      "Contrario": 7
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
+    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3281,7 +3305,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -3305,7 +3329,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -14103,8 +14127,8 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 12163,
-    "totale": 22158,
+    "presenti": 12222,
+    "totale": 22277,
     "percentuale": 54.9
    },
    "fedelta_gruppo": {
@@ -14133,7 +14157,7 @@
      "vs18_592_017"
     ]
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14251,7 +14275,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",
@@ -14268,7 +14292,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.163 su 22.158); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.222 su 22.277); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 248 volte su 267 (92,9%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."

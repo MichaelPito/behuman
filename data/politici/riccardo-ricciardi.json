@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -507,8 +507,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 14,
-     "assenti": 3,
-     "totale": 17
+     "assenti": 122,
+     "totale": 136
     }
    ],
    "voti_finali": [
@@ -2418,6 +2418,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Contrario": 35
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
+    {
      "id": "vs19_735_017",
      "camera": "Camera",
      "legislatura": 19,
@@ -3262,7 +3286,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -3286,7 +3310,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -3402,30 +3426,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=676_46&tipo=dettaglio"
     },
     {
-     "id": "vs19_672_061",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-06-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
-     "atto": "C.2911",
-     "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 32,
-      "Non ha votato": 16
-     },
-     "esito": {
-      "favorevoli": 165,
-      "contrari": 106,
-      "astenuti": 5
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=672_61&tipo=dettaglio"
-    },
-    {
      "id": "vs19_672_060",
      "camera": "Camera",
      "legislatura": 19,
@@ -3448,6 +3448,30 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=672_60&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_672_061",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-06-10",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 aprile 2026, n. 62, nel testo della Commissione comprensivo dell'errata corrige, sul quale il Governo ha posto la questione di fiducia",
+     "atto": "C.2911",
+     "titolo": "Conversione in legge del decreto-legge 30 aprile 2026, n. 62, recante disposizioni urgenti in materia di salario giusto, di incentivi all’occupazione e di contrasto del caporalato digitale",
+     "fiducia": true,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 32,
+      "Non ha votato": 16
+     },
+     "esito": {
+      "favorevoli": 165,
+      "contrari": 106,
+      "astenuti": 5
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=672_61&tipo=dettaglio"
     },
     {
      "id": "vs19_669_004",
@@ -14114,8 +14138,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8328,
-    "totale": 22158,
-    "percentuale": 37.6
+    "totale": 22277,
+    "percentuale": 37.4
    },
    "fedelta_gruppo": {
     "allineati": 206,
@@ -14123,7 +14147,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 565
+   "voti_finali_e_fiducia": 566
   }
  },
  "posizioni": [
@@ -14232,7 +14256,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14248,7 +14272,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,6% delle votazioni del periodo (8.328 su 22.158); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 37,4% delle votazioni del periodo (8.328 su 22.277); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."

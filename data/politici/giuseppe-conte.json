@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-05",
-  "al": "2026-11-05"
+  "dal": "2021-11-06",
+  "al": "2026-11-06"
  },
  "anagrafica": {
   "nascita": "1964-08-08",
@@ -435,11 +435,35 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 13,
-     "assenti": 4,
-     "totale": 17
+     "assenti": 123,
+     "totale": 136
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_738_071",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-04",
+     "descrizione": "DDL 3148 - VOTO FINALE",
+     "atto": "C.3148",
+     "titolo": "S. 2029. - \"Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157, recante disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Contrario": 35
+     },
+     "esito": {
+      "favorevoli": 137,
+      "contrari": 97,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=738_71&tipo=dettaglio"
+    },
     {
      "id": "vs19_735_017",
      "camera": "Camera",
@@ -1285,7 +1309,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-07",
-     "descrizione": "DDL 2735 - VOTO FINALE",
+     "descrizione": "Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario (Approvato dal Senato) (DDL 2735)",
      "atto": "C.2735",
      "titolo": "S. 1518. - \"Revisione delle modalità di accesso, valutazione e reclutamento del personale ricercatore e docente universitario\" (approvato dal Senato)",
      "fiducia": false,
@@ -1309,7 +1333,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2026-07-01",
-     "descrizione": "PDL 2696-A - VOTO FINALE",
+     "descrizione": "Misure per la protezione e l'assistenza dei minorenni e degli adulti di riferimento nei contesti di criminalità organizzata («Liberi di scegliere») (PDL 2696)",
      "atto": "C.2696",
      "titolo": "COLOSIMO ed altri: \"Disposizioni per la protezione e l’assistenza dei minorenni e degli adulti di riferimento appartenenti a famiglie inserite in contesti di criminalità organizzata",
      "fiducia": false,
@@ -2146,54 +2170,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_10&tipo=dettaglio"
     },
     {
-     "id": "vs19_634_020",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
-     "atto": "C.2591",
-     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Non ha votato": 14,
-      "Favorevole": 35
-     },
-     "esito": {
-      "favorevoli": 265,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_634_033",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-25",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025 (DDL 2778)",
-     "atto": "C.2778",
-     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Non ha votato": 14,
-      "Astensione": 35
-     },
-     "esito": {
-      "favorevoli": 152,
-      "contrari": 1,
-      "astenuti": 105
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
-    },
-    {
      "id": "vs19_634_026",
      "camera": "Camera",
      "legislatura": 19,
@@ -2240,6 +2216,54 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_15&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014 (Approvato dal Senato) (DDL 2591)",
+     "atto": "C.2591",
+     "titolo": "S. 1448. - \"Adesione al Protocollo emendativo della Convenzione relativa alle infrazioni e taluni altri atti commessi a bordo di aeromobili, fatto a Montréal il 4 aprile 2014\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 14,
+      "Favorevole": 35
+     },
+     "esito": {
+      "favorevoli": 265,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_634_033",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-25",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025 (DDL 2778)",
+     "atto": "C.2778",
+     "titolo": "Ratifica ed esecuzione dell’Accordo tra il Governo della Repubblica italiana e il Governo degli Emirati Arabi Uniti di cooperazione nel settore della difesa, fatto a Roma il 24 febbraio 2025",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Non ha votato": 14,
+      "Astensione": 35
+     },
+     "esito": {
+      "favorevoli": 152,
+      "contrari": 1,
+      "astenuti": 105
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=634_33&tipo=dettaglio"
     },
     {
      "id": "vs19_630_002",
@@ -12129,8 +12153,8 @@
   "Camera": {
    "presenza": {
     "presenti": 3283,
-    "totale": 20275,
-    "percentuale": 16.2
+    "totale": 20394,
+    "percentuale": 16.1
    },
    "fedelta_gruppo": {
     "allineati": 73,
@@ -12138,7 +12162,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 486
+   "voti_finali_e_fiducia": 487
   }
  },
  "posizioni": [
@@ -12177,7 +12201,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-05",
+ "aggiornato_il": "2026-11-06",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg/500px-Giuseppe_Conte%2C_2018.06.29_%2806%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giuseppe_Conte,_2018.06.29_(06)_(cropped).jpg",
@@ -12193,7 +12217,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,2% delle votazioni del periodo (3.283 su 20.275); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 16,1% delle votazioni del periodo (3.283 su 20.394); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 73 volte su 73 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

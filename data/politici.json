@@ -23,7 +23,7 @@
    "Camera": {
     "presenza": {
      "presenti": 430,
-     "totale": 22158,
+     "totale": 22277,
      "percentuale": 1.9
     },
     "fedelta_gruppo": {
@@ -32,14 +32,14 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 0,
-    "totale": 4170,
+    "totale": 4289,
     "percentuale": 0.0
    }
   },
@@ -125,7 +125,7 @@
    "Camera": {
     "presenza": {
      "presenti": 375,
-     "totale": 20275,
+     "totale": 20394,
      "percentuale": 1.8
     },
     "fedelta_gruppo": {
@@ -134,14 +134,14 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 77,
-    "totale": 4170,
+    "totale": 4289,
     "percentuale": 1.8
    }
   },
@@ -176,7 +176,7 @@
    "Camera": {
     "presenza": {
      "presenti": 147,
-     "totale": 22158,
+     "totale": 22277,
      "percentuale": 0.7
     },
     "fedelta_gruppo": {
@@ -185,14 +185,14 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 7,
-    "totale": 4170,
+    "totale": 4289,
     "percentuale": 0.2
    }
   },
@@ -286,7 +286,7 @@
    "Camera": {
     "presenza": {
      "presenti": 524,
-     "totale": 20275,
+     "totale": 20394,
      "percentuale": 2.6
     },
     "fedelta_gruppo": {
@@ -295,15 +295,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 170,
-    "totale": 4170,
-    "percentuale": 4.1
+    "totale": 4289,
+    "percentuale": 4.0
    }
   },
   "coerenza": {
@@ -388,7 +388,7 @@
    "Camera": {
     "presenza": {
      "presenti": 467,
-     "totale": 22158,
+     "totale": 22277,
      "percentuale": 2.1
     },
     "fedelta_gruppo": {
@@ -397,14 +397,14 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 14,
-    "totale": 4170,
+    "totale": 4289,
     "percentuale": 0.3
    }
   },
@@ -491,7 +491,7 @@
    "Camera": {
     "presenza": {
      "presenti": 631,
-     "totale": 20275,
+     "totale": 20394,
      "percentuale": 3.1
     },
     "fedelta_gruppo": {
@@ -500,15 +500,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 235,
-    "totale": 4170,
-    "percentuale": 5.6
+    "totale": 4289,
+    "percentuale": 5.5
    }
   },
   "coerenza": {
@@ -543,8 +543,8 @@
    "Camera": {
     "presenza": {
      "presenti": 3703,
-     "totale": 22158,
-     "percentuale": 16.7
+     "totale": 22277,
+     "percentuale": 16.6
     },
     "fedelta_gruppo": {
      "allineati": 139,
@@ -552,15 +552,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 530,
-    "totale": 4170,
-    "percentuale": 12.7
+    "totale": 4289,
+    "percentuale": 12.4
    }
   },
   "coerenza": {
@@ -595,8 +595,8 @@
    "Camera": {
     "presenza": {
      "presenti": 3670,
-     "totale": 20275,
-     "percentuale": 18.1
+     "totale": 20394,
+     "percentuale": 18.0
     },
     "fedelta_gruppo": {
      "allineati": 118,
@@ -604,15 +604,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 258,
-    "totale": 4170,
-    "percentuale": 6.2
+    "totale": 4289,
+    "percentuale": 6.0
    }
   },
   "coerenza": {
@@ -646,8 +646,8 @@
    "Camera": {
     "presenza": {
      "presenti": 3283,
-     "totale": 20275,
-     "percentuale": 16.2
+     "totale": 20394,
+     "percentuale": 16.1
     },
     "fedelta_gruppo": {
      "allineati": 73,
@@ -655,15 +655,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 293,
-    "totale": 4170,
-    "percentuale": 7.0
+    "totale": 4289,
+    "percentuale": 6.8
    }
   },
   "coerenza": {
@@ -697,8 +697,8 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 12163,
-     "totale": 22158,
+     "presenti": 12222,
+     "totale": 22277,
      "percentuale": 54.9
     },
     "fedelta_gruppo": {
@@ -727,15 +727,15 @@
       "vs18_592_017"
      ]
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
-    "presenti": 1449,
-    "totale": 4170,
-    "percentuale": 34.7
+    "presenti": 1508,
+    "totale": 4289,
+    "percentuale": 35.2
    }
   },
   "coerenza": {
@@ -769,25 +769,25 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 12995,
-     "totale": 20274,
+     "presenti": 13065,
+     "totale": 20393,
      "percentuale": 64.1
     },
     "fedelta_gruppo": {
-     "allineati": 296,
+     "allineati": 297,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
-    "presenti": 2029,
-    "totale": 4170,
-    "percentuale": 48.7
+    "presenti": 2099,
+    "totale": 4289,
+    "percentuale": 48.9
    }
   },
   "coerenza": {
@@ -929,9 +929,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 8981,
-     "totale": 22158,
-     "percentuale": 40.5
+     "presenti": 9035,
+     "totale": 22277,
+     "percentuale": 40.6
     },
     "fedelta_gruppo": {
      "allineati": 190,
@@ -939,15 +939,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
-    "presenti": 1367,
-    "totale": 4170,
-    "percentuale": 32.8
+    "presenti": 1421,
+    "totale": 4289,
+    "percentuale": 33.1
    }
   },
   "coerenza": {
@@ -981,9 +981,9 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 11469,
-     "totale": 22157,
-     "percentuale": 51.8
+     "presenti": 11516,
+     "totale": 22276,
+     "percentuale": 51.7
     },
     "fedelta_gruppo": {
      "allineati": 385,
@@ -991,14 +991,14 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
-    "presenti": 1655,
-    "totale": 4170,
+    "presenti": 1702,
+    "totale": 4289,
     "percentuale": 39.7
    }
   },
@@ -1100,8 +1100,8 @@
    "Camera": {
     "presenza": {
      "presenti": 7863,
-     "totale": 22157,
-     "percentuale": 35.5
+     "totale": 22276,
+     "percentuale": 35.3
     },
     "fedelta_gruppo": {
      "allineati": 159,
@@ -1111,15 +1111,15 @@
       "vs19_197_061"
      ]
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 86,
-    "totale": 4170,
-    "percentuale": 2.1
+    "totale": 4289,
+    "percentuale": 2.0
    }
   },
   "coerenza": {
@@ -1153,25 +1153,25 @@
   "indicatori": {
    "Camera": {
     "presenza": {
-     "presenti": 9107,
-     "totale": 20275,
-     "percentuale": 44.9
+     "presenti": 9225,
+     "totale": 20394,
+     "percentuale": 45.2
     },
     "fedelta_gruppo": {
-     "allineati": 184,
+     "allineati": 185,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 486
+    "voti_finali_e_fiducia": 487
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
-    "presenti": 2967,
-    "totale": 4170,
-    "percentuale": 71.2
+    "presenti": 3085,
+    "totale": 4289,
+    "percentuale": 71.9
    }
   },
   "coerenza": {
@@ -1206,8 +1206,8 @@
    "Camera": {
     "presenza": {
      "presenti": 8328,
-     "totale": 22158,
-     "percentuale": 37.6
+     "totale": 22277,
+     "percentuale": 37.4
     },
     "fedelta_gruppo": {
      "allineati": 206,
@@ -1215,15 +1215,15 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 565
+    "voti_finali_e_fiducia": 566
    }
   },
   "presenza_anno": {
    "Camera": {
     "anno": 2026,
     "presenti": 238,
-    "totale": 4170,
-    "percentuale": 5.7
+    "totale": 4289,
+    "percentuale": 5.5
    }
   },
   "coerenza": {
