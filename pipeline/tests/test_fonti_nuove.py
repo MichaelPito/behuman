@@ -533,3 +533,18 @@ def test_parole_tema_cambi():
     assert parole_tema("autonomia-differenziata-legge-calderoli") == ["autonomia", "differenziata", "calderoli"]
     assert chiave("m5s", "ucraina-cessione-armi", "2022-03-17") == "m5s:ucraina-cessione-armi:2022-03-17"
 
+
+def test_nomi_partiti():
+    import re
+    from memoria.sezioni.notizie_partiti import NOMI
+    lega = re.compile(NOMI["lega"][1])
+    assert lega.search("La Lega chiede la sfiducia di Romeo")
+    assert not lega.search("Lega Serie A, il calendario della prossima giornata")
+    azione = re.compile(NOMI["azione"][1])
+    assert azione.search("Voto Usa, Rosato (Azione): «Trump sconfitto»")
+    assert azione.search("Gli under 30 di Azione riuniscono il campo largo")
+    assert not azione.search("Azione legale contro il Comune")
+    piu = re.compile(NOMI["piu-europa"][1])
+    assert piu.search("Manovra, Magi (+Europa): da respingere")
+    assert not piu.search("Più Europa e Btp: come ruotare il portafoglio")
+
