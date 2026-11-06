@@ -5,6 +5,7 @@ import Coerenza from "../../components/Coerenza.astro";
 import Icon from "../../components/Icon.astro";
 import PosizioneRiga from "../../components/PosizioneRiga.astro";
 import ScalaPosizione from "../../components/ScalaPosizione.astro";
+import StorieGiornali from "../../components/StorieGiornali.astro";
 import { dataIt, ETICHETTA_ORIENTAMENTO, notiziePartito, ordinaPerData, partiti, partito, politici, proposizioniIndice, annoDi } from "../../lib/data";
 import { u } from "../../lib/url";
 
@@ -63,25 +64,7 @@ const giornali = notiziePartito(p.slug);
         Ultimi {giornali.conteggi.giorni} giorni: {giornali.conteggi.articoli} titoli che nominano {p.nome}, in {giornali.conteggi.storie} {giornali.conteggi.storie === 1 ? "storia" : "storie"}{giornali.conteggi.polemiche > 0 && `, di cui ${giornali.conteggi.polemiche} con parole di polemica`}.
         Prima le storie riprese da più testate. È un segnale di quanto se ne parla, non una valutazione.
       </p>
-      <ul class="storie">
-        {giornali.storie.map((s) => (
-          <li class="card storia" data-anno={annoDi(s.data)}>
-            <div class="row" style="gap:6px">
-              <span class="tiny mono muted">{dataIt(s.data)}</span>
-              {s.n_testate > 1 && <span class="pill sky">{s.n_testate} testate</span>}
-              {s.polemica && <span class="pill plum">polemica</span>}
-            </div>
-            <a href={s.url} target="_blank" rel="noopener">{s.titolo}</a>
-            <span class="tiny muted">{s.fonte}</span>
-            {s.articoli.length > 1 && (
-              <details>
-                <summary class="tiny">Gli altri titoli sulla stessa storia ({s.articoli.length - 1})</summary>
-                <ul class="altri">{s.articoli.filter((a) => a.url !== s.url).map((a) => <li class="small"><a href={a.url} target="_blank" rel="noopener">{a.titolo}</a> <span class="tiny muted">{`${a.fonte ?? ""} · ${dataIt(a.data)}`}</span></li>)}</ul>
-              </details>
-            )}
-          </li>
-        ))}
-      </ul>
+      <StorieGiornali storie={giornali.storie} />
     </section>
   )}
 
@@ -147,9 +130,4 @@ const giornali = notiziePartito(p.slug);
   @media (max-width: 860px) { .breve { grid-template-columns: 1fr; } }
   .sintesi { margin: 0; padding-left: 20px; display: grid; gap: 10px; }
   .sintesi li::marker { color: var(--accent); }
-  .storie { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); }
-  .storia { display: grid; gap: 6px; padding: 14px; min-width: 0; align-content: start; }
-  .storia > a { font-weight: 600; }
-  .storia summary { cursor: pointer; color: var(--accent-ink); font-weight: 600; }
-  .altri { margin: 6px 0 0; padding-left: 16px; display: grid; gap: 4px; }
 </style>

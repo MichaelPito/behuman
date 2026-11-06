@@ -548,3 +548,14 @@ def test_nomi_partiti():
     assert piu.search("Manovra, Magi (+Europa): da respingere")
     assert not piu.search("Più Europa e Btp: come ruotare il portafoglio")
 
+
+def test_parole_temi():
+    import re
+    from memoria.sezioni.notizie_temi import CERCA
+    def tiene(pid, titolo):
+        return all(re.search(e, titolo) for e in CERCA[pid][1])
+    assert tiene("ucraina-cessione-armi", "Crosetto: «Pronto il 13° pacchetto di aiuti militari all'Ucraina»")
+    assert not tiene("ucraina-cessione-armi", "Ucraina, nuovi colloqui di pace a Ginevra")
+    assert tiene("separazione-carriere", "Separazione delle carriere, Forza Italia rilancia la riforma")
+    assert tiene("autonomia-differenziata-legge-calderoli", "Autonomia, blitz di Calderoli. Una commissione per i Lep")
+

@@ -244,3 +244,8 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - Esclusi i comunicati dei partiti stessi, le fonti ufficiali, i social e gli articoli ripubblicati.
   Risultato e archivio in `data/notizie-partiti.json`.
 
+## 3-duodecies. Cosa scrivono i giornali sui temi
+- Ogni giorno, per ogni proposizione: titoli di Google News degli ultimi giorni che contengono le parole del tema
+  (elenco in `pipeline/memoria/sezioni/notizie_temi.py`); stesse regole dei partiti (storie, testate, polemica,
+  14 giorni, esclusioni). Risultato in `data/notizie-temi.json`.
+
