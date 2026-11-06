@@ -236,3 +236,11 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
 - Se la posizione è un voto, il sito aggiunge i titoli sul voto (`data/notizie-voti.json`); le votazioni dei
   temi si cercano per prime.
 
+## 3-undecies. Cosa scrivono i giornali sui partiti
+- Ogni giorno, per ogni partito: titoli di Google News degli ultimi giorni che nominano il partito per nome o
+  sigla, con le maiuscole e con esclusioni per gli omonimi («Lega Serie A», «azione legale»); restano 14 giorni.
+- Titoli raggruppati per storia (parole in comune, entro 3 giorni), con il numero di testate diverse e il segno
+  «polemica» (parole di `config/osservatorio.yaml`); prima le storie più riprese, fino a 12.
+- Esclusi i comunicati dei partiti stessi, le fonti ufficiali, i social e gli articoli ripubblicati.
+  Risultato e archivio in `data/notizie-partiti.json`.
+

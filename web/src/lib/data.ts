@@ -226,6 +226,13 @@ export function notizieCambio(soggetto: string, p: Posizione): TitoloNotizia[] {
   return [...propri, ...sulVoto].filter((n) => !visti.has(n.url) && (visti.add(n.url), true)).slice(0, 6);
 }
 
+// Cosa scrivono i giornali sui partiti (data/notizie-partiti.json, memoria/sezioni/notizie_partiti.py).
+export type StoriaPartito = TitoloNotizia & { n_testate: number; polemica: boolean; articoli: TitoloNotizia[] };
+export type NotiziePartito = { storie: StoriaPartito[]; conteggi: { articoli: number; storie: number; polemiche: number; giorni: number } };
+let _notiziePartiti: Record<string, NotiziePartito> | null = null;
+export const notiziePartito = (slug: string): NotiziePartito | null =>
+  (_notiziePartiti ??= leggi<Record<string, NotiziePartito>>("notizie-partiti.json", {}))[slug] ?? null;
+
 // Ultimo voto finale (non di fiducia) registrato nelle schede: serve per l'emiciclo della home.
 export function ultimoVotoFinale(camera = "Camera"): (VotoFinale & { esito?: { favorevoli: number; contrari: number; astenuti: number } }) | null {
   let migliore: any = null;
