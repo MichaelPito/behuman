@@ -10,14 +10,14 @@
  "dal": "2021-11-06",
  "al": "2026-11-06",
  "riepilogo": {
-  "totale": 442,
-  "camera": 428,
-  "parole_camera": 228923,
+  "totale": 445,
+  "camera": 431,
+  "parole_camera": 230338,
   "governo": 0,
   "senato": 0,
   "verificate": 14,
   "prima": "2022-07-28",
-  "ultima": "2026-11-04",
+  "ultima": "2026-11-06",
   "per_anno": [
    {
     "anno": "2022",
@@ -49,7 +49,7 @@
    },
    {
     "anno": "2026",
-    "camera": 68,
+    "camera": 71,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -58,7 +58,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 170
+    "n": 171
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -70,7 +70,7 @@
    },
    {
     "categoria": "Interpellanze e interrogazioni",
-    "n": 47
+    "n": 49
    },
    {
     "categoria": "Informative e comunicazioni del Governo",
@@ -160,7 +160,7 @@
    },
    {
     "tema": "Esteri e difesa",
-    "n": 96
+    "n": 97
    },
    {
     "tema": "Unione europea",
@@ -168,11 +168,11 @@
    },
    {
     "tema": "Famiglia e natalità",
-    "n": 61
+    "n": 62
    },
    {
     "tema": "Giustizia",
-    "n": 50
+    "n": 52
    },
    {
     "tema": "Casa e infrastrutture",
@@ -180,7 +180,7 @@
    },
    {
     "tema": "Sicurezza e criminalità",
-    "n": 35
+    "n": 36
    },
    {
     "tema": "Lavoro, salari e pensioni",
@@ -271,16 +271,16 @@
     },
     {
      "tema": "Esteri e difesa",
-     "n": 23
+     "n": 24
     },
     {
-     "tema": "Unione europea",
-     "n": 12
+     "tema": "Giustizia",
+     "n": 14
     }
    ]
   }
  },
- "recap": "Dal 28 luglio 2022 al 4 novembre 2026: 428 interventi nell'Aula della Camera (228.923 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (108), esteri e difesa (96). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (170 interventi).",
+ "recap": "Dal 28 luglio 2022 al 6 novembre 2026: 431 interventi nell'Aula della Camera (230.338 parole), 14 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: ambiente e clima (112), energia e carburanti (108), esteri e difesa (97). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (171 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -7469,6 +7469,56 @@
    ],
    "parole": 1428,
    "url": "https://www.camera.it/leg19/410?idSeduta=0738&tipo=stenografico#sed0738.stenografico.tit00070.sub00010.int00100"
+  },
+  {
+   "data": "2026-11-06",
+   "leg": 19,
+   "seduta": 740,
+   "argomento": "Svolgimento di interpellanze urgenti (ore 9,36) .",
+   "fase": "Chiarimenti e iniziative di competenza in ordine alle procedure consolari attivate da Flavio, Eduardo e Carlos Bolsonaro presso l'Ambasciata d'Italia a Brasilia - n. 2-00971",
+   "categoria": "Interpellanze e interrogazioni",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Rappresentante del Governo, è noto ormai ed è pubblica notizia che Flavio, Eduardo e Carlos Bolsonaro, figli dell'ex Presidente della Repubblica federativa brasiliana, Jair Bolsonaro, hanno ottenuto la cittadinanza e il passaporto italiano.",
+   "temi": [
+    "Giustizia",
+    "Sicurezza e criminalità",
+    "Famiglia e natalità"
+   ],
+   "parole": 396,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0740&tipo=stenografico#sed0740.stenografico.tit00020.sub00050.int00020"
+  },
+  {
+   "data": "2026-11-06",
+   "leg": 19,
+   "seduta": 740,
+   "argomento": "Svolgimento di interpellanze urgenti (ore 9,36) .",
+   "fase": "Chiarimenti e iniziative di competenza in ordine alle procedure consolari attivate da Flavio, Eduardo e Carlos Bolsonaro presso l'Ambasciata d'Italia a Brasilia - n. 2-00971",
+   "categoria": "Interpellanze e interrogazioni",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Il 5 gennaio 2023 Eduardo, Flávio e Carlos Bolsonaro hanno il riconoscimento della cittadinanza, signora Sottosegretaria: 58 giorni dopo. […] Ha usato il passaporto italiano per insultare un giudice e dire… non posso usare altre parole …Dice: io mi preparo, ho il passaporto italiano, non mi potrai mai prendere: te la puoi prendere in quel posto, signor giudice, te la puoi prendere in quel posto.",
+   "temi": [
+    "Giustizia"
+   ],
+   "parole": 811,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0740&tipo=stenografico#sed0740.stenografico.tit00020.sub00050.int00060"
+  },
+  {
+   "data": "2026-11-06",
+   "leg": 19,
+   "seduta": 740,
+   "argomento": "Interventi di fine seduta.",
+   "fase": null,
+   "categoria": "Ordine dei lavori e procedura",
+   "ruolo": null,
+   "gruppo": "AVS",
+   "sunto": "Esprimiamo una profonda preoccupazione per il clima che ormai si è consolidato in quell'area, in Cisgiordania, dove aiutare le popolazioni palestinesi che lavorano nelle loro terre per la raccolta delle olive è diventato un momento di profonda, drammatica e violenta repressione nei confronti dei…",
+   "temi": [
+    "Esteri e difesa"
+   ],
+   "parole": 208,
+   "url": "https://www.camera.it/leg19/410?idSeduta=0740&tipo=stenografico#sed0740.stenografico.tit00050.int00020"
   }
  ],
  "governo": [],

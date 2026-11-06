@@ -334,8 +334,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 595,
-     "totale": 595
+     "assenti": 611,
+     "totale": 611
     },
     {
      "mese": "2024-12",
@@ -526,8 +526,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 136,
-     "totale": 136
+     "assenti": 150,
+     "totale": 150
     }
    ],
    "voti_finali": [
@@ -2432,6 +2432,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_739_014",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-05",
+     "descrizione": "DDL 3106-A - VOTO FINALE",
+     "atto": "C.3106",
+     "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 69,
+      "Non ha votato": 48
+     },
+     "esito": {
+      "favorevoli": 127,
+      "contrari": 38,
+      "astenuti": 49
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=739_14&tipo=dettaglio"
+    },
+    {
      "id": "vs19_738_071",
      "camera": "Camera",
      "legislatura": 19,
@@ -3080,30 +3104,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=703_13&tipo=dettaglio"
     },
     {
-     "id": "vs19_703_088",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-08-04",
-     "descrizione": "DDL 3005 - VOTO FINALE",
-     "atto": "C.3005",
-     "titolo": "Rendiconto generale dell’Amministrazione dello Stato per l’esercizio finanziario 2025",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 86,
-      "Non ha votato": 32
-     },
-     "esito": {
-      "favorevoli": 149,
-      "contrari": 89,
-      "astenuti": 9
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=703_88&tipo=dettaglio"
-    },
-    {
      "id": "vs19_703_080",
      "camera": "Camera",
      "legislatura": 19,
@@ -3126,6 +3126,30 @@
       "astenuti": 29
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=703_80&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_703_088",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-08-04",
+     "descrizione": "DDL 3005 - VOTO FINALE",
+     "atto": "C.3005",
+     "titolo": "Rendiconto generale dell’Amministrazione dello Stato per l’esercizio finanziario 2025",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 86,
+      "Non ha votato": 32
+     },
+     "esito": {
+      "favorevoli": 149,
+      "contrari": 89,
+      "astenuti": 9
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=703_88&tipo=dettaglio"
     },
     {
      "id": "vs19_703_079",
@@ -5120,30 +5144,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=577_100&tipo=dettaglio"
     },
     {
-     "id": "vs19_573_031",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-11-27",
-     "descrizione": "Modifica all'articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell'Anagrafe degli italiani residenti all'estero, residenti in Paesi che non appartengono all'Unione europea e non aderiscono all'Associazione europea di libero scambio (PDL 1042 e abbinate PDL 1415-1998)",
-     "atto": "C.1042",
-     "titolo": "DI GIUSEPPE ed altri: \"Modifica all’articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell’Anagrafe degli italiani residenti all’estero",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "FDI",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 58,
-      "Non ha votato": 58
-     },
-     "esito": {
-      "favorevoli": 162,
-      "contrari": 1,
-      "astenuti": 29
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_31&tipo=dettaglio"
-    },
-    {
      "id": "vs19_573_043",
      "camera": "Camera",
      "legislatura": 19,
@@ -5166,6 +5166,30 @@
       "astenuti": 62
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_43&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_573_031",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-11-27",
+     "descrizione": "Modifica all'articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell'Anagrafe degli italiani residenti all'estero, residenti in Paesi che non appartengono all'Unione europea e non aderiscono all'Associazione europea di libero scambio (PDL 1042 e abbinate PDL 1415-1998)",
+     "atto": "C.1042",
+     "titolo": "DI GIUSEPPE ed altri: \"Modifica all’articolo 19 della legge 23 dicembre 1978, n. 833, e altre disposizioni in materia di assistenza sanitaria in favore dei cittadini iscritti nell’Anagrafe degli italiani residenti all’estero",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 58,
+      "Non ha votato": 58
+     },
+     "esito": {
+      "favorevoli": 162,
+      "contrari": 1,
+      "astenuti": 29
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=573_31&tipo=dettaglio"
     },
     {
      "id": "vs19_572_211",
@@ -8487,6 +8511,78 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=377_135&tipo=dettaglio"
     },
     {
+     "id": "vs19_376_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2099 - VOTO FINALE",
+     "atto": "C.2099",
+     "titolo": "S. 1230. - \"Ratifica ed esecuzione dei seguenti atti internazionali: a) Accordo tra il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo in merito all’approntamento congiunto e/o al cofinanziamento di progetti nei Paesi destinatari della Banca europea per la ricostruzione e lo sviluppo, fatto a Monaco il 17 febbraio 2024; b) Accordo di garanzia (Progetto di ripristino emergenziale di centrali idroelettriche) tra il Governo dell’Ucraina, la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con Allegati, fatto a Monaco il 17 febbraio 2024; c) Accordo di supporto al progetto e cessione tra la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con riferimento al progetto di ripristino emergenziale delle centrali idroelettriche, con Allegati, fatto a Monaco il 17 febbraio 2024; d) Dichiarazione di adesione tra la Società per azioni “Ukrhydroenergo”, il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo concernente il progetto di ripristino emergenziale delle centrali idroelettriche, fatto a Monaco il 17 febbraio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 42,
+      "Favorevole": 75
+     },
+     "esito": {
+      "favorevoli": 266,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_6&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2030 - VOTO FINALE",
+     "atto": "C.2030",
+     "titolo": "S. 1127. - \"Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica popolare cinese per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, con Protocollo, fatto a Roma il 23 marzo 2019\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 76,
+      "Non ha votato": 41
+     },
+     "esito": {
+      "favorevoli": 260,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 1849 - VOTO FINALE",
+     "atto": "C.1849",
+     "titolo": "S. 1042. - \"Ratifica ed esecuzione dell’Accordo di sede tra la Repubblica italiana e il Tribunale unificato dei brevetti, fatto a Roma il 26 gennaio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 42,
+      "Favorevole": 75
+     },
+     "esito": {
+      "favorevoli": 268,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_12&tipo=dettaglio"
+    },
+    {
      "id": "vs19_374_024",
      "camera": "Camera",
      "legislatura": 19,
@@ -9253,6 +9349,54 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 40,
+      "Favorevole": 78
+     },
+     "esito": {
+      "favorevoli": 240,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_021",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Progetto di bilancio della Camera dei deputati per l'anno finanziario 2024 (Doc. VIII, n. 4)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "FDI",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 37,
+      "Favorevole": 81
+     },
+     "esito": {
+      "favorevoli": 243,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_21&tipo=dettaglio"
     },
     {
      "id": "vs19_333_021",
@@ -14154,7 +14298,7 @@
   "Camera": {
    "presenza": {
     "presenti": 467,
-    "totale": 22277,
+    "totale": 22307,
     "percentuale": 2.1
    },
    "fedelta_gruppo": {
@@ -14163,7 +14307,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 572
   }
  },
  "posizioni": [],
@@ -14205,7 +14349,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'agricoltura, della sovranità alimentare e delle foreste (dal 12 novembre 2022).",
-  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (467 su 22.277); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 2,1% delle votazioni del periodo (467 su 22.307); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 47 volte su 47 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

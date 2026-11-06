@@ -315,8 +315,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 332,
-     "assenti": 263,
-     "totale": 595
+     "assenti": 279,
+     "totale": 611
     },
     {
      "mese": "2024-12",
@@ -507,8 +507,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 14,
-     "assenti": 122,
-     "totale": 136
+     "assenti": 136,
+     "totale": 150
     }
    ],
    "voti_finali": [
@@ -2418,6 +2418,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_739_014",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-05",
+     "descrizione": "DDL 3106-A - VOTO FINALE",
+     "atto": "C.3106",
+     "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 20,
+      "Contrario": 28
+     },
+     "esito": {
+      "favorevoli": 127,
+      "contrari": 38,
+      "astenuti": 49
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=739_14&tipo=dettaglio"
+    },
+    {
      "id": "vs19_738_071",
      "camera": "Camera",
      "legislatura": 19,
@@ -3184,6 +3208,30 @@
       "astenuti": 3
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=702_53&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_700_001",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-07-29",
+     "descrizione": "DDL 2961 - VOTO FINALE",
+     "atto": "C.2961",
+     "titolo": "S. 1635. - \"Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Contrario": 36,
+      "Non ha votato": 12
+     },
+     "esito": {
+      "favorevoli": 153,
+      "contrari": 42,
+      "astenuti": 82
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=700_1&tipo=dettaglio"
     },
     {
      "id": "vs19_700_001",
@@ -4051,30 +4099,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=638_43&tipo=dettaglio"
     },
     {
-     "id": "vs19_637_027",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2026-03-31",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 20 febbraio 2026, n. 21, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia (DDL 2809)",
-     "atto": "C.2809",
-     "titolo": "Conversione in legge del decreto-legge 20 febbraio 2026, n. 21, recante misure urgenti per la riduzione del costo dell’energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitività delle imprese e per la decarbonizzazione delle industrie, nonché disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 11,
-      "Contrario": 38
-     },
-     "esito": {
-      "favorevoli": 203,
-      "contrari": 117,
-      "astenuti": 3
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_27&tipo=dettaglio"
-    },
-    {
      "id": "vs19_637_026",
      "camera": "Camera",
      "legislatura": 19,
@@ -4097,6 +4121,30 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_26&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_637_027",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-03-31",
+     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 20 febbraio 2026, n. 21, nel testo della Commissione, sul quale il Governo ha posto la questione di fiducia (DDL 2809)",
+     "atto": "C.2809",
+     "titolo": "Conversione in legge del decreto-legge 20 febbraio 2026, n. 21, recante misure urgenti per la riduzione del costo dell’energia elettrica e del gas in favore delle famiglie e delle imprese, per la competitività delle imprese e per la decarbonizzazione delle industrie, nonché disposizioni urgenti in materia di risoluzione della saturazione virtuale delle reti elettriche e di integrazione dei centri di elaborazione dati nel sistema elettrico",
+     "fiducia": true,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 11,
+      "Contrario": 38
+     },
+     "esito": {
+      "favorevoli": 203,
+      "contrari": 117,
+      "astenuti": 3
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=637_27&tipo=dettaglio"
     },
     {
      "id": "vs19_634_005",
@@ -6310,30 +6358,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=523_19&tipo=dettaglio"
     },
     {
-     "id": "vs19_521_019",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-07-31",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2025, n. 92, recante misure urgenti di sostegno ai comparti produttivi (Approvato dal Senato) (DDL 2527)",
-     "atto": "C.2527",
-     "titolo": "S. 1561. - \"Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2025, n. 92, recante misure urgenti di sostegno ai comparti produttivi\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "M5S",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Non ha votato": 15,
-      "Contrario": 34
-     },
-     "esito": {
-      "favorevoli": 139,
-      "contrari": 85,
-      "astenuti": 5
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=521_19&tipo=dettaglio"
-    },
-    {
      "id": "vs19_521_020",
      "camera": "Camera",
      "legislatura": 19,
@@ -6356,6 +6380,30 @@
       "astenuti": 4
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=521_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_521_019",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-07-31",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2025, n. 92, recante misure urgenti di sostegno ai comparti produttivi (Approvato dal Senato) (DDL 2527)",
+     "atto": "C.2527",
+     "titolo": "S. 1561. - \"Conversione in legge, con modificazioni, del decreto-legge 26 giugno 2025, n. 92, recante misure urgenti di sostegno ai comparti produttivi\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 15,
+      "Contrario": 34
+     },
+     "esito": {
+      "favorevoli": 139,
+      "contrari": 85,
+      "astenuti": 5
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=521_19&tipo=dettaglio"
     },
     {
      "id": "vs19_519_001",
@@ -8469,6 +8517,78 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=377_135&tipo=dettaglio"
     },
     {
+     "id": "vs19_376_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2099 - VOTO FINALE",
+     "atto": "C.2099",
+     "titolo": "S. 1230. - \"Ratifica ed esecuzione dei seguenti atti internazionali: a) Accordo tra il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo in merito all’approntamento congiunto e/o al cofinanziamento di progetti nei Paesi destinatari della Banca europea per la ricostruzione e lo sviluppo, fatto a Monaco il 17 febbraio 2024; b) Accordo di garanzia (Progetto di ripristino emergenziale di centrali idroelettriche) tra il Governo dell’Ucraina, la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con Allegati, fatto a Monaco il 17 febbraio 2024; c) Accordo di supporto al progetto e cessione tra la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con riferimento al progetto di ripristino emergenziale delle centrali idroelettriche, con Allegati, fatto a Monaco il 17 febbraio 2024; d) Dichiarazione di adesione tra la Società per azioni “Ukrhydroenergo”, il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo concernente il progetto di ripristino emergenziale delle centrali idroelettriche, fatto a Monaco il 17 febbraio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 13,
+      "Favorevole": 37
+     },
+     "esito": {
+      "favorevoli": 266,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_6&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2030 - VOTO FINALE",
+     "atto": "C.2030",
+     "titolo": "S. 1127. - \"Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica popolare cinese per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, con Protocollo, fatto a Roma il 23 marzo 2019\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 39,
+      "Non ha votato": 11
+     },
+     "esito": {
+      "favorevoli": 260,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 1849 - VOTO FINALE",
+     "atto": "C.1849",
+     "titolo": "S. 1042. - \"Ratifica ed esecuzione dell’Accordo di sede tra la Repubblica italiana e il Tribunale unificato dei brevetti, fatto a Roma il 26 gennaio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 10,
+      "Favorevole": 40
+     },
+     "esito": {
+      "favorevoli": 268,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_12&tipo=dettaglio"
+    },
+    {
      "id": "vs19_374_024",
      "camera": "Camera",
      "legislatura": 19,
@@ -9118,6 +9238,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
     },
     {
+     "id": "vs19_337_098",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-31",
+     "descrizione": "Istituzione di una Commissione parlamentare di inchiesta sugli effetti economici e sociali derivanti dalla transizione demografica in atto (Doc. XXII, n. 23)",
+     "atto": "C.23",
+     "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ENRICO COSTA: \"Modifiche all’articolo 87 e al titolo IV della parte II della Costituzione in materia di separazione delle carriere giudicante e requirente della magistratura",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 23,
+      "Favorevole": 28
+     },
+     "esito": {
+      "favorevoli": 248,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
+    },
+    {
      "id": "vs19_336_001",
      "camera": "Camera",
      "legislatura": 19,
@@ -9236,6 +9380,54 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 23,
+      "Favorevole": 28
+     },
+     "esito": {
+      "favorevoli": 240,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_021",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Progetto di bilancio della Camera dei deputati per l'anno finanziario 2024 (Doc. VIII, n. 4)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "M5S",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 23,
+      "Favorevole": 28
+     },
+     "esito": {
+      "favorevoli": 243,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_21&tipo=dettaglio"
     },
     {
      "id": "vs19_333_021",
@@ -14138,8 +14330,8 @@
   "Camera": {
    "presenza": {
     "presenti": 8328,
-    "totale": 22277,
-    "percentuale": 37.4
+    "totale": 22307,
+    "percentuale": 37.3
    },
    "fedelta_gruppo": {
     "allineati": 206,
@@ -14147,7 +14339,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 574
   }
  },
  "posizioni": [
@@ -14272,7 +14464,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,4% delle votazioni del periodo (8.328 su 22.277); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 37,3% delle votazioni del periodo (8.328 su 22.307); la mediana dei colleghi è 72,7%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."

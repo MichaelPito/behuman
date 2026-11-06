@@ -242,9 +242,9 @@
      "mese": "2024-11",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 371,
+     "presenti": 387,
      "assenti": 223,
-     "totale": 594
+     "totale": 610
     },
     {
      "mese": "2024-12",
@@ -434,12 +434,36 @@
      "mese": "2026-11",
      "camera": "Camera",
      "legislatura": 19,
-     "presenti": 70,
-     "assenti": 66,
-     "totale": 136
+     "presenti": 81,
+     "assenti": 69,
+     "totale": 150
     }
    ],
    "voti_finali": [
+    {
+     "id": "vs19_739_014",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-05",
+     "descrizione": "DDL 3106-A - VOTO FINALE",
+     "atto": "C.3106",
+     "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Contrario",
+     "gruppo": "AVS",
+     "linea_gruppo": "Contrario",
+     "conteggi_gruppo": {
+      "Non ha votato": 3,
+      "Contrario": 7
+     },
+     "esito": {
+      "favorevoli": 127,
+      "contrari": 38,
+      "astenuti": 49
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=739_14&tipo=dettaglio"
+    },
     {
      "id": "vs19_738_071",
      "camera": "Camera",
@@ -4011,30 +4035,6 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=536_81&tipo=dettaglio"
     },
     {
-     "id": "vs19_535_065",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-09-23",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell'Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell'Ospedale pediatrico Bambino Gesù (Approvato dal Senato) (DDL 2586)",
-     "atto": "C.2586",
-     "titolo": "S. 1611. - \"Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell’Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell’Ospedale pediatrico Bambino Gesù\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "AVS",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 8,
-      "Non ha votato": 2
-     },
-     "esito": {
-      "favorevoli": 145,
-      "contrari": 31,
-      "astenuti": 45
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=535_65&tipo=dettaglio"
-    },
-    {
      "id": "vs19_535_019",
      "camera": "Camera",
      "legislatura": 19,
@@ -4057,6 +4057,30 @@
       "astenuti": 8
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=535_19&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_535_065",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-09-23",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell'Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell'Ospedale pediatrico Bambino Gesù (Approvato dal Senato) (DDL 2586)",
+     "atto": "C.2586",
+     "titolo": "S. 1611. - \"Conversione in legge, con modificazioni, del decreto-legge 1° agosto 2025, n. 110, recante misure urgenti per il commissariamento dell’Agenzia nazionale per i servizi sanitari regionali e per il finanziamento dell’Ospedale pediatrico Bambino Gesù\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "AVS",
+     "linea_gruppo": "Astensione",
+     "conteggi_gruppo": {
+      "Astensione": 8,
+      "Non ha votato": 2
+     },
+     "esito": {
+      "favorevoli": 145,
+      "contrari": 31,
+      "astenuti": 45
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=535_65&tipo=dettaglio"
     },
     {
      "id": "vs19_531_001",
@@ -6304,7 +6328,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
+     "descrizione": "PDL 1987-A - VOTO FINALE",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -6328,7 +6352,7 @@
      "camera": "Camera",
      "legislatura": 19,
      "data": "2024-11-21",
-     "descrizione": "PDL 1987-A - VOTO FINALE",
+     "descrizione": "Disposizioni di interpretazione autentica in materia urbanistica ed edilizia (PDL 1987)",
      "atto": "C.1987",
      "titolo": "MATTIA ed altri: \"Disposizioni in materia di piani particolareggiati o di lottizzazione convenzionata e di interventi di ristrutturazione edilizia connessi a interventi di rigenerazione urbana",
      "fiducia": false,
@@ -6465,6 +6489,75 @@
       "astenuti": 97
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=377_135&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2099 - VOTO FINALE",
+     "atto": "C.2099",
+     "titolo": "S. 1230. - \"Ratifica ed esecuzione dei seguenti atti internazionali: a) Accordo tra il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo in merito all’approntamento congiunto e/o al cofinanziamento di progetti nei Paesi destinatari della Banca europea per la ricostruzione e lo sviluppo, fatto a Monaco il 17 febbraio 2024; b) Accordo di garanzia (Progetto di ripristino emergenziale di centrali idroelettriche) tra il Governo dell’Ucraina, la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con Allegati, fatto a Monaco il 17 febbraio 2024; c) Accordo di supporto al progetto e cessione tra la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con riferimento al progetto di ripristino emergenziale delle centrali idroelettriche, con Allegati, fatto a Monaco il 17 febbraio 2024; d) Dichiarazione di adesione tra la Società per azioni “Ukrhydroenergo”, il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo concernente il progetto di ripristino emergenziale delle centrali idroelettriche, fatto a Monaco il 17 febbraio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 10
+     },
+     "esito": {
+      "favorevoli": 266,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_6&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2030 - VOTO FINALE",
+     "atto": "C.2030",
+     "titolo": "S. 1127. - \"Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica popolare cinese per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, con Protocollo, fatto a Roma il 23 marzo 2019\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 10
+     },
+     "esito": {
+      "favorevoli": 260,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 1849 - VOTO FINALE",
+     "atto": "C.1849",
+     "titolo": "S. 1042. - \"Ratifica ed esecuzione dell’Accordo di sede tra la Repubblica italiana e il Tribunale unificato dei brevetti, fatto a Roma il 26 gennaio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 10
+     },
+     "esito": {
+      "favorevoli": 268,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_12&tipo=dettaglio"
     },
     {
      "id": "vs19_374_024",
@@ -7234,6 +7327,54 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
     },
     {
+     "id": "vs19_333_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 2,
+      "Favorevole": 8
+     },
+     "esito": {
+      "favorevoli": 240,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_021",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Progetto di bilancio della Camera dei deputati per l'anno finanziario 2024 (Doc. VIII, n. 4)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 2,
+      "Favorevole": 8
+     },
+     "esito": {
+      "favorevoli": 243,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_21&tipo=dettaglio"
+    },
+    {
      "id": "vs19_333_021",
      "camera": "Camera",
      "legislatura": 19,
@@ -7808,6 +7949,29 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=293_9&tipo=dettaglio"
     },
     {
+     "id": "vs19_288_024",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-05-07",
+     "descrizione": "Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023 (Approvato dal Senato) (DDL 1745)",
+     "atto": "C.1745",
+     "titolo": "S. 967. - \"Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "AVS",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 10
+     },
+     "esito": {
+      "favorevoli": 234,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_24&tipo=dettaglio"
+    },
+    {
      "id": "vs19_288_019",
      "camera": "Camera",
      "legislatura": 19,
@@ -7852,29 +8016,6 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_29&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_288_024",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2024-05-07",
-     "descrizione": "Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023 (Approvato dal Senato) (DDL 1745)",
-     "atto": "C.1745",
-     "titolo": "S. 967. - \"Ratifica ed esecuzione dell'Accordo in materia di coproduzione cinematografica tra il Governo della Repubblica italiana e il Governo della Repubblica di Serbia, con Allegato, fatto a Belgrado il 21 marzo 2023\" (approvato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "AVS",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 10
-     },
-     "esito": {
-      "favorevoli": 234,
-      "contrari": 0,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=288_24&tipo=dettaglio"
     },
     {
      "id": "vs19_283_047",
@@ -12113,17 +12254,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 13065,
-    "totale": 20393,
+    "presenti": 13092,
+    "totale": 20423,
     "percentuale": 64.1
    },
    "fedelta_gruppo": {
-    "allineati": 297,
+    "allineati": 303,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 487
+   "voti_finali_e_fiducia": 493
   }
  },
  "posizioni": [
@@ -12232,8 +12373,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 64,1% delle votazioni del periodo (13.065 su 20.393); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 297 volte su 297 (100,0%).",
+  "Alla Camera ha partecipato al 64,1% delle votazioni del periodo (13.092 su 20.423); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 303 volte su 303 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

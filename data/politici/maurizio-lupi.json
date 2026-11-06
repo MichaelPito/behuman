@@ -29,12 +29,6 @@
  "cariche": [],
  "partiti_storico": [
   {
-   "partito": "Il Popolo della Libertà",
-   "wikidata": "Q47720",
-   "inizio": null,
-   "fine": null
-  },
-  {
    "partito": "Democrazia Cristiana",
    "wikidata": "Q815348",
    "inizio": null,
@@ -43,6 +37,12 @@
   {
    "partito": "Alternativa Popolare",
    "wikidata": "Q28962342",
+   "inizio": null,
+   "fine": null
+  },
+  {
+   "partito": "Il Popolo della Libertà",
+   "wikidata": "Q47720",
    "inizio": null,
    "fine": null
   }
@@ -327,8 +327,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 74,
-     "assenti": 521,
-     "totale": 595
+     "assenti": 537,
+     "totale": 611
     },
     {
      "mese": "2024-12",
@@ -519,8 +519,8 @@
      "camera": "Camera",
      "legislatura": 19,
      "presenti": 0,
-     "assenti": 136,
-     "totale": 136
+     "assenti": 150,
+     "totale": 150
     }
    ],
    "voti_finali": [
@@ -2410,6 +2410,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
+     "id": "vs19_739_014",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-11-05",
+     "descrizione": "DDL 3106-A - VOTO FINALE",
+     "atto": "C.3106",
+     "titolo": "Conversione in legge del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 1,
+      "Non ha votato": 7
+     },
+     "esito": {
+      "favorevoli": 127,
+      "contrari": 38,
+      "astenuti": 49
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=739_14&tipo=dettaglio"
+    },
+    {
      "id": "vs19_738_071",
      "camera": "Camera",
      "legislatura": 19,
@@ -3171,6 +3195,30 @@
       "astenuti": 3
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=702_53&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_700_001",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2026-07-29",
+     "descrizione": "DDL 2961 - VOTO FINALE",
+     "atto": "C.2961",
+     "titolo": "S. 1635. - \"Disposizioni in materia di detenzione domiciliare per il recupero dei detenuti tossicodipendenti o alcoldipendenti\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Favorevole",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 3,
+      "Non ha votato": 5
+     },
+     "esito": {
+      "favorevoli": 153,
+      "contrari": 42,
+      "astenuti": 82
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=700_1&tipo=dettaglio"
     },
     {
      "id": "vs19_700_001",
@@ -6171,6 +6219,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=527_20&tipo=dettaglio"
     },
     {
+     "id": "vs19_524_041",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2025-08-06",
+     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l'organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport (Approvato dalla Camera e modificato dal Senato) (DDL 2488-B)",
+     "atto": "C.2488-B",
+     "titolo": "S. 1600. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l’organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport\" (approvato dalla Camera e modificato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 5,
+      "Non ha votato": 5
+     },
+     "esito": {
+      "favorevoli": 153,
+      "contrari": 85,
+      "astenuti": 6
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
+    },
+    {
      "id": "vs19_524_056",
      "camera": "Camera",
      "legislatura": 19,
@@ -6241,30 +6313,6 @@
       "astenuti": 3
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_40&tipo=dettaglio"
-    },
-    {
-     "id": "vs19_524_041",
-     "camera": "Camera",
-     "legislatura": 19,
-     "data": "2025-08-06",
-     "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l'organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport (Approvato dalla Camera e modificato dal Senato) (DDL 2488-B)",
-     "atto": "C.2488-B",
-     "titolo": "S. 1600. - \"Conversione in legge, con modificazioni, del decreto-legge 30 giugno 2025, n. 96, recante disposizioni urgenti per l’organizzazione e lo svolgimento di grandi eventi sportivi, nonché ulteriori disposizioni urgenti in materia di sport\" (approvato dalla Camera e modificato dal Senato)",
-     "fiducia": false,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "NM-M-C",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 5,
-      "Non ha votato": 5
-     },
-     "esito": {
-      "favorevoli": 153,
-      "contrari": 85,
-      "astenuti": 6
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=524_41&tipo=dettaglio"
     },
     {
      "id": "vs19_523_019",
@@ -8450,6 +8498,78 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=377_135&tipo=dettaglio"
     },
     {
+     "id": "vs19_376_006",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2099 - VOTO FINALE",
+     "atto": "C.2099",
+     "titolo": "S. 1230. - \"Ratifica ed esecuzione dei seguenti atti internazionali: a) Accordo tra il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo in merito all’approntamento congiunto e/o al cofinanziamento di progetti nei Paesi destinatari della Banca europea per la ricostruzione e lo sviluppo, fatto a Monaco il 17 febbraio 2024; b) Accordo di garanzia (Progetto di ripristino emergenziale di centrali idroelettriche) tra il Governo dell’Ucraina, la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con Allegati, fatto a Monaco il 17 febbraio 2024; c) Accordo di supporto al progetto e cessione tra la Banca europea per la ricostruzione e lo sviluppo e il Governo della Repubblica italiana, con riferimento al progetto di ripristino emergenziale delle centrali idroelettriche, con Allegati, fatto a Monaco il 17 febbraio 2024; d) Dichiarazione di adesione tra la Società per azioni “Ukrhydroenergo”, il Governo della Repubblica italiana e la Banca europea per la ricostruzione e lo sviluppo concernente il progetto di ripristino emergenziale delle centrali idroelettriche, fatto a Monaco il 17 febbraio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 6,
+      "Favorevole": 4
+     },
+     "esito": {
+      "favorevoli": 266,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_6&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_017",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 2030 - VOTO FINALE",
+     "atto": "C.2030",
+     "titolo": "S. 1127. - \"Ratifica ed esecuzione dell'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica popolare cinese per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, con Protocollo, fatto a Roma il 23 marzo 2019\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Favorevole": 3,
+      "Non ha votato": 7
+     },
+     "esito": {
+      "favorevoli": 260,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_17&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_376_012",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-11-05",
+     "descrizione": "DDL 1849 - VOTO FINALE",
+     "atto": "C.1849",
+     "titolo": "S. 1042. - \"Ratifica ed esecuzione dell’Accordo di sede tra la Repubblica italiana e il Tribunale unificato dei brevetti, fatto a Roma il 26 gennaio 2024\" (approvato dal Senato)",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 7,
+      "Favorevole": 3
+     },
+     "esito": {
+      "favorevoli": 268,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=376_12&tipo=dettaglio"
+    },
+    {
      "id": "vs19_374_024",
      "camera": "Camera",
      "legislatura": 19,
@@ -9098,6 +9218,30 @@
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
     },
     {
+     "id": "vs19_337_098",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-31",
+     "descrizione": "Istituzione di una Commissione parlamentare di inchiesta sugli effetti economici e sociali derivanti dalla transizione demografica in atto (Doc. XXII, n. 23)",
+     "atto": "C.23",
+     "titolo": "PROPOSTA DI LEGGE COSTITUZIONALE ENRICO COSTA: \"Modifiche all’articolo 87 e al titolo IV della parte II della Costituzione in materia di separazione delle carriere giudicante e requirente della magistratura",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 8,
+      "Favorevole": 1
+     },
+     "esito": {
+      "favorevoli": 248,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=337_98&tipo=dettaglio"
+    },
+    {
      "id": "vs19_336_001",
      "camera": "Camera",
      "legislatura": 19,
@@ -9216,6 +9360,54 @@
       "astenuti": 0
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_020",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Conto consuntivo della Camera dei deputati per l'anno finanziario 2023 (Doc. VIII, n. 3)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Favorevole": 4
+     },
+     "esito": {
+      "favorevoli": 240,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_20&tipo=dettaglio"
+    },
+    {
+     "id": "vs19_333_021",
+     "camera": "Camera",
+     "legislatura": 19,
+     "data": "2024-07-25",
+     "descrizione": "Progetto di bilancio della Camera dei deputati per l'anno finanziario 2024 (Doc. VIII, n. 4)",
+     "atto": "C.39",
+     "titolo": "BRAMBILLA: \"Modifiche alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti l’armonizzazione dell’aliquota dell’imposta sul valore aggiunto relativa ai prodotti per l’alimentazione degli animali da compagnia",
+     "fiducia": false,
+     "approvato": true,
+     "voto": "Non ha votato",
+     "gruppo": "NM-M-C",
+     "linea_gruppo": "Favorevole",
+     "conteggi_gruppo": {
+      "Non ha votato": 5,
+      "Favorevole": 4
+     },
+     "esito": {
+      "favorevoli": 243,
+      "contrari": 0,
+      "astenuti": 0
+     },
+     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XIX&RifVotazione=333_21&tipo=dettaglio"
     },
     {
      "id": "vs19_333_021",
@@ -14118,16 +14310,16 @@
   "Camera": {
    "presenza": {
     "presenti": 3703,
-    "totale": 22277,
+    "totale": 22307,
     "percentuale": 16.6
    },
    "fedelta_gruppo": {
-    "allineati": 139,
+    "allineati": 140,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 566
+   "voti_finali_e_fiducia": 574
   }
  },
  "posizioni": [
@@ -14233,8 +14425,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 16,6% delle votazioni del periodo (3.703 su 22.277); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 139 volte su 139 (100,0%).",
+  "Alla Camera ha partecipato al 16,6% delle votazioni del periodo (3.703 su 22.307); la mediana dei colleghi è 72,7%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 140 volte su 140 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]
