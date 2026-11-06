@@ -229,6 +229,10 @@ export function notizieCambio(soggetto: string, p: Posizione): TitoloNotizia[] {
 // Cosa scrivono i giornali sui partiti (data/notizie-partiti.json, memoria/sezioni/notizie_partiti.py).
 export type StoriaPartito = TitoloNotizia & { n_testate: number; polemica: boolean; articoli: TitoloNotizia[] };
 export type NotiziePartito = { storie: StoriaPartito[]; conteggi: { articoli: number; storie: number; polemiche: number; giorni: number } };
+let _notizieTemi: Record<string, NotiziePartito & { tema: string }> | null = null;
+/** Cosa scrivono i giornali su una proposizione dei temi (data/notizie-temi.json, memoria/sezioni/notizie_temi.py). */
+export const notizieTema = (proposizione: string) =>
+  (_notizieTemi ??= leggi<Record<string, NotiziePartito & { tema: string }>>("notizie-temi.json", {}))[proposizione] ?? null;
 let _notiziePartiti: Record<string, NotiziePartito> | null = null;
 export const notiziePartito = (slug: string): NotiziePartito | null =>
   (_notiziePartiti ??= leggi<Record<string, NotiziePartito>>("notizie-partiti.json", {}))[slug] ?? null;

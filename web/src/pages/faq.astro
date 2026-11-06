@@ -230,6 +230,14 @@ const gruppi: { titolo: string; voci: Q[] }[] = [
         ],
       },
       {
+        id: "giornali-temi",
+        q: "Come scegliete i titoli dei giornali sui temi?",
+        a: [
+          "Ogni giorno, per ogni proposizione monitorata, cerchiamo su Google News i titoli degli ultimi giorni che ne parlano. Il titolo deve contenere le parole del tema: per le armi all'Ucraina «Ucraina» o «Kiev» insieme a «armi», «aiuti militari», «decreto»…; per l'autonomia «autonomia differenziata» o i «Lep»; per la giustizia «separazione delle carriere», «riforma Nordio», «Csm», «referendum sulla giustizia». Le parole sono nel codice pubblico (pipeline/memoria/sezioni/notizie_temi.py).",
+          "Come per i partiti: titoli raggruppati per storia con il numero di testate, segno «polemica», ultimi 14 giorni; esclusi comunicati dei partiti, fonti ufficiali, social e articoli ripubblicati. È un segnale di quanto se ne parla, non una valutazione.",
+        ],
+      },
+      {
         id: "giornali-cambi",
         q: "Come trovate cosa scrivono i giornali sui cambi di posizione?",
         a: [
