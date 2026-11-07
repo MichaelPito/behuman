@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-06",
-  "al": "2026-11-06"
+  "dal": "2021-11-07",
+  "al": "2026-11-07"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -29,6 +29,12 @@
  "cariche": [],
  "partiti_storico": [
   {
+   "partito": "Il Popolo della Libertà",
+   "wikidata": "Q47720",
+   "inizio": null,
+   "fine": null
+  },
+  {
    "partito": "Democrazia Cristiana",
    "wikidata": "Q815348",
    "inizio": null,
@@ -37,12 +43,6 @@
   {
    "partito": "Alternativa Popolare",
    "wikidata": "Q28962342",
-   "inizio": null,
-   "fine": null
-  },
-  {
-   "partito": "Il Popolo della Libertà",
-   "wikidata": "Q47720",
    "inizio": null,
    "fine": null
   }
@@ -14408,7 +14408,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-11-06",
+ "aggiornato_il": "2026-11-07",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",
