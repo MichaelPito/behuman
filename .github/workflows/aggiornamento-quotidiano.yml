@@ -25,7 +25,11 @@ jobs:
     outputs:
       fatto: ${{ steps.oggi.outputs.fatto }}
     steps:
+      # l'ultima versione di main, non quella del momento in cui l'esecuzione è stata messa in coda:
+      # se un'altra esecuzione ha appena salvato i dati di oggi, questa se ne accorge
       - uses: actions/checkout@v5
+        with:
+          ref: main
       - id: oggi
         name: Dati di oggi già salvati?
         run: |
@@ -41,6 +45,8 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
@@ -69,7 +75,8 @@ jobs:
           if git diff --cached --quiet; then echo "Nessuna variazione"; else
             git commit -m "dati: aggiornamento del $(date -u +%F)"
             # se nel frattempo è arrivato altro codice su main, i dati si mettono in coda senza conflitti
-            git pull --rebase origin main
+            # in caso di conflitto sui file di data/ vincono i dati appena calcolati (sono i più recenti)
+            git pull --rebase -X theirs origin main
             git push
           fi
 
