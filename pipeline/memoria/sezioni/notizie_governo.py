@@ -42,7 +42,8 @@ def storie_governo(nome: str, prec: dict, regole, limite: str) -> dict:
     visti, articoli = set(), []
     for n in nuovi + prec.get("archivio", []):
         fonte = (n.get("fonte") or "").strip()
-        if n["url"] in visti or n["data"] < limite or not nomina.search(n["titolo"]):
+        # «Palazzo Chigi» di Ariccia è un altro palazzo
+        if n["url"] in visti or n["data"] < limite or not nomina.search(n["titolo"]) or re.search(r"\bAriccia\b", n["titolo"]):
             continue
         if FONTI_UFFICIALI.search(fonte) or SOCIAL.search(fonte) or vecchio(n) or any(r.search(fonte) for r in di_partito):
             continue
