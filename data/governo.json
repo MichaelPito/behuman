@@ -11,7 +11,7 @@
   "con_fiducia": 69,
   "voti_fiducia": 117,
   "con_descrizione_governo": 153,
-  "con_pronunce_corte": 50,
+  "con_pronunce_corte": 51,
   "per_anno": [
    {
     "anno": "2022",
@@ -10843,6 +10843,16 @@
       "esito": "inammissibilità",
       "dispositivo": "1) dichiara manifestamente inammissibili le questioni di legittimità costituzionale degli artt. 1, commi 2, 5, primo periodo, e 8, e 3, commi 1, 2, 4, 5 e 6, della legge della Regione Sardegna 5 dicembre 2024, n. 20, recante «Misure urgenti per l'individuazione di aree e superfici idonee e non idonee all'installazione e promozione di impianti a fonti di energia rinnovabile (FER) e per la semplificazione dei procedimenti autorizzativi», sollevate, in riferimento agli artt. 3, 9, 11, 41, 97 e 117,…",
       "url": "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2026&numero=156"
+     },
+     {
+      "numero": 184,
+      "anno": 2026,
+      "tipo": "sentenza",
+      "data_deposito": "2026-11-05",
+      "ecli": "ECLI:IT:COST:2026:184",
+      "esito": "inammissibilità",
+      "dispositivo": "riuniti i giudizi, 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 20, comma 1-bis, del decreto legislativo 8 novembre 2021, n. 199, recante «Attuazione della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, sulla promozione dell'uso dell'energia da fonti rinnovabili, come modificata dalla direttiva (UE) 2023/2413 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, che modifica la direttiva (UE) 2018/2001, il regolame…",
+      "url": "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2026&numero=184"
      }
     ],
     "firme": [],
@@ -11271,6 +11281,16 @@
       "esito": "illegittimità costituzionale (anche parziale)",
       "dispositivo": "riuniti i giudizi, dichiara l'illegittimità costituzionale dell'art. 69-bis, comma 3, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà), come sostituito dall'art. 5, comma 3, del decreto-legge 4 luglio 2024, n. 92 (Misure urgenti in materia penitenziaria, di giustizia civile e penale e di personale del Ministero della giustizia), convertito, con modificazioni, nella legge 8 agosto 2024, n. 112, limitatam…",
       "url": "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2025&numero=201"
+     },
+     {
+      "numero": 187,
+      "anno": 2026,
+      "tipo": "ordinanza",
+      "data_deposito": "2026-11-05",
+      "ecli": "ECLI:IT:COST:2026:187",
+      "esito": "inammissibilità",
+      "dispositivo": "riuniti i giudizi, dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 69-bis, commi 1, 2 e 3, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà), come sostituito dall'art. 5, comma 3, del decreto-legge 4 luglio 2024, n. 92 (Misure urgenti in materia penitenziaria, di giustizia civile e penale e di personale del Ministero della giustizia), convertito, con modifica…",
+      "url": "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2026&numero=187"
      }
     ],
     "firme": [],
@@ -14490,7 +14510,18 @@
    },
    "descrizione_governo": null,
    "reazioni": {
-    "corte": [],
+    "corte": [
+     {
+      "numero": 188,
+      "anno": 2026,
+      "tipo": "ordinanza",
+      "data_deposito": "2026-11-05",
+      "ecli": "ECLI:IT:COST:2026:188",
+      "esito": "altro",
+      "dispositivo": "dichiara estinto il processo. Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 5 ottobre 2026. F.to: Giovanni AMOROSO, Presidente Francesco Saverio MARINI, Redattore Roberto MILANA, Direttore della Cancelleria Depositata in Cancelleria il 5 novembre 2026 Il Direttore della Cancelleria F.to: Roberto MILANA",
+      "url": "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?anno=2026&numero=188"
+     }
+    ],
     "firme": [],
     "referendum": []
    }
@@ -21249,7 +21280,7 @@
       "titolo": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
       "quesito": "",
       "estremi": "5400003",
-      "firme_online": 229,
+      "firme_online": 230,
       "soglia": 50000,
       "inizio": "2026-07-19",
       "fine": "2027-01-19",
