@@ -2,10 +2,12 @@
 import Base from "../../layouts/Base.astro";
 import FiltroLista from "../../components/FiltroLista.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, ESITO_CLASSE as CLASSE_PROMESSA, governo, impegni, perCognome, slugLegge, statoIter } from "../../lib/data";
+import StorieGiornali from "../../components/StorieGiornali.astro";
+import { dataIt, ESITO_CLASSE as CLASSE_PROMESSA, governo, impegni, notizieGoverno, perCognome, slugLegge, statoIter } from "../../lib/data";
 import { u } from "../../lib/url";
 
 const g = governo();
+const giornali = notizieGoverno().governo;
 const imp = impegni();
 const ministri = Object.values(imp.politici).sort(perCognome);
 const temiImp = imp.temi.filter((t) => ministri.some((m) => m.temi.some((x) => x.tema === t.id)));
@@ -96,6 +98,17 @@ const ESITO_CLASSE: Record<string, string> = {
       </div>
     )}
   </section>
+
+  {giornali && giornali.storie.length > 0 && (
+    <section class="section" id="giornali">
+      <div class="section-head"><h2>Sui giornali</h2><a class="small" href={u("/faq/#giornali-governo")}>Come li scegliamo</a></div>
+      <p class="small muted prose">
+        Ultimi {giornali.conteggi.giorni} giorni: {giornali.conteggi.articoli} titoli che citano il {giornali.nome}, Palazzo Chigi o il Consiglio dei ministri, in {giornali.conteggi.storie} {giornali.conteggi.storie === 1 ? "storia" : "storie"}{giornali.conteggi.polemiche > 0 && `, di cui ${giornali.conteggi.polemiche} con parole di polemica`}.
+        Prima le storie riprese da più testate. È un segnale di quanto se ne parla, non una valutazione.
+      </p>
+      <StorieGiornali storie={giornali.storie} />
+    </section>
+  )}
 
   {g && g.riforme.length > 0 && (
     <section class="section" id="riforme">

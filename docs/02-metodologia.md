@@ -249,3 +249,9 @@ di parole chiave in `pipeline/memoria/analisi/sunto.py`). Il testo integrale uff
   (elenco in `pipeline/memoria/sezioni/notizie_temi.py`); stesse regole dei partiti (storie, testate, polemica,
   14 giorni, esclusioni). Risultato in `data/notizie-temi.json`.
 
+## 3-terdecies. Cosa scrivono i giornali sul Governo e sulle sue leggi
+- Governo: titoli di Google News che citano il governo in carica, Palazzo Chigi o il Consiglio dei ministri,
+  con le regole dei partiti (storie, testate, polemica, 14 giorni, esclusioni).
+- Leggi: titoli dal giorno dell'approvazione definitiva (ultimo voto finale) a 3 giorni dopo, con le regole dei
+  voti finali; una ricerca per legge, fino a 60 al giorno dalla più recente. Risultato in `data/notizie-governo.json`.
+

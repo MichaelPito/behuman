@@ -1,7 +1,8 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Icon from "../../components/Icon.astro";
-import { dataIt, governo, numeroLegge, slugLegge, statoIter } from "../../lib/data";
+import Giornali from "../../components/Giornali.astro";
+import { dataIt, governo, notizieGoverno, numeroLegge, slugLegge, statoIter } from "../../lib/data";
 import { u } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -9,6 +10,7 @@ export function getStaticPaths() {
 }
 const g = governo()!;
 const l = g.leggi.find((x) => slugLegge(x) === Astro.params.id)!;
+const giornali = notizieGoverno().leggi[l.id]?.notizie ?? [];
 
 // Percorso unico in ordine cronologico: presentazione, voti, approvazioni.
 type Passo = { data: string; titolo: string; dett?: string; url?: string | null; tipo?: string; voto?: (typeof l.voti)[number] };
@@ -66,6 +68,12 @@ const succ = g.leggi[idx + 1];
       )}
     </article>
   </section>
+
+  {giornali.length > 0 && (
+    <section class="section" id="giornali">
+      <Giornali notizie={giornali} quando="nei giorni dell'approvazione definitiva" />
+    </section>
+  )}
 
   <section class="section" id="testo">
     <h2>Dati ufficiali</h2>

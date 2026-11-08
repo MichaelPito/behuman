@@ -559,3 +559,11 @@ def test_parole_temi():
     assert tiene("separazione-carriere", "Separazione delle carriere, Forza Italia rilancia la riforma")
     assert tiene("autonomia-differenziata-legge-calderoli", "Autonomia, blitz di Calderoli. Una commissione per i Lep")
 
+
+def test_approvazione_legge():
+    from memoria.sezioni.notizie_governo import approvazione
+    l = {"data": "2026-07-10", "voti": [{"tipo": "fiducia", "data": "2026-07-01"}, {"tipo": "finale", "data": "2026-06-20"},
+                                        {"tipo": "finale", "data": "2026-07-02"}]}
+    assert approvazione(l) == "2026-07-02"
+    assert approvazione({"data": "2026-07-10", "voti": []}) == "2026-07-10"
+
