@@ -7,7 +7,7 @@
     "data": "2026-11-05",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm9ZaG9oRFpRbHZLaEZIckxpOHZwM0UxaUpoTEpvZ0haX3JRemN0ME8tZGtqNWlUNm1VT2xUa0lJQW5HMlhjRTFqbzFRN243M084SzZyLURhc1Z2NkZZSWh6aUh2M1ZuRnZhYUFqMmZzdE55blV3MXliQ0NOYzl4NlprWXlVRVM4WVVBcnJxQUUyX0RZZVN4MzB2cjJEaVlhSHc?oc=5",
     "fonte": "Il Fatto Quotidiano",
-    "n_testate": 9,
+    "n_testate": 10,
     "polemica": false,
     "articoli": [
      {
@@ -23,10 +23,16 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVnB4bk9DRlpfYWk0X1Z0eEZ4YUVVQWNMU180eDZfVlptUU1HV2xpYUhPS3RSOTRvektYNi16NEJqQ1BZWjlYOUlOSWFuU3VEejVvZ1RFRnNqU2tZdFBIZTY3bDRMTXRTZGl4emx3OS0tenV1UVpXYmJVQjA4bVBYMzNhZ0hIcDJuaHZwT0ZmQ0ZDMHRiZFFWcHQwaGRGb0hiMDVULXg3a1hVZUpjZUF1RXh5dGk1MDhKMmRwaVVlNDh2a1hYT2kyM3RpTUE1R1ZwUHpod1FWbU9fNGtSQU1fQmFJS2pJbGwzQmlqUnI4RXlkNjV1alZ4MA?oc=5"
      },
      {
-      "titolo": "Crosetto va in Senato per gli aiuti militari a Kiev",
+      "titolo": "Crosetto va in Senato per gli aiuti militari a Kiev, ma il centrodestra diserta l’Aula",
       "fonte": "La Stampa",
       "data": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VdIBmwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGlmMm5xR09PTEljZXE1SlNnYmREUGE2dFBsYUJEZHBDb2xOSHBPRGJYMXhBS3F4eWpXMzR3cjZvRzJLVnRPd2lkQmRZRWdvMTJ2NTZEUkZCanhRR1lNSlc1dlNHdDBSbkhOOTltbkZ2Z3Z1ZmtGQjlWSFdUaFI1WTRmNmNPMWFBVFRXMHRHeTVDUDdHMWfSAZsBQVVfeXFMTXJHdEFSWkRJc1hXUWNhS3VHdG5IdndlZFYwSmdYaElCd0JmQjktZFo4WlNULVI4alVuTzJMRlpSZDhETWNmMUVoQ0VnQTFNc1cyVFdsZGF5YmxxT2xiYzk5RVIzY2MwZUpPamFWQlp6UkxrZW1vUUoxQWwwRGhhUGNPRGw2bnZSUjRDeEZHM2d3WlFrNWdCU1E2dlU?oc=5"
+     },
+     {
+      "titolo": "Ucraina, Crosetto: \"Pronto nuovo pacchetto di aiuti\". Il 10 novembre audizione al Copasir",
+      "fonte": "Adnkronos",
+      "data": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3EwcEZzVE1NZmx1ZHlBbmk1elJCLW5LUVE3OVg3TjBvVHZIMDNXNGpIU2cxa1hoTVcyZkx0NGtyWFZaT3NwV3RTRS1uWEJ6ZUYxbnFqZVhYZUtKZWt6cmlHRTVjRm0xYnphSzBJRWsxa1dqdFZXNkxqSUhQdU1XaW5tVXRqak11QlVwX2tyY04xUnZ6MlRBMWtKNkY1QXV4RGdnWjFhWQ?oc=5"
      },
      {
       "titolo": "Ucraina, Zelensky spera nei Democratici Usa per nuovi aiuti militari",
@@ -41,22 +47,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUZwRmNjNVlnOGY2cWdNX0twRGNDVHVOeXBIQkpnUHpMeU9pV3RPR1BCR3VIZWdhV1cwOUV5UF9NY3AtR0NtTDh2cWZtRGdzOUU0b1ZwVnhmT1VRQ0l2MzQ2OERZbVRub0pZb2ZaZUYwclMyWTlzRzFsLXV1U3hSTGptWnlDMFdrZXFmTXp1ajVaNEMwVXBkWnNteENhZnVUSVRKcVl4U1JZRmNKdkJVdzYtd1A1SnZtSHpWSXI4RlZyel9UenFEbU1QMThDeDFxMnhvSmNR?oc=5"
      },
      {
+      "titolo": "Crosetto va in Senato per gli aiuti militari a Kiev",
+      "fonte": "La Stampa",
+      "data": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VdIBmwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VQ?oc=5"
+     },
+     {
       "titolo": "Martedì Crosetto al Copasir, si stringe sugli aiuti militari all’Ucraina. Ecco cosa potrebbe entrare nel pacchetto",
       "fonte": "Il Sole 24 ORE",
       "data": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdnpPbDJOSnF3Y2NlRWhxcDFxcnhINVpiZlc4QUZjUHBtZkFua0JpazE4WnQ1R3B2VlNxQ212TEhvQVRnZ3ptMFNtZlZjRXJrbXN3WkpXQmpTdEViUjBWOUpUV3lRVVlfa2E1TkxDZmhBOWhta2JJeUFtLU5VUjFGQ2xFMzZVVkVLOG51Wk5VX2FuTmVDVnNHcHpOc3B2SjVoMWtEOTBsbTBJZGJxOHAzaTJOT1dqRTg5OEtCdGZFSV9tR0g3LWExdUdlZXl4OTd4WWw1UkFfYw?oc=5"
-     },
-     {
-      "titolo": "Ucraina, la Spagna annuncia un nuovo pacchetto di aiuti militari da 437 milioni di euro",
-      "fonte": "Sardegnagol",
-      "data": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeVJTdnVoNEYwZmJhU0ZiTzFBTnhiczktS0FndldudkxrUU9fVDdhQnFJYW1KRVVqaWtxOXo5VVYyWmpSUkR4cjhUbUo0enhrdGpDWjEwQnZfQ19BNEZTMWZCRkNsejZjLXdYMzUyVHh2SFVXaHByMUVVVGpqNFg0Q3ZYV1ZWU3RwQmM4bHhKcjBiNEdXTzVnS1lRcWZJUUVLZHZNekRjcWU4LVpiZlItTlQ2ZUU?oc=5"
-     },
-     {
-      "titolo": "La Spagna concede all'Ucraina un nuovo pacchetto di aiuti militari da 489 milioni di dollari.",
-      "fonte": "Слободен печат",
-      "data": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1JPWHlaMUpjeEplY0ZKMmNMTUdGOGpqRTFiT196dVFyXzVudjdNeXg1QnExbXNfNVRWUGJIWTMzTlk4cHhrbnVXbm1kQ2toMDdiWFh0cE45T0plaWlBTDdCMENzdlRYSnFaUzN6cE9UbzludGJxcE9nUlRxWFNmMkJPLXo4ZmlaV0dPNmROM05nREhWbDA0dThHcEZ3a1hqNjBvR1hzWEFXZGZEdmp5Uw?oc=5"
      }
     ]
    },
@@ -89,11 +89,33 @@
     ]
    },
    {
+    "titolo": "TG4: In piazza contro il carovita e le armi a Kiev Video",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkJCZGdIa1puY2xHTlZUbEtYQkoxeDMyQ0ZFLU5kRXhqSFBhRi0temtYcFNfUUQ4MzVCN1FPd1hrVDI2ckxhRU91dk5GbUIxdDdiWFB1cmNTOG9SNFRGcTVNUDFPbTJ2UHNrTVhQd2dQSWRTeXRUbGtwRzg1cHRja1NRUkJQcXBuNmMzby1ybFNqNGxhZnRNZEpXbzVCR1NxZGQ1MzNYcExlVld4N0E?oc=5",
+    "fonte": "Mediaset Infinity",
+    "n_testate": 2,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "TG4: In piazza contro il carovita e le armi a Kiev Video",
+      "fonte": "Mediaset Infinity",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkJCZGdIa1puY2xHTlZUbEtYQkoxeDMyQ0ZFLU5kRXhqSFBhRi0temtYcFNfUUQ4MzVCN1FPd1hrVDI2ckxhRU91dk5GbUIxdDdiWFB1cmNTOG9SNFRGcTVNUDFPbTJ2UHNrTVhQd2dQSWRTeXRUbGtwRzg1cHRja1NRUkJQcXBuNmMzby1ybFNqNGxhZnRNZEpXbzVCR1NxZGQ1MzNYcExlVld4N0E?oc=5"
+     },
+     {
+      "titolo": "Lamezia Terme, Futuro Nazionale scende in piazza contro il caro vita e l’invio di armi all’Ucraina",
+      "fonte": "StrettoWeb",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdExuQkp0S0NZbllUSzkydE1HRE1GeW43eVh0MWRtaDl5QWRXa0otTE5ESUt0RzBDbDFranZzSTV0alh1bE9SbmVaQTJHZ01ydFVDc0xWMzVLa0lLZ05qN1AyQ2o0SzVOQjRrc0pQbVk5OFVveWhEM1BKVzVwZ0dsbkhkLXZ5eGNTNTlVQ29Ec2VFc3QySTBsNGh1R1UxRjdPbnR0RldaSC03Skt3bjczdlp6UklDZS1FMHNsVWU4WDJDVURRc3JlbmdNZjRfeDlRUVFJZWZn0gHbAUFVX3lxTE4xTENDZ19oYzcyUmFFWGhObzRmU1kySXJ6YXB4MThYZEZ2ZjZoSUs1MjU1TzhmSzJWWjRMVk1OV0RWUXJlNUEyM0FYcmFOcVl3Y2ZpczJxQzREY3N3cVBvMzBpLVFueGhhclVYcWVINVkzRTAyUXVCUFBsRTNmSjdVajdoOWo0STRwZ2s3MXg2WnZ5Q3F2ZHhhTUdoOEtxSXBab284XzBjeG5OTlRQY2puZllyazA0Mzd4UTU5eU12enBhLWRBOWVkZmhESDFham00d1RvSXBJZWphQQ?oc=5"
+     }
+    ]
+   },
+   {
     "titolo": "Calenda all’Università di Firenze, contestazione sulle armi a Kiev",
     "data": "2026-11-07",
     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdy1GbEs2WmlKbkxMc1lkcXJ5a0FyN182WGthSDlmcDhqaUlvMjZkMnpmdGtQNkM3Ty1CVXdxWWxReXVlMmdpLWdjT1NndUZrNWhQUnBuRWs1MFU0UmhpdGxZbjUtc21feEtzNExVLWZFTHlRMDREbFozYUM3dlpDSEtFLWhVNWszeHdEMVNsQnl2NEZSU1g0TEpmZkQ1MWZvWXZ6VlhPcUlnaXZ2bGdFUE43Rm9wU2llMHJLZzc3R3YxMVNGLXdkQWFndkVwNjluQTB0c2pZM1VSNDMxa25BQWhsdE9ERnJ0RTVrQmhCbWF5cTZRNVVmZmRXa2NhTU1ZSy1QRnNYSEp3Z0JNVWw3X0FYR0VBbnhjcFh1TWJ2M0pkN1pmdGZyd0EyeFhjQ1VBcGlzNGlZYVB6Zlk?oc=5",
     "fonte": "Firenze e dintorni",
-    "n_testate": 1,
+    "n_testate": 2,
     "polemica": false,
     "articoli": [
      {
@@ -101,6 +123,50 @@
       "fonte": "Firenze e dintorni",
       "data": "2026-11-07",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdy1GbEs2WmlKbkxMc1lkcXJ5a0FyN182WGthSDlmcDhqaUlvMjZkMnpmdGtQNkM3Ty1CVXdxWWxReXVlMmdpLWdjT1NndUZrNWhQUnBuRWs1MFU0UmhpdGxZbjUtc21feEtzNExVLWZFTHlRMDREbFozYUM3dlpDSEtFLWhVNWszeHdEMVNsQnl2NEZSU1g0TEpmZkQ1MWZvWXZ6VlhPcUlnaXZ2bGdFUE43Rm9wU2llMHJLZzc3R3YxMVNGLXdkQWFndkVwNjluQTB0c2pZM1VSNDMxa25BQWhsdE9ERnJ0RTVrQmhCbWF5cTZRNVVmZmRXa2NhTU1ZSy1QRnNYSEp3Z0JNVWw3X0FYR0VBbnhjcFh1TWJ2M0pkN1pmdGZyd0EyeFhjQ1VBcGlzNGlZYVB6Zlk?oc=5"
+     },
+     {
+      "titolo": "Schlein si proclama radicale, Conte mette il veto su Renzi e sulle armi a Kiev",
+      "fonte": "https://www.lacapitalenews.it/",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXVmMm00cWE4cEowaVN4eGhJUGNlWDk4aDExVkdqRHlYblE0SDIzOFE0Q0VkcWFLNmtZb0JuSHd5blBkQUlHYjJoT3QtcktqRXdpWlF0M3Zoa1Q2eFRCMGJHcVJRQkd1ZmFyazFYbkVpVHBJMTdLU2x4ajdHUW1WYTF1OTcwSGY0ZHdLQzZXeTllQ0VhRVIxcmc5SzhLZUZaQ0J3aGE1VnNaZXZBMS1QamJ2aFJUTU5raHdBZ3h0Y21GLW9FYmVvenVLUE9fR2h5NW93RTlOcUE0WnVydldva3JSNGIyN25vanNVNzhBc3Vpa0ZENUVsRndjRlU1MVMyem1FNw?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Raid su impianti energetici in Ucraina; Kiev chiede armi e fondi mentre la diplomazia accelera verso Abu Dhabi",
+    "data": "2026-11-06",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFNTN0VDWDhwUVBWOEw2TElLd0QzdkcwVjBPcUVZcWZ1cE1nS0FwRzVyZ0lJQlllRlZZclNMOVRmY2dmY2t5WGtvTEtQR051ckNtbUJfa2JvU1RSUGphQ3pCM3ZYb0pfNHBHUFI5QUhjQkhjOThMakMyNG1uVEZpRFNYWkd5Rk1XUHJNSVBWdDVzNWhXR2d4cXRfV2FpTDRuaGVZWFZBdVVSTFVPLXhnWmxlbUxzeGJIQmtLODhOZ2wwWWxOQ2tZQVc1T2RlNkRNbnFfdERVTVk?oc=5",
+    "fonte": "La Voce di Venezia",
+    "n_testate": 2,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "Raid su impianti energetici in Ucraina; Kiev chiede armi e fondi mentre la diplomazia accelera verso Abu Dhabi",
+      "fonte": "La Voce di Venezia",
+      "data": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFNTN0VDWDhwUVBWOEw2TElLd0QzdkcwVjBPcUVZcWZ1cE1nS0FwRzVyZ0lJQlllRlZZclNMOVRmY2dmY2t5WGtvTEtQR051ckNtbUJfa2JvU1RSUGphQ3pCM3ZYb0pfNHBHUFI5QUhjQkhjOThMakMyNG1uVEZpRFNYWkd5Rk1XUHJNSVBWdDVzNWhXR2d4cXRfV2FpTDRuaGVZWFZBdVVSTFVPLXhnWmxlbUxzeGJIQmtLODhOZ2wwWWxOQ2tZQVc1T2RlNkRNbnFfdERVTVk?oc=5"
+     },
+     {
+      "titolo": "Ucraina: Mosca, colpito ponte di Kiev usato per trasferire armi",
+      "fonte": "Ore12",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFpOQTIydkFKYXQxeEFIMW9TSGpYZGhJSHhlMmlYQzBxVjFFNWRhWFpWb19KSHlOcWJBUFhlQzhFcFByTk9NRDg2U2VTOURTUVRpZDFBVllEeDJNTlZkZmdIUDRkZjdhVzRKVG5hX3BpY25mSkFLVUN2bGo5T09Mdmp6dU5FcEpJS3hNQw?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5",
+    "fonte": "Giornale Radio",
+    "n_testate": 1,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
+      "fonte": "Giornale Radio",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5"
      }
     ]
    },
@@ -117,38 +183,6 @@
       "fonte": "Avvenire",
       "data": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUZOYkdfTnFwdElsOWljQmZHSnpKVkV2aHg3LWtGT29ZN19MbzB4LUNZTUxCX25IRG44WE5fTFZ2NkNyeTRMM2g4VHdaTXJYaGtqcWZhbTF6VXh5enBnc0s3Q3VVWVE4eHdlNEFzSTFnN0Q5S01UX3V2bE5JaTVTei1IcEpIWmMwalF1VGZKbTdYZ3lkV0lnLTk1UFE0RTFGeFNQRFZwelpQdFAwWEdBblZSanB1MGd1Slp2SEpnaw?oc=5"
-     }
-    ]
-   },
-   {
-    "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
-    "data": "2026-11-06",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5",
-    "fonte": "Giornale Radio",
-    "n_testate": 1,
-    "polemica": false,
-    "articoli": [
-     {
-      "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
-      "fonte": "Giornale Radio",
-      "data": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5"
-     }
-    ]
-   },
-   {
-    "titolo": "Raid su impianti energetici in Ucraina; Kiev chiede armi e fondi mentre la diplomazia accelera verso Abu Dhabi",
-    "data": "2026-11-06",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFNTN0VDWDhwUVBWOEw2TElLd0QzdkcwVjBPcUVZcWZ1cE1nS0FwRzVyZ0lJQlllRlZZclNMOVRmY2dmY2t5WGtvTEtQR051ckNtbUJfa2JvU1RSUGphQ3pCM3ZYb0pfNHBHUFI5QUhjQkhjOThMakMyNG1uVEZpRFNYWkd5Rk1XUHJNSVBWdDVzNWhXR2d4cXRfV2FpTDRuaGVZWFZBdVVSTFVPLXhnWmxlbUxzeGJIQmtLODhOZ2wwWWxOQ2tZQVc1T2RlNkRNbnFfdERVTVk?oc=5",
-    "fonte": "La Voce di Venezia",
-    "n_testate": 1,
-    "polemica": false,
-    "articoli": [
-     {
-      "titolo": "Raid su impianti energetici in Ucraina; Kiev chiede armi e fondi mentre la diplomazia accelera verso Abu Dhabi",
-      "fonte": "La Voce di Venezia",
-      "data": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTFNTN0VDWDhwUVBWOEw2TElLd0QzdkcwVjBPcUVZcWZ1cE1nS0FwRzVyZ0lJQlllRlZZclNMOVRmY2dmY2t5WGtvTEtQR051ckNtbUJfa2JvU1RSUGphQ3pCM3ZYb0pfNHBHUFI5QUhjQkhjOThMakMyNG1uVEZpRFNYWkd5Rk1XUHJNSVBWdDVzNWhXR2d4cXRfV2FpTDRuaGVZWFZBdVVSTFVPLXhnWmxlbUxzeGJIQmtLODhOZ2wwWWxOQ2tZQVc1T2RlNkRNbnFfdERVTVk?oc=5"
      }
     ]
    },
@@ -208,12 +242,18 @@
    }
   ],
   "conteggi": {
-   "articoli": 20,
-   "storie": 9,
+   "articoli": 26,
+   "storie": 10,
    "polemiche": 0,
    "giorni": 14
   },
   "archivio": [
+   {
+    "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
+    "fonte": "Giornale Radio",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5"
+   },
    {
     "titolo": "Calenda all’Università di Firenze, contestazione sulle armi a Kiev",
     "fonte": "Firenze e dintorni",
@@ -221,10 +261,28 @@
     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdy1GbEs2WmlKbkxMc1lkcXJ5a0FyN182WGthSDlmcDhqaUlvMjZkMnpmdGtQNkM3Ty1CVXdxWWxReXVlMmdpLWdjT1NndUZrNWhQUnBuRWs1MFU0UmhpdGxZbjUtc21feEtzNExVLWZFTHlRMDREbFozYUM3dlpDSEtFLWhVNWszeHdEMVNsQnl2NEZSU1g0TEpmZkQ1MWZvWXZ6VlhPcUlnaXZ2bGdFUE43Rm9wU2llMHJLZzc3R3YxMVNGLXdkQWFndkVwNjluQTB0c2pZM1VSNDMxa25BQWhsdE9ERnJ0RTVrQmhCbWF5cTZRNVVmZmRXa2NhTU1ZSy1QRnNYSEp3Z0JNVWw3X0FYR0VBbnhjcFh1TWJ2M0pkN1pmdGZyd0EyeFhjQ1VBcGlzNGlZYVB6Zlk?oc=5"
    },
    {
-    "titolo": "La Lega conferma Salvini segretario che lancia la nuova linea: basta soldi e armi all’Ucraina",
-    "fonte": "Giornale Radio",
-    "data": "2026-11-06",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc1pnOHkwUmVfWk1BbU1wUThzRlNEYXJTQkY3VXBVTFJZOW1QVXBfdlNOcGlBTG8xVHpZNXFMMFB3RS1oaVRWcGdocU9qSnMwSlRIMXJtQ21mNU9ScEdHOXFuQXVpa1h4M3czd0FrZ253THhqZ3IwcE5KbjRpcm5nYWZWOVRMMEhaWmUtNlJqa0F0cHd4ekQ2YnBuZnhZWXhTU0VYNWlzY3hFc1dTVUExekp6ZG5kTXkxbmNITHdUVTJCd0JQN2ZB?oc=5"
+    "titolo": "TG4: In piazza contro il carovita e le armi a Kiev Video",
+    "fonte": "Mediaset Infinity",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkJCZGdIa1puY2xHTlZUbEtYQkoxeDMyQ0ZFLU5kRXhqSFBhRi0temtYcFNfUUQ4MzVCN1FPd1hrVDI2ckxhRU91dk5GbUIxdDdiWFB1cmNTOG9SNFRGcTVNUDFPbTJ2UHNrTVhQd2dQSWRTeXRUbGtwRzg1cHRja1NRUkJQcXBuNmMzby1ybFNqNGxhZnRNZEpXbzVCR1NxZGQ1MzNYcExlVld4N0E?oc=5"
+   },
+   {
+    "titolo": "Ucraina: Mosca, colpito ponte di Kiev usato per trasferire armi",
+    "fonte": "Ore12",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObFpOQTIydkFKYXQxeEFIMW9TSGpYZGhJSHhlMmlYQzBxVjFFNWRhWFpWb19KSHlOcWJBUFhlQzhFcFByTk9NRDg2U2VTOURTUVRpZDFBVllEeDJNTlZkZmdIUDRkZjdhVzRKVG5hX3BpY25mSkFLVUN2bGo5T09Mdmp6dU5FcEpJS3hNQw?oc=5"
+   },
+   {
+    "titolo": "Schlein si proclama radicale, Conte mette il veto su Renzi e sulle armi a Kiev",
+    "fonte": "https://www.lacapitalenews.it/",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaXVmMm00cWE4cEowaVN4eGhJUGNlWDk4aDExVkdqRHlYblE0SDIzOFE0Q0VkcWFLNmtZb0JuSHd5blBkQUlHYjJoT3QtcktqRXdpWlF0M3Zoa1Q2eFRCMGJHcVJRQkd1ZmFyazFYbkVpVHBJMTdLU2x4ajdHUW1WYTF1OTcwSGY0ZHdLQzZXeTllQ0VhRVIxcmc5SzhLZUZaQ0J3aGE1VnNaZXZBMS1QamJ2aFJUTU5raHdBZ3h0Y21GLW9FYmVvenVLUE9fR2h5NW93RTlOcUE0WnVydldva3JSNGIyN25vanNVNzhBc3Vpa0ZENUVsRndjRlU1MVMyem1FNw?oc=5"
+   },
+   {
+    "titolo": "Lamezia Terme, Futuro Nazionale scende in piazza contro il caro vita e l’invio di armi all’Ucraina",
+    "fonte": "StrettoWeb",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdExuQkp0S0NZbllUSzkydE1HRE1GeW43eVh0MWRtaDl5QWRXa0otTE5ESUt0RzBDbDFranZzSTV0alh1bE9SbmVaQTJHZ01ydFVDc0xWMzVLa0lLZ05qN1AyQ2o0SzVOQjRrc0pQbVk5OFVveWhEM1BKVzVwZ0dsbkhkLXZ5eGNTNTlVQ29Ec2VFc3QySTBsNGh1R1UxRjdPbnR0RldaSC03Skt3bjczdlp6UklDZS1FMHNsVWU4WDJDVURRc3JlbmdNZjRfeDlRUVFJZWZn0gHbAUFVX3lxTE4xTENDZ19oYzcyUmFFWGhObzRmU1kySXJ6YXB4MThYZEZ2ZjZoSUs1MjU1TzhmSzJWWjRMVk1OV0RWUXJlNUEyM0FYcmFOcVl3Y2ZpczJxQzREY3N3cVBvMzBpLVFueGhhclVYcWVINVkzRTAyUXVCUFBsRTNmSjdVajdoOWo0STRwZ2s3MXg2WnZ5Q3F2ZHhhTUdoOEtxSXBab284XzBjeG5OTlRQY2puZllyazA0Mzd4UTU5eU12enBhLWRBOWVkZmhESDFham00d1RvSXBJZWphQQ?oc=5"
    },
    {
     "titolo": "«Non fermate le armi all’Ucraina». Pensiamo anche alla guerra ibrida",
@@ -269,6 +327,12 @@
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdnpPbDJOSnF3Y2NlRWhxcDFxcnhINVpiZlc4QUZjUHBtZkFua0JpazE4WnQ1R3B2VlNxQ212TEhvQVRnZ3ptMFNtZlZjRXJrbXN3WkpXQmpTdEViUjBWOUpUV3lRVVlfa2E1TkxDZmhBOWhta2JJeUFtLU5VUjFGQ2xFMzZVVkVLOG51Wk5VX2FuTmVDVnNHcHpOc3B2SjVoMWtEOTBsbTBJZGJxOHAzaTJOT1dqRTg5OEtCdGZFSV9tR0g3LWExdUdlZXl4OTd4WWw1UkFfYw?oc=5"
    },
    {
+    "titolo": "Ucraina, Crosetto: \"Pronto nuovo pacchetto di aiuti\". Il 10 novembre audizione al Copasir",
+    "fonte": "Adnkronos",
+    "data": "2026-11-05",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3EwcEZzVE1NZmx1ZHlBbmk1elJCLW5LUVE3OVg3TjBvVHZIMDNXNGpIU2cxa1hoTVcyZkx0NGtyWFZaT3NwV3RTRS1uWEJ6ZUYxbnFqZVhYZUtKZWt6cmlHRTVjRm0xYnphSzBJRWsxa1dqdFZXNkxqSUhQdU1XaW5tVXRqak11QlVwX2tyY04xUnZ6MlRBMWtKNkY1QXV4RGdnWjFhWQ?oc=5"
+   },
+   {
     "titolo": "Ucraina, Zelensky spera nei Democratici Usa per nuovi aiuti militari",
     "fonte": "Il Globo",
     "data": "2026-11-05",
@@ -285,6 +349,12 @@
     "fonte": "La Stampa",
     "data": "2026-11-05",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VdIBmwFBVV95cUxNckd0QVJaRElzWFdRY2FLdUd0bkh2d2VkVjBKZ1hoSUJ3QmZCOS1kWjhaU1QtUjhqVW5PMkxGWlJkOERNY2YxRWhDRWdBMU1zVzJUV2xkYXlibHFPbGJjOTlFUjNjYzBlSk9qYVZCWnpSTGtlbW9RSjFBbDBEaGFQY09EbDZudlJSNEN4RkczZ3daUWs1Z0JTUTZ2VQ?oc=5"
+   },
+   {
+    "titolo": "Crosetto va in Senato per gli aiuti militari a Kiev, ma il centrodestra diserta l’Aula",
+    "fonte": "La Stampa",
+    "data": "2026-11-05",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGlmMm5xR09PTEljZXE1SlNnYmREUGE2dFBsYUJEZHBDb2xOSHBPRGJYMXhBS3F4eWpXMzR3cjZvRzJLVnRPd2lkQmRZRWdvMTJ2NTZEUkZCanhRR1lNSlc1dlNHdDBSbkhOOTltbkZ2Z3Z1ZmtGQjlWSFdUaFI1WTRmNmNPMWFBVFRXMHRHeTVDUDdHMWfSAZsBQVVfeXFMTXJHdEFSWkRJc1hXUWNhS3VHdG5IdndlZFYwSmdYaElCd0JmQjktZFo4WlNULVI4alVuTzJMRlpSZDhETWNmMUVoQ0VnQTFNc1cyVFdsZGF5YmxxT2xiYzk5RVIzY2MwZUpPamFWQlp6UkxrZW1vUUoxQWwwRGhhUGNPRGw2bnZSUjRDeEZHM2d3WlFrNWdCU1E2dlU?oc=5"
    },
    {
     "titolo": "Al question time in Senato quesiti su armi a Kiev, minori in carcere e alloggi per gli studenti",
@@ -396,7 +466,7 @@
     "data": "2026-11-05",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNem1qUmdLeTFDZGFWVTN4aWh6clZ3eHVhSVdoaEJ5UW1LbzZtdGdaYXFVNGhMenQ5ZEZuVWs3Q2pNUFRQSmFDZmFVN1dDVzZGdndNTWZMdVlwSUdXa1ZVOEkwNjRqM3BOclloMk9NWjZmZl9YVEhfaVdMY1V3amw3eVpHZWo2SlF0bFJzNGg4T1NQTHpDRER4aDhla0tyNDZvZndmYmpBTzFlOV8yUm5kOGl5TlFKb0QwWWxHTVJlNVZTcVZ0alBEWHlOangzYjI2Tm5R?oc=5",
     "fonte": "Telemia",
-    "n_testate": 3,
+    "n_testate": 4,
     "polemica": false,
     "articoli": [
      {
@@ -416,6 +486,150 @@
       "fonte": "politicamentecorretto.com",
       "data": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWE9fZUJ2MzBzeWNFX1Z3YVJ3YWh5aC1Ld2Q1My1DT2o1cjZ3VGxUeGE3MVlCWmNmY1NCLTRjRm9pQjdzLVlRVkEyRDA0Rlc4WGZUOHFiT0x3cDFwU3ZyaGVMeFlLbmVfMGtRZThtZFl4cE8wckFzakJ1RFhhVmFOSEhjUkZ3VUZmbGpvREZMNDM3Sm5zVE9LY3lCMVFnbWJTenMyN0JlcFk3YUhoTi11ekZMbk5mb3RYYjJQaXN0MXJjUlJDR3pDYnBKb0N6elRPTTNody0wV0RkdG54Yjl6dA?oc=5"
+     },
+     {
+      "titolo": "Pepe: Anche la Basilicata richiederà l’autonomia differenziata. La reazione del M5S e di BCC.",
+      "fonte": "Giornalemio.it",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGtoWTNQaE9sdWc4eTJuc3ZxOU9ScExTY2xXNmVCc0NULXJ5dXFaNnBGTGFwZGFOZ25FUFNibVNkeURseW1fbXZqMHdDVHNBXzRtczFheHU0RG1ScDE0UElWMDRvTzlULUp1endOZVBRTl94VGZBOUFSWmJFVG1jQTh0RG9USkwwYndtR0RXS0wzTG9kY2NVTXNfdkM5ekoySVZBc2tINzRHVDBETWcwRFlZaTdSbDF4TmE3aE1jRQ?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Sanità e autonomia differenziata, il libro che accusa: «La fine del commissariamento frutto di un baratto politico» · CosenzaChannel.it",
+    "data": "2026-11-05",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb04wWlZLMHhpSTh2c0h4MTR5RVJ1dWFpdEJHeks4Q0RNc1o0aWRqaXFJbGVSMTBxeHNtTm1pU1E2V0VWaV9tYjNReHIzTjNLSmFseEZqWUMtMGpxWDVIeDNqRHl0SjQ4NWR5djBqc3NSUnZMQl80Zmk5VXdDOFA2SFN1MHpqVzZoNlFpM2tNQUQ5dFRTNzY5TlhTdXN2LUpZQWtxUkF1RWpndUxFcFIxZDlmWXNkWk5LM1QzUS1NaFYwQ2I1NmQ0SFVlS3ZrVVIzQ0JUdlJjY3JLeGwtRkhUOWJKMU5DaDlKVmhqcTZQYmNUaVkxdnfSAfYBQVVfeXFMTm9OMFpWSzB4aUk4dnNIeDE0eUVSdXVhaXRCR3pLOENETXNaNGlkamlxSWxlUjEwcXhzbU5taVNRNldFVmlfbWIzUXhyM04zS0phbHhGallDLTBqcVg1SHgzakR5dEo0ODVkeXYwanNzUlJ2TEJfNGZpOVV3QzhQNkhTdTB6alc2aDZRaTNrTUFEOXRUUzc2OU5YU3Vzdi1KWUFrcVJBdUVqZ3VMRXBSMWQ5ZllzZFpOSzNUM1EtTWhWMENiNTZkNEhVZUt2a1VSM0NCVHZSY2NyS3hsLUZIVDliSjFOQ2g5SlZoanE2UGJjVGlZMXZ3?oc=5",
+    "fonte": "Cosenza Channel",
+    "n_testate": 3,
+    "polemica": true,
+    "articoli": [
+     {
+      "titolo": "Sanità e autonomia differenziata, il libro che accusa: «La fine del commissariamento frutto di un baratto politico» · CosenzaChannel.it",
+      "fonte": "Cosenza Channel",
+      "data": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb04wWlZLMHhpSTh2c0h4MTR5RVJ1dWFpdEJHeks4Q0RNc1o0aWRqaXFJbGVSMTBxeHNtTm1pU1E2V0VWaV9tYjNReHIzTjNLSmFseEZqWUMtMGpxWDVIeDNqRHl0SjQ4NWR5djBqc3NSUnZMQl80Zmk5VXdDOFA2SFN1MHpqVzZoNlFpM2tNQUQ5dFRTNzY5TlhTdXN2LUpZQWtxUkF1RWpndUxFcFIxZDlmWXNkWk5LM1QzUS1NaFYwQ2I1NmQ0SFVlS3ZrVVIzQ0JUdlJjY3JLeGwtRkhUOWJKMU5DaDlKVmhqcTZQYmNUaVkxdnfSAfYBQVVfeXFMTm9OMFpWSzB4aUk4dnNIeDE0eUVSdXVhaXRCR3pLOENETXNaNGlkamlxSWxlUjEwcXhzbU5taVNRNldFVmlfbWIzUXhyM04zS0phbHhGallDLTBqcVg1SHgzakR5dEo0ODVkeXYwanNzUlJ2TEJfNGZpOVV3QzhQNkhTdTB6alc2aDZRaTNrTUFEOXRUUzc2OU5YU3Vzdi1KWUFrcVJBdUVqZ3VMRXBSMWQ5ZllzZFpOSzNUM1EtTWhWMENiNTZkNEhVZUt2a1VSM0NCVHZSY2NyS3hsLUZIVDliSjFOQ2g5SlZoanE2UGJjVGlZMXZ3?oc=5"
+     },
+     {
+      "titolo": "Basilicata: sull’autonomia differenziata è scontro politico",
+      "fonte": "Ufficio Stampa Basilicata",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFV4N1o0bjRnTUJwczQtLTZqNTduRHZxMElXSlFITXNMT3IweU9kUWJTMy1OdGZXMDAxUlNZS2ZHaldHY2Z6Vm8tZ0JyN2xvM3JkcFZ4WWJkRlFUX0NJd3N6cm9NekxfNWc1TXd4Nld0WEpOSjlNMFhsQUlYWm1jc2paQmt0MjVweTJjUVYwSjhUeU1ZaURKNkpkWUJTTmdMeGs5Q2hoaw?oc=5"
+     },
+     {
+      "titolo": "Autonomia differenziata, Bevacqua accusa Occhiuto: «Scambio con Calderoli per l’uscita dal commissariamento» · LaC News24",
+      "fonte": "LaC News24",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2YyTlF1R0NYaFNPTVRoMHV0blNmNXZwaG5aVDNHUVpINXhFWGNrT1VCWWtrb3FiMHQ4bHN1LWRheUdNdDdIZmx5ajJFQktRbnA0Y0xQd09xTEF6bUVnQlA5OVhEbXRlWS1DbURnYXpKN0t6UExxU0U0bVVJX2ZSV3lPVTZlZENhR3pxUV9Tb2g1cXg4dUNIVFVPS2JwejZ4V1RQTV9UTFh0bEh1VmtEV3hoWExJamphUkI0NVdNT1J1S0JtcHNzVW94RjJVcE9zT1ZMR2szb0wyczA5RXV1MU5TdUzSAeQBQVVfeXFMTnNmMk5RdUdDWGhTT01UaDB1dG5TZjV2cGhuWlQzR1FaSDV4RVhja09VQllra29xYjB0OGxzdS1kYXlHTXQ3SGZseWoyRUJLUW5wNGNMUHdPcUxBem1FZ0JQOTlYRG10ZVktQ21EZ2F6SjdLelBMcVNFNG1VSV9mUld5T1U2ZWRDYUd6cVFfU29oNXF4OHVDSFRVT0ticHo2eFdUUE1fVExYdGxIdVZrRFd4aFhMSWpqYVJCNDVXTU9SdUtCbXBzc1VveEYyVXBPc09WTEdrM29MMnMwOUV1dTFOU3VM?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "C-NoAd: \"Il patto scellerato contro la Costituzione: dopo la legge elettorale, l’autonomia differenziata\"",
+    "data": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURia3h6aklrZDRqd3JTbVFKWmhSRTUtRzlSY2xMQndvOThWWnVuVy0xSUhGeXVYYU1PLTZwbm1pSDM2WEUyaTlDekRTVEFHTEhXQms2c3VqMkV0TGhLV3pVZ2kxOXdCbTdqbHl5Wk1yTHB1dkpaZFpoSi1VQlVxLUtINHF4ZDg4SDBCN05aaV9yUUl4LVQ1WTV5Wnl2aThsUk9CcTByY19WRk5wUnJhNnliaFdyY3l3eVRYUjRiU2JzTWtNbGhVNA?oc=5",
+    "fonte": "Vesuviano News",
+    "n_testate": 3,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "C-NoAd: \"Il patto scellerato contro la Costituzione: dopo la legge elettorale, l’autonomia differenziata\"",
+      "fonte": "Vesuviano News",
+      "data": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURia3h6aklrZDRqd3JTbVFKWmhSRTUtRzlSY2xMQndvOThWWnVuVy0xSUhGeXVYYU1PLTZwbm1pSDM2WEUyaTlDekRTVEFHTEhXQms2c3VqMkV0TGhLV3pVZ2kxOXdCbTdqbHl5Wk1yTHB1dkpaZFpoSi1VQlVxLUtINHF4ZDg4SDBCN05aaV9yUUl4LVQ1WTV5Wnl2aThsUk9CcTByY19WRk5wUnJhNnliaFdyY3l3eVRYUjRiU2JzTWtNbGhVNA?oc=5"
+     },
+     {
+      "titolo": "Bardi spiega sull’autonomia differenziata",
+      "fonte": "Basilicata24",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzAxWDJRUjQ2NTNjdW1Dc1Rnckh5VUlwYUxwTHZUWE5SZ2VXbGI5dDhCYkkzdU1zT0FpS2lyemtJeVd4VXAtQS1TYWJjLWFwNFhHUnoyMDFzMjdDOEdka0tZbTduLUYzeEtPQzVwR2JkRTZKek9USFJpT3hfR1lTR2JvLUFDX1ZTRTZVUw?oc=5"
+     },
+     {
+      "titolo": "L’autonomia differenziata c’è già da diversi decenni",
+      "fonte": "Soverato Web",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVgtV29QZnRlWWxFRjBMU3Q3VTV2QlZVT04wcWR4cE5UVkFMcVFRV1ZMazVjUUVranpvXzBqQWFLazkzcGZWX2NoUmhNUjFicjFwVHBGTVNWTFFBS1NjRXA3Y0lreWU4UmdFTUFRUnFRUXN4T1JDRXRTbjJxZVZZQkxoN1V6QQ?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Autonomia differenziata, Bardi replica alle opposizioni: «Nessuna richiesta formale al Governo»",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNNIBb0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNA?oc=5",
+    "fonte": "TRM network",
+    "n_testate": 2,
+    "polemica": true,
+    "articoli": [
+     {
+      "titolo": "Autonomia differenziata, Bardi replica alle opposizioni: «Nessuna richiesta formale al Governo»",
+      "fonte": "TRM network",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNNIBb0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNA?oc=5"
+     },
+     {
+      "titolo": "Autonomia differenziata, Rutigliano (PD): Bardi consegna la Basilicata alla Lega",
+      "fonte": "SassiLive",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzFrZW1vQmwtZkFCWTV0bnlzdHdldXZ3Q1lVelpBWExHVlFJV0xFTnJ4U29PcWNQelNwajAwem41dnBMTGpvQVJpRWRGOUNGMjIyU2dJeUZfYkxOeEJIWDN1VlRXV2Y1NWFvbDVTd0FRbmRpUF9YS0MwSGZTQTV6b25lU3ZrVVQ5aFZqSU5CbzVIZVk1MjNhY2QyUFVRd2FGOXJxZTQ2eV9nWW9QalJGTkctYnBwc1JMQ0xn?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Autonomia differenziata, Consigliere regionale Bochicchio: il riferimento sono le istituzioni",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmsyVUFoRng0cmRndVRDa0FhaWRoZGh6Z1Q5VEx2TmMxWDAwWHY5UjY1WkE5ampWWlQ2dkVfbEdjN0xUdWhScWVRRnNCUmpTUHcwOVhhZmQzWEw3RnU2Vk52UzFYZDFxTkItdHByQ2N2WHJvOXhGR05rMFVHZUNqRWh0MVpuSUlhLWJ6N1NZRmRETHJQTFM0TGQ3eHlvb2w3QlNCeG41bHVvRFJ4LXBNd0k2akU3LWotUXl4NG1Gb0VEbEN1WEt6Y3Rwc3l5b1E?oc=5",
+    "fonte": "SassiLive",
+    "n_testate": 2,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "Autonomia differenziata, Consigliere regionale Bochicchio: il riferimento sono le istituzioni",
+      "fonte": "SassiLive",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmsyVUFoRng0cmRndVRDa0FhaWRoZGh6Z1Q5VEx2TmMxWDAwWHY5UjY1WkE5ampWWlQ2dkVfbEdjN0xUdWhScWVRRnNCUmpTUHcwOVhhZmQzWEw3RnU2Vk52UzFYZDFxTkItdHByQ2N2WHJvOXhGR05rMFVHZUNqRWh0MVpuSUlhLWJ6N1NZRmRETHJQTFM0TGQ3eHlvb2w3QlNCeG41bHVvRFJ4LXBNd0k2akU3LWotUXl4NG1Gb0VEbEN1WEt6Y3Rwc3l5b1E?oc=5"
+     },
+     {
+      "titolo": "Autonomia differenziata in Basilicata, l’opposizione chiede un confronto urgente in Consiglio regionale",
+      "fonte": "TRM network",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYWhlT09taFBfVXhKVTgxeVF4SlFQUWV5NWNXdmt0SnpwNVpPaG5IR21hcW82YXMwTVVLVElFb1dlTHZPMWc1VVlBanpMcE5Ja2w4djRqNlBBaEs2a3psTE1R0gFiQVVfeXFMTW1haGVPT21oUF9VeEpVODF5UXhKUVBRZXk1Y1d2a3RKenA1Wk9obkhHbWFxbzZhczBNVUtUSUVvV2VMdk8xZzVVWUFqekxwTklrbDh2NGo2UEFoSzZremxMTVE?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Tridico: «Basta propaganda di regime. Dall’autonomia differenziata alla sanità, la Calabria ha bisogno dei numeri della realtà",
+    "data": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFwcGFuTEo5WGVBQVVLcV9oYUlibVMyRjRySHFqV1BLREdyZzBTRWxGQ1JuM1F2cG0wa08xRWs4dEVxSDNuODVxS1E2ZVEyYWQ1V2pRRFd4X2RpdkhubUU1cC1rX2ljeDFzMGxPcTVQR3hPQ20zcGNpbEVsVG5hMF9BRUFDRU5OWTNvTGRzZ3A3ZkVETFQ0UnViODZNYWRQQW9iOXdUb2ZuUzg3aldtSDM3ejZvdHg0TTlFd3QwQzhnYTR0RlBrYzRBSEFST01mU2tNM0J2VUdJbGZXM3c?oc=5",
+    "fonte": "Telemia",
+    "n_testate": 2,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "Tridico: «Basta propaganda di regime. Dall’autonomia differenziata alla sanità, la Calabria ha bisogno dei numeri della realtà",
+      "fonte": "Telemia",
+      "data": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFwcGFuTEo5WGVBQVVLcV9oYUlibVMyRjRySHFqV1BLREdyZzBTRWxGQ1JuM1F2cG0wa08xRWs4dEVxSDNuODVxS1E2ZVEyYWQ1V2pRRFd4X2RpdkhubUU1cC1rX2ljeDFzMGxPcTVQR3hPQ20zcGNpbEVsVG5hMF9BRUFDRU5OWTNvTGRzZ3A3ZkVETFQ0UnViODZNYWRQQW9iOXdUb2ZuUzg3aldtSDM3ejZvdHg0TTlFd3QwQzhnYTR0RlBrYzRBSEFST01mU2tNM0J2VUdJbGZXM3c?oc=5"
+     },
+     {
+      "titolo": "Autonomia differenziata, Consigliere regionale Lacorazza: basta chiacchiere",
+      "fonte": "SassiLive",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlZMYVBzbFJxTXJuQmNidFQyQ2RrSWZkVjBCRjFFUzBlUGFiLW10VUJHOWVBZXIzS2V4UHNUclkwQjBhUHd4Ynd2RENHMDdpZTNVcW5IVjRxMDUwLWN5eHN0V2g3RU1qUTBkNEF5cFJoVXI2eHNiRGdrMVlNNlQ4bUNkcHF2eVY2ODlZTFFhOGVlbzRTblJEdWdtQTNEQS1BNVFzb3FnMzZOeWZoaXNTalc1bHBtRFk?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Autonomia differenziata, Consiglieri regionali Chiorazzo e Vizziello: \"Mentre altre Regioni del Sud difendono i propri territori, Bardi sacrifica gli interessi dei lucani ai giochi politici romani\"",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaEplb3RUaHBnYTEwRVFMUG95UGlrcWVYMDZfakJpYWREajJpMjl0Zy1uM09hcm1fcVowUXV5QzEwX095Y2RJei1KS3FpUXV2VTI1dnZ6NUVubWg0bVhyeEY3TG1femhkZ3BUaXY1VTBaZFlNR3d6QjhBcUh0NjR6YVZ1YjlpUDB5N3VqNEVlaUhfUXd3SlRyN21OOGhYblFjQmhSYjZfR0RlTVlzdF9OOHd3dFNGOFdLeGhxWUVuMnl5a0lCaHNwSXZ4R1dYRUxLQ3FMcjN6YU9mbkJna1FwT0M4SEJDaC01Y0RKeUgtLW0tSEY2ekpEZ2hhOWpvWThwT09CYlZlblRqM05lTzVHbEFBbVFtZDFKSXpHbjlZMUU0TFdKMHg0bmFwOTQ0dzZCSENJWndpSkRrMHhVZVBxVGZVYVhQZEtLMVY5NVlTSDEtWVhvSmc?oc=5",
+    "fonte": "SassiLive",
+    "n_testate": 1,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "Autonomia differenziata, Consiglieri regionali Chiorazzo e Vizziello: \"Mentre altre Regioni del Sud difendono i propri territori, Bardi sacrifica gli interessi dei lucani ai giochi politici romani\"",
+      "fonte": "SassiLive",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaEplb3RUaHBnYTEwRVFMUG95UGlrcWVYMDZfakJpYWREajJpMjl0Zy1uM09hcm1fcVowUXV5QzEwX095Y2RJei1KS3FpUXV2VTI1dnZ6NUVubWg0bVhyeEY3TG1femhkZ3BUaXY1VTBaZFlNR3d6QjhBcUh0NjR6YVZ1YjlpUDB5N3VqNEVlaUhfUXd3SlRyN21OOGhYblFjQmhSYjZfR0RlTVlzdF9OOHd3dFNGOFdLeGhxWUVuMnl5a0lCaHNwSXZ4R1dYRUxLQ3FMcjN6YU9mbkJna1FwT0M4SEJDaC01Y0RKeUgtLW0tSEY2ekpEZ2hhOWpvWThwT09CYlZlblRqM05lTzVHbEFBbVFtZDFKSXpHbjlZMUU0TFdKMHg0bmFwOTQ0dzZCSENJWndpSkRrMHhVZVBxVGZVYVhQZEtLMVY5NVlTSDEtWVhvSmc?oc=5"
      }
     ]
    },
@@ -436,22 +650,6 @@
     ]
    },
    {
-    "titolo": "Autonomia, blitz di Calderoli. Una commissione per i Lep",
-    "data": "2026-11-05",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzN3aFd6U2dvbUZ5cktmUmt5aWFMSHhmcWRRS3RvNV9qeV96YWlsZV9kYkgzdHZJMXRLM3dCRWpxQlJKelFNd0tzNmZ6NElQQkkwTzJYNkxldnhRd0NmeWhXQk5pMF95d3cwRldEdkNhcmltZVF4U1h1WG84WXJ0SUtnYw?oc=5",
-    "fonte": "il manifesto",
-    "n_testate": 1,
-    "polemica": false,
-    "articoli": [
-     {
-      "titolo": "Autonomia, blitz di Calderoli. Una commissione per i Lep",
-      "fonte": "il manifesto",
-      "data": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzN3aFd6U2dvbUZ5cktmUmt5aWFMSHhmcWRRS3RvNV9qeV96YWlsZV9kYkgzdHZJMXRLM3dCRWpxQlJKelFNd0tzNmZ6NElQQkkwTzJYNkxldnhRd0NmeWhXQk5pMF95d3cwRldEdkNhcmltZVF4U1h1WG84WXJ0SUtnYw?oc=5"
-     }
-    ]
-   },
-   {
     "titolo": "Autonomia differenziata, il sindaco sannita Vito Fusco chiama il Sud alla mobilitazione: «A Roma, contro l'Italia divisa»",
     "data": "2026-11-05",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeWlQdnJaZHlYc1hOOHNGX3BybDRhd2duYmlDTldwQk9qUkNMSVQxSndNN2VfTEZwa3E4T0VPUHJZWlpEdDRXd0w4QVFHbll6VUxUVktHSGtJRVNOZU11dG9jOEtXc3JDX3RtclROR0lDTVA5UDVEakIzcFRWUHNRYzlUV09PWnNIVkpUbkdlei1PY1ZWVkJTbkRZU0hBM0VDQmpiQ0EtTnhFek8xVTBQOEFlaTNTOEU3UHRzN0dsT2NUZ2tCdzFUNTVrSTUzRmRCS1RJOUhHWHlJc0JXcGxmd0d3?oc=5",
@@ -468,18 +666,18 @@
     ]
    },
    {
-    "titolo": "Sanità e autonomia differenziata, il libro che accusa: «La fine del commissariamento frutto di un baratto politico» · CosenzaChannel.it",
+    "titolo": "Autonomia, blitz di Calderoli. Una commissione per i Lep",
     "data": "2026-11-05",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb04wWlZLMHhpSTh2c0h4MTR5RVJ1dWFpdEJHeks4Q0RNc1o0aWRqaXFJbGVSMTBxeHNtTm1pU1E2V0VWaV9tYjNReHIzTjNLSmFseEZqWUMtMGpxWDVIeDNqRHl0SjQ4NWR5djBqc3NSUnZMQl80Zmk5VXdDOFA2SFN1MHpqVzZoNlFpM2tNQUQ5dFRTNzY5TlhTdXN2LUpZQWtxUkF1RWpndUxFcFIxZDlmWXNkWk5LM1QzUS1NaFYwQ2I1NmQ0SFVlS3ZrVVIzQ0JUdlJjY3JLeGwtRkhUOWJKMU5DaDlKVmhqcTZQYmNUaVkxdnfSAfYBQVVfeXFMTm9OMFpWSzB4aUk4dnNIeDE0eUVSdXVhaXRCR3pLOENETXNaNGlkamlxSWxlUjEwcXhzbU5taVNRNldFVmlfbWIzUXhyM04zS0phbHhGallDLTBqcVg1SHgzakR5dEo0ODVkeXYwanNzUlJ2TEJfNGZpOVV3QzhQNkhTdTB6alc2aDZRaTNrTUFEOXRUUzc2OU5YU3Vzdi1KWUFrcVJBdUVqZ3VMRXBSMWQ5ZllzZFpOSzNUM1EtTWhWMENiNTZkNEhVZUt2a1VSM0NCVHZSY2NyS3hsLUZIVDliSjFOQ2g5SlZoanE2UGJjVGlZMXZ3?oc=5",
-    "fonte": "Cosenza Channel",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzN3aFd6U2dvbUZ5cktmUmt5aWFMSHhmcWRRS3RvNV9qeV96YWlsZV9kYkgzdHZJMXRLM3dCRWpxQlJKelFNd0tzNmZ6NElQQkkwTzJYNkxldnhRd0NmeWhXQk5pMF95d3cwRldEdkNhcmltZVF4U1h1WG84WXJ0SUtnYw?oc=5",
+    "fonte": "il manifesto",
     "n_testate": 1,
-    "polemica": true,
+    "polemica": false,
     "articoli": [
      {
-      "titolo": "Sanità e autonomia differenziata, il libro che accusa: «La fine del commissariamento frutto di un baratto politico» · CosenzaChannel.it",
-      "fonte": "Cosenza Channel",
+      "titolo": "Autonomia, blitz di Calderoli. Una commissione per i Lep",
+      "fonte": "il manifesto",
       "data": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb04wWlZLMHhpSTh2c0h4MTR5RVJ1dWFpdEJHeks4Q0RNc1o0aWRqaXFJbGVSMTBxeHNtTm1pU1E2V0VWaV9tYjNReHIzTjNLSmFseEZqWUMtMGpxWDVIeDNqRHl0SjQ4NWR5djBqc3NSUnZMQl80Zmk5VXdDOFA2SFN1MHpqVzZoNlFpM2tNQUQ5dFRTNzY5TlhTdXN2LUpZQWtxUkF1RWpndUxFcFIxZDlmWXNkWk5LM1QzUS1NaFYwQ2I1NmQ0SFVlS3ZrVVIzQ0JUdlJjY3JLeGwtRkhUOWJKMU5DaDlKVmhqcTZQYmNUaVkxdnfSAfYBQVVfeXFMTm9OMFpWSzB4aUk4dnNIeDE0eUVSdXVhaXRCR3pLOENETXNaNGlkamlxSWxlUjEwcXhzbU5taVNRNldFVmlfbWIzUXhyM04zS0phbHhGallDLTBqcVg1SHgzakR5dEo0ODVkeXYwanNzUlJ2TEJfNGZpOVV3QzhQNkhTdTB6alc2aDZRaTNrTUFEOXRUUzc2OU5YU3Vzdi1KWUFrcVJBdUVqZ3VMRXBSMWQ5ZllzZFpOSzNUM1EtTWhWMENiNTZkNEhVZUt2a1VSM0NCVHZSY2NyS3hsLUZIVDliSjFOQ2g5SlZoanE2UGJjVGlZMXZ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzN3aFd6U2dvbUZ5cktmUmt5aWFMSHhmcWRRS3RvNV9qeV96YWlsZV9kYkgzdHZJMXRLM3dCRWpxQlJKelFNd0tzNmZ6NElQQkkwTzJYNkxldnhRd0NmeWhXQk5pMF95d3cwRldEdkNhcmltZVF4U1h1WG84WXJ0SUtnYw?oc=5"
      }
     ]
    },
@@ -498,63 +696,81 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjA2UmxlMW5RajRzVEVNVlVhbU8zanVoZkNhNFNkZVBLNG5hajkteFk5aUlXcEFmMmsxelZIRmNBa2MzUzg5UHhzR3dEOGRqWmJjMkJyVUM2SmR6M0J3cktaRjFLYkd1Rm9WblBWeUZxUVBmd1d0SHV3SUNwRFVtaQ?oc=5"
      }
     ]
-   },
-   {
-    "titolo": "C-NoAd: \"Il patto scellerato contro la Costituzione: dopo la legge elettorale, l’autonomia differenziata\"",
-    "data": "2026-11-04",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURia3h6aklrZDRqd3JTbVFKWmhSRTUtRzlSY2xMQndvOThWWnVuVy0xSUhGeXVYYU1PLTZwbm1pSDM2WEUyaTlDekRTVEFHTEhXQms2c3VqMkV0TGhLV3pVZ2kxOXdCbTdqbHl5Wk1yTHB1dkpaZFpoSi1VQlVxLUtINHF4ZDg4SDBCN05aaV9yUUl4LVQ1WTV5Wnl2aThsUk9CcTByY19WRk5wUnJhNnliaFdyY3l3eVRYUjRiU2JzTWtNbGhVNA?oc=5",
-    "fonte": "Vesuviano News",
-    "n_testate": 1,
-    "polemica": false,
-    "articoli": [
-     {
-      "titolo": "C-NoAd: \"Il patto scellerato contro la Costituzione: dopo la legge elettorale, l’autonomia differenziata\"",
-      "fonte": "Vesuviano News",
-      "data": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURia3h6aklrZDRqd3JTbVFKWmhSRTUtRzlSY2xMQndvOThWWnVuVy0xSUhGeXVYYU1PLTZwbm1pSDM2WEUyaTlDekRTVEFHTEhXQms2c3VqMkV0TGhLV3pVZ2kxOXdCbTdqbHl5Wk1yTHB1dkpaZFpoSi1VQlVxLUtINHF4ZDg4SDBCN05aaV9yUUl4LVQ1WTV5Wnl2aThsUk9CcTByY19WRk5wUnJhNnliaFdyY3l3eVRYUjRiU2JzTWtNbGhVNA?oc=5"
-     }
-    ]
-   },
-   {
-    "titolo": "Tridico: «Basta propaganda di regime. Dall’autonomia differenziata alla sanità, la Calabria ha bisogno dei numeri della realtà",
-    "data": "2026-11-04",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFwcGFuTEo5WGVBQVVLcV9oYUlibVMyRjRySHFqV1BLREdyZzBTRWxGQ1JuM1F2cG0wa08xRWs4dEVxSDNuODVxS1E2ZVEyYWQ1V2pRRFd4X2RpdkhubUU1cC1rX2ljeDFzMGxPcTVQR3hPQ20zcGNpbEVsVG5hMF9BRUFDRU5OWTNvTGRzZ3A3ZkVETFQ0UnViODZNYWRQQW9iOXdUb2ZuUzg3aldtSDM3ejZvdHg0TTlFd3QwQzhnYTR0RlBrYzRBSEFST01mU2tNM0J2VUdJbGZXM3c?oc=5",
-    "fonte": "Telemia",
-    "n_testate": 1,
-    "polemica": false,
-    "articoli": [
-     {
-      "titolo": "Tridico: «Basta propaganda di regime. Dall’autonomia differenziata alla sanità, la Calabria ha bisogno dei numeri della realtà",
-      "fonte": "Telemia",
-      "data": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVzFwcGFuTEo5WGVBQVVLcV9oYUlibVMyRjRySHFqV1BLREdyZzBTRWxGQ1JuM1F2cG0wa08xRWs4dEVxSDNuODVxS1E2ZVEyYWQ1V2pRRFd4X2RpdkhubUU1cC1rX2ljeDFzMGxPcTVQR3hPQ20zcGNpbEVsVG5hMF9BRUFDRU5OWTNvTGRzZ3A3ZkVETFQ0UnViODZNYWRQQW9iOXdUb2ZuUzg3aldtSDM3ejZvdHg0TTlFd3QwQzhnYTR0RlBrYzRBSEFST01mU2tNM0J2VUdJbGZXM3c?oc=5"
-     }
-    ]
-   },
-   {
-    "titolo": "Autonomia differenziata, l’attacco di Vittoria Baldino: “Il Governo gestisce il potere e fa da liquidatore del Paese”",
-    "data": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTFuQXN6OEFRQ3Q1LU9rZk9QZjdXVjQySEp1QVlfdmpCLS1RMmIxZXh6LUFmQURTdDNhd283RW5jdHFvWFpkWVFtRnI1cHRESUpOTnpOSEtRREthT3FPeWI0WUxJWFBtam0yRFl2aTJHQ1MwSFVYbTdaNldEdUI1d0FnMVN5OGdSRTBheDQySEJnRnlKQ1AwYVEzR3lRNWhXS3Noekl0VXJ6LUY0SElWWWF1TkU5UmtYVWZwWEE2dE1fc0JHTlpfX2x3amN6WnpoUGZvX19fYWNjcm1iT0E?oc=5",
-    "fonte": "Calabria 7",
-    "n_testate": 1,
-    "polemica": true,
-    "articoli": [
-     {
-      "titolo": "Autonomia differenziata, l’attacco di Vittoria Baldino: “Il Governo gestisce il potere e fa da liquidatore del Paese”",
-      "fonte": "Calabria 7",
-      "data": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTFuQXN6OEFRQ3Q1LU9rZk9QZjdXVjQySEp1QVlfdmpCLS1RMmIxZXh6LUFmQURTdDNhd283RW5jdHFvWFpkWVFtRnI1cHRESUpOTnpOSEtRREthT3FPeWI0WUxJWFBtam0yRFl2aTJHQ1MwSFVYbTdaNldEdUI1d0FnMVN5OGdSRTBheDQySEJnRnlKQ1AwYVEzR3lRNWhXS3Noekl0VXJ6LUY0SElWWWF1TkU5UmtYVWZwWEE2dE1fc0JHTlpfX2x3amN6WnpoUGZvX19fYWNjcm1iT0E?oc=5"
-     }
-    ]
    }
   ],
   "conteggi": {
-   "articoli": 18,
-   "storie": 10,
-   "polemiche": 3,
+   "articoli": 29,
+   "storie": 13,
+   "polemiche": 4,
    "giorni": 14
   },
   "archivio": [
+   {
+    "titolo": "Autonomia differenziata, Consigliere regionale Bochicchio: il riferimento sono le istituzioni",
+    "fonte": "SassiLive",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmsyVUFoRng0cmRndVRDa0FhaWRoZGh6Z1Q5VEx2TmMxWDAwWHY5UjY1WkE5ampWWlQ2dkVfbEdjN0xUdWhScWVRRnNCUmpTUHcwOVhhZmQzWEw3RnU2Vk52UzFYZDFxTkItdHByQ2N2WHJvOXhGR05rMFVHZUNqRWh0MVpuSUlhLWJ6N1NZRmRETHJQTFM0TGQ3eHlvb2w3QlNCeG41bHVvRFJ4LXBNd0k2akU3LWotUXl4NG1Gb0VEbEN1WEt6Y3Rwc3l5b1E?oc=5"
+   },
+   {
+    "titolo": "Pepe: Anche la Basilicata richiederà l’autonomia differenziata. La reazione del M5S e di BCC.",
+    "fonte": "Giornalemio.it",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGtoWTNQaE9sdWc4eTJuc3ZxOU9ScExTY2xXNmVCc0NULXJ5dXFaNnBGTGFwZGFOZ25FUFNibVNkeURseW1fbXZqMHdDVHNBXzRtczFheHU0RG1ScDE0UElWMDRvTzlULUp1endOZVBRTl94VGZBOUFSWmJFVG1jQTh0RG9USkwwYndtR0RXS0wzTG9kY2NVTXNfdkM5ekoySVZBc2tINzRHVDBETWcwRFlZaTdSbDF4TmE3aE1jRQ?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata, Rutigliano (PD): Bardi consegna la Basilicata alla Lega",
+    "fonte": "SassiLive",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzFrZW1vQmwtZkFCWTV0bnlzdHdldXZ3Q1lVelpBWExHVlFJV0xFTnJ4U29PcWNQelNwajAwem41dnBMTGpvQVJpRWRGOUNGMjIyU2dJeUZfYkxOeEJIWDN1VlRXV2Y1NWFvbDVTd0FRbmRpUF9YS0MwSGZTQTV6b25lU3ZrVVQ5aFZqSU5CbzVIZVk1MjNhY2QyUFVRd2FGOXJxZTQ2eV9nWW9QalJGTkctYnBwc1JMQ0xn?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata, Consigliere regionale Lacorazza: basta chiacchiere",
+    "fonte": "SassiLive",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlZMYVBzbFJxTXJuQmNidFQyQ2RrSWZkVjBCRjFFUzBlUGFiLW10VUJHOWVBZXIzS2V4UHNUclkwQjBhUHd4Ynd2RENHMDdpZTNVcW5IVjRxMDUwLWN5eHN0V2g3RU1qUTBkNEF5cFJoVXI2eHNiRGdrMVlNNlQ4bUNkcHF2eVY2ODlZTFFhOGVlbzRTblJEdWdtQTNEQS1BNVFzb3FnMzZOeWZoaXNTalc1bHBtRFk?oc=5"
+   },
+   {
+    "titolo": "Basilicata: sull’autonomia differenziata è scontro politico",
+    "fonte": "Ufficio Stampa Basilicata",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFV4N1o0bjRnTUJwczQtLTZqNTduRHZxMElXSlFITXNMT3IweU9kUWJTMy1OdGZXMDAxUlNZS2ZHaldHY2Z6Vm8tZ0JyN2xvM3JkcFZ4WWJkRlFUX0NJd3N6cm9NekxfNWc1TXd4Nld0WEpOSjlNMFhsQUlYWm1jc2paQmt0MjVweTJjUVYwSjhUeU1ZaURKNkpkWUJTTmdMeGs5Q2hoaw?oc=5"
+   },
+   {
+    "titolo": "Bardi spiega sull’autonomia differenziata",
+    "fonte": "Basilicata24",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzAxWDJRUjQ2NTNjdW1Dc1Rnckh5VUlwYUxwTHZUWE5SZ2VXbGI5dDhCYkkzdU1zT0FpS2lyemtJeVd4VXAtQS1TYWJjLWFwNFhHUnoyMDFzMjdDOEdka0tZbTduLUYzeEtPQzVwR2JkRTZKek9USFJpT3hfR1lTR2JvLUFDX1ZTRTZVUw?oc=5"
+   },
+   {
+    "titolo": "L’autonomia differenziata c’è già da diversi decenni",
+    "fonte": "Soverato Web",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVgtV29QZnRlWWxFRjBMU3Q3VTV2QlZVT04wcWR4cE5UVkFMcVFRV1ZMazVjUUVranpvXzBqQWFLazkzcGZWX2NoUmhNUjFicjFwVHBGTVNWTFFBS1NjRXA3Y0lreWU4UmdFTUFRUnFRUXN4T1JDRXRTbjJxZVZZQkxoN1V6QQ?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata, Bardi replica alle opposizioni: «Nessuna richiesta formale al Governo»",
+    "fonte": "TRM network",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNNIBb0FVX3lxTFBrbTZBbnNla3VKNjBScW01Wk9lY3djazRWOWdWOUNqN0MyRzNta3dnTEFRbHR2ZGxOU1FyaTJhNE56bGNRd2FxVzV4UVphNEdyRjNLNlRwaEcwSlZJTElFeTFZZE9zNkxvbExQUk5sNA?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata in Basilicata, l’opposizione chiede un confronto urgente in Consiglio regionale",
+    "fonte": "TRM network",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYWhlT09taFBfVXhKVTgxeVF4SlFQUWV5NWNXdmt0SnpwNVpPaG5IR21hcW82YXMwTVVLVElFb1dlTHZPMWc1VVlBanpMcE5Ja2w4djRqNlBBaEs2a3psTE1R0gFiQVVfeXFMTW1haGVPT21oUF9VeEpVODF5UXhKUVBRZXk1Y1d2a3RKenA1Wk9obkhHbWFxbzZhczBNVUtUSUVvV2VMdk8xZzVVWUFqekxwTklrbDh2NGo2UEFoSzZremxMTVE?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata, Bevacqua accusa Occhiuto: «Scambio con Calderoli per l’uscita dal commissariamento» · LaC News24",
+    "fonte": "LaC News24",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2YyTlF1R0NYaFNPTVRoMHV0blNmNXZwaG5aVDNHUVpINXhFWGNrT1VCWWtrb3FiMHQ4bHN1LWRheUdNdDdIZmx5ajJFQktRbnA0Y0xQd09xTEF6bUVnQlA5OVhEbXRlWS1DbURnYXpKN0t6UExxU0U0bVVJX2ZSV3lPVTZlZENhR3pxUV9Tb2g1cXg4dUNIVFVPS2JwejZ4V1RQTV9UTFh0bEh1VmtEV3hoWExJamphUkI0NVdNT1J1S0JtcHNzVW94RjJVcE9zT1ZMR2szb0wyczA5RXV1MU5TdUzSAeQBQVVfeXFMTnNmMk5RdUdDWGhTT01UaDB1dG5TZjV2cGhuWlQzR1FaSDV4RVhja09VQllra29xYjB0OGxzdS1kYXlHTXQ3SGZseWoyRUJLUW5wNGNMUHdPcUxBem1FZ0JQOTlYRG10ZVktQ21EZ2F6SjdLelBMcVNFNG1VSV9mUld5T1U2ZWRDYUd6cVFfU29oNXF4OHVDSFRVT0ticHo2eFdUUE1fVExYdGxIdVZrRFd4aFhMSWpqYVJCNDVXTU9SdUtCbXBzc1VveEYyVXBPc09WTEdrM29MMnMwOUV1dTFOU3VM?oc=5"
+   },
+   {
+    "titolo": "Autonomia differenziata, Consiglieri regionali Chiorazzo e Vizziello: \"Mentre altre Regioni del Sud difendono i propri territori, Bardi sacrifica gli interessi dei lucani ai giochi politici romani\"",
+    "fonte": "SassiLive",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaEplb3RUaHBnYTEwRVFMUG95UGlrcWVYMDZfakJpYWREajJpMjl0Zy1uM09hcm1fcVowUXV5QzEwX095Y2RJei1KS3FpUXV2VTI1dnZ6NUVubWg0bVhyeEY3TG1femhkZ3BUaXY1VTBaZFlNR3d6QjhBcUh0NjR6YVZ1YjlpUDB5N3VqNEVlaUhfUXd3SlRyN21OOGhYblFjQmhSYjZfR0RlTVlzdF9OOHd3dFNGOFdLeGhxWUVuMnl5a0lCaHNwSXZ4R1dYRUxLQ3FMcjN6YU9mbkJna1FwT0M4SEJDaC01Y0RKeUgtLW0tSEY2ekpEZ2hhOWpvWThwT09CYlZlblRqM05lTzVHbEFBbVFtZDFKSXpHbjlZMUU0TFdKMHg0bmFwOTQ0dzZCSENJWndpSkRrMHhVZVBxVGZVYVhQZEtLMVY5NVlTSDEtWVhvSmc?oc=5"
+   },
    {
     "titolo": "Autonomia differenziata, fissate le scadenze decisive alla Camera: ecco quando entra in vigore per Veneto, Lombardia, Liguria e Piemonte tra sanità e nuove regole",
     "fonte": "Istituto Impariamo",
@@ -669,19 +885,13 @@
   "tema": "giustizia",
   "storie": [
    {
-    "titolo": "Separazione delle carriere, Forza Italia rilancia la riforma dopo il No al referendum",
+    "titolo": "Dopo il referendum, gli Stati Generali dei Garantisti rilanciano la separazione delle carriere",
     "data": "2026-11-04",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQW1jbjFkcm4wRV9XczM1dW11VmFlQllqdHJVLVFzOW9IQ194VzhIOGtMaGphTW1wby03WGI4bHMwREZ2V2w4WW1XbWgwWTFJYzYyUFU1YzQyTlJhTU9qU3hqdDZIckxQbTNVcDJTNVR4cFlNMlpHYnItRThqUWg3Q0dqdnJLaUNjay05RnFPU3lCbGdKYTJFUGRkOGUwUkdjVDh2NGxOT20tR2p3RHB3dUtaY2VJbUUwR2NrRnNSVnQ4bEZzUzNHdTNaM0dMdUM5WUVjMU1n?oc=5",
-    "fonte": "Antimafia Duemila",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJzZnV6Q0RWdGZ3Tk8xLVVTeGRGcG4xN3BMYlhnSnpibG9Xa0RYQTRfN2c0blVDeHJndmJfeXUzcDV1SXBuZUMtNGdxc3owY3Q0MFNSY3pvdGdfd2w3MXZsRzUzWW5ZbnZQTVNMd09xM3ZXYTNRX0JYelJ6S1FUa3FMczZfM19MSWoySEhJZGs3MW82UHI4cXY5Yk0tSVJRSzlWWXA0dXVHYmxFRm85MXVCX3puLTEyNEVyelo4LTRmaWtMRnd1cklJN0dzanBvWGktbko4VQ?oc=5",
+    "fonte": "IlFaroOnline",
     "n_testate": 3,
     "polemica": false,
     "articoli": [
-     {
-      "titolo": "Separazione delle carriere, Forza Italia rilancia la riforma dopo il No al referendum",
-      "fonte": "Antimafia Duemila",
-      "data": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQW1jbjFkcm4wRV9XczM1dW11VmFlQllqdHJVLVFzOW9IQ194VzhIOGtMaGphTW1wby03WGI4bHMwREZ2V2w4WW1XbWgwWTFJYzYyUFU1YzQyTlJhTU9qU3hqdDZIckxQbTNVcDJTNVR4cFlNMlpHYnItRThqUWg3Q0dqdnJLaUNjay05RnFPU3lCbGdKYTJFUGRkOGUwUkdjVDh2NGxOT20tR2p3RHB3dUtaY2VJbUUwR2NrRnNSVnQ4bEZzUzNHdTNaM0dMdUM5WUVjMU1n?oc=5"
-     },
      {
       "titolo": "Dopo il referendum, gli Stati Generali dei Garantisti rilanciano la separazione delle carriere",
       "fonte": "IlFaroOnline",
@@ -689,10 +899,38 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJzZnV6Q0RWdGZ3Tk8xLVVTeGRGcG4xN3BMYlhnSnpibG9Xa0RYQTRfN2c0blVDeHJndmJfeXUzcDV1SXBuZUMtNGdxc3owY3Q0MFNSY3pvdGdfd2w3MXZsRzUzWW5ZbnZQTVNMd09xM3ZXYTNRX0JYelJ6S1FUa3FMczZfM19MSWoySEhJZGs3MW82UHI4cXY5Yk0tSVJRSzlWWXA0dXVHYmxFRm85MXVCX3puLTEyNEVyelo4LTRmaWtMRnd1cklJN0dzanBvWGktbko4VQ?oc=5"
      },
      {
+      "titolo": "Separazione delle carriere, Forza Italia rilancia la riforma dopo il No al referendum",
+      "fonte": "Antimafia Duemila",
+      "data": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQW1jbjFkcm4wRV9XczM1dW11VmFlQllqdHJVLVFzOW9IQ194VzhIOGtMaGphTW1wby03WGI4bHMwREZ2V2w4WW1XbWgwWTFJYzYyUFU1YzQyTlJhTU9qU3hqdDZIckxQbTNVcDJTNVR4cFlNMlpHYnItRThqUWg3Q0dqdnJLaUNjay05RnFPU3lCbGdKYTJFUGRkOGUwUkdjVDh2NGxOT20tR2p3RHB3dUtaY2VJbUUwR2NrRnNSVnQ4bEZzUzNHdTNaM0dMdUM5WUVjMU1n?oc=5"
+     },
+     {
       "titolo": "I penalisti rilanciano la separazione delle carriere. Arriva la sponda di Forza Italia",
       "fonte": "Domani",
       "data": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1pPa1RRQ0ViOWxLM2RXdm1xZ2dGLUdJNnhxZjVSNkQ3TjhDWEhWVm9GcEFmS21qMXlnM3J0MEpLWWdITGh3MUxUazZoc2s2WlE5T1RJZkpOSV9UN19wMmIyOGRMVUhoRnJhZ3N5Wk85VjdlcHUzWTFlcGFpZERiYlNNb3JUcmVvVzFzTE1JemlpN01XUDVub3V6T19wSTg2LXVrZVdpeFBYQkdXaHkzVkJnazZ4LVI0WDNvVWNSWnYxelNkUFo5RUJhLUlzc0JlZXc?oc=5"
+     }
+    ]
+   },
+   {
+    "titolo": "Il Referendum sulla Giustizia non è stato dimenticato. Il convegno alla Camera sulla terzietà del giudice",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajl6YmdwQS1saVFWNnUzYnRMYjA0SVRFWWh5Q3RNX1VMT1h5YnFuakRjTGdndDdTZjJkTzdBTFJjRVdMV0ItclN1Y1V2Mkt1YkY2c3JCaW1jSVdkWXdQSzVCbkZnZWtlZFFuQVVxb05GeE1yQmRiZEJmUE1Fc2o0YnMwMnBZTW1OajZkcnFCOVRwRnhyZVc2eFp2bks5VU0xY2txdFM1cElHSUpMcVBnSVkwb0JtVzFBWTdONndGSmhxUDFDTWp0N1hHN0g0LTJoeWJVYjhuTQ?oc=5",
+    "fonte": "Il Riformista",
+    "n_testate": 2,
+    "polemica": false,
+    "articoli": [
+     {
+      "titolo": "Il Referendum sulla Giustizia non è stato dimenticato. Il convegno alla Camera sulla terzietà del giudice",
+      "fonte": "Il Riformista",
+      "data": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajl6YmdwQS1saVFWNnUzYnRMYjA0SVRFWWh5Q3RNX1VMT1h5YnFuakRjTGdndDdTZjJkTzdBTFJjRVdMV0ItclN1Y1V2Mkt1YkY2c3JCaW1jSVdkWXdQSzVCbkZnZWtlZFFuQVVxb05GeE1yQmRiZEJmUE1Fc2o0YnMwMnBZTW1OajZkcnFCOVRwRnhyZVc2eFp2bks5VU0xY2txdFM1cElHSUpMcVBnSVkwb0JtVzFBWTdONndGSmhxUDFDTWp0N1hHN0g0LTJoeWJVYjhuTQ?oc=5"
+     },
+     {
+      "titolo": "La giustizia in Italia dopo il referendum sulla separazione delle carriere",
+      "fonte": "Radio Caffè Criminale",
+      "data": "2026-11-08",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0hna2ZLNmVkM28wdUt6aERKUV9FdEZMZTBuU2U2WVRWNlBJbk40bERWclBXMmFjTFU2Szc0OEFPTmp0aHFaUGFnMEg1ODlRTlpuSjBhRjB5NXZDRnlVdEE4cnlsVjJhRHBXSjExX09mTzVZNFhCRzRYbnhxR2xvZGdUaUFvZS12SGc2RURpc2JTTC1QbFdERzF4aGNLRDM2eUdINkE2cHVRd0R2cXplZXpHTk5wNnNrbGc?oc=5"
      }
     ]
    },
@@ -742,12 +980,24 @@
    }
   ],
   "conteggi": {
-   "articoli": 7,
-   "storie": 3,
+   "articoli": 9,
+   "storie": 4,
    "polemiche": 0,
    "giorni": 14
   },
   "archivio": [
+   {
+    "titolo": "La giustizia in Italia dopo il referendum sulla separazione delle carriere",
+    "fonte": "Radio Caffè Criminale",
+    "data": "2026-11-08",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0hna2ZLNmVkM28wdUt6aERKUV9FdEZMZTBuU2U2WVRWNlBJbk40bERWclBXMmFjTFU2Szc0OEFPTmp0aHFaUGFnMEg1ODlRTlpuSjBhRjB5NXZDRnlVdEE4cnlsVjJhRHBXSjExX09mTzVZNFhCRzRYbnhxR2xvZGdUaUFvZS12SGc2RURpc2JTTC1QbFdERzF4aGNLRDM2eUdINkE2cHVRd0R2cXplZXpHTk5wNnNrbGc?oc=5"
+   },
+   {
+    "titolo": "Il Referendum sulla Giustizia non è stato dimenticato. Il convegno alla Camera sulla terzietà del giudice",
+    "fonte": "Il Riformista",
+    "data": "2026-11-07",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQajl6YmdwQS1saVFWNnUzYnRMYjA0SVRFWWh5Q3RNX1VMT1h5YnFuakRjTGdndDdTZjJkTzdBTFJjRVdMV0ItclN1Y1V2Mkt1YkY2c3JCaW1jSVdkWXdQSzVCbkZnZWtlZFFuQVVxb05GeE1yQmRiZEJmUE1Fc2o0YnMwMnBZTW1OajZkcnFCOVRwRnhyZVc2eFp2bks5VU0xY2txdFM1cElHSUpMcVBnSVkwb0JtVzFBWTdONndGSmhxUDFDTWp0N1hHN0g0LTJoeWJVYjhuTQ?oc=5"
+   },
    {
     "titolo": "Parla Caiazza: \"Si possono separare le carriere senza toccare la Costituzione. Di Pietro al Csm? Interessante\"",
     "fonte": "Il Foglio",

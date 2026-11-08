@@ -12905,6 +12905,16 @@
      "contrari": 0,
      "astenuti": 1,
      "fonte": "http://dati.senato.it/votazione/19-232-29"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2099",
+     "data": "2024-11-05",
+     "tipo": "finale",
+     "favorevoli": 266,
+     "contrari": 0,
+     "astenuti": 0,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_376_006"
     }
    ],
    "scheda_senato": "https://dati.senato.it/ddl/58614.html",
@@ -12913,7 +12923,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 16 settembre 2024, è diventata legge il 6 novembre 2024: 51 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Senato: 130 sì, 0 no, 1 astenuti (16 ottobre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 130 sì, 0 no, 1 astenuti (16 ottobre 2024); Camera: 266 sì, 0 no, 0 astenuti (5 novembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -13194,6 +13204,16 @@
      "contrari": 0,
      "astenuti": 0,
      "fonte": "http://dati.senato.it/votazione/19-218-15"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.2030",
+     "data": "2024-11-05",
+     "tipo": "finale",
+     "favorevoli": 260,
+     "contrari": 0,
+     "astenuti": 0,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_376_017"
     }
    ],
    "scheda_senato": "https://dati.senato.it/ddl/58496.html",
@@ -13202,7 +13222,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 3 maggio 2024, è diventata legge il 18 novembre 2024: 199 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Senato: 150 sì, 0 no, 0 astenuti (11 settembre 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 150 sì, 0 no, 0 astenuti (11 settembre 2024); Camera: 260 sì, 0 no, 0 astenuti (5 novembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": null,
@@ -13253,6 +13273,16 @@
      "contrari": 0,
      "astenuti": 0,
      "fonte": "http://dati.senato.it/votazione/19-184-11"
+    },
+    {
+     "camera": "Camera",
+     "fase": "C.1849",
+     "data": "2024-11-05",
+     "tipo": "finale",
+     "favorevoli": 268,
+     "contrari": 0,
+     "astenuti": 0,
+     "fonte": "http://dati.camera.it/ocd/votazione.rdf/vs19_376_012"
     }
    ],
    "scheda_senato": "https://dati.senato.it/ddl/58218.html",
@@ -13261,7 +13291,7 @@
     "cosa_e": "Autorizza la ratifica di un accordo internazionale e ne ordina l'esecuzione: una volta ratificato, l'accordo vincola l'Italia.",
     "fatti": [
      "Presentata dal Governo il 28 febbraio 2024, è diventata legge il 18 novembre 2024: 264 giorni e 2 letture tra Camera e Senato.",
-     "Ultimo voto finale — Senato: 123 sì, 0 no, 0 astenuti (30 aprile 2024). Nessun voto contrario."
+     "Ultimo voto finale — Senato: 123 sì, 0 no, 0 astenuti (30 aprile 2024); Camera: 268 sì, 0 no, 0 astenuti (5 novembre 2024). Nessun voto contrario."
     ]
    },
    "descrizione_governo": {
@@ -21219,7 +21249,7 @@
       "titolo": "ABROGAZIONE della LEGGE 2 dicembre 2025 , n. 181 (Introduzione del delitto di femminicidio e altri interventi normativi per il contrasto alla violenza nei confronti delle donne e per la tutela delle vittime. )",
       "quesito": "",
       "estremi": "5400003",
-      "firme_online": 228,
+      "firme_online": 229,
       "soglia": 50000,
       "inizio": "2026-07-19",
       "fine": "2027-01-19",

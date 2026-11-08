@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-07T09:32:44+00:00",
+ "aggiornato_il": "2026-11-08T06:16:48+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -257,6 +257,12 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmE5RGlnQ3NOSVFTMk1YZnR1N3U5ckVvaTMxXzVIMExFYWZidWRPRGI0RThRY0tDMWFXd2FINlNKZXFpUWl5OEstcE9HN1ZSVGlSQ3NiR3lnQVpUdVF6MUpTMFQyNXlENl95Q3FIdmVqRjZVdHJURGFrcm1TY0hmRnFXV3RxaFhYZ1NQeVQzUUpwMEtEM05rV1BXeURVT1hrNUo2bGxJUWRoYjg?oc=5"
     },
     {
+     "titolo": "I tempi del DDL sull'antisemitismo: intervista a Paolo Emilio Russo (5.11.2026)",
+     "fonte": "Radio Radicale",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFyZVlFRVZNcWd5REpiVXlzTG8tTldheTVxUE15QU56M25iVnFTOUwyTHdVbWdGNlBsTDk2NGx3dW9RaldyOUZvQkJKZmVUX0tybTNtRTdmTnU4RXd4TWJzNktnMXU5QXNsYXE1a1lPb2ZpdUtYN2VjUktqcVNlX1hHYS1PeUQzaGpzeE16NkJrYU13NWN2THNXNmplT3NZWVV6N19VZVpXMzdw?oc=5"
+    },
+    {
      "titolo": "DDL sull’antisemitismo, le critiche alla definizione IHRA e il dibattito sulla libertà di espressione",
      "fonte": "Blitz quotidiano",
      "data": "2026-11-05",
@@ -264,7 +270,7 @@
     },
     {
      "titolo": "Ostia, incontro pubblico sulla proposta di legge contro l'antisemitismo: il dibattito su libertà di critica e sionismo",
-     "fonte": "Ostiatv",
+     "fonte": "Ostia TV",
      "data": "2026-11-04",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnlaWnI4bmQ4QUhleklOdFlDM2NYZUdTRHh5VkJlczhxME5rUUpTUUNSbU5TZU5ZczFLNXItRWp3SnR2QzM0UmVRNkpEaFR5TnhpZlQtcE1WMGpTMVNLamJyb1RyYkVqckpDbmhkeGsySFhJYjMzNjJ2MFZBQjBZSlZVeFhsd0hkOWhyLVVWYUREZWZ6RnBRTjFINzBFdXRiRmZaTEtQRGNLY3B6Nm5XNUhONURKcXk5MzYxSjZpdFpCamVQU3dtbEpSNFFkRlZjTExxbU52Y1BlRjQ3?oc=5"
     }
@@ -487,44 +493,7 @@
    "prima": null,
    "proponenti_monitorati": [],
    "abbinate": [],
-   "notizie": [
-    {
-     "titolo": "FI – FORZA ITALIA * CAMERA: «SEPARAZIONE CARRIERE, FONDAZIONE EINAUDI: AVANTI CON LEGGE ORDINARIA» – Agenzia giornalistica Opinione. Notizie da Italia – Mondo / Trentino Alto Adige",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHFBM0dyMVE1bmt3bjBqcWEzOW5PdXA5TDVBYWFRQnZLbEFEOTZZdC04bDY0R1VISnh6M0Zvci14ZTRhN2JEZGhnOTFGM3QyaWRiME1BTUhHZWxMYjVtS09tVUxSUTVfZGtGRTlwNUduSDliWGIzNW9URHp6VEo2UTROSktwcXhZMFVSaG1fV1RrNGJBTE5GbXY0MTVwS1lLZ0dOTnFHZkZIUkgzVzZreW1HcTE2V2gyRzFLcFBPMTdzV0JubjlXOWFlVXpiN3hUTzRaSkRZRlhjUmR6SVE?oc=5"
-    },
-    {
-     "titolo": "FI - FORZA ITALIA * CAMERA: «GIUSTIZIA, MULÈ, AVANTI CON NUOVA PDL SEPARAZIONE CARRIERE",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0s2bUxHdzhOWnI0NUV5YlAybjlXMkk1YTFDbGs0dElyYzIydHh1dWlzNHhuWHljdWNoUTh2VTR2Q0RvWVdkd0Z5bzFWTHZiZUdFdzd0c19KSDMyQ0plTzJPd3R0Q2xYZzdrOHEwYjVmSXZxR3B2eWxRVkpPbXVpUkxxbVZ5dG03c1BtcS1KcVBEOWowc3RaS21rNTJTb2VCOWVJQzJnczdtYnIwUlpBRXVJS3EzNTR6Z0tSeTY4dWhHN0dzN0tUczBVR29kQmh2?oc=5"
-    },
-    {
-     "titolo": "Giustizia, Nordio \"Separazione carriere è conseguenza riforma Vassalli dell'89\" 25/02/2026",
-     "fonte": "L'eco del sud",
-     "data": "2026-11-05",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnU3Q3hyZVdGSXVMd3JIaGN1WXV1V2kyQjFlM1YxeXlLSzRMdmc5bmhuMzE3MU1fSEptYUZWYkJOTHE5M0cxWW1fTUNKeE5rUEJURmpKSmpPcnVtTl9WeVl4RUh0RWNTTzR1WUhwa2pnM0UzM0ltZFdueTFuTDB1QmlsSUVvblNVV2FadUE0WXc0Sl9pczFkTzJHcXFuUlZVU1Q4c2xtZmhZeFdpUzVLdmdjcEpsZHp0NWdHVkxB?oc=5"
-    },
-    {
-     "titolo": "Separazione delle carriere, Forza Italia rilancia la riforma dopo il No al referendum",
-     "fonte": "Antimafia Duemila",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQW1jbjFkcm4wRV9XczM1dW11VmFlQllqdHJVLVFzOW9IQ194VzhIOGtMaGphTW1wby03WGI4bHMwREZ2V2w4WW1XbWgwWTFJYzYyUFU1YzQyTlJhTU9qU3hqdDZIckxQbTNVcDJTNVR4cFlNMlpHYnItRThqUWg3Q0dqdnJLaUNjay05RnFPU3lCbGdKYTJFUGRkOGUwUkdjVDh2NGxOT20tR2p3RHB3dUtaY2VJbUUwR2NrRnNSVnQ4bEZzUzNHdTNaM0dMdUM5WUVjMU1n?oc=5"
-    },
-    {
-     "titolo": "“Sulla separazione della carriere non molliamo”. La sfida dei garantisti riparte dalla Camera",
-     "fonte": "il Giornale",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0JDYl9vNHBMbTdVaVBxcVJXaFJQRnVGanhpRlRKZkl4RE9CZGxZRXlkallXVDdWcVhlZlItaGxPeGtVYi1xZlVMNjd3aVMyN3Y5enZKeWJpQkQtb3hXYkczMnNqS3RsYlhldnFwb3lRbVphYXA5alBhR09vSUFQN3AzU3hPcjRobFhMQnVHTmtldWRtcFhud1lTOU1rbGcyNWctTDBZS1ZyVVQ2OExXbFg5cGJiVzNidTZlc01lc2ZTSHlOblB4LWZn?oc=5"
-    },
-    {
-     "titolo": "Giustizia, Forza Italia rilancia la separazione delle carriere: «Ripresenteremo la proposta di legge popolare",
-     "fonte": "Il Dubbio",
-     "data": "2026-10-31",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUlhxaHVsdTdndFhvdHJaRkMxZDhDTmk0eWxLTkNlWGhUUVk1eGtJUl8yVWhvN0xfeTQ5N3BjTnNGaFJoWmF0Z1laTnkxU0ZGeG9ZOE85RlF3ZzRsTHp4bGNnNWRmZldMNkVHbEp3amZtQ29taVYzYlhyblA2bFhoZF9IbmRKbXN5WVhhME82OWljZWR3OU9fWG5BMGd4V2VVNTZJX2FHVFNBdnFIVmVCM1JDNjI5NGxuNUROeER6aks4U3VvZElrejJkLU1nQ0ZCZnhRelRxTHhlNExMRW1abTI4eDVVUEkzblVETUkzcw?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Cambia la Costituzione (articolo 87): separazione delle carriere giudicante e requirente della magistratura."
   },
   {
@@ -600,7 +569,7 @@
     "giorgia-meloni",
     "giancarlo-giorgetti"
    ],
-   "giorni_rimasti": 9,
+   "giorni_rimasti": 8,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 17 settembre 2026, già in vigore: misure urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, e in materia fiscale."
@@ -638,7 +607,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "descrizione_governo": null,
    "notizie": [
     {
@@ -681,7 +650,7 @@
     "giorgia-meloni",
     "carlo-nordio"
    ],
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 29 settembre 2026, già in vigore: misure urgenti su giustizia, funzionalità del Ministero dell'interno e impianti di interesse strategico nazionale."
@@ -718,7 +687,7 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 22,
+   "giorni_rimasti": 21,
    "descrizione_governo": null,
    "notizie": [
     {
@@ -791,7 +760,7 @@
     "giorgia-meloni",
     "gilberto-pichetto-fratin"
    ],
-   "giorni_rimasti": 30,
+   "giorni_rimasti": 29,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo dell'8 ottobre 2026, già in vigore: misure urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche."
@@ -827,7 +796,7 @@
     "giorgia-meloni",
     "adolfo-urso"
    ],
-   "giorni_rimasti": 38,
+   "giorni_rimasti": 37,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#9",
     "data": "2026-10-13",
@@ -883,7 +852,7 @@
     "giorgia-meloni",
     "matteo-piantedosi"
    ],
-   "giorni_rimasti": 44,
+   "giorni_rimasti": 43,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#6",
     "data": "2026-10-20",
@@ -928,7 +897,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 45,
+   "giorni_rimasti": 44,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#5",
     "data": "2026-10-22",
@@ -980,7 +949,7 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 59,
+   "giorni_rimasti": 58,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042#1",
     "data": "2026-11-05",
@@ -1086,12 +1055,6 @@
     "stato": "approvata definitivamente, in attesa di pubblicazione"
    },
    "notizie": [
-    {
-     "titolo": "Decreto prezzi petroliferi",
-     "fonte": "Stampa Parlamento",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VVpzbVc1U285ci1hcjlqVGREQnVQTDJWbHY4RDBIYW9wVVUzeGNDdDJPVE9VdzN1VndCdjJrU2duTWpmeExFUGI3eUdQMVc3SXhwU0FwSUc1M1FaSjByTDJfSjdvTXdkWENLTE1aMFVmS0hjUDNiQWlVSmI?oc=5"
-    },
     {
      "titolo": "Approvato Decreto sui prezzi petroliferi",
      "fonte": "Camera.it",
@@ -1251,22 +1214,10 @@
      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPV0ZvekpvUExZOURxNGZIQk1YTW5aVHo4TlJITHRLTm5GZkRDUldBNHdiNTh1Z2xTMDQ1M19VcHFUSWsxY0lia1hDMnpZZU1MREVTMHRqV0oyUS12Mi11UjlGeWQ1YjR4X29qTWxiOGlzVTZuZzdnb2lXbWNJbnQtYUg2R0xhWVhIeWNMMm5STzNNRUZ4LXk3NnVzWGxWbVRsVVk1QjdhMVBHeVlwOFk1UTNtUnZseWIxeEpNU0lBb3ViWUNJU2QxeXNGcmtIZTJDQWJobXdFY0p6S2owbDlVaTVhdHBTR1V5NktiNXJkbENKTlNDbmNXUHQyTUtVMWRaeGc5anpDTGktemUyWFRTak1JTFFWSW1VdndxY2E3UXBhN2t5UXZONE83Q2l5am9iQVE?oc=5"
     },
     {
-     "titolo": "Articolo 38 Costituzione: via libera del Senato alla riforma disabilità",
-     "fonte": "News Istruzione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUZleGZicVlaTzNvSUtoT0lsVnQ4bFRXeUFsTmpVTnM5NjZQYUFnMGxaVnU5RHpoTFNFX1VSZDIzeUxUazJpLUdVd3RzNmh2aEdVY2Rac3UwX3VXS2lfWkE4UjhQak5RZjg2ekRNclhhYndxMXBsbDA5d1VqYWRkRmZ4RmVFV0VlVTRldlNvU1dBTTd0R0FvOHVXdkJ6LVdKZFhtXzZvbnNSeUl40gGsAUFVX3lxTFAtRmV4ZmJxWVpPM29JS2hPSWxWdDhsVFd5QWxOalVOczk2NlBhQWcwbFpWdTlEemhMU0VfVVJkMjN5TFRrMmktR1V3dHM2aHZoR1VjZFpzdTBfdVdLaV9aQThSOFBqTlFmODZ6RE1yWGFid3ExcGxsMDl3VWphZGRGZnhGZUVXRWVVNGV2U29TV0FNN3RHQW84dVd2QnotV0pkWG1fNm9uc1J5SXg?oc=5"
-    },
-    {
      "titolo": "Disabilità, il senatore Gianni Berrino: \"Il Ddl Guidi riconosce dignità e diritti nella Costituzione\"",
      "fonte": "Sanremonews",
      "data": "2026-11-05",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOY2NHTXQ4dHhscjlwQ2Y2TzZvQ0t5dENYbWFBa1ZsV2I3cWJydHh4NG1Hdl9BeDR4MzZaN1I1MHNMVGFNMjI1dzRIaWV5cEk1aHdWbEdyUTBYTEd2dlRORTByYVk5cVJXY3R1WWNlNTNTSzVyV1dIWkVOV19Rc0ZObzNfREwyZFBiT0tDOGZrQWFMNGswT1VsOU5FbkR0b1FUZE1VUHhHMC1VRi1PdDBxcUpUM2NPMEdYM2VlZ3gyNXB1T0k1VnM2REVjVklWTGxNa0ZzTjBlV2JUZWplY1hSOHBlR3hVUndIXzhXOFowdl84Y1VkT3g3UEx3a2VaZE9Gb09KOGRFUDcydHdMa0HSAYACQVVfeXFMTy1raW5kWm5FLVRKUmpaa1c5QUtUdFVtQUFBWWRuajFjU010cW13aS1Ib2NGbm81S3cyVTNRMWJsWlM0cmlNdGQ0OE96d1NMZUVmVkZhR1R3QTFWN1ZDdTJPUEd0VHpfbUV3dVMyWnZHeXdjTHY2S2Jmdk5HekdXQmtGOURIaHFDaV96bG95eW5yYTI2U2t5bHBvc041RE9jeXNxVWRfSUVpc1hJQjNOd1JuejVsbHZQbk95V3duTlQ5UUdOeDZCT09tY3lYc09HYy13Q0JpcFNIbVBKaHJ5ZXBja2hadnZ5VVhoTm9fVy1FZndlRC0yc094dEQ5REZKVw?oc=5"
-    },
-    {
-     "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «DISABILITÀ, CATALDI (M5S): TOGLIAMO UNA PAROLA, SCRIVIAMO DIRITTI. ORA LA RIFORMA NON RIMANGA LETTERA MORTA",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOQVAyN0MzQWxmb1pldzQteGNxZjUwYmlxR3R2SFBZRzlxNUhiQ21HM1ZmTUl2TjRLLXRmSGJVc090VVJGR2diM0wxZTBWZ3kxbW04MWdDN2dvR296VzJXbkVBaVY1emVwY1JMWVNMU1F2U2QxYmtUTUlVMnNIekVTbUJ0SlR6T3JZc0RHTXlZMDhCLWtBd0NaelNwaTd1ckJQQ19nR2pkRlVqV1NtMHJIU3JoZ1RvZ083aG5fYlNYQ3JUVWY5b1JEVFpYTFA5ekFPdFNMNmVUMGtra3d6aUFRWVQ3NmROQzkwZUpnWmVfdkZiWnpXR3JfcDZ5LVptOUVnZ1ZMN2JFclllVmg5STdleXh6OGtyV2pKU040?oc=5"
     },
     {
      "titolo": "Persone con disabilità e diritti ad affettività e sessualità: \"Serve una legge\"",
@@ -1441,12 +1392,6 @@
      "fonte": "agenzia giornalistica opinione",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmEtaDZDVTZjMmFEcC1NRE1jeGt0czdOcWMzcm1Mb1NZNzdMYVA5dnYtVUptSFluME9XdC0waWc4Z1hTeV9VSEE5RTRZQkRhS3FOc3owc0t1Q2xNM2ZPQzVra2xZeWZpaWhkdkVVSE1wRWhzbWN4OTNYc1FxWFZRbW96TktUNG9YZ05VUEZKN0tuODhRVnYzTnR0NzM5Q0JTUnBnSkdYWnVwaUV5UDhmQkJrcXhpLWljWER6SjdqVkQ2UTBDcVZlaFI2VC13emhkTnh6X3pvUUE4TGxFU2NsQQ?oc=5"
-    },
-    {
-     "titolo": "Vittime di reato, il Senato approva la tutela in Costituzione : ultimo passaggio alla Camera",
-     "fonte": "Fede e Ragione",
-     "data": "2026-11-01",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXRMSG0tX2dhMFN2dUFvMUItaUpWclgwWl91SDJRS09tajZQZDgxMnJHOVhwZUpoMGZ6R09yellTSlp2YVZndEdKeWxlUDRiYUF2TElLY2NRaHZXMWFjZEw0XzIyNGxvUzlHdktiaGtSalpnVjRaT0l4N1lrN2hVNHBmNUFySWZUVXM2cC1RdnRrdDV2dnZTVElldnlORHYtY29oS01wVTJDY05Xdnp4bGFJTTVXVzN3UU1wR3RoUUFHMEE4MkRRbQ?oc=5"
     }
    ],
    "semplice": "Cambia la Costituzione (articolo 24): tutela delle vittime di reato."
@@ -1494,10 +1439,10 @@
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVkhZd3hVNGVzb082LVl2a2pHYkJXMXk2VDUtMTFnT1ZoR0tHX1BvdkJkTmNVNHFLNGg0cVI1TUsxQ29UdVoyWVdmdV9STFhCVHIycUpFSHVkb3ZROUljNWNXYmdVRU54ckhweGhFaVI0OURXSU5Td01VdGIzcVU4N2pWM0F1TmFjUGFGdVp2U08zemE1WkZNbExmLTQxZzZqelRCUVdoNFlXTGotM3dySUVieVVHdlpIUmdrQzVRcVc4T3N1cEEtakJsNmdFZ1JNNUM5UGNQZ1NnU1R4UlFNYXFiNkVJdVFIZEpYamRqWHJiVC1FNE0tT1RkUUJDbFZoaXYwaWdXLWd3Zw?oc=5"
     },
     {
-     "titolo": "La legge Costa sulla pubblicità delle sentenze di assoluzione: intervista a Enrico Costa (2.11.2026)",
+     "titolo": "La legge Costa sulla pubblicità delle sentenze di assoluzione: intervista ad Enrico Costa (2.11.2026)",
      "fonte": "Radio Radicale",
      "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHduNEJUclVtajhpMklhdnZJdjM1N2oyaVhaY1JjU3ZmbnhMQ0w3Z1BIT1JwbVVKNENaX1I3LTlJOGlSU3JTZmo0VXNmZDBSYjVRVlRJQzRHX1FGUFpRVmR0OGw1OVM0NmlXMHdOUlVsSkpFLVJ3Q0V3X2RVdE1oaDJhbFlxME5EVHNwTnFlOUZDaGNVY3BBSV9TTTdZelVHRlhFdW5wMHdVUnBMc1R0dTM2LTI5RXlWUnI3QThyRWJqQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjhVbmpTY1BJakZSRTdQcndHam56dHJIemFYdEhqbmJEaWp0cG8yUEF4UzFSb2k0eE80ZGdmMG5nSDRKQzNUQnNqeHktLWNsd0dNTy00MThFNGlvWXVfRU5BcjFoZHJqRC1jdXJaeVp6YV9fU0N6VVhPbjM0dm1JdWdVNGhCZDNrT2RlLTRpT0RzN2NzMGRnSkxMQ3h3cVpvNmNHSlNlNExjWFFUR05uX0VmdWpyTzdQekJOaHBBX2llMEk?oc=5"
     }
    ],
    "semplice": "Cambia il codice della privacy su pubblicità delle sentenze di assoluzione o proscioglimento."
@@ -1796,6 +1741,12 @@
    ],
    "notizie": [
     {
+     "titolo": "Autonomia, via libera dal Parlamento per lo schema di intesa con il Veneto",
+     "fonte": "www.lavitadelpopolo.it",
+     "data": "2026-11-07",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3A4Wlg5bTc2cFE1SnpsTklUc09lSDhXczVGbXExRTZ1ZkloSFEtMkVfb0pMT0VPV3BQOUxKQWE3RjRpSklxM2ZRVllONVY5Y3Z6LTRKQXNPZkVOcklENnl1NEN1UWFrdGtxMGxNajFPUWVUZGE3S3M4UTROem00S1A1aVZiay16X0FtNWJOVm1Bc2dFS1czX3ZaTi1YVGVtTU5wNTlDc3psSDRsd1V1QnVwa09iMFpQR1luQmYzZUFjQUFyZ01yUm1HelM?oc=5"
+    },
+    {
      "titolo": "PADOVA | FINE VITA, CAPPATO: «IL GOVERNO NON RISPETTA L’AUTONOMIA DEL VENETO»",
      "fonte": "ANTENNA TRE",
      "data": "2026-11-06",
@@ -1824,12 +1775,6 @@
      "fonte": "La Piazza Web",
      "data": "2026-11-04",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQck40TDNHbjdLS3NZRHN6b2QycU52SWt1UUxkYzFEVVdsRzU2bnkycWswMXFlOFNOSGFqcE1wTGRKZUMtNlVBMG1BeWtYSTBFTmd0b1hsOVBNbVoyZEp2MDlpWjRSanJVQ0NRU1R6WUxLNXVmaHVZQ21wdk1NQVlRUDA1RkVmV2tHdXBOdlVuc3FRN1YyRkVPaU52QTMtbzBHeFMyd0ItQ21oaFdUMzZiQXctRFlfUXhrbDFmNDVka29pdlFtMXVHLXU4QkYxeklRT2V1Q0RHcS1tNDVnOVdrXzNjYV9HeHhoak1tN3RPZC12LWQ0N3l1cHRR?oc=5"
-    },
-    {
-     "titolo": "Autonomia, la Camera fissa le date: Veneto il 20 gennaio",
-     "fonte": "Daily Verona Network",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2I1YWNweUZMenlZTnExbnl3VHFSODk3ZlBIQWlMa3JraGNDUG4zcDhkSkdFTWRjbktvM2VmdElmMC12d21XV0tsckpwd2JDVW9HOWEwUVFydWNScmpGdGMxMjJCNzNMTVVlVWtFUFJaNkZGR2EwZ1ZIU09Rcm1HbmIzVnZvNHZSaGRfSHNYbHFNT0piZ0VBUFJIZw?oc=5"
     }
    ],
    "semplice": "Dà alla Regione Veneto più competenze (autonomia differenziata)."
@@ -1868,6 +1813,12 @@
    "abbinate": [],
    "notizie": [
     {
+     "titolo": "Ddl concorrenza, sei proposte dell’UNRL agli atti della Camera. Mandolesi: \"Se si apre il deposito dei bilanci, coerenza vuole che lo possa fare anche chi i bilanci li controlla\"",
+     "fonte": "https://www.freedompress.it/",
+     "data": "2026-11-07",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPLXgzb1p5d0hvZnNIcmd3N1JoTnJRX2pyN2RfUExXU0g2MDlqd2tjZDJNeFFONTBBNWFpc2xJQnMzbGdNd1hIbW9TcXBUQ3h6VnpxRXpjbC1TN01PdWYyQzFQd2hRbXdBUnpHOTlWSlhDclN2dU5PZ1JObnpUNVdmM05yN0pNMTNjQndCV0hQaWpCS2ZXR1pmOXhPRWF6QVV0N1NRaUdDcTVPM0lCNHNsQnczeUlPZWxSeGJCam1JNGx6cmVUOGo2NDEtSWxLUUd4X0EyUHlCTlVnaGZZWVJSY1ZXcEVFRTBibHlwWUVMM1dTUUlocTVhS0NTU0x0OGZfeWdwN2lsTzA1S1A5RVF1VHBFZmxXaXZhSVR3SWNCclI3cmxjeWd3?oc=5"
+    },
+    {
      "titolo": "Adiconsum scrive alla Commissione della Camera sul DDL Concorrenza 2026: più incentivi alle colonnine elettriche e trasparenza sui prezzi delle ricariche",
      "fonte": "Adiconsum",
      "data": "2026-11-05",
@@ -1878,12 +1829,6 @@
      "fonte": "Il Sole 24 ORE",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTVE3SEdBZ0NOejVMTDlaMFlJWll3RHFlajBuY0RNSWlsV2VCZENXYXotYTJJZXVFdjZ3MzNVODl6eWo2VUhlMVh4a2J0YXN6OWVXcTg2U3hta3ZwTmlXSGJCbVRtaV9udDJ1TA?oc=5"
-    },
-    {
-     "titolo": "Ddl Concorrenza, ok della Camera entro l’11 dicembre",
-     "fonte": "Staffetta Quotidiana",
-     "data": "2026-11-03",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzd3E3T0daSHhpVDkySDZUWXVsUmZ5YUEyMUtqVk9MWmN2d0FJYUtxSkgxcXRaNldWMVN5VVMyNlpHS1VVUWt0YU1aZ2tIdEFJcmZzVmI0eXNrSUo4ZjVJVDJfWnRPQQ?oc=5"
     },
     {
      "titolo": "Ddl Concorrenza 2026, come può cambiare la rete dei carburanti",
@@ -2038,7 +1983,38 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51024"
     }
    ],
-   "notizie": [],
+   "notizie": [
+    {
+     "titolo": "Isole minori, il ddl supera il primo passaggio in Commissione Ambiente. Musumeci: «Presto diventerà legge»",
+     "fonte": "Notiziarioeolie.it",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFNkcU81M2pQSVdoNm93eWotR3kzZGtadUEyUFo5WmtyZXRLdFpQb2l5WWt3TXpLTlZCbGNMZC12aUpwa1RnUVRVcHBRX3ZrQXZhbGRwWjVjYnFHY1Z2QmtYMmt1ZmwyQ0NZV3BnZmFhT2hsOHA3azNHN25fVVV0RmVwdjhTeUh5Y2wyZWh4b1pTUE5FZ25vUXhvN0FIN1B5WDBXM0dlVktlQ0YwTGt3elBCdHJjR0xCVE5vYmtfdWtsUWY0ZDA0Z0g5OTlxcFo2Z0xwMQ?oc=5"
+    },
+    {
+     "titolo": "Veterinario h24 nelle isole minori e ripartenza agricola a Pianosa, c’è l’OK del Governo. Potenti (Lega): ​“Accolti i nostri Ordini del giorno”",
+     "fonte": "Livornopress",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUGxXdXlWTDF0UUNONm0wajIyVWlnMjUtLVNWMzlUMV9oejRxLUFrUlhzVzdFbmpfOWhmSTBtRjh1a0dzZTJSQzVCSExCOHJ5UEZyZXJxbFlXcHZOMVNoX1FYamNObTVrM2FEd3lGbllyOWFVTF9Ib1ltQkQ1WjNxMkM5cGxFNjFmTDBsaUhSNkFVdDVYdkY1cWdpMVp5bDVXV3pncGZLWVRUQ3QwZi1ldzJob3Vwc1dWWWFibXZkc05fRDhuX2xpYnYzTWgwUTRMUHNfUDJvamV6OVA0MGg5T2lVa0t0TVM1cnZQMEJsekJoM05OTlRURUZ3?oc=5"
+    },
+    {
+     "titolo": "Ddl Isole Minori, Musumeci: \"Presto diventerà legge\"",
+     "fonte": "ilSicilia.it",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95XzZGNlRJelhtQzVrZlpIU3VYcnQyY2FUS2hxY0tuX1lJbkcteF9DRFZ0eTM2cUo2UGRrbEg4MUNVbGJjTHBjQXB3aGt3MWJKQU9oUWdtUnI4WFNjUFhUTm5LYkI3TW1xZ3Atckk1S0FDMGpQMkpHZk53?oc=5"
+    },
+    {
+     "titolo": "Ddl isole minori, \"occorrono risposte concrete\"",
+     "fonte": "QUInewsElba.it",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHBrZzUwMU84TlUtNnpvUzNfQkZidjJJSmR4Z3dZSzNmYVJQekJSTkhXcnNvZEVlU1NKSERqcmR0aE1COW5kczdNZmJGS2pDUVRwc1hIRXh5VkZLX3NzWTEyb3MyUnBVYUVaaW1qdFpLUUlKeGFYZWRnZEo5TnlFUWU0WVZXWEk4bk81LTV3R0pEclhYZXE2VU9nNUh0Z9IBowFBVV95cUxQUkhjVFpNbnNBVkxkdzJuQ01mRTBtYXN2MDVmMUVOZWgybjUzTHk3RHh0RXJxc2RvWTJVZUJyZzhNRF81cVFERUlBYl9CNVdoazhDOEpYR2FWeTk3R2pBTzhNX25WTnpTcjR2emM0d1hsUGtRZFJ5WEU1QVZBeEc0dFhOU0ZzamVIYjdGV1NNRXZ2NlQ0YTZUQUpRbjNURVFCREJ3?oc=5"
+    },
+    {
+     "titolo": "Ddl Isole minori: ok in commissione al Senato. Musumeci: “Bene il voto, lascia ben sperare per un celere iter legislativo”",
+     "fonte": "https://www.primanotizia24.it/",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNU1ZNYzUzU00zTkJIRUNrMUVhVkVuV1c2VmFTYmVBWEJiX2I1WXVYMFJGVDBTRUxwUWRJcnV6Qy1fOEFQd1Zuc0VsYzB2bm9DMmlLMmJ5em45Sk1TM0RBTkMxQ0NISC1XSEpXUXlOWVp2Z3VKX09wMjdCSlRSZDVhT0l3Zk5VRENWTGl3NnRBVXMzOFY5Q2NGdkFnQU1ZSHR4bjd0SnJYdVpRd2xnR2xCMldJaG9WTmpIMjUyLVlsN2d2MXdKZzlZT1Bobl9jOHFoVzJKMWFFaXlGWTNOWkpQZHMwLXdMZnBYZ2V2M3BNQ2JIcTBQWkE?oc=5"
+    }
+   ],
    "semplice": "Nuove regole per la valorizzazione delle isole minori marine, lagunari e lacustri."
   },
   {
@@ -2082,14 +2058,8 @@
     {
      "titolo": "Accesso precoce ai farmaci. Dalla proposta Ithaca alla legge di Bilancio, ecco i nodi ancora da sciogliere. Il primo confronto sulle misure della manovra e MFN tra politica, istituzioni e aziende",
      "fonte": "Quotidiano Sanità",
-     "data": "2026-11-06",
+     "data": "2026-11-08",
      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPc0JRNDd5SUIyVEp4VzlBTnlSM0twajg3Q0xELUFFNTN6eHlDaGJFV3JjTy1hbExicERMZTZmMWg4WXhPejlJUXR3RDRQbFlsLXlJZDZaX1Nsb3gwUUNVd3NKN0hLV04wMXY4LVhnUlRTVlVjOEU3ODVZcV85THVyNXg2RTI1Ri13NmhIRk1ZdC0tYy15TUdHM3hEazJ1VjVDTHVCRlFtc01VOXRQSDdsZmN4Vm92OU1nZEp0N1ZpODdDbHFSM2prZzVrRFByUFY4ZVhVRkpKZGN1eDEyVzltOUNUb2hvQWgyaGxoaVJ6TV9aT0ZfYllPTFFyblF2RDFNdXhNZEJqbDQ2T1A5U2hUTW1LUnhRaHdpa3hIcW9KRFZtdnBmdzRnU2hpdFZDS0R1UkNXUlBsbzFvZjJJM2VjNGdvZjE1QXdmbG81TXBrMWNnbGJVWVY4OWtFczVzcjA?oc=5"
-    },
-    {
-     "titolo": "Riforma farmaceutica, respinti gli emendamenti sulla partecipazione dei pazienti e sulle disparità regionali",
-     "fonte": "Sanità Informazione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOHZqZTU5OVNJdjQ1aWhmbEkyNUZQY2dlRzZsZDZqQmRodjVnREs4MXB1MXI2UG5LMFJVUkNtSFAwRjBUNHRFYzhkc2NxZ0tNdE14REM0QVY0aGNzTTlSZ19QZVVqTjJwTDY3UDNfdVY2MmYxMjZNaG81WGdBRFZrYkdNalpuQllobF9ZTzRGcUFRUWVFN2pKTmN3T1VORFAtb21OU0NSQUxuV0pudTNfcHNna2R6aHhKbF82VEFYRFh5dXdVM2U2Zm16X1pTZG5JRExmTWpYT2Fzdw?oc=5"
     }
    ],
    "semplice": "Autorizza il Governo a scrivere, con propri decreti, le regole per la riforma e il riordino della legislazione farmaceutica in materia di accesso al farmaco, monitoraggio e controllo della spesa farmaceutica, prestazione di servizi sanitari sul…"
@@ -2169,14 +2139,7 @@
      "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=51040"
     }
    ],
-   "notizie": [
-    {
-     "titolo": "Roma Capitale, al Senato parte la discussione sulla riforma: emendamenti entro il 10 novembre",
-     "fonte": "La Capitale",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYzZDVUJKS28yRnJMckhZWEZHQzBpTFMyaDdzZlY4RDYxSWM3MmE5bDZ5c2FSYnNob0x1NUhYRllKRWwxSzh2ZUNKZUQwNVViaW5Qa3Y2MkcwS2w0NjJBWnFmUkF3eEpaRmFnSFZWRWxWT1BoZjl1VFBNYnJQdXFuRHV4UDNPZE9Ya0duLURna0dlNkVoendVZFlpdXRYVmY0aGdYdXhQYlhZbUtsSUNvQ1pmSnVCdDJzcjduM1dtUWdCRXNJ?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Cambia la Costituzione (articolo 114): Roma Capitale."
   },
   {
@@ -3715,7 +3678,7 @@
     {
      "titolo": "Libri di testo, dal 2027 versione digitale stampabile a metà prezzo? La novità nella legge di Bilancio",
      "fonte": "Tecnica della Scuola",
-     "data": "2026-11-03",
+     "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0xxQTJzRGFpODBCZUFFODhXT3R2VTY5TUhOckFBVjlvUWtRRi1sOU00VGlhNmxFWUR6YmZwdTR2Wl82dEVieTFVX29XRkdBWjlxRXdvUkNNdkxaZDRWZUZRX2lrdV94OFoxSnNOQ0ktWnljWFA5WHlJNm80bzZZdGVmQXhway0xQXA1cHBxV3JKWDJmZzVLR2J6ekc5MENwS2NYWkpaTW16RkhNODc0bTFyMUJOSnpqTVI5QTg4RDJwQm4ydnI1WUY0c2JNNkE?oc=5"
     },
     {
@@ -3723,24 +3686,6 @@
      "fonte": "la Repubblica",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjNBa0FCc2lPVDZjQTlMb08wTXZrQXZVWlJ0UUJReUdnc0QxVEhYRGZmZ0hoUjZGdUR4TlUyZ2p5VlhmemFUZ3YzTk42MGpwZ2pHX3BYSjd4eVBPZlZwamphcUI2R0lnWHM4cGE3bkRkLTBoVFNUTHd1UHN4cDZOWUt4OHNzWkpKekdmRExLSDBQSHo3cjV1OHpqS2taUzNlWW1pX2trUGwxQzZRRmluV09oOVp5V0nSAbwBQVVfeXFMT1hlMXVyVUdJYjN2aFBzMlhGaUJ3djN5TkR6SXNZOS0wMzlRQjlLWC1Xa2JyS0ktaUdIbXJJWkd2ZzRidi1qcTJuZzNZRVlMWDdTSVFTZlF4OHIxX1J2MzhER0dtVXFOMkkxUnVUYzdWdmV1OUZSMTh1Vl82UXVKdF9YbWsxdy1rOFZ4ZThuYlQtZHpWS2ZBRnU3VnpmXzJsd3RmQUNma0tuWGswRGxwamVsWVNiNVl5MUU1NHY?oc=5"
-    },
-    {
-     "titolo": "Legge di bilancio, case editrici dovranno offrire libri di testo in versione digitale",
-     "fonte": "Corriere Nazionale",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnZQTkxBVTVNLS1OSEU1Q0xrdHJtMFh4eXgxMFJPRzZYcU83clc0ZTM0aGV4X3RCN0tBeDItb2FuQlJaYTl4Z1VMRVo1a0pjM2l0b3YtSnk0LTZ3VU42VWU0cW5qcjZjOURmUV9EMlVpLWgzUk12V21SeFd2akZuNzBpS3F1cXhKVnAxRFh6azNnZzBZMFVzM1pMczBqR1NKd1g3M1RpN3BjUEdGWnpRQkNCbzFwVzRhNWhxU0p3bjNGTjFVazkzUg?oc=5"
-    },
-    {
-     "titolo": "Stretta sul caro libri a scuola e università, testi digitali a metà prezzo e stampabili: copia integrale anche in copisteria. È nella Legge di Bilancio",
-     "fonte": "Orizzonte Scuola Notizie",
-     "data": "2026-10-31",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVEpLZy01YkpSbDZZdUZ1ZlRqb3VEbFIwSUNJRUdLUGN6LXhNd1YxMmdVOGtrazVyc3JLNzJhMnNFdVZYMnJzaFJwT1o3dktaSW9kblFLQk1YNXdCaXlpZ1U0YmRvZUhxVy1iZlBvM3gzZTV4TDhnNTdNSF9mMDhZWmRpcnhyMXo2ZElidHlra1RTN0VHaXVhUkhDUkpCcVI4NF9ZdmNkb081N3RicWFyZWdLMkc2Tjc2cW93eGJ4Q19SUVBYOVpidDRYdnB4X0JwNDRNbjVyekFjTGxPeGd1THh1UFNNZUpGZ0E?oc=5"
-    },
-    {
-     "titolo": "Stretta sul caro libri a scuola e università testi digitali a metà prezzo e stampabili | copia integrale anche in copisteria È nella Legge di Bilancio",
-     "fonte": "Zazoom Social News",
-     "data": "2026-10-31",
-     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcWFCc2RkdlBhWlUwRmswakU2ZDd4Q2Q4QjU3QVdnT2tMOU5tX0FESHBzZWlIZ3MtNkRNRVB5SWtVOG1XNnYycFFiQV9rYzBXVmxkbzhCN1pRTnhQRGltNFFCQnJtQXU0b184bVRPazNZLTk1NDlZV2o0dU5LajI0R0dzWGMzbi1jejhmWGZPM2hWcjRaYUw5UWwyUWxKNnV3Z2g2a0JCcmotdmhCRGFldXM1ZHM4UmlQT2cyOENXRW00S1I2dzBHX3NmUUMxSmg5SUdiWFY4SHAyek9GZklJOFVKRTUxa3ZGZlBPZl9teFgxbllUUlBGcFJLTjdrRzJDMmgtUWVIM0xyVEpmNmhuTlg0SUFaMWtnSDVB?oc=5"
     }
    ],
    "semplice": "Cambia una legge già in vigore su versione digitale stampabile dei libri di testo scolastici e universitari."
@@ -4261,7 +4206,14 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55746",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": [],
+   "notizie": [
+    {
+     "titolo": "La riforma del T.U.F.: una introduzione",
+     "fonte": "Altalex",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRJSmVmM0JaTTZYU2djNVVUU3d3SEJ1ckMzT2hOa1RnQXRITFNIMndYdEF0R2ZVTDdGZ21BNFpfV2ViN1lzcTA1VEhNUEVwSXVzMU9jMmxzeFRaNkJtc2JoQUhnQmFDcHc2UHk2NExjM3hOX250WC01TU1EVEh1WjFFZXJmdW9aNWc?oc=5"
+    }
+   ],
    "semplice": "Cambia il codice dell'ambiente sul sistema nazionale di deposito cauzionale e restituzione degli imballaggi monouso per bevande, la tutela degli utilizzatori e la verifica indipendente dei dati."
   },
   {
@@ -4439,12 +4391,6 @@
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
    "notizie": [
     {
-     "titolo": "Consiglio dei ministri 196, misure su ANAC, Croce Rossa e qualità dell'aria : rinviato il decreto energia",
-     "fonte": "Fede e Ragione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONS1neDg3X1BxMlZLSFJlOEVXejZkaG1WSDBubGh1Q3ZJVmk5ZTdRLW81ejJVYkZta2wtaUpRMWxKUmlUaWliTnJkWXNBYWRoV3llTjYxTHhvNDhGVkFfQ3UxWUt6UmlIb05fdVNDLW9Kb0RIWlA3a05aa252Q1Q3ZVdyeUR6TnkwN3MwMThnYU9adDBYMUdodG9nZkJ3SWFXc09uTmdqNnhQTy10NFE2WmUtUVVkRVNrUlFneHpWWW85NXFKX2Fka3JrcFEzdDduZTVaWlBhUQ?oc=5"
-    },
-    {
      "titolo": "Croce Rossa, il governo approva la riforma: arriva il nome ufficiale «crocerossine»",
      "fonte": "Lo Strillone",
      "data": "2026-11-06",
@@ -4582,6 +4528,12 @@
      "fonte": "Zazoom Social News",
      "data": "2026-11-04",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME4ycnpVRXhYNGJmVi14M0lzT1A2a01ITVRUMlB2eXF1TkZJbEJEb0pVSklTVUJzakZRQVZlemNwV2t3dm9xSWZNU01vRHB5aVFveHNwMHV6UGp4dUVqMG95clZUMkVmRnFPbGdxaVBUQlpodzlZZkNCdmZMbHk1TVRSYzFaVVdIOTBIQURIRTczLXhzbGs3SjZLV1dJTmVxLU14Vm4xRmRpVG0wQVBFUWxNeEw3dw?oc=5"
+    },
+    {
+     "titolo": "Campi Flegrei Fico | Decreto in arrivo",
+     "fonte": "Zazoom Social News",
+     "data": "2026-11-04",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDFpTWVvT2t3R3ZNejY5eHBlOTViRnFSTE9vbm5iUGdqbWpmSnBZMFFoN3ZWY1JtWHBDODRMaW1TY2gzZ2t2Tkl6WWxJZGZYRG0yYTVJVEJ2WDRnalhNUjM0SGwxcTdENG5TM3hMV2hVX0pBVi1jd3VWbng2dmJreHF5YW9hdw?oc=5"
     }
    ],
    "semplice": null
