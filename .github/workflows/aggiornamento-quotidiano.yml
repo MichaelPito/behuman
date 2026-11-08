@@ -30,10 +30,12 @@ jobs:
       - uses: actions/checkout@v5
         with:
           ref: main
+          fetch-depth: 30
       - id: oggi
         name: Dati di oggi già salvati?
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && git log -1 --format=%s | grep -qx "dati: aggiornamento del $(date -u +%F)"; then
+          # i dati di oggi possono essere seguiti da altri commit (es. una PR unita dopo): si cercano negli ultimi 30
+          if [ "${{ github.event_name }}" = "schedule" ] && git log -30 --format=%s | grep -qx "dati: aggiornamento del $(date -u +%F)"; then
             echo "Aggiornamento di oggi già fatto: mi fermo."
             echo "fatto=true" >> "$GITHUB_OUTPUT"
           fi
