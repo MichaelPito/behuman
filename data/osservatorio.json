@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-08T23:19:21+00:00",
+ "aggiornato_il": "2026-11-09T06:26:37+00:00",
  "regole": "config/osservatorio.yaml",
  "politici": {
   "giorgia-meloni": {
@@ -12,6 +12,82 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHdqVGJYckk0OXRPaEdUWXZOdXpVTkJ6cGZ1eU1ydG1nZElmRjJYSnVHamJkSHZhZGExaUEyZzU4VElmckwycmZBdS10UGhOMWNaZDZEMmdCUWNvb2t5ekk4MF9TV1JZMlhOaXIwU3Y2N2NLaDEtbzRTa0NCd1hfc2lvc3Y2aWx6VkpYaFVfckhTODJOZHR5NEZxRGk3cGl0?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Ucraina, Meloni a Costa: «Chi parla per l’Europa al tavolo di pace?»",
+     "testate": [
+      "Il Dubbio"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Ucraina, Meloni a Costa: «Chi parla per l’Europa al tavolo di pace?»",
+       "fonte": "Il Dubbio",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHdqVGJYckk0OXRPaEdUWXZOdXpVTkJ6cGZ1eU1ydG1nZElmRjJYSnVHamJkSHZhZGExaUEyZzU4VElmckwycmZBdS10UGhOMWNaZDZEMmdCUWNvb2t5ekk4MF9TV1JZMlhOaXIwU3Y2N2NLaDEtbzRTa0NCd1hfc2lvc3Y2aWx6VkpYaFVfckhTODJOZHR5NEZxRGk3cGl0?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9jYnBXYTZuQzdXVGNZZk53WU9tM0pHV3BMcVM5cVJmNkxlNVllOTZVSHpCUGl2R25PVnUtU01OTlZEb2xwajJCN2lTWGgxYTBnM2J1UEdOLWwyQWhteU9mcjFwQTFlcHVENjJ1alByTzFaNnBJUXVSZmEybmRrNHFWV3BnZkQ5cnRuWjRrN282OG9yT3kyMU9nTHRSMGVhUHl6NVhrelhyaVdieG10Ym1KSUswZU9fNW12d0w3SVZHczhwSjQ1WlV2c0ExTFNZ?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Ucraina, Meloni giovedì a Dublino. Da Parigi confermano: \"Anche l'Ue ad Abu Dhabi per negoziati\"",
+     "testate": [
+      "LaPresse"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Ucraina, Meloni giovedì a Dublino. Da Parigi confermano: \"Anche l'Ue ad Abu Dhabi per negoziati\"",
+       "fonte": "LaPresse",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9jYnBXYTZuQzdXVGNZZk53WU9tM0pHV3BMcVM5cVJmNkxlNVllOTZVSHpCUGl2R25PVnUtU01OTlZEb2xwajJCN2lTWGgxYTBnM2J1UEdOLWwyQWhteU9mcjFwQTFlcHVENjJ1alByTzFaNnBJUXVSZmEybmRrNHFWV3BnZkQ5cnRuWjRrN282OG9yT3kyMU9nTHRSMGVhUHl6NVhrelhyaVdieG10Ym1KSUswZU9fNW12d0w3SVZHczhwSjQ1WlV2c0ExTFNZ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGU4RFJ2a2lTZWVHVi1mQjRDTmphZmdTcXNKeURnMzFnN083OGRBSnFmX0JHNkxIcm9xRHRDX0tUdDRQUGwycVZkMzZ0cFpUQjREVGpfSTJyQkY3bjJOTVF3QXhheU0takw4RThxMWRLY0FXaVFTRXZsNkREMENUbTE4Z21XQ3hlc0lF?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Fonti Flacks, offerta per l'ex Ilva solo dopo un incontro con Meloni",
+     "testate": [
+      "Il Fatto Quotidiano",
+      "Quotidiano Nazionale"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Fonti Flacks, offerta per l'ex Ilva solo dopo un incontro con Meloni",
+       "fonte": "Quotidiano Nazionale",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGU4RFJ2a2lTZWVHVi1mQjRDTmphZmdTcXNKeURnMzFnN083OGRBSnFmX0JHNkxIcm9xRHRDX0tUdDRQUGwycVZkMzZ0cFpUQjREVGpfSTJyQkY3bjJOTVF3QXhheU0takw4RThxMWRLY0FXaVFTRXZsNkREMENUbTE4Z21XQ3hlc0lF?oc=5"
+      },
+      {
+       "titolo": "Ex Ilva, a mezzanotte si chiude la gara per quel che resta dell’acciaieria. E Flacks si sfila: “Prima un incontro con Meloni”",
+       "fonte": "Il Fatto Quotidiano",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2dITWtiODlWbWdybV91Ri0xbWpNREVZR1FVeWEtTVVNQ0tOcWVQa0t2STdoRUpBSHBDOFd1bGVIc19Qd3llaFVBaG14U0hpUVVId08xNDhYcFltWDR3LTYwOXBZdjJhU3VhTFkzbFd5V1M4N1RaYWJnUkcySDdHX3VVS2FVVE1jLXhER3U4NW9Hc19OYW5B?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmQ3NWVKSV9nWENCYkdzWC0tUlhPelY4U3F2UWhpUG5NRzBQNFJtZk9VQkxGTHlSZzhKN1c3dngwUjJfLURWNHFJeGRQOVRPcFo3dmF3Sl9OQk9KVlFPNGFtdWVYb1dMVU9UNzFWeU10Tm10Q1VKcEFXbjRJVjM4ajgtZEZJZC0wZTNRLTdNa09OLWNaWk5ucGNSOW9uQdIBowFBVV95cUxPSHNNZ1NUdlB5SHViVWFJaXMxWk1EdFFUM1Bfc1BUUmduUXY3ZmJUaGF5c1hkMWd2M0ZQcnRCNWNUcF9KeU1xSG43TDU5VVZCZWFBUHV3LVdEV1BES1FBaEZzQ3pTb3NXMVB2ajJTODc2eXJmNHdhNGJNSXZmTHZPNnhVSjlydDJYMWx1dU0zeDd0Tl9hWGFhQWE0SVJyTEpGRDhj?oc=5",
      "data": "2026-11-08",
@@ -98,29 +174,6 @@
       }
      ],
      "polemica": true,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGU4RFJ2a2lTZWVHVi1mQjRDTmphZmdTcXNKeURnMzFnN083OGRBSnFmX0JHNkxIcm9xRHRDX0tUdDRQUGwycVZkMzZ0cFpUQjREVGpfSTJyQkY3bjJOTVF3QXhheU0takw4RThxMWRLY0FXaVFTRXZsNkREMENUbTE4Z21XQ3hlc0lF?oc=5",
-     "data": "2026-11-08",
-     "titolo": "Fonti Flacks, offerta per l'ex Ilva solo dopo un incontro con Meloni",
-     "testate": [
-      "Quotidiano Nazionale"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Fonti Flacks, offerta per l'ex Ilva solo dopo un incontro con Meloni",
-       "fonte": "Quotidiano Nazionale",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGU4RFJ2a2lTZWVHVi1mQjRDTmphZmdTcXNKeURnMzFnN083OGRBSnFmX0JHNkxIcm9xRHRDX0tUdDRQUGwycVZkMzZ0cFpUQjREVGpfSTJyQkY3bjJOTVF3QXhheU0takw4RThxMWRLY0FXaVFTRXZsNkREMENUbTE4Z21XQ3hlc0lF?oc=5"
-      }
-     ],
-     "polemica": false,
      "social": false,
      "virale": false,
      "citazioni": [],
@@ -803,7 +856,6 @@
      "data": "2026-11-06",
      "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
      "testate": [
-      "Bresciaoggi",
       "FRV News Magazine",
       "L'Arena",
       "MilanoToday",
@@ -815,7 +867,7 @@
       "VeronaSera",
       "motopress.it"
      ],
-     "n_testate": 11,
+     "n_testate": 10,
      "articoli": [
       {
        "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
@@ -13255,150 +13307,6 @@
      ],
      "verifiche": [],
      "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHlrbHZnS3I4a1lPMWRXdzUwVDFQZWdDcFJOMHVZUTZ6S3lzZmJFb19TRGxydHdUbDVna3Y2dHppRlVQbUVELVFiUDhEX0FHck84U0lEUDlMSDFkZEgzZzczQnlSeGdQZ3VEQ0hqZ1YyVXU4M2NWellNMjFpWkhRMFoxNm5OT0lIbkhSWnZGZWtIT1ZuTkhyMFhSZFpEeE9ZMHV4b3VFNmVwejBadWI0NEJuSi1ybmZxTE9TNHhwTlpfTkNnX05vZXNaVkF0ODhTUnlNajloSlNIV1Zwb3puVTF4OGRZOXd3LVFkSXIyQdIB9AFBVV95cUxOZzdINUJTc21zQnFLVEd1SWh2UmlmMHBWWlQyb1lWV2U2TUJRcTBzc0Q4ZDlOSUxPV08xTVpMMXRRWXdLQlpxT2RJMFBYWmkzU0hYY2dmUEVQX3oyWWI4MmRLRlZGYUlZb1dUNWJqdkpiM2RDR1FyN1VnYjF2RkR5dmtMQUF6ek9EY0hOaHV5d3ByS1p3TDlDT2FZLU1ZLUIwMjJnSE9aeUs0cXh2d1JmUE5NU2V0OHpVLUQtQ3Z0N3ZsSDVCenJFbGZIWmFJT0t0eUlhbzk3aW1vUmE5ajBid2Y1S01ZNC1ta1NZMXJsZHFPamo0?oc=5",
-     "data": "2026-10-23",
-     "titolo": "Meloni a San Patrignano: \"La droga rende schiavi e gli schiavi non sono liberi\"",
-     "testate": [
-      "ANSA",
-      "Avvenire",
-      "Quotidiano Nazionale",
-      "RaiNews",
-      "Sky TG24",
-      "la Repubblica"
-     ],
-     "n_testate": 6,
-     "articoli": [
-      {
-       "titolo": "Meloni a San Patrignano: \"La droga rende schiavi e gli schiavi non sono liberi\"",
-       "fonte": "RaiNews",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHlrbHZnS3I4a1lPMWRXdzUwVDFQZWdDcFJOMHVZUTZ6S3lzZmJFb19TRGxydHdUbDVna3Y2dHppRlVQbUVELVFiUDhEX0FHck84U0lEUDlMSDFkZEgzZzczQnlSeGdQZ3VEQ0hqZ1YyVXU4M2NWellNMjFpWkhRMFoxNm5OT0lIbkhSWnZGZWtIT1ZuTkhyMFhSZFpEeE9ZMHV4b3VFNmVwejBadWI0NEJuSi1ybmZxTE9TNHhwTlpfTkNnX05vZXNaVkF0ODhTUnlNajloSlNIV1Zwb3puVTF4OGRZOXd3LVFkSXIyQdIB9AFBVV95cUxOZzdINUJTc21zQnFLVEd1SWh2UmlmMHBWWlQyb1lWV2U2TUJRcTBzc0Q4ZDlOSUxPV08xTVpMMXRRWXdLQlpxT2RJMFBYWmkzU0hYY2dmUEVQX3oyWWI4MmRLRlZGYUlZb1dUNWJqdkpiM2RDR1FyN1VnYjF2RkR5dmtMQUF6ek9EY0hOaHV5d3ByS1p3TDlDT2FZLU1ZLUIwMjJnSE9aeUs0cXh2d1JmUE5NU2V0OHpVLUQtQ3Z0N3ZsSDVCenJFbGZIWmFJT0t0eUlhbzk3aW1vUmE5ajBid2Y1S01ZNC1ta1NZMXJsZHFPamo0?oc=5"
-      },
-      {
-       "titolo": "San Patrignano, Meloni: la droga rende schiavi, gli schiavi non hanno diritti",
-       "fonte": "Sky TG24",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYjB3c2lKWkFSemdNQ24wb2Rkd1VZdzVya0FwZnB3UUhNMmJObmxZY1hnMHdPdmxpY1dWSzhxUkNadWJINmotZ3ZrelNqemdlbXA1Nm82ZGdfQ3RTbTZyaE96dm93bDN5MVJpeFZGZ2poaElTSzdzOGtwTWlrX1RRbTV4WXBmWDZXZ2ZrNm9SM19TX25nMWlnb2NfOGF5Z2UtZVJWNk40V0pUTmVpXzRlYXNiMURvUmlycUhDeFR4LWIzR0xSQmZR?oc=5"
-      },
-      {
-       "titolo": "Meloni a San Patrignano: “Irresponsabile chi definisce la cannabis droga leggera”",
-       "fonte": "la Repubblica",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWdxSmtMUlh0TVR4YVpOQkV6SWM2SGpvUWx1NDBhSEhYdkFudkhoUzZpcUthT2p5RnJET2RsTGFJYTBrVVUxM1EydHY4LWhUWkpRUjd3V1RHN2RFZEZBVjI0cmxwdW5TSTNoT1dVMUJfU0hWWmJyQ2E2TUhsVFNSTE1yaHotbl9ZbkVpRGRXR2ROdjNpbzg5VndEMTBjWmfSAaQBQVVfeXFMTWtiY0Q2NE5aaUo3TF95YU4ybWZSS0xaTS1tQkZ3aGFPMlRfSXNwbkxLRndiby05aGVmaERubzRhQzM1Mm9fYW1BTEd2cXlWdjVuR01MX2xuSFFHQzlMeElTOS1DSzdaZE1OUE9RemNpTnM2cnM3aDN6VVdodU1oSzM0UmRqTWR0NHhiNGlJSTVmYmM0ZVJNakV5Wmk0UTh0ckFTc28?oc=5"
-      },
-      {
-       "titolo": "Meloni a San Patrignano: \"La droga rende schiavi, e gli schiavi non sono liberi\"",
-       "fonte": "la Repubblica",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOF9xME5TRmpubUhzY25FQjg2dUd3SVU3WUhINXBwVS1pWThjNE94VGpQZzR0UGtJamlXQkYxa1IyekVWUl9HQTZPcVFuZXlLX0lDVHh1YmJNMDBXaHZNYi1sZUkydWJCMmFMclJLN0xiS3RVM2xPTm9MYlZMNy01aXBYMnhDTXVlak1oN0dRSHFMWGtCRXEwUXdxQklhWG1PX2RQNjlFZ3JEVW5RVmFUZXlyMXFQRUJzUFl0RThvWmtPM0FnUm9sMUZrVEpQbVZhaUpoMmJR?oc=5"
-      },
-      {
-       "titolo": "San Patrignano, Meloni: 'Da irresponsabili ostinarsi a definire la cannabis droga leggera'",
-       "fonte": "ANSA",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdjZCR2JMa2dDQk1TdURnT2ZDdUVpQUdwWjVnUkJ2bVBSWmxCSzljaGFlcjVsOGZxTkQxMmF6Sm42TTF0TzZCTWhvWFg0ei1tTTlWcTJaTHh1S19IQTZsOGloejhZN3lUVVEzMy11ckNKblJQQlNvMGxiNzhIWjh4MFphSVd0VFk3M3VYU1FoVnlnNWV6cmVUaGxSajRIUXM2LVh4RzNzcjJkbjRMdWFZNHdLYWUyTUUzd2JSdlFWeUVqTU0wTVdMdU8yeURnYTJCdFdxV3JTSlQyZ1ZzODlILThyMHNId0dh0gHuAUFVX3lxTE5zUkx5TGxIbHp6SHBwaE5yOEdsRW1fUkcwV3oyTXRXMGx6OWRsalhnX0lBXzhZT1RrZlFPZWdXYTFfQlNUWnpnT0RmVUd6TmhvcDJfSFJwTlo1U2tZakxlUTBKenZsZlUtd3BIby1zb1l2cFFYWkJqX0ZtSm93cXVCMU1SU1dJWllzbm1QSkFsV1dsdG5lS0xKMndPbXhtUEJfWmtmRmh5ajVGRkloTlk3anlPbGVoZ1pDc0lETGtMY09zcGFpbGZjYzNtSl9GcWg0aXVpWlFQYTZwN1pYaTFzbHVzcUNnbVZoUVpUT3c?oc=5"
-      },
-      {
-       "titolo": "Meloni rilancia la lotta alla droga: cosa è successo a San Patrignano",
-       "fonte": "Avvenire",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHdpNEVRaUl4Um1rUVhsWi1QZjd2eDJLZUhnZ29JS1hQUnI0Q1d6RlJDVGJldGlNOU9jNFN6SWl1MTRsVEl0UG90MlBhb01Ta2hCZ0pVOUVwc2g1bEtleXdMdnFtUzllUUQ5dkpEbHBaX0hxeEtZeGkyaTFRMUNkYzZQT0JPd1BMVnpUTXhMdE4tZ01MbEEtMXI0ZUozM1RNaDM1YXBhVTEzeC1m?oc=5"
-      },
-      {
-       "titolo": "Meloni a San Patrignano: \"Non arrenderci di fronte a chi banalizza la droga\"",
-       "fonte": "RaiNews",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSXQtSmhYMXBOdU5UWlZhYnBWN0R2em1yeUlkTGdYMFBacGFjWEhlNUxDQzVFMHFJUHpjNWtLY2RJdnEzR2VyU0ZicHo3UEc0WU9jMVJwOWJwMnBpYXVJR1k1Z3k4bDk4SHk4cE9DMkRINVV2dUxZVFR3dkxtLUZLNUtfdTBvaWVIRzFreTIzRDZWcnhSaGRfaEsxQzJnLTRmeXQ0WU96cnFQOUlOTFAxMjhfZ2pRN216enhkREFCR29oekdCNlZMYVJaYVZfRFI2a29rbVF2SXIta25zbTV6NlhEaXo1MzDSAewBQVVfeXFMUEJEeVBONDdsWkRhVnM3cUU1aVRBSHJMYTk1ckl6cmJnMkNNQk1sN0JxZ3liSUhCQ29GREdNQ0tMWU42emd5UGx2RTZUOFk1bDc3eV9YUWJ5UGJMemhsSHZnTHJaWUtqeWpJNDBqbEZobmZpbHhJRkJEWkphdkJ1RGV5ZjlwaWNkVFJZZm1Qb2JTejVaRXM1NXZoNmM3QnNfNHV5Q1pvWEtZbkZDQ0NkUlB4aTd5RFMzem9FMlhiRl9NVGJWV2RLV3llb25QSDBVSlRuRmxTLXh5M1dGZlpmWXJLRGpCeWxkaHlJQ1k?oc=5"
-      },
-      {
-       "titolo": "Meloni in visita a San Patrignano: \"La cannabis non è droga leggera\"",
-       "fonte": "Quotidiano Nazionale",
-       "data": "2026-10-24",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05cjJxc3RxSTlzRFJUWXRPb1ozUldmLVF2TUZBOVIxeTB1NUNod1dUcVdVN1FVY2ctY3JENWpJREYxVjY1dmpNM3Z3SFNGU09tRXZoS1lOdjd0emZDREc1c2pOLU5qQmlHbVA3SUJaVEd3czlfU2c?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": true,
-     "citazioni": [
-      "Da irresponsabili ostinarsi a definire la cannabis droga leggera"
-     ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMV2hia0NHbXpld0lNZVhFWnBmMWJ5YzJzRmpQSU10MjFPdTMtczZEZFpCWjZXRk1hM0tTV3JMTFBGUVhkRWxBUTFwY2RKdzJsdVpRRlNxNHRPR0QydGNYSHBMOVhWbXBXeUtDZXc4YkFodw?oc=5",
-     "data": "2026-10-23",
-     "titolo": "Meloni a San Patrignano: “Fabbrica di speranza e libertà”. Poi visita lampo in Kuwait",
-     "testate": [
-      "ANSA",
-      "Borsa Italiana",
-      "Il Resto del Carlino",
-      "Il Sole 24 ORE",
-      "RiminiToday",
-      "Sky TG24"
-     ],
-     "n_testate": 6,
-     "articoli": [
-      {
-       "titolo": "Meloni a San Patrignano: “Fabbrica di speranza e libertà”. Poi visita lampo in Kuwait",
-       "fonte": "Sky TG24",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMV2hia0NHbXpld0lNZVhFWnBmMWJ5YzJzRmpQSU10MjFPdTMtczZEZFpCWjZXRk1hM0tTV3JMTFBGUVhkRWxBUTFwY2RKdzJsdVpRRlNxNHRPR0QydGNYSHBMOVhWbXBXeUtDZXc4YkFodw?oc=5"
-      },
-      {
-       "titolo": "Meloni a San Patrignano: “Una fabbrica di speranza e libertà. La cannabis? Irresponsabile chi la definisce una droga leggera”",
-       "fonte": "Il Resto del Carlino",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVJhSE9fTzd0b2Q5REhaelBrOFVFaXA2U0dLN29OUk9PeC14MVFqOEJHLTdXaVh4VTFRRDY5WXRyWnp6N1JDMU5yME5HY25Ld3hyaF8zcVloV3Z2WU9mYUw0RFZWbEFZdVUwWmpTTWh2T2RkbjQ1WUVDdkVYVmtJYWhyUmkteEtmaFowOGdDMA?oc=5"
-      },
-      {
-       "titolo": "Meloni: «San Patrignano fabbrica di speranza. Basta banalizzare le droghe»",
-       "fonte": "Il Sole 24 ORE",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQy1velNQMnB3N2FHdFFzb3A5MEV1SU84cV96SUhrM1B4clU4Y0Ytb2xQVzBIaF9wQXpPSmZTeFJqU08weG9pMUJSR2V5aTFNaFlaeWJMcEZqRDFnUl9TbE0ybHRYY0FuME5obHpGbGhGWmNmenJvSDhSckRHUlBnaDJNMldfOVVSdHR2WmpFY2ltQkhJOUFJd3lUbVZqX3hYZy1OQzdWUV8?oc=5"
-      },
-      {
-       "titolo": "Meloni a San Patrignano per conferenza su droghe",
-       "fonte": "Sky TG24",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEZoSzNpX3dzallhekhsa3NkUS1kNWNncndaVm1zMF9mVG4ya3FaVVBTYnloUW9XbVM4VW5xYUYydndsdEFnVjdQSmE2MzdzOHlfNVJwMGRJUzdVU0RDV3NVckRkdk00MDltUGUwVFpNeWYwTFRIY0h0ZjdZMmlwWmFOd2hxTEdBa05QYzBaU0tIZUJOSEhsNVJCaDhJV21HMjc5OA?oc=5"
-      },
-      {
-       "titolo": "Lotta alla droga, la premier Meloni riunisce l'Europa a San Patrignano: \"La comunità è una fabbrica di speranza\"",
-       "fonte": "RiminiToday",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDRHTldxdDQ4ekJDOERIdG4tMlNfVXF6RGJqNUdaZHhOMFlvb2gtTU1pdGIwdzZYNkIyUGVJSzdpbWZrLW1qdmRqeHZUdXJFQXpudlF4NEJ6d2RlLUsybURUMmpmWF9HQl9DOFdwVFVSSktiMWNheVVadVVBSU9hQ01VMDlPT09MZThNbVB0NS1Sa0NjTFkxY054RUJxeFI1cVE?oc=5"
-      },
-      {
-       "titolo": "Droghe: Meloni, San Patrignano realta' unica, fabbrica di speranza e di liberta'",
-       "fonte": "Il Sole 24 ORE",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04bVZQLVl4ZUNENmFXV0RpT0s4NFpWMWpXQUJnQ1JDblN4Ym83azM2dElyUGh3QlFjbHJjUzhHOTBUYjl6N2R4RmpxNE1LcHZXWHZGSE9XcmtDNTNnM193MHhNUDVNZ0JhUG4taA?oc=5"
-      },
-      {
-       "titolo": "Meloni in visita in Kuwait: dalla crisi energetica agli equilibri nel Golfo",
-       "fonte": "ANSA",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0dSeWVfUUt2eHQxdlBKX0FSclFwbXY0QkVGV3QxQmlTTmFUM1dWa2tiaXlXeDlVd1dQaXNaQUJFOHhuQXFZUTJpbjRjQmZyRHhuTl9KMTdRM3FsS09LTHUxQnJZVnJPb2N3WXNzNjR6Z2VONzRRSGlTbVNuTjl2SVpITnZfd1k3VEVVZ0t2di1nSVlmWmp0Y19ZUHZaRlhJajkwN3d0VWt0SnRuZnU4aWFuYjZLaVpyTUwwOWlR?oc=5"
-      },
-      {
-       "titolo": "Italia-Kuwait: 4 accordi durante visita Meloni, firmano Agenzia Ice e Leonardo",
-       "fonte": "Il Sole 24 ORE",
-       "data": "2026-10-23",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HZS1HTExreEUxal9XNEhrQVZfMUhRbFpYalREOWR6Q3VTX2E4cW5oallhTy1TU0VIZDFEMEVIaC1Zejd0QXFCT3VfUy1PSlRRY09CMGJsaHkybUFsWmhLZHRsWUJmbDBBX1dPNQ?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": true,
-     "citazioni": [
-      "San Patrignano fabbrica di speranza. Basta banalizzare le droghe"
-     ],
-     "verifiche": [],
-     "confronti": []
     }
    ],
    "fact_check": [
@@ -13717,11 +13625,11 @@
     }
    ],
    "conteggi": {
-    "storie": 405,
+    "storie": 402,
     "polemiche": 48,
     "polemiche_social": 14,
-    "virali": 113,
-    "citazioni": 156,
+    "virali": 108,
+    "citazioni": 147,
     "giorni": 45
    }
   },
@@ -13735,6 +13643,54 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTFiVUNROTFjTVVrZ2NYN0hlTWE3ZHR6TTdxenN4Sk5OMTlUa0V0UWZvY191RTJXVS1KRFVKa3dBaWJveVRMZW9EY3VmRkN0c3FWcjlPb2h2REhkSlpxT004U1ptcGFoWExGYW82bm92UFZRVzdocnk4azJ5Z29NNnVKbE1LaE01WUFOSjFoWlhZbjJqZWdMY1l1ZEZ1eVM2WVZRR2EtS1pBOTVad1VpaVl1SdIBuAFBVV95cUxNTHNGRkpaOTZ5UGpPYjdlSjBTNVVHQ2NwVkdVQjZqWlNvTVpGVVBGVnpXOFJ0bFVUa3ctM1daRURmVUlWbWdwZE5OQXJ0VHhUTmxKNExIY29XRzU2OFZkRGlqTVExOVJ3dXBNUHNHdGdwNHZpUVRucXZiRTNnOHU2SW1LdjdZQ09CeG4tZEJsS0hQaS1GSl9fa2xGSl9rRDRtNzItVzI5TlI5WTFSMHVOV3hUUnk0Q1Rn?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro",
+     "testate": [
+      "la Repubblica"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro",
+       "fonte": "la Repubblica",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTFiVUNROTFjTVVrZ2NYN0hlTWE3ZHR6TTdxenN4Sk5OMTlUa0V0UWZvY191RTJXVS1KRFVKa3dBaWJveVRMZW9EY3VmRkN0c3FWcjlPb2h2REhkSlpxT004U1ptcGFoWExGYW82bm92UFZRVzdocnk4azJ5Z29NNnVKbE1LaE01WUFOSjFoWlhZbjJqZWdMY1l1ZEZ1eVM2WVZRR2EtS1pBOTVad1VpaVl1SdIBuAFBVV95cUxNTHNGRkpaOTZ5UGpPYjdlSjBTNVVHQ2NwVkdVQjZqWlNvTVpGVVBGVnpXOFJ0bFVUa3ctM1daRURmVUlWbWdwZE5OQXJ0VHhUTmxKNExIY29XRzU2OFZkRGlqTVExOVJ3dXBNUHNHdGdwNHZpUVRucXZiRTNnOHU2SW1LdjdZQ09CeG4tZEJsS0hQaS1GSl9fa2xGSl9rRDRtNzItVzI5TlI5WTFSMHVOV3hUUnk0Q1Rn?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NGx2WHBSN3U2QVJVQl9COTFsbzdsQ3pBMzBhdnhuQ3hoNHNpTF9weXhjUEdUWXNZdFI4UnRaSTRIenlzNFhHOWM5V3FYMHNJZlNsU3B5cFNXOU84bmlYQS1tR0VGeXhYcVQ2U25sVHZtZG5xOFA1NA?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Cassani riconfermato a Varese, messaggio a Salvini: “Senza i militanti non si può vincere”",
+     "testate": [
+      "Il Giorno"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Cassani riconfermato a Varese, messaggio a Salvini: “Senza i militanti non si può vincere”",
+       "fonte": "Il Giorno",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NGx2WHBSN3U2QVJVQl9COTFsbzdsQ3pBMzBhdnhuQ3hoNHNpTF9weXhjUEdUWXNZdFI4UnRaSTRIenlzNFhHOWM5V3FYMHNJZlNsU3B5cFNXOU84bmlYQS1tR0VGeXhYcVQ2U25sVHZtZG5xOFA1NA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Senza i militanti non si può vincere"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRE9SZWlIejYyYjRsVzZHcHJPSEh4WkNXUzloWHlacnVhMFF4WHFWTXBMaFVVZk9WMVJxbEZoaDMwOF9vS0FxTFp1VWVQd1UtN2dadGtUQ2poNEhwb01DVHBhc1BnSkROWFlOQU51Q1F4Y2ZmQ1UxZldtV3QtT2xVdmEzMVMxamExVXFxT19PejhEVmNDU1U5ZGNmaE5GaFpjaC1VWmFJc1dIc3J1?oc=5",
      "data": "2026-11-08",
@@ -13764,6 +13720,36 @@
      "citazioni": [
       "Accelerare sul candidato a Como"
      ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTZQcmU1b3JGNG5XMG93aEsxLTYtT3A1NGlRY0x0dGNscnBVN05TSVBIZGdNWk9hRF90aWt4Ul9MMzMyQkg4ZkNnNzBQamN3UHFxOHdsSzR2NHcxdG10ZEZkRlJqVHBCbm1NdUJXVElocERFM0RWQnZDQTU4aU1UdlVEcVdkTUF5WmV5TUE2aXl2Z1d2c214Q3htSjFfNXFJbWluYnpQU3FTbWVwdnllY0oxbzZlZDVfdVV0MGlkQ0lJUng4OExKTV9qQnRsWjFhZnQzTjRIdDJUYlNPc0YyWkthMldMZw?oc=5",
+     "data": "2026-11-08",
+     "titolo": "La Lega dei territori si ribella a Salvini: a Varese vince il candidato nordista (di F. Olivo)",
+     "testate": [
+      "HuffPost Italia",
+      "la Repubblica"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "La Lega dei territori si ribella a Salvini: a Varese vince il candidato nordista (di F. Olivo)",
+       "fonte": "HuffPost Italia",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTZQcmU1b3JGNG5XMG93aEsxLTYtT3A1NGlRY0x0dGNscnBVN05TSVBIZGdNWk9hRF90aWt4Ul9MMzMyQkg4ZkNnNzBQamN3UHFxOHdsSzR2NHcxdG10ZEZkRlJqVHBCbm1NdUJXVElocERFM0RWQnZDQTU4aU1UdlVEcVdkTUF5WmV5TUE2aXl2Z1d2c214Q3htSjFfNXFJbWluYnpQU3FTbWVwdnllY0oxbzZlZDVfdVV0MGlkQ0lJUng4OExKTV9qQnRsWjFhZnQzTjRIdDJUYlNPc0YyWkthMldMZw?oc=5"
+      },
+      {
+       "titolo": "Lega, la fronda continua: Salvini sconfitto a Varese",
+       "fonte": "la Repubblica",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkFHZU9oYldBd1QyZk9aTE9ieXU5cjlRSUxsdXVFT1VYcTlaMUZWbGxHWDZNN1BvajZ5cm82R2pIbjJVRFhIVUs2cXh5UFNNdHdHc1VkODFIRGt0SVhzeFN4TmpiZzhBT1lYbWFDclhEMVhXMjRDM2FEc2Vkc3VhVDJFaWd1d0dIOUR0ejVwWDFfay1yMkNBTFF4VjY4aUXSAaQBQVVfeXFMT3cwZmQ3RmRZRGxYVFdDVjdFeEFaOHFnM0RLeUo4RW9OX3JUUFNrbWNfcDhpX1AxUC14aVBuVVhDbk1qMlNPRVZsNFVYM1MzT1BCU2gxb0RxNmZtSENVeHdqTGZaTGgzTFdiTkNKOExYUkNtaFFkcmVTVEdnOUVETDF3UkM1cVVlVUtLaWFYcUZTM0FyTGhJd1U2N0NsRDUyTmtWZW4?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
      "verifiche": [],
      "confronti": []
     },
@@ -13804,29 +13790,6 @@
        "fonte": "Domani",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjhhRzA3Z1FRWGRoQVRKOFlsR3pTZnZ5VnVCQmZHby1QYmdndnFIQVlGc19fWG1xd3lUUVN4YTk4cE9JazNzVEhFdUFHMnhpeWJDUjE2bUdjV3Bsd2F3U0RLOHpSNDJ0N3UtWVNZVHlRZ0RvUnJoZzh2RmZfMm1id0NpaGxwQjdyUmRJQVRHQlc0RlVXSTRCYkE0ajFHWG1BdDU4ZnhoM0dyTEJJdU9uY1FFVFh4ZGc3Tk5hTkJuTTNkZ3NLTVA0SjktWHR5U0ZmQTFHMnNEYWQ?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTZQcmU1b3JGNG5XMG93aEsxLTYtT3A1NGlRY0x0dGNscnBVN05TSVBIZGdNWk9hRF90aWt4Ul9MMzMyQkg4ZkNnNzBQamN3UHFxOHdsSzR2NHcxdG10ZEZkRlJqVHBCbm1NdUJXVElocERFM0RWQnZDQTU4aU1UdlVEcVdkTUF5WmV5TUE2aXl2Z1d2c214Q3htSjFfNXFJbWluYnpQU3FTbWVwdnllY0oxbzZlZDVfdVV0MGlkQ0lJUng4OExKTV9qQnRsWjFhZnQzTjRIdDJUYlNPc0YyWkthMldMZw?oc=5",
-     "data": "2026-11-08",
-     "titolo": "La Lega dei territori si ribella a Salvini: a Varese vince il candidato nordista (di F. Olivo)",
-     "testate": [
-      "HuffPost Italia"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "La Lega dei territori si ribella a Salvini: a Varese vince il candidato nordista (di F. Olivo)",
-       "fonte": "HuffPost Italia",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcTZQcmU1b3JGNG5XMG93aEsxLTYtT3A1NGlRY0x0dGNscnBVN05TSVBIZGdNWk9hRF90aWt4Ul9MMzMyQkg4ZkNnNzBQamN3UHFxOHdsSzR2NHcxdG10ZEZkRlJqVHBCbm1NdUJXVElocERFM0RWQnZDQTU4aU1UdlVEcVdkTUF5WmV5TUE2aXl2Z1d2c214Q3htSjFfNXFJbWluYnpQU3FTbWVwdnllY0oxbzZlZDVfdVV0MGlkQ0lJUng4OExKTV9qQnRsWjFhZnQzTjRIdDJUYlNPc0YyWkthMldMZw?oc=5"
       }
      ],
      "polemica": false,
@@ -14829,8 +14792,7 @@
      "social": false,
      "virale": true,
      "citazioni": [
-      "Su fine vita serve legge nazionale, ma non credo faremo in tempo",
-      "È troppo tardi"
+      "Su fine vita serve legge nazionale, ma non credo faremo in tempo"
      ],
      "verifiche": [],
      "confronti": []
@@ -23519,7 +23481,7 @@
     }
    ],
    "conteggi": {
-    "storie": 278,
+    "storie": 280,
     "polemiche": 29,
     "polemiche_social": 4,
     "virali": 79,
@@ -23539,6 +23501,79 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWF5aDEzYVdBWmgxNWZjdWZtQ09FOUtZMlhHb2ZKQmh6emdYaDJxWURwRUs1NURPVldMUmNMT1NVV0dRanRpOG1KV0JCeHJPUHhtN0JuYVB6cEs3T2cxQWliSGNfdDZBZVhuNHFWelZZRUhYbGU3bHJsTmJTcGdQZ3B1bGMtN0lqWnZjMWk5SFJscG1XMEh5WldfZGZUM3dVa2FobnRwQnJOUjVtZENPeVhiU1FLYm1TNGF3SnctQ0F6d1UwSnd0bHQ4bXVtRWEwTEhoU1hqbFZvQTVuMkVmRllSanB4Y0dZN04zUXRRN1VZWnJLTEJaWEZ6U2ZPb0dRVDU2cnVvX1NOM2haa0k3a1ZCRXFHTlZlZTR3VGVjSnXSAaYCQVVfeXFMTk5wSTJDV21kbXRtbjgxWmZUbHNYMktucWJzNmxnSUZ3bGFRdjdnUUlwd3oxb0JHUTNvMlR3dEs2WW9NMGgxVGdFSG9jbnRyemtvRGxySlFJa0w5Mjd3Z2NxbVhfTWphM2pPSVhKV1lLalNCeldXbEM5X3ZIaFNMeTFOSGs3M2lETnJJU2dOemhmNnpFd3MxM0FoY1RYU2J5dmI2UGUxUXFUSFMwTUNEc0dBbVhmeFQyRmozc3Q1cWR2NzgxWVBhM3laa2Z3WDd1RWd5Wl9oN1ZpbnJ1YUdXWXRKcFNxbjl6cG11RGxSTS03Vm1UMm4wcmlZZDMwdUMyUGlsVkVkS2tEclBrVkk3eEhkWXFVQUtKSUhIWjJ0SVFHQzJuc293?oc=5",
+     "data": "2026-11-08",
+     "titolo": "I controlli del Viminale sui sistemi vulnerabili. La linea di Tajani al G7: serve un segnale forte",
+     "testate": [
+      "ANSA",
+      "Corriere Roma",
+      "FRV News Magazine",
+      "Gazzetta di Parma",
+      "Giornale di Brescia",
+      "Quotidiano Nazionale",
+      "Tgcom24"
+     ],
+     "n_testate": 7,
+     "articoli": [
+      {
+       "titolo": "I controlli del Viminale sui sistemi vulnerabili. La linea di Tajani al G7: serve un segnale forte",
+       "fonte": "Corriere Roma",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWF5aDEzYVdBWmgxNWZjdWZtQ09FOUtZMlhHb2ZKQmh6emdYaDJxWURwRUs1NURPVldMUmNMT1NVV0dRanRpOG1KV0JCeHJPUHhtN0JuYVB6cEs3T2cxQWliSGNfdDZBZVhuNHFWelZZRUhYbGU3bHJsTmJTcGdQZ3B1bGMtN0lqWnZjMWk5SFJscG1XMEh5WldfZGZUM3dVa2FobnRwQnJOUjVtZENPeVhiU1FLYm1TNGF3SnctQ0F6d1UwSnd0bHQ4bXVtRWEwTEhoU1hqbFZvQTVuMkVmRllSanB4Y0dZN04zUXRRN1VZWnJLTEJaWEZ6U2ZPb0dRVDU2cnVvX1NOM2haa0k3a1ZCRXFHTlZlZTR3VGVjSnXSAaYCQVVfeXFMTk5wSTJDV21kbXRtbjgxWmZUbHNYMktucWJzNmxnSUZ3bGFRdjdnUUlwd3oxb0JHUTNvMlR3dEs2WW9NMGgxVGdFSG9jbnRyemtvRGxySlFJa0w5Mjd3Z2NxbVhfTWphM2pPSVhKV1lLalNCeldXbEM5X3ZIaFNMeTFOSGs3M2lETnJJU2dOemhmNnpFd3MxM0FoY1RYU2J5dmI2UGUxUXFUSFMwTUNEc0dBbVhmeFQyRmozc3Q1cWR2NzgxWVBhM3laa2Z3WDd1RWd5Wl9oN1ZpbnJ1YUdXWXRKcFNxbjl6cG11RGxSTS03Vm1UMm4wcmlZZDMwdUMyUGlsVkVkS2tEclBrVkk3eEhkWXFVQUtKSUhIWjJ0SVFHQzJuc293?oc=5"
+      },
+      {
+       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+       "fonte": "ANSA",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY21DOW1GdVZVNEd2U3Y2Z0RtVU9QWV9WcDUwYnJ6QmVYXzg3Vm9HdGZvN1VkclBUS282ckpzb1AtdlZVaFFOZVNJZHVZbzlDR2REQlJRVGxQb3M4NGozVlNJRldrTE9CRVhkZGgtSmd1cDdtalhLdVM3eTZUdlFiVHBmWTRQVFhJZ283VURVZmRjMWlRYWx5TVp3OFlvM0EzVGpzREUwVUhidVU2aTIxcTlkcVZEVE53OHNSNXIxa05iT21rYUtBbkxTOW5BQkNQQmM0WHNtM2NWb3pHRFdjVURUcWhIaEExbXpUelVkUEotcmZ5YXdxOGdR?oc=5"
+      },
+      {
+       "titolo": "Tajani: \"La guerra ibrida colpisce il sistema democratico, serve un segnale forte dal G7\"",
+       "fonte": "Tgcom24",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWjFfRlhrdjZENGMwMmEtcHdMbXBrd2ZvdU1vUlVtUHJwNDBzLVBVSVUtSHlMVUk1bjVCNG8zOEdVMDBfeGo4QWpVd1Eta05KQTZacUFsYjNaR2FydFF5STlpbkw4T1hBeEhob0pfLU8zTFlLZi1KaFZmNEhpdXIyUDBFYmY1M3FqWlVsNnRvYkVMTzhFVUhMWk1GSkZBNEk1X0tpNTZOOWs1RmdkQXVLWlRjc2pZSVFjVVI1dlhYZW9COWIzOS02YjhoS2dzcjhwXzdvWW13ZGdZM29yOUpkNUdjWQ?oc=5"
+      },
+      {
+       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+       "fonte": "Giornale di Brescia",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOay1HYmdVYWlnX0F1ZU5EdHZ6NFlDUGJ2WktRUkM2RHlfbm50LWN4Y09wTzl5Z1BTMVZEaUJfUGRqTXQzeTVuOGRDQXZCS05wVk1ZNHhhVWoxRFZZXzRkVDl2bHdwbHZYYW1oSVlVc0kzdmlHOWtHQUFJeXRsNGl6XzN2d1d6Vl9qbHpOWDdXSm01cmVyOFlkZWFaTkZ1bjhMUWtnUEFmd3VBclhJS2k0VnFNeDJfbkZmRFlsTkl0QXFYMGFxMnpmSTVR?oc=5"
+      },
+      {
+       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+       "fonte": "FRV News Magazine",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFRiTTMtd0FscnFraWk1ZWJQNnlqRF9ZVGxrTE96RHp6UTlWNnpzd0ZCaWx2czR0aEI5dTI4TVlZTjhwRXBHdGJWUThjSk14WWdHQlBiZGY5OTZwaHZqYTRVR05FaXhocWRPMFpwamVzRllpaHA1U0NsUFlSMXhzUGZmXzVES3JmNEhjLUNfTmxWN3RzeTJHdDNENlFnQjJQcU9rYmRQYw?oc=5"
+      },
+      {
+       "titolo": "Cyberattacchi in Europa, Tajani: \"La guerra ibrida colpisce il sistema democratico, serve un segnale forte dal G7\"",
+       "fonte": "Tgcom24",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTBGQnVvTE5jSWlwc2xwdmV0OEdHREdJRDBVd290eGQ4ZFMwanAybk9ueXBSMWlsNm1WX1YzOHd3Y08ydHFqemlXdG5aelcyQkhkODZ5bFBBd1BVMk1UemM5eVFZdW5MRk02NXRyOFhjOTBRam1HZUF6blhmZjRTdlhzYUE4LUhaTTRmZ25jSzJCY2g1dmpKbjNZY3hSemdIamhsczg2ZmRmZW9HOXlEM25ockdQX1hjWk5yOEpvX2wwbFBZZmllYUthYU8yRVAtZzZiLU5FbVYtb3BnY3A2ZkJid0UxSE9YNGtkakd2V01RVENvcnlQRlhOd1lCZXczU3Bn?oc=5"
+      },
+      {
+       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+       "fonte": "Gazzetta di Parma",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN0Y1MGJZU2Z0ekx0TEZma2ZUeGozVUYwVlhpN2RHQ1d2Q3UxOVlIQjQ0MGItZmtwSHVtSXVKY3RpRUhSZUlUWEdEcmtjZVMtOWhib3YzcXlnZ2k3Q1NyeVZVbTFfNkRwSHo5Qi1WOU1iZUlZM09ZbVRidTMwZ3R5RjBVVFBndGRyVnFmOU1fd3ZtUFZ4OWp5S0VOek00cTRmNVNROXZjcGNpbDVROG8yNFBraW94WUI1cHAteEp0WUp0OWRMM1piUHpNbVRLU09Ga2E1aVpHUQ?oc=5"
+      },
+      {
+       "titolo": "La guerra ibrida al G7 di Parigi, Tajani ai filorussi di NoName: “Non ci facciamo intimorire”",
+       "fonte": "Quotidiano Nazionale",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObC0yQXViZW1raHZxUjlWT1ZMVm93NWZSMjQwVkRmSmZJbjJZc3Y5WE1XVU9Ya2pfdGhpZXdYZUprUS1vUF8zMmMtYU5la2lvWDk1cXZPMTdFdjlQRkJDUmZmNWFPTkNOdDN5VkdaaGUwTjF4Ulh3MU9xQU4yMnZVM1RjaFBZNzVWWjUzN2p2cHJ6Z25XQlFWSG56VlIyMjA0U0lYTEs0a3NWc2x6cWxOaWZUa2dZXzdFUGJUNlJkUVJmMEc0blZPR0pONDllUQ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "La guerra ibrida colpisce il sistema democratico, serve un segnale forte dal G7"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3Vpa2YzZml5aHJkOVUxYm9GUHpwcmpoNUNMYmM3WFhwUnRCdjBqWG5Gb2x3MmtFUzJxVm0wRFl0RlZuVXBxLXFRblRDaldtaXB1bkxrR3MtUG1YUlpveTlwc0VpSnhrUVBTVmdTMmNKSUttSTdYUkhsTC1FOGJ3Yk9wQWFwRnV5WHNMdjNxSnJOdE9IQXhQNzBNRDMtbTNucnUxeDEzNGE3Ty1POTIta2ozSDItcTBZNmpsdkcyS3JWVThUR1R5eDdIS0xnTVZ0SDVaWk5FaFlrM051b0dFZENzNA?oc=5",
      "data": "2026-11-08",
@@ -23588,114 +23623,6 @@
      "virale": true,
      "citazioni": [
       "Anac? Ritengo che domani al Cdm ci sarà la nomina"
-     ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5",
-     "data": "2026-11-08",
-     "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
-     "testate": [
-      "Il Mattino",
-      "Il Messaggero",
-      "Italpress",
-      "Quotidiano Nazionale",
-      "Sky TG24"
-     ],
-     "n_testate": 5,
-     "articoli": [
-      {
-       "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
-       "fonte": "Quotidiano Nazionale",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5"
-      },
-      {
-       "titolo": "Hacker, Tajani: abbiamo respinto tantissimi attacchi",
-       "fonte": "Sky TG24",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpZTlE4UXh1RmlCVjJsTEQ5anFlcjNRblZzemZ3WmwwbnZDU0RCQkRMbFE4R08ydXhjRm84WmtxY3FDNDdOaTNWZ2pkdjc5ZkFZQjRScXI2eDFFY1FNQ0owODQxV0lEcjI5V2xLalRNZm94OEpGajVEMldrV3lsenptUUdSYnpZaXExd2Fkd0s4bjJDejFHdVV5ZE02QWtEX3MwNVR1SQ?oc=5"
-      },
-      {
-       "titolo": "Tajani “Attacchi hacker non sono episodi, c’è strategia. G7 dia segnale forte”",
-       "fonte": "Italpress",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmVnNzNWZU9uSjJmVUJPR0hLazByNjVlQkFsNXB0dmF0N1pXRmQ4UUlEXzhaSnppUG9lN19Vd1cxamxrSlF2S2tqQnYtZE5KZDhsa2QtYW9aNFBFeWRlUEt0QjRib3NHd3dneTF1SVVLdy1ZMmNkMXZJQlotcnEyOV9vU2NidFFqeWVXSl9IdDMyQXlSNGhaN25hOVhUQm52b2c?oc=5"
-      },
-      {
-       "titolo": "Attacchi hacker, Tajani: «Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7»",
-       "fonte": "Il Messaggero",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnd2OGtkanJmSXRnRm92VTRVbllMSFR2T0I1Vnl5XzZqM2xNVTNEN2VMVEtuenhVN0VQVkVIQ3RMVlJSQWFSSHY4dzQwa05BZzg0U2RsbW1kQ1g5MkJ3bUdHcGhDU2FfNTZyX2lMdElKQXFWVFdBc2pPUVJLcVQwY2kyWEhZazRIZHNla25hanAzVndVaUxiNERGSGEzR1liN1F6TnZvaWNXMHVY0gGyAUFVX3lxTE5JVEdRQ21ua05CZ1M1RnB5VWNBMlRHTlprajlQMmhicUFkRVVva2pWNEVZTzNXdUZGT2R3bjZkUWNxVUZPRjl0Mld6MXFCQWNjSnlFUmx0azF0V2hlcmJYTHdaNzZ3eTFvcTN5TzhzQlE0LVdGM1RDaWlCbXJCOEdQc0pLMDl1Nk1TYkNzRFR6dm9QTHZLZ0twOVJva3E1bmwzUXprVlZWNVFqcmYxTDVheGc?oc=5"
-      },
-      {
-       "titolo": "Attacchi hacker, Tajani: “Non sottovalutiamo il rischio, ma non ci facciamo intimidire”",
-       "fonte": "Il Mattino",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZElZNmY3NzRTX2ZZQkNmUmRCaDNkdE5mcVp2SHBVUXBLVGljMWt5T19SdDJvOFkxYTU1OEJkQ2QzZm1tRGloWUEwS3RXa0o0Qk53R1FGY0h2TS1hdFVxQ2U1TWJvZ1lkQzlWYW51NXJPSlpjdEJtcFZ6RDIzTFRSQVRWSjhtZE9kdlh1bGF3WW4zYVZsdndfMjNkOVZmVmJNQ3dvci15TEtDbzRqb3czMkVsTDlGQVdTdkNtYVJ5ejlDQnJua1k0akNIRnQ5Qlhua3Jj0gHKAUFVX3lxTFBYQkN2TGJFYnpHVG41OWpENmZ3aXZPZTF0azc4VVJyWXdpVVIyb1dpTXI1TXRDcmdtRV9CX1JRNXd4aEVjRGU2Z0ZZYnhqbENNa1hQbmxxMWdBemh2YzRnNGZ2Y3NUaGNPVFR4MTFTaTRfamJFWC1ycGo3ZmpTSEhVRUdZelZ2bU5HcjZtcXlTazlvN0VoT2xrRnBHYXJDY0dXOVVFell0VDFCZy0zRURhZ2JlUGJsRlJiOUZFWUxlTUxjNmpnRUFkN2c?oc=5"
-      }
-     ],
-     "polemica": true,
-     "social": false,
-     "virale": true,
-     "citazioni": [
-      "Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7",
-      "Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7",
-      "Non sottovalutiamo il rischio, ma non ci facciamo intimidire"
-     ],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWF5aDEzYVdBWmgxNWZjdWZtQ09FOUtZMlhHb2ZKQmh6emdYaDJxWURwRUs1NURPVldMUmNMT1NVV0dRanRpOG1KV0JCeHJPUHhtN0JuYVB6cEs3T2cxQWliSGNfdDZBZVhuNHFWelZZRUhYbGU3bHJsTmJTcGdQZ3B1bGMtN0lqWnZjMWk5SFJscG1XMEh5WldfZGZUM3dVa2FobnRwQnJOUjVtZENPeVhiU1FLYm1TNGF3SnctQ0F6d1UwSnd0bHQ4bXVtRWEwTEhoU1hqbFZvQTVuMkVmRllSanB4Y0dZN04zUXRRN1VZWnJLTEJaWEZ6U2ZPb0dRVDU2cnVvX1NOM2haa0k3a1ZCRXFHTlZlZTR3VGVjSnXSAaYCQVVfeXFMTk5wSTJDV21kbXRtbjgxWmZUbHNYMktucWJzNmxnSUZ3bGFRdjdnUUlwd3oxb0JHUTNvMlR3dEs2WW9NMGgxVGdFSG9jbnRyemtvRGxySlFJa0w5Mjd3Z2NxbVhfTWphM2pPSVhKV1lLalNCeldXbEM5X3ZIaFNMeTFOSGs3M2lETnJJU2dOemhmNnpFd3MxM0FoY1RYU2J5dmI2UGUxUXFUSFMwTUNEc0dBbVhmeFQyRmozc3Q1cWR2NzgxWVBhM3laa2Z3WDd1RWd5Wl9oN1ZpbnJ1YUdXWXRKcFNxbjl6cG11RGxSTS03Vm1UMm4wcmlZZDMwdUMyUGlsVkVkS2tEclBrVkk3eEhkWXFVQUtKSUhIWjJ0SVFHQzJuc293?oc=5",
-     "data": "2026-11-08",
-     "titolo": "I controlli del Viminale sui sistemi vulnerabili. La linea di Tajani al G7: serve un segnale forte",
-     "testate": [
-      "ANSA",
-      "Corriere Roma",
-      "FRV News Magazine",
-      "Giornale di Brescia",
-      "Tgcom24"
-     ],
-     "n_testate": 5,
-     "articoli": [
-      {
-       "titolo": "I controlli del Viminale sui sistemi vulnerabili. La linea di Tajani al G7: serve un segnale forte",
-       "fonte": "Corriere Roma",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWF5aDEzYVdBWmgxNWZjdWZtQ09FOUtZMlhHb2ZKQmh6emdYaDJxWURwRUs1NURPVldMUmNMT1NVV0dRanRpOG1KV0JCeHJPUHhtN0JuYVB6cEs3T2cxQWliSGNfdDZBZVhuNHFWelZZRUhYbGU3bHJsTmJTcGdQZ3B1bGMtN0lqWnZjMWk5SFJscG1XMEh5WldfZGZUM3dVa2FobnRwQnJOUjVtZENPeVhiU1FLYm1TNGF3SnctQ0F6d1UwSnd0bHQ4bXVtRWEwTEhoU1hqbFZvQTVuMkVmRllSanB4Y0dZN04zUXRRN1VZWnJLTEJaWEZ6U2ZPb0dRVDU2cnVvX1NOM2haa0k3a1ZCRXFHTlZlZTR3VGVjSnXSAaYCQVVfeXFMTk5wSTJDV21kbXRtbjgxWmZUbHNYMktucWJzNmxnSUZ3bGFRdjdnUUlwd3oxb0JHUTNvMlR3dEs2WW9NMGgxVGdFSG9jbnRyemtvRGxySlFJa0w5Mjd3Z2NxbVhfTWphM2pPSVhKV1lLalNCeldXbEM5X3ZIaFNMeTFOSGs3M2lETnJJU2dOemhmNnpFd3MxM0FoY1RYU2J5dmI2UGUxUXFUSFMwTUNEc0dBbVhmeFQyRmozc3Q1cWR2NzgxWVBhM3laa2Z3WDd1RWd5Wl9oN1ZpbnJ1YUdXWXRKcFNxbjl6cG11RGxSTS03Vm1UMm4wcmlZZDMwdUMyUGlsVkVkS2tEclBrVkk3eEhkWXFVQUtKSUhIWjJ0SVFHQzJuc293?oc=5"
-      },
-      {
-       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
-       "fonte": "ANSA",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY21DOW1GdVZVNEd2U3Y2Z0RtVU9QWV9WcDUwYnJ6QmVYXzg3Vm9HdGZvN1VkclBUS282ckpzb1AtdlZVaFFOZVNJZHVZbzlDR2REQlJRVGxQb3M4NGozVlNJRldrTE9CRVhkZGgtSmd1cDdtalhLdVM3eTZUdlFiVHBmWTRQVFhJZ283VURVZmRjMWlRYWx5TVp3OFlvM0EzVGpzREUwVUhidVU2aTIxcTlkcVZEVE53OHNSNXIxa05iT21rYUtBbkxTOW5BQkNQQmM0WHNtM2NWb3pHRFdjVURUcWhIaEExbXpUelVkUEotcmZ5YXdxOGdR?oc=5"
-      },
-      {
-       "titolo": "Tajani: \"La guerra ibrida colpisce il sistema democratico, serve un segnale forte dal G7\"",
-       "fonte": "Tgcom24",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWjFfRlhrdjZENGMwMmEtcHdMbXBrd2ZvdU1vUlVtUHJwNDBzLVBVSVUtSHlMVUk1bjVCNG8zOEdVMDBfeGo4QWpVd1Eta05KQTZacUFsYjNaR2FydFF5STlpbkw4T1hBeEhob0pfLU8zTFlLZi1KaFZmNEhpdXIyUDBFYmY1M3FqWlVsNnRvYkVMTzhFVUhMWk1GSkZBNEk1X0tpNTZOOWs1RmdkQXVLWlRjc2pZSVFjVVI1dlhYZW9COWIzOS02YjhoS2dzcjhwXzdvWW13ZGdZM29yOUpkNUdjWQ?oc=5"
-      },
-      {
-       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
-       "fonte": "Giornale di Brescia",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOay1HYmdVYWlnX0F1ZU5EdHZ6NFlDUGJ2WktRUkM2RHlfbm50LWN4Y09wTzl5Z1BTMVZEaUJfUGRqTXQzeTVuOGRDQXZCS05wVk1ZNHhhVWoxRFZZXzRkVDl2bHdwbHZYYW1oSVlVc0kzdmlHOWtHQUFJeXRsNGl6XzN2d1d6Vl9qbHpOWDdXSm01cmVyOFlkZWFaTkZ1bjhMUWtnUEFmd3VBclhJS2k0VnFNeDJfbkZmRFlsTkl0QXFYMGFxMnpmSTVR?oc=5"
-      },
-      {
-       "titolo": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
-       "fonte": "FRV News Magazine",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFRiTTMtd0FscnFraWk1ZWJQNnlqRF9ZVGxrTE96RHp6UTlWNnpzd0ZCaWx2czR0aEI5dTI4TVlZTjhwRXBHdGJWUThjSk14WWdHQlBiZGY5OTZwaHZqYTRVR05FaXhocWRPMFpwamVzRllpaHA1U0NsUFlSMXhzUGZmXzVES3JmNEhjLUNfTmxWN3RzeTJHdDNENlFnQjJQcU9rYmRQYw?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": true,
-     "citazioni": [
-      "La guerra ibrida colpisce il sistema democratico, serve un segnale forte dal G7"
      ],
      "verifiche": [],
      "confronti": []
@@ -23837,9 +23764,10 @@
      "titolo": "Tajani da domani al G7 Esteri in Francia: minacce ibride, intelligenza artificiale e crisi internazionali tra i temi in agenda",
      "testate": [
       "Agenzia Nova",
+      "Aise.it - Agenzia Internazionale Stampa Estero",
       "Ministero degli Affari Esteri e della Cooperazione Internazionale"
      ],
-     "n_testate": 2,
+     "n_testate": 3,
      "articoli": [
       {
        "titolo": "Tajani da domani al G7 Esteri in Francia: minacce ibride, intelligenza artificiale e crisi internazionali tra i temi in agenda",
@@ -23852,11 +23780,17 @@
        "fonte": "Agenzia Nova",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjNZMWo1UmU3Y3ZGZ0lKM3BVQkI4OHBzZ1ZMN0RxLVQxZGpmVVZEbU1QWkJVbTk2RzhDeDVoZmZmY21ONThjZ3RFMjIxU3BQNE9mN2hJY1VkQzI4QVQ4OXg2RVUybVNxTW4wY0dDNVZFTS1jSGNucTJzd1RzQVVOWFFzZUhNelQzYVozRng0ZTFTRkhTZVJ1LURKZUdUTlpPNGxJbg?oc=5"
+      },
+      {
+       "titolo": "Tajani da domani a Parigi per la riunione dei Ministri degli Esteri del G7",
+       "fonte": "Aise.it - Agenzia Internazionale Stampa Estero",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVA3REdnR1k1d1FXVWkyUGZkNWpEY0Nhak1JYXN6c3F4dVVsZWI1dURjR0IzUmlTamV5SVJJQWRFWVVKdklyUXZqamRqUUdRMm16Q3VKWUpBcC1ZUXBwT3Vjakt6UVg0NkRZTnVkcHNXUzd5R282TzN5WUQzckJRRHVCMUpaSU1wY3RDSWN3VEMxWWM2ZjgyMGdnMU9CUmMzanBtbEw4M3VrdElBdG1YWWlyZlg?oc=5"
       }
      ],
      "polemica": false,
      "social": false,
-     "virale": false,
+     "virale": true,
      "citazioni": [
       "Al centro del G7 di Parigi il tema delle minacce ibride"
      ],
@@ -23869,9 +23803,10 @@
      "titolo": "Tajani: \"Respinti tantissimi attacchi informatici, reagiremo per via diplomatica\"",
      "testate": [
       "Agenzia Dire",
-      "Gazzetta Diplomatica"
+      "Gazzetta Diplomatica",
+      "Ministero degli Affari Esteri e della Cooperazione Internazionale"
      ],
-     "n_testate": 2,
+     "n_testate": 3,
      "articoli": [
       {
        "titolo": "Tajani: \"Respinti tantissimi attacchi informatici, reagiremo per via diplomatica\"",
@@ -23884,11 +23819,17 @@
        "fonte": "Gazzetta Diplomatica",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVYtVlVobnNjQnRzb0FvVW5DMEh1akFmcW01SlVWRGgtcHdoX2kyQ1ZuVGVKRVNaXzRZNkw5OEszejZSSngzYkpqdE8ySU41Z19kNW5uZHpGMU50WVZfVUhqRkQ0cW8yanNCanNpWncyYVM1ZDRPS05sUmpsdjdpV2hPR25RbzV3NGNWRko1M3VfWHl1eWlxbnJfajQzX08tQmRMQTRKRmZMYmJNZEpwdFJuMXQ?oc=5"
+      },
+      {
+       "titolo": "Il Ministro Tajani fa il punto sulle misure di contrasto agli attacchi informatici",
+       "fonte": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNXzFUSDZzcFdBVE0xdndLZjNBNUpBdUdMa3JYMW11djlqT19hTDVDQTdRR1FzYTh6QlAta2xkY09JazAzUUZ0TmZvejNUNVRTWWM2SFV5STM5dXJOUlVSX21OLXFQOGphdDhzV2FTbTJSWFg2S1dseGtnVllKellSNjhoYkxNME8wSHZiQ1BvSEYtRmh1b1JTZURzVWFaMjMwVGFhZE5odVNaZUNDMklHWno0a04wMXBhUzR6V1ZLRlVRZGJIZEhmREJoYzJBbks4TUhjbWUxeHE3UGFUVVRmaS1OampIcWM2aE80?oc=5"
       }
      ],
      "polemica": true,
      "social": false,
-     "virale": false,
+     "virale": true,
      "citazioni": [
       "Respinti tantissimi attacchi informatici, reagiremo per via diplomatica"
      ],
@@ -24010,6 +23951,86 @@
      "virale": false,
      "citazioni": [
       "Vogliono influenzare la prossima campagna elettorale, io non mi faccio intimidire"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5",
+     "data": "2026-11-07",
+     "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
+     "testate": [
+      "Adnkronos",
+      "Facebook",
+      "Il Dubbio",
+      "Il Mattino",
+      "Il Messaggero",
+      "Italpress",
+      "LaPresse",
+      "Quotidiano Nazionale",
+      "RaiNews",
+      "Sky TG24",
+      "Treccani",
+      "Virgilio"
+     ],
+     "n_testate": 12,
+     "articoli": [
+      {
+       "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
+       "fonte": "Quotidiano Nazionale",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5"
+      },
+      {
+       "titolo": "Hacker, Tajani: abbiamo respinto tantissimi attacchi",
+       "fonte": "Sky TG24",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpZTlE4UXh1RmlCVjJsTEQ5anFlcjNRblZzemZ3WmwwbnZDU0RCQkRMbFE4R08ydXhjRm84WmtxY3FDNDdOaTNWZ2pkdjc5ZkFZQjRScXI2eDFFY1FNQ0owODQxV0lEcjI5V2xLalRNZm94OEpGajVEMldrV3lsenptUUdSYnpZaXExd2Fkd0s4bjJDejFHdVV5ZE02QWtEX3MwNVR1SQ?oc=5"
+      },
+      {
+       "titolo": "Tajani “Attacchi hacker non sono episodi, c’è strategia. G7 dia segnale forte”",
+       "fonte": "Italpress",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmVnNzNWZU9uSjJmVUJPR0hLazByNjVlQkFsNXB0dmF0N1pXRmQ4UUlEXzhaSnppUG9lN19Vd1cxamxrSlF2S2tqQnYtZE5KZDhsa2QtYW9aNFBFeWRlUEt0QjRib3NHd3dneTF1SVVLdy1ZMmNkMXZJQlotcnEyOV9vU2NidFFqeWVXSl9IdDMyQXlSNGhaN25hOVhUQm52b2c?oc=5"
+      },
+      {
+       "titolo": "Attacchi hacker, Tajani: «Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7»",
+       "fonte": "Il Messaggero",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnd2OGtkanJmSXRnRm92VTRVbllMSFR2T0I1Vnl5XzZqM2xNVTNEN2VMVEtuenhVN0VQVkVIQ3RMVlJSQWFSSHY4dzQwa05BZzg0U2RsbW1kQ1g5MkJ3bUdHcGhDU2FfNTZyX2lMdElKQXFWVFdBc2pPUVJLcVQwY2kyWEhZazRIZHNla25hanAzVndVaUxiNERGSGEzR1liN1F6TnZvaWNXMHVY0gGyAUFVX3lxTE5JVEdRQ21ua05CZ1M1RnB5VWNBMlRHTlprajlQMmhicUFkRVVva2pWNEVZTzNXdUZGT2R3bjZkUWNxVUZPRjl0Mld6MXFCQWNjSnlFUmx0azF0V2hlcmJYTHdaNzZ3eTFvcTN5TzhzQlE0LVdGM1RDaWlCbXJCOEdQc0pLMDl1Nk1TYkNzRFR6dm9QTHZLZ0twOVJva3E1bmwzUXprVlZWNVFqcmYxTDVheGc?oc=5"
+      },
+      {
+       "titolo": "Attacchi hacker, Tajani: “Non sottovalutiamo il rischio, ma non ci facciamo intimidire”",
+       "fonte": "Il Mattino",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZElZNmY3NzRTX2ZZQkNmUmRCaDNkdE5mcVp2SHBVUXBLVGljMWt5T19SdDJvOFkxYTU1OEJkQ2QzZm1tRGloWUEwS3RXa0o0Qk53R1FGY0h2TS1hdFVxQ2U1TWJvZ1lkQzlWYW51NXJPSlpjdEJtcFZ6RDIzTFRSQVRWSjhtZE9kdlh1bGF3WW4zYVZsdndfMjNkOVZmVmJNQ3dvci15TEtDbzRqb3czMkVsTDlGQVdTdkNtYVJ5ejlDQnJua1k0akNIRnQ5Qlhua3Jj0gHKAUFVX3lxTFBYQkN2TGJFYnpHVG41OWpENmZ3aXZPZTF0azc4VVJyWXdpVVIyb1dpTXI1TXRDcmdtRV9CX1JRNXd4aEVjRGU2Z0ZZYnhqbENNa1hQbmxxMWdBemh2YzRnNGZ2Y3NUaGNPVFR4MTFTaTRfamJFWC1ycGo3ZmpTSEhVRUdZelZ2bU5HcjZtcXlTazlvN0VoT2xrRnBHYXJDY0dXOVVFell0VDFCZy0zRURhZ2JlUGJsRlJiOUZFWUxlTUxjNmpnRUFkN2c?oc=5"
+      },
+      {
+       "titolo": "Tajani: gli hacker non mi intimidiscono",
+       "fonte": "RaiNews",
+       "data": "2026-11-07",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFd4QlppWFVPT1JFcjRQcE4zZmVLX3lQRlRKSURJaDJiQm1nVXI0UjdiMHBQWjRzRmsxR0JIVjdrUXhaRjN5Y09uVjVlZzg2YWhfTTF1dGpLT0VJbER2QkVvYUNQX19WVC1yZkZGR0lxd3ktSXFUTkl5R2QxS0F6Q3lsaVU4dmRLZGhxUHF4U3plX0pJQVh0RFFRVFdUM1EweEgyVFAyU0E2X3ZjejNoc2UzVmQ5MWR0OHg5ZWE2NNIBxAFBVV95cUxQZUhHa1YtbUJSNEs0RjFzMklWX01ZU1NrOF9LWnJPXzIzS3lJY0JMczhGUGpzTFRac3I1QzV4UVR5Z1B5dHJDa0p5UUc3blNqOG9Xa21Fc1pmLXVLYXFZdnhRakRoRFIzUnVPdFpoMGxVNm50Z0RIZ2psa2cxYUoxRnROZ2tKYXI2Nm9adHpoMVdFVFZ0eWN5ZmRtZ2cwczg5dUtZa3ROUlpkOE0tLUc3dV9BQkxfX0FRTUV2ZTlrUUJPcUl3?oc=5"
+      },
+      {
+       "titolo": "Il collettivo di hacker No Name 057(16) pubblica nomi e contatti di 18 persone considerate ostili alla Russia, offrendo denaro in cambio di informazioni riservate. Tra i quattro italiani coinvolti anche il ministro degli Esteri Antonio Tajani, mentre si indaga su una",
+       "fonte": "Facebook",
+       "data": "2026-11-07",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0hnQmMtUE5iMmFEY0VZWnFQOHcxQkZSUHV3WDktY1FEa1FPXzdnVGFmb0t6Q3BpLUJISWo3dHNqX0Uwc1FHeGhyWG1WTWU0a2w4SGNhZmRxNXBSTjZBLUt6d241ZVlKSnZlY0FDSUh0YVF5NHdWdkxtWE11Ykl6TXdqTUFoRWFrWGpUMGZhRjR5M0xDSzUzUWFucVFLdFQ4NEZpbm1IMEx1c3RGSm53TFhTMklPVFBIYUVXUndoVmpqUHlUeFhza2gtWmNJbXNzdHBr?oc=5"
+      },
+      {
+       "titolo": "Hacker Noname057(16), quattro italiani \"nemici della Russia\": Tajani, il pm Lo Voi, un poliziotto e un sindaco",
+       "fonte": "Virgilio",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2Y4QWUwaGQzMFc2TjNDeUhOem1pLUk3d1ZWakg5QVpwd0VaN0U0MGNKOWJBdzUyNzhNODFHMklyV01YU3hEZE5SbXBxOUFLRGZ2WTRMMFV4LVdsaUxuVFRFYjVBUXpBTDgtS1N3VXZZZVZrRWV1aWc5SldSMTZ2dEZCdlVSRjltVVFfQ29KSHcyT3ZfM0RRZExjQ3BoeWlBdTlRUUR2MzVRTWtOaWdEMGlKZURON1Y4cFBMa2V0ckdheHVXVlI0LTlmZTZyWnJ5UDI2bC0wN21tMjDSAeABQVVfeXFMT1p0cHp6ZmhPNkxSTWhMRHBaQ25jVUFmdTJTRWtBQVg4aEdVZzFvX0JhTk9DLVoyNWdFemxId0l2NHVFb2FfLTJMZERia1RGekhFODhObmNGT01HRXlnbEtYeXdWNVNmVFlFclZlRnE3a3IzbXVCTU95akpOZ29qWXdEbThqc3hCNXlZY3JLcjN5LUZ4Z01YTkZHZGZQeDd5OHFuWldxSXFmdnh1RU1OcS1YZ1NsbUFoTWo4YXNRRmZZT1gxMW52NkY4cFg2WF92MkN2aWRfS1pQOS1NRUh2SlI?oc=5"
+      }
+     ],
+     "polemica": true,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7",
+      "Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7",
+      "Non sottovalutiamo il rischio, ma non ci facciamo intimidire"
      ],
      "verifiche": [],
      "confronti": []
@@ -24260,7 +24281,7 @@
       "Fanpage",
       "Il Fatto Quotidiano",
       "Il Sole 24 ORE",
-      "il Giornale"
+      "la Repubblica"
      ],
      "n_testate": 9,
      "articoli": [
@@ -32418,7 +32439,7 @@
     "storie": 238,
     "polemiche": 29,
     "polemiche_social": 3,
-    "virali": 73,
+    "virali": 75,
     "citazioni": 161,
     "giorni": 45
    }
@@ -32531,6 +32552,31 @@
      "social": false,
      "virale": false,
      "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0tzNTZtOGc0WEFuclVlTHRCWEQ3NVZ5MFFfVWp3Q1k1ZUxhSUtzUHdBUEh2RlBZVDZibHh5REN1ZFBZb2sxYTlWcGctLXhIVEh1OTlqNmxyblduYTB0TVdaY1VpVGVRZ0piRVhQcnFOMlRhSkd6MmU1aDh2YVJMMEFkb3JPSUNBSTNqVC0xOFBySnR1MGhBeHFSd3ZzZ2ZseGpCQ2V6UXJyMlZGejR0UTFkTkFLUXV4dkQ3SFZHRFZlenZNTkk4Ny1ENA?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Giorgetti: \"Ipotesi flat tax per gli stipendi dei giovani. Pensione a 64 anni? Bisogna garantire equilibrio conti\"",
+     "testate": [
+      "Appia News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Giorgetti: \"Ipotesi flat tax per gli stipendi dei giovani. Pensione a 64 anni? Bisogna garantire equilibrio conti\"",
+       "fonte": "Appia News",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0tzNTZtOGc0WEFuclVlTHRCWEQ3NVZ5MFFfVWp3Q1k1ZUxhSUtzUHdBUEh2RlBZVDZibHh5REN1ZFBZb2sxYTlWcGctLXhIVEh1OTlqNmxyblduYTB0TVdaY1VpVGVRZ0piRVhQcnFOMlRhSkd6MmU1aDh2YVJMMEFkb3JPSUNBSTNqVC0xOFBySnR1MGhBeHFSd3ZzZ2ZseGpCQ2V6UXJyMlZGejR0UTFkTkFLUXV4dkQ3SFZHRFZlenZNTkk4Ny1ENA?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Ipotesi flat tax per gli stipendi dei giovani. Pensione a 64 anni? Bisogna garantire equilibrio conti"
+     ],
      "verifiche": [],
      "confronti": []
     },
@@ -36590,11 +36636,11 @@
    ],
    "fact_check": [],
    "conteggi": {
-    "storie": 108,
+    "storie": 109,
     "polemiche": 8,
     "polemiche_social": 0,
     "virali": 36,
-    "citazioni": 67,
+    "citazioni": 68,
     "verifiche_in_parte": 1,
     "verifiche_confermata": 1,
     "giorni": 45
@@ -36610,6 +36656,84 @@
    },
    "schieramento": "governo",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReXhySGdZT0RkanRwS3hJOTlweDZsXzRaejFwQVQ0NThzR3NWT0lLYlY0d1JPV0VWdE1lbWdhbzNQUnJiVTNjU3VWemJaSEdIckJnbFdJbmhGVWRJZlhBUnUyZnplckVMbExLVnRURWN0MVBGLTBPUzJhUjJ6VWs?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Crosetto e la guerra cognitiva degli hacker: «Abbiamo bisogno di una strategia per sopravvivere",
+     "testate": [
+      "Corriere Roma",
+      "Open"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Crosetto e la guerra cognitiva degli hacker: «Abbiamo bisogno di una strategia per sopravvivere",
+       "fonte": "Open",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReXhySGdZT0RkanRwS3hJOTlweDZsXzRaejFwQVQ0NThzR3NWT0lLYlY0d1JPV0VWdE1lbWdhbzNQUnJiVTNjU3VWemJaSEdIckJnbFdJbmhGVWRJZlhBUnUyZnplckVMbExLVnRURWN0MVBGLTBPUzJhUjJ6VWs?oc=5"
+      },
+      {
+       "titolo": "Crosetto: «Hacker, è una sfida epocale. La guerra cognitiva? Sono stato preso in giro, ma dobbiamo renderci tutti conto dei rischi che stiamo correndo»",
+       "fonte": "Corriere Roma",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa3lXLVV4Qmt6OUpOc2p6ZE1KSUx6MV81QzM0UWNOVGZITGdUN0RnOWZYSEtTTW9IQUplVllKTTBJal85Nkp2V010LUZXQXZFeTl2YU9MajduelZ2MTQyR1BsQnlvNG44N1ZHYUVJSWFYd29XMjB4cEo4VnJHc3hvVGpNYjdEVUZTYUtyYWJWV0JrRWtOcURLR3ZJRUg0M0pqRzRGMlFJdEFIa0V6MzBYWXNZNWJoamQxMFFlb0J4QWQyZ0RFalc5V29xdW9xZUpWYkZiVnNUWdIB3AFBVV95cUxOQzNRRmhxelJLejZ3SDlJOC1iT000aEx4SnVHVmdQN29NNVcybXBJM2xsRzdYTklwdUpyeGozZ0h1TEp2RHZacEpCMDN2elJMZGF1TlhqYmdLcFJSbTg5dEFnd2tKbmZ3b0ZBNU0tU1B0aUpHUjRhbkI5MVB0cUwyV1FyWGZ2SXVsYjgtU2hTejJWMDhFdnFiS2ltTmNmNkN3aHBzdWZ4dXVtaDduWnUxd0hfYThiWlBIdUNxdVhiejFPUFowM2ZNX0plSFZwYXhFWi1ibTRPOU9kcnhT?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Hacker, è una sfida epocale. La guerra cognitiva? Sono stato preso in giro, ma dobbiamo renderci tutti conto dei rischi che stiamo correndo"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTzhJNWl3MjR6SWdkajBLcnE4a3pDY29tQUFwTjhwYnFmQ3pOOWJnYUhXU0dwd3pnTHNNLWlMc2VZS0xZbVRPRElMWnNoS2JYam9MWDVPUWhfaTREYk1jUHFvOFZiRFBvd0xNWTk5dzdYRFZZX1BVUmlKZVlqZk1lSlJOUXZoSER4NjNGTnAzcjBsZDR5TDYwMEo0SzBQVE4yLUJOc2VyaWw5Zi1lSW54Ty1SUWpPWC1abzVIWG84ZUQyX0ItTWZsSXpTWDI0SEtOcFlaMUI1cTIzcUNPWVpNSVB3?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Operazioni sospette e affari all’estero, faro dei pm sul fedelissimo di Crosetto",
+     "testate": [
+      "Domani"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Operazioni sospette e affari all’estero, faro dei pm sul fedelissimo di Crosetto",
+       "fonte": "Domani",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTzhJNWl3MjR6SWdkajBLcnE4a3pDY29tQUFwTjhwYnFmQ3pOOWJnYUhXU0dwd3pnTHNNLWlMc2VZS0xZbVRPRElMWnNoS2JYam9MWDVPUWhfaTREYk1jUHFvOFZiRFBvd0xNWTk5dzdYRFZZX1BVUmlKZVlqZk1lSlJOUXZoSER4NjNGTnAzcjBsZDR5TDYwMEo0SzBQVE4yLUJOc2VyaWw5Zi1lSW54Ty1SUWpPWC1abzVIWG84ZUQyX0ItTWZsSXpTWDI0SEtOcFlaMUI1cTIzcUNPWVpNSVB3?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0FfVld3cDJ2dnc0WVQ2N2hURnR0Z3NWT29ENzFkVXREUGlGSzVJTjNBYkdOUDdtbmkxdFZqM2hPOE1lMTh2MUhQc0hmNkRJS04tcThNNDdsS3lIMjVkTlJsU0RjMWRfVlZYZTV2b2lRM0ZKWDFkYThFZmYyQ2wyNjFiekIwSEc4M1pxT2tNU3k0bG5ndUZXemc5WXBZN1B4cUhaZ2lSTDdXeVJySkxmUmVQNnd3blJOV2hSQWNmSnZLRmRLNWwwenRrYTHSAdIBQVVfeXFMT2N1LTcwajltcWdGUkNLZUJVRDREeEJBTjFaY3h3QnZ3aHN6dUJwZFRTZ3NkRl9lNVAzQjU3cW1ZTlF5Z28zclhIMWxUZndvZmV1ZDVmVHIxdXJnZ0Y0Q0UzeDJaZzlSVUt0RVU5dWNYRUhtWVV2dXBZd2VIc3M4UmR2azJVcjhXOExKX1JmLXUzR3RmelVLWmYxRHhsTnRFNEtUYnVIcHR4V1Q3Y3pzMXNuQXMxMG9ZczY2VDB2NDNTbUZIc1lHTHlMZFRFZUhwUzlB?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Ddl cyber, il governo vuole rilanciare. Ancora divisioni Crosetto-Mantovano",
+     "testate": [
+      "La Stampa"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Ddl cyber, il governo vuole rilanciare. Ancora divisioni Crosetto-Mantovano",
+       "fonte": "La Stampa",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0FfVld3cDJ2dnc0WVQ2N2hURnR0Z3NWT29ENzFkVXREUGlGSzVJTjNBYkdOUDdtbmkxdFZqM2hPOE1lMTh2MUhQc0hmNkRJS04tcThNNDdsS3lIMjVkTlJsU0RjMWRfVlZYZTV2b2lRM0ZKWDFkYThFZmYyQ2wyNjFiekIwSEc4M1pxT2tNU3k0bG5ndUZXemc5WXBZN1B4cUhaZ2lSTDdXeVJySkxmUmVQNnd3blJOV2hSQWNmSnZLRmRLNWwwenRrYTHSAdIBQVVfeXFMT2N1LTcwajltcWdGUkNLZUJVRDREeEJBTjFaY3h3QnZ3aHN6dUJwZFRTZ3NkRl9lNVAzQjU3cW1ZTlF5Z28zclhIMWxUZndvZmV1ZDVmVHIxdXJnZ0Y0Q0UzeDJaZzlSVUt0RVU5dWNYRUhtWVV2dXBZd2VIc3M4UmR2azJVcjhXOExKX1JmLXUzR3RmelVLWmYxRHhsTnRFNEtUYnVIcHR4V1Q3Y3pzMXNuQXMxMG9ZczY2VDB2NDNTbUZIc1lHTHlMZFRFZUhwUzlB?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnlBVjFOQkg0bkNWckJZZnVBUGk0OE1TZlA2QWM5NlhwN2VZS19IR3h2U096ZWtNWEJTZzZkUHRhc2RDMHM2Vk8wa1Q5d2VlZUV3T3pVN3J0TV8waGtFWTNHcnhRQXN1VWR5ZDQyNElINHFfanZna0FmU0JUalVUd3VJQkE4Nkd6SUhFeg?oc=5",
      "data": "2026-11-08",
@@ -36706,9 +36830,10 @@
      "titolo": "Crosetto “La sicurezza a 360 gradi diventi ora una priorità nazionale”",
      "testate": [
       "La Gazzetta del Mezzogiorno",
-      "Pavia Uno TV"
+      "Pavia Uno TV",
+      "Radio Time"
      ],
-     "n_testate": 2,
+     "n_testate": 3,
      "articoli": [
       {
        "titolo": "Crosetto “La sicurezza a 360 gradi diventi ora una priorità nazionale”",
@@ -36721,11 +36846,17 @@
        "fonte": "Pavia Uno TV",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnJHTXJFQV9CY094LWtFQkptX3pYVmhnRmREZy03bTJObl9WeDJ2M0N1empoQ0U4VmxldkdOQUFoUTdqaEtNQW5Sek8zWTBQSThSY3Jza3d0dHpkNGJUeGZsM2dxaXpadVBpUDFNaHdzSy1hTzhyNFFaeWRxWDUtM0Q4Vi1xRTZyWEstOUpvaVhCd0lVUkVVb3lHaw?oc=5"
+      },
+      {
+       "titolo": "Crosetto “La sicurezza a 360 gradi diventi ora una priorità nazionale”",
+       "fonte": "Radio Time",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkFFSF9WX0FGZ0Q0MlB2TjFXNHQ2dE91d3lYemFWdHVNcVdNUGNIejhWNjhZWmtMTjBYNm5xY29QRkxoM3p1VFhPTTFEU21YMHF0WnB1eld6MmExc2ZsNnBDd3E5eTdwWXpqY0lIeHhtWTM1LVhJajJuYkU5MFFYb0xSNy1IUnlGdFJKVWJGdk9PamNJanJkZDAwNGhXN1NXaFEtRXNTelTSAa4BQVVfeXFMTjZhSHlIYk01Vm1VRmgxQ3VnaDhMc2tsbnJLQUQ5QXN4YU95bU5WeXdyVGlsaXVPbTRUTGt0b0R0Y3EwNFExUWZ0bmU1bmtyWmlPYlMzTXVJNmpZV1BFVTJjeEVKSElJWmxvbERMeXFqODR5WFRwRW96MEVoUkVCMHlZLTNtdTFFMWlQZThOV2kyMVVFNFB5U0JBRU0xY09lNTRXbUVzZGowa3prNVRR?oc=5"
       }
      ],
      "polemica": false,
      "social": false,
-     "virale": false,
+     "virale": true,
      "citazioni": [],
      "verifiche": [],
      "confronti": []
@@ -41069,11 +41200,11 @@
     }
    ],
    "conteggi": {
-    "storie": 117,
+    "storie": 120,
     "polemiche": 16,
     "polemiche_social": 0,
-    "virali": 43,
-    "citazioni": 62,
+    "virali": 44,
+    "citazioni": 63,
     "giorni": 45
    }
   },
@@ -41093,38 +41224,21 @@
      "titolo": "Attacchi informatici, Piantedosi convoca il comitato nazionale per la sicurezza",
      "testate": [
       "AGI",
-      "Affaritaliani",
-      "Agenzia Nova",
-      "Associated Medias",
-      "Blasting News",
-      "Dayitalianews",
       "Espansione TV",
       "Fanpage",
-      "Gazzetta del Sud",
       "Giornale di Brescia",
       "Giornale di Sicilia",
-      "Il Difforme",
-      "Il Mattino di Padova",
       "Il Sole 24 ORE",
-      "LO_SPECIALE »",
       "La Gazzetta del Mezzogiorno",
-      "La Sicilia",
-      "La Sintesi",
-      "LaRampa",
-      "LiveSicilia",
+      "La Voce di New York",
       "Quotidiano Nazionale",
       "Radio RTL 102.5",
-      "Stampa Parlamento",
-      "TAG24 by Unicusano",
       "Tgcom24",
-      "V-news.it",
       "Virgilio",
-      "Zazoom Social News",
-      "alanews",
       "il Giornale",
-      "ilfogliettone.it"
+      "la Repubblica"
      ],
-     "n_testate": 31,
+     "n_testate": 14,
      "articoli": [
       {
        "titolo": "Attacchi informatici, Piantedosi convoca il comitato nazionale per la sicurezza",
@@ -41256,6 +41370,29 @@
        "fonte": "Il Sole 24 ORE",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTEhoajFweS1QQWdBNHNSTDN2YW5ldC1NUV9udktENUgxRzR5OGFTS0pDMVo5SFVFWFJzRGZTMHNTOUxYcjQzWkROenVCVzhQYXdRVUUtRGNjUDJSRU9falNiUm9RS3daaHFBT09tQXhzbklmaTVoTjVlTlJXbW1vRnhjamd3LURhb1dnV1JMOUVGS0V6d1dIM3kxTUdJbDRqTFJ2bnVB?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUHRTX0x5STE3ZHQ2cDhmU2pIWWtWMk8wd1plaVladzVHQWNjUnBvUjlSLWFndFBYci13VHJDelg2SW11bkR2amcxZG9TU193S1RjZFg1b3NDbllKc3ltZm1iQmlFdFR0Y2Z4cmpVcE9Gb3F4YmRCNU50VlpFUzNkc1JrV3Y4WXpiQXhVTzVaMTQ4UXE1eXM3YjRhREhUbmVNdnJlbFlnTW5HeUlFM25tZWpkVDB4YXlXOTVEWmRuUzVaTFRkaVgwYXpTeUlWYXo1VUlQcVJJQzdPVFZSRlphVGhPWUs1Y2lUaUlNTnhISDRHS3c?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Ragusa, sgomberato l'immobile abbandonato vicino al campo sportivo Petrulli: Piantedosi interviene sulla vicenda",
+     "testate": [
+      "La Sicilia"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Ragusa, sgomberato l'immobile abbandonato vicino al campo sportivo Petrulli: Piantedosi interviene sulla vicenda",
+       "fonte": "La Sicilia",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUHRTX0x5STE3ZHQ2cDhmU2pIWWtWMk8wd1plaVladzVHQWNjUnBvUjlSLWFndFBYci13VHJDelg2SW11bkR2amcxZG9TU193S1RjZFg1b3NDbllKc3ltZm1iQmlFdFR0Y2Z4cmpVcE9Gb3F4YmRCNU50VlpFUzNkc1JrV3Y4WXpiQXhVTzVaMTQ4UXE1eXM3YjRhREhUbmVNdnJlbFlnTW5HeUlFM25tZWpkVDB4YXlXOTVEWmRuUzVaTFRkaVgwYXpTeUlWYXo1VUlQcVJJQzdPVFZSRlphVGhPWUs1Y2lUaUlNTnhISDRHS3c?oc=5"
       }
      ],
      "polemica": false,
@@ -46985,7 +47122,7 @@
    ],
    "fact_check": [],
    "conteggi": {
-    "storie": 168,
+    "storie": 169,
     "polemiche": 19,
     "polemiche_social": 0,
     "virali": 52,
@@ -52718,10 +52855,11 @@
      "testate": [
       "ANSA",
       "Corriere Bari",
+      "La Gazzetta del Mezzogiorno",
       "Stato Quotidiano",
       "Zazoom Social News"
      ],
-     "n_testate": 4,
+     "n_testate": 5,
      "articoli": [
       {
        "titolo": "Lollobrigida, maxisequestro di olio in Puglia, 174 tonnellate",
@@ -52746,6 +52884,12 @@
        "fonte": "Zazoom Social News",
        "data": "2026-11-07",
        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS2dEanJoaFk2SHozTG5VYkM3T2RKcV9sRTRCQ2RTVTRwbDgyTG1ZNnBncTNBY29BdWN3eFVFX2hIOEozanRzNGFTN2tmeXJ6eno2WnhBZ0hBWkw2blViWGUtMzhEQ2QwQ3Fuekdob1ZxYTAwQVk1QkVCRUlQbVozWURTNHBxemdXOFR5RDdTSTJrcDJ2SnVYNXczZE1ZanREQld5czI1NExEZkhDaF9TT3lhUU93RDJiVjh3QW1ZekgzUENxN2xySDRqTWtaM1IyNjN4a3U3VlN4Q2JxcDFmMzdpS3VMUm9JM3hrSzF1R2FhZmc3Z0xKaXpOTjFiaENsNVY5dnVaSkd6VnZJODV1bDF0UzdBelFu?oc=5"
+      },
+      {
+       "titolo": "Coltivaitalia, Francesco Lollobrigida illustra l'impatto sulla Puglia: «Così l’agricoltura rilancerà il Sud»",
+       "fonte": "La Gazzetta del Mezzogiorno",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRWM4NXJIaVEyMUdPV0U2SEtmLVBFbmdILWdQRDlVNnRIbklzeHpOVFA5TWd0emJJcWJMQWZBLUppMWdkenZFTV9rd0lXQ0lQeE1kdGhiRXdITG9NVjJZdUU0YUNlVmJCRE85WF80QVBqMUhhMTdZT1ZmWldHdUZGdjFHak1HZjNYRk53Ui0yVnptRkcwbjQ1Z1JzWDUzS0J4UnlGQi13cjVmN04xcHc4UGhKQ2VQTzB1ZjdETU9nSEJRNkRMcjZVQ3B4OExiRmNvaUpsS0ZuenphZjhzRGR0Nm9rWU1iX2VSSWZxYk5Pd3RtRnB6aTdXNlVB0gH4AUFVX3lxTFAtaENaVXVRWmxNSTJOR2FzcnYxRm9lNzJLWkZKRTJaYzBRSzZLNXhFOHZ0TkhmMW1vZ0F0a3RKbndOVHdteUlJYXBtaVlEWENsM1BTdnVoRTZlUVdjOVVXZDRtTGtWcGdmd1pEdVBtbXBFcEh6SVQ4b2NnZWtobE9XdnNYeDNjOU9IQ1hxaUdRMGFHRFhLUHR0cUtTUFlmWlR0SVppT2l2TTRqdHRMRzZXRWkzS3paSEVKWnU5OHdvZXVRbklJOFV0amZsVGxxVDhxSF82T0lIdXE5OUlZME4tazhNRUJNa1RESXNfRk8tSWlDZFVLQXNp?oc=5"
       }
      ],
      "polemica": false,
@@ -56841,14 +56985,13 @@
       "Fanpage",
       "Giornale di Sicilia",
       "Il Foglio",
-      "InfoVaticana",
       "L'Espresso",
       "Open",
       "Quotidiano Sanità",
       "TAG24 by Unicusano",
       "la Repubblica"
      ],
-     "n_testate": 10,
+     "n_testate": 9,
      "articoli": [
       {
        "titolo": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta",
@@ -59924,15 +60067,38 @@
    "schieramento": "opposizione",
    "storie": [
     {
+     "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXRBeFdQQmlxU3F0YXpOaERyWmdRVHN3WDZxbklRdHpKdjc4TThSVGdZWXdaaU0yTEtmazFpcjU4QkV5SDBoZmhoRFllN3dRVmNWV1dibTBxcTJfUWxYcXVLV2FtdXlJYnY2bDMwbFJTZjcwU1NnZ3g4VVYwLUNNN1QyRF9tZzFoNkdiRVdVa3hUaGsyeTA5RjZaQXFwVXBER1hmT3c2Q3lvZw?oc=5",
      "data": "2026-11-08",
      "titolo": "Schlein: \"Per le primarie a Milano ci sono già molte figure valide\"",
      "testate": [
-      "Eventi e News",
       "Il Sole 24 ORE",
       "Italpress",
       "La Sicilia",
       "LaPresse",
+      "Linkiesta.it",
       "Pavia Uno TV",
       "Radio Lombardia",
       "RaiNews",
@@ -60099,9 +60265,10 @@
      "testate": [
       "HuffPost Italia",
       "Istituto Impariamo",
-      "Telenord"
+      "Telenord",
+      "Zazoom Social News"
      ],
-     "n_testate": 3,
+     "n_testate": 4,
      "articoli": [
       {
        "titolo": "Matteo Renzi lancia Silvia Salis. Lei svicola e abbraccia Elly Schlein",
@@ -60120,6 +60287,12 @@
        "fonte": "Istituto Impariamo",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUXJZaUM3eEdKUHhTQVFOU2x1emVNcEN0NGg2V0tOb0dDTjhXa253QjVhMS11blp2cVlqM1JuaGx2YUQzWHYzT0x0aEl2eUFPdWF5VGI4alJ6QVNLSGpoaWVNZ2FGcXZNNENKM2lkNkh5RnRHNWdLdHJvN0dGVTBPS2tjZE9pMWt1QXdacjRITmVWZmFPci1jX2FGRmZLOFduMmpXRTdWeEhjX2lSYm5uUmlqYjRXUTUtaF8zMlBfZw?oc=5"
+      },
+      {
+       "titolo": "Renzi prepara il piano con Franceschini | primarie tra Schlein e Conte poi Silvia Salis alla guida dei centristi",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMXVnZW1uWXpMMHlDdWJvNDhFbWljNWM5aFhSS0F6aDFRd1VRMEZWT2hiU0NQMURoMW5QTGFYNlV3ODkyZXUzSFI4SlduUVpKYkpkVjFGa213UWtURy1YVnZaMUNMQmpEVkVwc1E4RFkyUVZ1Zk9FcDBUdjcyR1JVQXpGMVpxS1VUT3NRSUtPZW5uS2taU2Roc0ZZNmcxV0pFRERHM3p0bHdBUVZEaVBvdWN5Vi1GS2w0SmZuNUdyTmh2WWZaMDlVN0VhNjlveXN0Szk4MkpFWmVQMW9ROC13d0RBak51cVJI?oc=5"
       }
      ],
      "polemica": false,
@@ -61204,7 +61377,7 @@
       "Altarimini",
       "Corriere della Sera",
       "Dayitalianews",
-      "Eventi e News",
+      "Gazzetta di Parma",
       "Il Sole 24 ORE",
       "L'Unione Sarda.it",
       "Lo Strillone",
@@ -67859,7 +68032,7 @@
     }
    ],
    "conteggi": {
-    "storie": 227,
+    "storie": 228,
     "polemiche": 16,
     "polemiche_social": 1,
     "virali": 62,
@@ -67878,6 +68051,191 @@
    },
    "schieramento": "opposizione",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWU1CejZtMWdNQU5yZVFIanFEcWNIOHFnenBYRXZucXVMTXpWSk5YRzREVWdSb3lPbXNPamdteTlGMEp3YkgxaEZQZkREV1NGWGhzNEYzOTRfbWNHTGNZSFpWRHVQRzE4UWNhUFBKUGhoZXhwRVo2MjFBa0RKSVUtVkZJSHdqT0JrU0t4VjE5dEM4X1FSRHFVS25YVzZ3RDlPM0pPb1FFM0thLUFkeXdjMjFFOXVtR2lXRWhnWXBHRERnR0U0N0pnakZzWUVUR2xFTVM5WUV0bVdQbkdid0FhWWpacl9WXzhTTG9Kb3NKQ2xDWlFIZEFwVGZHc1B6dmE3ekE?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Campo Largo, Conte dice sì alla patrimoniale (ma vietato chiamarla così), asse con Rifondazione e Renzi \"senza simbolo\"",
+     "testate": [
+      "Il Giornale d'Italia",
+      "Zazoom Social News"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Campo Largo, Conte dice sì alla patrimoniale (ma vietato chiamarla così), asse con Rifondazione e Renzi \"senza simbolo\"",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWU1CejZtMWdNQU5yZVFIanFEcWNIOHFnenBYRXZucXVMTXpWSk5YRzREVWdSb3lPbXNPamdteTlGMEp3YkgxaEZQZkREV1NGWGhzNEYzOTRfbWNHTGNZSFpWRHVQRzE4UWNhUFBKUGhoZXhwRVo2MjFBa0RKSVUtVkZJSHdqT0JrU0t4VjE5dEM4X1FSRHFVS25YVzZ3RDlPM0pPb1FFM0thLUFkeXdjMjFFOXVtR2lXRWhnWXBHRERnR0U0N0pnakZzWUVUR2xFTVM5WUV0bVdQbkdid0FhWWpacl9WXzhTTG9Kb3NKQ2xDWlFIZEFwVGZHc1B6dmE3ekE?oc=5"
+      },
+      {
+       "titolo": "Campo Largo Conte dice sì alla patrimoniale ma vietato chiamarla così asse con Rifondazione e Renzi senza simbolo",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHhSUVMxRjQxVTlvMjg3enB1UHBDaDZ2aUN1NXl3TTZQT0lwalA0OXBfakNkNkNzOUU5dHZPV1M1aEVsTmpGU3lMbXlJOVpHMlE1Ti1ZQjh4NUNNaWdoY19NS1VWRnN3QXpQSnVza3lfdDJZUGZQazZEcTRfTThOenpnclY5dnd3cXFuc2FjdWVUdHlJdXJrYUFkN29iQVVnNnFQRHY0NzA1WVVzaHFVT2R1bzRzMndvbldwYTdtODM5NlJjUENTRFlPXzRsaEZEVEpXamdXSS1DaW1JcmJTeVlMUFJ2UTI3VEJrVg?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano",
+      "Zazoom Social News"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5"
+      },
+      {
+       "titolo": "Piazzapulita Formigli intervista Schlein Conte e Fratoianni Ma il vero leader della sinistra è Floris",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0c5ZlU3VDJnY3BIbEE0S2laZVJmVE90bUdvam5selhpZ3RpQTJEZmdpVURONUNhYnBpOWl6QWphODYxT1NVQWhCcE15R2N4N2xhWWJKRGpHallpRU5wRnI3dWtELXQ4QURMVkxFbFZ1blZ6Z1VZMEM0RXlDejk3TUxLZkNnNkU2TG1vZVVsQjNjVkhxbTVqQndpemZXaXoyNm80V2ZWYnczNFZRMHIwQ054cmUwa1JzN1ZNOFVad1BuYmI3RUNWNVJDMVJYdXNSbV8xY211R3pQeS04?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmhFQ1AzcDVWOTdzVzhfYVZKUjlmbDc4bkF6V01TNlo1U0FFSUpBa3RqYV9PNGJsVkZSUEJ3VEN0MlotR0pBT1l3N283eHVCZDVrbzlETm5nZ1puemctYXNmU3FFTFFQNVhOeVZ6d0pPTUtYemp3VF9TTDlwSWhpc3RBU1o3bklnMXg3RjFhRURNNnViOHJHNFhvU0xTb3hoYjhYWWdWVUYzMElXQ2JNYWJvMU9mZl8zUHAyXzVra09EbVBlYTllLXFpdGk3TzDSAdMBQVVfeXFMTlVZNF9ta3lTUkZEVmtuNm1lQnEzTmsyMUNzSnNSM2t1bDhyZnJaSGQySk9YQVFIMjl5aTl3LTViV1pKSkhHQ3NVa0NQRk9BQ2VvN18wWG1Dc0xIenV1cGVlZEE5X2IyRWFmbVQ0NWZOd0lRb0c3Y2lRSmlDNkxCcHdac3ZKQVlIWTNCN1Q3UWZSLWFpVHdfSDJhSkg3VDRQRkFPaFNCNDRKU3FlLThocU5uTmtSZ2VLTF9XcWhsMzBxQ2tLbk9fTGxJY2h2YlVmUmwzQQ?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Giuseppe Conte insieme agli amici di Putin: il convegno e il tempismo perfetto... | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano",
+      "Zazoom Social News"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Giuseppe Conte insieme agli amici di Putin: il convegno e il tempismo perfetto... | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmhFQ1AzcDVWOTdzVzhfYVZKUjlmbDc4bkF6V01TNlo1U0FFSUpBa3RqYV9PNGJsVkZSUEJ3VEN0MlotR0pBT1l3N283eHVCZDVrbzlETm5nZ1puemctYXNmU3FFTFFQNVhOeVZ6d0pPTUtYemp3VF9TTDlwSWhpc3RBU1o3bklnMXg3RjFhRURNNnViOHJHNFhvU0xTb3hoYjhYWWdWVUYzMElXQ2JNYWJvMU9mZl8zUHAyXzVra09EbVBlYTllLXFpdGk3TzDSAdMBQVVfeXFMTlVZNF9ta3lTUkZEVmtuNm1lQnEzTmsyMUNzSnNSM2t1bDhyZnJaSGQySk9YQVFIMjl5aTl3LTViV1pKSkhHQ3NVa0NQRk9BQ2VvN18wWG1Dc0xIenV1cGVlZEE5X2IyRWFmbVQ0NWZOd0lRb0c3Y2lRSmlDNkxCcHdac3ZKQVlIWTNCN1Q3UWZSLWFpVHdfSDJhSkg3VDRQRkFPaFNCNDRKU3FlLThocU5uTmtSZ2VLTF9XcWhsMzBxQ2tLbk9fTGxJY2h2YlVmUmwzQQ?oc=5"
+      },
+      {
+       "titolo": "Giuseppe Conte insieme agli amici di Putin | il convegno e il tempismo perfetto",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFlTR2NVbWhSNlB0WmRhRUlRWW4wNE5HWlFQekltenVUaFBrSklYYUxzaUx2aGFnRFNfcG0wcnFTS2lJcTdYbEZtZmpIUUNLMDdLSF9xQV81X0kzZnc3ZGFXbzEtOEFwaDZneWc4QTg5OWdIVVZpS1ZCejJTRElla1BmRHQ1VTU3Uk5RaGVlRGlmYlQ2LV9NcWF4LUgtcjhlVlNNVzUyUTBVMTZJZ1VfSW5lem5fWnlRYmpyLQ?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHBza2xJdnp3dHgwVTRoRGtvbjRqbjd6VmxfYU41TTA2VE5zVUN1T1BtN2p1Z3BWemhoWGxuZGlpMC0wbkg3VWY5WXBfQi1WbEZuQWJ0dkdOQXBmNG8zanloQlAtU09HRFUweU44TkpEZWJBNGlnWkt5bjh6RGJNa29ibkh3b2pqN1VqLXZQV2dCb3FGLUk4cm1Yem9yRm1rd1ZkNEc5UFNPY0F0ZmVubnRLRXNUZHJJMjFEVndoeTY3QWw3VV9GNlE0dGZNUUc3YlE?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Anac Salvini difende Altieri dopo il ritiro | C’erano i requisiti Conte esulta | Ce l’abbiamo fatta!",
+     "testate": [
+      "Zazoom Social News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Anac Salvini difende Altieri dopo il ritiro | C’erano i requisiti Conte esulta | Ce l’abbiamo fatta!",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHBza2xJdnp3dHgwVTRoRGtvbjRqbjd6VmxfYU41TTA2VE5zVUN1T1BtN2p1Z3BWemhoWGxuZGlpMC0wbkg3VWY5WXBfQi1WbEZuQWJ0dkdOQXBmNG8zanloQlAtU09HRFUweU44TkpEZWJBNGlnWkt5bjh6RGJNa29ibkh3b2pqN1VqLXZQV2dCb3FGLUk4cm1Yem9yRm1rd1ZkNEc5UFNPY0F0ZmVubnRLRXNUZHJJMjFEVndoeTY3QWw3VV9GNlE0dGZNUUc3YlE?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUpFODFsVnJnQmdnZTQzeWlSaTlpMnZnb3J6emxtR1BKMi03c1hHREJidFN4VUJqUmtNWFE3cWQ5YjI5aVJJaDZEQllhX1RWak4wVFBiWFpYdlZHeTZLZkZYdUdUTXFkVmtDNGVGWGsteXY3allWUUtuNEh4NEhPYmtVVVFXQldMckFjbEpIWEV6VWMtSlFudFdWNlQzZWU5Zi0tYTY0dlNtRzFNS2V2MzBZNjg0NFhCS3ZIQmdCQmpPVzJmMEpwdDBlc0Z5LWEtVWRnSzNvbjM?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Vaccini Covid Zedda contro Conte e Speranza | Abbiamo sprecato quasi 4 miliardi in vaccini mai usati",
+     "testate": [
+      "Zazoom Social News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Vaccini Covid Zedda contro Conte e Speranza | Abbiamo sprecato quasi 4 miliardi in vaccini mai usati",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUpFODFsVnJnQmdnZTQzeWlSaTlpMnZnb3J6emxtR1BKMi03c1hHREJidFN4VUJqUmtNWFE3cWQ5YjI5aVJJaDZEQllhX1RWak4wVFBiWFpYdlZHeTZLZkZYdUdUTXFkVmtDNGVGWGsteXY3allWUUtuNEh4NEhPYmtVVVFXQldMckFjbEpIWEV6VWMtSlFudFdWNlQzZWU5Zi0tYTY0dlNtRzFNS2V2MzBZNjg0NFhCS3ZIQmdCQmpPVzJmMEpwdDBlc0Z5LWEtVWRnSzNvbjM?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkdfNFdNMDhjTWJNelVLSFRac3lUdDAzR08zbWNhQVp1TTJRVWt6azNya3N1OG44alBSTTVldU51RlVQaUNCMWVoWUlxZFVaZUpZdHJaelE2cy1JNTJwaGtvMUhoc2NuRVdHVzlLUTZUeUNmeWtIUTlSWldqcGlXZVl0bTdITU80MGdlR3J6aDBqRGoyTGFMV3dGM1N5d9IBogFBVV95cUxPaGE2d20wSlZhdlR6UXZILUpDTzVCSlNHc1o5UVI1NVZuZFM0OVFCbnhncS0taXJpYzhTNGVMYkhsSmNMYS1NN1NSNUV0d3ZnM2lCV3cyTjFlbl9VZjFrSUZ0VHpqSzNsNGhUelkxblNLSEdOTzY0V3RhRF9zdElfUTBhWl9IcVVxXzlzVk9Xa3Q4TzNaSEgtUjRyQ3h1LXZMT2c?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Virginia Raggi, \"è stufa del M5s\": addio a Conte? Clamoroso, ecco il suo nuovo partito | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano",
+      "Zazoom Social News",
+      "bigodino.it"
+     ],
+     "n_testate": 3,
+     "articoli": [
+      {
+       "titolo": "Virginia Raggi, \"è stufa del M5s\": addio a Conte? Clamoroso, ecco il suo nuovo partito | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkdfNFdNMDhjTWJNelVLSFRac3lUdDAzR08zbWNhQVp1TTJRVWt6azNya3N1OG44alBSTTVldU51RlVQaUNCMWVoWUlxZFVaZUpZdHJaelE2cy1JNTJwaGtvMUhoc2NuRVdHVzlLUTZUeUNmeWtIUTlSWldqcGlXZVl0bTdITU80MGdlR3J6aDBqRGoyTGFMV3dGM1N5d9IBogFBVV95cUxPaGE2d20wSlZhdlR6UXZILUpDTzVCSlNHc1o5UVI1NVZuZFM0OVFCbnhncS0taXJpYzhTNGVMYkhsSmNMYS1NN1NSNUV0d3ZnM2lCV3cyTjFlbl9VZjFrSUZ0VHpqSzNsNGhUelkxblNLSEdOTzY0V3RhRF9zdElfUTBhWl9IcVVxXzlzVk9Xa3Q4TzNaSEgtUjRyQ3h1LXZMT2c?oc=5"
+      },
+      {
+       "titolo": "Terremoto nel Movimento 5 Stelle Virginia Raggi verso l’addio a Conte | spunta Di Battista",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEYxdEMzNG1uZkhMbDQxRnVsUTFMd2hCZW8zbThvQmRjMHRXVTVuTk8wODFrcUZiMGNxY3Zpd1prQ3NrS1UxNFc5bUJObkhKQVdDaTZPY1BOOFNIZ3lhX3IwZ0Zuc1NsWTVxSDJYSG02ZUFjR1dSenhCQUFsdllQa0xRM0ZHSGFzQzdfZlFRZkJ2ZWxjUUtqUTVGdHFvWEMzSkdZRDB4TmhVd3RaRXo3QVFwU0ZXQ2hzMUZ3bkJuQm5TVEx5MDlqUFNn?oc=5"
+      },
+      {
+       "titolo": "Virginia Raggi è stufa del M5s | addio a Conte? Clamoroso ecco il suo nuovo partito",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWdPRTdyei01MV9qZjhRTUdzc0NCdm1lUXpkbDdmQjJ4cXE0VW1UR05xWjJ3R1lnQlB5bFRWVzl3bk9UX2ZxTDVjWEFnM3ZVekhmeUZjU3FTQkRfZFZkUm9BVjVha2xRcHV2SGZncG9vYm5aRXU4VGh5bjlnUjh1eHQtYkxNSlRIVUNLUFFwSXdxdkR5THFVTllVNFRqZTNDVHkwa0hUUW9uNVVRU3VzcjZSZ2F2NEZ5aWZvU1oyc0o?oc=5"
+      },
+      {
+       "titolo": "L'ultima di Conte: esaltare il comunismo | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMERONmVwbFlIVHEyM1RtREVCRllHNVBwT1RjcnYyWjBIUV9XRnFsYnFQNGFyTkVVZ3dwQ3VOdl9jN0pqQkJLa1dnd0hMWWlXTW80cUMtSWpQN1VhTXlaN1RhbUpNQUZaaldWRV8xZTB4NFNVUGFMLV9UZjdCQ21VT25uMXZsN0xqVkgxWVdPcWEtcFU4aFphX1FRRdIBnwFBVV95cUxPYmI5cVA1VVQzbXVQWUhMRk5xcVJ1MDcxVDJhWkpxU0lwQkJGcWlHb3hEVXgtVFRGVFNNTWFKSUxud2pzcUh1Xy1UeTl2bUhQU2tDc1ZVczlpTlFrbU1ydW01N2J0RGJubmpzekJCQ0ZObG9mT0IzS3FxTGtOdkVtd1FNMHF4VFpSenh6aU1nU1dxaWdvWFRXQy1oU0docHM?oc=5"
+      },
+      {
+       "titolo": "Terremoto nel Movimento 5 Stelle, Virginia Raggi verso l’addio a Conte: spunta Di Battista",
+       "fonte": "bigodino.it",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSm5LeW56Zl9JQkI4M0wtdmN6VkhpSC1jYy1pUi1FNVZoZjRvS2stRVpHWDZOYXJrVzd5Sm5RbEhJNUdWRk04bFNSMkV1dWotX0ZTOUxnTnVqalBMUXlDVlNXQmRoMnVZSkpZQjlSeXNEcmI1aXZtaTZxNGowbkJ6dnlyQW9XLTlhZW0tZFU5clZZMmpUTUdmdlhkQWc?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbUp6ekduRWwycDd0NkRicmdZOFJYeWRVaHN1b093Qjl4SFBLVnVHTnpLRUczWm5uTk02dFF6UDZUQmZIMVFmX0p1OWtfN3VxZElkbHdjQ3c0ZEFWaHRhMDlTeHBCM3F0czBDdkxCaGRsZDlQR3NZd29Id0xqVVJJNVQ0amM2YlpWY0pwWVV1R0RHVzhYMXF3RGJKbXRGaUFncWptMmxEN0N3am5NRjVmS3lrT0dDYjFfN2hqaXE0b2NrdmNDYXYtZC1zOS1sQlNkMnY2MnJISFdtbUJrbHIyQWdKSWFNMzg?oc=5",
      "data": "2026-11-08",
@@ -67905,48 +68263,6 @@
        "fonte": "Zazoom Social News",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeGk1MmpybjN4U2V0TUVXUkFESlNIUlBFWTVqVEJLMXBBTmNiUzFQT3cwTVBVR1lhcDZadzAwVmxsVExsay05NFhpNTU5OGdvcFRQSTAxSGJYV3hBYlVNU1hsQ3BPMjI3SHozN3QwTFVid1laRmpVcWZNekc3SU03VGxQcGlXOW1NcG43NEtZOEdFanZpV1Awc0U1elhFekdmWndNc2VlbzhtWmxGaUdudGVOVFA2eWhnYVJFWlN4dDU1TUNHZWFyclNUUV80bm5ieDJsSFhEV2xjWHN1ZXlwOA?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkdfNFdNMDhjTWJNelVLSFRac3lUdDAzR08zbWNhQVp1TTJRVWt6azNya3N1OG44alBSTTVldU51RlVQaUNCMWVoWUlxZFVaZUpZdHJaelE2cy1JNTJwaGtvMUhoc2NuRVdHVzlLUTZUeUNmeWtIUTlSWldqcGlXZVl0bTdITU80MGdlR3J6aDBqRGoyTGFMV3dGM1N5d9IBogFBVV95cUxPaGE2d20wSlZhdlR6UXZILUpDTzVCSlNHc1o5UVI1NVZuZFM0OVFCbnhncS0taXJpYzhTNGVMYkhsSmNMYS1NN1NSNUV0d3ZnM2lCV3cyTjFlbl9VZjFrSUZ0VHpqSzNsNGhUelkxblNLSEdOTzY0V3RhRF9zdElfUTBhWl9IcVVxXzlzVk9Xa3Q4TzNaSEgtUjRyQ3h1LXZMT2c?oc=5",
-     "data": "2026-11-08",
-     "titolo": "Virginia Raggi, \"è stufa del M5s\": addio a Conte? Clamoroso, ecco il suo nuovo partito | Libero Quotidiano.it",
-     "testate": [
-      "Libero Quotidiano",
-      "Zazoom Social News"
-     ],
-     "n_testate": 2,
-     "articoli": [
-      {
-       "titolo": "Virginia Raggi, \"è stufa del M5s\": addio a Conte? Clamoroso, ecco il suo nuovo partito | Libero Quotidiano.it",
-       "fonte": "Libero Quotidiano",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMkdfNFdNMDhjTWJNelVLSFRac3lUdDAzR08zbWNhQVp1TTJRVWt6azNya3N1OG44alBSTTVldU51RlVQaUNCMWVoWUlxZFVaZUpZdHJaelE2cy1JNTJwaGtvMUhoc2NuRVdHVzlLUTZUeUNmeWtIUTlSWldqcGlXZVl0bTdITU80MGdlR3J6aDBqRGoyTGFMV3dGM1N5d9IBogFBVV95cUxPaGE2d20wSlZhdlR6UXZILUpDTzVCSlNHc1o5UVI1NVZuZFM0OVFCbnhncS0taXJpYzhTNGVMYkhsSmNMYS1NN1NSNUV0d3ZnM2lCV3cyTjFlbl9VZjFrSUZ0VHpqSzNsNGhUelkxblNLSEdOTzY0V3RhRF9zdElfUTBhWl9IcVVxXzlzVk9Xa3Q4TzNaSEgtUjRyQ3h1LXZMT2c?oc=5"
-      },
-      {
-       "titolo": "Terremoto nel Movimento 5 Stelle Virginia Raggi verso l’addio a Conte | spunta Di Battista",
-       "fonte": "Zazoom Social News",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdEYxdEMzNG1uZkhMbDQxRnVsUTFMd2hCZW8zbThvQmRjMHRXVTVuTk8wODFrcUZiMGNxY3Zpd1prQ3NrS1UxNFc5bUJObkhKQVdDaTZPY1BOOFNIZ3lhX3IwZ0Zuc1NsWTVxSDJYSG02ZUFjR1dSenhCQUFsdllQa0xRM0ZHSGFzQzdfZlFRZkJ2ZWxjUUtqUTVGdHFvWEMzSkdZRDB4TmhVd3RaRXo3QVFwU0ZXQ2hzMUZ3bkJuQm5TVEx5MDlqUFNn?oc=5"
-      },
-      {
-       "titolo": "Virginia Raggi è stufa del M5s | addio a Conte? Clamoroso ecco il suo nuovo partito",
-       "fonte": "Zazoom Social News",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWdPRTdyei01MV9qZjhRTUdzc0NCdm1lUXpkbDdmQjJ4cXE0VW1UR05xWjJ3R1lnQlB5bFRWVzl3bk9UX2ZxTDVjWEFnM3ZVekhmeUZjU3FTQkRfZFZkUm9BVjVha2xRcHV2SGZncG9vYm5aRXU4VGh5bjlnUjh1eHQtYkxNSlRIVUNLUFFwSXdxdkR5THFVTllVNFRqZTNDVHkwa0hUUW9uNVVRU3VzcjZSZ2F2NEZ5aWZvU1oyc0o?oc=5"
-      },
-      {
-       "titolo": "L'ultima di Conte: esaltare il comunismo | Libero Quotidiano.it",
-       "fonte": "Libero Quotidiano",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMERONmVwbFlIVHEyM1RtREVCRllHNVBwT1RjcnYyWjBIUV9XRnFsYnFQNGFyTkVVZ3dwQ3VOdl9jN0pqQkJLa1dnd0hMWWlXTW80cUMtSWpQN1VhTXlaN1RhbUpNQUZaaldWRV8xZTB4NFNVUGFMLV9UZjdCQ21VT25uMXZsN0xqVkgxWVdPcWEtcFU4aFphX1FRRdIBnwFBVV95cUxPYmI5cVA1VVQzbXVQWUhMRk5xcVJ1MDcxVDJhWkpxU0lwQkJGcWlHb3hEVXgtVFRGVFNNTWFKSUxud2pzcUh1Xy1UeTl2bUhQU2tDc1ZVczlpTlFrbU1ydW01N2J0RGJubmpzekJCQ0ZObG9mT0IzS3FxTGtOdkVtd1FNMHF4VFpSenh6aU1nU1dxaWdvWFRXQy1oU0docHM?oc=5"
       }
      ],
      "polemica": false,
@@ -68166,6 +68482,31 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBUQ2lVMEpPZUROcHlYc2c1aVg1QUhnTUlfQXlDeUtwQjZKT3VpeWNsMzhCRWRHaEd0Nmk4bWdEYkhCaXh2YUIwWVlTT0o3M3AxY3BPcU9zSE42TldfcFNnOGpIQllHM2QzTGUwNTBGMXJSbjN5clFkSWlFbE40TFFFSmluWm9VdmZRRlJFNkdmTldhOVV6MVpfVHczNFo5X3UyN1lmOHB4WTh1NGdlY2ZPV0NDaEJiaDNKU2FBeXJpZw?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Conte: \"Con Meloni il Paese è crollato. Italiani voteranno per il cambiamento. Pronto il Reddito 2.0\"",
+     "testate": [
+      "TaorminaNews24"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "Conte: \"Con Meloni il Paese è crollato. Italiani voteranno per il cambiamento. Pronto il Reddito 2.0\"",
+       "fonte": "TaorminaNews24",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczBUQ2lVMEpPZUROcHlYc2c1aVg1QUhnTUlfQXlDeUtwQjZKT3VpeWNsMzhCRWRHaEd0Nmk4bWdEYkhCaXh2YUIwWVlTT0o3M3AxY3BPcU9zSE42TldfcFNnOGpIQllHM2QzTGUwNTBGMXJSbjN5clFkSWlFbE40TFFFSmluWm9VdmZRRlJFNkdmTldhOVV6MVpfVHczNFo5X3UyN1lmOHB4WTh1NGdlY2ZPV0NDaEJiaDNKU2FBeXJpZw?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [
+      "Con Meloni il Paese è crollato. Italiani voteranno per il cambiamento. Pronto il Reddito 2.0"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ3pWNlB0eHN1N3A0MVdlUXlLejdxSW9kRXVnenoySy14cThfclFFbHE5VjdmMEhKekRwUEwxY2NEVTJYcFp3cU5FeHM4elFUdmF5ZDU4RkZNcEZWdjY0UjBhS0dwTTg2Tl9yX3RRUTB1UGN3aHhrdUoxVE5lZFhHc3BsTzZaSjA2YWEydFRJZGI2ZzBReHA3Y1RFVTlOaTYydTM5dTdiUmlKUzM3VVhQcko2R1F2dUtVbDRxX08xY09Td0xYZk1WNWNCN1U5V3hzSVd3TUtCNzB5eTBZRnAzNVZLYVYxVmszYkVYaTNXRHlUN0JWcm9IXzRVZE0?oc=5",
      "data": "2026-11-07",
      "titolo": "L’incognita abuso d’ufficio nel programma del campo largo. Nardella (Pd): “Sbagliato reintrodurlo”. Conte vola dai Brics",
@@ -68257,6 +68598,12 @@
        "fonte": "Zazoom Social News",
        "data": "2026-11-07",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREoyWWVUUEdRTlhoLUxjYTk2WHhCV2wzc0lQZ0dxNUpjTXNQR2UyNndWNXNwVFFNQzNSSFczSk4yTEVxeXpDYlByYndFQ0hMVVJpcklJNUFUZ0RHVUJNN2JfWkNGdTNka0RvVGY5b0MyQjJUUkZ0Q3d4UHc0akl1ck16a1NveXZPNFVwSE9WelhzajBOZU5RTlFPdFVLZ0NJbVJKRElBaVdSb2U5bHlXbGpoUmtPWm54?oc=5"
+      },
+      {
+       "titolo": "Renzi prepara il piano con Franceschini | primarie tra Schlein e Conte poi Silvia Salis alla guida dei centristi",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMXVnZW1uWXpMMHlDdWJvNDhFbWljNWM5aFhSS0F6aDFRd1VRMEZWT2hiU0NQMURoMW5QTGFYNlV3ODkyZXUzSFI4SlduUVpKYkpkVjFGa213UWtURy1YVnZaMUNMQmpEVkVwc1E4RFkyUVZ1Zk9FcDBUdjcyR1JVQXpGMVpxS1VUT3NRSUtPZW5uS2taU2Roc0ZZNmcxV0pFRERHM3p0bHdBUVZEaVBvdWN5Vi1GS2w0SmZuNUdyTmh2WWZaMDlVN0VhNjlveXN0Szk4MkpFWmVQMW9ROC13d0RBak51cVJI?oc=5"
       }
      ],
      "polemica": false,
@@ -68601,10 +68948,12 @@
       "Il Quotidiano del Sud",
       "MetroToday",
       "Nicolaporro.it",
+      "OglioPoNews",
+      "Virgilio",
       "Zazoom Social News",
       "il Giornale"
      ],
-     "n_testate": 5,
+     "n_testate": 7,
      "articoli": [
       {
        "titolo": "Conte sfida Schlein sulle primarie | Era meglio fare un passo indietro entrambi",
@@ -68635,6 +68984,18 @@
        "fonte": "Nicolaporro.it",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlBRM0ZEV3FvQ1lOZVpsZmVNWm5oRXlJcHIzUWl2RXhUd0lLLUJPQXN2RUlJOVBBYnBaa3JTX2JsOHlaTTlIUC1lX2dDVEdfbVlvTDF5bkQwMXNydGZCYkp0TDZiZHRkWnpwdjN2OXRFS0djc0ZRY054aXoyeVhmVnA0OVdlZmZEU2dSSTVycmFNMDNOcFlyTDR0NHl1S1FFOTZDSFBXVE0wWXPSAbABQVVfeXFMT3l6ejBONFdYbzhhREo0UzU4TVlBNFJBYWd3eE45R2ZPeGR1MUdsWlBLcWV5b3N3WjlNWGZ2ZmV5Z1dsYmVCcmJfcWE2RThaU3VxSjR5TG1mYUlpZVBVb3lOQjB2aGd5SE5TTC1HcGlfdWNBZ3piZlZfWWJNa1dlX3ZOVlVmVUE2OU5pNHYtbjZ4NjBiV1RDQmdSeFRFS2FXSEtmeWlvTUF0LWFkUHQyWEc?oc=5"
+      },
+      {
+       "titolo": "Conte pentito delle primarie con Schlein, \"sarebbe stato più saggio fare entrambi un passo indietro\"",
+       "fonte": "Virgilio",
+       "data": "2026-11-06",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN3hEOHI1R3JndkYtaGs0akdvd2c4Y1l0OXZHQ1QxZklHMGVBMGdtTUt5WldGdDhiZ3VKOWJqcUZJLXJaTnlwLVFrY080S3N3czZEVU1wSV9WZXdvY3lUWl9SQVg4NzdfNlhlemlTNlRYYUtyLW5NU3pFU1dFQWxJQmRnZzBmSjVnNkNtbFAtMHZrT3V4aFI0ekYydjdmR21PemVQd3JWTUlLbGpaelVDZDNSUTRZRHVlM29lLWZzMUFGQmo2QTlCTnNoazNFYnJISVBv0gHYAUFVX3lxTE82ZEUxR3pIYWZaczZ3NldMT2lKMGVNTXh5QTNaRzBRcFlZazlyMjlsenkxVFJ0T3ROakg3UGpwUG1jdEFFSlNFeThaeEU2MF91MTU2LUNlaUw4Rjd1bG5ZMFNjWUdoaUI1V21PYkpoTGhzRmlWZk1QY0d6X28wbFJkdWFfMWN5WjJtYUI1SWg1VjVMNS1QMWREQU15U29JcEd6RkZ3dTZ1RnIzaWpieUVvQ0tmSzhuaHJ0dmNiaXNoVG12T3NMVGZTeGR5emhqTFF2OTByZ1VpbQ?oc=5"
+      },
+      {
+       "titolo": "Campo largo, Conte e le primarie con Schlein: \"Era più saggio un nostro passo indietro\"",
+       "fonte": "OglioPoNews",
+       "data": "2026-11-06",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1I1Ym9jZ1o2OWdEcXVQNmdGU0JEN0pWcE1MN1djN29JM1labENMeWtNcW5zRTlNbm9vcG1zR0hIWmNyZ3hHRU9zX2NZeDRScEthSmg0NGJkX1hNNXJsbnc1Y29nbjQ5MFpOY0FoWXZZc1Rad2hEWThxTFBnbkdnX2lVWE9adVRaY3BxbWtmZmdWWDBIc3QwdkdHYTNsV1Z3VlNMTzBVeWluMlpjdWp4NDJpblMtOEFFNHc1NF9WNA?oc=5"
       }
      ],
      "polemica": false,
@@ -76561,11 +76922,11 @@
     }
    ],
    "conteggi": {
-    "storie": 248,
+    "storie": 254,
     "polemiche": 28,
     "polemiche_social": 1,
-    "virali": 66,
-    "citazioni": 97,
+    "virali": 67,
+    "citazioni": 98,
     "verifiche_confermata": 1,
     "verifiche_non_dimostrabile": 1,
     "giorni": 45
@@ -76581,6 +76942,59 @@
    },
    "schieramento": "opposizione",
    "storie": [
+    {
+     "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5",
+     "data": "2026-11-09",
+     "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+     "testate": [
+      "Libero Quotidiano",
+      "Zazoom Social News"
+     ],
+     "n_testate": 2,
+     "articoli": [
+      {
+       "titolo": "Piazzapulita, Formigli intervista Schlein, Conte e Fratoianni. Ma il vero leader della sinistra è Floris | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERLM2xrV09BYVR4VEgyQWk2NVpzVzh6ZUJFaEFyd25IS3VKZ3UzelJreVdkS00xUHEzdUhTVHRUV3ZLblFHbWFtNy1DRENsQ3l4d0l2WHRsYXdXSzQ0U3BOV2VOMHdzMjBoVWstVlExQ2ZPTHRvTzlKWmU5Y2NTVnZ2WDB5aXUtdkxCLWs2QlVlYWpqTEN3OUpLN0lpQ012cm5FeEs0X2E1SzJxd0U1MGU5ZW1xcGZaS0RBa0ttdjRnZnA1bS1XRktfTVk2bVFMd0RfOWM5VnFEUEJk0gHgAUFVX3lxTE9yZ0VBaWhCSWFuaTZkSGVTWlpUWG9tU2dsbzV3TmQxb1NYTElkZnJZYkNmVVd5anhNT1hSc2xFX1dTb0c0cWNhSGJGaHhKeEN3TTNnRlpRdU9xS3ZIQzM5NFMyTXptZzFCYTVwMlZQQXZ4blkxbEowZVViUGIxcGFNQTlPNUdoMk9Xa3Z1OFl2VXZDaWN6bm4zYV9HRDN5ay1VUWozQ2JjSTlRRUNQNWNMZGt2ZDYzVEJwdmpBc2VYa003cE8wdDIwcVY5MmpmYWZEWURES2FaSkVqTGZrXzdZ?oc=5"
+      },
+      {
+       "titolo": "Piazzapulita Formigli intervista Schlein Conte e Fratoianni Ma il vero leader della sinistra è Floris",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY0c5ZlU3VDJnY3BIbEE0S2laZVJmVE90bUdvam5selhpZ3RpQTJEZmdpVURONUNhYnBpOWl6QWphODYxT1NVQWhCcE15R2N4N2xhWWJKRGpHallpRU5wRnI3dWtELXQ4QURMVkxFbFZ1blZ6Z1VZMEM0RXlDejk3TUxLZkNnNkU2TG1vZVVsQjNjVkhxbTVqQndpemZXaXoyNm80V2ZWYnczNFZRMHIwQ054cmUwa1JzN1ZNOFVad1BuYmI3RUNWNVJDMVJYdXNSbV8xY211R3pQeS04?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnVmWlpfY25IdmdyVUExM3FfNFRackd4ZnBXejkwMmQwODRYOEtvR1BBVEwzcnFnZUtPRWRHZFdyZFB1cjl6RklsVWtnT0oyaDk0Y3JPeEtzUUJpNnZkb1oyRGU5aUtkaTZYWV9odHQ1SHRPNlBKTHBKVHZIU3YySTFzY2RSQkJrQ0prZW1pbkxDMmQ2bzVGRHZGVHhaZlU2WGVGMHVKYzk5ZkxvbEVqdGN0ZXNmTExLUkFjbmMwYVVUTVIxWmtheFJR?oc=5",
+     "data": "2026-11-09",
+     "titolo": "La spartizione delle Authority Fratoianni | Occupano tutto infranto il muro della decenza",
+     "testate": [
+      "Zazoom Social News"
+     ],
+     "n_testate": 1,
+     "articoli": [
+      {
+       "titolo": "La spartizione delle Authority Fratoianni | Occupano tutto infranto il muro della decenza",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnVmWlpfY25IdmdyVUExM3FfNFRackd4ZnBXejkwMmQwODRYOEtvR1BBVEwzcnFnZUtPRWRHZFdyZFB1cjl6RklsVWtnT0oyaDk0Y3JPeEtzUUJpNnZkb1oyRGU5aUtkaTZYWV9odHQ1SHRPNlBKTHBKVHZIU3YySTFzY2RSQkJrQ0prZW1pbkxDMmQ2bzVGRHZGVHhaZlU2WGVGMHVKYzk5ZkxvbEVqdGN0ZXNmTExLUkFjbmMwYVVUTVIxWmtheFJR?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": false,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
     {
      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSk9MY3BvcEJNaDBlLWZYZHJEaHdUcHVpNTY4bXJWYTV4ZkRFbHNFZlhralNydURjR3ZNT1VuZFFfN0NZZVNiMjdFdjhwbnVMZGt5a2lsOEhZU0JVTV9MbXpQVUJFaldxek9ET2lkcXJvSDN6aC1mZjk0MGJQcDZzUVpwSy1vTWYyTGJsSDJ5NWZ5RmpKbzRVdVhJQTJTLVJ0UjRpQ0Q5cEs0YzZnWDFoVmRlTG9jeFZvZ3lF?oc=5",
      "data": "2026-11-08",
@@ -76821,11 +77235,12 @@
      "titolo": "Schlein e Fratoianni si salutano con un bacio davanti al Brancaccio per l’assemblea della Cgil",
      "testate": [
       "AGI",
+      "Il Messaggero",
       "Il Sole 24 ORE",
       "Quotidiano Nazionale",
       "Vista Agenzia Televisiva Nazionale"
      ],
-     "n_testate": 4,
+     "n_testate": 5,
      "articoli": [
       {
        "titolo": "Schlein e Fratoianni si salutano con un bacio davanti al Brancaccio per l’assemblea della Cgil",
@@ -76850,6 +77265,12 @@
        "fonte": "Il Sole 24 ORE",
        "data": "2026-11-07",
        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTUJGRUxBaXVmR1Ywd1J4RHNQaGRhNC1lZ05mMmhjbVR5NEFGTEFtdWw4VVVzcGVaZnRRVHRaVUpzb1BYZUdaUVF1bHhTYkE5a1pvVEJnUTRyUjZkWXd4RUhHNUNDMkExU0c4OTh0ZjNQZ3kwQ093OTFJcXhVYmh6V2NkdEljTGUtamE2NU9rb3lpQWFCNFZnb3g3SndzNWs0V2xvMVM1VzZWaVNvOGpGZldZZThPRFRvQnNYZVJZdmVQb0NtSlVoZUlUZWx0X0pZWXJwdmhicFBScnc?oc=5"
+      },
+      {
+       "titolo": "Schlein e Fratoianni si salutano davanti al Brancaccio per assemblea Cgil: Anche tu a teatro?",
+       "fonte": "Il Messaggero",
+       "data": "2026-11-07",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUxRY0dUcG5ndWNyMmdfNmw1UUp5RUZVUFlhZUNJckZhWlBCbEdsR3Q4dzVodUJzOW1HdTQ4bVJaZnN4emRCLTM1Tk5HTFRaTERQaTZjYlpsaHB6b0FOaVRoY3lVQVlrd0JEZmhqRlBjQXdRQ1N4bEhaU2Z0TXVHZ1k3YW5pcHRTcVBJV0FNcEFWZUtLdnR5eXV6bjR5ZDZVNjlCMUpMZGZtVF9ST1JLZGRYTEZlWUQwX0J2akJCeWxMdXhFeGZOZXVwaExfRjNIRGk4NHZjWTBJUdIB2gFBVV95cUxOZUxRY0dUcG5ndWNyMmdfNmw1UUp5RUZVUFlhZUNJckZhWlBCbEdsR3Q4dzVodUJzOW1HdTQ4bVJaZnN4emRCLTM1Tk5HTFRaTERQaTZjYlpsaHB6b0FOaVRoY3lVQVlrd0JEZmhqRlBjQXdRQ1N4bEhaU2Z0TXVHZ1k3YW5pcHRTcVBJV0FNcEFWZUtLdnR5eXV6bjR5ZDZVNjlCMUpMZGZtVF9ST1JLZGRYTEZlWUQwX0J2akJCeWxMdXhFeGZOZXVwaExfRjNIRGk4NHZjWTBJUQ?oc=5"
       }
      ],
      "polemica": false,
@@ -78819,7 +79240,7 @@
     }
    ],
    "conteggi": {
-    "storie": 69,
+    "storie": 71,
     "polemiche": 5,
     "polemiche_social": 2,
     "virali": 18,
@@ -81912,9 +82333,10 @@
      "testate": [
       "Affaritaliani",
       "Il Sole 24 ORE",
+      "Libero Quotidiano",
       "Quotidiano Nazionale"
      ],
-     "n_testate": 3,
+     "n_testate": 4,
      "articoli": [
       {
        "titolo": "Calenda: Azione schiacciata dal bipolarismo? Da terzi abbiamo sempre preso l’8%, andremo molto bene",
@@ -81933,6 +82355,12 @@
        "fonte": "Il Sole 24 ORE",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjhqYmdnTFBDQThvR2diM2FBcDNoVC1tRjU4RWs2UGtwNGZDVXp4M05IVF8yNXgtdGpQb3lKdmV4RGFCWm1iVEdINWNLVncwR2hFUXQ5cC1CT2luR2ZmWWdJdmZGN0dYaXhJNTl1X05RYmRhNGJaTUZwY2VlczVwQzRIVGc2TGRuSThSNW1qa1RJZVNMNktpbTZqTkw2aXdoMmdodFYxZ0xINktLckpXOHZaOUJKbG9tWVpmUTFsNlFIMFJFck0zTTNMOUFlZkZMc0QtaW9wZlBYTFVZdjdCbWxIb2tpYmR1OGc?oc=5"
+      },
+      {
+       "titolo": "Calenda: Azione schiacciata dal bipolarismo? Da terzi abbiamo sempre preso l’8%, andremo molto bene | Libero Quotidiano.it",
+       "fonte": "Libero Quotidiano",
+       "data": "2026-11-07",
+       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWnpaa2ZtUmZaVjlCX2xWbHRlZW14czBsUjVkSlprVW5CTFhDVHpRaGJQVzBFZlM0VDRLQkl5SE8zTjFGV2w4WFc2RHBVVW5OOW82dlJtSDFmZUxNY3diSFBNclMxMVpESnp5TXA2UmZFczY3LUViY2E2OS0wOGlQeVRlU0JWZjk3WFZtS3VQSWpfWE53ZF9wN3NIaEloaVMySWdOa2dQUFYzRGh2Q3Z6bno0aWFrSGRicU9mcjRXNzR6UTgxWVp0SWJlbGcza1plZGc3T3lfTWkzUktHdTk4VW53WW15MEJ3LWhQY2VXeHowQXIx0gH4AUFVX3lxTE1FR0RiRDg5MndqNDVOV1JoeXp4eTlqV2VsSEpBWG5uX3laQVJyaDhZc0JYUU9KN1dmLVpQcjhWRzFtaWIxSHNvSkx4bnNZbi1hd2g0cGlRdXl3RHZiWFhUQjJ4Tm15c2RDZ2NiMVl3RXRtcG9WbGg5VlJQcUtnSC1QMTc3SGU3NGdGbktDNlZ1VWN4WGdyUFFnc0loeTZTVWtSdWJfV0cwRzZPdEFUc2t6T0EzTlA0LUN2cU14cFc5NjhPOUJXOTJBR0VzTnQ1MURqWU5TZ2xmQnlqLV9KUWpNWmx2ell6ZDZQUDF1MHBrXzZzeUxpanhL?oc=5"
       }
      ],
      "polemica": false,
@@ -86335,12 +86763,13 @@
      "testate": [
       "Corriere Livornese",
       "Corriere Roma",
+      "Corriere Toscano",
       "TaorminaNews24",
       "Telenord",
       "Zazoom Social News",
       "alanews"
      ],
-     "n_testate": 6,
+     "n_testate": 7,
      "articoli": [
       {
        "titolo": "Renzi punta su Silvia Salis: “A febbraio uscirà allo scoperto e guiderà il gruppo centrista”",
@@ -86455,6 +86884,100 @@
      "confronti": []
     },
     {
+     "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWRKcmdHZmRaVWpMT2NES0VvTmxpZWRobU4ydDZfRjJhNXRIZzl0ZHFDX0VMNV9QYjNGb1VGTXpoVXRnTGNDajFGZ09lSk5yYWI0b2RWUHVxS2lyMUs0X1p0WXVPc2QySmIwZkZibDB1OVJ0SHdZSGRXXzJLTnVpendydWRyMW9tSF9uV2xFNFlRdWVhdmhpYlIzRdIBoAFBVV95cUxNR0ZRVWZ4QnJQWEpjdmRNZ3JJNW5JcnI4dGlXdU5PMXRuc21BOXgzU09oWDdDcXBuUVRvenVmNVVydVJibUcyaEhET25INjJsMEdkQS1WMzZSVGIxMXUxREdNRUh3WlU1bWtuR05CY1phdVpwWjVib1dRVHk3eWIwcXVHM2JCQWZJNmtJTVpEMlJRUms1SC1nZ2YwYnYzdDhO?oc=5",
+     "data": "2026-11-08",
+     "titolo": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
+     "testate": [
+      "361 Magazine",
+      "Zazoom Social News",
+      "la Repubblica"
+     ],
+     "n_testate": 3,
+     "articoli": [
+      {
+       "titolo": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
+       "fonte": "la Repubblica",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWRKcmdHZmRaVWpMT2NES0VvTmxpZWRobU4ydDZfRjJhNXRIZzl0ZHFDX0VMNV9QYjNGb1VGTXpoVXRnTGNDajFGZ09lSk5yYWI0b2RWUHVxS2lyMUs0X1p0WXVPc2QySmIwZkZibDB1OVJ0SHdZSGRXXzJLTnVpendydWRyMW9tSF9uV2xFNFlRdWVhdmhpYlIzRdIBoAFBVV95cUxNR0ZRVWZ4QnJQWEpjdmRNZ3JJNW5JcnI4dGlXdU5PMXRuc21BOXgzU09oWDdDcXBuUVRvenVmNVVydVJibUcyaEhET25INjJsMEdkQS1WMzZSVGIxMXUxREdNRUh3WlU1bWtuR05CY1phdVpwWjVib1dRVHk3eWIwcXVHM2JCQWZJNmtJTVpEMlJRUms1SC1nZ2YwYnYzdDhO?oc=5"
+      },
+      {
+       "titolo": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
+       "fonte": "la Repubblica",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0ZRVWZ4QnJQWEpjdmRNZ3JJNW5JcnI4dGlXdU5PMXRuc21BOXgzU09oWDdDcXBuUVRvenVmNVVydVJibUcyaEhET25INjJsMEdkQS1WMzZSVGIxMXUxREdNRUh3WlU1bWtuR05CY1phdVpwWjVib1dRVHk3eWIwcXVHM2JCQWZJNmtJTVpEMlJRUms1SC1nZ2YwYnYzdDhO0gGgAUFVX3lxTE1HRlFVZnhCclBYSmN2ZE1nckk1bklycjh0aVd1Tk8xdG5zbUE5eDNTT2hYN0NxcG5RVG96dWY1VXJ1UmJtRzJoSERPbkg2MmwwR2RBLVYzNlJUYjExdTFER01FSHdaVTVta25HTkJjWmF1WnBaNWJvV1FUeTd5YjBxdUczYkJBZkk2a0lNWkQyUlFSazVILWdnZjBidjN0OE4?oc=5"
+      },
+      {
+       "titolo": "Salis smentisce Renzi: “Continuano a parlare di me più che con me. Genova è il mio impegno”",
+       "fonte": "361 Magazine",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hmZzJFWEJjcF8xdmVQQzVlWmt5NzNnWEFaSkJSaS01aHl1eUJBZDJuekcxbjNPMG92MldYZzdielhxMF9TTGUtOGtud05PTzJDV0FDVGNhY3dJekt3dDFYNFZwX01hRzEwMGlwbm0ycjdTS2ZhT0dubTVfemhSNTRvcnFRU1kxR05XVG9aTllsMW04OXladHJ2QllUTHI0OXdsQ1FYSzVpNWRFRFFyNndB?oc=5"
+      },
+      {
+       "titolo": "Salis smentisce Renzi | Continuano a parlare di me più che con me Genova è il mio impegno",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWHc4NzNpSlo2S3dubDJDQW9wUFpucTVYUFRTQlNHWlE0SEZGdGh4NGdCWmlkc2FjNndrNzVlZXZSREgwT3QxM2Vvc0txdWVyUy1UM2FyLVNHTXBjZ2ppamxKc2dUaHRTdVVKU21mcFBaa1ZqaHZ6WVdCMXNXaUwtYmt2MWhZbjJlSFFHUXZReWo0RU1hWktrRFE3cUJpemZLd1lTVzJyOTRWTEJZb0paNU5CSHhyZHVwMFRyS2g0ZjRhZnRZbHItUWNR?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [
+      "Continuano a parlare di me più che con me. Genova è il mio impegno"
+     ],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
+     "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONHpvTncxaUtna2RVaFZGOHdENGVyLWtRMzRvZjZGWThidlNKVXdFOVI5MjVnSFloMkVMNnpfRDE2QXNQU1NqcTlHNktPbkFmTkVvZ0lOa3h3SnlPd2dKN084R2VHb25fZVlZQkhmNl9zZlhaMFdNal9QWkNtUUpxOXNBQkR6N3hEQmpWcXc2TnhQWGY4RENFLU1BakgxeG5zVkx2YkZKQzZCdWhWMzJOMWo1aXBtSnVXSi1vWl92eEVBN0lVXy1DdmoxZ2N3NmpscGJhNnRXMA?oc=5",
+     "data": "2026-11-08",
+     "titolo": "La CGIL, campo largo e Renzi, tutti insieme. Altro che ripristino dell’articolo 18",
+     "testate": [
+      "Contropiano.org: Giornale Comunista Online.",
+      "Il Giornale d'Italia",
+      "Zazoom Social News"
+     ],
+     "n_testate": 3,
+     "articoli": [
+      {
+       "titolo": "La CGIL, campo largo e Renzi, tutti insieme. Altro che ripristino dell’articolo 18",
+       "fonte": "Contropiano.org: Giornale Comunista Online.",
+       "data": "2026-11-08",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONHpvTncxaUtna2RVaFZGOHdENGVyLWtRMzRvZjZGWThidlNKVXdFOVI5MjVnSFloMkVMNnpfRDE2QXNQU1NqcTlHNktPbkFmTkVvZ0lOa3h3SnlPd2dKN084R2VHb25fZVlZQkhmNl9zZlhaMFdNal9QWkNtUUpxOXNBQkR6N3hEQmpWcXc2TnhQWGY4RENFLU1BakgxeG5zVkx2YkZKQzZCdWhWMzJOMWo1aXBtSnVXSi1vWl92eEVBN0lVXy1DdmoxZ2N3NmpscGJhNnRXMA?oc=5"
+      },
+      {
+       "titolo": "Sondaggi politici, campo largo al 45,2% con Renzi, centrodestra al 40,5% ma salirebbe al 48,2% con Vannacci",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcy1LQmJJVEhHa3VWTGVlRUMySjdpXy15MEdBdVVvZDZtUk91dzVLLXpOLVU5WmNSZk01MG1zRExScUYwQVYzcUlZLTVzYjkycjJ3bG1pVGhVdHI4MTNtRVNGOEd2NEZxblNFZFFLNlhzS1VXOThwbGxZVFhaNjRwS240aDQtSVlYR285dUdaT2lBTGs4Nl9YWE5vSXVDNUE4YW9SR2RoUmNJa0gtU0V4ZzRSV0xMdnVPdm05WUtxcEQ1TmFXaEphdWo4VTg3UXRaQ3VFTkREa1pMRUF3M0d4Sl9hcTdWcjIxZGpSTjBnM21rSFU?oc=5"
+      },
+      {
+       "titolo": "Campo Largo, Conte dice sì alla patrimoniale (ma vietato chiamarla così), asse con Rifondazione e Renzi \"senza simbolo\"",
+       "fonte": "Il Giornale d'Italia",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWU1CejZtMWdNQU5yZVFIanFEcWNIOHFnenBYRXZucXVMTXpWSk5YRzREVWdSb3lPbXNPamdteTlGMEp3YkgxaEZQZkREV1NGWGhzNEYzOTRfbWNHTGNZSFpWRHVQRzE4UWNhUFBKUGhoZXhwRVo2MjFBa0RKSVUtVkZJSHdqT0JrU0t4VjE5dEM4X1FSRHFVS25YVzZ3RDlPM0pPb1FFM0thLUFkeXdjMjFFOXVtR2lXRWhnWXBHRERnR0U0N0pnakZzWUVUR2xFTVM5WUV0bVdQbkdid0FhWWpacl9WXzhTTG9Kb3NKQ2xDWlFIZEFwVGZHc1B6dmE3ekE?oc=5"
+      },
+      {
+       "titolo": "Sondaggi politici campo largo al 45,2% con Renzi centrodestra al 40,5% ma salirebbe al 48,2% con Vannacci",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamNCc3BpWmdBVERhYWNPZ3QxUUhlV3k2cFZoaXQyb3kzeXlBQ252SzVibGtIajVuRmNEbm13Q2xzLTdnSTF1N2o4ekpfVHNodXdMcmpBV0x3cnV1b29DS1lZRkNoSTZ2TjBDaGppcU9qRTlOamZvZHdfZmd0UGRJdWh3bDhkV1BDeTdRM1Rad19uM0U5QnNadU9NNDVDS0M2cHdwcER5ZldvU2hyZzJtTEhrVUxmeWxhWFhpU1NTanIxR1hPeVhyZmM4cGFiSHFKbGdGNFBkYUszQQ?oc=5"
+      },
+      {
+       "titolo": "Campo Largo Conte dice sì alla patrimoniale ma vietato chiamarla così asse con Rifondazione e Renzi senza simbolo",
+       "fonte": "Zazoom Social News",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHhSUVMxRjQxVTlvMjg3enB1UHBDaDZ2aUN1NXl3TTZQT0lwalA0OXBfakNkNkNzOUU5dHZPV1M1aEVsTmpGU3lMbXlJOVpHMlE1Ti1ZQjh4NUNNaWdoY19NS1VWRnN3QXpQSnVza3lfdDJZUGZQazZEcTRfTThOenpnclY5dnd3cXFuc2FjdWVUdHlJdXJrYUFkN29iQVVnNnFQRHY0NzA1WVVzaHFVT2R1bzRzMndvbldwYTdtODM5NlJjUENTRFlPXzRsaEZEVEpXamdXSS1DaW1JcmJTeVlMUFJ2UTI3VEJrVg?oc=5"
+      }
+     ],
+     "polemica": false,
+     "social": false,
+     "virale": true,
+     "citazioni": [],
+     "verifiche": [],
+     "confronti": []
+    },
+    {
      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVkt2YVJqZUxFM0xBZlU4YTU4RzRhVVBVRmplbVZidm9Vbnl4enZrckNKTzI0NUlvaWhaVTRIU0UwMVYxT0czeE42ZnV6cXhTWGVjRnVud3h5a2EwX2VyNDNOUS0wX1JsNWl6SlpVd2VXXzBxSnFHeUlJeXQzczItU3FMamo2ZlVONGhfYWs1dXR3WVVKSVdCQkRPb3ZQdmF4bFJYNWg4dENmd9IBqgFBVV95cUxQVkt2YVJqZUxFM0xBZlU4YTU4RzRhVVBVRmplbVZidm9Vbnl4enZrckNKTzI0NUlvaWhaVTRIU0UwMVYxT0czeE42ZnV6cXhTWGVjRnVud3h5a2EwX2VyNDNOUS0wX1JsNWl6SlpVd2VXXzBxSnFHeUlJeXQzczItU3FMamo2ZlVONGhfYWs1dXR3WVVKSVdCQkRPb3ZQdmF4bFJYNWg4dENmdw?oc=5",
      "data": "2026-11-08",
      "titolo": "Renzi lancia Salis alle Politiche 2027: “Guiderà i centristi e magari diventerà ministro”. Per il sondaggio di Primocanale liguri divisi",
@@ -86475,52 +86998,6 @@
        "fonte": "TerranostraNews",
        "data": "2026-11-08",
        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ydk13bW9vckQ0bnNFQTdIcHhDaE1NTW51UjBWdVM2UFpJVjhxdjV4cElOZi1nME01NklJMUpKSTZTRDV3WEJaTXNUUDVzWHk0M3FmU2V0cVU3UFRwYTU0?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWRKcmdHZmRaVWpMT2NES0VvTmxpZWRobU4ydDZfRjJhNXRIZzl0ZHFDX0VMNV9QYjNGb1VGTXpoVXRnTGNDajFGZ09lSk5yYWI0b2RWUHVxS2lyMUs0X1p0WXVPc2QySmIwZkZibDB1OVJ0SHdZSGRXXzJLTnVpendydWRyMW9tSF9uV2xFNFlRdWVhdmhpYlIzRdIBoAFBVV95cUxNR0ZRVWZ4QnJQWEpjdmRNZ3JJNW5JcnI4dGlXdU5PMXRuc21BOXgzU09oWDdDcXBuUVRvenVmNVVydVJibUcyaEhET25INjJsMEdkQS1WMzZSVGIxMXUxREdNRUh3WlU1bWtuR05CY1phdVpwWjVib1dRVHk3eWIwcXVHM2JCQWZJNmtJTVpEMlJRUms1SC1nZ2YwYnYzdDhO?oc=5",
-     "data": "2026-11-08",
-     "titolo": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
-     "testate": [
-      "la Repubblica"
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
-       "fonte": "la Repubblica",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWRKcmdHZmRaVWpMT2NES0VvTmxpZWRobU4ydDZfRjJhNXRIZzl0ZHFDX0VMNV9QYjNGb1VGTXpoVXRnTGNDajFGZ09lSk5yYWI0b2RWUHVxS2lyMUs0X1p0WXVPc2QySmIwZkZibDB1OVJ0SHdZSGRXXzJLTnVpendydWRyMW9tSF9uV2xFNFlRdWVhdmhpYlIzRdIBoAFBVV95cUxNR0ZRVWZ4QnJQWEpjdmRNZ3JJNW5JcnI4dGlXdU5PMXRuc21BOXgzU09oWDdDcXBuUVRvenVmNVVydVJibUcyaEhET25INjJsMEdkQS1WMzZSVGIxMXUxREdNRUh3WlU1bWtuR05CY1phdVpwWjVib1dRVHk3eWIwcXVHM2JCQWZJNmtJTVpEMlJRUms1SC1nZ2YwYnYzdDhO?oc=5"
-      }
-     ],
-     "polemica": false,
-     "social": false,
-     "virale": false,
-     "citazioni": [],
-     "verifiche": [],
-     "confronti": []
-    },
-    {
-     "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONHpvTncxaUtna2RVaFZGOHdENGVyLWtRMzRvZjZGWThidlNKVXdFOVI5MjVnSFloMkVMNnpfRDE2QXNQU1NqcTlHNktPbkFmTkVvZ0lOa3h3SnlPd2dKN084R2VHb25fZVlZQkhmNl9zZlhaMFdNal9QWkNtUUpxOXNBQkR6N3hEQmpWcXc2TnhQWGY4RENFLU1BakgxeG5zVkx2YkZKQzZCdWhWMzJOMWo1aXBtSnVXSi1vWl92eEVBN0lVXy1DdmoxZ2N3NmpscGJhNnRXMA?oc=5",
-     "data": "2026-11-08",
-     "titolo": "La CGIL, campo largo e Renzi, tutti insieme. Altro che ripristino dell’articolo 18",
-     "testate": [
-      "Contropiano.org: Giornale Comunista Online."
-     ],
-     "n_testate": 1,
-     "articoli": [
-      {
-       "titolo": "La CGIL, campo largo e Renzi, tutti insieme. Altro che ripristino dell’articolo 18",
-       "fonte": "Contropiano.org: Giornale Comunista Online.",
-       "data": "2026-11-08",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONHpvTncxaUtna2RVaFZGOHdENGVyLWtRMzRvZjZGWThidlNKVXdFOVI5MjVnSFloMkVMNnpfRDE2QXNQU1NqcTlHNktPbkFmTkVvZ0lOa3h3SnlPd2dKN084R2VHb25fZVlZQkhmNl9zZlhaMFdNal9QWkNtUUpxOXNBQkR6N3hEQmpWcXc2TnhQWGY4RENFLU1BakgxeG5zVkx2YkZKQzZCdWhWMzJOMWo1aXBtSnVXSi1vWl92eEVBN0lVXy1DdmoxZ2N3NmpscGJhNnRXMA?oc=5"
       }
      ],
      "polemica": false,
@@ -90374,8 +90851,8 @@
     "storie": 121,
     "polemiche": 18,
     "polemiche_social": 1,
-    "virali": 33,
-    "citazioni": 44,
+    "virali": 35,
+    "citazioni": 45,
     "giorni": 45
    }
   },
@@ -92661,38 +93138,21 @@
    "titolo": "Attacchi informatici, Piantedosi convoca il comitato nazionale per la sicurezza",
    "testate": [
     "AGI",
-    "Affaritaliani",
-    "Agenzia Nova",
-    "Associated Medias",
-    "Blasting News",
-    "Dayitalianews",
     "Espansione TV",
     "Fanpage",
-    "Gazzetta del Sud",
     "Giornale di Brescia",
     "Giornale di Sicilia",
-    "Il Difforme",
-    "Il Mattino di Padova",
     "Il Sole 24 ORE",
-    "LO_SPECIALE »",
     "La Gazzetta del Mezzogiorno",
-    "La Sicilia",
-    "La Sintesi",
-    "LaRampa",
-    "LiveSicilia",
+    "La Voce di New York",
     "Quotidiano Nazionale",
     "Radio RTL 102.5",
-    "Stampa Parlamento",
-    "TAG24 by Unicusano",
     "Tgcom24",
-    "V-news.it",
     "Virgilio",
-    "Zazoom Social News",
-    "alanews",
     "il Giornale",
-    "ilfogliettone.it"
+    "la Repubblica"
    ],
-   "n_testate": 31,
+   "n_testate": 14,
    "articoli": [
     {
      "titolo": "Attacchi informatici, Piantedosi convoca il comitato nazionale per la sicurezza",
@@ -92751,63 +93211,6 @@
    "confronti": [],
    "slug": "matteo-piantedosi",
    "nome": "Matteo Piantedosi"
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5",
-   "data": "2026-11-08",
-   "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
-   "testate": [
-    "Il Mattino",
-    "Il Messaggero",
-    "Italpress",
-    "Quotidiano Nazionale",
-    "Sky TG24"
-   ],
-   "n_testate": 5,
-   "articoli": [
-    {
-     "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-08",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5"
-    },
-    {
-     "titolo": "Hacker, Tajani: abbiamo respinto tantissimi attacchi",
-     "fonte": "Sky TG24",
-     "data": "2026-11-08",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpZTlE4UXh1RmlCVjJsTEQ5anFlcjNRblZzemZ3WmwwbnZDU0RCQkRMbFE4R08ydXhjRm84WmtxY3FDNDdOaTNWZ2pkdjc5ZkFZQjRScXI2eDFFY1FNQ0owODQxV0lEcjI5V2xLalRNZm94OEpGajVEMldrV3lsenptUUdSYnpZaXExd2Fkd0s4bjJDejFHdVV5ZE02QWtEX3MwNVR1SQ?oc=5"
-    },
-    {
-     "titolo": "Tajani “Attacchi hacker non sono episodi, c’è strategia. G7 dia segnale forte”",
-     "fonte": "Italpress",
-     "data": "2026-11-08",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmVnNzNWZU9uSjJmVUJPR0hLazByNjVlQkFsNXB0dmF0N1pXRmQ4UUlEXzhaSnppUG9lN19Vd1cxamxrSlF2S2tqQnYtZE5KZDhsa2QtYW9aNFBFeWRlUEt0QjRib3NHd3dneTF1SVVLdy1ZMmNkMXZJQlotcnEyOV9vU2NidFFqeWVXSl9IdDMyQXlSNGhaN25hOVhUQm52b2c?oc=5"
-    },
-    {
-     "titolo": "Attacchi hacker, Tajani: «Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7»",
-     "fonte": "Il Messaggero",
-     "data": "2026-11-08",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnd2OGtkanJmSXRnRm92VTRVbllMSFR2T0I1Vnl5XzZqM2xNVTNEN2VMVEtuenhVN0VQVkVIQ3RMVlJSQWFSSHY4dzQwa05BZzg0U2RsbW1kQ1g5MkJ3bUdHcGhDU2FfNTZyX2lMdElKQXFWVFdBc2pPUVJLcVQwY2kyWEhZazRIZHNla25hanAzVndVaUxiNERGSGEzR1liN1F6TnZvaWNXMHVY0gGyAUFVX3lxTE5JVEdRQ21ua05CZ1M1RnB5VWNBMlRHTlprajlQMmhicUFkRVVva2pWNEVZTzNXdUZGT2R3bjZkUWNxVUZPRjl0Mld6MXFCQWNjSnlFUmx0azF0V2hlcmJYTHdaNzZ3eTFvcTN5TzhzQlE0LVdGM1RDaWlCbXJCOEdQc0pLMDl1Nk1TYkNzRFR6dm9QTHZLZ0twOVJva3E1bmwzUXprVlZWNVFqcmYxTDVheGc?oc=5"
-    },
-    {
-     "titolo": "Attacchi hacker, Tajani: “Non sottovalutiamo il rischio, ma non ci facciamo intimidire”",
-     "fonte": "Il Mattino",
-     "data": "2026-11-08",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZElZNmY3NzRTX2ZZQkNmUmRCaDNkdE5mcVp2SHBVUXBLVGljMWt5T19SdDJvOFkxYTU1OEJkQ2QzZm1tRGloWUEwS3RXa0o0Qk53R1FGY0h2TS1hdFVxQ2U1TWJvZ1lkQzlWYW51NXJPSlpjdEJtcFZ6RDIzTFRSQVRWSjhtZE9kdlh1bGF3WW4zYVZsdndfMjNkOVZmVmJNQ3dvci15TEtDbzRqb3czMkVsTDlGQVdTdkNtYVJ5ejlDQnJua1k0akNIRnQ5Qlhua3Jj0gHKAUFVX3lxTFBYQkN2TGJFYnpHVG41OWpENmZ3aXZPZTF0azc4VVJyWXdpVVIyb1dpTXI1TXRDcmdtRV9CX1JRNXd4aEVjRGU2Z0ZZYnhqbENNa1hQbmxxMWdBemh2YzRnNGZ2Y3NUaGNPVFR4MTFTaTRfamJFWC1ycGo3ZmpTSEhVRUdZelZ2bU5HcjZtcXlTazlvN0VoT2xrRnBHYXJDY0dXOVVFell0VDFCZy0zRURhZ2JlUGJsRlJiOUZFWUxlTUxjNmpnRUFkN2c?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": false,
-   "virale": true,
-   "citazioni": [
-    "Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7",
-    "Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7",
-    "Non sottovalutiamo il rischio, ma non ci facciamo intimidire"
-   ],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "antonio-tajani",
-   "nome": "Antonio Tajani"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HaEFJOXBJQnNiZERLVjQtdmZUNzlDVGRFaXcxMDVYNHVmbmcyS3BCbVlCaVI2NnFkNHBabllzazBiWHBxWjN1NUg2NE00TDYtU3o5Ny1qVEZITlVYTkUtOXZCcUJMRDl2dFNqenV3?oc=5",
@@ -92897,9 +93300,10 @@
    "titolo": "Tajani: \"Respinti tantissimi attacchi informatici, reagiremo per via diplomatica\"",
    "testate": [
     "Agenzia Dire",
-    "Gazzetta Diplomatica"
+    "Gazzetta Diplomatica",
+    "Ministero degli Affari Esteri e della Cooperazione Internazionale"
    ],
-   "n_testate": 2,
+   "n_testate": 3,
    "articoli": [
     {
      "titolo": "Tajani: \"Respinti tantissimi attacchi informatici, reagiremo per via diplomatica\"",
@@ -92912,11 +93316,17 @@
      "fonte": "Gazzetta Diplomatica",
      "data": "2026-11-08",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVYtVlVobnNjQnRzb0FvVW5DMEh1akFmcW01SlVWRGgtcHdoX2kyQ1ZuVGVKRVNaXzRZNkw5OEszejZSSngzYkpqdE8ySU41Z19kNW5uZHpGMU50WVZfVUhqRkQ0cW8yanNCanNpWncyYVM1ZDRPS05sUmpsdjdpV2hPR25RbzV3NGNWRko1M3VfWHl1eWlxbnJfajQzX08tQmRMQTRKRmZMYmJNZEpwdFJuMXQ?oc=5"
+    },
+    {
+     "titolo": "Il Ministro Tajani fa il punto sulle misure di contrasto agli attacchi informatici",
+     "fonte": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNXzFUSDZzcFdBVE0xdndLZjNBNUpBdUdMa3JYMW11djlqT19hTDVDQTdRR1FzYTh6QlAta2xkY09JazAzUUZ0TmZvejNUNVRTWWM2SFV5STM5dXJOUlVSX21OLXFQOGphdDhzV2FTbTJSWFg2S1dseGtnVllKellSNjhoYkxNME8wSHZiQ1BvSEYtRmh1b1JTZURzVWFaMjMwVGFhZE5odVNaZUNDMklHWno0a04wMXBhUzR6V1ZLRlVRZGJIZEhmREJoYzJBbks4TUhjbWUxeHE3UGFUVVRmaS1OampIcWM2aE80?oc=5"
     }
    ],
    "polemica": true,
    "social": false,
-   "virale": false,
+   "virale": true,
    "citazioni": [
     "Respinti tantissimi attacchi informatici, reagiremo per via diplomatica"
    ],
@@ -93106,6 +93516,88 @@
    "confronti": [],
    "slug": "giuseppe-conte",
    "nome": "Giuseppe Conte"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5",
+   "data": "2026-11-07",
+   "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
+   "testate": [
+    "Adnkronos",
+    "Facebook",
+    "Il Dubbio",
+    "Il Mattino",
+    "Il Messaggero",
+    "Italpress",
+    "LaPresse",
+    "Quotidiano Nazionale",
+    "RaiNews",
+    "Sky TG24",
+    "Treccani",
+    "Virgilio"
+   ],
+   "n_testate": 12,
+   "articoli": [
+    {
+     "titolo": "Allarmi bomba, Tajani: “Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7”",
+     "fonte": "Quotidiano Nazionale",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3RiNGV3S1dlN2ZmalFxai1KdXU1QUo4X3NYVVN3MkRwbXNsTjZEN19oZDlqNV9CdGhmV1pXb1RFdVV1dVhZMW03YjR6LXJXenJNOG9Nd1dEcC1TLVcyTVUySHNWWGxObkRDLWItZ1pfV05ERzhOZ0hXNXRHSGVGOWd3bFFaUTktWDF3QzcyRGNRVjVX?oc=5"
+    },
+    {
+     "titolo": "Hacker, Tajani: abbiamo respinto tantissimi attacchi",
+     "fonte": "Sky TG24",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFpZTlE4UXh1RmlCVjJsTEQ5anFlcjNRblZzemZ3WmwwbnZDU0RCQkRMbFE4R08ydXhjRm84WmtxY3FDNDdOaTNWZ2pkdjc5ZkFZQjRScXI2eDFFY1FNQ0owODQxV0lEcjI5V2xLalRNZm94OEpGajVEMldrV3lsenptUUdSYnpZaXExd2Fkd0s4bjJDejFHdVV5ZE02QWtEX3MwNVR1SQ?oc=5"
+    },
+    {
+     "titolo": "Tajani “Attacchi hacker non sono episodi, c’è strategia. G7 dia segnale forte”",
+     "fonte": "Italpress",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmVnNzNWZU9uSjJmVUJPR0hLazByNjVlQkFsNXB0dmF0N1pXRmQ4UUlEXzhaSnppUG9lN19Vd1cxamxrSlF2S2tqQnYtZE5KZDhsa2QtYW9aNFBFeWRlUEt0QjRib3NHd3dneTF1SVVLdy1ZMmNkMXZJQlotcnEyOV9vU2NidFFqeWVXSl9IdDMyQXlSNGhaN25hOVhUQm52b2c?oc=5"
+    },
+    {
+     "titolo": "Attacchi hacker, Tajani: «Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7»",
+     "fonte": "Il Messaggero",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnd2OGtkanJmSXRnRm92VTRVbllMSFR2T0I1Vnl5XzZqM2xNVTNEN2VMVEtuenhVN0VQVkVIQ3RMVlJSQWFSSHY4dzQwa05BZzg0U2RsbW1kQ1g5MkJ3bUdHcGhDU2FfNTZyX2lMdElKQXFWVFdBc2pPUVJLcVQwY2kyWEhZazRIZHNla25hanAzVndVaUxiNERGSGEzR1liN1F6TnZvaWNXMHVY0gGyAUFVX3lxTE5JVEdRQ21ua05CZ1M1RnB5VWNBMlRHTlprajlQMmhicUFkRVVva2pWNEVZTzNXdUZGT2R3bjZkUWNxVUZPRjl0Mld6MXFCQWNjSnlFUmx0azF0V2hlcmJYTHdaNzZ3eTFvcTN5TzhzQlE0LVdGM1RDaWlCbXJCOEdQc0pLMDl1Nk1TYkNzRFR6dm9QTHZLZ0twOVJva3E1bmwzUXprVlZWNVFqcmYxTDVheGc?oc=5"
+    },
+    {
+     "titolo": "Attacchi hacker, Tajani: “Non sottovalutiamo il rischio, ma non ci facciamo intimidire”",
+     "fonte": "Il Mattino",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZElZNmY3NzRTX2ZZQkNmUmRCaDNkdE5mcVp2SHBVUXBLVGljMWt5T19SdDJvOFkxYTU1OEJkQ2QzZm1tRGloWUEwS3RXa0o0Qk53R1FGY0h2TS1hdFVxQ2U1TWJvZ1lkQzlWYW51NXJPSlpjdEJtcFZ6RDIzTFRSQVRWSjhtZE9kdlh1bGF3WW4zYVZsdndfMjNkOVZmVmJNQ3dvci15TEtDbzRqb3czMkVsTDlGQVdTdkNtYVJ5ejlDQnJua1k0akNIRnQ5Qlhua3Jj0gHKAUFVX3lxTFBYQkN2TGJFYnpHVG41OWpENmZ3aXZPZTF0azc4VVJyWXdpVVIyb1dpTXI1TXRDcmdtRV9CX1JRNXd4aEVjRGU2Z0ZZYnhqbENNa1hQbmxxMWdBemh2YzRnNGZ2Y3NUaGNPVFR4MTFTaTRfamJFWC1ycGo3ZmpTSEhVRUdZelZ2bU5HcjZtcXlTazlvN0VoT2xrRnBHYXJDY0dXOVVFell0VDFCZy0zRURhZ2JlUGJsRlJiOUZFWUxlTUxjNmpnRUFkN2c?oc=5"
+    },
+    {
+     "titolo": "Tajani: gli hacker non mi intimidiscono",
+     "fonte": "RaiNews",
+     "data": "2026-11-07",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFd4QlppWFVPT1JFcjRQcE4zZmVLX3lQRlRKSURJaDJiQm1nVXI0UjdiMHBQWjRzRmsxR0JIVjdrUXhaRjN5Y09uVjVlZzg2YWhfTTF1dGpLT0VJbER2QkVvYUNQX19WVC1yZkZGR0lxd3ktSXFUTkl5R2QxS0F6Q3lsaVU4dmRLZGhxUHF4U3plX0pJQVh0RFFRVFdUM1EweEgyVFAyU0E2X3ZjejNoc2UzVmQ5MWR0OHg5ZWE2NNIBxAFBVV95cUxQZUhHa1YtbUJSNEs0RjFzMklWX01ZU1NrOF9LWnJPXzIzS3lJY0JMczhGUGpzTFRac3I1QzV4UVR5Z1B5dHJDa0p5UUc3blNqOG9Xa21Fc1pmLXVLYXFZdnhRakRoRFIzUnVPdFpoMGxVNm50Z0RIZ2psa2cxYUoxRnROZ2tKYXI2Nm9adHpoMVdFVFZ0eWN5ZmRtZ2cwczg5dUtZa3ROUlpkOE0tLUc3dV9BQkxfX0FRTUV2ZTlrUUJPcUl3?oc=5"
+    },
+    {
+     "titolo": "Il collettivo di hacker No Name 057(16) pubblica nomi e contatti di 18 persone considerate ostili alla Russia, offrendo denaro in cambio di informazioni riservate. Tra i quattro italiani coinvolti anche il ministro degli Esteri Antonio Tajani, mentre si indaga su una",
+     "fonte": "Facebook",
+     "data": "2026-11-07",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0hnQmMtUE5iMmFEY0VZWnFQOHcxQkZSUHV3WDktY1FEa1FPXzdnVGFmb0t6Q3BpLUJISWo3dHNqX0Uwc1FHeGhyWG1WTWU0a2w4SGNhZmRxNXBSTjZBLUt6d241ZVlKSnZlY0FDSUh0YVF5NHdWdkxtWE11Ykl6TXdqTUFoRWFrWGpUMGZhRjR5M0xDSzUzUWFucVFLdFQ4NEZpbm1IMEx1c3RGSm53TFhTMklPVFBIYUVXUndoVmpqUHlUeFhza2gtWmNJbXNzdHBr?oc=5"
+    },
+    {
+     "titolo": "Hacker Noname057(16), quattro italiani \"nemici della Russia\": Tajani, il pm Lo Voi, un poliziotto e un sindaco",
+     "fonte": "Virgilio",
+     "data": "2026-11-08",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2Y4QWUwaGQzMFc2TjNDeUhOem1pLUk3d1ZWakg5QVpwd0VaN0U0MGNKOWJBdzUyNzhNODFHMklyV01YU3hEZE5SbXBxOUFLRGZ2WTRMMFV4LVdsaUxuVFRFYjVBUXpBTDgtS1N3VXZZZVZrRWV1aWc5SldSMTZ2dEZCdlVSRjltVVFfQ29KSHcyT3ZfM0RRZExjQ3BoeWlBdTlRUUR2MzVRTWtOaWdEMGlKZURON1Y4cFBMa2V0ckdheHVXVlI0LTlmZTZyWnJ5UDI2bC0wN21tMjDSAeABQVVfeXFMT1p0cHp6ZmhPNkxSTWhMRHBaQ25jVUFmdTJTRWtBQVg4aEdVZzFvX0JhTk9DLVoyNWdFemxId0l2NHVFb2FfLTJMZERia1RGekhFODhObmNGT01HRXlnbEtYeXdWNVNmVFlFclZlRnE3a3IzbXVCTU95akpOZ29qWXdEbThqc3hCNXlZY3JLcjN5LUZ4Z01YTkZHZGZQeDd5OHFuWldxSXFmdnh1RU1OcS1YZ1NsbUFoTWo4YXNRRmZZT1gxMW52NkY4cFg2WF92MkN2aWRfS1pQOS1NRUh2SlI?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": false,
+   "virale": true,
+   "citazioni": [
+    "Siamo in grado di respingere gli attacchi hacker. Ne parleremo al G7",
+    "Siamo in grado di respingerli, non ci lasciamo intimidire. Serve segnale forte del G7",
+    "Non sottovalutiamo il rischio, ma non ci facciamo intimidire"
+   ],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "antonio-tajani",
+   "nome": "Antonio Tajani"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNMlJGdmprNEJjb2VxcFVQSU1laHdpN0NTaE11dU9WTTFUR2hySDBfRXRHVzNtTHBlVGtaU3FUSEZxN0hYLW1FNUU5UTNHR0xJUllmdk5kTkNxLVJ6T2VsR3pVV2FNN3NORVNQd3U2MXBxM1Jod1BURWQzZ1BuS2lOYUZLREdtTTlNX3M1bWtsNjY3VTd5d2xvaXRhaDRfclZWeVdWUVlUQWRpMmhyVFdUYUllREF3cGh4ajY1QWhESFF1dmloZGdTOWxwYThudjV2VzhjajN3a0JtMmRxTzdtTWdZN0NpYnFFVlltMUg1X3FlUFI5UnpPamQ2MGszN0pFSVZlLWNnaE9famRJbFdEVnZ4czNMdzJMcFpEcGYtWURDOF9HYzJJX1h1SDZMSGMzUDM2X3drYkZrc1Q4R1lV?oc=5",
@@ -93359,7 +93851,7 @@
     "Fanpage",
     "Il Fatto Quotidiano",
     "Il Sole 24 ORE",
-    "il Giornale"
+    "la Repubblica"
    ],
    "n_testate": 9,
    "articoli": [
@@ -93920,83 +94412,6 @@
    "nome": "Matteo Salvini"
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2dRcldUejNVU05kX2tRUUcwb0lISnJlNlJaNUdyME9iTGlCaVRlVS1ucFEtNUMyN0NVdlFmMVMtZUJ5TWlhS2hHWkxQLVNqRXJDRm5GT2R4SXVWTjZKR2xxSTVOSndUZ2tNemsyMlBIanJPY3BLTlR1b0kyM2RncWhZcGRZZVBuTEVkSnNRUWpXRV91bVE?oc=5",
-   "data": "2026-11-06",
-   "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
-   "testate": [
-    "Bresciaoggi",
-    "FRV News Magazine",
-    "L'Arena",
-    "MilanoToday",
-    "Quotidiano Nazionale",
-    "RaiNews",
-    "Secolo d'Italia",
-    "Senza Linea",
-    "TgVerona",
-    "VeronaSera",
-    "motopress.it"
-   ],
-   "n_testate": 11,
-   "articoli": [
-    {
-     "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
-     "fonte": "VeronaSera",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2dRcldUejNVU05kX2tRUUcwb0lISnJlNlJaNUdyME9iTGlCaVRlVS1ucFEtNUMyN0NVdlFmMVMtZUJ5TWlhS2hHWkxQLVNqRXJDRm5GT2R4SXVWTjZKR2xxSTVOSndUZ2tNemsyMlBIanJPY3BLTlR1b0kyM2RncWhZcGRZZVBuTEVkSnNRUWpXRV91bVE?oc=5"
-    },
-    {
-     "titolo": "La premier Giorgia Meloni all'Eicma tra selfie e bagno di folla: \"Un pezzo del racconto del made in Italy\"",
-     "fonte": "MilanoToday",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWltRWY3WVNWRktXRkhqNldZYjdaX053bjFKcVZKRG1TbGJNT3lJb1BsSDJWNzlpUmdpcUtqZjJaRVh5a2l3a1AwZkhCZVhrWlJscWh3eE9ybFZCU0x5TFZCZTJCMk1YV0FxR3ZOenhaM3B6aVQ1NHZKQWNOanVRSw?oc=5"
-    },
-    {
-     "titolo": "Eicma, premier Giorgia Meloni arrivata in visita alla manifestazione · Video",
-     "fonte": "Quotidiano Nazionale",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVpKY1Bxb011QlZuUU9nRDJzeFZRZ2laZ0w1Mi11T0JSa3NwTGg3dDM5MWw4ODZVdEJDLVYyMGFkMFQwbDFmQTBLTHBFNkNBalpDMzE2Wl9FYS1UR0RTbHNEMjBlNE4yT0hjcXpuYjMwd1ZXdFpYSUdGdk04ZlBSeHJ5RjNXQnNidWNjU1pUYWpPRHIwYlR5UzBNQ0t5SFFoX2JEb01kZEtLRkRhNFEwOWF5WXJFYmNtcnc?oc=5"
-    },
-    {
-     "titolo": "Eicma, premier Giorgia Meloni arrivata in visita alla manifestazione",
-     "fonte": "Senza Linea",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkZhbWZoTHpMdkxqb1B4aWFESXJ6b3d4S1ZNZkNhNDh3STJaQ2lWYm8wOUxZRS0tQ0hCUzRrc2RRTGJIbnoxbGF1azB4Rm5KVEstUE1ZY3l2T1hyQnBKZ3EwcGVudVF1eWdHN2pXbjJ2NWdmQTBjZzBxWnUzMk1PNzVjQ0t2T0p2M2JpTi1XRWVoUHYxNERNeEk0a21tMUNxWk1vRkV3?oc=5"
-    },
-    {
-     "titolo": "La Presidente del Consiglio Giorgia Meloni in visita all'Eicma di Milano",
-     "fonte": "RaiNews",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0lTWEluT184dnlwQXIzMS1OVFltaUdnaXEzNWRUUUNid040VDNKOHhwbDNXZTRraXBvRmhFMXlMMXJFLThvQmxsM01DSTcwSVpFWDlOQldzUjlyU1F6YjdIZUZLcDdhRF9tNG5yRDhZUF9OUUs4eTJmTjRKSUxsS0ozUG5UU0Rta21tSkZCWWJQXzdERklqcm80ZWNoM1llcHFfVm1weTFPd0xIMHVid3Z5bENtNktuZmtGR1hn0gHDAUFVX3lxTFBXNEpJbkVNbkNzSEo1LU83NXdPWGZ1VEpDcHg3cXBsZ2V5RkQ5dlYybnJRVFVHUlQxZzA3TWhHckNuVXJiQnZiN1RSRU5RUzVZUmpNNmlKU1dUQzBqUUIzOU1ndE84T1JRSm1kOTA4SUREY3BERThOTG5IblpZR1JxRERtVkFkeHQyQUNnemd0eDFWai1BOWZHa2JXYVY2SDluanI2Z0FtejVBUXFDd3d5YVczVWpjM0hKdkVXUkh3bURSUQ?oc=5"
-    },
-    {
-     "titolo": "La Presidente del Consiglio Giorgia Meloni è arrivata nel pomeriggio a Verona, a Veronafiere, in visita a Fieracavalli.",
-     "fonte": "FRV News Magazine",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM2ktTGdlRnN5OEdqbUtlamRWWWJiMlJHWk1vVVpjS2lHV0gzVnNUOWx2aTFHZG9xbG1DXzNaXzdwUmxEMDRfcm5aTENPbkg5eE1LSWktVXVXb1lVTm9CeUgxOC1rZlhhc3k2UlRWdGx5eVpDYUhzNE03M1phWU9KSXVVYzluOFdhU1RFYlg2cmcyMk9sRHFwRVZrWXFOdVEzMmc0WGZQa2xDYmVzamYtYXZzSUF6QTdsclp1d1MwZmxvRU5FczhEWnB5b0h0RjVudk1zemUxdHluajg1SHlzNzlB?oc=5"
-    },
-    {
-     "titolo": "Meloni conquista i giovani all'Eicma: bagno di folla, selfie e cori «Forza Giorgia!». La premier tra le moto del Made in Italy (video)",
-     "fonte": "Secolo d'Italia",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXk3VEJxX2ZFbUFJSGFkdzFsZTRkU2JPNUxTUEk0Yjg1Zzg1UGtmYms3WjlEenNLd19YclRYTllYVVE4cHlxaVNMcUE1M2RWaV96Rms5MnA4OUtKTzBEbk4xRE1Zeld1S1JiSmhqVWQ1V1FGY0RHNVVqbFg5OVVUaG1LeE4ycWdpSW9lU2YzMGp3RE1CcDFSYmRmRDJobWdMbXhNMUFGMXlBTGcwdjlHeVZ4WkZhdVdQRDNsN2puNFBFclBHd2xhdHJNdnhXZ19ya25GU21Va09fVV9zSm9GNFR5eHJoZjY0aW9uZENwWFZodWVIeXc?oc=5"
-    },
-    {
-     "titolo": "Giorgia Meloni a EICMA: visita allo stand FMI",
-     "fonte": "motopress.it",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zQkRibWpEYWFkbkxNclAxZ3pGRHBPRzFDZUFiX29EYnptVXVwM3NrS2I2cFZSQlZQSkF4ZXU0d1dROHFVa2NqYUs2ZTZqYzBKODFOaHJhcw?oc=5"
-    }
-   ],
-   "polemica": true,
-   "social": true,
-   "virale": true,
-   "citazioni": [],
-   "verifiche": [],
-   "confronti": [],
-   "slug": "giorgia-meloni",
-   "nome": "Giorgia Meloni"
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTBrenBiX3pmNmp0WTY4c085R0ltdE42UGl1YU1rOWFGeU5QcTJWajZFakM0LXpzaFVVNzJRWXpaSWVUUXpkc2Y2U3JqeGY3Uk9ocjNIajFjX1kyZVhZZ2RYZmFacUM1VG9xUkVrQlo0YUgyTXFRUXhSNTBUY3lXRHh5Q3NxZERrcktBVzhDbUktWVQtRDZEOXNkQnFFYWtwNi1yMW94X01wYk9UY2c?oc=5",
    "data": "2026-11-06",
    "titolo": "Piantedosi in Calabria, inaugura il Commissariato di Diamante",
@@ -94072,6 +94487,82 @@
    "confronti": [],
    "slug": "matteo-piantedosi",
    "nome": "Matteo Piantedosi"
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2dRcldUejNVU05kX2tRUUcwb0lISnJlNlJaNUdyME9iTGlCaVRlVS1ucFEtNUMyN0NVdlFmMVMtZUJ5TWlhS2hHWkxQLVNqRXJDRm5GT2R4SXVWTjZKR2xxSTVOSndUZ2tNemsyMlBIanJPY3BLTlR1b0kyM2RncWhZcGRZZVBuTEVkSnNRUWpXRV91bVE?oc=5",
+   "data": "2026-11-06",
+   "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
+   "testate": [
+    "FRV News Magazine",
+    "L'Arena",
+    "MilanoToday",
+    "Quotidiano Nazionale",
+    "RaiNews",
+    "Secolo d'Italia",
+    "Senza Linea",
+    "TgVerona",
+    "VeronaSera",
+    "motopress.it"
+   ],
+   "n_testate": 10,
+   "articoli": [
+    {
+     "titolo": "La premier Giorgia Meloni farà visita a Fieracavalli",
+     "fonte": "VeronaSera",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2dRcldUejNVU05kX2tRUUcwb0lISnJlNlJaNUdyME9iTGlCaVRlVS1ucFEtNUMyN0NVdlFmMVMtZUJ5TWlhS2hHWkxQLVNqRXJDRm5GT2R4SXVWTjZKR2xxSTVOSndUZ2tNemsyMlBIanJPY3BLTlR1b0kyM2RncWhZcGRZZVBuTEVkSnNRUWpXRV91bVE?oc=5"
+    },
+    {
+     "titolo": "La premier Giorgia Meloni all'Eicma tra selfie e bagno di folla: \"Un pezzo del racconto del made in Italy\"",
+     "fonte": "MilanoToday",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWltRWY3WVNWRktXRkhqNldZYjdaX053bjFKcVZKRG1TbGJNT3lJb1BsSDJWNzlpUmdpcUtqZjJaRVh5a2l3a1AwZkhCZVhrWlJscWh3eE9ybFZCU0x5TFZCZTJCMk1YV0FxR3ZOenhaM3B6aVQ1NHZKQWNOanVRSw?oc=5"
+    },
+    {
+     "titolo": "Eicma, premier Giorgia Meloni arrivata in visita alla manifestazione · Video",
+     "fonte": "Quotidiano Nazionale",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVpKY1Bxb011QlZuUU9nRDJzeFZRZ2laZ0w1Mi11T0JSa3NwTGg3dDM5MWw4ODZVdEJDLVYyMGFkMFQwbDFmQTBLTHBFNkNBalpDMzE2Wl9FYS1UR0RTbHNEMjBlNE4yT0hjcXpuYjMwd1ZXdFpYSUdGdk04ZlBSeHJ5RjNXQnNidWNjU1pUYWpPRHIwYlR5UzBNQ0t5SFFoX2JEb01kZEtLRkRhNFEwOWF5WXJFYmNtcnc?oc=5"
+    },
+    {
+     "titolo": "Eicma, premier Giorgia Meloni arrivata in visita alla manifestazione",
+     "fonte": "Senza Linea",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkZhbWZoTHpMdkxqb1B4aWFESXJ6b3d4S1ZNZkNhNDh3STJaQ2lWYm8wOUxZRS0tQ0hCUzRrc2RRTGJIbnoxbGF1azB4Rm5KVEstUE1ZY3l2T1hyQnBKZ3EwcGVudVF1eWdHN2pXbjJ2NWdmQTBjZzBxWnUzMk1PNzVjQ0t2T0p2M2JpTi1XRWVoUHYxNERNeEk0a21tMUNxWk1vRkV3?oc=5"
+    },
+    {
+     "titolo": "La Presidente del Consiglio Giorgia Meloni in visita all'Eicma di Milano",
+     "fonte": "RaiNews",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0lTWEluT184dnlwQXIzMS1OVFltaUdnaXEzNWRUUUNid040VDNKOHhwbDNXZTRraXBvRmhFMXlMMXJFLThvQmxsM01DSTcwSVpFWDlOQldzUjlyU1F6YjdIZUZLcDdhRF9tNG5yRDhZUF9OUUs4eTJmTjRKSUxsS0ozUG5UU0Rta21tSkZCWWJQXzdERklqcm80ZWNoM1llcHFfVm1weTFPd0xIMHVid3Z5bENtNktuZmtGR1hn0gHDAUFVX3lxTFBXNEpJbkVNbkNzSEo1LU83NXdPWGZ1VEpDcHg3cXBsZ2V5RkQ5dlYybnJRVFVHUlQxZzA3TWhHckNuVXJiQnZiN1RSRU5RUzVZUmpNNmlKU1dUQzBqUUIzOU1ndE84T1JRSm1kOTA4SUREY3BERThOTG5IblpZR1JxRERtVkFkeHQyQUNnemd0eDFWai1BOWZHa2JXYVY2SDluanI2Z0FtejVBUXFDd3d5YVczVWpjM0hKdkVXUkh3bURSUQ?oc=5"
+    },
+    {
+     "titolo": "La Presidente del Consiglio Giorgia Meloni è arrivata nel pomeriggio a Verona, a Veronafiere, in visita a Fieracavalli.",
+     "fonte": "FRV News Magazine",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM2ktTGdlRnN5OEdqbUtlamRWWWJiMlJHWk1vVVpjS2lHV0gzVnNUOWx2aTFHZG9xbG1DXzNaXzdwUmxEMDRfcm5aTENPbkg5eE1LSWktVXVXb1lVTm9CeUgxOC1rZlhhc3k2UlRWdGx5eVpDYUhzNE03M1phWU9KSXVVYzluOFdhU1RFYlg2cmcyMk9sRHFwRVZrWXFOdVEzMmc0WGZQa2xDYmVzamYtYXZzSUF6QTdsclp1d1MwZmxvRU5FczhEWnB5b0h0RjVudk1zemUxdHluajg1SHlzNzlB?oc=5"
+    },
+    {
+     "titolo": "Meloni conquista i giovani all'Eicma: bagno di folla, selfie e cori «Forza Giorgia!». La premier tra le moto del Made in Italy (video)",
+     "fonte": "Secolo d'Italia",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXk3VEJxX2ZFbUFJSGFkdzFsZTRkU2JPNUxTUEk0Yjg1Zzg1UGtmYms3WjlEenNLd19YclRYTllYVVE4cHlxaVNMcUE1M2RWaV96Rms5MnA4OUtKTzBEbk4xRE1Zeld1S1JiSmhqVWQ1V1FGY0RHNVVqbFg5OVVUaG1LeE4ycWdpSW9lU2YzMGp3RE1CcDFSYmRmRDJobWdMbXhNMUFGMXlBTGcwdjlHeVZ4WkZhdVdQRDNsN2puNFBFclBHd2xhdHJNdnhXZ19ya25GU21Va09fVV9zSm9GNFR5eHJoZjY0aW9uZENwWFZodWVIeXc?oc=5"
+    },
+    {
+     "titolo": "Giorgia Meloni a EICMA: visita allo stand FMI",
+     "fonte": "motopress.it",
+     "data": "2026-11-06",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zQkRibWpEYWFkbkxNclAxZ3pGRHBPRzFDZUFiX29EYnptVXVwM3NrS2I2cFZSQlZQSkF4ZXU0d1dROHFVa2NqYUs2ZTZqYzBKODFOaHJhcw?oc=5"
+    }
+   ],
+   "polemica": true,
+   "social": true,
+   "virale": true,
+   "citazioni": [],
+   "verifiche": [],
+   "confronti": [],
+   "slug": "giorgia-meloni",
+   "nome": "Giorgia Meloni"
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3lES2ozQWtKRFc1ZGRrZlJHNUgyTHpielprRFVaOUZXeWNyVFFxODl5cy1RS08yVHlQcEN2cEQ3X0xnMVZxWlJzZ3p3YnpQbnFyLThMYVNxMnplUVc5cXhNZmhsRGk4ZEFZOE13WEFQdE1jX3ZuYVlzZ1IyMlhEV1duamJnUkZFaFcyYWpYV2NvM1JvWXViMHI2SmQ5Zw?oc=5",
@@ -94773,7 +95264,7 @@
     "Altarimini",
     "Corriere della Sera",
     "Dayitalianews",
-    "Eventi e News",
+    "Gazzetta di Parma",
     "Il Sole 24 ORE",
     "L'Unione Sarda.it",
     "Lo Strillone",

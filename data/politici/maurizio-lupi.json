@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-08",
-  "al": "2026-11-08"
+  "dal": "2021-11-09",
+  "al": "2026-11-09"
  },
  "anagrafica": {
   "nascita": "1959-10-03",
@@ -35,14 +35,14 @@
    "fine": null
   },
   {
-   "partito": "Alternativa Popolare",
-   "wikidata": "Q28962342",
+   "partito": "Democrazia Cristiana",
+   "wikidata": "Q815348",
    "inizio": null,
    "fine": null
   },
   {
-   "partito": "Democrazia Cristiana",
-   "wikidata": "Q815348",
+   "partito": "Alternativa Popolare",
+   "wikidata": "Q28962342",
    "inizio": null,
    "fine": null
   }
@@ -14408,7 +14408,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-11-08",
+ "aggiornato_il": "2026-11-09",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Maurizio_Lupi_Official.jpeg/500px-Maurizio_Lupi_Official.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maurizio_Lupi_Official.jpeg",

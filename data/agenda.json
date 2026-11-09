@@ -1,5 +1,5 @@
 {
- "aggiornato_il": "2026-11-08T23:24:51+00:00",
+ "aggiornato_il": "2026-11-09T06:32:12+00:00",
  "finestra_giorni": 14,
  "fonte": "dati.senato.it (iter dei disegni di legge di Camera e Senato), governo.it (comunicati del Consiglio dei ministri), Google News (titoli)",
  "aula": [
@@ -261,6 +261,12 @@
      "fonte": "HuffPost Italia",
      "data": "2026-11-05",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmE5RGlnQ3NOSVFTMk1YZnR1N3U5ckVvaTMxXzVIMExFYWZidWRPRGI0RThRY0tDMWFXd2FINlNKZXFpUWl5OEstcE9HN1ZSVGlSQ3NiR3lnQVpUdVF6MUpTMFQyNXlENl95Q3FIdmVqRjZVdHJURGFrcm1TY0hmRnFXV3RxaFhYZ1NQeVQzUUpwMEtEM05rV1BXeURVT1hrNUo2bGxJUWRoYjg?oc=5"
+    },
+    {
+     "titolo": "I tempi del DDL sull'antisemitismo: intervista a Paolo Emilio Russo (5.11.2026)",
+     "fonte": "Radio Radicale",
+     "data": "2026-11-05",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFyZVlFRVZNcWd5REpiVXlzTG8tTldheTVxUE15QU56M25iVnFTOUwyTHdVbWdGNlBsTDk2NGx3dW9RaldyOUZvQkJKZmVUX0tybTNtRTdmTnU4RXd4TWJzNktnMXU5QXNsYXE1a1lPb2ZpdUtYN2VjUktqcVNlX1hHYS1PeUQzaGpzeE16NkJrYU13NWN2THNXNmplT3NZWVV6N19VZVpXMzdw?oc=5"
     },
     {
      "titolo": "DDL sull’antisemitismo, le critiche alla definizione IHRA e il dibattito sulla libertà di espressione",
@@ -569,7 +575,7 @@
     "giorgia-meloni",
     "giancarlo-giorgetti"
    ],
-   "giorni_rimasti": 8,
+   "giorni_rimasti": 7,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 17 settembre 2026, già in vigore: misure urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, e in materia fiscale."
@@ -607,7 +613,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 19,
+   "giorni_rimasti": 18,
    "descrizione_governo": null,
    "notizie": [
     {
@@ -650,7 +656,7 @@
     "giorgia-meloni",
     "carlo-nordio"
    ],
-   "giorni_rimasti": 20,
+   "giorni_rimasti": 19,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo del 29 settembre 2026, già in vigore: misure urgenti su giustizia, funzionalità del Ministero dell'interno e impianti di interesse strategico nazionale."
@@ -687,7 +693,7 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 21,
+   "giorni_rimasti": 20,
    "descrizione_governo": null,
    "notizie": [
     {
@@ -760,7 +766,7 @@
     "giorgia-meloni",
     "gilberto-pichetto-fratin"
    ],
-   "giorni_rimasti": 29,
+   "giorni_rimasti": 28,
    "descrizione_governo": null,
    "notizie": [],
    "semplice": "Rende definitivo il decreto del Governo dell'8 ottobre 2026, già in vigore: misure urgenti per il rafforzamento delle istruttorie ambientali, la gestione dei problemi climatici, l'economia circolare e le bonifiche."
@@ -796,7 +802,7 @@
     "giorgia-meloni",
     "adolfo-urso"
    ],
-   "giorni_rimasti": 37,
+   "giorni_rimasti": 36,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-192/32836#9",
     "data": "2026-10-13",
@@ -811,12 +817,6 @@
      "fonte": "La Voce di Genova",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUlg4YzJncjZ4ZjNNYWt0TkV6SFJjWFVUTTdUUkVaQXdMMklvSVljck1pZVNHQUZEbS1ES3JIT19oelNiNnNDV1JqSnR3QUpQeDBSXzYtb3l4T2NOMmM1d1lwdDZySmxDTExPQjRYTkM3VWxueWRIOWRaQjd5Ti1sUktxTmdNcU1aUkFYanlwTUlmTmpzejFxcjR0ZjhGTlJraU9aUU05QWtNZTlhU3ZVblRnWExycTNqNUlaUFhVMGFKaVdxR2pkVVRYWERpMFM4NFlUSlFuYnN4NGNCMkUwRXBWdmJXYzNXZ0pmN3ZiWG5XQ1ZCZUgxVGd5U3ZIRW1nbWY4QmwxLVZFQXk2dFRicjBEQUXSAYcCQVVfeXFMTzR6Vnh4QWxYM25wZFlxM0k3V0hxSTZLUDNiVm1rVXNMRlhsNVdzUEhJVXBSOVVmV3FGTVpFU0hJbC1ZY2xManFXSFhieFN0Q0pHVl8zUFdJb3lfMWR0NllZNmRqN1o4WWJZWlBDU0VGNUZNTHhzUWJUSm92T3RGeE5fYXVXZ0E3TXRpSUs5UFhlNmNCQUhkRTR5TjNmOVBBRjZkdFlTM2p6QTFNa1FNNzNVRTY2VXlDMzhlZDVyeWNOcUZhN3pLT2FvdjFnYXlUQzZyb0tFNFE1Y1VfY1hfUnlRVGNscnlBMkNpc2c2X2hEMFFoY003ZVVsUWVhTWFQaHc3azVLcmM?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
-     "fonte": "Corriere di Taranto",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
     }
    ],
    "semplice": "Rende definitivo il decreto del Governo del 16 ottobre 2026, già in vigore: misure urgenti a sostegno dei lavoratori dell'ex ILVA e dell'indotto e per il rilancio industriale del territorio."
@@ -852,7 +852,7 @@
     "giorgia-meloni",
     "matteo-piantedosi"
    ],
-   "giorni_rimasti": 43,
+   "giorni_rimasti": 42,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884#6",
     "data": "2026-10-20",
@@ -897,7 +897,7 @@
     "giorgia-meloni",
     "matteo-salvini"
    ],
-   "giorni_rimasti": 44,
+   "giorni_rimasti": 43,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912#5",
     "data": "2026-10-22",
@@ -943,7 +943,7 @@
    "proponenti_monitorati": [
     "giorgia-meloni"
    ],
-   "giorni_rimasti": 58,
+   "giorni_rimasti": 57,
    "descrizione_governo": {
     "id": "cdm:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042#1",
     "data": "2026-11-05",
@@ -1208,16 +1208,16 @@
      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPV0ZvekpvUExZOURxNGZIQk1YTW5aVHo4TlJITHRLTm5GZkRDUldBNHdiNTh1Z2xTMDQ1M19VcHFUSWsxY0lia1hDMnpZZU1MREVTMHRqV0oyUS12Mi11UjlGeWQ1YjR4X29qTWxiOGlzVTZuZzdnb2lXbWNJbnQtYUg2R0xhWVhIeWNMMm5STzNNRUZ4LXk3NnVzWGxWbVRsVVk1QjdhMVBHeVlwOFk1UTNtUnZseWIxeEpNU0lBb3ViWUNJU2QxeXNGcmtIZTJDQWJobXdFY0p6S2owbDlVaTVhdHBTR1V5NktiNXJkbENKTlNDbmNXUHQyTUtVMWRaeGc5anpDTGktemUyWFRTak1JTFFWSW1VdndxY2E3UXBhN2t5UXZONE83Q2l5am9iQVE?oc=5"
     },
     {
-     "titolo": "Articolo 38 Costituzione: via libera del Senato alla riforma disabilità",
-     "fonte": "News Istruzione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYmVQYy1vS0JzTEJTZmtJcUJNam5UYXlxclFQdVplMmkzT3lIWTBHVjJPNVN0OE5xRC1pNFB0N0VmRFJzSHZvSXdJQ3ZXNmlMUFZJTV92OXZVS3VjcnkzVmVxMU9xSzNjTW8yZkppVk5Tc1ZLbG1IX3ptRzg2d1hiQ3VxMUpua29xZkhiYjVPdDFacDNJZ25BczNxcW5IbEcwOUVrdXJUd9IBrAFBVV95cUxQLUZleGZicVlaTzNvSUtoT0lsVnQ4bFRXeUFsTmpVTnM5NjZQYUFnMGxaVnU5RHpoTFNFX1VSZDIzeUxUazJpLUdVd3RzNmh2aEdVY2Rac3UwX3VXS2lfWkE4UjhQak5RZjg2ekRNclhhYndxMXBsbDA5d1VqYWRkRmZ4RmVFV0VlVTRldlNvU1dBTTd0R0FvOHVXdkJ6LVdKZFhtXzZvbnNSeUl4?oc=5"
-    },
-    {
      "titolo": "Disabilità, il senatore Gianni Berrino: \"Il Ddl Guidi riconosce dignità e diritti nella Costituzione\"",
      "fonte": "Sanremonews",
      "data": "2026-11-05",
      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOY2NHTXQ4dHhscjlwQ2Y2TzZvQ0t5dENYbWFBa1ZsV2I3cWJydHh4NG1Hdl9BeDR4MzZaN1I1MHNMVGFNMjI1dzRIaWV5cEk1aHdWbEdyUTBYTEd2dlRORTByYVk5cVJXY3R1WWNlNTNTSzVyV1dIWkVOV19Rc0ZObzNfREwyZFBiT0tDOGZrQWFMNGswT1VsOU5FbkR0b1FUZE1VUHhHMC1VRi1PdDBxcUpUM2NPMEdYM2VlZ3gyNXB1T0k1VnM2REVjVklWTGxNa0ZzTjBlV2JUZWplY1hSOHBlR3hVUndIXzhXOFowdl84Y1VkT3g3UEx3a2VaZE9Gb09KOGRFUDcydHdMa0HSAYACQVVfeXFMTy1raW5kWm5FLVRKUmpaa1c5QUtUdFVtQUFBWWRuajFjU010cW13aS1Ib2NGbm81S3cyVTNRMWJsWlM0cmlNdGQ0OE96d1NMZUVmVkZhR1R3QTFWN1ZDdTJPUEd0VHpfbUV3dVMyWnZHeXdjTHY2S2Jmdk5HekdXQmtGOURIaHFDaV96bG95eW5yYTI2U2t5bHBvc041RE9jeXNxVWRfSUVpc1hJQjNOd1JuejVsbHZQbk95V3duTlQ5UUdOeDZCT09tY3lYc09HYy13Q0JpcFNIbVBKaHJ5ZXBja2hadnZ5VVhoTm9fVy1FZndlRC0yc094dEQ5REZKVw?oc=5"
+    },
+    {
+     "titolo": "Persone con disabilità e diritti ad affettività e sessualità: \"Serve una legge\"",
+     "fonte": "BrindisiReport",
+     "data": "2026-11-02",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU1B3UVdQQ2V6UzZuVjd3c293SHFxa09qZDNlQURDbXd3MXM2UXpIQ205elk3Sk1zM1IzdjBDa1M1UmdnNV9mZTk1elJCQk5kNmQtZTVtRXFLNHhFOUJCQjFMZlpMZDIyQTFGMWdHME5EVTlUbkZZTDJPVllvZU1GLXhPV3FlLURXbzE3WDN2RV96dHcwNDFRWEZFUDZYamlZaWJYM04wZlI3dmNFNGgzMjVQY2s2clRlY1V5MC1B?oc=5"
     }
    ],
    "semplice": "Cambia la Costituzione (articolo 38): diritti delle persone con disabilità."
@@ -1620,6 +1620,12 @@
    "abbinate": [],
    "notizie": [
     {
+     "titolo": "Riforma dei commercialisti verso l’approvazione definitiva in Senato",
+     "fonte": "Eutekne.info",
+     "data": "2026-11-07",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcElGMnFGbTR3TzBKMDR2Q2xROFR2eHVCbUpHQ0pWcG1OS0NvTmtmdGhIRHowN29vTFU5SjBKTjNQZ1RGYUlIQ3ZlZkp4WlRmbFFFM1Jwc1AxYU5YWEU1bHNVeUFhVnZONUNQTWh2eE9hVW9wVy1MaHF0cENEY2x4RjI3S0lkbzRCT1VhNVN2R0Rhb1NDN1Y4bExETmNLeS0xejlEQmRLcEpjNnZPNFFxdA?oc=5"
+    },
+    {
      "titolo": "“la cassa torna in aula”: il 9 novembre l’appuntamento messinese della cassa dottori commercialisti",
      "fonte": "MessinaToday",
      "data": "2026-11-06",
@@ -1800,12 +1806,6 @@
    ],
    "abbinate": [],
    "notizie": [
-    {
-     "titolo": "Ddl concorrenza, sei proposte dell’UNRL agli atti della Camera. Mandolesi: \"Se si apre il deposito dei bilanci, coerenza vuole che lo possa fare anche chi i bilanci li controlla\"",
-     "fonte": "https://www.freedompress.it/",
-     "data": "2026-11-07",
-     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPLXgzb1p5d0hvZnNIcmd3N1JoTnJRX2pyN2RfUExXU0g2MDlqd2tjZDJNeFFONTBBNWFpc2xJQnMzbGdNd1hIbW9TcXBUQ3h6VnpxRXpjbC1TN01PdWYyQzFQd2hRbXdBUnpHOTlWSlhDclN2dU5PZ1JObnpUNVdmM05yN0pNMTNjQndCV0hQaWpCS2ZXR1pmOXhPRWF6QVV0N1NRaUdDcTVPM0lCNHNsQnczeUlPZWxSeGJCam1JNGx6cmVUOGo2NDEtSWxLUUd4X0EyUHlCTlVnaGZZWVJSY1ZXcEVFRTBibHlwWUVMM1dTUUlocTVhS0NTU0x0OGZfeWdwN2lsTzA1S1A5RVF1VHBFZmxXaXZhSVR3SWNCclI3cmxjeWd3?oc=5"
-    },
     {
      "titolo": "Adiconsum scrive alla Commissione della Camera sul DDL Concorrenza 2026: più incentivi alle colonnine elettriche e trasparenza sui prezzi delle ricariche",
      "fonte": "Adiconsum",
@@ -2972,8 +2972,8 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOXVGN1JvTUJZS29MNVJKUnNHT1J6NDJnNDRkVGVQSFZZWnF3QWJzN2JScXlvWVhqNFZJb25XOXlxVXkxa1o1VTM1T0xCNXh3S1RLQll1eWxXQnllRzNianA0MEtUYnFpV01ta2FvclREQ08yVlcwd1dLWlNhclF6bWRNcThPd2EtQjdwZVhmc0JDeHVVRjItazRzdjRFb1V5MllOQ3hqR0JkUzRfQVVuMmljZlo2WGZWLXltTnUtWnR1Zw?oc=5"
     },
     {
-     "titolo": "FDI – FRATELLI D’ITALIA * CAMERA: «FRATELLI D’ITALIA, DOMANI 6 NOVEMBRE A ROMA “L’ITALIA DELLE PROFESSIONI”: GOVERNO, ISTITUZIONI E ORDINI PROFESSIONALI A CONFRONTO» – Agenzia giornalistica Opinione. Notizie da Italia – Mond",
-     "fonte": "Opinione Agenzia Giornalistica",
+     "titolo": "FDI – FRATELLI D’ITALIA * CAMERA: «FRATELLI D’ITALIA, DOMANI 6 NOVEMBRE A ROMA “L’ITALIA DELLE PROFESSIONI”: GOVERNO, ISTITUZIONI E ORDINI PROFESSIONALI A CONFRONTO",
+     "fonte": "agenzia giornalistica opinione",
      "data": "2026-11-05",
      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQmtCMTFGcDdzaWROVWxXbTRzbWJSRGYwSjVkZ0pCNnpBcEtldDVQQnlHRVdBU21SZnRPUG1jc0VkbEY4aEVBZlhDRnJKT2FhUWNQdjhiRTNYLUFfNXozaHNHZ2M1cEtwWVRvWERjZXR2OS1fbTh3NnF1RjdvV3Ric3QtYkU1NGIwZ2FJVHpzdVJGWTN2N3hETEg0bEUzM3BPSENWUzQ0WFhhSy12WVdJcnRMckZLY2ZuU3RUTTQ2ZmFvT095TFgzUGhoaGJyQzRtLTBiMXRsN0RKZDJvb1FISEhaREVWSm4xQU5fOUFjVTc1ZGQ3V1lCSFFlc00teEx6bE9IdmFBR3g0a1psLXFNbEdrcnpPM1p5Q3FXTGhKOGtaZjJTS3kxY09VZU4?oc=5"
     },
@@ -3674,12 +3674,6 @@
      "fonte": "Tecnica della Scuola",
      "data": "2026-11-02",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0xxQTJzRGFpODBCZUFFODhXT3R2VTY5TUhOckFBVjlvUWtRRi1sOU00VGlhNmxFWUR6YmZwdTR2Wl82dEVieTFVX29XRkdBWjlxRXdvUkNNdkxaZDRWZUZRX2lrdV94OFoxSnNOQ0ktWnljWFA5WHlJNm80bzZZdGVmQXhway0xQXA1cHBxV3JKWDJmZzVLR2J6ekc5MENwS2NYWkpaTW16RkhNODc0bTFyMUJOSnpqTVI5QTg4RDJwQm4ydnI1WUY0c2JNNkE?oc=5"
-    },
-    {
-     "titolo": "Libri di testo in versione digitale, gli editori: “Rischiamo di fallire”",
-     "fonte": "la Repubblica",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjNBa0FCc2lPVDZjQTlMb08wTXZrQXZVWlJ0UUJReUdnc0QxVEhYRGZmZ0hoUjZGdUR4TlUyZ2p5VlhmemFUZ3YzTk42MGpwZ2pHX3BYSjd4eVBPZlZwamphcUI2R0lnWHM4cGE3bkRkLTBoVFNUTHd1UHN4cDZOWUt4OHNzWkpKekdmRExLSDBQSHo3cjV1OHpqS2taUzNlWW1pX2trUGwxQzZRRmluV09oOVp5V0nSAbwBQVVfeXFMT1hlMXVyVUdJYjN2aFBzMlhGaUJ3djN5TkR6SXNZOS0wMzlRQjlLWC1Xa2JyS0ktaUdIbXJJWkd2ZzRidi1qcTJuZzNZRVlMWDdTSVFTZlF4OHIxX1J2MzhER0dtVXFOMkkxUnVUYzdWdmV1OUZSMTh1Vl82UXVKdF9YbWsxdy1rOFZ4ZThuYlQtZHpWS2ZBRnU3VnpmXzJsd3RmQUNma0tuWGswRGxwamVsWVNiNVl5MUU1NHY?oc=5"
     }
    ],
    "semplice": "Cambia una legge già in vigore su versione digitale stampabile dei libri di testo scolastici e universitari."
@@ -4326,14 +4320,7 @@
    "scheda": "https://www.senato.it/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=55742",
    "prima": null,
    "proponenti_monitorati": [],
-   "notizie": [
-    {
-     "titolo": "M5S - MOVIMENTO 5 STELLE * PARLAMENTO: «MANOVRA, TURCO (M5S): NOSTRI EMENDAMENTI PER TAGLIO TASSE CON IMPOSTA SU GRANDI ATTIVITÀ FINANZIARIE",
-     "fonte": "agenzia giornalistica opinione",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONm5lam1tVUdNMEhKeFF1clJReENhUzVKTzM1bG8tVE9CZ3FzalBDUTBHM0RUdlVjOFh0QjRKaXlUTi02b0RUNjgxd25MbVRxNkhwVjk4YjUtS2RaU0ZVYllIREN6R1lxelFJWEZTU2dFbUduc0thdGxSMkV3YXpaRTUwNXZOM3FuQTh3MkZmOW13cURuR3YyMFFhZndqQTRKSE9OaEZXQ1lzVmltM3YwV3g0RjcyX2tOQ2FhSWxUZXNCaHl2Zi02em1haWQwLWxxTjVMajdEbTBYR2IwMWdRTngxYWwzWjBVVDVnUWVySF9QOHRJQ3RnTmo2QnFxTmZTWGZnbnhSLUw0a09oSFMxVjlBcXo?oc=5"
-    }
-   ],
+   "notizie": [],
    "semplice": "Riforma la fiscalità delle grandi attività finanziarie e crea il Fondo taglia tasse sulla voro e imprese."
   },
   {
@@ -4377,12 +4364,6 @@
    "testo": "Il Consiglio dei Ministri, su proposta del Presidente Giorgia Meloni, del Ministro della difesa Guido Crosetto e del Ministro della salute Orazio Schillaci, ha approvato, in esame preliminare, un decreto legislativo che, in attuazione della delega di cui all’articolo 2 della legge 1° aprile 2026, n. 48, rivede la disciplina del Corpo militare volontario e del Corpo delle infermiere volontarie della Croce Rossa italiana, ausiliari delle Forze armate, contenuta nel Codice dell’ordinamento militare (decreto legislativo 15 marzo 2010, n. 66). […]",
    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
    "notizie": [
-    {
-     "titolo": "Consiglio dei ministri 196, misure su ANAC, Croce Rossa e qualità dell'aria : rinviato il decreto energia",
-     "fonte": "Fede e Ragione",
-     "data": "2026-11-06",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONS1neDg3X1BxMlZLSFJlOEVXejZkaG1WSDBubGh1Q3ZJVmk5ZTdRLW81ejJVYkZta2wtaUpRMWxKUmlUaWliTnJkWXNBYWRoV3llTjYxTHhvNDhGVkFfQ3UxWUt6UmlIb05fdVNDLW9Kb0RIWlA3a05aa252Q1Q3ZVdyeUR6TnkwN3MwMThnYU9adDBYMUdodG9nZkJ3SWFXc09uTmdqNnhQTy10NFE2WmUtUVVkRVNrUlFneHpWWW85NXFKX2Fka3JrcFEzdDduZTVaWlBhUQ?oc=5"
-    },
     {
      "titolo": "Croce Rossa, il governo approva la riforma: arriva il nome ufficiale «crocerossine»",
      "fonte": "Lo Strillone",
@@ -4515,12 +4496,6 @@
      "fonte": "Zazoom Social News",
      "data": "2026-11-04",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME4ycnpVRXhYNGJmVi14M0lzT1A2a01ITVRUMlB2eXF1TkZJbEJEb0pVSklTVUJzakZRQVZlemNwV2t3dm9xSWZNU01vRHB5aVFveHNwMHV6UGp4dUVqMG95clZUMkVmRnFPbGdxaVBUQlpodzlZZkNCdmZMbHk1TVRSYzFaVVdIOTBIQURIRTczLXhzbGs3SjZLV1dJTmVxLU14Vm4xRmRpVG0wQVBFUWxNeEw3dw?oc=5"
-    },
-    {
-     "titolo": "Campi Flegrei Fico | Decreto in arrivo",
-     "fonte": "Zazoom Social News",
-     "data": "2026-11-04",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDFpTWVvT2t3R3ZNejY5eHBlOTViRnFSTE9vbm5iUGdqbWpmSnBZMFFoN3ZWY1JtWHBDODRMaW1TY2gzZ2t2Tkl6WWxJZGZYRG0yYTVJVEJ2WDRnalhNUjM0SGwxcTdENG5TM3hMV2hVX0pBVi1jd3VWbng2dmJreHF5YW9hdw?oc=5"
     }
    ],
    "semplice": null
@@ -4567,12 +4542,6 @@
      "fonte": "La Voce di Genova",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUlg4YzJncjZ4ZjNNYWt0TkV6SFJjWFVUTTdUUkVaQXdMMklvSVljck1pZVNHQUZEbS1ES3JIT19oelNiNnNDV1JqSnR3QUpQeDBSXzYtb3l4T2NOMmM1d1lwdDZySmxDTExPQjRYTkM3VWxueWRIOWRaQjd5Ti1sUktxTmdNcU1aUkFYanlwTUlmTmpzejFxcjR0ZjhGTlJraU9aUU05QWtNZTlhU3ZVblRnWExycTNqNUlaUFhVMGFKaVdxR2pkVVRYWERpMFM4NFlUSlFuYnN4NGNCMkUwRXBWdmJXYzNXZ0pmN3ZiWG5XQ1ZCZUgxVGd5U3ZIRW1nbWY4QmwxLVZFQXk2dFRicjBEQUXSAYcCQVVfeXFMTzR6Vnh4QWxYM25wZFlxM0k3V0hxSTZLUDNiVm1rVXNMRlhsNVdzUEhJVXBSOVVmV3FGTVpFU0hJbC1ZY2xManFXSFhieFN0Q0pHVl8zUFdJb3lfMWR0NllZNmRqN1o4WWJZWlBDU0VGNUZNTHhzUWJUSm92T3RGeE5fYXVXZ0E3TXRpSUs5UFhlNmNCQUhkRTR5TjNmOVBBRjZkdFlTM2p6QTFNa1FNNzNVRTY2VXlDMzhlZDVyeWNOcUZhN3pLT2FvdjFnYXlUQzZyb0tFNFE1Y1VfY1hfUnlRVGNscnlBMkNpc2c2X2hEMFFoY003ZVVsUWVhTWFQaHc3azVLcmM?oc=5"
-    },
-    {
-     "titolo": "Ex Ilva, risorse dalla legge di Bilancio. Indotto in attesa",
-     "fonte": "Corriere di Taranto",
-     "data": "2026-11-02",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONDZMUkVGc1RtVFhpUHJDa0hla1RoRjlkS2xSTlBwUy0yNmlQWlVLVGRWX0FVZ2ZablVrWFZuSE82WnBoamIyRlp3NXZqemhrbFE5NWhUc0N1ZVRONXR3OHdTZHZWRnVPbFRKQkFzcTdvTHVVa3lkWlVMVWhJa2F2RWhraGpGbnJ4VDBLOGtiZXJfZ0h5Yjh6M2VzMGZuLUVMTGZoaQ?oc=5"
     }
    ],
    "semplice": "Misure urgenti a sostegno dei lavoratori dell'ex ILVA, dell'indotto e per il rilancio industriale del territorio."
