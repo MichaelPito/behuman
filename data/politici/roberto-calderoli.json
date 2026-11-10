@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-09",
-  "al": "2026-11-09"
+  "dal": "2021-11-10",
+  "al": "2026-11-10"
  },
  "anagrafica": {
   "nascita": "1956-04-18",
@@ -52,10 +52,10 @@
      "mese": "2021-11",
      "camera": "Senato",
      "legislatura": 18,
-     "presenti": 111,
+     "presenti": 109,
      "assenti": 0,
      "missione": 0,
-     "totale": 111
+     "totale": 109
     },
     {
      "mese": "2021-12",
@@ -9361,31 +9361,6 @@
       "Favorevole": 35,
       "In congedo o missione": 13
      }
-    },
-    {
-     "id": "18-376-18",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-09",
-     "descrizione": "Votazione finale",
-     "atto": "S.1571",
-     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 220,
-      "contrari": 0,
-      "astenuti": 15
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=52448&sessionId=376&voteId=18",
-     "voto": "Favorevole",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 46,
-      "In congedo o missione": 13,
-      "Presente non votante": 3
-     }
     }
    ],
    "gruppi": [
@@ -9412,17 +9387,17 @@
  "indicatori": {
   "Senato": {
    "presenza": {
-    "presenti": 2919,
-    "totale": 8879,
+    "presenti": 2917,
+    "totale": 8877,
     "percentuale": 32.9
    },
    "fedelta_gruppo": {
-    "allineati": 109,
+    "allineati": 108,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 355
+   "voti_finali_e_fiducia": 354
   }
  },
  "posizioni": [
@@ -9488,7 +9463,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-09",
+ "aggiornato_il": "2026-11-10",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/RobertoCalderoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:RobertoCalderoli.jpg",
@@ -9505,8 +9480,8 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro per gli affari regionali e le autonomie (dal 23 ottobre 2022).",
-  "Al Senato ha partecipato al 32,9% delle votazioni del periodo (2.919 su 8.879); 5.909 votazioni risultano in congedo o missione.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 109 volte su 109 (100,0%).",
+  "Al Senato ha partecipato al 32,9% delle votazioni del periodo (2.917 su 8.877); 5.909 votazioni risultano in congedo o missione.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 108 volte su 108 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-09",
-  "al": "2026-11-09"
+  "dal": "2021-11-10",
+  "al": "2026-11-10"
  },
  "anagrafica": {
   "nascita": "1973-03-09",
@@ -57,14 +57,14 @@
  ],
  "partiti_storico": [
   {
-   "partito": "Lega Lombarda",
-   "wikidata": "Q2246227",
+   "partito": "Noi con Salvini",
+   "wikidata": "Q18712604",
    "inizio": null,
    "fine": null
   },
   {
-   "partito": "Noi con Salvini",
-   "wikidata": "Q18712604",
+   "partito": "Lega Lombarda",
+   "wikidata": "Q2246227",
    "inizio": null,
    "fine": null
   },
@@ -89,9 +89,9 @@
      "camera": "Senato",
      "legislatura": 18,
      "presenti": 71,
-     "assenti": 40,
+     "assenti": 38,
      "missione": 0,
-     "totale": 111
+     "totale": 109
     },
     {
      "mese": "2021-12",
@@ -9397,31 +9397,6 @@
       "Favorevole": 35,
       "In congedo o missione": 13
      }
-    },
-    {
-     "id": "18-376-18",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-09",
-     "descrizione": "Votazione finale",
-     "atto": "S.1571",
-     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 220,
-      "contrari": 0,
-      "astenuti": 15
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=52448&sessionId=376&voteId=18",
-     "voto": "Presente non votante",
-     "gruppo": "L-SP-PSd'Az",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 46,
-      "In congedo o missione": 13,
-      "Presente non votante": 3
-     }
     }
    ],
    "gruppi": [
@@ -9457,7 +9432,7 @@
   "Senato": {
    "presenza": {
     "presenti": 452,
-    "totale": 8878,
+    "totale": 8876,
     "percentuale": 5.1
    },
    "fedelta_gruppo": {
@@ -9466,7 +9441,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 355
+   "voti_finali_e_fiducia": 354
   }
  },
  "posizioni": [
@@ -9505,7 +9480,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-09",
+ "aggiornato_il": "2026-11-10",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg/500px-Matteo_Salvini%2C_2025.12.04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Salvini,_2025.12.04_(cropped).jpg",
@@ -9522,7 +9497,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle infrastrutture e dei trasporti (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 5,1% delle votazioni del periodo (452 su 8.878); 8.135 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 5,1% delle votazioni del periodo (452 su 8.876); 8.135 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 38 volte su 38 (100,0%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."

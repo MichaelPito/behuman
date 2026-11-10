@@ -245,15 +245,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 180,
+    "totale": 179,
     "camera": 54,
-    "senato": 126,
+    "senato": 125,
     "governo": 0,
     "verificate": 0,
-    "prima": "2021-11-09",
+    "prima": "2021-11-11",
     "ultima": "2026-07-29"
    },
-   "recap": "Dal 9 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 126 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+   "recap": "Dal 11 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 125 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,
@@ -4342,6 +4342,12 @@
      "fonte": "La Discussione",
      "data": "2026-11-03",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84NDBJWkJfa2dnWlpJeGJ2QnlZNjN1Q3d6VGtESEdBSGFCY2V2cEFaYWJ2YWQ0T1NFdzVwbklZbmxURXJRYXBsc2tHMDJ3YmdPUlJ0UjRqUjE3MkRWeTM0cXpyYjhnbVRzWEZ3LWZUX1FQZU84c3ZtTlZCNkU?oc=5"
+    },
+    {
+     "titolo": "Meloni ai giovani: \"Nessuno deve lasciare la propria terra per vedere riconosciuto il proprio valore\"",
+     "fonte": "Secolo d'Italia",
+     "data": "2026-11-03",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXczNVNrZnhlNDJ6OUgxRmdtT0k4dHJ1cy15aUJxekN4bDRVbmFvd1V3N3NzbXJySkFBbjU5SzF4d0cwYW5KWTlyQW9VMmZzcFE4OWZOVGFQZEUwdnlnUUJHZElsVmRTVU5TYXctYV9Qcnp4REx2UVRfM1JGZlUyU2RzcE1SaXRSRzg1RG5yLXNDeDBzZ3NoSjFZUEVGaDZlNGRhUENFbVFtRE5kdnh5OGY5SHh3djFiVzBUMkFfVkViRGo2RllSQkNRdkNYdnhrU1E?oc=5"
     }
    ]
   },
@@ -4495,10 +4501,16 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVEFfVVF5eGNkYkpiNUZMRmZ4N3Z0aGRHMkhFYUtUNzFsN1BEUFYtVTFHLU4zVHRMd3hqeTJpMUVBRjBDbDNaOEhSSlFPVlNGWFRvcHNjbFVoZ1JsVmRXOUtSeUMzeGdiQy11NDIwS1JES2gteXZhU0xSV3RLYzR4Q0NaZDdsOTU0VEp6WjdnQWRFNFNuZGlXNG9HVV9qaHJfNS15SWNCSnA5RzJOellnWU5lYzExOW8zaktQZlpEZ1dsSEpCdWVyMktsTldqSWlLU2J0YzNSeFpjYVp3?oc=5"
     },
     {
+     "titolo": "Artigianato, svolta storica dopo oltre 40 anni: Meloni annuncia la riforma della Legge Quadro all’Assemblea Nazionale di Confartigianato",
+     "fonte": "Confartigianato Cuneo",
+     "data": "2026-10-28",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSlc5WnJVQ3FmblR5MUttUVBfTWZUV2FUa3pPZEJnRHp2YzhVWXVlMjJleFJGV25CODdzZjY5bzEzb1ljOEtSTllULU5rZ1ZQUjNmS3kyV1dVczY5N0pLQzZxMVl6blNmZkZmVmI3bmEydUpfRDZzRDBibGFQaFIyMHJ5d0Y4X2hCVGdybnhYZHB2dHE2Ri1UM1VpUmNIZURZdXpJNWxWamFZNnRjVTBkQXdWV0ZqaXRMZDJyU2RrbnB3SVloeGUyc2s5WVFJTWFzSXpndjFaVmhMcTU0NVc4OHVKcGxMQ0t5WGhlX3c4bGJtWWk1amtkaXVmMA?oc=5"
+    },
+    {
      "titolo": "Ue: Meloni, approccio ideologico Green Deal ha impoverito sistemi produttivi",
      "fonte": "Il Sole 24 ORE",
      "data": "2026-10-30",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50dFZFRGQyaHNzTklKWjFBZ251VmQ4ZDlzakdIT3lGMnpqWDBrSDJRdURNVXFxWkNsNll1bFpLdnVMRGh3UWxFYWR0bXk5RzdZSW95UHkzSnBvOXZQajEtdkpUUnpheURtY2ZKYUhR?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3MDVyMmkzQ2VXaENwVUJwd3lXTG1OVGlYODJKSHZuMnM2QUNtRjdtSEpsX3hXWU1uczQtWk9aNmhKakxTWVdtTWRvZ25aZjE2QjBXNGpjSDVzMlRUdDhIZjBhaE1SMnVway1LMg?oc=5"
     }
    ]
   },
@@ -4633,12 +4645,6 @@
    "contesto": "Il Presidente Meloni al Forum economico Moneta",
    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-al-forum-economico-di-moneta/32952",
    "notizie": [
-    {
-     "titolo": "Meloni al Forum di Moneta: \"Comprendere l'economia fa essere liberi\"",
-     "fonte": "il Giornale",
-     "data": "2026-10-27",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTFibE5yMi1ydEZMaE9fRFN1TDRPZ3NtZm1DTUZRODJJQThFdzMtYkJjaF8wQ2hSSUhSOVprbFZfVUdsdWs0RG5BQnJoLUtpVWFQSU05RHZ1OTFpOXcxZ3pyM0hDT3F2UGMxU0phR1RYcTdaM0dHMFRMWC1EQWk0VTBRMkJZdHJPX2xBMHJEb0M4QlEwUmxxTnpOWEhYY18taGJFSWQyTnVvZw?oc=5"
-    },
     {
      "titolo": "Forum Economico Moneta 2026, Pres. Meloni: \"Comprendere l'economia fa essere liberi, chi la racconta offre un servizio al Paese\"",
      "fonte": "Affaritaliani",

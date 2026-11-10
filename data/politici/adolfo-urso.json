@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-09",
-  "al": "2026-11-09"
+  "dal": "2021-11-10",
+  "al": "2026-11-10"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -63,8 +63,8 @@
      "legislatura": 18,
      "presenti": 0,
      "assenti": 0,
-     "missione": 111,
-     "totale": 111
+     "missione": 109,
+     "totale": 109
     },
     {
      "mese": "2021-12",
@@ -9350,33 +9350,6 @@
       "Contrario": 19,
       "In congedo o missione": 1
      }
-    },
-    {
-     "id": "18-376-18",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-09",
-     "descrizione": "Votazione finale",
-     "atto": "S.1571",
-     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
-     "fiducia": false,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 220,
-      "contrari": 0,
-      "astenuti": 15
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl/votazione?did=52448&sessionId=376&voteId=18",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Astensione",
-     "conteggi_gruppo": {
-      "Astensione": 15,
-      "Favorevole": 1,
-      "Presidente di turno": 1,
-      "In congedo o missione": 2,
-      "Presente non votante": 1
-     }
     }
    ],
    "gruppi": [
@@ -9404,7 +9377,7 @@
   "Senato": {
    "presenza": {
     "presenti": 133,
-    "totale": 8878,
+    "totale": 8876,
     "percentuale": 1.5
    },
    "fedelta_gruppo": {
@@ -9413,7 +9386,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 355
+   "voti_finali_e_fiducia": 354
   }
  },
  "posizioni": [],
@@ -9438,7 +9411,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-09",
+ "aggiornato_il": "2026-11-10",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",
@@ -9455,7 +9428,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 1,5% delle votazioni del periodo (133 su 8.878); 8.734 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 1,5% delle votazioni del periodo (133 su 8.876); 8.732 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

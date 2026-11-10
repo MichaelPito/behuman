@@ -74,7 +74,7 @@
    "Senato": {
     "presenza": {
      "presenti": 452,
-     "totale": 8878,
+     "totale": 8876,
      "percentuale": 5.1
     },
     "fedelta_gruppo": {
@@ -83,7 +83,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 355
+    "voti_finali_e_fiducia": 354
    }
   },
   "presenza_anno": {
@@ -337,7 +337,7 @@
    "Senato": {
     "presenza": {
      "presenti": 133,
-     "totale": 8878,
+     "totale": 8876,
      "percentuale": 1.5
     },
     "fedelta_gruppo": {
@@ -346,7 +346,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 355
+    "voti_finali_e_fiducia": 354
    }
   },
   "presenza_anno": {
@@ -439,17 +439,17 @@
   "indicatori": {
    "Senato": {
     "presenza": {
-     "presenti": 2919,
-     "totale": 8879,
+     "presenti": 2917,
+     "totale": 8877,
      "percentuale": 32.9
     },
     "fedelta_gruppo": {
-     "allineati": 109,
+     "allineati": 108,
      "difformi": 0,
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 355
+    "voti_finali_e_fiducia": 354
    }
   },
   "presenza_anno": {
@@ -878,8 +878,8 @@
    "Senato": {
     "presenza": {
      "presenti": 3830,
-     "totale": 8878,
-     "percentuale": 43.1
+     "totale": 8876,
+     "percentuale": 43.2
     },
     "fedelta_gruppo": {
      "allineati": 41,
@@ -887,7 +887,7 @@
      "percentuale_allineati": 100.0,
      "voti_difformi": []
     },
-    "voti_finali_e_fiducia": 355
+    "voti_finali_e_fiducia": 354
    }
   },
   "presenza_anno": {

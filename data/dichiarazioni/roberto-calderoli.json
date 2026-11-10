@@ -7,23 +7,23 @@
   "sigla": "Lega"
  },
  "schieramento": "governo",
- "dal": "2021-11-09",
- "al": "2026-11-09",
+ "dal": "2021-11-10",
+ "al": "2026-11-10",
  "riepilogo": {
-  "totale": 180,
+  "totale": 179,
   "camera": 54,
   "parole_camera": 22926,
   "governo": 0,
-  "senato": 126,
+  "senato": 125,
   "verificate": 0,
-  "prima": "2021-11-09",
+  "prima": "2021-11-11",
   "ultima": "2026-07-29",
   "per_anno": [
    {
     "anno": "2021",
     "camera": 0,
     "governo": 0,
-    "senato": 25,
+    "senato": 24,
     "verificate": 0
    },
    {
@@ -190,7 +190,7 @@
    ]
   }
  },
- "recap": "Dal 9 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 126 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
+ "recap": "Dal 11 novembre 2021 al 29 luglio 2026: 54 interventi nell'Aula della Camera (22.926 parole), 125 interventi nell'Aula del Senato. Gli argomenti che tornano più spesso nei suoi interventi: sanità (6), fisco e tasse (4), economia e conti pubblici (3). In Aula alla Camera l'occasione più frequente è «Question time» (14 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -993,29 +993,6 @@
  ],
  "governo": [],
  "senato": [
-  {
-   "data": "2021-11-09",
-   "seduta": 376,
-   "ddl": [
-    {
-     "fase": "S.674",
-     "titolo": "Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il recupero di rifiuti in mare",
-     "url": "https://dati.senato.it/ddl/50237.html"
-    },
-    {
-     "fase": "S.1503",
-     "titolo": "Disposizioni per il recupero dei rifiuti solidi dispersi in mare e per la protezione dell'ecosistema marino",
-     "url": "https://dati.senato.it/ddl/52270.html"
-    },
-    {
-     "fase": "S.1571",
-     "titolo": "Disposizioni per il recupero dei rifiuti in mare e nelle acque interne e per la promozione dell'economia circolare (\"legge SalvaMare\")",
-     "url": "https://dati.senato.it/ddl/52448.html"
-    }
-   ],
-   "interventi": 1,
-   "id": "2021-11-09:376"
-  },
   {
    "data": "2021-11-11",
    "seduta": 378,
