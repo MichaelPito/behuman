@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1985-05-04",
@@ -12474,7 +12474,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Elly_Schlein_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Elly_Schlein_2023_(cropped).jpg",
@@ -12491,7 +12491,7 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 18,0% delle votazioni del periodo (3.671 su 20.424); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 18,0% delle votazioni del periodo (3.671 su 20.424); la mediana dei colleghi è 72,6%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 119 volte su 119 (100,0%).",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

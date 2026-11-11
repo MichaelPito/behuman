@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1957-07-12",
@@ -63,8 +63,8 @@
      "legislatura": 18,
      "presenti": 0,
      "assenti": 0,
-     "missione": 109,
-     "totale": 109
+     "missione": 90,
+     "totale": 90
     },
     {
      "mese": "2021-12",
@@ -9326,30 +9326,6 @@
       "Contrario": 18,
       "In congedo o missione": 1
      }
-    },
-    {
-     "id": "18-377-2",
-     "camera": "Senato",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "DDL n.2394. Votazione questione di fiducia",
-     "atto": "S.2394",
-     "titolo": "Conversione in legge, con modificazioni, del decreto-legge 21 settembre 2021, n. 127,  recante misure urgenti per assicurare lo svolgimento in sicurezza del lavoro pubblico e privato mediante l'estensione dell'ambito applicativo della certificazione verde COVID-19 e il rafforzamento del sistema di screening",
-     "fiducia": true,
-     "approvato": true,
-     "esito": {
-      "favorevoli": 199,
-      "contrari": 38,
-      "astenuti": 0
-     },
-     "url": "https://www.senato.it/legislature/18/leggi-e-documenti/disegni-di-legge/scheda-ddl?did=54429",
-     "voto": "In congedo o missione",
-     "gruppo": "FdI",
-     "linea_gruppo": "Contrario",
-     "conteggi_gruppo": {
-      "Contrario": 19,
-      "In congedo o missione": 1
-     }
     }
    ],
    "gruppi": [
@@ -9377,7 +9353,7 @@
   "Senato": {
    "presenza": {
     "presenti": 133,
-    "totale": 8876,
+    "totale": 8857,
     "percentuale": 1.5
    },
    "fedelta_gruppo": {
@@ -9386,7 +9362,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 354
+   "voti_finali_e_fiducia": 353
   }
  },
  "posizioni": [],
@@ -9411,7 +9387,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg/500px-Visit_of_Adolfo_Urso%2C_Italian_Minister_for_Enterprises_and_Made_in_Italy%2C_to_the_European_Commission_%2802%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Visit_of_Adolfo_Urso,_Italian_Minister_for_Enterprises_and_Made_in_Italy,_to_the_European_Commission_(02)_(cropped).jpg",
@@ -9428,7 +9404,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro delle imprese e del made in italy (dal 12 novembre 2022).",
-  "Al Senato ha partecipato al 1,5% delle votazioni del periodo (133 su 8.876); 8.732 votazioni risultano in congedo o missione.",
+  "Al Senato ha partecipato al 1,5% delle votazioni del periodo (133 su 8.857); 8.713 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 19 volte su 19 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

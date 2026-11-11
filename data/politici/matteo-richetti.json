@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1974-08-03",
@@ -12458,7 +12458,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Matteo_Richetti_datisenato_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Matteo_Richetti_datisenato_2018.jpg",
@@ -12475,7 +12475,7 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 45,2% delle votazioni del periodo (9.225 su 20.424); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 45,2% delle votazioni del periodo (9.225 su 20.424); la mediana dei colleghi è 72,6%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 186 volte su 186 (100,0%).",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

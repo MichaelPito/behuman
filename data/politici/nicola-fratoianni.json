@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1972-10-04",
@@ -51,9 +51,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 108,
-     "assenti": 129,
-     "totale": 237
+     "presenti": 107,
+     "assenti": 113,
+     "totale": 220
     },
     {
      "mese": "2021-12",
@@ -2412,31 +2412,6 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=593_4&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_592_017",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 settembre 2021, n. 132, sul quale il Governo ha posto la fiducia",
-     "atto": "C.3298",
-     "titolo": "Conversione in legge del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Contrario",
-     "gruppo": "LEU",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 8,
-      "Non ha votato": 3,
-      "Contrario": 1
-     },
-     "esito": {
-      "favorevoli": 446,
-      "contrari": 53,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
      "id": "vs19_739_014",
@@ -14316,14 +14291,14 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 12237,
-    "totale": 22307,
+    "presenti": 12236,
+    "totale": 22290,
     "percentuale": 54.9
    },
    "fedelta_gruppo": {
     "allineati": 251,
-    "difformi": 19,
-    "percentuale_allineati": 93.0,
+    "difformi": 18,
+    "percentuale_allineati": 93.3,
     "voti_difformi": [
      "vs18_736_014",
      "vs18_723_001",
@@ -14342,11 +14317,10 @@
      "vs18_602_001",
      "vs18_597_046",
      "vs18_593_017",
-     "vs18_593_028",
-     "vs18_592_017"
+     "vs18_593_028"
     ]
    },
-   "voti_finali_e_fiducia": 574
+   "voti_finali_e_fiducia": 573
   }
  },
  "posizioni": [
@@ -14464,7 +14438,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nicola_Fratoianni_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Nicola_Fratoianni_daticamera_2018.jpg",
@@ -14481,8 +14455,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.237 su 22.307); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 251 volte su 270 (93,0%).",
+  "Alla Camera ha partecipato al 54,9% delle votazioni del periodo (12.236 su 22.290); la mediana dei colleghi è 72,6%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 251 volte su 269 (93,3%).",
   "Nel periodo ha fatto parte di 3 gruppi parlamentari diversi.",
   "Su 2 temi confrontabili: nessun cambio di posizione."
  ]

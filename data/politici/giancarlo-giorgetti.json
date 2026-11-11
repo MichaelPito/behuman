@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1966-12-16",
@@ -62,8 +62,8 @@
      "camera": "Camera",
      "legislatura": 18,
      "presenti": 0,
-     "assenti": 237,
-     "totale": 237
+     "assenti": 220,
+     "totale": 220
     },
     {
      "mese": "2021-12",
@@ -2409,30 +2409,6 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=593_4&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_592_017",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 settembre 2021, n. 132, sul quale il Governo ha posto la fiducia",
-     "atto": "C.3298",
-     "titolo": "Conversione in legge del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Non ha votato",
-     "gruppo": "LEGA",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 116,
-      "Non ha votato": 17
-     },
-     "esito": {
-      "favorevoli": 446,
-      "contrari": 53,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
      "id": "vs19_739_014",
@@ -14311,7 +14287,7 @@
   "Camera": {
    "presenza": {
     "presenti": 147,
-    "totale": 22307,
+    "totale": 22290,
     "percentuale": 0.7
    },
    "fedelta_gruppo": {
@@ -14320,7 +14296,7 @@
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 572
+   "voti_finali_e_fiducia": 571
   }
  },
  "posizioni": [
@@ -14372,7 +14348,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg/500px-Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_%2801%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Giancarlo_Giorgetti_at_the_Eurogroup_meeting_-_December_2023_(01)_(cropped).jpg",
@@ -14390,7 +14366,7 @@
  },
  "sintesi": [
   "Oggi ricopre l'incarico di ministro dell'economia e delle finanze (dal 23 ottobre 2022).",
-  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.307); la mediana dei colleghi è 72,7%.",
+  "Alla Camera ha partecipato al 0,7% delle votazioni del periodo (147 su 22.290); la mediana dei colleghi è 72,6%.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 14 volte su 14 (100,0%).",
   "Non ci sono ancora abbastanza prese di posizione sui temi monitorati per un confronto nel tempo."
  ]

@@ -10,15 +10,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 709,
-    "camera": 109,
+    "totale": 708,
+    "camera": 108,
     "senato": 0,
     "governo": 515,
     "verificate": 85,
-    "prima": "2021-11-10",
+    "prima": "2021-12-13",
     "ultima": "2026-11-04"
    },
-   "recap": "Dal 10 novembre 2021 al 4 novembre 2026: 109 interventi nell'Aula della Camera (184.826 parole), 515 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (285), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
+   "recap": "Dal 13 dicembre 2021 al 4 novembre 2026: 108 interventi nell'Aula della Camera (184.691 parole), 515 interventi pubblicati da Palazzo Chigi, 85 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (341), esteri e difesa (285), energia e carburanti (216). In Aula alla Camera l'occasione più frequente è «Informative e comunicazioni del Governo» (62 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -219,15 +219,15 @@
    },
    "schieramento": "governo",
    "riepilogo": {
-    "totale": 153,
-    "camera": 147,
+    "totale": 149,
+    "camera": 143,
     "senato": 0,
     "governo": 0,
     "verificate": 6,
-    "prima": "2021-11-10",
+    "prima": "2021-11-17",
     "ultima": "2026-10-21"
    },
-   "recap": "Dal 10 novembre 2021 al 21 ottobre 2026: 147 interventi nell'Aula della Camera (81.633 parole), 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), energia e carburanti (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
+   "recap": "Dal 17 novembre 2021 al 21 ottobre 2026: 143 interventi nell'Aula della Camera (81.299 parole), 6 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: unione europea (42), ambiente e clima (30), energia e carburanti (13). In Aula alla Camera l'occasione più frequente è «Question time» (85 interventi).",
    "valutazione_coerenza": {
     "stato": "dati_insufficienti",
     "temi_confrontabili": 0,
@@ -485,15 +485,15 @@
    },
    "schieramento": "opposizione",
    "riepilogo": {
-    "totale": 322,
-    "camera": 320,
+    "totale": 321,
+    "camera": 319,
     "senato": 0,
     "governo": 0,
     "verificate": 2,
-    "prima": "2021-11-10",
+    "prima": "2021-11-23",
     "ultima": "2026-10-28"
    },
-   "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 320 interventi nell'Aula della Camera (132.674 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (140 interventi).",
+   "recap": "Dal 23 novembre 2021 al 28 ottobre 2026: 319 interventi nell'Aula della Camera (132.183 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
    "valutazione_coerenza": {
     "stato": "nessun_cambio",
     "temi_confrontabili": 1,

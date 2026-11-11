@@ -35896,7 +35896,15 @@
       "riduzione": 5,
       "aumento": 0
      },
-     "testo": "Prima dell'incarico: 5 frasi sul tema «bollette di luce e gas» con una richiesta (5 di ridurre). Prezzo dell'elettricità per le famiglie: 0,311 €/kWh all'inizio dell'incarico, 0,314 €/kWh nel 1° semestre 2026 (+0,9%). Prezzo del gas per le famiglie: 0,099 €/kWh all'inizio dell'incarico, 0,114 €/kWh nel 1° semestre 2026 (+15,3%). Leggi del Governo con il tema nel titolo da allora: 12."
+     "testo": "Prima dell'incarico: 5 frasi sul tema «bollette di luce e gas» con una richiesta (5 di ridurre). Prezzo dell'elettricità per le famiglie: 0,311 €/kWh all'inizio dell'incarico, 0,314 €/kWh nel 1° semestre 2026 (+0,9%). Prezzo del gas per le famiglie: 0,099 €/kWh all'inizio dell'incarico, 0,114 €/kWh nel 1° semestre 2026 (+15,3%). Leggi del Governo con il tema nel titolo da allora: 12.",
+     "notizie_oggi": [
+      {
+       "titolo": "Meloni all'Eima: \"Giorgetti? Firmerà pacchetto Ucraina. Su caro bollette Sinistra non ha fatto nulla\" | Video",
+       "fonte": "LO_SPECIALE »",
+       "data": "2026-11-10",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT3lhZ04tT2tlNV9iSFFIT2ZRMHFWZlRpWmpteGNYNlg1Z2EtMzFNR0FibzlkVm1PT1VleWVXamJ5VDZfLU5sbjlUaEl0YU4wS283c3o3d2JlWTZtaGNJSWc4TnVqbW15NTVVY0xwSXAtdTBIWFZnM0c5RnRWNkZpM0tvYXZqS2l0bER5UTM2N0JhR2RrYlI4MVpsdFp0T2xuWEFsZmdRTVF4Q253dGQ3V2RsSl9nb1dzUVVkcDlFREozVGFnZUtIamRHMWYxcDQ4dGsxd2xxOFpLVldBM25CRw?oc=5"
+      }
+     ]
     },
     {
      "tema": "crescita",
@@ -38064,6 +38072,12 @@
        "fonte": "MeteoWeb",
        "data": "2026-11-09",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk9ERnBmdkRIcV82SVZIZVN6OWZDVjlsZHZna2wxNHA4MFhKRXRUckZ1S0l6ZDFETEdmVDU1U0FLYmYwMXpPdDkxYUE0c1Ruc3doeFBTZnhWejFITTh4UGliWW50c3pwU3JENlg3ODZwaFRFbW1ELUhEX0k5RjFRWmI1aC0yd2JoVGFuSTdMVDlhOHE1MlRPd0Rqa01nQ05vWGRhdVQxNDJrcnVENnRjcWkxTTVQc1Vr0gHAAUFVX3lxTE1OdFNDZy1MdUp6Z05IbUJMVXJYalQ2bEtYVXVVTTlzbGowc3VOWW92Y1NvU01HMzRabFZIdUlrMFkzeUhKWnVtU1VFTW4zaUx4dG1fekZiZnJTcDl0OEtkSnc5bWFib2ZXbnFlR2EzZDdmWmExY3hOb0U1b0dBdWw2VFc3X1lzdFNYdFlaMTYxMktJc1dEdFl2blB0WXB3UUw3Y21GR2hqUnduTnpHZjJyeFBKMFVnd2tidl9UcUFYUw?oc=5"
+      },
+      {
+       "titolo": "Accise: «Il governo Meloni torna a tagliare il costo del gasolio»",
+       "fonte": "Oltre il Fatto",
+       "data": "2026-11-11",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm9MMy1SWDJCeDREbWFxLUtiQjlNRXVwRnVZaS13bk56d3FSMXlhaDJfb1lLMFJtSjlkOV9CYTYzanY1Y203QVFRc01EcDVOYlFlQmJ1ekhhMXEwa2htVDJNN0tscVBsRWNaZ3M1S1JOSXdqb0xHR3NGbmFjeDB2bVpMUzRYOXJESjdNUTlHc21Bb0RwZmNqVFNVRHNPWlMx?oc=5"
       }
      ]
     },
@@ -39966,21 +39980,15 @@
       },
       {
        "titolo": "7.000 posti di lavoro in meno nella scuola: ecco la risposta del Governo alle piazze dello sciopero del 30 ottobre. Il 12 dicembre tutti a Roma per cacciare Meloni e Valditara.",
-       "fonte": "Unione Sindacale di Base",
+       "fonte": "USB Pubblico Impiego - Scuola",
        "data": "2026-11-02",
-       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOd1Y2bGNTdGlkSi1pUmtBZ3JaUDEySFhCSWp0Z0lQRGZ6UlMxZklvME93bHk4cG5fdV9xWHk5NWFWU0FyNE1JVnlJX3J2NkZNbnR5QVhDd1M1UW5XeUZ0ZFpDRlVMTGhKRWg0dVlnZnVfc1JHbGpPaVE5U3RTTVFVa0VuWGJxbE1MdEVHV0hDbUlmV3pZNi0tU3RXVHdGN3FhQUtoZTdJTkI1LW9PZEtQRlJrXzcwNURRRmpVRTZPTWQ0dnNCLTBTSDF3bWI3cFFPUV9UR2lLdkZXVG8yMnYzUm40SFZNQTE1UEhpRXhaS3JEMXkwME5FbWEzXzlDSXpkd2o1Ym04aEdGa2kxRmJrT3NsbzJuZS1GenNqX1pjY0J6N0pJMVo0QURKaXp3eDIyTVFkdFRPczRReTA?oc=5"
-      },
-      {
-       "titolo": "Loperfido (FdI): Meloni ha cambiato l’Italia. Più occupazione, conti in ordine e autorevolezza internazionale",
-       "fonte": "La Voce del Patriota",
-       "data": "2026-11-04",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaG54UU9kLWlvczdpdVNnS0c4NlBocjhvek1NMW1FVW9FNE5vQnpsTlBZVXY2U1RhWTRZT01GZlN3Sl80VlllaFYzaWpLS19nZ2RuRlhxVHBGdDU4Y1ZrbjB0TlRxMGt4TkVBSHpXVzBaMXNFY3Jpb3FzWWw3dnlmWkRWLVlfV0toaEFpQnFtbzNsMlpMbjN0QmdZZnpzZU1heDYzS3pITGd6eVhpNnlnRXBMZmdXbHFhQ1JQdF9pLU01UFFZLWlWWC02bUZmRUFzdnVR?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQV0FYT3E3eTZucU05YVdYdHBpOURrRldadldZeFVuMDNac1NQTGxlLWlMQzBlbTY2QzFfTkliS0tBU19tdzd2NkxwTWRzTVhJb1hIbHdfVVNtSzVVWndrT29kaW1Yb0hYMFFJZlpYUnRUZEI0UC1QNy1yR2s3elVRbHBOSW9wZkVvUnE0Ti0zRG15MTBBNFZVTXdtRzRqUmwzQjQwa3NQMFA3WFdLbHdYNVcyTGx5NFZYNlF2VVhkQVhjTHRqNDcxd2U4WGpjRXRaTWJHOG42b09RaFU1VF9OM0N2Q3JIRmdyOEhFWGNOSWo1aDRJUlhtTzhwWnlIZUtFelZpQUJESVdxWXl2b1pUSEt1Rk5tRkNtTGI1R21HZzRqMjItbFIxSWI2cjJSTU52TFBHRGtKdDlZc20tbGg4?oc=5"
       },
       {
        "titolo": "Electrolux, Meloni commenta l’accordo: “Passo importante per tutelare industria e occupazione”",
-       "fonte": "Il Saronno",
+       "fonte": "Il Groane",
        "data": "2026-11-04",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdE9wc0ZKdEtybmloT2JEdWI1eUFmNU5UcVlPR2NVUlhORU5aYUt0YzJXTFQtTXJJVlBUVmd1TE5iOFkxVkJGVktBTEMwakt0dUlleUxGenk2RTVqem9xYWd0UXcxcFBscTVtNllISWYzV0t5SFJMa0Q4NEViSkU2LWJpQTRVNDNLVU0tLWhBR2V5OEpQNXNNZVVRbHpZb1h4MDFyWlVDblJEdFBnUW93Nk9DMlpBT1BLNjUwU0tqVdIBxwFBVV95cUxNNFJrMU5tSnp4WGEyRVJmT09BdUNuNmdiNkRrQU9VSUdBRVcyNUh2RHR2SlV2US13NnkzY0dpS2p1dGlBUzJLcTE1bXFRU0hFOUt3UjU3a284WnBJRmRzbWJYV1JmVldyWWdzeVQ0Q2txSk1sOUZKX0I2RkZBTnZIUlpFZWU4QVNLelhkWmItbHJzZUEyTlVoVGdTc201RDRfM0ROZUNBMGh0Q0IwdU9NU1RVbWRiUmtCN3docmE3MjkwS2dnWjI4?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG5EUXBfd2UxZ0lWZk1HblZjWVUyajhDbFYxaE1Ra281WGlNWXA3dmdFYWdtUFN3VlNoNXhoSzdFZEMxTjBMa3NRRExvQ1Z4dlNLZVJTR0pwbHJsaVM1dmNDdjhCdUt1WGpsRldRUHdtemg0NDhtTHVPSnJRVkM2bVhoOG51WE84c1V3enRQbGNSdW9WWDBaTlBvbHpPMl9WUmtTbUYtUkRFSWpMTEJtcmlfSEFFUmRndXfSAcIBQVVfeXFMUERwb21zZ2U4U1ZzX3YyelNqR1R4a0MwVHNlTGpUbkZhdl90SkVtS0hKdmhNMXdKMHpsWV8tV1FBSTNvcmU1c0VLVUhBOFVkZnVoUV9wbjMtQ041LVRIRmEyX213aDJXUXdEMlk1LWQ1cnhPMmljX3JQUDFEV2ZVckVwTkdTbkxja3BoQVl5Z3ZTQ3hKZV8ydGRZOWJuV3U4MFZrTDQzUkFHNkZlYzh0ZFQwNUxrUGVWbjZ5VFhmTTlSN0E?oc=5"
       },
       {
        "titolo": "FDI - FRATELLI D'ITALIA * CAMERA: «LOPERFIDO (FDI): MELONI HA CAMBIATO L’ITALIA. PIÙ OCCUPAZIONE, CONTI IN ORDINE E AUTOREVOLEZZA INTERNAZIONALE",
@@ -40576,24 +40584,6 @@
      "testo": "Prima dell'incarico: 1 frase sul tema «inflazione e costo della vita» con una richiesta (1 di ridurre). Inflazione (prezzi al consumo, sull'anno prima): 9,5% all'inizio dell'incarico, 5,6% a ottobre 2026 (-3,9 punti). Leggi del Governo con il tema nel titolo da allora: 4.",
      "notizie_oggi": [
       {
-       "titolo": "Meloni a Manfredi: sul carovita ok dialogo ma con tutti i sindaci",
-       "fonte": "la Repubblica",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanBaLVROaG12S09wNU9LNF9SaHR5SUNlYXhZV1VFMFB3NGZ6U2lDanlMa0JHNDJac2J5b3lqbEFaM0c5NXlEcUNWZl95U2E5ck5ReFJLNnlJZEltYTBuUUt6YWlvS1FONUVEbjRuSFdCRmU0b3VoclNOeExBWHZlVmNmaGwtYldRODdyb29uellrbEFJM3oyRTJUU2RvcVJHSXB2Y3BSVUl2RWxaUTlQbDlpVWVWTUdHMzl6YVpueXI?oc=5"
-      },
-      {
-       "titolo": "Sul carovita è scontro Meloni-Anci",
-       "fonte": "il Giornale",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tR1VGQ255aVRlQXRrOGRWdm5QbEtjX2V1NnZYbzJVd1prRzRoaW1abGowZ2lSaklVeWVtd3ZvU0g5X1pYWlhQLU5VRlpPUmM1aEpoY3NGbTh6eE9NbHN5NGF1cXVOWkJvQ1JxUHNBSFBhZTBiZXRHM2dwVENlSzg?oc=5"
-      },
-      {
-       "titolo": "Carovita, Meloni – Manfredi, ok al dialogo ma con tutti i sindaci",
-       "fonte": "Canale 21",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWRfdmFiWnhiZm1ERDhwaU9iOG00WmJFWnU1d2o5OUNjTnZFeG9iVURQWVM4cWxtcWtueWJycm1BcUhNMW0yX2FQR0NRNVFQelF5dUJja00wUk4zNU9JamM2TjdyVTJMS0YzS2w2UjlrOWtHMmZ1ZXRuVFZRTGd6ajM1RWFialhUQklTdWJpWQ?oc=5"
-      },
-      {
        "titolo": "Meloni sente Ursula sull’inflazione. Al pranzo dei leader i timori sullo Stabilicum",
        "fonte": "Il Messaggero",
        "data": "2026-10-28",
@@ -40610,6 +40600,24 @@
        "fonte": "Calabria News 24",
        "data": "2026-10-29",
        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0RmZW9NYS10V0UyU0FuSVFWOUd4dE9KMU95djA2VGt1dGo1N2Nqd2NqTHBxN05YbHVXSWRGVW1BMzJYNGNxZzZWWElIYVdEVDFnVkxUcW85WFR3NG52cVI3cV9QSV9JQlpMWXdHTnd2Qno1QXpuUHRWZ0lHQ0s3aDQxMUZkYVdNVHo2NGdYTjJ4UldibnlqbEk3SzNyXzIwb2NiU0hPMjYzY2hPc0k5aU9tQ0xTY0xUWUM1dGtpTmM4TGhfNGp2UERVM0tTYzlSMjNiZVNB?oc=5"
+      },
+      {
+       "titolo": "Il Pil è fermo e l’inflazione vola, ma Meloni attacca il Green deal",
+       "fonte": "Domani",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVVnNlpIWGN1eHBJUjU4bGlNeENWNFd3eGtWRWlzS214UGdpYWFMam41eDM1bXRxZ09tQkM0bWU0VldjNmZFaGtFbk5pSEFpSDBWWUx1T3FhbFlZcE1DYnZFNHM3MG95MEZhZ3h0Q3NBZGtUaE83SWVOaXdSNnh2bzgzd3NEUkVabkpvanhTX2xIdGN4RDh0cWIzb1lEUQ?oc=5"
+      },
+      {
+       "titolo": "A Genova sciopero contro carovita, Nivoi (Usb): “Meloni pensa a repressione e non ai salari”",
+       "fonte": "Media Duemila",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGs5OGNkbmNlTmZOVnNCQ3I3Q292ZmdnbnFxM01iMzZDRWhVUjN0ZFdQaWFOZHhvamk4NTRTeEhWZnFnMFFUZ3VMT1k4SlNVUkxBVEh3YVM4NFUxb0xVdWI0cm4tbXdIWTFyakFURlZ3TUVCZm0xdWgzRXIxbTlzbUFwdjFsSDVoRldkZHR3cW1zTTBnYWx6S082QWlsYktHeHBlMlZ1Um9zaHI5Z2FYaTZ3?oc=5"
+      },
+      {
+       "titolo": "Fiume di gente al corteo pacifico contro la guerra, il carovita e il governo Meloni",
+       "fonte": "TrentoToday",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlA1NjNRLTRDLXBXWXM5LTQ0cldyYXdiS19ZbnRDalprOTVobmJrRDJJdmVwd2hMMVpoY1ZMb2hVZDNqWGZLT1ZtY2Jseml4dkNETDV4Z0I4NzRjUEtLeENYYW96N0VFNDIwYWxrYk16Q0FRc3ZtTTVfS0JaVk9RczV3N3pmbWVhVzVPNi1kNlo5cENyQm9kcw?oc=5"
       }
      ]
     },
@@ -41010,28 +41018,28 @@
        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkNMTk5fV1M2eGVJZEhRVURVVzVVblQ0bkQwRVRZNW00RW9FU2kycEU2RVZXTHNKUTBENjZuY0VEc0RNNS1IemwxOXdtWVZyanVoWGNvcGVNdEw3NTVZNHpFNXB2QTI1bWlIN2Y1ZW5KVDJNZWJkNnZHSDBQQU5LQnJBUDgtYTFsQVhIaVN1ZUhwTDlrVjJ2ZVM5Vl9LX2pKMnZUQ2RtT0tBdWxoamZrQ05YaWxHYW9IZFotMEtNLXZhOXFyTWlsaXc4MmFCOU0?oc=5"
       },
       {
-       "titolo": "Meloni alla convention sul terziario rilancia la svolta sulle bollette: ce l'abbiamo fatta, ora giù i costi per famiglie e imprese",
-       "fonte": "Secolo d'Italia",
-       "data": "2026-10-28",
-       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUnNMbTVTTDhGRlhFWVVUNXlxajU3d202WS1WOWNEdDlHRFd5anl1M1BuWmpIMWxLNERTc3ltclRKZ2xxTXd5Z04xdEs0dzNubHhNbUFiTXlzdHR4anBOR0JRLXBrNndYMGdIbXBIVXhraUY1YWcxeHdOT3ViMEFseW1zWFRDNnBmNkliNVh5Zk5QdFh6RFpHdDA1aU5GTFY3RFhxRzEwMGFoZUFVLWUxRF9mR3J0S0R3Nk1ZZ2drVXg3Mk4tSzBxWkxUUkQtMWpmMGo1TFRXdlItVWN0dXpZS3VtQlo5cW9UVjRJeE41WEVsaWhPVlFkaw?oc=5"
-      },
-      {
        "titolo": "Giorgia Meloni annuncia l’intesa Ue sul decreto bollette – LMF",
        "fonte": "LaMiaFinanza",
        "data": "2026-11-01",
        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2lFZUxwcUZPRVBmYnk3WnBWSE5XZDFqemhTSTVVZWtqXzllWDZROG9jWUtlbnVwcHdSa0xOMFZhUHpUclpLS2pUN29jV3N4YVFmLWFEelZ6QkpEVkRndGtNWDhWeDdEMFg5OHFPdkgwdmxVWGtMSDAya0RISE5ST0RKcGlublRKUWhxdEZJSVVZa1ZoQk9R?oc=5"
       },
       {
-       "titolo": "Meloni a Rho e Verona. Rinviato il decreto bollette",
-       "fonte": "Tv2000",
-       "data": "2026-11-06",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTjFEUk1JX1RZUHdDeV9VS0J1b250bnVQZlRhcl90ZDdlWDZ0NVpvcGJEVk8zV0U5OXJjWDNqWjhQd1JIaFFsc2pSZmRiRTY1ZU9nYjhBTlEwczVFNUZnLWxpc0FFWWI5SWZDbEM2Zk1URmJVNzlQWUsydWFVa3JSUnpVMmlrdkVnSEVObnFMRQ?oc=5"
+       "titolo": "Dl Bollette approvato, da gennaio taglio di 15 euro a megawattora. Meloni: «Difendiamo i cittadini, scontentiamo i produttori»",
+       "fonte": "Corriere della Sera",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNFpGT18waUxyVkdJVEs1TXFORHVKUkg4dV9lUGVJV1YzaVdySXZSNVBQSnZ1dlZveG9uUHBsMFNiNk5SVHhTaG85LVlrY0tVcEJpbmpjZ1RBNHVLNk14TjU2T0lqVC1qYnU1MGI2RGh0cU4xVVI2OEVoc1A1Tk1nblZZNjYxbHdKRHd3NFBHcTRBaXhXMEVYSkxKYkR3ZHg5cG9Vd3dlVWhBdlBKTVB4aWJyRDQ1SlZHZVRoS180ZmEzQWhGSUtvSTE2WXlPMWsxcXBBZzRlQVFVSHN2RWlIU2R30gHnAUFVX3lxTE9NY0RNWVAyNjJOWURJbUJOWnRZUFhDZzdlY3MwWWxVdGZBcU8yT2tXdW43TjJodzV0U0IwTjZoZWprNzJqQUlGRXFUMDFZMWxSdi1yNm95aFgxdEMtSkh1c0pmWWZha1Y0XzNxT1h3d0RMOUg5THlrVUpfdXo5QktXZWVYeXNpMWVsQWRyaHdCeTY3Sm9DMTNBd2g3YTVtTDluUE5CNXlMUE1SZU1vQWdVNVROSGNja2piX2k5akhCcjZIZzVmT2E3QzRwN2pOVzlOVEtEVFZFUzdfRHdGOFJJY1JwU3p5MA?oc=5"
       },
       {
-       "titolo": "Meloni in bolletta, lite in Cdm su fine vita. Salvini: “Così perdiamo”",
-       "fonte": "Il Foglio",
-       "data": "2026-11-06",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0ZBRjd2bnRGMVpxMlJiUnNRZ09FbUhFNHRsNlhUVzhwUmhXM29EX21OZTlWUFNGSzNzQmJLWF8weTlQZmFOOTJHR1ZmTEp2YVQ1UGoyZzUybDJOUTk5LTJrc2VTcS1lQUlYcGpHOHc2eXNoRnlpcU9vdG44TWdTWjFjVy1YQTZXclEzUFhsNEFYOFdkRHdxN3dXc3Z1V0E1bHo2bVRrcDRtYlJScXdhZTZqcnZDUnR0eVFxSnJYSQ?oc=5"
+       "titolo": "Dl bollette, Meloni: difendiamo interesse cittadini anche scontentando rendite elevate",
+       "fonte": "Askanews",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2ZRajJpU2c5UHNJTHUtSGdXUG1heUZDTm5tRm5OQTFVa3JfZ1dxSTlITldHWGF6MWdqeU5HVUt1MjBoazN2bHdQZ0N5SWtkNlRrSzlXZm9aLUF4c1podUwtcV9qUG1XWDF5bzhFeU40VjRmOGpsQlMzQUpJMkFPNkc1UWFKWEpfZ2RETnByNkJjQjZBY0lDbGI5YXQtc053MGUxZDh3MDl0VEFNZERPbmhQeXpkNkk?oc=5"
+      },
+      {
+       "titolo": "Decreto Bollette, Meloni fissa il tetto al prezzo del gas per 18 mesi ma il risparmio è di 17 euro in un anno",
+       "fonte": "Virgilio",
+       "data": "2026-11-09",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORkp4RG5CUjlkX0pWYk5wbXUzX0o1US1jdkpQTHJiV2o4azktcm9pSTRqTG9fSTBOUHlPTmFmSnQtQjBUU0E4VVFhSWh4QjdBNzlYeEE3Q0lfUDgxYjBXQ3ZDbEdJa1VBZWNDRzVYeVB3VXhmNlZTUnJRYU0tNF84dVBsXzJfSUZoUjhPUE5PQ09ha0hXM08zTVFnTWZsOUhYOV8wcU03SFc5TzNOOVF0dWh0US05d2l6b2pPeHJubUhueEdCMk5uejVOVHRUZzFMQUFwWU9VaXJYWWt4SWtkbEJ30gHnAUFVX3lxTE44a1NhY3RZczJEUU1PTEVXaWR1RFMxWjlYOUdqcVpiYzJ4Sk5EZUs2c21FVFVjbEV0MUVOaUM3TlQxbWJCbXpLT0I5WlIxSEVsME9zeVN2RlZsQzE4ZGV1U293dlF0MVlZN09PSm9VOFlaVTdXVXdvNG1jRF8xdTFuT3A0dzRBMmNHTUllV3hRX21TcXhBNENvUnpnVlUwWjJoWFBfNU1sbkJidDJCaUpmYS1QUm5mbm53V0F0SGNqc0VBdmRBaWRhdEZoQ2dYWkl4bDA2dkxfQWVzQVpqY0hOTEhUZkdYNA?oc=5"
       }
      ]
     },
@@ -46954,28 +46962,10 @@
      "testo": "Prima dell'incarico: 2 frasi sul tema «prezzo dei carburanti» con una richiesta (2 di ridurre). Prezzo della benzina alla pompa: 1,698 €/l all'inizio dell'incarico, 2,001 €/l al 2 novembre 2026 (+17,8%). Prezzo del gasolio alla pompa: 1,883 €/l all'inizio dell'incarico, 2,238 €/l al 2 novembre 2026 (+18,9%). Leggi del Governo con il tema nel titolo da allora: 1.",
      "notizie_oggi": [
       {
-       "titolo": "Caro carburanti, Salvini snobba la protesta di taxi e ncc sotto al Mit: chiesto un nuovo incontro",
-       "fonte": "RomaToday",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1ctM1V3ZExzT0xJZmxkOGhMZ2h2R2hXZDJPc2VmU2c5dkI3XzN1bFhIR2FmakdfZGcyYUdLMGRMX1ZscjZMQVVhZmlGTUc3b0pTRzJtamhHUHBRRU9Ub2NQWE9PM3pQYXM1M3dDWVpUWVViU3ZVR2tsclppSldWQzdVa1JhaEZwTzlwWEUtV28?oc=5"
-      },
-      {
-       "titolo": "Caro gasolio, Salvini apre agli interventi per l’autotrasporto",
-       "fonte": "Orticalab",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXdqSzhaRFdXVEhiSUozYVNrY1NoSXNldEo4UzZ3LWRmUXg4VllSR3dSaXdzQ2dGVVJrd0UxV01aY085d1duby11WHE0OUs1WWxvckc3cm5aWkx0eFNQOEY0c28yMXh1RWpGWGRRVFVpLVZ2ZEg2WDN6d2poaUVqYUxlYXlNX25tdnNwbUxkOA?oc=5"
-      },
-      {
-       "titolo": "Opposizioni al Senato, Salvini riferisca in Aula su caro carburanti e autotrasporto",
-       "fonte": "ANSA",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ1lxUDRTcm1Od3ZQd05YMkFUWGExbmhIMU41cEpSNW9CZnBqN29HYkpqWF9GRnJrSkhLSkltNWdVczNmeXh0STZLNERDUEQzM21xTS1ySTZxQ29fQ09RZmVFeU8td1dOUFczaWlvR2FCWnNDWkVLbEpzX184OGtSaGxiSVRyVVVJMXlGQzVHYnVHVkNwRTRtUjRBaW1tR29xZmdpOTRUUG1RWk9oLTBxYzdKTEdua05hOVJUV3h5OTBWNlNFNThPa1JrTEV5Zk5nMlZiaTVoRFhfcG14d1NkRldvWUs1WjNtRFphcHRPWXZTanAxSTRoUzZkc2R0bThiLThQM3R5bzd5cFpsRGfSAZMCQVVfeXFMTmw5Tk9OeEhBRHlkNlNfWFB4U3lKdGYwWHZPemhZU1lWeGI3bDRvWC03ZmFyeENIWUNjMDBNME5kV19lOG5URkwzektCLVo1QnJXak03U0wxQWtjOENYY1pqS2hxb3NLMGZLR1NlMXRxcHM1U013elNaYm04Z0Nyam10TjN5MlhCejhhdDNLbTV5WVhPb3VuTlpKNWZKT3U2NEoyWGFTaEFQLVhhM3lXakl5MnRDc1NPZHl3M0FRa1JTUWh1VGF6dWppUGRhMVJDWnVJa04wVnZsa2JJMW9xMXZ2YlF6dHRfUE9rc29wckFPNnE2ZERBcW9JSWloVVlycGJfZTN0Z3poTVdMSUd5ci1iWlE?oc=5"
-      },
-      {
-       "titolo": "Caro carburante, il braccio di ferro tra autotrasportatori e governo (appoggiato dai sindacati) tiene in ostaggio il Mezzogiorno: le briciole di Salvini e il manganello di Piantedosi",
-       "fonte": "Il Riformista",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNTdaLVE1bE5ISHhwUEJnQjJ2UGFZWDlzTmZBUVpyZHNQU2VUOEV4ZWNBNHN3MjlPcDYzN1Jram5sLVMzcmFVNWVCV09mQ2JrcExBWVU0Snd4SHIzUHhpOUJfaENsamVkRTUzU1VPT19CUFFuTTN5UXdiZXNMODFPTXlsWERjTjJsSTJneHpnMWU3M25qYVdvNGlZQkZHRTQ4eEMwUlNzME5zaWE3RWtaRTJVRWhUNkpjZFF0b1U1MUpfb25rYURZLU80Q1VpX0M4M1Nuek5maGpSLUw2VHJQUjFxazMzZ0dQcDNzUDFaRXdmWTZnYU5hM1pfRFp5ZVF4Ym5ZeFZIMXZnOEt1WVhsY1owbU85ZXg0M0diRDlNb2dBTDM4Tnh5NTR0aWtLNWxOSm51NVZhSm9VUQ?oc=5"
+       "titolo": "Caro carburanti, Pais: «da Salvini risposte per garantire continuità territoriale. Ora agisca la regione",
+       "fonte": "Algherolive",
+       "data": "2026-11-10",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFh1TXhKLUxoMjl2RDA5WGJ5b3REdjBIYmF1YV9QY1NkNFl5WHpwN205Zjk4WnBoajlJejZTR3hzUHQyc0VrWDAxekU1VEU1YkxWbk9qcDR6UXlWQnYxTjVBQ2JnUWJRcDZ0R0FPRl9yM29PUVBzTXE1eTExd1U0SVpuY20tQzdTMXdTZVUxUEZXUm40RldkOXJSdVp2NDhMbWRjV3BqNnNhcDVNQ3BKY21ZOXAwTjFyMjc4MV9LY2FhQ3JfNWRFRWc1UHk2dEk1?oc=5"
       }
      ]
     },
@@ -47271,9 +47261,9 @@
       },
       {
        "titolo": "Targhe personalizzate, Salvini: «Non è una priorità, ma possono portare soldi allo Stato per tagliare le tasse»",
-       "fonte": "Corriere Adriatico",
+       "fonte": "Leggo.it",
        "data": "2026-11-01",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGFiS3ZzOW5rZG9KbWJLVDlQUWFocjJ5WHdITGVBY2d1cUUxLU5qMXA5MFZxS194eG41bnBvT3lPMlFXbDVTMzJZTy10RVhVbnJ0cTFPRmtyWUJwVVNCbnZIb284Q2hFN1NhcFFSa2Y1WHhnQU5QXzE1ak9EQld0QVpXTTZKS1NZRF9lalBhMF9HR05oTEd3d3ZGV0U1VHlmNE13U1lCU1RfYlMxWDR4RDBONFZIYWJGcHY4aFJtNV9fY0Qza1ZGMUFxUzdTc3BfZW5Vag?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOODBCa1BaR3BEcnFSVTZMVllJSVREUWctRzRYNW1FenNUak5rVUtlWXUySnVDcFhRVElqS3h4T1A1YVJLcEROV1h3Y0lqM3piUWY5Q0RsNmJOQXZENDJBcjM5d2pqd2s4blpsb0ozQUF2RXpUSHlCMEdqUGs1MGtwbjVEcWwyV1h0TUxUNzdia2w2cE13dEhVN0UwUThfZTFuaW9WWW5rTU11ZlVic2NUMWtucTB1cmUtYWRJOF9XWEkzelNKOXJhX2JOT1RTcHZsblVJaThfS0cwNFRBRlBLbQ?oc=5"
       }
      ]
     },
@@ -48002,40 +47992,40 @@
      "testo": "Prima dell'incarico: 1 frase sul tema «pensioni e legge fornero» con una richiesta (1 di abolire o eliminare). Nessuna legge del Governo con il tema nel titolo da allora.",
      "notizie_oggi": [
       {
-       "titolo": "Pensione a 64 anni, Salvini: 'Fiducioso di superare la legge Fornero con la Manovra 2027'",
-       "fonte": "Sky TG24",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2M0V3VON09jRFFQSWQzcWg0TkUxNGR0TWhic0FWT1JsNnQ3YVVJY3dmdjZzeEZkZElNNzctcjJPZDVFZDR5TlZhLUlVcHZOUjJ4WUtnUHBRb2M1Ri1OcHpjeWswSDBOTGg1b0dMVXVJZ0FoUXdQM05qNUVkLVFPa2UwNlZ3YUdTSnZ1bTNURTk3dw?oc=5"
+       "titolo": "Manovra, Salvini: Soddisfatto di superamento della legge Fornero e flat tax per le partite IVA",
+       "fonte": "Il Mattino",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUZDM3dIZkFYdHNKeklRVWo5OUVqVFVjV1dqZlJCVWZzYTFiUWQ2SV9YVVIxMm1LVjVsenpMQ0gxOHVDRVlpbVBPSVE5N0Y1bm1mTDF5ZTBhX2VvZVdNTmRxbjRBOXdfa2FUcUVqOGs1ckFacjVaWUtBOGw1ZTJzYVhEYUkyTFhIWDhzcXhQZ3ctRHo4WVFFdk92VWxKdVNNNno2eWE5U2tqSE1kbUFPUXY1UlN0STAxcGpKdm9IdEhyZXA5RjUtTGo4ejZ0VlpVRW9DNEUxUEMzWDlhMGRiX9IB1wFBVV95cUxPVlJSZWk5VExpZXV3eC1zSXhrenFQdFUwWG5mcVBybEFQMUhwelBuODVPV201RS1mLTZDRkI3R0h2ZWw5Tld4RERoalM5bXRNbnFtYTdfckpPYU54OUJXSy1xWXZ2TlFqNHJHLUppMFEycVJlVnUycU5lMHRtWkRPMFhMYXhsNlFfQ051MlRJQUFQbEJJNm43QXg0QnFqY0NSZGdENFVDRk85WUpiRUpPSFl3MVR6S19PNG5xUlF3cGlUQXVMVzVqLUZuOXZhZ2o4QWZGYURqUQ?oc=5"
       },
       {
-       "titolo": "Salvini: 'Fiducioso di superare la legge Fornero, pensione a 64 anni'",
-       "fonte": "ANSA",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYjNhWmpmbEpWeURMOHRLNDQ5NzNHc1lKRVdVWmtLYjV5WlhPTU5wMDI5VVEzMXFrQ0NaU2lwXzlSQl9wNDRVOWdnUnJLZ3BfRjEzY1U3SkprSDRMM1dnR3I4Nk9GRmRqdzQ0dUlKWjg4aVZKbURQazhpVFAyRExvdjlEYkZ2M2E3X0xGdkM4YWRuVzQ2WU95Y1J2UEtRRVM4aWp5bUdVYUdXSG5vZ2gwWlV2QkdlY1VRc05JZlhKdzFlZGg1VVhvYzd6dkt5aXhJNGo2eEJfOXpxUFVFa1hVV3RBRy1vNlBiSUR4a1oxM05lQdIB9wFBVV95cUxQTVNMeUlmM2FacFI1VDY2bnltT3RBb2EwaGNDUHdZSV9kTnFwaUUtRnEtLWhmMzNhaTF6aUxXOTQ2aUhITm95N0MtRjVrNzN3WFE3b2Z4cHhXWHVvTHRYS2l1MXBtSm54SFRuZDNjWHcyWGhwTGVjWFB1cVJFaEJTWFVhT09uUjl5d015aTB0MzhpaDRGYXRLeWs3Wnhad0NLRFh1VW0zeURkSnFQMjRrMXlqb05fTFN1Q1ozUk5ORFEtUkRyelpnYjRPRGZzR191NTdNYmRFa1dRN2ZrUVBZMFpkdzVGb1FkZTJ4dV9rb2lxb2ZBWTZZ?oc=5"
+       "titolo": "Salvini: \"Stiamo lavorando per superare legge Fornero, in pensione a 64 anni\"",
+       "fonte": "Il Giornale dei Castelli Romani",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa2dYeDllbGZhS1VkRkxXYjVJX2hoQ1U1b3N3YlVBVzJhV3NVT29WSmZWQW1jejRkLURVNG1MamtwSmlKNlFZSlQzQThBYkhOOF9WSGR0WHFTa2I0MEFlQ1NxZVJmVUNhR0RkdWdaNzdTbk9rcU50cWhCY3FlZjV2RjROUHlEX0JNaXNNb3E0R1lkM2F3Q0FOTlVHZXZsdzJPLXhfcUtrQVFwU3JWRWRjVjd0LUNNazg?oc=5"
       },
       {
-       "titolo": "Manovra verso il Cdm di mercoledì. Salvini: «Abbiamo accordo e risorse per superare la Fornero",
-       "fonte": "Il Sole 24 ORE",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdF9YTnNDaFNiV0c3U3dRdVRMTjc5eFRCNnZjbVRhQk9lTnpLaTNNV0plczZ6c0JIWXdwdEdieng3TVY4LUc5VkpBVUVzdWJlLTZLNEtITzdRZ3FxaTV6OTVRcEQwVWFIRndRZVAzb1F4TGxWRWxIVXBwRDQzREdrejUta3pQX3FXMlZ5LUpJRG14NWgtM0gyb1haYjM4RGVjR1dKdGVsWnc2dw?oc=5"
+       "titolo": "Pensione a 64 anni, Salvini: \"Fiducioso di superare la legge Fornero\"",
+       "fonte": "Positanonews",
+       "data": "2026-10-28",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY05pSExHVGxRR3ZBTHNwOXR1RXZDdFd2a19yQThHLU1kMnRUWTNjd00taUpXWVZEbm5udXlrNjBNZzVyWUtLcFRvSmNHM0JCOFhXQ0dOeHJvTUc4VzJvRGEtbUpNWldtMmlCb0N5LXk5ZmhfOUUzQXQ3OWE2UTdKZ3pYN21RVlFDS1RvVDRmM1ZOTEVMY1A5SnpDUmlWRTd3djU3MVFreHFsMklqbEdN?oc=5"
       },
       {
-       "titolo": "Pensioni a 64 anni: cosa c’è dietro la sfida di Salvini alla Fornero",
-       "fonte": "SoldiOnline.it",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXBKc3podUxERmMzNVlwcTBFaWxPVU5CUkRSSnpCa0hCX1lXQlJuZ1dRZGlrVnMzRHBNYWU4cnloc1hKTkZ0MVVIYm42U3RIU3BVbmw1RF9PQmpNZEZ3NG5sTjhkcXRuUm5HQ05VMDhVTlBrcGZlLXlTLU85Vk1PaVVnVlhZcUNOeXdGQVBnZ0ozb1N3ZVpCU2ppLU8yeFYtN2tNN1YxZ3JvOEl5Y0pDWHdWUHJVTmFSNThF?oc=5"
+       "titolo": "Pensioni, Salvini annuncia l'uscita a 64 anni dal 2027: \"Superare la legge Fornero, tre anni di vita restituiti ai lavoratori\"",
+       "fonte": "NewSicilia",
+       "data": "2026-10-29",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORlNtWmhZLUtZNlVaRlMtNkU3N3VON3htdGgzTXhVUERHajY1UVNrcFNZdFRrSU4zVDJLMXBrVEdSMmozQXY1TGJHU0FvT1RFbWxLUFpmeTlmck5FeVBLTVRvQV83R2ZzVXlhVzUyY2w5UDBFRjd5M1VMekwxZlp4V0xRcm1VeHg1bmNWdTlkdWd0Z29YWlJ6eFlNUU0ySGN1VWsxeXVHZnZudUFPN1ZBbkxZLU9ybGJYTWtfVkFDLXNtT1ZFZkVEcDF2OVBORWxvQUh2MkFCSndZUllJVmxVT1hRT0N6YVFaWEpuc0g2RnBfS3BGcmktSGVCQQ?oc=5"
       },
       {
-       "titolo": "Pensioni a 64 anni, Salvini ci prova con la Manovra 2027: \"Superiamo la Fornero\"",
-       "fonte": "Adnkronos",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpPc1lWVUwxUzY3YjNBZXNuRzVRYmowOFpjMlBfb1d3bnFZcGtrQ2hQcFZWU3RuWHM3V1dzOW9wVmRoRncxaEFJSXF2cmxNZ19Da29QcmhPNV9pR09SUDVXRFJXTFdWZC1ZaFZZbnY2bmtEM1ZxYkR5YUI2aWpJcnUzM3RwWDVoVFFReDB2Tk1EbHN3ZE5rQjJhQ2ZPRDJTNTR2bmNVeDhKMk5kTU80UA?oc=5"
+       "titolo": "Elsa Fornero e la nuova Quota 100: «Una misura sfacciata e ingannevole di Salvini»",
+       "fonte": "Open",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kaXdDcHlPMDFmaDB0OFAwNU0wMjVxQ2pxeUtXQWpHMm92Wl9hSU5zcUxVbzhsdUswLVM3akVtb3UwaVh6Z1A5MnpCejRXVDJfU0JyTnI1WWtnYk8wY3JlcWdsSXJyYmdDRUo0eWV5NnBjcDZ0bEstdm53?oc=5"
       },
       {
-       "titolo": "Manovra verso il Cdm di mercoledì. Salvini: «Al lavoro per superare la legge Fornero»",
-       "fonte": "lmservizi.it",
-       "data": "2026-10-27",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGdKbk9Well4SkwwanNadE05WEh2WkZDQ1lBbm9pNHMzb2RyS05BeUNDVzBjOXhUVzBuSnl1NFM2eXZFQ01TUlhETjdhRElCbUY3em1LejVOdHVDNTZVNGJQSkhxMFlSSV8xRlpWekRpN1JlNEVCbG80SE9FdkhMajlpS0dtN2xyRDF2OHdCaTRLdXllR1g0MUplejFpX1Z5bGROZ1N2RVVyaTZa?oc=5"
+       "titolo": "Pensioni, Salvini: avviato percorso per archiviare legge Fornero",
+       "fonte": "Askanews",
+       "data": "2026-10-30",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcVFqbzNvTnV3X1ZDb2ZNeTk5WTlYTDRKQkV6WWFlR2lsOE1WcGlaZ1FEOHZZZXcyMzJySENMTU1hUlBFVkJaTkJrYkpzOGlwOENnRUxfS3dVeTUzVUs0cDk0Y1RxcjB0bzYtbnQ5OTEwM1o0SS1hZ0lNQXA1RUpTVWJWMmZPM3VBRTNiOFF4aURWWU1rdTBxMy1B?oc=5"
       }
      ]
     },
@@ -49602,7 +49592,7 @@
        "titolo": "Salvini pesta i piedi a Meloni, sconto mini in bolletta, la Russia sbeffeggia l'Italia e le altre notizie da sapere per iniziare la giornata",
        "fonte": "Today",
        "data": "2026-11-10",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJ4RnRuOWxxcE5jemZLbkFTUTBIOGZoZk5DcnFxTUEyR0w2UmJEQjVRYkpMTWJ5N29sdGNhZldxb1N4SWVMLVZKVVI3VjlqMjlfZmxUOF9oanVtWUxlVFVOV3lNWHFTZDF5cXV2WEE3VVZtSzZSWGI4Mm42SDY0bF9wb9IBgwFBVV95cUxNWDBsU2g4R29haTREdEtNczVLd1FnMUxmQ2VDM1Z1dDRrbmVtaWpCc1A3a0xEcU1WMm80VWt4amsyQTVER0ZTckNhWlhTQTRjUVEzbkZsQi1MZGxsY25FOTVySVpCLTZTcFlpYm9tREVYdlJxQ1JhWi1UbDBYeXc3cGY1cw?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDBsU2g4R29haTREdEtNczVLd1FnMUxmQ2VDM1Z1dDRrbmVtaWpCc1A3a0xEcU1WMm80VWt4amsyQTVER0ZTckNhWlhTQTRjUVEzbkZsQi1MZGxsY25FOTVySVpCLTZTcFlpYm9tREVYdlJxQ1JhWi1UbDBYeXc3cGY1c9IBgwFBVV95cUxNWDBsU2g4R29haTREdEtNczVLd1FnMUxmQ2VDM1Z1dDRrbmVtaWpCc1A3a0xEcU1WMm80VWt4amsyQTVER0ZTckNhWlhTQTRjUVEzbkZsQi1MZGxsY25FOTVySVpCLTZTcFlpYm9tREVYdlJxQ1JhWi1UbDBYeXc3cGY1cw?oc=5"
       }
      ]
     },

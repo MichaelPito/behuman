@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1981-01-24",
@@ -57,9 +57,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 3,
-     "assenti": 234,
-     "totale": 237
+     "presenti": 2,
+     "assenti": 218,
+     "totale": 220
     },
     {
      "mese": "2021-12",
@@ -2403,30 +2403,6 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=593_4&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_592_017",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 settembre 2021, n. 132, sul quale il Governo ha posto la fiducia",
-     "atto": "C.3298",
-     "titolo": "Conversione in legge del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "IV",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 23,
-      "Non ha votato": 4
-     },
-     "esito": {
-      "favorevoli": 446,
-      "contrari": 53,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
      "id": "vs19_739_014",
@@ -14296,19 +14272,19 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 7878,
-    "totale": 22306,
+    "presenti": 7877,
+    "totale": 22289,
     "percentuale": 35.3
    },
    "fedelta_gruppo": {
-    "allineati": 164,
+    "allineati": 163,
     "difformi": 1,
     "percentuale_allineati": 99.4,
     "voti_difformi": [
      "vs19_197_061"
     ]
    },
-   "voti_finali_e_fiducia": 572
+   "voti_finali_e_fiducia": 571
   }
  },
  "posizioni": [
@@ -14410,7 +14386,7 @@
   "nota": "Partito non misurato dal Chapel Hill Expert Survey"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_Elena_Boschi_-_Festival_Economia_2016.jpg/500px-Maria_Elena_Boschi_-_Festival_Economia_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
   "pagina": "https://commons.wikimedia.org/wiki/File:Maria_Elena_Boschi_-_Festival_Economia_2016.jpg",
@@ -14426,8 +14402,8 @@
   "sesso": "F"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 35,3% delle votazioni del periodo (7.878 su 22.306); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 164 volte su 165 (99,4%).",
+  "Alla Camera ha partecipato al 35,3% delle votazioni del periodo (7.877 su 22.289); la mediana dei colleghi è 72,6%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 163 volte su 164 (99,4%).",
   "Nel periodo ha fatto parte di 4 gruppi parlamentari diversi.",
   "Su 1 tema confrontabile: nessun cambio di posizione."
  ]

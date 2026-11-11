@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1968-03-18",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 109,
-     "assenti": 128,
-     "totale": 237
+     "presenti": 108,
+     "assenti": 112,
+     "totale": 220
     },
     {
      "mese": "2021-12",
@@ -1991,30 +1991,6 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=593_4&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_592_017",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 settembre 2021, n. 132, sul quale il Governo ha posto la fiducia",
-     "atto": "C.3298",
-     "titolo": "Conversione in legge del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "PD",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 83,
-      "Non ha votato": 11
-     },
-     "esito": {
-      "favorevoli": 446,
-      "contrari": 53,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     }
    ],
    "gruppi": [
@@ -10528,17 +10504,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 880,
-    "totale": 1883,
-    "percentuale": 46.7
+    "presenti": 879,
+    "totale": 1866,
+    "percentuale": 47.1
    },
    "fedelta_gruppo": {
-    "allineati": 32,
+    "allineati": 31,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 79
+   "voti_finali_e_fiducia": 78
   },
   "Senato": {
    "presenza": {
@@ -10670,7 +10646,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Francesco_Boccia_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Francesco_Boccia_daticamera_2018.jpg",
@@ -10687,8 +10663,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 46,7% delle votazioni del periodo (880 su 1.883); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 32 volte su 32 (100,0%).",
+  "Alla Camera ha partecipato al 47,1% delle votazioni del periodo (879 su 1.866); la mediana dei colleghi è 72,6%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 31 volte su 31 (100,0%).",
   "Al Senato ha partecipato al 75,5% delle votazioni del periodo (6.359 su 8.423); 451 votazioni risultano in congedo o missione.",
   "Nei voti finali e di fiducia ha votato come il proprio gruppo 237 volte su 237 (100,0%).",
   "Nel periodo ha fatto parte di 2 gruppi parlamentari diversi.",

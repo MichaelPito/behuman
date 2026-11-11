@@ -7,21 +7,21 @@
   "sigla": "+E"
  },
  "schieramento": "opposizione",
- "dal": "2021-11-10",
- "al": "2026-11-10",
+ "dal": "2021-11-11",
+ "al": "2026-11-11",
  "riepilogo": {
-  "totale": 322,
-  "camera": 320,
-  "parole_camera": 132674,
+  "totale": 321,
+  "camera": 319,
+  "parole_camera": 132183,
   "governo": 0,
   "senato": 0,
   "verificate": 2,
-  "prima": "2021-11-10",
+  "prima": "2021-11-23",
   "ultima": "2026-10-28",
   "per_anno": [
    {
     "anno": "2021",
-    "camera": 4,
+    "camera": 3,
     "governo": 0,
     "senato": 0,
     "verificate": 0
@@ -65,7 +65,7 @@
   "categorie": [
    {
     "categoria": "Ordine dei lavori e procedura",
-    "n": 140
+    "n": 139
    },
    {
     "categoria": "Leggi e decreti in esame",
@@ -281,7 +281,7 @@
    ]
   }
  },
- "recap": "Dal 10 novembre 2021 al 28 ottobre 2026: 320 interventi nell'Aula della Camera (132.674 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (140 interventi).",
+ "recap": "Dal 23 novembre 2021 al 28 ottobre 2026: 319 interventi nell'Aula della Camera (132.183 parole), 2 dichiarazioni scelte e verificate da un fact-checker indipendente. Gli argomenti che tornano più spesso nei suoi interventi: giustizia (53), unione europea (46), sicurezza e criminalità (36). In Aula alla Camera l'occasione più frequente è «Ordine dei lavori e procedura» (139 interventi).",
  "valutazione_coerenza": {
   "stato": "nessun_cambio",
   "temi_confrontabili": 1,
@@ -316,20 +316,6 @@
   }
  ],
  "camera": [
-  {
-   "data": "2021-11-10",
-   "leg": 18,
-   "seduta": 592,
-   "argomento": "Si riprende la discussione del disegno di legge di conversione n. 3298-A.",
-   "fase": "Ripresa esame degli ordini del giorno - A.C. 3298-A ​",
-   "categoria": "Ordine dei lavori e procedura",
-   "ruolo": null,
-   "gruppo": "MISTO-A-+E-RI",
-   "sunto": "La motivazione non è quella di favorire un referendum o un altro referendum, tantomeno di entrare nel merito del quesito. […] La motivazione era evitare che ci fosse una disparità di trattamento fra diversi referendum promossi nello stesso anno; nello specifico, di evitare che un referendum, il cui quesito fosse stato depositato alla Corte di cassazione il 14 giugno, avesse tempo per raccogliere e depositare le firme…",
-   "temi": [],
-   "parole": 491,
-   "url": "https://www.camera.it/leg18/410?idSeduta=0592&tipo=stenografico#sed0592.stenografico.tit00100.sub00020.int00300"
-  },
   {
    "data": "2021-11-23",
    "leg": 18,

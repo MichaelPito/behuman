@@ -11,8 +11,8 @@
  "attivo": true,
  "attivo_fino": null,
  "periodo": {
-  "dal": "2021-11-10",
-  "al": "2026-11-10"
+  "dal": "2021-11-11",
+  "al": "2026-11-11"
  },
  "anagrafica": {
   "nascita": "1982-05-08",
@@ -42,9 +42,9 @@
      "mese": "2021-11",
      "camera": "Camera",
      "legislatura": 18,
-     "presenti": 137,
-     "assenti": 100,
-     "totale": 237
+     "presenti": 123,
+     "assenti": 97,
+     "totale": 220
     },
     {
      "mese": "2021-12",
@@ -2392,30 +2392,6 @@
       "astenuti": 2
      },
      "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=593_4&tipo=dettaglio"
-    },
-    {
-     "id": "vs18_592_017",
-     "camera": "Camera",
-     "legislatura": 18,
-     "data": "2021-11-10",
-     "descrizione": "Articolo unico del disegno di legge di conversione del decreto-legge 30 settembre 2021, n. 132, sul quale il Governo ha posto la fiducia",
-     "atto": "C.3298",
-     "titolo": "Conversione in legge del decreto-legge 30 settembre 2021, n. 132, recante misure urgenti in materia di giustizia e di difesa, nonché proroghe in tema di referendum, assegno temporaneo e IRAP",
-     "fiducia": true,
-     "approvato": true,
-     "voto": "Favorevole",
-     "gruppo": "M5S",
-     "linea_gruppo": "Favorevole",
-     "conteggi_gruppo": {
-      "Favorevole": 119,
-      "Non ha votato": 39
-     },
-     "esito": {
-      "favorevoli": 446,
-      "contrari": 53,
-      "astenuti": 0
-     },
-     "url": "http://documenti.camera.it/apps/votazioni/votazionitutte/schedavotazione.asp?Legislatura=XVIII&RifVotazione=592_17&tipo=dettaglio"
     },
     {
      "id": "vs19_739_014",
@@ -14329,17 +14305,17 @@
  "indicatori": {
   "Camera": {
    "presenza": {
-    "presenti": 8328,
-    "totale": 22307,
+    "presenti": 8314,
+    "totale": 22290,
     "percentuale": 37.3
    },
    "fedelta_gruppo": {
-    "allineati": 206,
+    "allineati": 205,
     "difformi": 0,
     "percentuale_allineati": 100.0,
     "voti_difformi": []
    },
-   "voti_finali_e_fiducia": 574
+   "voti_finali_e_fiducia": 573
   }
  },
  "posizioni": [
@@ -14448,7 +14424,7 @@
   "fonte": "Chapel Hill Expert Survey, file trend 1999–2024 (Jolly et al. 2022; Rovny et al. 2025, Electoral Studies 97)"
  },
  "note": null,
- "aggiornato_il": "2026-11-10",
+ "aggiornato_il": "2026-11-11",
  "_foto": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Riccardo_Ricciardi_daticamera_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
   "pagina": "https://commons.wikimedia.org/wiki/File:Riccardo_Ricciardi_daticamera_2018.jpg",
@@ -14464,8 +14440,8 @@
   "sesso": "M"
  },
  "sintesi": [
-  "Alla Camera ha partecipato al 37,3% delle votazioni del periodo (8.328 su 22.307); la mediana dei colleghi è 72,7%.",
-  "Nei voti finali e di fiducia ha votato come il proprio gruppo 206 volte su 206 (100,0%).",
+  "Alla Camera ha partecipato al 37,3% delle votazioni del periodo (8.314 su 22.290); la mediana dei colleghi è 72,6%.",
+  "Nei voti finali e di fiducia ha votato come il proprio gruppo 205 volte su 205 (100,0%).",
   "Su 1 tema confrontabile: almeno un cambio di posizione su quel tema.",
   "Su «Autorizzare la cessione di mezzi, materiali ed equipaggiamenti militari all'Ucraina»: a favore il 17 marzo 2022, contro il 24 gennaio 2023."
  ]
